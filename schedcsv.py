@@ -15,7 +15,7 @@ else:
     filename = "sched.csv"
 
 # quick and simple template for the output for the schedule book
-template ="""<event><title>%(name)s</title>
+programbook_template ="""<event><title>%(name)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(description)s <duration>%(duration)s</duration></blurb></event>\n"""
@@ -33,6 +33,10 @@ extrainfo= """
 <hours>%(hours)s</hours>
 <minutes>%(minutes)s</minutes>
 """
+
+calendar_template="""
+"""
+
 # replace all function to help with the clean up
 def replace_all(text, dic):
     for i, j in dic.iteritems():
@@ -82,7 +86,8 @@ def ampmformat (hhmmss):
   if (len(ampm) == 0) or (len(ampm) > 3):
     return hhmmss
 
-  # is AM? from [00:00, 12:00[
+  # is AM? from [00:00, 12:00]
+  print "ampm " + ampm[0]
   hour = int(ampm[0]) % 24
   isam = (hour >= 0) and (hour < 12)
 
@@ -104,7 +109,14 @@ def ampmformat (hhmmss):
 
 pconsched = readInCSV(filename)
 
-fields =  ["event_start", "event_end", "name", "event_type", "venue", "speakers", "description"]
+## 2012 fields
+#fields =  ["event_start", "event_end", "name", "event_type", "venue", "speakers", "description"]
+
+## 2013 fields
+fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters",	"Book Description",	"All Day Event","Private"]
+
+## fields needed for google calendar
+calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
 
 sessions = [] # list of sessions...empty so far!
 speakers = [] # list of speakers...empty as well. imagine that
@@ -120,28 +132,77 @@ for index, x in enumerate(pconsched.schedule):
         fieldtext = pconsched.schedule[index][pconsched.headerdict[field]]
 
         # separate the time and day into different variables
-        if (field == "event_start"):
-            session['startday'] = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
-            if fieldtext[-8:] != "nt_start":
-                session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
+        
+        ##start day and time assignments
+        if  (field == "Start Date"):
+            session['startday'] = fieldtext
+            #print fieldtext
+
+        if  (field == "Start Time"):
+            if fieldtext != "Start Time":
+                session['starttime'] = fieldtext
+                session['event_start'] = fieldtext
+                print fieldtext
+                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['starttimeampm'] = ampmformat(session['starttime']) 
             else:   
                 session['starttime'] = "event_start"
+                session['event_start'] = "event_start"
                 session['starttimeampm'] = "starttime am/pm"
-        if (field == "event_end"):
-            session['endday'] = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
-            if fieldtext[-8:] != "vent_end":
-                session['endtime'] = fieldtext[-8:] 
-                session['endtimeampm'] = ampmformat(session['endtime'])
-            else: 
+            
+          
+#        if (field == "event_start"):
+#            session['startday'] = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
+#            if fieldtext[-8:] != "nt_start":
+#                session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
+#                session['starttimeampm'] = ampmformat(session['starttime']) 
+#            else:   
+#                session['starttime'] = "event_start"
+#                session['starttimeampm'] = "starttime am/pm"
+                
+
+        if  (field == "End Date"):
+            session['endday'] = fieldtext
+
+        if  (field == "End Time"):
+            if fieldtext != "End Time":
+                session['endtime'] = fieldtext
+                session['event_end'] = fieldtext            
+                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
+                session['endtimeampm'] = ampmformat(session['endtime']) 
+            else:   
                 session['endtime'] = "event_end"
+                session['event_end'] = "event_end"
                 session['endtimeampm'] = "endtime am/pm"
-        # remove the beginning portion of http and mail links
+                
+#        if (field == "event_end"):
+#            session['endday'] = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
+#            if fieldtext[-8:] != "vent_end":
+#                session['endtime'] = fieldtext[-8:] 
+#                session['endtimeampm'] = ampmformat(session['endtime'])
+#            else: 
+#                session['endtime'] = "event_end"
+#                session['endtimeampm'] = "endtime am/pm"
+
+        if  (field == "Book Description"): 
+                    session['description'] = fieldtext
+        if  (field == "Location"):
+            session['venue'] = fieldtext
+        if  (field == "Presenters"):
+            session['speakers'] = fieldtext
+        if  (field == "Title"):
+            session['name'] = fieldtext
+        if  (field == "Track"):
+            session['event_type'] = fieldtext
+        ## remove the beginning portion of http and mail links 
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
             subend = fieldtext.find(">",substart)+1
             fieldtext = fieldtext.replace(fieldtext[substart: subend], "")
 
+        ## this is clean up below was required because the sched output 
+        ## included some html symbols and tags which would not have looked
+        ## good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
         reps = {"&nbsp;":" ","<br />":"","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
@@ -150,18 +211,29 @@ for index, x in enumerate(pconsched.schedule):
         temptext = replace_all(temptext, amps)
 #        temptext.replace(os.linesep, " ")
         session[field] = replace_all(temptext, amps)
-        if field == "speakers":
+
+#        if field == "speakers":
+        if field == "Presenters":
             testtext = fieldtext.split(', ')
             #for x in testtext:
             #    print x
-
-    if session['startday'] ==  "event_start":
+# this first one is a for the first entry which is intentionally dummy data
+    if (session['starttime'] ==  "event_start") or (session['startday'] ==  "Start Day"):
         session['duration'] = "duration"
         session['hours'] = 0
         session['minutes'] = 0
         session['totalminutes'] = 0
     else:
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][8:]),int(session['starttime'][:-6]) ,int(session['endday'][8:]) , int(session['endtime'][:-6]), session['endtime'][3:-3])
+        print session['name']
+        print "start day " + session['startday'][6:]
+        print "start time " + session['starttime'][:-3]
+        print "end day " + session['endday'][6:]
+        print "end time " + session['endtime'][:-3]
+        print "end minutes " + session['endtime'][3:]
+        print "event_start " + session['event_start']
+        print "event_end " + session['event_end']
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][6:]), int(session['starttime'][:-3]) , int(session['endday'][6:]) , int(session['endtime'][:-3]), session['endtime'][3:])
+
         
     session['speakerlist'] = session['speakers'].split(", ")
     for speaker in session['speakerlist']:
@@ -180,13 +252,13 @@ tempstart = "test"
 
 ## for each session in the list of sessions 
 #"""
-with open("2012.penguicon.schedule.xml",'w') as myoutput:
+with open("2013.penguicon.schedule.xml",'w') as myoutput:
     for index, y in enumerate(sessions):
-      if "2012-04-27 14:00:00" != y['event_start'] and "duration" != y['duration']:
+      if "2013-04-26 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
-        if not y['event_start'] == tempstart:
-            if y['event_start'] == "2012-04-27 15:59:00" :
+        if not y['All Day Event'] == tempstart:
+            if y['All Day Event'] == "TRUE" :
                 myoutput.write("<time>All Weekend</time>\n")
             else:
                 temptext =  "<time>"+ y['starttimeampm'] + "</time>\n"
@@ -196,18 +268,18 @@ with open("2012.penguicon.schedule.xml",'w') as myoutput:
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
         else: 
-            myoutput.write(template % y)
+            myoutput.write(programbook_template % y)
 
     myoutput.write('</document></events>\n')
 myoutput.close()
 #"""
 
-with open("2012.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open("2012.penguicon.speakers.txt",'w') as fullspeaker:
+with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
+  with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           discountedspeaker.write("%s\n" % (key))
       fullspeaker.write("%s\n" % (key))#, value))
-	  
+
 fullspeaker.close()
 discountedspeaker.close()
