@@ -34,8 +34,9 @@ extrainfo= """
 <minutes>%(minutes)s</minutes>
 """
 
-calendar_template="""
-"""
+calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
+
+calendar_template=""""%(name)s",%(startday)s,%(starttimeampm)s,%(endday)s,%(endtimeampm)s,%(allday)s,"%(description)s  Speakers include:%(speakers)s","%(venue)s,3600 Centerpoint Parkway Pontiac, Michigan 48341 USA",%(private)s\n"""
 
 # replace all function to help with the clean up
 def replace_all(text, dic):
@@ -113,7 +114,7 @@ pconsched = readInCSV(filename)
 #fields =  ["event_start", "event_end", "name", "event_type", "venue", "speakers", "description"]
 
 ## 2013 fields
-fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters",	"Book Description",	"All Day Event","Private"]
+fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters", "Book Description", "All Day Event","Private"]
 
 ## fields needed for google calendar
 calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
@@ -194,6 +195,10 @@ for index, x in enumerate(pconsched.schedule):
             session['name'] = fieldtext
         if  (field == "Track"):
             session['event_type'] = fieldtext
+        if  (field == "All Day Event"):
+            session['allday'] = fieldtext
+        if  (field == "Private"):
+            session['private'] = fieldtext
         ## remove the beginning portion of http and mail links 
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
@@ -283,3 +288,15 @@ with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 
 fullspeaker.close()
 discountedspeaker.close()
+
+
+with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
+  #with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
+    fullcalendar.write(calendar_header)
+    for index, y in enumerate(sessions):
+        if not y['All Day Event'] == 'All Day Event':
+            fullcalendar.write(calendar_template % y)
+
+fullcalendar.close()
+
+
