@@ -8,7 +8,7 @@ from the head of programming and generating output files which are particularly 
 current output:
    * custom xml for program book
    * list of speakers
-   * list of speakers giving 3+ "hours" of talks (hours defined as 50 minutes in this case...I think)
+   * list of speakers giving 3+ "hours" of talks ( an hour in this case is defined as 50 minutes...I think)
    * full output into a csv which google calendar should be able to import (work in progress....)
 
 
