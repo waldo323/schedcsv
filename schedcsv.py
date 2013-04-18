@@ -281,12 +281,48 @@ with open("2013.penguicon.schedule.xml",'w') as myoutput:
 myoutput.close()
 #"""
 
+"""
+checking what all is in my session object
+"""
+
+#tempstart = "test"
+
+## for each session in the list of sessions 
+"""
+with open("2013.penguicon.schedule.fulldata.txt",'w') as myoutput:
+    for index, y in enumerate(sessions):
+      print y """
+"""
+      if "2013-04-26 14:00:00" != y['event_start'] and "duration" != y['duration']:
+        if tempstart == "test":
+            myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
+        if not y['All Day Event'] == tempstart:
+            if y['All Day Event'] == "TRUE" :
+                myoutput.write("<time>All Weekend</time>\n")
+            else:
+                temptext =  "<time>"+ y['starttimeampm'] + "</time>\n"
+                myoutput.write(temptext)
+            tempstart = y['event_start']
+
+        if "50 minutes" == y['duration']:
+            myoutput.write(hourtemplate % y)
+        else: 
+            myoutput.write(programbook_template % y)
+"""
+"""
+    myoutput.write('</document></events>\n')
+myoutput.close()
+"""
+"""
+the above can be commented out normally
+"""
+
 with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
   with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           discountedspeaker.write("%s\n" % (key))
-      fullspeaker.write("%s\n" % (key))#, value))
+      fullspeaker.write("%s, %s\n" % (key,value))
 
 fullspeaker.close()
 discountedspeaker.close()
@@ -311,3 +347,4 @@ with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
 
 fullcalendar.close()
 
+print speakerdict
