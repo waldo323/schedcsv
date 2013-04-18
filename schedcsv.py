@@ -230,14 +230,14 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
     else:
         print session['name']
-        print "start day " + session['startday'][6:]
+        print "start day " + session['startday'][2:-3]
         print "start time " + session['starttime'][:-3]
-        print "end day " + session['endday'][6:]
+        print "end day " + session['endday'][2:-3]
         print "end time " + session['endtime'][:-3]
         print "end minutes " + session['endtime'][3:]
         print "event_start " + session['event_start']
         print "event_end " + session['event_end']
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][6:]), int(session['starttime'][:-3]) , int(session['endday'][6:]) , int(session['endtime'][:-3]), session['endtime'][3:])
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-3]), int(session['starttime'][:-3]) , int(session['endday'][2:-3]) , int(session['endtime'][:-3]), session['endtime'][3:])
 
         
     session['speakerlist'] = session['speakers'].split(", ")
@@ -251,7 +251,9 @@ for index, x in enumerate(pconsched.schedule):
     sessions.append(session)
 
 ## sort the list of sessions here by day then by time.
+#sessions.sort(key=itemgetter('allday'), reverse=True)
 sessions.sort(key=itemgetter('startday','starttime'))
+sessions.sort(key=itemgetter('allday'), reverse=True)
 speakers.sort()
 tempstart = "test"
 
@@ -289,6 +291,16 @@ with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 fullspeaker.close()
 discountedspeaker.close()
 
+with open("2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
+  with open("2013.penguicon.spkrs.bylast.txt",'w') as fullspkr:
+    for key, value in sorted(speakerdict.iteritems(), key=lambda (v,k): (v,k)):
+      if value >= 150:
+          dscountedspkr.write("%s\n" % (key))
+      fullspkr.write("%s\n" % (key))#, value))
+
+fullspkr.close()
+dscountedspkr.close()
+
 
 with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
   #with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
@@ -298,5 +310,4 @@ with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
             fullcalendar.write(calendar_template % y)
 
 fullcalendar.close()
-
 
