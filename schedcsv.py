@@ -296,8 +296,8 @@ fullcalendar.close()
 
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open('2013.penguicon.schedule.alltimes.xml', 'r', encoding='utf-8')
-outputfile = open('2013.penguicon.schedule.xml', 'w', encoding='utf-8')
+inputfile = open('2013.penguicon.schedule.alltimes.xml', 'r')
+outputfile = open('2013.penguicon.schedule.xml', 'w')
 
 currenttime = '<time>4 PM</time>'
 lasttime = '<time>All Weekend</time>'
