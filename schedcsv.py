@@ -36,7 +36,7 @@ extrainfo= """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 
-calendar_template=""""%(name)s",%(startday)s,%(starttimeampm)s,%(endday)s,%(endtimeampm)s,%(allday)s,"%(description)s  Speakers include:%(speakers)s","%(venue)s,3600 Centerpoint Parkway Pontiac, Michigan 48341 USA",%(private)s\n"""
+calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s,3600 Centerpoint Parkway Pontiac, Michigan 48341 USA",%(private)s\n"""
 
 # replace all function to help with the clean up
 def replace_all(text, dic):
@@ -88,7 +88,7 @@ def ampmformat (hhmmss):
     return hhmmss
 
   # is AM? from [00:00, 12:00]
-  print "ampm " + ampm[0]
+#  print "ampm " + ampm[0]
   hour = int(ampm[0]) % 24
   isam = (hour >= 0) and (hour < 12)
 
@@ -144,7 +144,7 @@ for index, x in enumerate(pconsched.schedule):
             if fieldtext != "Start Time":
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
-                print fieldtext
+#                print fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['starttimeampm'] = ampmformat(session['starttime']) 
             else:   
@@ -179,9 +179,15 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Track"):
             session['event_type'] = fieldtext
         if  (field == "All Day Event"):
-            session['allday'] = fieldtext
+            if  (fieldtext == ""):
+              session['allday'] = "FALSE"
+            else:
+              session['allday'] = fieldtext
         if  (field == "Private"):
-            session['private'] = fieldtext
+            if  (fieldtext == ""):
+              session['private'] = "DEFAULT"
+            else:
+              session['private'] = fieldtext
         ## remove the beginning portion of http and mail links 
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
@@ -194,12 +200,18 @@ for index, x in enumerate(pconsched.schedule):
         # dictionary of the other text to be converted to clean up the sched.org output
         reps = {"&nbsp;":" ","<br />":"","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
+        quoterep = {"\"":"'"}
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
 #        temptext.replace(os.linesep, " ")
         session[field] = replace_all(temptext, amps)
-
+        if field == "Book Description":
+            temptext = replace_all(fieldtext, quoterep)         
+            session['caldescrip'] = temptext
+        if field == "Presenters":
+            temptext = replace_all(fieldtext, quoterep)         
+            session['calspeakers'] = temptext
 #        if field == "speakers":
         if field == "Presenters":
             testtext = fieldtext.split(', ')
@@ -212,14 +224,14 @@ for index, x in enumerate(pconsched.schedule):
         session['minutes'] = 0
         session['totalminutes'] = 0
     else:
-        print session['name']
-        print "start day " + session['startday'][2:-3]
-        print "start time " + session['starttime'][:-3]
-        print "end day " + session['endday'][2:-3]
-        print "end time " + session['endtime'][:-3]
-        print "end minutes " + session['endtime'][3:]
-        print "event_start " + session['event_start']
-        print "event_end " + session['event_end']
+#        print session['name']
+#        print "start day " + session['startday'][2:-3]
+#        print "start time " + session['starttime'][:-3]
+#        print "end day " + session['endday'][2:-3]
+#        print "end time " + session['endtime'][:-3]
+#        print "end minutes " + session['endtime'][3:]
+#        print "event_start " + session['event_start']
+#        print "event_end " + session['event_end']
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-3]), int(session['starttime'][:-3]) , int(session['endday'][2:-3]) , int(session['endtime'][:-3]), session['endtime'][3:])
 
         
@@ -244,6 +256,7 @@ tempstart = "test"
 #"""
 with open("2013.penguicon.schedule.alltimes.xml",'w') as myoutput:
     for index, y in enumerate(sessions):
+#      print y
       if "2013-04-26 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
