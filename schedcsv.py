@@ -268,9 +268,16 @@ sessions.sort(key=itemgetter('allday'), reverse=True)
 speakers.sort()
 tempstart = "test"
 
+directories = ['output','./calendars']
+if not os.path.exists(directories):
+    os.makedirs(directories)
+
+rp = "./output/"
+caldir = "./calendars/"
+
 ## for each session in the list of sessions 
 #"""
-with open("2013.penguicon.schedule.alltimes.xml",'w') as myoutput:
+with open(rp + "2013.penguicon.schedule.alltimes.xml",'w') as myoutput:
     for index, y in enumerate(sessions):
 #      print y
       if "2013-04-26 14:00:00" != y['event_start'] and "duration" != y['duration']:
@@ -293,7 +300,7 @@ with open("2013.penguicon.schedule.alltimes.xml",'w') as myoutput:
 myoutput.close()
 #"""
 
-with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
+with open(rp + "2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
   with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
@@ -303,8 +310,8 @@ with open("2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 fullspeaker.close()
 discountedspeaker.close()
 
-with open("2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
-  with open("2013.penguicon.spkrs.bylast.txt",'w') as fullspkr:
+with open(rp + "2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
+  with open(rp + "2013.penguicon.spkrs.bylast.txt",'w') as fullspkr:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (v,k): (v,k)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
@@ -334,11 +341,11 @@ LifeAndunDeath
 Literature
 """
 # output the full calendar
-with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
-  #with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
+with open( caldir + "2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
+  #with open(rp + "2013.penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
     for track in tracks:
-        with open("cal." + tracksdict[track] + ".csv",'w') as tempcal:
+        with open(caldir + "cal." + tracksdict[track] + ".csv",'w') as tempcal:
             tempcal.write(calendar_header)
             tempcal.close()
     for index, y in enumerate(sessions):
@@ -350,7 +357,7 @@ with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
 
 fullcalendar.close()
 
-#with open("sessiondata.csv",'w') as sessiondata:
+#with open(rp + "sessiondata.csv",'w') as sessiondata:
 writer = csv.writer(open('dict.csv', 'wb'))
 for index, y in enumerate(sessions):
     for key, value in y.items():
@@ -360,7 +367,7 @@ for index, y in enumerate(sessions):
 #fullcalendar.close()
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open('2013.penguicon.schedule.alltimes.xml', 'r')
+inputfile = open(rp + '2013.penguicon.schedule.alltimes.xml', 'r')
 outputfile = open('2013.penguicon.schedule.xml', 'w')
 
 currenttime = '<time>4 PM</time>'
