@@ -7,7 +7,7 @@
 <event><title>Chaos Machine</title>
 <topic>General Events</topic>
 <room>Concourse</room>
-<blurb><participant>Open</participant> The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the group up!! <duration>45 hours</duration></blurb></event>
+<blurb><participant>Open</participant> The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!! <duration>45 hours</duration></blurb></event>
 <event><title>Ribbon Fairy</title>
 <topic>Mayhem</topic>
 <room>Concourse</room>
@@ -15,7 +15,7 @@
 <event><title>Find Waldo</title>
 <topic>Mayhem</topic>
 <room>Concourse</room>
-<blurb><participant>Waldo</participant> Where's Waldo? He's somewhere amidst the rest the hordes of awesome Penguicon attendees. Search every dark corner, every broad gallery, any other place he can be seen in plain sight. Please, don't search occupied bathroom stalls. We get in trouble for that sort of thing. If you find him, you'll be rewarded with a special ribbon. <duration>45 hours</duration></blurb></event>
+<blurb><participant>Waldo</participant> Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Search every dark corner, every broad gallery, any other place he can be seen in plain sight. Please, don't search occupied bathroom stalls. We get in trouble for that sort of thing. If you find him, you'll be rewarded with a special ribbon. <duration>45 hours</duration></blurb></event>
 <event><title>WoW Questing Game</title>
 <topic>Mayhem</topic>
 <room>Concourse</room>
@@ -65,7 +65,7 @@
 <event><title>Mead Making</title>
 <topic>Food</topic>
 <room>Food</room>
-<blurb><participant>Caitlynn Poirier, Heather Gutterman</participant> Explore the tastes of homemade mead as we learn mead lingo, terms, interesting facts and more</blurb></event>
+<blurb><participant>Caitlynn Poirier, Heather Gutterman</participant> Explore the tastes of homemade mead as we learn mead lingo, terms, interesting facts and more.</blurb></event>
 <event><title>Player Types and Fun Injection</title>
 <topic>Gaming</topic>
 <room>Private Dining</room>
@@ -77,7 +77,7 @@
 <event><title>3D Modeling for 3D Printer Use</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
-<blurb><participant>AHA</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google Sketchup, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
+<blurb><participant>AHA</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google SketchUp, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
 <event><title>Self-Publishing 101</title>
 <topic>Literature</topic>
 <room>Featherstone</room>
@@ -97,11 +97,11 @@
 <event><title>Fog Imaging</title>
 <topic>Tech</topic>
 <room>Wisner</room>
-<blurb><participant>Jason Burt</participant> FOG is a free Linux-based computer imaging tool for common Window desktop environments. Fog has a php-based web front-end that uses TFTP and PXE in the background to complete the imaging process. FOG, which stands for Free-Open source Ghost, was developed by Chuck Syperski and Jian Zhan (Web UI: Peter Gilchrist). Jason Burt will be giving an overview of the platform version 0.32 and how it is being used in his current educational environment.</blurb></event>
+<blurb><participant>Jason Burt</participant> FOG is a free Linux-based computer imaging tool for common Window desktop environments. Fog has a PHP-based web front-end that uses TFTP and PXE in the background to complete the imaging process. FOG, which stands for Free-Open source Ghost, was developed by Chuck Syperski and Jian Zhan (Web UI: Peter Gilchrist). Jason Burt will be giving an overview of the platform version 0.32 and how it is being used in his current educational environment.</blurb></event>
 <event><title>Create And Edit Multimedia with OSS (GIMP)</title>
 <topic>Tech</topic>
 <room>Baldwin</room>
-<blurb><participant>Will Bowen</participant> We will discuss the use of Open Source Software to creat and edit multimedia using OpenShot and GIMP as examples in Linux. If time permits, we will explore how to use VirtualDub and MediaCoder in Windows.</blurb></event>
+<blurb><participant>Will Bowen</participant> We will discuss the use of Open Source Software to create and edit multimedia using OpenShot and GIMP as examples in Linux. If time permits, we will explore how to use VirtualDub and MediaCoder in Windows.</blurb></event>
 <event><title>What is a BoF?</title>
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
@@ -171,11 +171,11 @@
 <event><title>Sci Fi on the Radio</title>
 <topic>General Events</topic>
 <room>Salon A</room>
-<blurb><participant>Karen Corbeill, Scott Kennedy, Nuri Gocay</participant> Come attend a live dramatic reading of several early century radio scripts! Close your eyes and use your imagination, and allow our talented voice actors and foley artists to create terrors and intrigue! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Karen Corbeill, Scott Kennedy, Nuri Gocay, Matt Arnold, Heather Smith</participant> Come attend a live dramatic reading of several early century radio scripts! Close your eyes and use your imagination, and allow our talented voice actors and foley artists to create terrors and intrigue! <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Penguicon 48 Film Contest</title>
 <topic>Film</topic>
 <room>Auburn</room>
-<blurb><participant>Open</participant> Ever wanted to enter a film contest?  If you think you can make a short film during the convention, here's your change!  It's free, it's easy, and there are PRIZES!  Bring a camera and some way to edit the footage together for a chance to be the Inagural Penguicon 48 Champion!  Contestants interested in participating must attend this session for official rules and guidelines to the competition.</blurb></event>
+<blurb><participant>Open</participant> Ever wanted to enter a film contest?  If you think you can make a short film during the convention, here's your chance!  It's free, it's easy, and there are PRIZES!  Bring a camera and some way to edit the footage together for a chance to be the Inagural Penguicon 48 Champion!  Contestants interested in participating must attend this session for official rules and guidelines to the competition.</blurb></event>
 <event><title>Intro to Hackerspaces</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
@@ -183,12 +183,12 @@
 <event><title>Writer's Groups and Networking</title>
 <topic>Literature</topic>
 <room>Parkway Lounge</room>
-<blurb><participant>Michael Cieslak, Janea Schimmel</participant> What are the benefits of writer's groups? Are they for you? What are the best ways to network with other writers? How do you connect with potential readers?</blurb></event>
+<blurb><participant>Michael Cieslak, Janea Schimmel, Jonathan Stars</participant> What are the benefits of writer's groups? Are they for you? What are the best ways to network with other writers? How do you connect with potential readers?</blurb></event>
 <event><title>Tom Clancy and Larry Bond's Origins</title>
 <topic>Literature</topic>
 <room>Featherstone</room>
 <blurb><participant>Doug Houseman</participant> The involvement of war-gaming in their books and how a young naval officer got tangled up in the mix and wound up one on one with President Reagan in the White House.</blurb></event>
-<event><title>Mini Weapons of Mass Desctruction</title>
+<event><title>Mini Weapons of Mass Destruction</title>
 <topic>Science</topic>
 <room>Boardroom</room>
 <blurb><participant>Richard Herrell</participant> Build and take mostly harmless weapons from common office materials. Materials and instructions will be provided.</blurb></event>
@@ -196,10 +196,10 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Jonathan Voigt</participant> Git is a free and open source distributed version control system widely used by companies and communities to collaborate on software production. After reviewing the basics of Git and its data model, this talk will focus on collaboration topics such as remotes, pushing, fetching, pulling, merging, rebasing, and resolving conflicts.</blurb></event>
-<event><title>Javascript Application Architecture</title>
+<event><title>JavaScript Application Architecture</title>
 <topic>Tech</topic>
 <room>Baldwin</room>
-<blurb><participant>Stan Carrico</participant> I will be demonstrating how to build a full-scale persistent state javascript application using the Observer pattern, live binding, client-side templates, dependency management, and unit testing. I will be utilizing fully open source tools (MIT License) developed by the team at Bitovi.com <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Stan Carrico</participant> I will be demonstrating how to build a full-scale persistent state JavaScript application using the Observer pattern, live binding, client-side templates, dependency management, and unit testing. I will be utilizing fully open source tools (MIT License) developed by the team at Bitovi.com <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>8 PM</time>
 <event><title>Jeff Potter – Cooking for Geeks</title>
 <topic>General Events</topic>
@@ -212,7 +212,7 @@
 <event><title>Zombie Outbreak</title>
 <topic>Costuming</topic>
 <room>Boardroom</room>
-<blurb><participant>Kat McConnell</participant> Help us kick of this years Zombie Tag and be crowned Patient Zero. Learn the basics of zombie makeup and have the opportunity to put it to use. There will be a brief tutorial on followed by a Face Off type contest with supplies provided. Become, create, or bear witness to the creation of the zombie horde. Prizes will be awarded for best creator and creature.</blurb></event>
+<blurb><participant>Kat McConnell</participant> Help us kick of this year's Zombie Tag and be crowned Patient Zero. Learn the basics of zombie makeup and have the opportunity to put it to use. There will be a brief tutorial followed by a Face Off type contest with supplies provided. Become, create, or bear witness to the creation of the zombie horde. Prizes will be awarded for best creator and creature.</blurb></event>
 <event><title>Burning with Flavor</title>
 <topic>Food</topic>
 <room>Food</room>
@@ -229,6 +229,14 @@
 <topic>Tech</topic>
 <room>Featherstone</room>
 <blurb><participant>Marla Fisher, Charles Ide</participant> In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: "Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?" Could another living strategy exist that utilizes more controlling information about the environment?</blurb></event>
+<event><title>Penguicon Variety Show Prep Session</title>
+<topic>General Events</topic>
+<room>Centerpoint</room>
+<blurb><participant>Open</participant> If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well. <duration>24 hours and 50 minutes</duration></blurb></event>
+<event><title>Technobabel: Bringing Non-techies up to Speed</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk. <duration>24 hours and 50 minutes</duration></blurb></event>
 <time>9 PM</time>
 <event><title>Jason Denzel – Books, Dragons, and LAMP Servers</title>
 <topic>General Events</topic>
@@ -245,7 +253,7 @@
 <event><title>You've Written it, Now What?</title>
 <topic>Literature</topic>
 <room>Perry</room>
-<blurb><participant>Michael Cieslak, Laura Resnick, Jim C. Hines</participant> A discussion of what to do with your short story, novel, script, etc after you are done with the rough draft. Topics would include the importance of editing, beta readers, critiquing, writer's groups, submission, and dealing with rejection.</blurb></event>
+<blurb><participant>Michael Cieslak, Laura Resnick, Jim C. Hines, Jonathan Stars</participant> A discussion of what to do with your short story, novel, script, etc after you are done with the rough draft. Topics would include the importance of editing, beta readers, critiquing, writer's groups, submission, and dealing with rejection.</blurb></event>
 <event><title>Science Fact in Science Fiction</title>
 <topic>Science</topic>
 <room>Salon A</room>
@@ -266,6 +274,10 @@
 <topic>Video Gaming</topic>
 <room>Centerpoint</room>
 <blurb><participant>Jon Wallace, Daniel Fawaz</participant> Enjoy video games? Getting tired of every Tom, Dick, and Harry with a smart phone or tablet calling themselves “gamers?” Or are the controller jockeys still living in the past? Whether you're a classic gamer, a tablet fiend, or still think this whole video game is a passing craze, come check out Fuzzy and Wally's panel! We compare and contrast the platforms, weight their advantages vs. disadvantages, what each platform has done for the industry, where the future seems to be going with them, and maybe even a QandA at the end! It'll be fun, informative, plus it'll give you a chance to tell idiots we don't know what we're talking about!</blurb></event>
+<event><title>Vinyl Cutting Demo</title>
+<topic>Hackerspace</topic>
+<room>Hackerspace A</room>
+<blurb><participant>Matt Arnold</participant> Your own custom design would be way better for your car window than stick figures of your family, or Calvin peeing on things you hate. This class will explain and demo how to: make vector art; use a plotter to cut it out of vinyl; weed the excess off; transfer it to a masking tape backing; and apply it. Bring an SVG or AI file on a thumb drive to go away with your own decal.</blurb></event>
 <time>10 PM</time>
 <event><title>Nick Farr</title>
 <topic>General Events</topic>
@@ -274,7 +286,7 @@
 <event><title>The Polyamory Survival Guide: The Basics</title>
 <topic>After Dark</topic>
 <room>Centerpoint</room>
-<blurb><participant>Katie Danger, Shawn J., Chuck Child</participant> Polyamory can be defined as the practice, desire, or acceptance of having more than one intimate relatinship at a time with the knowledge and consent of everyone involved.  How does one practice polyamory? Why be polyamorous? What does it mean to be polyamorous? Come join us to discuss these (and other) questions!</blurb></event>
+<blurb><participant>Katie Danger, Shawn J., Chuck Child</participant> Polyamory can be defined as the practice, desire, or acceptance of having more than one intimate relationship at a time with the knowledge and consent of everyone involved.  How does one practice polyamory? Why be polyamorous? What does it mean to be polyamorous? Come join us to discuss these (and other) questions!</blurb></event>
 <event><title>Getting Drunk with Shannon and Maggie - LIVE</title>
 <topic>Life and (un)Death</topic>
 <room>Parkway Lounge</room>
@@ -315,7 +327,7 @@
 <event><title>Gameboy Modathon</title>
 <topic>Music</topic>
 <room>Salon A</room>
-<blurb><participant>Nikola Whallon, Brendan Becker, Piko Piko</participant> At the dawn of 2013, Modathon Extreme created a legion of super modded Gameboys, and super Gameboy-modding hackers. From their base at Penguicon, the modded Gameboys gained sentience and now lead the robot revolution. In order to combat the robots, a Modathos in being held at Penguicon to mod even more Gameboys and more consoles in the labs of the super hackers.</blurb></event>
+<blurb><participant>Nikola Whallon, Brendan Becker, Piko Piko</participant> At the dawn of 2013, Modathon Extreme created a legion of super modded Gameboys, and super Gameboy-modding hackers. From their base at Penguicon, the modded Gameboys gained sentience and now lead the robot revolution. In order to combat the robots, a Modathon is being held at Penguicon to mod even more Gameboys and more consoles in the labs of the super hackers.</blurb></event>
 <event><title>Nerd Nite</title>
 <topic>Tech</topic>
 <room>Wisner</room>
@@ -328,7 +340,7 @@
 <event><title>Midnight Yoga I</title>
 <topic>General Events</topic>
 <room>Wisner</room>
-<blurb><participant>Chloe Fields</participant> After a day of the hard con life, it might be time to relax, breathe, and stretch. All levels of experience are welcome to attend this midnight yago session. It's sure to bring you back into balance, strengthen your focus, or give you a breather between room parties. <duration>0 minutes</duration></blurb></event>
+<blurb><participant>Chloe Fields</participant> After a day of the hard con life, it might be time to relax, breathe, and stretch. All levels of experience are welcome to attend this midnight yoga session. It's sure to bring you back into balance, strengthen your focus, or give you a breather between room parties. <duration>0 minutes</duration></blurb></event>
 <event><title>Open Kink I</title>
 <topic>After Dark</topic>
 <room>Baldwin</room>
@@ -340,7 +352,7 @@
 <event><title>Cinematic For The People I</title>
 <topic>Film</topic>
 <room>Salon A</room>
-<blurb><participant>Mike Dellheim, Russ Hannula, Jim Hanson</participant> Hey, do you like MST3K? Did you ever watch it and think, 'Hey, I can do that'? Well, so did we.. and now we are.  Cinematic for the People riffs on movies, serials, and shorts.  We also enjoy inflicting these horrible movies on the public whenever possible, which has bought us back to perform once again ths year!  Enjoy for the first time at Penguicon the full CFTP Trifecta of Jim, Mike, and Russ, featuring the movies 'Gamera vs Jiger' and 'Equals Against Devils' Brought to you with funding from out sponsor, HypoChondriCo. Note: We will be holding sessions both Friday and Saturday night. Come to one or both! <duration>1 hour and 0 minutes</duration></blurb></event>
+<blurb><participant>Mike Dellheim, Russ Hannula, Jim Hanson</participant> Hey, do you like MST3K? Did you ever watch it and think, 'Hey, I can do that'? Well, so did we.. and now we are.  Cinematic for the People riffs on movies, serials, and shorts.  We also enjoy inflicting these horrible movies on the public whenever possible, which has bought us back to perform once again this year!  Enjoy for the first time at Penguicon the full CFTP Trifecta of Jim, Mike, and Russ, featuring the movies 'Gamera vs Jiger' and 'Equals Against Devils' Brought to you with funding from out sponsor, HypoChondriCo. Note: We will be holding sessions both Friday and Saturday night. Come to one or both! <duration>1 hour and 0 minutes</duration></blurb></event>
 <event><title>In a Battle of Ultimate Villains, Who Wins?</title>
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
@@ -440,7 +452,7 @@
 <event><title>The History of Penguicon</title>
 <topic>General Events</topic>
 <room>Wisner</room>
-<blurb><participant>Bill Putt</participant> Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it year one trying to convince geeks that the consuite was not a evil plot of some sort, the great tea set war in year four, or all about the two orders of the Penguin come join Bill as he recounts Penguicon History, or at least how he remembers it. </blurb></event>
+<blurb><participant>Bill Putt</participant> Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it. </blurb></event>
 <time>12 PM</time>
 <event><title>The Future of Hackerspaces: Re-Inventing Education</title>
 <topic>Tech</topic>
@@ -465,7 +477,7 @@
 <event><title>Film Making 0b1100101</title>
 <topic>Film</topic>
 <room>Salon A</room>
-<blurb><participant>Keith Martens, James Fernandez, Mike Dellheim</participant> Want to make movies? Don't know where to start? It's more than just buying a camera.  Join some local filmmakers in an introductory session on film-making as we go over how we got started and discuss film as a hobby, weekend project, or full-fledged career, with truthfal information about the industry and difficulties involved.</blurb></event>
+<blurb><participant>Keith Martens, James Fernandez, Mike Dellheim</participant> Want to make movies? Don't know where to start? It's more than just buying a camera.  Join some local filmmakers in an introductory session on film-making as we go over how we got started and discuss film as a hobby, weekend project, or full-fledged career, with truthful information about the industry and difficulties involved.</blurb></event>
 <event><title>Open Soda Demo II</title>
 <topic>Food</topic>
 <room>Food</room>
@@ -508,7 +520,7 @@
 <room>Oakland</room>
 <blurb><participant>Heather Gutterman, Doug Scholl, Matthew William</participant> Martial artists join in sharing and learning skills with other martial artists! There is much to be learned from practicing with those to study other styles and in other areas. Please bring any source material and equipment you have with you. Come ready to learn and share! Presented by Polaris Fellowship of Weapon Study, a western martial arts school local to Farmington Hills, MI.</blurb></event>
 <event><title>Be Prepared: A Guide to Not Dying Like a Nitwit</title>
-<topic>Action/Adventure, Life</topic>
+<topic>Action/Adventure</topic>
 <room>Baldwin</room>
 <blurb><participant>Tim Slovik, John D. Bell</participant> Hopeing to survive the Zombie Apocalypse? Maybe you just need to survive an average Monday? We'll discuss real preparedness tips, tricks, and ideas in a practical, yet humorous life. You won't leave ready to become a disaster prepper, but you'll walk away content to be prepared for getting through tomorrow with a few less headaches.</blurb></event>
 <event><title>Web Series for Newbs</title>
@@ -526,7 +538,7 @@
 <event><title>3D Modeling for 3D Printers</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
-<blurb><participant>Tyler Worman</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google Sketchup, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
+<blurb><participant>Tyler Worman</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google SketchUp, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
 <event><title>The Physics of Video Games</title>
 <topic>Science</topic>
 <room>Wisner</room>
@@ -567,11 +579,11 @@
 <event><title>Evil in Tolkien's Middle-Earth</title>
 <topic>Literature</topic>
 <room>Wisner</room>
-<blurb><participant>Steuard Jensen</participant> What is the nature of evil in J.R.R. Tolkien's Middle-earth? Are Orcs irredeemable? Is Frodo morally culpable for giving in to desire for the Ring? Is Boromir? How do Sauron's motivation's compare to those of his master, Morgoth? Join in a lively discussion of Tolkien's world, open to casual fans and experts alike and moderated by Dr. Steuard Jensen, author of the Tolkien Meta-FAQ.</blurb></event>
+<blurb><participant>Steuard Jensen</participant> What is the nature of evil in J.R.R. Tolkien's Middle-earth? Are Orcs irredeemable? Is Frodo morally culpable for giving in to desire for the Ring? Is Boromir? How do Sauron's motivations compare to those of his master, Morgoth? Join in a lively discussion of Tolkien's world, open to casual fans and experts alike and moderated by Dr. Steuard Jensen, author of the Tolkien Meta-FAQ.</blurb></event>
 <event><title>Juggling for People Who Think They Can't Juggle</title>
 <topic>Mayhem</topic>
 <room>Oakland</room>
-<blurb><participant>Jody Raiford</participant> If you have tried to Juggle in the past, and not gotten it, this is the class for you! Jody will be teaching the basics of a standard 3-ball cascade (the basic "Juggle") in a brain-based, science-informed method. Trust me, if you acn toss a single ball from hand to hand, you can learn to juggle 3 balls in under an hour. All ages welcome, under 16 with adult please.</blurb></event>
+<blurb><participant>Jody Raiford</participant> If you have tried to juggle in the past, and not gotten it, this is the class for you! Jody will be teaching the basics of a standard 3-ball cascade (the basic "juggle") in a brain-based, science-informed method. Trust me, if you acn toss a single ball from hand to hand, you can learn to juggle 3 balls in under an hour. All ages welcome, under 16 with adult please.</blurb></event>
 <event><title>Chiptunes? 8-bit music? What's that?</title>
 <topic>Music</topic>
 <room>Salon A</room>
@@ -590,7 +602,7 @@
 <room>Salon A</room>
 <blurb><participant>John D. Bell, Doug Scholl, Shannon Marshall, Doug Tobin</participant> Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top fighting scenes in cinema. We will examine hand-to-hand combat, swordsmanship, and “prop” fighting. Presented by Polaris Fellowship of Weapon Study, a western martial arts school local to Farmington Hills, MI.</blurb></event>
 <event><title>Engineer's Guide to Self-Defense Redux</title>
-<topic>Action/Adventure, Science</topic>
+<topic>Action/Adventure</topic>
 <room>Perry</room>
 <blurb><participant>Derek Newland, Nathan Balyeat</participant> Using simple principles of motion and leverage, find out just how easy it would be to defend yourself in many different situations. Refined from last year with feedback gathered from attendees.</blurb></event>
 <event><title>Open Junk Pile</title>
@@ -624,7 +636,7 @@
 <event><title>RHR Denton University - 0001:RH History - 1RHR Credit Hr.</title>
 <topic>RHPS</topic>
 <room>Salon B</room>
-<blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> An overview of the Rocky Horror Picture Show and its fandom, including elements of the movie and plot. We'll discuss the films' history from the late 70s through today and take questions from those in attendance. Note: Attending 0001, 0003, and 0004 makes you eligible to participate in the "RHPS Virgin Graduation."</blurb></event>
+<blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> An overview of the Rocky Horror Picture Show and its fandom, including elements of the movie and plot. We'll discuss the film's history from the late 70s through today and take questions from those in attendance. Note: Attending 0001, 0003, and 0004 makes you eligible to participate in the "RHPS Virgin Graduation."</blurb></event>
 <event><title>Is the Fabric of the Universe Double Stiched?</title>
 <topic>Science</topic>
 <room>Wisner</room>
@@ -653,7 +665,7 @@
 <event><title>Stunts for Film</title>
 <topic>Film</topic>
 <room>Salon A</room>
-<blurb><participant>Keith Martens, John D. Green</participant> Ever wonder how the stunts you see in the movies are actually done?  With the magic of camera angles and editing, we'll shwo you how to make a fight scene look impressive and real.  Taking place immediately after "Fighting in Film", local stuntman/actor/musicion John D. Green will demonstrate how it's done physically and then answer questions while the film footage is edited together tos hwo how he beats up a volunteer wihtout anyone getting hurt!</blurb></event>
+<blurb><participant>Keith Martens, John D. Green</participant> Ever wonder how the stunts you see in the movies are actually done?  With the magic of camera angles and editing, we'll show you how to make a fight scene look impressive and real.  Taking place immediately after "Fighting in Film", local stuntman/actor/musicion John D. Green will demonstrate how it's done physically and then answer questions while the film footage is edited together to show how he beats up a volunteer without anyone getting hurt!</blurb></event>
 <event><title>B. Nektar Mead Tasting I</title>
 <topic>Food</topic>
 <room>Food</room>
@@ -714,7 +726,7 @@
 <event><title>Whose Geek Are You Anyway?</title>
 <topic>Life and (un)Death</topic>
 <room>Salon A</room>
-<blurb><participant>Derek Newland</participant> After trying stand-up last year, the feedback included a strong desire for a "Who's Line Is It Anyway?" style improv session. Here it is! Bring suggestions for what you think would be entertaining to watch others perform, and be ready to participate!</blurb></event>
+<blurb><participant>Derek Newland</participant> After trying stand-up last year, the feedback included a strong desire for a "Whose Line Is It Anyway?" style improv session. Here it is! Bring suggestions for what you think would be entertaining to watch others perform, and be ready to participate!</blurb></event>
 <event><title>Genre-Crossing: The Peanut Butter Cup of the Literary World</title>
 <topic>Literature</topic>
 <room>Centerpoint</room>
@@ -723,10 +735,10 @@
 <topic>RHPS</topic>
 <room>Salon B</room>
 <blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> After attending the instructional session, class students will brainstorm and devise their own new audience participation jokes and routines. Note: Attending 0001, 0003, and 0004 makes you eligible to participate in the "RHPS Virgin Graduation."</blurb></event>
-<event><title>Javascript Unit Testing with QUnit</title>
+<event><title>JavaScript Unit Testing with QUnit</title>
 <topic>Tech</topic>
 <room>Perry</room>
-<blurb><participant>Chad Crabtree</participant> Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs were very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery.</blurb></event>
+<blurb><participant>Chad Crabtree</participant> Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery.</blurb></event>
 <event><title>Rapid Video Game Prototyping</title>
 <topic>Video Gaming</topic>
 <room>Featherstone</room>
@@ -739,7 +751,7 @@
 <event><title>Maik Schmidt – Creating Video Games with Arduino</title>
 <topic>General Events</topic>
 <room>Wisner</room>
-<blurb><participant>Maik Schmidt</participant> Among many hobbies and professional interests, one of the first things to inspire my love for technology was the video game. It drove me to understand programming and computers, and led me on the career path I took. We'll talk about creating video games with Arduino, my specialty</blurb></event>
+<blurb><participant>Maik Schmidt</participant> Among many hobbies and professional interests, one of the first things to inspire my love for technology was the video game. It drove me to understand programming and computers, and led me on the career path I took. We'll talk about creating video games with Arduino, my specialty.</blurb></event>
 <event><title>The Philosophy of Self Defense</title>
 <topic>Action/Adventure</topic>
 <room>Baldwin</room>
@@ -747,7 +759,7 @@
 <event><title>Game Bangers: The Web-Series Sneak Peek Premier</title>
 <topic>Film</topic>
 <room>Salon A</room>
-<blurb><participant>Keith Martens</participant> Penguicon proudly presents the Premier of the web-series – “Game Bangers”</blurb></event>
+<blurb><participant>Keith Martens</participant> Penguicon proudly presents the premier of the web-series – “Game Bangers”.</blurb></event>
 <event><title>Communication for Geeks</title>
 <topic>Life and (un)Death</topic>
 <room>Featherstone</room>
@@ -777,10 +789,10 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Joe Bender</participant> Why does the AM dial start at 530 kilohertz?  What's between it and the FM band? Why was it such a big deal for analog television to stop broadcasting?</blurb></event>
-<event><title>Is Steam Punk SciFi?</title>
+<event><title>Is Steampunk SciFi?</title>
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
-<blurb><participant>Jen Haeger, Scott Favre</participant> A lively meetup and debate on whether steam punk deserves to be under the SciFi banner. Steampunk or SciFi costumes encouraged!</blurb></event>
+<blurb><participant>Jen Haeger, Scott Favre</participant> A lively meetup and debate on whether steampunk deserves to be under the SciFi banner. Steampunk or SciFi costumes encouraged!</blurb></event>
 <event><title>Jim C. Hines – Sexism and Cover Art</title>
 <topic>General Events</topic>
 <room>Wisner</room>
@@ -810,10 +822,6 @@
 <room>Oakland</room>
 <blurb><participant>Jon Wallace, Robert Turner</participant> Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>8 PM</time>
-<event><title>Penguicon Variety Show Prep Session</title>
-<topic>General Events</topic>
-<room>Centerpoint</room>
-<blurb><participant>Open</participant> If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well.</blurb></event>
 <event><title>The Lighter Side of Poly</title>
 <topic>After Dark</topic>
 <room>Centerpoint</room>
@@ -854,10 +862,6 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Michael Mol</participant> Quick bullet-poin run-through of IPv6 basics, and running a server on an IPv6 network.  Includes: system security, diagnostic tools, and software and service compatibility (Email, Web, DNS, SIP. Internet access.)</blurb></event>
-<event><title>Technobabel: Bringing Non-techies up to Speed</title>
-<topic>BoF</topic>
-<room>Parkway Lounge</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk.</blurb></event>
 <event><title>Costuming Tips and Tricks</title>
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
@@ -910,13 +914,13 @@
 <event><title>IPv6 and Your Enterprise Network</title>
 <topic>Tech</topic>
 <room>Perry</room>
-<blurb><participant>Michael Mol</participant> IPv6 for the Enterprise.  Network security, organization and management.  Includes: hardware and software compatibility, Internet access.  Followed by QandA to help with your enterprise depoyments!</blurb></event>
+<blurb><participant>Michael Mol</participant> IPv6 for the Enterprise.  Network security, organization and management.  Includes: hardware and software compatibility, Internet access.  Followed by QandA to help with your enterprise deployments!</blurb></event>
 <time>10 PM</time>
 <event><title>Geek Prom</title>
 <topic>General Events</topic>
 <room>Salon A</room>
 <blurb><participant>DJ Grotesque</participant> After last year's massive resurgence of the official Penguicon Dance, we're bringing back your favorite DJ and intimate atmosphere you told us you enjoyed.  Attend in formal attire, costumes, or whatever you happen to be wearing at the time to enjoy this Mask-themed evening.  Rumor has it if you're nice to the DJ, he'll keep the music playing late into the night! <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>The Polyamory Suirvival Guide: Intermediate</title>
+<event><title>The Polyamory Survival Guide: Intermediate</title>
 <topic>After Dark</topic>
 <room>Centerpoint</room>
 <blurb><participant>Katie Danger, Shawn J, Chuck Child, Phil Chase, Dana Chase, Larissa Zubac</participant> Forthright and open communications, boundary negotiation, and self-awareness will be primary foundations for this discussion.  We will examine the array of options and opportunities presented by polyamory, as well as discuss some of the challenges poly people face, such as jealousy and time management.  We will share tools and experiences that we have learned along the way to help you in the construction and maintenance of polyamorous relationships.  If you're new to poly, come with your curiosity and questions! If you're experienced with poly, come to share your knowledge and experience!</blurb></event>
@@ -1068,11 +1072,11 @@
 <event><title>Getting the Most Out of E-Books for the Digital Library</title>
 <topic>Literature</topic>
 <room>Featherstone</room>
-<blurb><participant>Janea Schimmel</participant> Discuss the different types of software used by library, types of book formating supported, and how to connect your materials to the library digital book system.</blurb></event>
+<blurb><participant>Janea Schimmel</participant> Discuss the different types of software used by libraries, types of book formating supported, and how to connect your materials to the library digital book system.</blurb></event>
 <event><title>How to Conduct a Scrum Poker Session Using Story Points</title>
 <topic>Tech</topic>
 <room>Wisner</room>
-<blurb><participant>Mark Haynes</participant> A software development methodology in which developers secretly choose cards, then simultaneously reveal them, to show how long they estimate it will take to write a unit of code called a story.</blurb></event>
+<blurb><participant>Mark Haynes</participant> A software development methodology in which the team members secretly choose cards, then simultaneously reveal them, to indicate how long they estimate it will take to write a code feature (AKA, a "user story").</blurb></event>
 <event><title>Brining More Women into Tech Fields</title>
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
@@ -1088,7 +1092,7 @@
 <event><title>I'm Agnostic is Not a Valid Response When I Say I'm an Athiest</title>
 <topic>Life and (un)Death</topic>
 <room>Perry</room>
-<blurb><participant>Bill Putt, Bob Brodis</participant> Religion is a touchy and complex issue. It gets even more difficult when the wrong words are used. Come find out how Athiest, Theiest, Gnostic, and Agnosic all relate so the next time some one tells you they are an Athiest you can properly respond with weather you're Atheist or Theist before moving on to Gnostic/Agnosic part. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused All religions are welcome and will not be judged. Categorized, but not judged. Just be warned both panelists are Atheist.  </blurb></event>
+<blurb><participant>Bill Putt, Bob Brodis</participant> Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.  </blurb></event>
 <event><title>Grange Jr. Makers - Creating Programming for Young Makers</title>
 <topic>Tech</topic>
 <room>Baldwin</room>
@@ -1158,7 +1162,7 @@
 <event><title>3D Modeling for 3D Printer Use II</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
-<blurb><participant>AHA, Dana Nelson</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google Sketchup, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
+<blurb><participant>AHA, Dana Nelson</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google SketchUp, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
 <event><title>Preemie Growth Project</title>
 <topic>Science</topic>
 <room>Baldwin</room>
@@ -1180,10 +1184,6 @@
 <topic>Hackerspace</topic>
 <room>Hackerspace A</room>
 <blurb><participant>Dana Nelson</participant> Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class.</blurb></event>
-<event><title>RHR - Annual Transylvanian Convention (Film Study)</title>
-<topic>RHPS</topic>
-<room>Salon B</room>
-<blurb><participant>Rocky Horror Resurrection</participant> The RHR Gospel teachings as modified in 2000; to match the Prophet's original vision; added scenes and songs, black/white intro, UK ending are all studied. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Where No One Has Gone Before - The Road to 31 Flavors</title>
 <topic>Tech</topic>
 <room>Perry</room>
@@ -1200,5 +1200,5 @@
 <event><title>Write Your Own Nintendo Music: Intermediate Level</title>
 <topic>Music</topic>
 <room>Salon A</room>
-<blurb><participant>Inverse Phase</participant> Now that you've attended the beginner chiptune workshop (or if you already know how to write a basic chiptune), it's time to learn some tips and tricks to make your music stand out! Come and ask how to accomplish certain tricks, use special effects, and generally speaking, amke your chiptune-writing life easier.</blurb></event>
+<blurb><participant>Inverse Phase</participant> Now that you've attended the beginner chiptune workshop (or if you already know how to write a basic chiptune), it's time to learn some tips and tricks to make your music stand out! Come and ask how to accomplish certain tricks, use special effects, and generally speaking, make your chiptune-writing life easier.</blurb></event>
 </document></events>
