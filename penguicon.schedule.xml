@@ -21,10 +21,10 @@
 <room>Concourse</room>
 <blurb><participant>Open</participant> Whether you are a fan of World of Warcraft or a fan of scavenger hunts or a fan of random quests, you will enjoy the nuances of this cherished challenge. Get your pally butt out of the Con Suite and go on an adventure! <duration>45 hours</duration></blurb></event>
 <time>4 PM</time>
-<event><title>Paint 'N Take I</title>
-<topic>General Events</topic>
-<room>Centerpoint</room>
-<blurb><participant>Dean and Linda</participant> Stop by the Paint 'N Take to practice your mini-figure artisanship. Our experts will guide you in painting and preserving techniques to produce your RPG, tabletop game, or souvenir figure to perfection. Please note, figures will be available for $5 during these sessions. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>The Tao of Kitteh</title>
+<topic>Life and (un)Death</topic>
+<room>Boardroom</room>
+<blurb><participant>Caitlynn Poirier</participant> The logic of kittehs is abound with mystery and a marked lack of actual logic. Right? No! Kittehs have their own strain of logic they follow which lead them to the sometimes profoundly odd things they do.  The Tao of Kitteh is a primer to learn those on the thinking and actions of kittehs.</blurb></event>
 <event><title>Romantic Comedies Ruined My Life</title>
 <topic>Life and (un)Death</topic>
 <room>Salon A</room>
@@ -33,14 +33,18 @@
 <topic>Life and (un)Death</topic>
 <room>Perry</room>
 <blurb><participant>Mitch “Duckman” Peters, Jennifer Peters, Miss Molly</participant> Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how not to come off as creepy, which can be a lot harder than it sounds.</blurb></event>
-<event><title>Acts of Shameless Self-Promoting</title>
-<topic>Life and (un)Death</topic>
-<room>Featherstone</room>
-<blurb><participant>Shetan Noir</participant> Come discuss and learn about different methods of self-promoting your own work and getting people to notice. From book promoting to belly dance shows, there are tactics that work for everyone.</blurb></event>
 <event><title>How We Built a Jukebox Island!</title>
 <topic>Life and (un)Death</topic>
 <room>Wisner</room>
 <blurb><participant>Roger Slykhouse, Mario Corsetti</participant> If you're attending this convention, you've already heard of Burning Man. But have you heard of Lakes of Fire? It's our regional Burning Man event that demands awesome things. We built a 24' by 30' floating platform that became a venue for a rockin' afternoon party and spectacle of light at night (well, almost). Now that the hard part is out of the way in 2012, we're working on plans to add on for 2013. The overall theme for the 4-day event is "superstition" and the possibilities are many. Come and hear about what a theme camp is and how we conceived, designed, built, and partied on a floating platform in the middle of a lake. You may be motivated to build your own theme camp for Burning Man or Lakes of Fire, or you can get your feet wet helping with this one!</blurb></event>
+<event><title>Paint 'N Take I</title>
+<topic>General Events</topic>
+<room>Centerpoint</room>
+<blurb><participant>Dean and Linda</participant> Stop by the Paint 'N Take to practice your mini-figure artisanship. Our experts will guide you in painting and preserving techniques to produce your RPG, tabletop game, or souvenir figure to perfection. Please note, figures will be available for $5 during these sessions. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>Acts of Shameless Self-Promoting</title>
+<topic>Life and (un)Death</topic>
+<room>Featherstone</room>
+<blurb><participant>Shetan Noir</participant> Come discuss and learn about different methods of self-promoting your own work and getting people to notice. From book promoting to belly dance shows, there are tactics that work for everyone.</blurb></event>
 <event><title>Where do the Ideas Come From?</title>
 <topic>Literature</topic>
 <room>Baldwin</room>
@@ -49,6 +53,10 @@
 <topic>Literature</topic>
 <room>Salon B</room>
 <blurb><participant>Jonathan Stars</participant> Are SF writers missing—or worse yet, ignoring—current science in their fiction? There are numerous technological developments on the horizon that will determine how humans (and trans-humans) will live in the very near future. How will our lives change and what can we expect to see from writers who are getting it right?</blurb></event>
+<event><title>Open Sketch and Draw</title>
+<topic>BoF</topic>
+<room>Auburn</room>
+<blurb><participant>Open</participant> Need a quiet corner to draw and sketch and get your creative juices flowing to start off the convention?  Relax and put those visions to paper any time during this open session. <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>5 PM</time>
 <event><title>Fairy Wings</title>
 <topic>Costuming</topic>
@@ -96,13 +104,13 @@
 <blurb><participant>Will Bowen</participant> We will discuss the use of Open Source Software to creat and edit multimedia using OpenShot and GIMP as examples in Linux. If time permits, we will explore how to use VirtualDub and MediaCoder in Windows.</blurb></event>
 <event><title>What is a BoF?</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – BoFs.</blurb></event>
 <time>6 PM</time>
 <event><title>Opening Ceremonies</title>
 <topic>General Events</topic>
 <room>Oakland</room>
-<blurb><participant>Sarah "Captain Sparrow" Slovik, Jason Denzel, Jim C. Hines, Michael W. Lucas, Jeff Potter, Maik Schmidt</participant> Kick off Penguicon 2013 with an introduction from our ConChair Captain Sparrow and her esteemed Guests of Honor. Learn more about the featured events of the convention with a warm welcome from those involved.</blurb></event>
+<blurb><participant>Sarah "Captain Sparrow" Slovik, Jason Denzel, Nick Farr, Jim C. Hines, Michael W. Lucas, Jeff Potter, Maik Schmidt</participant> Kick off Penguicon 2013 with an introduction from our ConChair Captain Sparrow and her esteemed Guests of Honor. Learn more about the featured events of the convention with a warm welcome from those involved.</blurb></event>
 <event><title>Intro to Electronics</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace A</room>
@@ -138,16 +146,28 @@
 <event><title>Recipe Swap</title>
 <topic>BoF</topic>
 <room>Food</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Recipes. <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Recipes.</blurb></event>
 <event><title>Next Breakout Genres in Fiction</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – New Genres.</blurb></event>
 <time>7 PM</time>
+<event><title>Open Soda Demo I</title>
+<topic>Food</topic>
+<room>Food</room>
+<blurb><participant>Bill Putt, Anthony Distel</participant> Watch our Open Soda Nifties - Bill and Anthony - actually make a 2 liter of soda during a live demonstration.  They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience.</blurb></event>
+<event><title>Asteroid Mining: Turning Science Fiction into Science Fact</title>
+<topic>Science</topic>
+<room>Wisner</room>
+<blurb><participant>Ray Ramadorai</participant> Planetary Resources’ mission is to apply commercial, innovative techniques to explore space. The company is developing low-cost robotic spacecraft to prospect thousands of near-Earth asteroids, with high concentrations of water and precious metals, and will deliver these resources to the point of need, either in space or on Earth. Asteroid mining may sound like fiction, but it’s just science.</blurb></event>
+<event><title>Introduction to Zenoss</title>
+<topic>Tech</topic>
+<room>Salon B</room>
+<blurb><participant>Andrew D. Kirch</participant> An introduction to Zenoss Core, including device monitoring/modeling, event management, zenpacks, and interacting with the Zenoss Community.</blurb></event>
 <event><title>GoH Social Hour</title>
 <topic>General Events</topic>
 <room>Oakland</room>
-<blurb><participant>Sarah "Captain Sparrow" Slovik, Jason Denzel, Jim C. Hines, Michael W. Lucas, Jeff Potter, Maik Schmidt</participant> Our ConChair, Captain Sparrow, hosts a social hour with the Penguicon 2013 Guests of Honor. This meet and greet will involve a laid back chat session with the GoHs, discussing what they look forward to doing at the convention, providing a preview of their featured panels, and giving everyone a chance to say 'hi' to their favorite GoHs.</blurb></event>
+<blurb><participant>Sarah "Captain Sparrow" Slovik, Jason Denzel, Nick Farr, Jim C. Hines, Michael W. Lucas, Jeff Potter, Maik Schmidt</participant> Our ConChair, Captain Sparrow, hosts a social hour with the Penguicon 2013 Guests of Honor. This meet and greet will involve a laid back chat session with the GoHs, discussing what they look forward to doing at the convention, providing a preview of their featured panels, and giving everyone a chance to say 'hi' to their favorite GoHs.</blurb></event>
 <event><title>Sci Fi on the Radio</title>
 <topic>General Events</topic>
 <room>Salon A</room>
@@ -162,7 +182,7 @@
 <blurb><participant>AHA, i3 Detroit</participant> This guided tour around the Penguicon Makerspace will give you a feel of what it’s like to be in a real Hackerspace. We will discuss all the work that goes on behind the scenes, what it takes to start a Makerspace, and how these community workshops benefit their region. Come meet some of the movers and shakers from All Hands Active (Ann Arbor) and i3 Detroit (Ferndale).</blurb></event>
 <event><title>Writer's Groups and Networking</title>
 <topic>Literature</topic>
-<room>Martini Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Michael Cieslak, Janea Schimmel</participant> What are the benefits of writer's groups? Are they for you? What are the best ways to network with other writers? How do you connect with potential readers?</blurb></event>
 <event><title>Tom Clancy and Larry Bond's Origins</title>
 <topic>Literature</topic>
@@ -172,14 +192,6 @@
 <topic>Science</topic>
 <room>Boardroom</room>
 <blurb><participant>Richard Herrell</participant> Build and take mostly harmless weapons from common office materials. Materials and instructions will be provided.</blurb></event>
-<event><title>Asteroid Mining: Turning Science Fiction into Science Fact</title>
-<topic>Science</topic>
-<room>Wisner</room>
-<blurb><participant>Ray Ramadorai</participant> Planetary Resources’ mission is to apply commercial, innovative techniques to explore space. The company is developing low-cost robotic spacecraft to prospect thousands of near-Earth asteroids, with high concentrations of water and precious metals, and will deliver these resources to the point of need, either in space or on Earth. Asteroid mining may sound like fiction, but it’s just science.</blurb></event>
-<event><title>Introduction to Zenoss</title>
-<topic>Tech</topic>
-<room>Salon B</room>
-<blurb><participant>Andrew D. Kirch</participant> An introduction to Zenoss Core, including device monitoring/modeling, event management, zenpacks, and interacting with the Zenoss Community.</blurb></event>
 <event><title>Collaborating with Git</title>
 <topic>Tech</topic>
 <room>Perry</room>
@@ -233,7 +245,7 @@
 <event><title>You've Written it, Now What?</title>
 <topic>Literature</topic>
 <room>Perry</room>
-<blurb><participant>Michael Cieslak, Laura Resnick</participant> A discussion of what to do with your short story, novel, script, etc after you are done with the rough draft. Topics would include the importance of editing, beta readers, critiquing, writer's groups, submission, and dealing with rejection.</blurb></event>
+<blurb><participant>Michael Cieslak, Laura Resnick, Jim C. Hines</participant> A discussion of what to do with your short story, novel, script, etc after you are done with the rough draft. Topics would include the importance of editing, beta readers, critiquing, writer's groups, submission, and dealing with rejection.</blurb></event>
 <event><title>Science Fact in Science Fiction</title>
 <topic>Science</topic>
 <room>Salon A</room>
@@ -248,7 +260,7 @@
 <blurb><participant>Steve Andre', Marcus Watts</participant> Presentation and discussion on Open BSD</blurb></event>
 <event><title>The Tao of Star Trek</title>
 <topic>BoF</topic>
-<room>Martini Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Derek Newland</participant> I love Star Trek, and I use it to relate ideas such as right vs wrong, all the way to why I think we could survive without money as a people. One thing I've yet to see is someone put on a panel about Star Trek and why it's become a regular part of their life, beyond what a normal TV show would be. So here it is - Discuss your favorite Trek show/movie, and what kind of impact it's had on your life.</blurb></event>
 <event><title>Tablet vs Console Gaming</title>
 <topic>Video Gaming</topic>
@@ -263,14 +275,14 @@
 <topic>After Dark</topic>
 <room>Centerpoint</room>
 <blurb><participant>Katie Danger, Shawn J., Chuck Child</participant> Polyamory can be defined as the practice, desire, or acceptance of having more than one intimate relatinship at a time with the knowledge and consent of everyone involved.  How does one practice polyamory? Why be polyamorous? What does it mean to be polyamorous? Come join us to discuss these (and other) questions!</blurb></event>
+<event><title>Getting Drunk with Shannon and Maggie - LIVE</title>
+<topic>Life and (un)Death</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Shannon M., Maggie</participant> Shannon and Maggie are BFF's and they like to drink... a lot.  Join us as hilarity ensues while the ladies drink, eat, and discuss the latest events in life and entertainment.  Audience members will be able to submit questions to be answered life during the session directl during the recording to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick.</blurb></event>
 <event><title>Fictional Drinks and Drinking in Fiction</title>
 <topic>Food</topic>
 <room>Food</room>
 <blurb><participant>Tim Slovik, Sarah "Captain Sparrow" Slovik</participant> Everything from Romulan Ale to James Bond's Martini, we'll take a look at the way drinking is portrayed in various forms of fiction and then explore some of the more popular drinks originated in sci-fi and fantasy. After discussion of some recipes, samples will be available. You must be 21 and have a valid picture ID to attend.</blurb></event>
-<event><title>Getting Drunk with Shannon and Maggie - LIVE</title>
-<topic>Life and (un)Death</topic>
-<room>Parkview Lounge</room>
-<blurb><participant>Shannon M., Maggie</participant> Shannon and Maggie are BFF's and they like to drink... a lot.  Join us as hilarity ensues while the ladies drink, eat, and discuss the latest events in life and entertainment.  Audience members will be able to submit questions to be answered life during the session directl during the recording to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick.</blurb></event>
 <event><title>Are We Sick of the Undead Yet?</title>
 <topic>Literature</topic>
 <room>Perry</room>
@@ -307,10 +319,10 @@
 <event><title>Nerd Nite</title>
 <topic>Tech</topic>
 <room>Wisner</room>
-<blurb><participant>Nerd Nite Detroit, Nerd Night Ann Arbor</participant> Learning is more fun when you're drinking with friends! Nerd Nite is spreading quickly across the nation, including our own little corned of the 313 and 734! Come hear the organizers talk about what Nerd Nite is, what it came from, and how you can get involved!</blurb></event>
+<blurb><participant>Nerd Nite Detroit, Nerd Night Ann Arbor</participant> Learning is more fun when you're drinking with friends! Nerd Nite is spreading quickly across the nation, including our own little corner of the 313 and 734! Come hear the organizers talk about what Nerd Nite is, what it came from, and how you can get involved!</blurb></event>
 <event><title>Who Should Be in the Penguicon Hall of Fame?</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Penguicon HOF.</blurb></event>
 <time>12 AM</time>
 <event><title>Midnight Yoga I</title>
@@ -324,14 +336,14 @@
 <event><title>Alternative Lifestyles and the Law</title>
 <topic>After Dark</topic>
 <room>Centerpoint</room>
-<blurb><participant>Larissa Zubac, Mel G., Dana Chase, Phil Chase</participant> BDSM, as defined by the BDSM community, is a mutually beneficial relationship where all parties involved derivesome sort of satisfaction or pleasure from the BDSM relationship or acts performed during a scene.  Polyamory can be defined as the practice, desire, or acceptance of having more than one intimate relatinoship at a time with the knowledge and consent of everyone involved. In various ways 'The Law' disagrees with both of these choices. With an attorney and a law student to guide us, we will find ways to safely handle these legal challenges. <duration>0 minutes</duration></blurb></event>
+<blurb><participant>Larissa Zubac, Mel G., Dana Chase, Phil Chase</participant> BDSM, as defined by the BDSM community, is a mutually beneficial relationship where all parties involved derive some sort of satisfaction or pleasure from the BDSM relationship or acts performed during a scene.  Polyamory can be defined as the practice, desire, or acceptance of having more than one intimate relationship at a time with the knowledge and consent of everyone involved. In various ways 'The Law' disagrees with both of these choices. With an attorney and a law student to guide us, we will find ways to safely handle these legal challenges. <duration>0 minutes</duration></blurb></event>
 <event><title>Cinematic For The People I</title>
 <topic>Film</topic>
 <room>Salon A</room>
 <blurb><participant>Mike Dellheim, Russ Hannula, Jim Hanson</participant> Hey, do you like MST3K? Did you ever watch it and think, 'Hey, I can do that'? Well, so did we.. and now we are.  Cinematic for the People riffs on movies, serials, and shorts.  We also enjoy inflicting these horrible movies on the public whenever possible, which has bought us back to perform once again ths year!  Enjoy for the first time at Penguicon the full CFTP Trifecta of Jim, Mike, and Russ, featuring the movies 'Gamera vs Jiger' and 'Equals Against Devils' Brought to you with funding from out sponsor, HypoChondriCo. Note: We will be holding sessions both Friday and Saturday night. Come to one or both! <duration>1 hour and 0 minutes</duration></blurb></event>
 <event><title>In a Battle of Ultimate Villains, Who Wins?</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Villians. <duration>0 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>Geon's Mean Green Dancing Machines - Robotic Dance Team</title>
@@ -346,6 +358,10 @@
 <topic>Gaming</topic>
 <room>Private Dining</room>
 <blurb><participant>Bill Korsak</participant> In your first mission as a Pathfinder agent, the head of the Grand Lodge sends you on a number of missions throughout the metropolis of Absalom, pitting you against traps,thieves, and even an unruly devil, all in the pursuit of knowledge. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>A2YDIY</title>
+<topic>Hackerspace</topic>
+<room>Boardroom</room>
+<blurb><participant>Sarah Collins</participant> Come for a demonstration and chat with A2YDID.  Learn more about getting involved or the amazing workshops and projects they support.  While you're there, you can enjoy a 'Mystery Make n' Take' and try out a project to bring a lil' creation home with you. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Cardboard Crossbows II</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace A</room>
@@ -369,12 +385,20 @@
 <event><title>LibreOffice Workshop</title>
 <topic>Tech</topic>
 <room>Featherstone</room>
-<blurb><participant>Kevin O'Brien</participant> This will be a look at all of the components of LibreOffice, with particular attention to the Big Three apps (word processor, spreadsheet, slide show).  We will take this time to familiarize the attendees with these apps and see what they can do, and in addition address techniques for usint them to their best effect. <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Kevin O'Brien</participant> This will be a look at all of the components of LibreOffice, with particular attention to the Big Three apps (word processor, spreadsheet, slide show).  We will take this time to familiarize the attendees with these apps and see what they can do, and in addition address techniques for using them to their best effect. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>PSTN Demystified</title>
 <topic>Tech</topic>
 <room>Baldwin</room>
 <blurb><participant>Paul Timmins</participant> Presentation on the public switched telephone network to shed some light on how it operates.</blurb></event>
+<event><title>BoF: Linux Games</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Linux Games.</blurb></event>
 <time>11 AM</time>
+<event><title>Making the Energy Infrastructure Work</title>
+<topic>Tech</topic>
+<room>Salon A</room>
+<blurb><participant>Doug Houseman</participant> Mr. Houseman is working on the DOE Smart Grid Clearing House, NIST Smart Grid Project, IEEE GridVision 2050, and other smart grid related projects. He will explain how to make it work.</blurb></event>
 <event><title>Western Martial Arts Weaponry Demonstration I</title>
 <topic>Action/Adventure</topic>
 <room>Oakland</room>
@@ -387,23 +411,23 @@
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
 <blurb><participant>Dana Nelson</participant> Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!</blurb></event>
-<event><title>Making the Energy Infrastructure Work</title>
-<topic>Tech</topic>
-<room>Salon A</room>
-<blurb><participant>Doug Houseman</participant> Mr. Houseman is working on the DOE Smart Grid Clearing House, NIST Smart Grid Project, IEEE GridVision 2050, and other smart grid related projects. He will explain how to make it work.</blurb></event>
 <event><title>Parallel Programming in C-Sharp 5</title>
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Zak Klajda</participant> Parallel Programming in C# - Or, 'As it turns out, await doesn't actually wait for anything.' Curious about the new asynchronout programming suppot in C-Sharp 5? Curious about the improvements released in the end of 2012? Interested in learning the new parallel programming pattern in .NET? Or, maybe you just want to improve the responsiveness of your applications? If so, gee-golly, this is the panel for you!  This panel assumes attendees possess a solid core competency in C-like languages, software programming in general, and a minimum familiarity with the C-Sharp programming language.</blurb></event>
+<event><title>BoF: Beagle Board</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Beagle Board.</blurb></event>
+<event><title>The History of Penguicon</title>
+<topic>General Events</topic>
+<room>Wisner</room>
+<blurb><participant>Bill Putt</participant> Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it year one trying to convince geeks that the consuite was not a evil plot of some sort, the great tea set war in year four, or all about the two orders of the Penguin come join Bill as he recounts Penguicon History, or at least how he remembers it. </blurb></event>
+<time>12 PM</time>
 <event><title>The Future of Hackerspaces: Re-Inventing Education</title>
 <topic>Tech</topic>
 <room>Wisner</room>
 <blurb><participant>Dana Nelson</participant> Discussion on the future of hackerspaces and their effect on education.</blurb></event>
-<time>12 PM</time>
-<event><title>The History of Penguicon</title>
-<topic>General Events</topic>
-<room>Wisner</room>
-<blurb><participant>Bill Putt</participant> Blasted Bill has been apart of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it year one trying to convince geeks that the consuite was not a evil plot of some sort, the great tea set war in year four, or all about the two orders of the Penguin come join Bill as he recounts Penguicon History, or at least how he remembers it. </blurb></event>
 <event><title>Western Martial Arts Weaponry Demonstration II</title>
 <topic>Action/Adventure</topic>
 <room>Oakland</room>
@@ -424,6 +448,10 @@
 <topic>Film</topic>
 <room>Salon A</room>
 <blurb><participant>Keith Martens, James Fernandez, Mike Dellheim</participant> Want to make movies? Don't know where to start? It's more than just buying a camera.  Join some local filmmakers in an introductory session on film-making as we go over how we got started and discuss film as a hobby, weekend project, or full-fledged career, with truthfal information about the industry and difficulties involved.</blurb></event>
+<event><title>Open Soda Demo II</title>
+<topic>Food</topic>
+<room>Food</room>
+<blurb><participant>Bill Putt, Anthony Distel</participant> Watch our Open Soda Nifties - Bill and Anthony - actually make a 2 liter of soda during a live demonstration.  They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience.</blurb></event>
 <event><title>Create Floppy Disk Boxes and More</title>
 <topic>Hackerspace</topic>
 <room>Centerpoint</room>
@@ -444,7 +472,15 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Michael Mol</participant> Are you a bit crazy? Want to try and run IPv6 in the home?  Mike will take a look at hardware support, Internet connectivity plus firewalls and system compatibility.</blurb></event>
+<event><title>BoF: Cloud Computing</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Cloud Computing.</blurb></event>
 <time>1 PM</time>
+<event><title>Flavor-sensing Taste Test</title>
+<topic>Food</topic>
+<room>Food</room>
+<blurb><participant>Jeff Potter</participant> Ever wonder how your sense of taste and smell work?  Or how chefs know which ingredients go well together? Join in for a fun, simple taste test and a discussion about how we sense flavor.  Bring you curiosity! Please note: ingredients in taste test are not appropriate for people with allergies.</blurb></event>
 <event><title>Paint 'N Take II</title>
 <topic>General Events</topic>
 <room>Centerpoint</room>
@@ -461,10 +497,6 @@
 <topic>Film</topic>
 <room>Salon A</room>
 <blurb><participant>Keith Martens, James Fernandez</participant> Like some of the Web-Series we've been showing?  Think you'd like to try making one of your own?  They you'll want to attend this panel! We'll go over some of the dos and don'ts of how to get a series launched, some of the pitfalls we've run into, and hopefully how to keep your audience interested.</blurb></event>
-<event><title>Flavor-sensing Taste Test</title>
-<topic>Food</topic>
-<room>Food</room>
-<blurb><participant>Jeff Potter</participant> Ever wonder how your sense of taste and smell work?  Or how chefs know which ingredients go well together? Join in for a fun, simple taste test and a discussion about how we sense flavor.  Bring you curiosity! Please note: ingredients in taste test are not appropriate for people with allergies.</blurb></event>
 <event><title>Laser Cutters</title>
 <topic>Hackerspace</topic>
 <room>Featherstone</room>
@@ -489,6 +521,10 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Michael Mol</participant> IPv6 Software pitfalls including connecting and listening, and hostname resolution, plus a look at the currently existing IPv6 software stacks available.</blurb></event>
+<event><title>Tom Smith Happy Hour... Or Two</title>
+<topic>Music</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Tom Smith</participant> Enjoy the Filk legend's intimate performance with his biggest fans.  Tom will bring his usual supply of wit, charm, and musical genious to the event.  Come early, space is limited. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>2 PM</time>
 <event><title>Face Painting: Swirls, Spikes, and Teardrops</title>
 <topic>Costuming</topic>
@@ -517,7 +553,7 @@
 <event><title>Juggling for People Who Think They Can't Juggle</title>
 <topic>Mayhem</topic>
 <room>Oakland</room>
-<blurb><participant>Jody Raiford</participant> If you have tried to Juggle in the past, and not gotten it, this is the class for you! Jody will be teaching the basics of a standard 3-ball cascade (the basic "Juggle" in a brain-based, science-informed method. Trust me, if you acn toss a single ball from hand to hand, you can learn to juggle 3 balls in under an hour. All ages welcome, under 16 with adult please.</blurb></event>
+<blurb><participant>Jody Raiford</participant> If you have tried to Juggle in the past, and not gotten it, this is the class for you! Jody will be teaching the basics of a standard 3-ball cascade (the basic "Juggle") in a brain-based, science-informed method. Trust me, if you acn toss a single ball from hand to hand, you can learn to juggle 3 balls in under an hour. All ages welcome, under 16 with adult please.</blurb></event>
 <event><title>Chiptunes? 8-bit music? What's that?</title>
 <topic>Music</topic>
 <room>Salon A</room>
@@ -566,7 +602,7 @@
 <event><title>General Juggling Gather and Meetup</title>
 <topic>Mayhem</topic>
 <room>Oakland</room>
-<blurb><participant>Jody Raiford</participant> Whether you're a new player looking to pick up the basics or an advanced twister looking to toss some nine-bin, come on in and help us fill the air with toys and chat. Jody will be hosting, but you'll be the stars! Mingle and show off your skills with fellow enthusiasts.</blurb></event>
+<blurb><participant>Jody Raiford</participant> Whether you're a new player looking to pick up the basics or an advanced twister looking to toss some nine-pins, come on in and help us fill the air with toys and chat. Jody will be hosting, but you'll be the stars! Mingle and show off your skills with fellow enthusiasts.</blurb></event>
 <event><title>RHR Denton University - 0001:RH History - 1RHR Credit Hr.</title>
 <topic>RHPS</topic>
 <room>Salon B</room>
@@ -581,17 +617,21 @@
 <blurb><participant>Edward L. Platt</participant> Seltzer CRM is a free and open source modular web app for managing member and other contact data at hackerspaces. Initially developed at i3 Detroit, Seltzer makes it easy for hackerspaces and other membership organizations to track members, dues, key cards, and more.</blurb></event>
 <event><title>What Have You Done with Your Raspberry Pi?</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Raspberry Pi.</blurb></event>
 <time>4 PM</time>
-<event><title>Penguicon 2014 Planning Meeting</title>
-<topic>General Events</topic>
-<room>Boardroom</room>
-<blurb><participant>Nuri Gocay</participant> Planning meeting with the 2014 ConChair. If you're interested in helping to organize next year's convention, come offer up your soul for eternal torment... or you know, to help and stuff.</blurb></event>
 <event><title>Masquerade</title>
 <topic>Costuming</topic>
 <room>Oakland</room>
 <blurb><participant>Kat McConnell, Nicole Weltman</participant> The tradition continues with another parade of costuming genius and intense craftsmanship. See the best of the best in this presentation of costumed con-goers and ultimate contest. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Steal This Game Idea</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>James Folkerth</participant> Inspiration is a funny thing - even when our heads are overflowing with it, we can't have too much. The goal of this panel is to get a bunch of tabletop gamers in a room where we can spin off odd game ideas (so they can eventually find a home), marvel at each other's genius, and mine each other for inspiration.</blurb></event>
+<event><title>Penguicon 2014 Planning Meeting</title>
+<topic>General Events</topic>
+<room>Boardroom</room>
+<blurb><participant>Nuri Gocay</participant> Planning meeting with the 2014 ConChair. If you're interested in helping to organize next year's convention, come offer up your soul for eternal torment... or you know, to help and stuff.</blurb></event>
 <event><title>Stunts for Film</title>
 <topic>Film</topic>
 <room>Salon A</room>
@@ -611,7 +651,7 @@
 <event><title>Make 'Em Laugh: Comedy and Speculative Fiction</title>
 <topic>Literature</topic>
 <room>Wisner</room>
-<blurb><participant>Michael Cieslak, David Hayes, Laura Resnick</participant> Many can agree that humor has a special place in speculative fiction. Come for a discussion of what makes laughing in faraway worlds so much a part of the enjoyment.</blurb></event>
+<blurb><participant>Michael Cieslak, David Hayes, Laura Resnick, Jim C. Hines</participant> Many can agree that humor has a special place in speculative fiction. Come for a discussion of what makes laughing in faraway worlds so much a part of the enjoyment.</blurb></event>
 <event><title>Science as Magic</title>
 <topic>Literature</topic>
 <room>Baldwin</room>
@@ -628,10 +668,6 @@
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Andrew D. Kirch</participant> Using Zenoss to monitor Embedded Devices including basic Zenoss SSH monitoring on raspi/raspbian, creating an SNMP MIP for your project, and monitoring it, and SNMP on Arduino-likes.</blurb></event>
-<event><title>Steal This Game Idea</title>
-<topic>BoF</topic>
-<room>Martini Lounge</room>
-<blurb><participant>James Folkerth</participant> Inspiration is a funny thing - even when our heads are overflowing with it, we can't have too much. The goal of this panel is to get a bunch of tabletop gamers in a room where we can spin off odd game ideas (so they can eventually find a home), marvel at each other's genius, and mine each other for inspiration.</blurb></event>
 <time>5 PM</time>
 <event><title>Michael W. Lucas</title>
 <topic>General Events</topic>
@@ -653,7 +689,11 @@
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
 <blurb><participant>Dana Nelson</participant> Come learn to design and create the charming digital sounds produced by the premier console of the 80s! In this course, you will learn how to use electronic tools to bring back your long-lost high-tech memories. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Who's Geek Are You Anyway?</title>
+<event><title>The Periodic Table of Kittens</title>
+<topic>Life and (un)Death</topic>
+<room>Boardroom</room>
+<blurb><participant>Caitlynn Poirier</participant> Cats are attractive creatures many of us enjoy in our homes.  However, cats have many properties which we may find strange, even absurd.  This panel will explore some of the basic properties of cat comosition and explain their apparently inconsistent relation to scientific concepts.</blurb></event>
+<event><title>Whose Geek Are You Anyway?</title>
 <topic>Life and (un)Death</topic>
 <room>Salon A</room>
 <blurb><participant>Derek Newland</participant> After trying stand-up last year, the feedback included a strong desire for a "Who's Line Is It Anyway?" style improv session. Here it is! Bring suggestions for what you think would be entertaining to watch others perform, and be ready to participate!</blurb></event>
@@ -675,7 +715,7 @@
 <blurb><participant>Jon Wallace</participant> A panel on how to prepare yourself for entering rapid game prototype competitions. It will go over a variety of subjects including what to do weeks, days, and even hours before starting; including getting involved with the community, learning what types of tools are available, familiarizing yourself with rules, acquiring food type supplies, getting appropriate amounts of sleep, and making a rough schedule for the upcoming event. Also check out his past works by visiting wally2069.blogspot.com or following on twitter at @wally2069.</blurb></event>
 <event><title>RPG Newbies</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – RPG Gaming.</blurb></event>
 <time>6 PM</time>
 <event><title>Maik Schmidt – Creating Video Games with Arduino</title>
@@ -708,13 +748,21 @@
 <blurb><participant>Sharan Kalwani</participant> In the last 50 years, computing has seen tremendous changes. What is less known how ever is the fact that a lot of this has been driven by Supercomputing (aka High Performance Computing today). Often we see technologies which were first pioneered in HPC - then appear in the general domain. We will dive into history of HPC and point out the various technologies, trends, market steps and missteps, which all played a role. First UNIX and then Linux - played a critical role in it's widespread adoption."</blurb></event>
 <event><title>Brainstorming Solutions to Violence from Guns</title>
 <topic>BoF</topic>
-<room>Martini Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>John D. Bell</participant> Criminal misuse of guns in the USA causes greater than 10000 deaths annually. This should stop. Speculative fiction authors have long had a tradition of brainstorming for solutions to critical problems. Their 'out of the box' methods sometimes lead to innovative solutions, or at least fruitful approaches to reduce the problem. Join us, in a serious and respectful spirit, for such a discussion.</blurb></event>
 <event><title>The Rocky Horror Picture Show</title>
 <topic>BoF</topic>
 <room>Salon B</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – RHPS.</blurb></event>
 <time>7 PM</time>
+<event><title>DC to Daylight: A Whirlwind Tour of the Radio Spectrum and Why it Matters</title>
+<topic>Tech</topic>
+<room>Perry</room>
+<blurb><participant>Joe Bender</participant> Why does the AM dial start at 530 kilohertz?  What's between it and the FM band? Why was it such a big deal for analog television to stop broadcasting?</blurb></event>
+<event><title>Is Steam Punk SciFi?</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Jen Haeger, Scott Favre</participant> A lively meetup and debate on whether steam punk deserves to be under the SciFi banner. Steampunk or SciFi costumes encouraged!</blurb></event>
 <event><title>Jim C. Hines – Sexism and Cover Art</title>
 <topic>General Events</topic>
 <room>Wisner</room>
@@ -743,10 +791,6 @@
 <topic>Video Gaming</topic>
 <room>Oakland</room>
 <blurb><participant>Jon Wallace, Robert Turner</participant> Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Is Steam Punk SciFi?</title>
-<topic>BoF</topic>
-<room>Martini Lounge</room>
-<blurb><participant>Jen Haeger, Scott Favre</participant> A lively meetup and debate on whether steam punk deserves to be under the SciFi banner. Steampunk or SciFi costumes encouraged!</blurb></event>
 <time>1 AM</time>
 <event><title>Piko Piko (Various Performances)</title>
 <topic>Music</topic>
@@ -773,7 +817,7 @@
 <topic>Life and (un)Death</topic>
 <room>Baldwin</room>
 <blurb><participant>Jen Hamilton</participant> Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns.</blurb></event>
-<event><title>Swing Dancing - Learn New Moves, Impres Your Friends!</title>
+<event><title>Swing Dancing - Learn New Moves, Impress Your Friends!</title>
 <topic>Life and (un)Death</topic>
 <room>Salon A</room>
 <blurb><participant>Jasna Todorovic</participant> Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner.</blurb></event>
@@ -789,30 +833,30 @@
 <topic>Music</topic>
 <room>Boardroom</room>
 <blurb><participant>Inverse Phase</participant> Inverse Phase, creator of Pretty Eight Machine, a cover album of Nine Inch Nails' 'Pretty Hate Machine,' explains the pros and cons of remix and cover albums, where the legal boundaries are, and in general, why producing cover albums might not be the best idea.</blurb></event>
-<event><title>RHR - Annual Transylvanian Convention (Musical Meetup)</title>
+<event><title>RHR - Annual Transylvanian Convention (Musical Meetup and Dance Party)</title>
 <topic>RHPS</topic>
 <room>Salon B</room>
 <blurb><participant>Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn, Tina Hadley, Cyndee Richardson, Laura Robinson</participant> Where Aliens and Earth meet! Hang out with fellow "Unconventional Conventionists" in an.ti..ci......pation of the review of RHPS Gospel teachings later in the evening. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>VolP, SMS, and MMS</title>
-<topic>Tech</topic>
-<room>Wisner</room>
-<blurb><participant>Edward L. Platt</participant> Not everyone has a smart phone. Feature phones with SMS and MMS messaging are more ubiquitous, especially in low-income and international communities. Learn about tools to connect your app with VoIP, SMS, and MMS, and hear about exciting civic technology projects using these tools.</blurb></event>
 <event><title>IPv6 and Your Server</title>
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Michael Mol</participant> Quick bullet-poin run-through of IPv6 basics, and running a server on an IPv6 network.  Includes: system security, diagnostic tools, and software and service compatibility (Email, Web, DNS, SIP. Internet access.)</blurb></event>
+<event><title>Technobabel: Bringing Non-techies up to Speed</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk.</blurb></event>
+<event><title>Costuming Tips and Tricks</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Costuming.</blurb></event>
+<event><title>VolP, SMS, and MMS</title>
+<topic>Tech</topic>
+<room>Wisner</room>
+<blurb><participant>Edward L. Platt</participant> Not everyone has a smart phone. Feature phones with SMS and MMS messaging are more ubiquitous, especially in low-income and international communities. Learn about tools to connect your app with VoIP, SMS, and MMS, and hear about exciting civic technology projects using these tools.</blurb></event>
 <event><title>Controlling the World!</title>
 <topic>Tech</topic>
 <room>Featherstone</room>
 <blurb><participant>Phil Salkie</participant> Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world.</blurb></event>
-<event><title>Technobabel: Bringing Non-techies up to Speed</title>
-<topic>BoF</topic>
-<room>Parkview Lounge</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk.</blurb></event>
-<event><title>Costuming Tips and Tricks</title>
-<topic>BoF</topic>
-<room>Parkview Lounge</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Costuming.</blurb></event>
 <time>9 PM</time>
 <event><title>Sanity Claws Radio Podcast</title>
 <topic>General Events</topic>
@@ -828,7 +872,7 @@
 <blurb><participant>Gretchen Martin</participant> Explore mead with a guided tasting with B. Nektar, an award-winning Michigan meadery. With meads named Zombie Killer, Evil Genius and Necromangocon, they fit right in with our geekiest. Note: Picture ID is required to consume alcoholic beverages.</blurb></event>
 <event><title>Running the Game: A Crash Course</title>
 <topic>Gaming</topic>
-<room>Martini Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>James Folkerth, Bryan Marino</participant> Many gamers find the idea of stepping into the role of GM intimidating. Others would love to give it a spin but don't know where to start. This panel will attempt to ease the transition, laying out some tips, tricks, and techniques for conquering common challenges. We'll also talk about how to make sure you keep having fun, even while doing the hardest job at the table.</blurb></event>
 <event><title>Inkscape for LASER Cutter Use</title>
 <topic>Hackerspace</topic>
@@ -889,7 +933,7 @@
 <blurb><participant>Robert J. Trembley</participant> Robert J. Trembley, volunteer NASA/JPL Solar System Ambassador and local amateur astronomer will talk about things you can see in the urban night sky: ISS fly-overs, Iridium Flares, Meteors, Comets (2 this year!), Aurora... and a couple stars. Bob will also talk about local astronomy clubs, and astronomy-related events that take place in Michigan. Plus: hold a real meteorite! Bob will also have his telescopes available for observing sessions both Friday and Saturday nights, and Solar observing Saturday afternoon - weather permitting.</blurb></event>
 <event><title>Coding Conversations</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Coding.</blurb></event>
 <time>11 PM</time>
 <event><title>Open Kink II</title>
@@ -900,9 +944,13 @@
 <topic>After Dark</topic>
 <room>Centerpoint</room>
 <blurb><participant>Master Grizly, lil tala</participant> With a combined 25 years in the public BDSM community, Master Grizly and lil tala expand on their 101 class.  How to find out what you like, how to explain interests to potential partners, and a foundation for more advanced negotiation.  A quick dip into the branches of the BDSM world, from tpes of play (impact, psychological, role playing, etc), to attitudes (casual, scene, lifestyle, 24/7), and as an opportunity for audience questions.</blurb></event>
+<event><title>Open Soda Demo III</title>
+<topic>Food</topic>
+<room>Food</room>
+<blurb><participant>Bill Putt, Anthony Distel</participant> Watch our Open Soda Nifties - Bill and Anthony - actually make a 2 liter of soda during a live demonstration.  They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience.</blurb></event>
 <event><title>Divination With Dominion Cards</title>
 <topic>Gaming</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Matt Arnold</participant> Just for fun, we will pretend to perform cartomancy with Dominion cards. I have devised an intricate system for interpreting 20 randomly-selected cards, to tell you the winning strategy for the next few days of your life.</blurb></event>
 <event><title>Why Do Women Like the Bad Guy?</title>
 <topic>Literature</topic>
@@ -912,10 +960,14 @@
 <topic>Music</topic>
 <room>Oakland</room>
 <blurb><participant>Brendan Becker, Piko Piko</participant> Wax nostalgic with 8-bit games and computers of the Golden days! Inverse Phase writes music using the Atari, Nintendo, Commodore 64, and more. Be on the look out for his panels, QandA session and workshop as well! <duration>1 hour and 0 minutes</duration></blurb></event>
+<event><title>Best Brain Hacks</title>
+<topic>BoF</topic>
+<room>Perry</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Brain Hacks</blurb></event>
 <event><title>RHR - Annual Transylvanian Convention (Film)</title>
 <topic>RHPS</topic>
 <room>Salon B</room>
-<blurb><participant>Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn</participant> "The Rocky Horror Picture Show" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. <duration>2 hours and 0 minutes</duration></blurb></event>
+<blurb><participant>Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn</participant> "The Rocky Horror Picture Show" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up. <duration>2 hours and 0 minutes</duration></blurb></event>
 <time>9 AM</time>
 <event><title>The JavaScript Event Loop</title>
 <topic>Hackerspace</topic>
@@ -948,7 +1000,7 @@
 <blurb><participant>Scott Markwart, Steve Licavoli</participant> Have you ever wanted a video game controller with 40 buttons, 2 autonomous control sticks, and 3 foot pedals? Well want no more! Stop by and participate in our Community Let's Play hosted by the guys at Play What Now! And remember to check them out at DemonLobster.com. <duration>1 hour and 0 minutes</duration></blurb></event>
 <event><title>Bring Your Rhino</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Exotic Pets. <duration>0 minutes</duration></blurb></event>
 <event><title>Midnight Drum Circle Hour</title>
 <topic>BoF</topic>
@@ -980,6 +1032,18 @@
 <room>Salon A</room>
 <blurb><participant>Mat Enders, Tony Bemus, Mary Tomich</participant> Mat Enders, Tony Bemus, and Mary Tomich are the hosts of the Sunday Morning Linux Review http://www.smlr.us. They will talk about what got them into podcasting and what it takes to produce their podcast. They will also record a show in front of a live audience. After recording the show Tony will talk about how they edit and post the show. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>11 AM</time>
+<event><title>Getting the Most Out of E-Books for the Digital Library</title>
+<topic>Literature</topic>
+<room>Featherstone</room>
+<blurb><participant>Janea Schimmel</participant> Discuss the different types of software used by library, types of book formating supported, and how to connect your materials to the library digital book system.</blurb></event>
+<event><title>How to Conduct a Scrum Poker Session Using Story Points</title>
+<topic>Tech</topic>
+<room>Wisner</room>
+<blurb><participant>Mark Haynes</participant> A software development methodology in which developers secretly choose cards, then simultaneously reveal them, to show how long they estimate it will take to write a unit of code called a story.</blurb></event>
+<event><title>Brining More Women into Tech Fields</title>
+<topic>BoF</topic>
+<room>Parkway Lounge</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Women in Technology Professions</blurb></event>
 <event><title>Introduction to Western Martial Arts Weaponry Sword and Dagger</title>
 <topic>Action/Adventure</topic>
 <room>Oakland</room>
@@ -992,14 +1056,6 @@
 <topic>Life and (un)Death</topic>
 <room>Perry</room>
 <blurb><participant>Bill Putt, Bob Brodis</participant> Religion is a touchy and complex issue. It gets even more difficult when the wrong words are used. Come find out how Athiest, Theiest, Gnostic, and Agnosic all relate so the next time some one tells you they are an Athiest you can properly respond with weather you're Atheist or Theist before moving on to Gnostic/Agnosic part. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused All religions are welcome and will not be judged. Categorized, but not judged. Just be warned both panelists are Atheist.  </blurb></event>
-<event><title>Getting the Most Out of E-Books for the Digital Library</title>
-<topic>Literature</topic>
-<room>Featherstone</room>
-<blurb><participant>Janea Schimmel</participant> Discuss the different types of software used by library, types of book formating supported, and how to connect your materials to the library digital book system.</blurb></event>
-<event><title>How to Conduct a Scrum Poker Session Using Story Points</title>
-<topic>Tech</topic>
-<room>Wisner</room>
-<blurb><participant>Mark Haynes</participant> Using story points, we'll explore how to conduct a Scrum poker session.</blurb></event>
 <event><title>Grange Jr. Makers - Creating Programming for Young Makers</title>
 <topic>Tech</topic>
 <room>Baldwin</room>
@@ -1008,7 +1064,7 @@
 <event><title>Open Film Room</title>
 <topic>Film</topic>
 <room>Salon B</room>
-<blurb><participant>Open</participant> At scheduled times, this room will be available for you to showcase your own creations. A/V equipment will be ready, but you must bring your own input device (preferably laptop). A sign-up sheet will remain in the room. Block off a time for your short film or video clips. <duration>4 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Open</participant> At scheduled times, this room will be available for you to showcase your own creations. A/V equipment will be ready, but you must bring your own input device (preferably laptop). A sign-up sheet will remain in the room. Block off a time for your short film or video clips. <duration>3 hours and 50 minutes</duration></blurb></event>
 <event><title>Learn to Solder! II</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace A</room>
@@ -1033,27 +1089,27 @@
 <topic>Tech</topic>
 <room>Baldwin</room>
 <blurb><participant>Susan Stewart, Eric S. Raymond</participant> Running or participating in an open source project? Want the human machinery to "just work" with minimal intervention? Learn to reduce drama, produce better code, manage project growing pains and more to help your project's community thrive over time. Bring your questions and an open mind.</blurb></event>
-<event><title>Why Can't Ashly Sing?</title>
+<event><title>Why Can't Ashley Sing?</title>
 <topic>Tech</topic>
 <room>Salon A</room>
-<blurb><participant>Steve Gualdoni</participant> I short introduction to the magic of modern recording studio technologies from a working recording engineer. Exposes how many 'artists' are really no more than conduits for the photoshop-like technology that makes artists seem talented.</blurb></event>
+<blurb><participant>Steve Gualdoni</participant> A short introduction to the magic of modern recording studio technologies from a working recording engineer. Exposes how many 'artists' are really no more than conduits for the photoshop-like technology that makes artists seem talented.</blurb></event>
 <event><title>How I Became an iOS Developer for Fun and Debt</title>
 <topic>Tech</topic>
 <room>Perry</room>
 <blurb><participant>Mark Stanislav</participant> With the explosive growth of both the iOS and Android platforms, building an "app" is the new "I built a web site!" in terms of nerdy pursuits. Unfortunately, developing an app in traditional methods can be overwhelming for even a reasonably technical person who doesn't possess a proper foundation in application programming. Come hear not only how RubyMotion can destroy the learning-curve associated with iOS app development, but also hear the steps and frustrations involved in starting a business and getting an app into the Apple App Store. Examples of RubyMotion code and its resulting app will be demoed.</blurb></event>
 <event><title>Roger Zelanzy Fans</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Roger Zelanzy.</blurb></event>
 <time>1 PM</time>
-<event><title>Paint 'N Take III</title>
-<topic>General Events</topic>
-<room>Centerpoint</room>
-<blurb><participant>Dean and Linda</participant> Stop by the Paint 'N Take to practice your mini-figure artisanship. Our experts will guide you in painting and preserving techniques to produce your RPG, tabletop game, or souvenir figure to perfection. Please note, figures will be available for $5 during these sessions. <duration>2 hours and 50 minutes</duration></blurb></event>
 <event><title>Introduction to Western Martial Arts Weaponry Spear and Quarterstaff</title>
 <topic>Action/Adventure</topic>
 <room>Oakland</room>
 <blurb><participant>Heather Gutterman, Mary Poirier, Taylor Watkins, Shannon Marshall, Doug Scholl</participant> Learn to use a spear and a quarterstaff! This workshop teaches concepts suitable for both beginners and experienced martial artists. We will be active - please come in appropriate clothing and footwear. Attendance is limited. Presented by Polaris Fellowship of Weapon Study, a western martial arts school local to Farmington Hills, MI. Note: You must sign up at Ops in order to attend this class.</blurb></event>
+<event><title>Paint 'N Take III</title>
+<topic>General Events</topic>
+<room>Centerpoint</room>
+<blurb><participant>Dean and Linda</participant> Stop by the Paint 'N Take to practice your mini-figure artisanship. Our experts will guide you in painting and preserving techniques to produce your RPG, tabletop game, or souvenir figure to perfection. Please note, figures will be available for $5 during these sessions. <duration>2 hours and 50 minutes</duration></blurb></event>
 <event><title>Introduction to Lightsaber Combat</title>
 <topic>Action/Adventure</topic>
 <room>Wisner</room>
@@ -1070,7 +1126,7 @@
 <topic>Hackerspace</topic>
 <room>Hackerspace B</room>
 <blurb><participant>AHA, Dana Nelson</participant> Interested in creating three dimensional masterpieces? Come learn to use the free software, Google Sketchup, to create them. We'll talk about the basic tools and use our (or your own) computers to create your own projects and make them ready for a 3D Printer!</blurb></event>
-<event><title>Preemie Growth Project: History and Results of Micronutrient Supplementation on Growth and Neuromuscular Issues</title>
+<event><title>Preemie Growth Project</title>
 <topic>Science</topic>
 <room>Baldwin</room>
 <blurb><participant>Ida Briggs</participant> History of the breakthroughs leading to "Phase 2 of the Preemie Growth Project: Investigation into Neuromuscular Issues" and then "Preliminary Results" <duration>1 hour and 50 minutes</duration></blurb></event>
@@ -1084,13 +1140,13 @@
 <blurb><participant>Neil Funk, Will Bowen</participant> Learn the basics of livecoding (programming as a performance art) and give it a try for yourself! Set to music, see your code superimposed over the visualization graphics it creates, evolving as you code. Taught using the Fluxus environment; Scheme programming experience helpful, but not required. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Your Favorite MMORPG</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – MMORPG.</blurb></event>
 <time>2 PM</time>
 <event><title>Cardboard Crossbows III</title>
 <topic>Hackerspace</topic>
 <room>Hackerspace A</room>
-<blurb><participant>Dana Nelson</participant> Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. <duration>0 minutes</duration></blurb></event>
+<blurb><participant>Dana Nelson</participant> Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class.</blurb></event>
 <event><title>RHR - Annual Transylvanian Convention (Film Study)</title>
 <topic>RHPS</topic>
 <room>Salon B</room>
@@ -1101,7 +1157,7 @@
 <blurb><participant>Todd Robinson, Karlie Robinson</participant> During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft® Windows® development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the "31 Flavors of Fun." At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more.</blurb></event>
 <event><title>Greatest Epic Sci-Fi/Fantasy Series</title>
 <topic>BoF</topic>
-<room>Parkview Lounge</room>
+<room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Epic Series.</blurb></event>
 <time>3 PM</time>
 <event><title>Closing Ceremonies</title>
@@ -1111,12 +1167,7 @@
 <event><title>Write Your Own Nintendo Music: Intermediate Level</title>
 <topic>Music</topic>
 <room>Salon A</room>
-<blurb><participant>Inverse Phase</participant> Now that you've attended the beginner chiptune workshop (or if you already know how to write a basic chiptine), it's time to learn some tips and tricks to make your music stand out! Come and ask how to accomplish certain tricks, use special effects, and generally speaking, amke your chiptune-writng life easier.</blurb></event>
-<time>4 PM</time>
-<event><title>RHR - Random Movie Mayhem</title>
-<topic>RHPS</topic>
-<room>Salon B</room>
-<blurb><participant>Rocky Horror Resurrection</participant> If you are still awake or like obscure shows, come and see what RHR related eccentricities may be in store for you! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Inverse Phase</participant> Now that you've attended the beginner chiptune workshop (or if you already know how to write a basic chiptune), it's time to learn some tips and tricks to make your music stand out! Come and ask how to accomplish certain tricks, use special effects, and generally speaking, amke your chiptune-writing life easier.</blurb></event>
 <time>1 AM</time>
 <event><title>Cinematic For The People II</title>
 <topic>Film</topic>
@@ -1130,11 +1181,6 @@
 <topic>RHPS</topic>
 <room>Salon B</room>
 <blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> See those brave souls who have completed all their graduation requirements earn their RHR Diploma and lose their RHPS Virgin status . . . forever <duration>1 hour and 0 minutes</duration></blurb></event>
-<time>11 PM</time>
-<event><title>Best Brain Hacks</title>
-<topic>BoF</topic>
-<room>Featherstone</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Brain Hacks</blurb></event>
 <time>2 AM</time>
 <event><title>What Color of Crayola Crayon Most Represents Your Personality?</title>
 <topic>BoF</topic>
@@ -1145,24 +1191,14 @@
 <topic>BoF</topic>
 <room>Perry</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Potatoes. <duration>0 minutes</duration></blurb></event>
+<time>4 AM</time>
+<event><title>RHR - Random Movie Mayhem</title>
+<topic>RHPS</topic>
+<room>Salon B</room>
+<blurb><participant>Rocky Horror Resurrection</participant> If you are still awake or like obscure shows, come and see what RHR related eccentricities may be in store for you! <duration>1 hour and 0 minutes</duration></blurb></event>
 <time>9 AM</time>
 <event><title>1st Annual Penguicon Pillow Fight</title>
 <topic>General Events</topic>
 <room>Oakland</room>
 <blurb><participant>Kat McConnell</participant> Roll out of bed and into the Big Top for a free-for-all pillow fight! Oh wait, we'll get sued? OK, a well-organized, polite, judged and refereed pillow fight! What? Hotel doesn't like that either? Fine, a subdued discussion of gravity, cotton, feathers, and facial injuries, followed by audience demonstration. Please bring your own pillow, NO hotel, foam, feather, or other heavy pillows can be entered into the festivities. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>4 PM</time>
-<event><title>The Tao of Kitteh</title>
-<topic>Life and (un)Death</topic>
-<room>Boardroom</room>
-<blurb><participant>Caitlynn Poirier</participant> The logic of kittehs is abound with mystery and a marked lack of actual logic. Right? No! Kittehs ahve their own strain of logic they follow which lead them to the sometimes profoundly odd things they do.  The Tao of Kitteh is a primer to learn those on the thinking and actions of kittehs.</blurb></event>
-<time>5 PM</time>
-<event><title>The Periodic Table of Kittens</title>
-<topic>Life and (un)Death</topic>
-<room>Boardroom</room>
-<blurb><participant>Caitlynn Poirier</participant> Cats are attractive creatures many of us enjoy in our homes.  However, cats have many properties which we may find strange, even absurd.  This panel will explore some of the basic properties of cat comosition and explain their apparently inconsistent relation to scientific concepts.</blurb></event>
-<time>7 PM</time>
-<event><title>DC to Daylight: A Whirlwind Tour of the Radio Spectrum and Why it Matters</title>
-<topic>Tech</topic>
-<room>Perry</room>
-<blurb><participant>Joe Bender</participant> Why does the AM dial start at 530 kilohertz?  What's between it and the FM band? Why was it such a big deal for analog television to stop broadcasting?</blurb></event>
 </document></events>
