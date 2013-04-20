@@ -345,6 +345,24 @@
 <topic>BoF</topic>
 <room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Villians. <duration>0 minutes</duration></blurb></event>
+<time>1 AM</time>
+<event><title>Piko Piko (Various Performances)</title>
+<topic>Music</topic>
+<room>Oakland</room>
+<blurb><participant>Piko Piko</participant> Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us. <duration>0 minutes</duration></blurb></event>
+<time>9 AM</time>
+<event><title>The JavaScript Event Loop</title>
+<topic>Hackerspace</topic>
+<room>Hackerspace B</room>
+<blurb><participant>Thomas Hunter</participant> Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. <duration>0 minutes</duration></blurb></event>
+<event><title>Dramatic Fusion Belly Dance</title>
+<topic>Life and (un)Death</topic>
+<room>Salon A</room>
+<blurb><participant>Shetan Noir</participant> Learn to add Gothic, Dubstep, and Steampunk style fusion movements into your Belly Dance. Combining slow-motion and stop-motion techniques to bring mood and attitude to your dance. <duration>0 minutes</duration></blurb></event>
+<event><title>The Computer Nerd's Guide to Positive User Interaction</title>
+<topic>Tech</topic>
+<room>Salon B</room>
+<blurb><participant>Ida Briggs</participant> Discussion on communication skills for computer professionals to increase user interfaces, a somewhat humourous, but VERY useful and blunt talk. Topics include: faking interest, assuming others aren't idiots, and (of course) why Scott is/was/will be the Consumate Genius. <duration>0 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>Geon's Mean Green Dancing Machines - Robotic Dance Team</title>
 <topic>General Events</topic>
@@ -791,11 +809,6 @@
 <topic>Video Gaming</topic>
 <room>Oakland</room>
 <blurb><participant>Jon Wallace, Robert Turner</participant> Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>1 AM</time>
-<event><title>Piko Piko (Various Performances)</title>
-<topic>Music</topic>
-<room>Oakland</room>
-<blurb><participant>Piko Piko</participant> Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us. <duration>0 minutes</duration></blurb></event>
 <time>8 PM</time>
 <event><title>Penguicon Variety Show Prep Session</title>
 <topic>General Events</topic>
@@ -968,19 +981,6 @@
 <topic>RHPS</topic>
 <room>Salon B</room>
 <blurb><participant>Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn</participant> "The Rocky Horror Picture Show" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up. <duration>2 hours and 0 minutes</duration></blurb></event>
-<time>9 AM</time>
-<event><title>The JavaScript Event Loop</title>
-<topic>Hackerspace</topic>
-<room>Hackerspace B</room>
-<blurb><participant>Thomas Hunter</participant> Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. <duration>0 minutes</duration></blurb></event>
-<event><title>Dramatic Fusion Belly Dance</title>
-<topic>Life and (un)Death</topic>
-<room>Salon A</room>
-<blurb><participant>Shetan Noir</participant> Learn to add Gothic, Dubstep, and Steampunk style fusion movements into your Belly Dance. Combining slow-motion and stop-motion techniques to bring mood and attitude to your dance. <duration>0 minutes</duration></blurb></event>
-<event><title>The Computer Nerd's Guide to Positive User Interaction</title>
-<topic>Tech</topic>
-<room>Salon B</room>
-<blurb><participant>Ida Briggs</participant> Discussion on communication skills for computer professionals to increase user interfaces, a somewhat humourous, but VERY useful and blunt talk. Topics include: faking interest, assuming others aren't idiots, and (of course) why Scott is/was/will be the Consumate Genius. <duration>0 minutes</duration></blurb></event>
 <time>12 AM</time>
 <event><title>Midnight Yoga II</title>
 <topic>General Events</topic>
@@ -1010,6 +1010,39 @@
 <topic>BoF</topic>
 <room>Perry</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Dope Zebra. <duration>0 minutes</duration></blurb></event>
+<time>1 AM</time>
+<event><title>Cinematic For The People II</title>
+<topic>Film</topic>
+<room>Oakland</room>
+<blurb><participant>Mike Dellheim, Russ Hannula, Jim Hanson</participant> Hey, do you like MST3K? Did you ever watch it and think, 'Hey, I can do that'? Well, so did we.. and now we are.  Cinematic for the People riffs on movies, serials, and shorts.  We also enjoy inflicting these horrible movies on the public whenever possible, which has bought us back to perform once again ths year!  Enjoy for the first time at Penguicon the full CFTP Trifecta of Jim, Mike, and Russ, featuring the movies 'Gamera vs Jiger' and 'Equals Against Devils' Brought to you with funding from out sponsor, HypoChondriCo. Note: We will be holding sessions both Friday and Saturday night. Come to one or both! <duration>1 hour and 0 minutes</duration></blurb></event>
+<event><title>You're Given a Magic Lamp, What Do You Wish For?</title>
+<topic>BoF</topic>
+<room>Perry</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Wishes. <duration>0 minutes</duration></blurb></event>
+<event><title>RHR Denton University Graduation Ceremony</title>
+<topic>RHPS</topic>
+<room>Salon B</room>
+<blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> See those brave souls who have completed all their graduation requirements earn their RHR Diploma and lose their RHPS Virgin status . . . forever <duration>1 hour and 0 minutes</duration></blurb></event>
+<time>2 AM</time>
+<event><title>What Color of Crayola Crayon Most Represents Your Personality?</title>
+<topic>BoF</topic>
+<room>Perry</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Personality. <duration>0 minutes</duration></blurb></event>
+<time>3 AM</time>
+<event><title>I Have a Potato (Part II)</title>
+<topic>BoF</topic>
+<room>Perry</room>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Potatoes. <duration>0 minutes</duration></blurb></event>
+<time>4 AM</time>
+<event><title>RHR - Random Movie Mayhem</title>
+<topic>RHPS</topic>
+<room>Salon B</room>
+<blurb><participant>Rocky Horror Resurrection</participant> If you are still awake or like obscure shows, come and see what RHR related eccentricities may be in store for you! <duration>1 hour and 0 minutes</duration></blurb></event>
+<time>9 AM</time>
+<event><title>1st Annual Penguicon Pillow Fight</title>
+<topic>General Events</topic>
+<room>Oakland</room>
+<blurb><participant>Kat McConnell</participant> Roll out of bed and into the Big Top for a free-for-all pillow fight! Oh wait, we'll get sued? OK, a well-organized, polite, judged and refereed pillow fight! What? Hotel doesn't like that either? Fine, a subdued discussion of gravity, cotton, feathers, and facial injuries, followed by audience demonstration. Please bring your own pillow, NO hotel, foam, feather, or other heavy pillows can be entered into the festivities. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>LN2 Sunday Brunch</title>
 <topic>Food</topic>
@@ -1168,37 +1201,4 @@
 <topic>Music</topic>
 <room>Salon A</room>
 <blurb><participant>Inverse Phase</participant> Now that you've attended the beginner chiptune workshop (or if you already know how to write a basic chiptune), it's time to learn some tips and tricks to make your music stand out! Come and ask how to accomplish certain tricks, use special effects, and generally speaking, amke your chiptune-writing life easier.</blurb></event>
-<time>1 AM</time>
-<event><title>Cinematic For The People II</title>
-<topic>Film</topic>
-<room>Oakland</room>
-<blurb><participant>Mike Dellheim, Russ Hannula, Jim Hanson</participant> Hey, do you like MST3K? Did you ever watch it and think, 'Hey, I can do that'? Well, so did we.. and now we are.  Cinematic for the People riffs on movies, serials, and shorts.  We also enjoy inflicting these horrible movies on the public whenever possible, which has bought us back to perform once again ths year!  Enjoy for the first time at Penguicon the full CFTP Trifecta of Jim, Mike, and Russ, featuring the movies 'Gamera vs Jiger' and 'Equals Against Devils' Brought to you with funding from out sponsor, HypoChondriCo. Note: We will be holding sessions both Friday and Saturday night. Come to one or both! <duration>1 hour and 0 minutes</duration></blurb></event>
-<event><title>You're Given a Magic Lamp, What Do You Wish For?</title>
-<topic>BoF</topic>
-<room>Perry</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Wishes. <duration>0 minutes</duration></blurb></event>
-<event><title>RHR Denton University Graduation Ceremony</title>
-<topic>RHPS</topic>
-<room>Salon B</room>
-<blurb><participant>Tim Downing, Steven Ostrowski, Derick Prieskorn</participant> See those brave souls who have completed all their graduation requirements earn their RHR Diploma and lose their RHPS Virgin status . . . forever <duration>1 hour and 0 minutes</duration></blurb></event>
-<time>2 AM</time>
-<event><title>What Color of Crayola Crayon Most Represents Your Personality?</title>
-<topic>BoF</topic>
-<room>Perry</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Personality. <duration>0 minutes</duration></blurb></event>
-<time>3 AM</time>
-<event><title>I Have a Potato (Part II)</title>
-<topic>BoF</topic>
-<room>Perry</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Potatoes. <duration>0 minutes</duration></blurb></event>
-<time>4 AM</time>
-<event><title>RHR - Random Movie Mayhem</title>
-<topic>RHPS</topic>
-<room>Salon B</room>
-<blurb><participant>Rocky Horror Resurrection</participant> If you are still awake or like obscure shows, come and see what RHR related eccentricities may be in store for you! <duration>1 hour and 0 minutes</duration></blurb></event>
-<time>9 AM</time>
-<event><title>1st Annual Penguicon Pillow Fight</title>
-<topic>General Events</topic>
-<room>Oakland</room>
-<blurb><participant>Kat McConnell</participant> Roll out of bed and into the Big Top for a free-for-all pillow fight! Oh wait, we'll get sued? OK, a well-organized, polite, judged and refereed pillow fight! What? Hotel doesn't like that either? Fine, a subdued discussion of gravity, cotton, feathers, and facial injuries, followed by audience demonstration. Please bring your own pillow, NO hotel, foam, feather, or other heavy pillows can be entered into the festivities. <duration>1 hour and 50 minutes</duration></blurb></event>
 </document></events>
