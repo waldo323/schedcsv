@@ -35,8 +35,8 @@ extrainfo= """
 """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
-
-calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s,3600 Centerpoint Parkway Pontiac, Michigan 48341 USA",%(private)s\n"""
+hoteladdress = "3600 Centerpoint Parkway Pontiac, Michigan 48341 USA"
+calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s,%(private)s\n"""
 
 # replace all function to help with the clean up
 def replace_all(text, dic):
@@ -267,8 +267,6 @@ sessions.sort(key=itemgetter('index'))
 sessions.sort(key=itemgetter('allday'), reverse=True)
 speakers.sort()
 tempstart = "test"
-
-directories = ['output','./calendars']
 
 
 rp = "./output/"
