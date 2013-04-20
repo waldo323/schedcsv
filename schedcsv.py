@@ -135,6 +135,8 @@ for index, x in enumerate(pconsched.schedule):
 
         # separate the time and day into different variables
         
+        session['input'] = x
+        session['index'] = index
         ##start day and time assignments
         if  (field == "Start Date"):
             session['startday'] = fieldtext
@@ -246,8 +248,12 @@ for index, x in enumerate(pconsched.schedule):
     sessions.append(session)
 
 ## sort the list of sessions here by day then by time.
-#sessions.sort(key=itemgetter('allday'), reverse=True)
-sessions.sort(key=itemgetter('startday','starttime'))
+# if the spreadsheet is in order use the index for sorting
+# otherwise implement an index for the sessions in another ways
+sessions.sort(key=itemgetter('index'))
+
+# old n busted sort 
+#sessions.sort(key=itemgetter('startday','starttime'))
 sessions.sort(key=itemgetter('allday'), reverse=True)
 speakers.sort()
 tempstart = "test"
@@ -307,6 +313,14 @@ with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
 
 fullcalendar.close()
 
+#with open("sessiondata.csv",'w') as sessiondata:
+writer = csv.writer(open('dict.csv', 'wb'))
+for index, y in enumerate(sessions):
+    for key, value in y.items():
+        writer.writerow([key, value])
+
+
+#fullcalendar.close()
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open('2013.penguicon.schedule.alltimes.xml', 'r')
