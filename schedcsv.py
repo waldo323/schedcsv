@@ -269,12 +269,14 @@ speakers.sort()
 tempstart = "test"
 
 directories = ['output','./calendars']
-if not os.path.exists(directories):
-    os.makedirs(directories)
+
 
 rp = "./output/"
 caldir = "./calendars/"
-
+if not os.path.exists(rp):
+    os.makedirs(rp)
+if not os.path.exists(caldir):
+    os.makedirs(caldir)
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2013.penguicon.schedule.alltimes.xml",'w') as myoutput:
@@ -301,7 +303,7 @@ myoutput.close()
 #"""
 
 with open(rp + "2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
+  with open(rp + "2013.penguicon.speakers.txt",'w') as fullspeaker:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           discountedspeaker.write("%s\n" % (key))
@@ -342,23 +344,23 @@ Literature
 """
 # output the full calendar
 with open( caldir + "2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
-  #with open(rp + "2013.penguicon.speakers.txt",'w') as fullspeaker:
+  #with open(caldir + "2013.penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
     for track in tracks:
-        with open(caldir + "cal." + tracksdict[track] + ".csv",'w') as tempcal:
+        with open(caldir + tracksdict[track] + ".csv",'w') as tempcal:
             tempcal.write(calendar_header)
             tempcal.close()
     for index, y in enumerate(sessions):
         if not y['All Day Event'] == 'All Day Event':
             fullcalendar.write(calendar_template % y)
-            with open("cal." + y['tracknosp'] + ".csv",'a') as tempcal:
+            with open(caldir + y['tracknosp'] + ".csv",'a') as tempcal:
                 tempcal.write(calendar_template % y)
             tempcal.close()
 
 fullcalendar.close()
 
 #with open(rp + "sessiondata.csv",'w') as sessiondata:
-writer = csv.writer(open('dict.csv', 'wb'))
+writer = csv.writer(open(rp + 'dict.csv', 'wb'))
 for index, y in enumerate(sessions):
     for key, value in y.items():
         writer.writerow([key, value])
