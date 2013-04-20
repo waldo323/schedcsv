@@ -121,6 +121,8 @@ calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All
 
 sessions = [] # list of sessions...empty so far!
 speakers = [] # list of speakers...empty as well. imagine that
+tracks = []   # list of tracks
+tracksdict = {}   # for use in creating a dictionary of tracks with no space in their name 
 speakerdict = {}
 hourslist = {}
 
@@ -180,6 +182,14 @@ for index, x in enumerate(pconsched.schedule):
             session['name'] = fieldtext
         if  (field == "Track"):
             session['event_type'] = fieldtext
+            temptrack = re.sub(r'\s','', fieldtext)
+            temptrack = re.sub(r'\(','', temptrack)
+            temptrack = re.sub(r'\)','', temptrack)
+            temptrack = re.sub(r'/','', temptrack)
+            session['tracknosp'] = temptrack
+            if fieldtext not in tracks:
+              tracks.append(fieldtext)
+              tracksdict[fieldtext] = temptrack
         if  (field == "All Day Event"):
             if  (fieldtext == ""):
               session['allday'] = "FALSE"
@@ -235,8 +245,8 @@ for index, x in enumerate(pconsched.schedule):
 #        print "event_start " + session['event_start']
 #        print "event_end " + session['event_end']
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-3]), int(session['starttime'][:-3]) , int(session['endday'][2:-3]) , int(session['endtime'][:-3]), session['endtime'][3:])
-
-        
+   
+    
     session['speakerlist'] = session['speakers'].split(", ")
     for speaker in session['speakerlist']:
         if speaker not in speakers:
@@ -303,13 +313,40 @@ with open("2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
 fullspkr.close()
 dscountedspkr.close()
 
+# one calendar per track/type of programming
+"""
+Mayhem
+Music
+RHPS
+Science
+Tech
+VideoGaming
+Hackerspace
+BirdsofaFeather
+GeneralEvents
+ActionAdventure
+AfterDark
+Costuming
+Film
+Food
+Gaming
+LifeAndunDeath
+Literature
+"""
 # output the full calendar
 with open("2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
   #with open("2013.penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
+    for track in tracks:
+        with open("cal." + tracksdict[track] + ".csv",'w') as tempcal:
+            tempcal.write(calendar_header)
+            tempcal.close()
     for index, y in enumerate(sessions):
         if not y['All Day Event'] == 'All Day Event':
             fullcalendar.write(calendar_template % y)
+            with open("cal." + y['tracknosp'] + ".csv",'a') as tempcal:
+                tempcal.write(calendar_template % y)
+            tempcal.close()
 
 fullcalendar.close()
 
