@@ -370,7 +370,7 @@ for index, y in enumerate(sessions):
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open(rp + '2013.penguicon.schedule.alltimes.xml', 'r')
-outputfile = open('2013.penguicon.schedule.xml', 'w')
+outputfile = open('penguicon.schedule.xml', 'w')
 
 currenttime = '<time>4 PM</time>'
 lasttime = '<time>All Weekend</time>'
