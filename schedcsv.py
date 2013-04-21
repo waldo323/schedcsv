@@ -310,13 +310,16 @@ with open(rp + "2013.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 
 fullspeaker.close()
 discountedspeaker.close()
-
+fullspkrlist = []
 with open(rp + "2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
   with open(rp + "2013.penguicon.spkrs.bylast.txt",'w') as fullspkr:
-    for key, value in sorted(speakerdict.iteritems(), value=lambda (v,k): (v,k)):
+    for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
-      fullspkr.write("%s\n" % (key, value))
+      fullspkrlist.append( str(value)+ key)
+      #fullspkr.write("%s\n" % (key, value))
+    for x in sorted(fullspkrlist):
+      fullspkr.write(x)
 
 fullspkr.close()
 dscountedspkr.close()
