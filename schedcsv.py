@@ -313,35 +313,16 @@ discountedspeaker.close()
 
 with open(rp + "2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
   with open(rp + "2013.penguicon.spkrs.bylast.txt",'w') as fullspkr:
-    for key, value in sorted(speakerdict.iteritems(), key=lambda (v,k): (v,k)):
+    for key, value in sorted(speakerdict.iteritems(), value=lambda (v,k): (v,k)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
-      fullspkr.write("%s\n" % (key))#, value))
+      fullspkr.write("%s\n" % (key, value))
 
 fullspkr.close()
 dscountedspkr.close()
 
 # one calendar per track/type of programming
-"""
-Mayhem
-Music
-RHPS
-Science
-Tech
-VideoGaming
-Hackerspace
-BirdsofaFeather
-GeneralEvents
-ActionAdventure
-AfterDark
-Costuming
-Film
-Food
-Gaming
-LifeAndunDeath
-Literature
-"""
-# output the full calendar
+#  also output the full calendar
 with open( caldir + "2013.penguicon.fullcalendar.csv",'w') as fullcalendar:
   #with open(caldir + "2013.penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
