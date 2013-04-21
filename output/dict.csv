@@ -619,7 +619,7 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Hackerspace A
 duration,50 minutes
-description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 index,15
 speakers,Dana Nelson
 Track,Hackerspace
@@ -630,18 +630,18 @@ event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
 tracknosp,Hackerspace
-input,"['4/26/13', '17:00', '4/26/13', '17:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows I', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class.', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '17:00', '4/26/13', '17:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows I', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. ', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,Dana Nelson
 speakerlist,['Dana Nelson']
 hours,0
 totalminutes,50
-caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 endtime,17:50
 name,Cardboard Crossbows I
 Private,PUBLIC
 venue,Hackerspace A
-Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 Presenters,Dana Nelson
 starttime,17:00
 Start Date,4/26/13
@@ -799,7 +799,7 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Perry
 duration,50 minutes
-description,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies."
+description,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies. "
 index,23
 speakers,Matthew J. Grieshop
 Track,Tech
@@ -810,18 +810,18 @@ event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
 tracknosp,Tech
-input,"['4/26/13', '17:00', '4/26/13', '17:50', 'Perry', 'Tech', 'Leveraging Digital Surveillance Equipment for Studying Wild Insect Behavior', 'Matthew J. Grieshop', ""Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies."", 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '17:00', '4/26/13', '17:50', 'Perry', 'Tech', 'Leveraging Digital Surveillance Equipment for Studying Wild Insect Behavior', 'Matthew J. Grieshop', ""Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies. "", 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,Matthew J. Grieshop
 speakerlist,['Matthew J. Grieshop']
 hours,0
 totalminutes,50
-caldescrip,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies."
+caldescrip,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies. "
 endtime,17:50
 name,Leveraging Digital Surveillance Equipment for Studying Wild Insect Behavior
 Private,PUBLIC
 venue,Perry
-Book Description,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies."
+Book Description,"Field entomologists and invertebrate biologists have often been forced to rely on relative samples, laboratory experiments or long hours in the field to study insect behavior. The advent of portable, readily available and CHEAP outdoor video equipment has changed this. This talk will present modified digital surveillance systems used to collect data on wild insect behavior and some of the insights gained from my laboratory group's studies. "
 Presenters,Matthew J. Grieshop
 starttime,17:00
 Start Date,4/26/13
@@ -1056,13 +1056,13 @@ index,30
 speakers,"Matthew Stewart-Fulton, Chad Eisner"
 Track,Life and (un)Death
 startday,4/26/13
-Title,Immortality of Knowledge Through Creative Commons
+Title,Immortality of Knowledge Through Creative Commons 
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,LifeandunDeath
-input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Baldwin', 'Life and (un)Death', 'Immortality of Knowledge Through Creative Commons', 'Matthew Stewart-Fulton, Chad Eisner', 'A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth.', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Baldwin', 'Life and (un)Death', 'Immortality of Knowledge Through Creative Commons ', 'Matthew Stewart-Fulton, Chad Eisner', 'A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth.', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,"Matthew Stewart-Fulton, Chad Eisner"
 speakerlist,"['Matthew Stewart-Fulton', 'Chad Eisner']"
@@ -1070,7 +1070,7 @@ hours,0
 totalminutes,50
 caldescrip,"A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth."
 endtime,18:50
-name,Immortality of Knowledge Through Creative Commons
+name,Immortality of Knowledge Through Creative Commons 
 Private,PUBLIC
 venue,Baldwin
 Book Description,"A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth."
@@ -1159,7 +1159,7 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Salon B
 duration,50 minutes
-description,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution.
+description,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution. 
 index,33
 speakers,Matthew J. Grieshop
 Track,Science
@@ -1170,18 +1170,18 @@ event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,Science
-input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Salon B', 'Science', 'So You Want to Be an Urban Farmer...', 'Matthew J. Grieshop', ""The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution."", 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Salon B', 'Science', 'So You Want to Be an Urban Farmer...', 'Matthew J. Grieshop', ""The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution. "", 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,Matthew J. Grieshop
 speakerlist,['Matthew J. Grieshop']
 hours,0
 totalminutes,50
-caldescrip,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution.
+caldescrip,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution. 
 endtime,18:50
 name,So You Want to Be an Urban Farmer...
 Private,PUBLIC
 venue,Salon B
-Book Description,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution.
+Book Description,The urban farming movement is growing rapidly across the country with major developments in Michigan and other upper midwestern states. This talk will present some of the lessons learned in my family's recent adventures in this exciting movement as well as provide information on how to get involved in the urban farming revolution. 
 Presenters,Matthew J. Grieshop
 starttime,18:00
 Start Date,4/26/13
@@ -1771,7 +1771,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Wisner
 duration,50 minutes
-description,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time!"
+description,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time! "
 index,50
 speakers,Jeff Potter
 Track,General Events
@@ -1782,18 +1782,18 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,GeneralEvents
-input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Wisner', 'General Events', 'Jeff Potter \xe2\x80\x93 Cooking for Geeks', 'Jeff Potter', 'Why do we cook the way we do? Join Jeff Potter, author of\xc2\xa0Cooking for Geeks: Real Science, Great Hacks, and Good Food\xc2\xa0for a conversation that looks at the science behind your dinner. By understanding food science\xe2\x80\x94the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries\xe2\x80\x94you can turn out a better meal and have fun at the same time!', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Wisner', 'General Events', 'Jeff Potter \xe2\x80\x93 Cooking for Geeks', 'Jeff Potter', 'Why do we cook the way we do? Join Jeff Potter, author of\xc2\xa0Cooking for Geeks: Real Science, Great Hacks, and Good Food\xc2\xa0for a conversation that looks at the science behind your dinner. By understanding food science\xe2\x80\x94the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries\xe2\x80\x94you can turn out a better meal and have fun at the same time! ', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,Jeff Potter
 speakerlist,['Jeff Potter']
 hours,0
 totalminutes,50
-caldescrip,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time!"
+caldescrip,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time! "
 endtime,20:50
 name,Jeff Potter – Cooking for Geeks
 Private,PUBLIC
 venue,Wisner
-Book Description,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time!"
+Book Description,"Why do we cook the way we do? Join Jeff Potter, author of Cooking for Geeks: Real Science, Great Hacks, and Good Food for a conversation that looks at the science behind your dinner. By understanding food science—the composition of ingredients, the importance of temperature on chemical reactions, and the techniques used by scientists to unravel mysteries—you can turn out a better meal and have fun at the same time! "
 Presenters,Jeff Potter
 starttime,20:00
 Start Date,4/26/13
@@ -1951,7 +1951,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Perry
 duration,50 minutes
-description,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance."
+description,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance. "
 index,55
 speakers,"Frank Dolinar, Andy Emanuele"
 Track,Tech
@@ -1962,18 +1962,18 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Tech
-input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Perry', 'Tech', 'Analytics, An Introduction', 'Frank Dolinar, Andy Emanuele', '\xe2\x80\x9cAnalytics\xe2\x80\x9d typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance.', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Perry', 'Tech', 'Analytics, An Introduction', 'Frank Dolinar, Andy Emanuele', '\xe2\x80\x9cAnalytics\xe2\x80\x9d typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance. ', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,"Frank Dolinar, Andy Emanuele"
 speakerlist,"['Frank Dolinar', 'Andy Emanuele']"
 hours,0
 totalminutes,50
-caldescrip,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance."
+caldescrip,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance. "
 endtime,20:50
 name,"Analytics, An Introduction"
 Private,PUBLIC
 venue,Perry
-Book Description,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance."
+Book Description,"“Analytics” typically deals with very large data sets (measured in terabytes to petabytes) and provides tools to find patterns in the data, determine what they mean, understand how they may be used, and to ask the next question. If your business is awash in data, analytics may help describe your data, predict trends, and improve business performance. "
 Presenters,"Frank Dolinar, Andy Emanuele"
 starttime,20:00
 Start Date,4/26/13
@@ -1987,7 +1987,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Featherstone
 duration,50 minutes
-description,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment?"
+description,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment? "
 index,56
 speakers,"Marla Fisher, Charles Ide"
 Track,Tech
@@ -1998,18 +1998,18 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Tech
-input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Featherstone', 'Tech', 'Do Humans Really Control the Most Information on the Planet?', 'Marla Fisher, Charles Ide', 'In our new provocative non-fiction book, \xe2\x80\x9cOne Giant Network to Rule Them All\xe2\x80\x9d, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment?', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Featherstone', 'Tech', 'Do Humans Really Control the Most Information on the Planet?', 'Marla Fisher, Charles Ide', 'In our new provocative non-fiction book, \xe2\x80\x9cOne Giant Network to Rule Them All\xe2\x80\x9d, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment? ', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
 calspeakers,"Marla Fisher, Charles Ide"
 speakerlist,"['Marla Fisher', 'Charles Ide']"
 hours,0
 totalminutes,50
-caldescrip,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: 'Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?' Could another living strategy exist that utilizes more controlling information about the environment?"
+caldescrip,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: 'Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?' Could another living strategy exist that utilizes more controlling information about the environment? "
 endtime,20:50
 name,Do Humans Really Control the Most Information on the Planet?
 Private,PUBLIC
 venue,Featherstone
-Book Description,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment?"
+Book Description,"In our new provocative non-fiction book, “One Giant Network to Rule Them All”, we uncover the existence of a huge information network, living right here alongside us on the planet. We ask the question: ""Why, if our information processing wizardry has allowed us to manipulate all other organisms on the earth, do we persist in believing that other god-like entities are controlling us?"" Could another living strategy exist that utilizes more controlling information about the environment? "
 Presenters,"Marla Fisher, Charles Ide"
 starttime,20:00
 Start Date,4/26/13
@@ -3144,13 +3144,13 @@ index,88
 speakers,Piko Piko
 Track,Music
 startday,4/27/13
-Title,Piko Piko (Various Performances)
+Title,Piko Piko (Performances)
 Start Time,1:00
 event_start,1:00
 starttimeampm,1 AM
 End Time,1:50
 tracknosp,Music
-input,"['4/27/13', '1:00', '4/27/13', '1:50', 'Oakland', 'Music', 'Piko Piko (Various Performances)', 'Piko Piko', 'Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '1:00', '4/27/13', '1:50', 'Oakland', 'Music', 'Piko Piko (Performances)', 'Piko Piko', 'Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us.', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Piko Piko
 speakerlist,['Piko Piko']
@@ -3158,7 +3158,7 @@ hours,0
 totalminutes,0
 caldescrip,"Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us."
 endtime,1:50
-name,Piko Piko (Various Performances)
+name,Piko Piko (Performances)
 Private,PUBLIC
 venue,Oakland
 Book Description,"Founded by Yuuya Masada and Corey Chappell, Piko Piko Detroit is a community for all lovers of retro bleep sounds in their music, and is open to a wide range of music genres. We hack our vintage consoles and dance to tiny pixels. We perform at cafes, live-houses, clubs, and even birthday parties. If you like video games, computers, pixels, or any other retro treasures, then you will love us."
@@ -3175,7 +3175,7 @@ private,PUBLIC
 endtimeampm,9 AM
 Location,Hackerspace B
 duration,0 minutes
-description,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language."
+description,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. "
 index,89
 speakers,Thomas Hunter
 Track,Hackerspace
@@ -3186,18 +3186,18 @@ event_start,9:00
 starttimeampm,9 AM
 End Time,9:50
 tracknosp,Hackerspace
-input,"['4/27/13', '9:00', '4/27/13', '9:50', 'Hackerspace B', 'Hackerspace', 'The JavaScript Event Loop', 'Thomas Hunter', ""Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language."", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '9:00', '4/27/13', '9:50', 'Hackerspace B', 'Hackerspace', 'The JavaScript Event Loop', 'Thomas Hunter', ""Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. "", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Thomas Hunter
 speakerlist,['Thomas Hunter']
 hours,0
 totalminutes,0
-caldescrip,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language."
+caldescrip,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. "
 endtime,9:50
 name,The JavaScript Event Loop
 Private,PUBLIC
 venue,Hackerspace B
-Book Description,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language."
+Book Description,"Take advantage of JavaScripts' event loop and build your applications in a non blocking, seemingly parallel way, despite the single threaded nature of the language. "
 Presenters,Thomas Hunter
 starttime,9:00
 Start Date,4/27/13
@@ -3427,7 +3427,7 @@ private,PUBLIC
 endtimeampm,10 AM
 Location,Hackerspace A
 duration,50 minutes
-description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 index,96
 speakers,Dana Nelson
 Track,Hackerspace
@@ -3438,18 +3438,18 @@ event_start,10:00
 starttimeampm,10 AM
 End Time,10:50
 tracknosp,Hackerspace
-input,"['4/27/13', '10:00', '4/27/13', '10:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows II', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '10:00', '4/27/13', '10:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows II', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Dana Nelson
 speakerlist,['Dana Nelson']
 hours,0
 totalminutes,50
-caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 endtime,10:50
 name,Cardboard Crossbows II
 Private,PUBLIC
 venue,Hackerspace A
-Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 Presenters,Dana Nelson
 starttime,10:00
 Start Date,4/27/13
@@ -3787,7 +3787,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Baldwin
 duration,50 minutes
-description,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction.
+description,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction. 
 index,106
 speakers,Cathy Raymond
 Track,Costuming
@@ -3798,18 +3798,18 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,Costuming
-input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Baldwin', 'Costuming', 'Historical Costuming 101 \xe2\x80\x93 Getting Started', 'Cathy Raymond', 'Does the idea of making a\xc2\xa0costume\xc2\xa0of another\xc2\xa0historical\xc2\xa0period intimidate you? \xc2\xa0Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Baldwin', 'Costuming', 'Historical Costuming 101 \xe2\x80\x93 Getting Started', 'Cathy Raymond', 'Does the idea of making a\xc2\xa0costume\xc2\xa0of another\xc2\xa0historical\xc2\xa0period intimidate you? \xc2\xa0Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction. ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Cathy Raymond
 speakerlist,['Cathy Raymond']
 hours,0
 totalminutes,50
-caldescrip,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction.
+caldescrip,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction. 
 endtime,11:50
 name,Historical Costuming 101 – Getting Started
 Private,PUBLIC
 venue,Baldwin
-Book Description,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction.
+Book Description,Does the idea of making a costume of another historical period intimidate you?  Join Cathy Raymond for a look at how to start planning for such a project and for tips and hints about the research and construction. 
 Presenters,Cathy Raymond
 starttime,11:00
 Start Date,4/27/13
@@ -3823,7 +3823,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Hackerspace B
 duration,50 minutes
-description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 index,107
 speakers,Dana Nelson
 Track,Hackerspace
@@ -3834,18 +3834,18 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,Hackerspace
-input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Hackerspace B', 'Hackerspace', 'How to Wordpress I', 'Dana Nelson', 'Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Hackerspace B', 'Hackerspace', 'How to Wordpress I', 'Dana Nelson', 'Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Dana Nelson
 speakerlist,['Dana Nelson']
 hours,0
 totalminutes,50
-caldescrip,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+caldescrip,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 endtime,11:50
 name,How to Wordpress I
 Private,PUBLIC
 venue,Hackerspace B
-Book Description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+Book Description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 Presenters,Dana Nelson
 starttime,11:00
 Start Date,4/27/13
@@ -3931,7 +3931,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Wisner
 duration,50 minutes
-description,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it. "
+description,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it.  "
 index,110
 speakers,Bill Putt
 Track,General Events
@@ -3942,18 +3942,18 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,GeneralEvents
-input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Wisner', 'General Events', 'The History of Penguicon', 'Bill Putt', ""Blasted Bill has been a part of the Penguicon\xc2\xa0organization\xc2\xa0since the very\xc2\xa0beginning\xc2\xa0and has\xc2\xa0remained\xc2\xa0fairly\xc2\xa0active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to\xc2\xa0convince\xc2\xa0geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it.\xc2\xa0"", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '11:00', '4/27/13', '11:50', 'Wisner', 'General Events', 'The History of Penguicon', 'Bill Putt', ""Blasted Bill has been a part of the Penguicon\xc2\xa0organization\xc2\xa0since the very\xc2\xa0beginning\xc2\xa0and has\xc2\xa0remained\xc2\xa0fairly\xc2\xa0active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to\xc2\xa0convince\xc2\xa0geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it.\xc2\xa0 "", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Bill Putt
 speakerlist,['Bill Putt']
 hours,0
 totalminutes,50
-caldescrip,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it. "
+caldescrip,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it.  "
 endtime,11:50
 name,The History of Penguicon
 Private,PUBLIC
 venue,Wisner
-Book Description,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it. "
+Book Description,"Blasted Bill has been a part of the Penguicon organization since the very beginning and has remained fairly active in running the con or events there for the past 10 years. Penguicon started in 2003 so we now have a full 10 years of history. Bill loves talking about all the great and wonderful history of Penguicon. So if you'd love to hear all about it (year one, trying to convince geeks that the consuite was not a evil plot of some sort; the great tea set war in year four; or all about the two orders of the Penguin) come join Bill as he recounts Penguicon History, or at least how he remembers it.  "
 Presenters,Bill Putt
 starttime,11:00
 Start Date,4/27/13
@@ -4759,7 +4759,7 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Salon B
 duration,50 minutes
-description,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects."
+description,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects. "
 index,133
 speakers,"Sarah Elkins, Jer Lance, Noah Sussman"
 Track,Tech
@@ -4770,18 +4770,18 @@ event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
 tracknosp,Tech
-input,"['4/27/13', '13:00', '4/27/13', '13:50', 'Salon B', 'Tech', 'Ninjas, Brogrammers, and Sparkly Code Princesses', 'Sarah Elkins, Jer Lance, Noah Sussman', 'Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '13:00', '4/27/13', '13:50', 'Salon B', 'Tech', 'Ninjas, Brogrammers, and Sparkly Code Princesses', 'Sarah Elkins, Jer Lance, Noah Sussman', 'Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects. ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,"Sarah Elkins, Jer Lance, Noah Sussman"
 speakerlist,"['Sarah Elkins', 'Jer Lance', 'Noah Sussman']"
 hours,0
 totalminutes,50
-caldescrip,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects."
+caldescrip,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects. "
 endtime,13:50
 name,"Ninjas, Brogrammers, and Sparkly Code Princesses"
 Private,PUBLIC
 venue,Salon B
-Book Description,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects."
+Book Description,"Panel on tech culture and hiring; presentation of self (image/branding); finding and forming successful, healthy work cultures; and balancing fun outreach against unintended effects. "
 Presenters,"Sarah Elkins, Jer Lance, Noah Sussman"
 starttime,13:00
 Start Date,4/27/13
@@ -5340,13 +5340,13 @@ index,149
 speakers,Jess Pratt
 Track,Food
 startday,4/27/13
-Title,Pasta Making: Why You'll Never Buy Dry Pasta Again
+Title,Pasta Making: Why You'll Never Buy Dry Pasta Again 
 Start Time,15:00
 event_start,15:00
 starttimeampm,3 PM
 End Time,15:50
 tracknosp,Food
-input,"['4/27/13', '15:00', '4/27/13', '15:50', 'Food', 'Food', ""Pasta Making: Why You'll Never Buy Dry Pasta Again"", 'Jess Pratt', 'Pasta making is a fun, rewarding cooking experience. Learn how to quickly and easily transform a sloppy heap of basic kitchen ingredients into smooth, perfect pasta in less than an hour. Then sample, sample, sample! Recipe copies included.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '15:00', '4/27/13', '15:50', 'Food', 'Food', ""Pasta Making: Why You'll Never Buy Dry Pasta Again "", 'Jess Pratt', 'Pasta making is a fun, rewarding cooking experience. Learn how to quickly and easily transform a sloppy heap of basic kitchen ingredients into smooth, perfect pasta in less than an hour. Then sample, sample, sample! Recipe copies included.', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Jess Pratt
 speakerlist,['Jess Pratt']
@@ -5354,7 +5354,7 @@ hours,0
 totalminutes,50
 caldescrip,"Pasta making is a fun, rewarding cooking experience. Learn how to quickly and easily transform a sloppy heap of basic kitchen ingredients into smooth, perfect pasta in less than an hour. Then sample, sample, sample! Recipe copies included."
 endtime,15:50
-name,Pasta Making: Why You'll Never Buy Dry Pasta Again
+name,Pasta Making: Why You'll Never Buy Dry Pasta Again 
 Private,PUBLIC
 venue,Food
 Book Description,"Pasta making is a fun, rewarding cooking experience. Learn how to quickly and easily transform a sloppy heap of basic kitchen ingredients into smooth, perfect pasta in less than an hour. Then sample, sample, sample! Recipe copies included."
@@ -5407,7 +5407,7 @@ private,PUBLIC
 endtimeampm,4 PM
 Location,Hackerspace A
 duration,1 hour and 50 minutes
-description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 index,151
 speakers,Nate Yost
 Track,Hackerspace
@@ -5418,18 +5418,18 @@ event_start,15:00
 starttimeampm,3 PM
 End Time,16:50
 tracknosp,Hackerspace
-input,"['4/27/13', '15:00', '4/27/13', '16:50', 'Hackerspace A', 'Hackerspace', 'Learn to Solder! I', 'Nate Yost', ""Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '15:00', '4/27/13', '16:50', 'Hackerspace A', 'Hackerspace', 'Learn to Solder! I', 'Nate Yost', ""Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Nate Yost
 speakerlist,['Nate Yost']
 hours,1
 totalminutes,110
-caldescrip,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+caldescrip,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 endtime,16:50
 name,Learn to Solder! I
 Private,PUBLIC
 venue,Hackerspace A
-Book Description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+Book Description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 Presenters,Nate Yost
 starttime,15:00
 Start Date,4/27/13
@@ -5983,7 +5983,7 @@ private,PUBLIC
 endtimeampm,4 PM
 Location,Baldwin
 duration,50 minutes
-description,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out!"
+description,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out! "
 index,167
 speakers,Jonathan Stars
 Track,Literature
@@ -5994,18 +5994,18 @@ event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
 tracknosp,Literature
-input,"['4/27/13', '16:00', '4/27/13', '16:50', 'Baldwin', 'Literature', 'Science as Magic', 'Jonathan Stars', 'In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now\xe2\x80\x94and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out!', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '16:00', '4/27/13', '16:50', 'Baldwin', 'Literature', 'Science as Magic', 'Jonathan Stars', 'In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now\xe2\x80\x94and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out! ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Jonathan Stars
 speakerlist,['Jonathan Stars']
 hours,0
 totalminutes,50
-caldescrip,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out!"
+caldescrip,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out! "
 endtime,16:50
 name,Science as Magic
 Private,PUBLIC
 venue,Baldwin
-Book Description,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out!"
+Book Description,"In the near future, technology will allow programmers and hackers to manipulate our perception. When that happens, what has been limited to the realm of fantasy writers and movie makers will become reality. What doors does this open for SF writers now—and what are the implications for those of us who will live in that virtual world in the future? David Copperfield and David Blaine watch out! "
 Presenters,Jonathan Stars
 starttime,16:00
 Start Date,4/27/13
@@ -6451,7 +6451,7 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Perry
 duration,50 minutes
-description,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery.
+description,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery. 
 index,180
 speakers,Chad Crabtree
 Track,Tech
@@ -6462,18 +6462,18 @@ event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
 tracknosp,Tech
-input,"['4/27/13', '17:00', '4/27/13', '17:50', 'Perry', 'Tech', 'JavaScript Unit Testing with QUnit', 'Chad Crabtree', ""Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery."", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '17:00', '4/27/13', '17:50', 'Perry', 'Tech', 'JavaScript Unit Testing with QUnit', 'Chad Crabtree', ""Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery. "", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Chad Crabtree
 speakerlist,['Chad Crabtree']
 hours,0
 totalminutes,50
-caldescrip,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery.
+caldescrip,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery. 
 endtime,17:50
 name,JavaScript Unit Testing with QUnit
 Private,PUBLIC
 venue,Perry
-Book Description,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery.
+Book Description,Modern web development has become a battle to separate display from data. Which has caused a proliferation of heavy weight JavaScript programs where very important work is getting done. This leads to a huge increase in javascript code. Unit Testing has been a popular and effective mechanism to measure and ensure code quality. Unit testing in JavaScript has it's own gotchas and concerns especially when writing unit tests for DOM manipulation code. QUnit is the testing framework developed to test the famous and invaluable JQuery. 
 Presenters,Chad Crabtree
 starttime,17:00
 Start Date,4/27/13
@@ -7351,7 +7351,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Salon A
 duration,50 minutes
-description,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner.
+description,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner. 
 index,205
 speakers,Jasna Todorovic
 Track,Life and (un)Death
@@ -7362,18 +7362,18 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,LifeandunDeath
-input,"['4/27/13', '20:00', '4/27/13', '20:50', 'Salon A', 'Life and (un)Death', 'Swing Dancing - Learn New Moves, Impress Your Friends!', 'Jasna Todorovic', 'Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '20:00', '4/27/13', '20:50', 'Salon A', 'Life and (un)Death', 'Swing Dancing - Learn New Moves, Impress Your Friends!', 'Jasna Todorovic', 'Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner. ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Jasna Todorovic
 speakerlist,['Jasna Todorovic']
 hours,0
 totalminutes,50
-caldescrip,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner.
+caldescrip,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner. 
 endtime,20:50
 name,"Swing Dancing - Learn New Moves, Impress Your Friends!"
 Private,PUBLIC
 venue,Salon A
-Book Description,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner.
+Book Description,Want to learn to bust some moves on the dance floor? This Swing Dancing workshop introduces the basics of partnered swing dancing -- applicable to any music style and any event! No experience necessary. Come alone or with a partner. 
 Presenters,Jasna Todorovic
 starttime,20:00
 Start Date,4/27/13
@@ -7963,7 +7963,7 @@ private,PUBLIC
 endtimeampm,9 PM
 Location,Baldwin
 duration,50 minutes
-description,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git."
+description,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git. "
 index,222
 speakers,Sarah Elkins
 Track,Tech
@@ -7974,18 +7974,18 @@ event_start,21:00
 starttimeampm,9 PM
 End Time,21:50
 tracknosp,Tech
-input,"['4/27/13', '21:00', '4/27/13', '21:50', 'Baldwin', 'Tech', 'Play Around on GitHub', 'Sarah Elkins', 'Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '21:00', '4/27/13', '21:50', 'Baldwin', 'Tech', 'Play Around on GitHub', 'Sarah Elkins', 'Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git. ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Sarah Elkins
 speakerlist,['Sarah Elkins']
 hours,0
 totalminutes,50
-caldescrip,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git."
+caldescrip,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git. "
 endtime,21:50
 name,Play Around on GitHub
 Private,PUBLIC
 venue,Baldwin
-Book Description,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git."
+Book Description,"Did you know GitHub.com hosts web games as well as open source repositories? Learn how you can use this site to quickly copy, customize, and host a simple image-matching game you (or a child) can immediately play in a web browser or on a smartphone. All you need is the ability to click a few buttons and copy-and-paste. The presentation will also include some basics about GitHub such as creating an account and filing issues there against your own repository as a to-do list, and suggestions on how you could use your game as a springboard to learn more about CSS, HTML5, or Git. "
 Presenters,Sarah Elkins
 starttime,21:00
 Start Date,4/27/13
@@ -8251,7 +8251,7 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Oakland
 duration,50 minutes
-description,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyway. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
+description,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyone. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
 index,230
 speakers,Piko Piko
 Track,Music
@@ -8262,18 +8262,18 @@ event_start,22:00
 starttimeampm,10 PM
 End Time,22:50
 tracknosp,Music
-input,"['4/27/13', '22:00', '4/27/13', '22:50', 'Oakland', 'Music', 'Piko Piko: Nikola Lazar Whallon (Performance)', 'Piko Piko', ""In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyway. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '22:00', '4/27/13', '22:50', 'Oakland', 'Music', 'Piko Piko: Nikola Lazar Whallon (Performance)', 'Piko Piko', ""In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyone. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,Piko Piko
 speakerlist,['Piko Piko']
 hours,0
 totalminutes,50
-caldescrip,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyway. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
+caldescrip,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyone. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
 endtime,22:50
 name,Piko Piko: Nikola Lazar Whallon (Performance)
 Private,PUBLIC
 venue,Oakland
-Book Description,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyway. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
+Book Description,"In the year 199x, Nikola was born of two dragons into the age of the SNES. His love of SNES, N64, and Gameboy music would have such a great impact on the child's life that when he came of age, these feelings of love and nostalgia would fuse and give birth to music that has the power to bring out the child in anyone. From classic video game music to modern pop, his Gameboy knows no bounds, and loves to party on the dance floor."
 Presenters,Piko Piko
 starttime,22:00
 Start Date,4/27/13
@@ -8503,7 +8503,7 @@ private,PUBLIC
 endtimeampm,11 PM
 Location,Baldwin
 duration,50 minutes
-description,"Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways!"
+description,"Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways! "
 index,237
 speakers,LadyAna
 Track,Literature
@@ -8514,18 +8514,18 @@ event_start,23:00
 starttimeampm,11 PM
 End Time,23:50
 tracknosp,Literature
-input,"['4/27/13', '23:00', '4/27/13', '23:50', 'Baldwin', 'Literature', 'Why Do Women Like the Bad Guy?', 'LadyAna', 'Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger\'s Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways!', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '23:00', '4/27/13', '23:50', 'Baldwin', 'Literature', 'Why Do Women Like the Bad Guy?', 'LadyAna', 'Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger\'s Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways! ', 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,LadyAna
 speakerlist,['LadyAna']
 hours,0
 totalminutes,50
-caldescrip,"Ever find yourself swooning over the 'wrong' character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways!"
+caldescrip,"Ever find yourself swooning over the 'wrong' character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways! "
 endtime,23:50
 name,Why Do Women Like the Bad Guy?
 Private,PUBLIC
 venue,Baldwin
-Book Description,"Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways!"
+Book Description,"Ever find yourself swooning over the ""wrong"" character, usually an evil person of the male persuasion dealing out death and destruction? Did your friends try to have you committed when you told them Heath Ledger's Joker is sexy? Was Darth Vader your first love? Does Loki Laufeyson float your boat? If so, we understand! Come to talk with other fangirls (and boys!) who think The Bad Guy is the right guy for them! Note: There will a contest, door prizes and goodie give-aways! "
 Presenters,LadyAna
 starttime,23:00
 Start Date,4/27/13
@@ -8616,13 +8616,13 @@ index,240
 speakers,"Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn"
 Track,RHPS
 startday,4/27/13
-Title,RHR - Annual Transylvanian Convention (Film)
+Title,RHR - Annual Transylvanian Convention (Film Study) I
 Start Time,23:29
 event_start,23:29
 starttimeampm,11 PM
 End Time,1:20
 tracknosp,RHPS
-input,"['4/27/13', '23:29', '4/28/13', '1:20', 'Salon B', 'RHPS', 'RHR - Annual Transylvanian Convention (Film)', 'Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn', '""The Rocky Horror Picture Show"" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up.', 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '23:29', '4/28/13', '1:20', 'Salon B', 'RHPS', 'RHR - Annual Transylvanian Convention (Film Study) I', 'Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn', '""The Rocky Horror Picture Show"" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up.', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,"Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn"
 speakerlist,"['Tim Downing', 'Dennis Tabaczewski', 'Steven Ostrowski', 'Derick Prieskorn']"
@@ -8630,7 +8630,7 @@ hours,2
 totalminutes,120
 caldescrip,"'The Rocky Horror Picture Show' 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up."
 endtime,1:20
-name,RHR - Annual Transylvanian Convention (Film)
+name,RHR - Annual Transylvanian Convention (Film Study) I
 Private,PUBLIC
 venue,Salon B
 Book Description,"""The Rocky Horror Picture Show"" 1975, UK ending, Prop Prompts. Review of the RHPS bible and gospel left behind in film. Film starts at 11:30pm and the TIME WARP dance is at midnight, so do show up."
@@ -9264,13 +9264,13 @@ index,258
 speakers,"Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn, Tina Hadley, Cyndee Richardson, Laura Robinson"
 Track,RHPS
 startday,4/28/13
-Title,RHR - Annual Transylvanian Convention (Film Study)
+Title,RHR - Annual Transylvanian Convention (Film Study) II
 Start Time,10:00
 event_start,10:00
 starttimeampm,10 AM
 End Time,11:50
 tracknosp,RHPS
-input,"['4/28/13', '10:00', '4/28/13', '11:50', 'Salon B', 'RHPS', 'RHR - Annual Transylvanian Convention (Film Study)', 'Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn, Tina Hadley, Cyndee Richardson, Laura Robinson', 'Seldom seen nor spoken of, some scholars view the presented footage to be a 2nd nearly hidden volume of the RHPS. Come study this 1982 iteration and why this claim is often disputed.', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '10:00', '4/28/13', '11:50', 'Salon B', 'RHPS', 'RHR - Annual Transylvanian Convention (Film Study) II', 'Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn, Tina Hadley, Cyndee Richardson, Laura Robinson', 'Seldom seen nor spoken of, some scholars view the presented footage to be a 2nd nearly hidden volume of the RHPS. Come study this 1982 iteration and why this claim is often disputed.', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,"Tim Downing, Dennis Tabaczewski, Steven Ostrowski, Derick Prieskorn, Tina Hadley, Cyndee Richardson, Laura Robinson"
 speakerlist,"['Tim Downing', 'Dennis Tabaczewski', 'Steven Ostrowski', 'Derick Prieskorn', 'Tina Hadley', 'Cyndee Richardson', 'Laura Robinson']"
@@ -9278,7 +9278,7 @@ hours,1
 totalminutes,110
 caldescrip,"Seldom seen nor spoken of, some scholars view the presented footage to be a 2nd nearly hidden volume of the RHPS. Come study this 1982 iteration and why this claim is often disputed."
 endtime,11:50
-name,RHR - Annual Transylvanian Convention (Film Study)
+name,RHR - Annual Transylvanian Convention (Film Study) II
 Private,PUBLIC
 venue,Salon B
 Book Description,"Seldom seen nor spoken of, some scholars view the presented footage to be a 2nd nearly hidden volume of the RHPS. Come study this 1982 iteration and why this claim is often disputed."
@@ -9475,7 +9475,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Hackerspace B
 duration,50 minutes
-description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 index,264
 speakers,Dana Nelson
 Track,Hackerspace
@@ -9486,18 +9486,18 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,Hackerspace
-input,"['4/28/13', '11:00', '4/28/13', '11:50', 'Hackerspace B', 'Hackerspace', 'How to Wordpress II', 'Dana Nelson', 'Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '11:00', '4/28/13', '11:50', 'Hackerspace B', 'Hackerspace', 'How to Wordpress II', 'Dana Nelson', 'Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! ', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,Dana Nelson
 speakerlist,['Dana Nelson']
 hours,0
 totalminutes,50
-caldescrip,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+caldescrip,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 endtime,11:50
 name,How to Wordpress II
 Private,PUBLIC
 venue,Hackerspace B
-Book Description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own!"
+Book Description,"Known mostly as a blogging website, we will be using this free software to learn how to go about designing a fully functioning website. This class is great for beginning Wordpress users, as we will go over topics like setting up your page, customizing toolbars, and using widgets. Use our computers, or bring your own! "
 Presenters,Dana Nelson
 starttime,11:00
 Start Date,4/28/13
@@ -9511,7 +9511,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Perry
 duration,50 minutes
-description,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.  "
+description,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.   "
 index,265
 speakers,"Bill Putt, Bob Brodis"
 Track,Life and (un)Death
@@ -9522,18 +9522,18 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,LifeandunDeath
-input,"['4/28/13', '11:00', '4/28/13', '11:50', 'Perry', 'Life and (un)Death', ""I'm Agnostic is Not a Valid Response When I Say I'm an Athiest"", 'Bill Putt, Bob Brodis', ""Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or\xc2\xa0Theist,\xc2\xa0then also whether you are Gnostic/Agnostic about it. This is NOT a panel\xc2\xa0discussing\xc2\xa0or\xc2\xa0endorsing\xc2\xa0any religious point of view. It's only defining and\xc2\xa0identifying religious\xc2\xa0terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are\xc2\xa0Atheist.\xc2\xa0\xc2\xa0"", 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '11:00', '4/28/13', '11:50', 'Perry', 'Life and (un)Death', ""I'm Agnostic is Not a Valid Response When I Say I'm an Athiest"", 'Bill Putt, Bob Brodis', ""Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or\xc2\xa0Theist,\xc2\xa0then also whether you are Gnostic/Agnostic about it. This is NOT a panel\xc2\xa0discussing\xc2\xa0or\xc2\xa0endorsing\xc2\xa0any religious point of view. It's only defining and\xc2\xa0identifying religious\xc2\xa0terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are\xc2\xa0Atheist.\xc2\xa0\xc2\xa0 "", 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,"Bill Putt, Bob Brodis"
 speakerlist,"['Bill Putt', 'Bob Brodis']"
 hours,0
 totalminutes,50
-caldescrip,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.  "
+caldescrip,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.   "
 endtime,11:50
 name,I'm Agnostic is Not a Valid Response When I Say I'm an Athiest
 Private,PUBLIC
 venue,Perry
-Book Description,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.  "
+Book Description,"Religion is a touchy and complex issue. It gets even more difficult to discuss when you use different definitions for the same word. Come find out how Athiest, Theiest, Gnostic, and Agnostic all relate, so the next time some one tells you they are an Athiest, you can respond informatively. First with whether you're Atheist or Theist, then also whether you are Gnostic/Agnostic about it. This is NOT a panel discussing or endorsing any religious point of view. It's only defining and identifying religious terms and how they get misused. All religions are welcome and will not be judged. Categorized, but not judged. Disclaimer: both panelists are Atheist.   "
 Presenters,"Bill Putt, Bob Brodis"
 starttime,11:00
 Start Date,4/28/13
@@ -9619,7 +9619,7 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,Hackerspace A
 duration,50 minutes
-description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 index,268
 speakers,Nate Yost
 Track,Hackerspace
@@ -9630,18 +9630,18 @@ event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
 tracknosp,Hackerspace
-input,"['4/28/13', '12:00', '4/28/13', '12:50', 'Hackerspace A', 'Hackerspace', 'Learn to Solder! II', 'Nate Yost', ""Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"", 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '12:00', '4/28/13', '12:50', 'Hackerspace A', 'Hackerspace', 'Learn to Solder! II', 'Nate Yost', ""Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "", 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,Nate Yost
 speakerlist,['Nate Yost']
 hours,0
 totalminutes,50
-caldescrip,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+caldescrip,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 endtime,12:50
 name,Learn to Solder! II
 Private,PUBLIC
 venue,Hackerspace A
-Book Description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new!"
+Book Description,"Attend one of our soldering sessions at Penguicon! Soldering is a method to fuse metal with metal. In these sessions, we will be focusing on its application in electronics. Being able to solder is a useful skill to have in today's world, and it's easy to learn. Reclaim your electronic gadgets -- fix them when they break! We will provide the space, solder, and soldering irons. Pick up one of our kits (or bring your own project), and try something new! "
 Presenters,Nate Yost
 starttime,12:00
 Start Date,4/28/13
@@ -10015,7 +10015,7 @@ private,PUBLIC
 endtimeampm,2 PM
 Location,Wisner
 duration,1 hour and 50 minutes
-description,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts.
+description,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts. 
 index,279
 speakers,"Matthew Stewart-Fulton, Chad Eisner"
 Track,Action/Adventure
@@ -10026,18 +10026,18 @@ event_start,13:00
 starttimeampm,1 PM
 End Time,14:50
 tracknosp,ActionAdventure
-input,"['4/28/13', '13:00', '4/28/13', '14:50', 'Wisner', 'Action/Adventure', 'Introduction to Lightsaber Combat', 'Matthew Stewart-Fulton, Chad Eisner', 'This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts.', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '13:00', '4/28/13', '14:50', 'Wisner', 'Action/Adventure', 'Introduction to Lightsaber Combat', 'Matthew Stewart-Fulton, Chad Eisner', 'This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts. ', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,"Matthew Stewart-Fulton, Chad Eisner"
 speakerlist,"['Matthew Stewart-Fulton', 'Chad Eisner']"
 hours,1
 totalminutes,110
-caldescrip,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts.
+caldescrip,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts. 
 endtime,14:50
 name,Introduction to Lightsaber Combat
 Private,PUBLIC
 venue,Wisner
-Book Description,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts.
+Book Description,This workshop gives the participants an introduction to Lightsaber based-martial arts. Techniques and principles have been wrapped in descriptive information available in the Star Wars canon to provide fun flavor while the material presented has been developed from actual sword based martial arts. 
 Presenters,"Matthew Stewart-Fulton, Chad Eisner"
 starttime,13:00
 Start Date,4/28/13
@@ -10303,7 +10303,7 @@ private,PUBLIC
 endtimeampm,2 PM
 Location,Hackerspace A
 duration,50 minutes
-description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 index,287
 speakers,Dana Nelson
 Track,Hackerspace
@@ -10314,18 +10314,18 @@ event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
 tracknosp,Hackerspace
-input,"['4/28/13', '14:00', '4/28/13', '14:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows III', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class.', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '14:00', '4/28/13', '14:50', 'Hackerspace A', 'Hackerspace', 'Cardboard Crossbows III', 'Dana Nelson', 'Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. ', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,Dana Nelson
 speakerlist,['Dana Nelson']
 hours,0
 totalminutes,50
-caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+caldescrip,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 endtime,14:50
 name,Cardboard Crossbows III
 Private,PUBLIC
 venue,Hackerspace A
-Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class."
+Book Description,"Come learn how to make DIY crossbows from everyday materials. First come, first served, only room for 20 in each class. "
 Presenters,Dana Nelson
 starttime,14:00
 Start Date,4/28/13

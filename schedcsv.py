@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import csv, sys, re, os
 from operator import itemgetter, attrgetter
+from git import *
 #from bs4 import BeautifulSoup  ## I had hoped to use BeautifulSoup to help clean up the output
 
 ### the purpose of this script is to parse a csv file from a sched.org event,
@@ -384,3 +385,5 @@ for row in inputfile:
 
 inputfile.close()
 outputfile.close()
+
+print "probable success processing csv and exporting to various formats"
