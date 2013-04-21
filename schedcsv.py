@@ -316,7 +316,7 @@ with open(rp + "2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
-      fullspkrlist.append( str(value)+ key)
+      fullspkrlist.append( str(value)+ " "+ key)
       #fullspkr.write("%s\n" % (key, value))
     for x in sorted(fullspkrlist):
       fullspkr.write("%s\n" % (x) )
