@@ -398,7 +398,7 @@ allday,FALSE
 event_type,Life and (un)Death
 All Day Event,FALSE
 event_end,21:50
-endday,4/27/13
+endday,4/26/13
 private,PUBLIC
 endtimeampm,9 PM
 Location,Auburn
@@ -407,15 +407,15 @@ description,"Interested in bringing your zombie costume to life, or should I say
 index,7
 speakers,"Zombies, Walkers, Ghouls, Undead"
 Track,Life and (un)Death
-startday,4/27/13
+startday,4/26/13
 Title,Zombie Walk
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
 End Time,21:50
 tracknosp,LifeandunDeath
-input,"['4/27/13', '21:00', '4/27/13', '21:50', 'Auburn', 'Life and (un)Death', 'Zombie Walk', 'Zombies, Walkers, Ghouls, Undead', 'Interested in bringing your zombie costume to life, or should I say undeath? Meet here for make up and tips en route to an invasion of walkers throughout the convention.', 'FALSE', 'PUBLIC']"
-End Date,4/27/13
+input,"['4/26/13', '21:00', '4/26/13', '21:50', 'Auburn', 'Life and (un)Death', 'Zombie Walk', 'Zombies, Walkers, Ghouls, Undead', 'Interested in bringing your zombie costume to life, or should I say undeath? Meet here for make up and tips en route to an invasion of walkers throughout the convention.', 'FALSE', 'PUBLIC']"
+End Date,4/26/13
 calspeakers,"Zombies, Walkers, Ghouls, Undead"
 speakerlist,"['Zombies', 'Walkers', 'Ghouls', 'Undead']"
 hours,0
@@ -428,7 +428,7 @@ venue,Auburn
 Book Description,"Interested in bringing your zombie costume to life, or should I say undeath? Meet here for make up and tips en route to an invasion of walkers throughout the convention."
 Presenters,"Zombies, Walkers, Ghouls, Undead"
 starttime,21:00
-Start Date,4/27/13
+Start Date,4/26/13
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -1874,11 +1874,11 @@ allday,FALSE
 event_type,General Events
 All Day Event,FALSE
 event_end,20:50
-endday,4/27/13
+endday,4/26/13
 private,PUBLIC
 endtimeampm,8 PM
 Location,Centerpoint
-duration,24 hours and 50 minutes
+duration,50 minutes
 description,"If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well."
 index,48
 speakers,Open
@@ -1890,12 +1890,12 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,GeneralEvents
-input,"['4/26/13', '20:00', '4/27/13', '20:50', 'Centerpoint', 'General Events', 'Penguicon Variety Show Prep Session', 'Open', 'If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well.', 'FALSE', 'PUBLIC']"
-End Date,4/27/13
+input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Centerpoint', 'General Events', 'Penguicon Variety Show Prep Session', 'Open', 'If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well.', 'FALSE', 'PUBLIC']"
+End Date,4/26/13
 calspeakers,Open
 speakerlist,['Open']
-hours,24
-totalminutes,1490
+hours,0
+totalminutes,50
 caldescrip,"If you are considering participation in the variety talent show later this evening, be sure to stop by and learn about the rules and regulations involved. Staff members will assist you in preparation for your big moment on stage as well."
 endtime,20:50
 name,Penguicon Variety Show Prep Session
@@ -5293,10 +5293,10 @@ minutes,50
 allday,FALSE
 event_type,Video Gaming
 All Day Event,FALSE
-event_end,20:50
+event_end,19:50
 endday,4/27/13
 private,PUBLIC
-endtimeampm,8 PM
+endtimeampm,7 PM
 Location,Oakland
 duration,1 hour and 50 minutes
 description,"Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members."
@@ -5305,25 +5305,25 @@ speakers,"Jon Wallace, Robert Turner"
 Track,Video Gaming
 startday,4/27/13
 Title,Rock Band Rock Off
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,20:50
+Start Time,18:00
+event_start,18:00
+starttimeampm,6 PM
+End Time,19:50
 tracknosp,VideoGaming
-input,"['4/27/13', '19:00', '4/27/13', '20:50', 'Oakland', 'Video Gaming', 'Rock Band Rock Off', 'Jon Wallace, Robert Turner', ""Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members."", 'FALSE', 'PUBLIC']"
+input,"['4/27/13', '18:00', '4/27/13', '19:50', 'Oakland', 'Video Gaming', 'Rock Band Rock Off', 'Jon Wallace, Robert Turner', ""Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members."", 'FALSE', 'PUBLIC']"
 End Date,4/27/13
 calspeakers,"Jon Wallace, Robert Turner"
 speakerlist,"['Jon Wallace', 'Robert Turner']"
 hours,1
 totalminutes,110
 caldescrip,"Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members."
-endtime,20:50
+endtime,19:50
 name,Rock Band Rock Off
 Private,PUBLIC
 venue,Oakland
 Book Description,"Enter the 4th year of this epic competition of Rock Band rockers to compete for this year's Rock Off non-trophy! Your band (A minimum of two rockers needed) will rock off in a single song display in front of a panel of judges who will be looking at costumes, skill, accuracy, and most of all just how awesome of a show you can put on. The points do not matter and the rating scale may not make any sense, but it's all good as long as you have fun! Sign up at Ops with your band name and number of members."
 Presenters,"Jon Wallace, Robert Turner"
-starttime,19:00
+starttime,18:00
 Start Date,4/27/13
 minutes,50
 allday,FALSE
@@ -5762,11 +5762,11 @@ allday,FALSE
 event_type,BoF
 All Day Event,FALSE
 event_end,20:50
-endday,4/27/13
+endday,4/26/13
 private,PUBLIC
 endtimeampm,8 PM
 Location,Parkway Lounge
-duration,24 hours and 50 minutes
+duration,50 minutes
 description,"Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk."
 index,161
 speakers,Open
@@ -5778,12 +5778,12 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,BoF
-input,"['4/26/13', '20:00', '4/27/13', '20:50', 'Parkway Lounge', 'BoF', 'Technobabel: Bringing Non-techies up to Speed', 'Open', 'Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic \xe2\x80\x93 Tech Talk.', 'FALSE', 'PUBLIC']"
-End Date,4/27/13
+input,"['4/26/13', '20:00', '4/26/13', '20:50', 'Parkway Lounge', 'BoF', 'Technobabel: Bringing Non-techies up to Speed', 'Open', 'Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic \xe2\x80\x93 Tech Talk.', 'FALSE', 'PUBLIC']"
+End Date,4/26/13
 calspeakers,Open
 speakerlist,['Open']
-hours,24
-totalminutes,1490
+hours,0
+totalminutes,50
 caldescrip,"Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Tech Talk."
 endtime,20:50
 name,Technobabel: Bringing Non-techies up to Speed
