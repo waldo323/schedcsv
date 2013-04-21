@@ -3,9 +3,11 @@
 # get schedule from google docs
 #wget --output-documuent sched.csv "https://docs.google.com/spreadsheet/ccc?key=0AiCkD773xnvKdHZ5NU9OcThZNXVDZDBONXdVQjJ5T3c&output=csv"
 
-SCHEDDATE=`date`
+#rm ./sched.csv
 
 wget --output-document sched.csv "https://docs.google.com/spreadsheet/ccc?key=0AiCkD773xnvKdHZ5NU9OcThZNXVDZDBONXdVQjJ5T3c&output=csv"
+
+SCHEDDATE=`date`
 
 # process schedule into its various output files
 python schedcsv.py
