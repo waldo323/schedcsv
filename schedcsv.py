@@ -319,7 +319,7 @@ with open(rp + "2013.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
       fullspkrlist.append( str(value)+ key)
       #fullspkr.write("%s\n" % (key, value))
     for x in sorted(fullspkrlist):
-      fullspkr.write(x)
+      fullspkr.write("%s\n" % (x) )
 
 fullspkr.close()
 dscountedspkr.close()
