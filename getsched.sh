@@ -17,7 +17,7 @@ echo looks good!
 echo post process the speakerlists
 awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2013.penguicon.speakers.3plus.txt |sort > ./output/2013.penguicon.spkrs.bylast.3plus.txt 
 
-awk '{x=$NF; $NF=""; print x ", " $0 }' 2013.penguicon.speakers.txt |sort> 2013.penguicon.spkrs.bylast.txt 
+awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2013.penguicon.speakers.txt |sort> ./output/2013.penguicon.spkrs.bylast.txt 
 
 ## git add . for adding all changes
 echo staging to local repo
