@@ -14,6 +14,9 @@ echo process the data
 python schedcsv.py
 echo looks good!
 
+#post process the speakerlist
+awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2013.penguicon.speakers.3plus.txt |sort > ./output/2013.penguicon.spkrs.bylast.3plus.txt 
+
 ## git add . for adding all changes
 echo staging to local repo
 git add .
