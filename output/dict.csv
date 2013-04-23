@@ -943,30 +943,30 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Baldwin
 duration,50 minutes
-description,"A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth."
+description,"Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns."
 index,27
-speakers,"Matthew Stewart-Fulton, Chad Eisner"
+speakers,Jen Hamilton
 Track,Life and (un)Death
 startday,4/26/13
-Title,Immortality of Knowledge Through Creative Commons 
+Title,Hazards of the Geek Lifestyle: The Dangers of All-Nighters in the Dark
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,LifeandunDeath
-input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Baldwin', 'Life and (un)Death', 'Immortality of Knowledge Through Creative Commons ', 'Matthew Stewart-Fulton, Chad Eisner', 'A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth.', 'FALSE', 'PUBLIC']"
+input,"['4/26/13', '18:00', '4/26/13', '18:50', 'Baldwin', 'Life and (un)Death', 'Hazards of the Geek Lifestyle: The Dangers of All-Nighters in the Dark', 'Jen Hamilton', 'Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns.', 'FALSE', 'PUBLIC']"
 End Date,4/26/13
-calspeakers,"Matthew Stewart-Fulton, Chad Eisner"
-speakerlist,"['Matthew Stewart-Fulton', 'Chad Eisner']"
+calspeakers,Jen Hamilton
+speakerlist,['Jen Hamilton']
 hours,0
 totalminutes,50
-caldescrip,"A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth."
+caldescrip,"Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns."
 endtime,18:50
-name,Immortality of Knowledge Through Creative Commons 
+name,Hazards of the Geek Lifestyle: The Dangers of All-Nighters in the Dark
 Private,PUBLIC
 venue,Baldwin
-Book Description,"A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth."
-Presenters,"Matthew Stewart-Fulton, Chad Eisner"
+Book Description,"Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns."
+Presenters,Jen Hamilton
 starttime,18:00
 Start Date,4/26/13
 minutes,50
@@ -8605,12 +8605,12 @@ minutes,0
 allday,FALSE
 event_type,BoF
 All Day Event,FALSE
-event_end,12:50
+event_end,0:50
 endday,4/28/13
 private,PUBLIC
-endtimeampm,12 PM
+endtimeampm,12 AM
 Location,Boardroom
-duration,12 hours and 50 minutes
+duration,0 minutes
 description,"Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Drums."
 index,240
 speakers,Open
@@ -8620,16 +8620,16 @@ Title,Midnight Drum Circle Hour
 Start Time,0:00
 event_start,0:00
 starttimeampm,12 AM
-End Time,12:50
+End Time,0:50
 tracknosp,BoF
-input,"['4/28/13', '0:00', '4/28/13', '12:50', 'Boardroom', 'BoF', 'Midnight Drum Circle Hour', 'Open', 'Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic \xe2\x80\x93 Drums.', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '0:00', '4/28/13', '0:50', 'Boardroom', 'BoF', 'Midnight Drum Circle Hour', 'Open', 'Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic \xe2\x80\x93 Drums.', 'FALSE', 'PUBLIC']"
 End Date,4/28/13
 calspeakers,Open
 speakerlist,['Open']
-hours,12
-totalminutes,770
+hours,0
+totalminutes,0
 caldescrip,"Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Drums."
-endtime,12:50
+endtime,0:50
 name,Midnight Drum Circle Hour
 Private,PUBLIC
 venue,Boardroom
@@ -8637,7 +8637,7 @@ Book Description,"Unmoderated session for you to meet up and share ideas, storie
 Presenters,Open
 starttime,0:00
 Start Date,4/28/13
-minutes,50
+minutes,0
 allday,FALSE
 event_type,After Dark
 All Day Event,FALSE
@@ -10375,30 +10375,30 @@ private,PUBLIC
 endtimeampm,2 PM
 Location,Perry
 duration,50 minutes
-description,"During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft® Windows® development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the ""31 Flavors of Fun."" At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more."
+description,"Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world."
 index,289
-speakers,"Todd Robinson, Karlie Robinson"
+speakers,Phil Salkie
 Track,Tech
 startday,4/28/13
-Title,Where No One Has Gone Before - The Road to 31 Flavors
+Title,Controlling the World!
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
 tracknosp,Tech
-input,"['4/28/13', '14:00', '4/28/13', '14:50', 'Perry', 'Tech', 'Where No One Has Gone Before - The Road to 31 Flavors', 'Todd Robinson, Karlie Robinson', 'During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft\xc2\xae Windows\xc2\xae development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the ""31 Flavors of Fun."" At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more.', 'FALSE', 'PUBLIC']"
+input,"['4/28/13', '14:00', '4/28/13', '14:50', 'Perry', 'Tech', 'Controlling the World!', 'Phil Salkie', ""Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world."", 'FALSE', 'PUBLIC']"
 End Date,4/28/13
-calspeakers,"Todd Robinson, Karlie Robinson"
-speakerlist,"['Todd Robinson', 'Karlie Robinson']"
+calspeakers,Phil Salkie
+speakerlist,['Phil Salkie']
 hours,0
 totalminutes,50
-caldescrip,"During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft® Windows® development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the '31 Flavors of Fun.' At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more."
+caldescrip,"Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world."
 endtime,14:50
-name,Where No One Has Gone Before - The Road to 31 Flavors
+name,Controlling the World!
 Private,PUBLIC
 venue,Perry
-Book Description,"During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft® Windows® development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the ""31 Flavors of Fun."" At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more."
-Presenters,"Todd Robinson, Karlie Robinson"
+Book Description,"Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world."
+Presenters,Phil Salkie
 starttime,14:00
 Start Date,4/28/13
 minutes,50

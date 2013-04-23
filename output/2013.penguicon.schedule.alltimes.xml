@@ -130,10 +130,10 @@
 <room>Wisner</room>
 <blurb><participant>Jason Burt</participant> FOG is a free Linux-based computer imaging tool for common Window desktop environments. Fog has a PHP-based web front-end that uses TFTP and PXE in the background to complete the imaging process. FOG, which stands for Free-Open source Ghost, was developed by Chuck Syperski and Jian Zhan (Web UI: Peter Gilchrist). Jason Burt will be giving an overview of the platform version 0.32 and how it is being used in his current educational environment.</blurb></event>
 <time>6 PM</time>
-<event><title>Immortality of Knowledge Through Creative Commons </title>
+<event><title>Hazards of the Geek Lifestyle: The Dangers of All-Nighters in the Dark</title>
 <topic>Life and (un)Death</topic>
 <room>Baldwin</room>
-<blurb><participant>Matthew Stewart-Fulton, Chad Eisner</participant> A discussion about the use of contemporary digital media technology for the propagation of knowledge and information. The goal is to preserve and freely share information and skills to prevent the loss of that knowledge over time. Easy to understand, useful material shared through the creative commons helps to push information forward while maintaining a high level of technical and educational worth.</blurb></event>
+<blurb><participant>Jen Hamilton</participant> Recent medical research is increasingly showing that Vitamin D, normally produced by exposure to sunlight, is responsible for much more than just healthy bones. Disrupted sleep cycles have also been shown to have serious health implications. This presentation with Jennifer Hamilton, MD will review the studies that have demonstrated the importance of both, and talk about their application to strategies to reduce the risk of cancer, diabetes, and other serious health concerns.</blurb></event>
 <time>6 PM</time>
 <event><title>Pros and Cons of Writing for Online Sites</title>
 <topic>Literature</topic>
@@ -1198,7 +1198,7 @@
 <event><title>Midnight Drum Circle Hour</title>
 <topic>BoF</topic>
 <room>Boardroom</room>
-<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Drums. <duration>12 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Drums. <duration>0 minutes</duration></blurb></event>
 <time>12 AM</time>
 <event><title>Responsible Bottoming</title>
 <topic>After Dark</topic>
@@ -1440,10 +1440,10 @@
 <room>Parkway Lounge</room>
 <blurb><participant>Open</participant> Unmoderated session for you to meet up and share ideas, stories, and fun with others interested in the suggested topic – Epic Series.</blurb></event>
 <time>2 PM</time>
-<event><title>Where No One Has Gone Before - The Road to 31 Flavors</title>
+<event><title>Controlling the World!</title>
 <topic>Tech</topic>
 <room>Perry</room>
-<blurb><participant>Todd Robinson, Karlie Robinson</participant> During the month of August, 2012, I performed an experiment comparing open source software development speed, costs, and required manpower to the proprietary software development of Microsoft® Windows® development of their Windows 7 operating system releases. The experiment centered around creating a new desktop operating system release every day during the month and was dubbed the "31 Flavors of Fun." At the end of the month, I compared the statistics of the development to those available from the development of Windows 7. Come hear about the staggering results as first announced at Ohio Linux Fest and noted by OpenSource.com, PCWorld, Parity News, OSTATIC, Linux and Life, and more.</blurb></event>
+<blurb><participant>Phil Salkie</participant> Learn what factories, buildings, and industrial installations around the globe do to control and monitor the equipment and processes which run the modern world. Learn about Programmable Logic Controllers, Operator Interface Devices, SCADA systems, Distributed Control Systems, Sensors, Actuators, and the software and specialty languages that make them work. Much of this is currently proprietary and closed source, but the open-source ethos is making inroads here, too - we'll look at some projects and vendor solutions which embrace openness to varying degrees, and talk about increasing open-source awareness in the industrial world.</blurb></event>
 <time>3 PM</time>
 <event><title>Closing Ceremonies</title>
 <topic>General Events</topic>
