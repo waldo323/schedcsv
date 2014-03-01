@@ -355,7 +355,13 @@ for index, y in enumerate(sessions):
 inputfile = open(rp + '2013.penguicon.schedule.alltimes.xml', 'r')
 outputfile = open('penguicon.schedule.xml', 'w')
 
+# current time is set to the initial start time of 4 pm for the 2013 year... this could change year to year
 currenttime = '<time>4 PM</time>'
+
+# this line is used for 'all weekend events' 
+# which are typically listed in the beginning
+# before any other events in the program book
+# then the variable is reused in the loop
 lasttime = '<time>All Weekend</time>'
 
 for row in inputfile:
