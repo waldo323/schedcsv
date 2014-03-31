@@ -145,13 +145,13 @@ for index, x in enumerate(pconsched.schedule):
         ##start day and time assignments
         if  (field == "Start Date"):
             session['startday'] = fieldtext
-            print fieldtext
+            #print fieldtext
 
         if  (field == "Start Time"):
             if fieldtext != "Start Time":
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
-                print fieldtext
+                #print fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['starttimeampm'] = ampmformat(session['starttime']) 
             else:   
@@ -240,14 +240,14 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        print session['name']
-        print "start day " + session['startday'][2:-5] 
-        print "start time " + session['starttime'][:-3]
-        print "end day " + session['endday'][2:-5]
-        print "end time " + session['endtime'][:-3]
-        print "end minutes " + session['endtime'][3:]
-        print "event_start " + session['event_start']
-        print "event_end " + session['event_end']
+        #print session['name']
+        #print "start day " + session['startday'][2:-5] 
+        #print "start time " + session['starttime'][:-3]
+        #print "end day " + session['endday'][2:-5]
+        #print "end time " + session['endtime'][:-3]
+        #print "end minutes " + session['endtime'][3:]
+        #print "event_start " + session['event_start']
+        #print "event_end " + session['event_end']
 
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][:-3]), session['endtime'][3:])
    
