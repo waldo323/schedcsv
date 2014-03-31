@@ -36,7 +36,7 @@ extrainfo= """
 """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
-hoteladdress = "3600 Centerpoint Parkway Pontiac, Michigan 48341 USA"
+hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 
 # replace all function to help with the clean up
@@ -60,7 +60,13 @@ class readInCSV:
               self.headerdict[header] = index
 
 def calcduration(startday, starttime, endday, endtime, minutes):
+    print startday
+    print starttime
+    print endday
+    print endtime
+    print minutes
     day = endday - startday
+    
     hour = endtime - starttime
     hours = (24 * day) + hour
     if hours == 1:
@@ -240,7 +246,7 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        #print session['name']
+        print session['name']
         #print "start day " + session['startday'][2:-5] 
         #print "start time " + session['starttime'][:-3]
         #print "end day " + session['endday'][2:-5]
