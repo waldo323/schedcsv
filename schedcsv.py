@@ -285,7 +285,7 @@ if not os.path.exists(caldir):
 with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
     for index, y in enumerate(sessions):
 #      print y
-      if "2014-05-03 14:00:00" != y['event_start'] and "duration" != y['duration']:
+      if "2014-05-02 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
         if not y['All Day Event'] == tempstart:
