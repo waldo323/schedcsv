@@ -79,6 +79,7 @@ def calcduration(startday, starttime, endday, endtime, minutes):
         else:
             duration = hourstext
     else:
+        print minutes
         duration = minutes + " minutes"
     totalminutes = (hours * 60) + int(minutes)
     return duration, hours, minutes, totalminutes
@@ -173,6 +174,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "End Time"):
             if fieldtext != "End Time":
                 session['endtime'] = fieldtext
+                #print "endtime " + fieldtext
                 session['event_end'] = fieldtext            
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['endtimeampm'] = ampmformat(session['endtime']) 
@@ -250,12 +252,12 @@ for index, x in enumerate(pconsched.schedule):
         #print "start day " + session['startday'][2:-5] 
         #print "start time " + session['starttime'][:-3]
         #print "end day " + session['endday'][2:-5]
-        #print "end time " + session['endtime'][:-3]
+        print "end time " + session['endtime'][-2:]
         #print "end minutes " + session['endtime'][3:]
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
 
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][:-3]), session['endtime'][3:])
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-2:]), session['endtime'][-2:])
    
     
     session['speakerlist'] = session['speakers'].split(", ")
