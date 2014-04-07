@@ -37,7 +37,7 @@ extrainfo= """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header= """Start Date,Start Time,End Date,End Time,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
-schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,"%(venue)s",%(event_type)s,"%(name)s","%(speakers)s","%(description)s",%(allday)s,%(private)s,%(avneeds)s\n"""
+schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,"%(venue)s",%(event_type)s,"%(name)s","%(speakers)s",'%(csvsafedescrip)s',%(allday)s,%(private)s,%(avneeds)s\n"""
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 
@@ -133,6 +133,8 @@ calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All
 
 sessions = [] # list of sessions...empty so far!
 speakers = [] # list of speakers...empty as well. imagine that
+speakernosplist = []
+#speaker_events_dict[speakernosp] = []
 tracks = []   # list of tracks
 tracksdict = {}   # for use in creating a dictionary of tracks with no space in their name 
 rooms = []
@@ -241,6 +243,7 @@ for index, x in enumerate(pconsched.schedule):
         reps = {"&nbsp;":" ","<br />":"","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
+        commarep = {",":"-","\n":" "}
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
@@ -249,6 +252,8 @@ for index, x in enumerate(pconsched.schedule):
         if field == "Book Description":
             temptext = replace_all(fieldtext, quoterep)         
             session['caldescrip'] = temptext
+            temptext = replace_all(temptext, commarep)
+            session['csvsafedescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
             session['calspeakers'] = temptext
@@ -279,14 +284,38 @@ for index, x in enumerate(pconsched.schedule):
     
     session['speakerlist'] = session['speakers'].split(", ")
     for speaker in session['speakerlist']:
+            tempspeaker = re.sub(r'\s','', speaker)
+            tempspeaker = re.sub(r'\(','', tempspeaker)
+            tempspeaker = re.sub(r'\)','', tempspeaker)
+            tempspeaker = re.sub(r'/','', tempspeaker)
+            session['speakernosp'] = tempspeaker
+    session['speakernosplist'] = session['speakernosp'].split(",")
+    for speaker in session['speakerlist']:
+      if speaker != "":
         if speaker not in speakers:
             speakers.append(speaker)
             speakerdict[speaker] = session['totalminutes']
-            speaker_events_dict[speaker] = [session['name']]
+            #speaker_events_dict[speaker].append(session['name'])
+            #print speaker, session['name']
             
         else:
             speakerdict[speaker] += session['totalminutes']
-            speaker_events_dict[speaker] += session['name']
+            #speaker_events_dict[speaker].append(session['name'])
+            #print speaker, session['name']
+    for speakernosp in session['speakernosplist']:
+      if (speakernosp != ""):
+        if speakernosp not in speakernosplist:
+            #speakers.append(speaker)
+            #speakerdict[speaker] = session['totalminutes']
+            speaker_events_dict[speakernosp] = []
+            speaker_events_dict[speakernosp].append(session['name'])
+            print speaker, session['name']
+            
+        else:
+            #speakerdict[speaker] += session['totalminutes']
+            speaker_events_dict[speakernosp].append(session['name'])
+            print speaker, session['name']
+            
     # add the session to the list of sessions
     sessions.append(session)
 
@@ -305,12 +334,15 @@ tempstart = "test"
 rp = "./output/"
 caldir = rp +"calendars/"
 schedulebyroomdir = rp + "schedbyroom/"
+speakerdir = rp +"schedbyspeaker/"
 if not os.path.exists(rp):
     os.makedirs(rp)
 if not os.path.exists(caldir):
     os.makedirs(caldir)  
 if not os.path.exists(schedulebyroomdir):
-    os.makedirs(schedulebyroomdir)  
+    os.makedirs(schedulebyroomdir)
+if not os.path.exists(speakerdir):
+    os.makedirs(speakerdir)  
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
@@ -336,7 +368,7 @@ with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
 myoutput.close()
 #"""
 
-# schedule by room output
+# schedule by room and by speaker output
 
 with open( schedulebyroomdir + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
@@ -345,11 +377,20 @@ with open( schedulebyroomdir + "2014.penguicon.fullschedule.csv",'w') as fullsch
             temproomsched.write(schedule_header)
             temproomsched.close()
     for index, y in enumerate(sessions):
+      #for speakernosp in speakernosplist:
+        with open(speakerdir  + y['speakernosp'] + ".csv",'w') as tempspeakersched:        
+        #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
+            tempspeakersched.write(schedule_header)
+            tempspeakersched.close()
+    for index, y in enumerate(sessions):
         #if not y['All Day Event'] == 'All Day Event':
             fullschedule.write(schedule_csv_template % y)
             with open(schedulebyroomdir + y['roomnosp'] + ".csv",'a') as temproomsched:
                 temproomsched.write(schedule_csv_template % y)
             temproomsched.close()
+            with open(speakerdir  + y['speakernosp'] + ".csv",'a') as tempspeakersched:
+                tempspeakersched.write(schedule_csv_template % y)
+            tempspeakersched.close()
 
 fullschedule.close()
 
@@ -393,6 +434,7 @@ with open( caldir + "2014.penguicon.fullcalendar.csv",'w') as fullcalendar:
             tempcal.close()
 
 fullcalendar.close()
+#fullcalendar.close()
 
 #with open(rp + "sessiondata.csv",'w') as sessiondata:
 writer = csv.writer(open(rp + 'dict.csv', 'wb'))
@@ -400,8 +442,14 @@ for index, y in enumerate(sessions):
     for key, value in y.items():
         writer.writerow([key, value])
 
+# write out the speakers and their events ...this doesn't work yet
+#speaker_events_dict
+#writer = csv.writer(open(rp + 'speaker_events_dict.csv', 'wb'))
+#for x,y in enumerate(speaker_events_dict):
+#for key, value in speaker_events_dict.items():
+#    writer.writerow([key, ', '.join(value)] )
+#    print key, "is in",len(value)," event(s) which is/are", ', '.join(value)
 
-#fullcalendar.close()
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open(rp + '2014.penguicon.schedule.alltimes.xml', 'r')
