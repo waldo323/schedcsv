@@ -283,11 +283,14 @@ tempstart = "test"
 
 
 rp = "./output/"
-caldir = "./calendars/"
+caldir = rp +"calendars/"
+schedulebyroomdir = rp + "schedbyroom/"
 if not os.path.exists(rp):
     os.makedirs(rp)
 if not os.path.exists(caldir):
-    os.makedirs(caldir)
+    os.makedirs(caldir)  
+if not os.path.exists(schedulebyroomdir):
+    os.makedirs(schedulebyroomdir)  
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
@@ -387,5 +390,7 @@ for row in inputfile:
 
 inputfile.close()
 outputfile.close()
+
+
 
 print "probable success processing csv and exporting to various formats"
