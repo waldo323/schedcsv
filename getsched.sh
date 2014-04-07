@@ -24,16 +24,4 @@ awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2014.penguicon.speakers.3plus.t
 
 awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2014.penguicon.speakers.txt |sort> ./output/2014.penguicon.spkrs.bylast.txt 
 
-## git add . for adding all changes
-echo staging to local repo
-git add .
-## git commit for committing those changes to the local repo
-echo committing to local repo
-git commit -m "updated schedule to the lastest downloaded version as of $SCHEDDATE"
-
-## git push sends it up to github
-echo pushing up to github
-git push
-
-
-echo successful!
+echo got schedule and ran parsing script
