@@ -24,7 +24,7 @@ programbook_template ="""<event><title>%(name)s</title>
 hourtemplate ="""<event><title>%(name)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
-<blurb><participant>%(speakers)s</participant> %(description)s</blurb></event>\n"""
+<blurb><participant>%(speakers)s</participant> %(speakers)s</blurb></event>\n"""
 
 extrainfo= """
 <startday>%(startday)s</startday>
@@ -36,6 +36,8 @@ extrainfo= """
 """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
+schedule_header= """Start Date,Start Time,End Date,End Time,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
+schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(venue)s,%(event_type)s,"%(name)s",%(speakers)s,%(description)s,%(allday)s,%(private)s,%(avneeds)s"""
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 
@@ -133,6 +135,8 @@ sessions = [] # list of sessions...empty so far!
 speakers = [] # list of speakers...empty as well. imagine that
 tracks = []   # list of tracks
 tracksdict = {}   # for use in creating a dictionary of tracks with no space in their name 
+rooms = []
+roomsdict = {}
 speakerdict = {}
 hourslist = {}
 
@@ -187,6 +191,14 @@ for index, x in enumerate(pconsched.schedule):
                     session['description'] = fieldtext
         if  (field == "Location"):
             session['venue'] = fieldtext
+            temproom = re.sub(r'\s','', fieldtext)
+            temproom = re.sub(r'\(','', temproom)
+            temproom = re.sub(r'\)','', temproom)
+            temproom = re.sub(r'/','', temproom)
+            session['roomnosp'] = temproom
+            if fieldtext not in rooms:
+              rooms.append(fieldtext)
+              roomsdict[fieldtext] = temprooms
         if  (field == "Presenters"):
             session['speakers'] = fieldtext
         if  (field == "Title"):
@@ -211,6 +223,11 @@ for index, x in enumerate(pconsched.schedule):
               session['private'] = "DEFAULT"
             else:
               session['private'] = fieldtext
+        it (field == "AV Needs")
+            if  (fieldtext == ""):
+              session['avneeds'] = "none"
+            else:
+              session['avneeds'] = fieldtext
         ## remove the beginning portion of http and mail links 
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
@@ -315,6 +332,23 @@ with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
     myoutput.write('</document></events>\n')
 myoutput.close()
 #"""
+
+# schedule by room output
+
+with open( schedulebyroomdir + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
+    fullschedule.write(schedule_header) # schedule_header needs to be written
+    for room in venues:
+        with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
+            temproomsched.write(schedule_header)
+            temproomsched.close()
+    for index, y in enumerate(sessions):
+        #if not y['All Day Event'] == 'All Day Event':
+            fullschedule.write(schedule_csv_template % y)
+            with open(caldir + y['roomnosp'] + ".csv",'a') as temproomcal:
+                temproomcal.write(calendar_template % y)
+            temproomcal.close()
+
+fullschedule.close()
 
 with open(rp + "2014.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
   with open(rp + "2014.penguicon.speakers.txt",'w') as fullspeaker:
