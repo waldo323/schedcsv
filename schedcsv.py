@@ -139,7 +139,7 @@ rooms = []
 roomsdict = {}
 speakerdict = {}
 hourslist = {}
-
+speaker_events_dict = {}
 # go through the schedule row by row
 for index, x in enumerate(pconsched.schedule):
     # (re)initialize a session dictionary object
@@ -282,8 +282,11 @@ for index, x in enumerate(pconsched.schedule):
         if speaker not in speakers:
             speakers.append(speaker)
             speakerdict[speaker] = session['totalminutes']
+            speaker_events_dict[speaker] = [session['name']]
+            
         else:
             speakerdict[speaker] += session['totalminutes']
+            speaker_events_dict[speaker] += session['name']
     # add the session to the list of sessions
     sessions.append(session)
 
