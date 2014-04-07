@@ -370,7 +370,7 @@ myoutput.close()
 
 # schedule by room and by speaker output
 
-with open( schedulebyroomdir + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
+with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
     for room in roomsdict:
         with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
