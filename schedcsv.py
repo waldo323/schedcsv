@@ -223,7 +223,7 @@ for index, x in enumerate(pconsched.schedule):
               session['private'] = "DEFAULT"
             else:
               session['private'] = fieldtext
-        it (field == "AV Needs")
+        if (field == "AV Needs")
             if  (fieldtext == ""):
               session['avneeds'] = "none"
             else:
