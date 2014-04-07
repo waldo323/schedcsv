@@ -37,7 +37,7 @@ extrainfo= """
 
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header= """Start Date,Start Time,End Date,End Time,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
-schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(venue)s,%(event_type)s,"%(name)s",%(speakers)s,%(description)s,%(allday)s,%(private)s,%(avneeds)s"""
+schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,"%(venue)s",%(event_type)s,"%(name)s","%(speakers)s","%(description)s",%(allday)s,%(private)s,%(avneeds)s\n"""
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 
@@ -198,7 +198,7 @@ for index, x in enumerate(pconsched.schedule):
             session['roomnosp'] = temproom
             if fieldtext not in rooms:
               rooms.append(fieldtext)
-              roomsdict[fieldtext] = temprooms
+              roomsdict[fieldtext] = temproom
         if  (field == "Presenters"):
             session['speakers'] = fieldtext
         if  (field == "Title"):
@@ -337,16 +337,16 @@ myoutput.close()
 
 with open( schedulebyroomdir + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
-    for room in venues:
+    for room in roomsdict:
         with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
             temproomsched.write(schedule_header)
             temproomsched.close()
     for index, y in enumerate(sessions):
         #if not y['All Day Event'] == 'All Day Event':
             fullschedule.write(schedule_csv_template % y)
-            with open(caldir + y['roomnosp'] + ".csv",'a') as temproomcal:
-                temproomcal.write(calendar_template % y)
-            temproomcal.close()
+            with open(schedulebyroomdir + y['roomnosp'] + ".csv",'a') as temproomsched:
+                temproomsched.write(schedule_csv_template % y)
+            temproomsched.close()
 
 fullschedule.close()
 
