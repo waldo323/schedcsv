@@ -873,6 +873,11 @@ Our panelists will be happy to address general questions about the gender and se
 <topic>Tech</topic>
 <room>Lobby</room>
 <blurb><participant>Ed Mason</participant> Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to! <duration>36 hours and 50 minutes</duration></blurb></event>
+<time>2 PM</time>
+<event><title>Penguicon Board Meeting</title>
+<topic>Penguicon Events</topic>
+<room>Board of Regents</room>
+<blurb><participant>Steve Gutterman, Randy Bradakis, Matt Arnold, Amanda Long-Adams, Jer Lance, Gini Judd, James Hice</participant> You’ve done the convention, you’ve met the staff, and you’ve even socialized with the ConCom. But what about those *other* Penguicon people? Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke? Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon? Come to the Board of Directors meeting and see! <duration>36 hours and 50 minutes</duration></blurb></event>
 <time>3 PM</time>
 <event><title>Actioniirs, the Community Improvement App</title>
 <topic>Eco</topic>
@@ -898,11 +903,6 @@ Our panelists will be happy to address general questions about the gender and se
 <topic>Lit</topic>
 <room>Baldwin Board Room</room>
 <blurb><participant>Janea Schimmel</participant> Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what?  The panelists will discuss the ins and outs of reviewing material on-line. <duration>35 hours and 50 minutes</duration></blurb></event>
-<time>4 PM</time>
-<event><title>Performance: Tom Smith</title>
-<topic>Music</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Tom Smith</participant> There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring.  <duration>34 hours and 50 minutes</duration></blurb></event>
 <time>3 PM</time>
 <event><title>Masquerade Muster</title>
 <topic>Penguicon Events</topic>
@@ -928,6 +928,16 @@ Our panelists will be happy to address general questions about the gender and se
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Tony Bemus, Kevin O'Brien</participant> Come learn GPG Encryption with Tony, host of Sunday Morning Linux Review, and active promoter of GPG Encryption, and Kevin O'Brien, frequent contributor to Hacker Public Radio. <duration>35 hours and 50 minutes</duration></blurb></event>
+<time>3 PM</time>
+<event><title>Performance: Devo Spice</title>
+<topic>Music</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Devo Spice</participant> Devo Spice is a nerdcore and comedy rapper from New Jersey who has been called “the red-headed stepson of Weird Al Yankovic and Eminem.” His demented brand of hip hop made him one of the most popular artists on the nationally syndicated Dr. Demento Show. <duration>35 hours and 50 minutes</duration></blurb></event>
+<time>4 PM</time>
+<event><title>Performance: Tom Smith</title>
+<topic>Music</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Tom Smith</participant> There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring.  <duration>34 hours and 50 minutes</duration></blurb></event>
 <time>4 PM</time>
 <event><title>Board-Breaking Class</title>
 <topic>Action Adventure</topic>
@@ -1048,11 +1058,6 @@ Our panelists will be happy to address general questions about the gender and se
 <topic>Music</topic>
 <room>Algonquin D</room>
 <blurb><participant>YTCracker</participant> Got any questions for an (in)famous hacker and Internet famous rapper?  We're doing informal hangout session with our GoH YTCracker!  Join in! <duration>33 hours and 50 minutes</duration></blurb></event>
-<time>3 PM</time>
-<event><title>Performance: Devo Spice</title>
-<topic>Music</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Devo Spice</participant> Devo Spice is a nerdcore and comedy rapper from New Jersey who has been called “the red-headed stepson of Weird Al Yankovic and Eminem.” His demented brand of hip hop made him one of the most popular artists on the nationally syndicated Dr. Demento Show. <duration>35 hours and 50 minutes</duration></blurb></event>
 <time>5 PM</time>
 <event><title>Genomics 101: What the Heck is a Genome And Why Is it Important?</title>
 <topic>Science</topic>
@@ -1504,11 +1509,6 @@ This session is in audience-participation format (not like that, keep your kilts
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies. <duration>40 hours and 50 minutes</duration></blurb></event>
-<time>12 PM</time>
-<event><title>Taiji!: Body Alignment</title>
-<topic>Life</topic>
-<room>Algonquin B/C</room>
-<blurb><participant>Marie Staver</participant> Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness & limitations -- there will be opportunities for more advanced practice for those who want it.   <duration>38 hours and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>Open Source Spinning</title>
 <topic>Life</topic>
@@ -1601,6 +1601,11 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Matt Arnold</participant> If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or "vector", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator. <duration>39 hours and 50 minutes</duration></blurb></event>
+<time>12 PM</time>
+<event><title>Taiji!: Body Alignment</title>
+<topic>Life</topic>
+<room>Algonquin B/C</room>
+<blurb><participant>Marie Staver</participant> Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness & limitations -- there will be opportunities for more advanced practice for those who want it.   <duration>38 hours and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
 <event><title>The Living Western Martial Arts</title>
 <topic>Action Adventure</topic>
