@@ -62,15 +62,17 @@ class readInCSV:
               self.headerdict[header] = index
 
 def calcduration(startday, starttime, endday, endtime, minutes):
-    print startday
-    print starttime
-    print endday
-    print endtime
-    print minutes
+    #print "in calc duration start day ", startday
+    #print "in calc duration start time", starttime
+    #print "in cacl duration end day ", endday
+    #print "in calc duration end time ", endtime
+    #print "in calc duration end minutes", minutes
     day = endday - startday
-    
+    #print day
     hour = endtime - starttime
+    #print hour
     hours = (24 * day) + hour
+    #print hours
     if hours == 1:
         hourstext = "1 hour"
     else:
@@ -81,7 +83,7 @@ def calcduration(startday, starttime, endday, endtime, minutes):
         else:
             duration = hourstext
     else:
-        print minutes
+        #print minutes
         duration = minutes + " minutes"
     totalminutes = (hours * 60) + int(minutes)
     return duration, hours, minutes, totalminutes
@@ -180,7 +182,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "End Time"):
             if fieldtext != "End Time":
                 session['endtime'] = fieldtext
-                #print "endtime " + fieldtext
+                #print "setting endtime " + fieldtext
                 session['event_end'] = fieldtext            
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['endtimeampm'] = ampmformat(session['endtime']) 
@@ -270,16 +272,16 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        print session['name']
+        ##print session['name']
         #print "start day " + session['startday'][2:-5] 
         #print "start time " + session['starttime'][:-3]
         #print "end day " + session['endday'][2:-5]
-        print "end time " + session['endtime'][-2:]
+        ##print "end time " + session['endtime'][-5:-3]
         #print "end minutes " + session['endtime'][3:]
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
 
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-2:]), session['endtime'][-2:])
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
    
     
     session['speakerlist'] = session['speakers'].split(", ")
@@ -309,12 +311,12 @@ for index, x in enumerate(pconsched.schedule):
             #speakerdict[speaker] = session['totalminutes']
             speaker_events_dict[speakernosp] = []
             speaker_events_dict[speakernosp].append(session['name'])
-            print speaker, session['name']
+            #print speaker, session['name']
             
         else:
             #speakerdict[speaker] += session['totalminutes']
             speaker_events_dict[speakernosp].append(session['name'])
-            print speaker, session['name']
+            #print speaker, session['name']
             
     # add the session to the list of sessions
     sessions.append(session)
