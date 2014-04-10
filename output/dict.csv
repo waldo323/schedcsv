@@ -427,7 +427,7 @@ private,PUBLIC
 endtimeampm,4 PM
 Location,Portage Auditorium
 duration,50 minutes
-description,"""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steel the needed materials but he picks the wrong person for the job — a prisoner!"
+description,"""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner!"
 index,2
 speakers,
 Track,Film
@@ -438,7 +438,7 @@ event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
 tracknosp,Film
-input,"['5/2/2014', '16:00', '5/2/2014', '16:50', 'Portage Auditorium', 'Film', 'The Amazing Transparent Man', '', '""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner\xe2\x80\x99s plan is to send an invisible man to steel the needed materials but he picks the wrong person for the job \xe2\x80\x94 a prisoner!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+input,"['5/2/2014', '16:00', '5/2/2014', '16:50', 'Portage Auditorium', 'Film', 'The Amazing Transparent Man', '', '""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner\xe2\x80\x99s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job \xe2\x80\x94 a prisoner!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/2/2014
 calspeakers,
 avneeds,"Projector, Sound System"
@@ -446,15 +446,15 @@ speakerlist,['']
 hours,0
 totalminutes,50
 speakernosplist,['']
-caldescrip,"'The Amazing Transparent Man' Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steel the needed materials but he picks the wrong person for the job — a prisoner!"
+caldescrip,"'The Amazing Transparent Man' Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner!"
 endtime,16:50
 AV Needs,"Projector, Sound System"
 name,The Amazing Transparent Man
 Private,PUBLIC
 venue,Portage Auditorium
-Book Description,"""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steel the needed materials but he picks the wrong person for the job — a prisoner!"
+Book Description,"""The Amazing Transparent Man"" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner!"
 Presenters,
-csvsafedescrip,'The Amazing Transparent Man' Dr. Peter Ulof- inventor of an invisibility machine- is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steel the needed materials but he picks the wrong person for the job — a prisoner!
+csvsafedescrip,'The Amazing Transparent Man' Dr. Peter Ulof- inventor of an invisibility machine- is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner!
 speakernosp,
 starttime,16:00
 roomnosp,PortageAuditorium
@@ -1141,11 +1141,7 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Charlevoix B
 duration,50 minutes
-description,"While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special.
-
-If you use the Internet, you use BSD. Come see what you rely on.
-
-By the author of ""Absolute FreeBSD"" and ""Absolute OpenBSD."""
+description,"While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special. If you use the Internet, you use BSD. Come see what you rely on. By the author of ""Absolute FreeBSD"" and ""Absolute OpenBSD."""
 index,28
 speakers,Michael W. Lucas
 Track,Tech
@@ -1156,7 +1152,7 @@ event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
 tracknosp,Tech
-input,"['5/2/2014', '17:00', '5/2/2014', '17:50', 'Charlevoix B', 'Tech', 'BSD Operating Systems: A Tour', 'Michael W. Lucas', 'While Linux gets a lot of press time these days, it\'s not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We\'ll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special.\n\nIf you use the Internet, you use BSD. Come see what you rely on.\n\nBy the author of ""Absolute FreeBSD"" and ""Absolute OpenBSD.""', 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '17:00', '5/2/2014', '17:50', 'Charlevoix B', 'Tech', 'BSD Operating Systems: A Tour', 'Michael W. Lucas', 'While Linux gets a lot of press time these days, it\'s not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We\'ll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special. If you use the Internet, you use BSD. Come see what you rely on. By the author of ""Absolute FreeBSD"" and ""Absolute OpenBSD.""', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Michael W. Lucas
 avneeds,none
@@ -1164,11 +1160,7 @@ speakerlist,['Michael W. Lucas']
 hours,0
 totalminutes,50
 speakernosplist,['MichaelW.Lucas']
-caldescrip,"While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special.
-
-If you use the Internet, you use BSD. Come see what you rely on.
-
-By the author of 'Absolute FreeBSD' and 'Absolute OpenBSD.'"
+caldescrip,"While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special. If you use the Internet, you use BSD. Come see what you rely on. By the author of 'Absolute FreeBSD' and 'Absolute OpenBSD.'"
 endtime,17:50
 AV Needs,
 name,BSD Operating Systems: A Tour
@@ -1176,7 +1168,7 @@ Private,PUBLIC
 venue,Charlevoix B
 Book Description,"While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special. If you use the Internet, you use BSD. Come see what you rely on. By the author of ""Absolute FreeBSD"" and ""Absolute OpenBSD."""
 Presenters,Michael W. Lucas
-csvsafedescrip,While Linux gets a lot of press time these days- it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants- FreeBSD and OpenBSD- and what makes these operating systems special.  If you use the Internet- you use BSD. Come see what you rely on.  By the author of 'Absolute FreeBSD' and 'Absolute OpenBSD.'
+csvsafedescrip,While Linux gets a lot of press time these days- it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants- FreeBSD and OpenBSD- and what makes these operating systems special. If you use the Internet- you use BSD. Come see what you rely on. By the author of 'Absolute FreeBSD' and 'Absolute OpenBSD.'
 speakernosp,MichaelW.Lucas
 starttime,17:00
 roomnosp,CharlevoixB
@@ -1653,8 +1645,7 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Montcalm
 duration,50 minutes
-description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.
-To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
+description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
 index,40
 speakers,Stan Carrico
 Track,Tech
@@ -1665,7 +1656,7 @@ event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,Tech
-input,"['5/2/2014', '18:00', '5/2/2014', '18:50', 'Montcalm', 'Tech', 'Conquering HTML5 Apps: Session 1', 'Stan Carrico', ""Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.\nTo get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/2/2014', '18:00', '5/2/2014', '18:50', 'Montcalm', 'Tech', 'Conquering HTML5 Apps: Session 1', 'Stan Carrico', ""Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/2/2014
 calspeakers,Stan Carrico
 avneeds,Projector
@@ -1673,8 +1664,7 @@ speakerlist,['Stan Carrico']
 hours,0
 totalminutes,50
 speakernosplist,['StanCarrico']
-caldescrip,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.
-To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
+caldescrip,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
 endtime,18:50
 AV Needs,Projector
 name,Conquering HTML5 Apps: Session 1
@@ -2119,7 +2109,7 @@ private,PUBLIC
 endtimeampm,7 PM
 Location,Board of Regents
 duration,50 minutes
-description,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
+description,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
 index,51
 speakers,"Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico"
 Track,Tech
@@ -2130,7 +2120,7 @@ event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
 tracknosp,Tech
-input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Board of Regents', 'Tech', 'Developing Software for Penguicon', 'Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico', ""Penguicon has begun to host hackathons year-round to develop software to help organize this convention. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"", 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Board of Regents', 'Tech', 'Developing Software for Penguicon', 'Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico', ""Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"", 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,"Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico"
 avneeds,none
@@ -2138,15 +2128,15 @@ speakerlist,"['Matt Arnold', 'Bruce Webber', 'John D. Bell', 'Janet Gocay', 'Cha
 hours,0
 totalminutes,50
 speakernosplist,['StanCarrico']
-caldescrip,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
+caldescrip,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
 endtime,19:50
 AV Needs,
 name,Developing Software for Penguicon
 Private,PUBLIC
 venue,Board of Regents
-Book Description,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
+Book Description,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
 Presenters,"Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico"
-csvsafedescrip,Penguicon has begun to host hackathons year-round to develop software to help organize this convention. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose- stack- and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax
+csvsafedescrip,Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose- stack- and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax
 speakernosp,StanCarrico
 starttime,19:00
 roomnosp,BoardofRegents
@@ -2371,11 +2361,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
-description,"How accurate is the ""proof"" on your bottle?
-
-Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We'll find out if the labeling is correct, and especially test if the rumor that only 100 proof and above is flammable is true.
-
-We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
+description,"How accurate is the ""proof"" on your bottle? Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We'll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
 index,57
 speakers,Jody Raiford
 Track,Food
@@ -2386,7 +2372,7 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Food
-input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Food Track (Room 1017)', 'Food', ""Where's the Proof?"", 'Jody Raiford', 'How accurate is the ""proof"" on your bottle?\n\nLet\'s test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We\'ll find out if the labeling is correct, and especially test if the rumor that only 100 proof and above is flammable is true.\n\nWe\'ll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can\'t make some booze-balls.', 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Food Track (Room 1017)', 'Food', ""Where's the Proof?"", 'Jody Raiford', 'How accurate is the ""proof"" on your bottle? Let\'s test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We\'ll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We\'ll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can\'t make some booze-balls.', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Jody Raiford
 avneeds,none
@@ -2394,19 +2380,15 @@ speakerlist,['Jody Raiford']
 hours,0
 totalminutes,50
 speakernosplist,['JodyRaiford']
-caldescrip,"How accurate is the 'proof' on your bottle?
-
-Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We'll find out if the labeling is correct, and especially test if the rumor that only 100 proof and above is flammable is true.
-
-We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
+caldescrip,"How accurate is the 'proof' on your bottle? Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We'll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
 endtime,20:50
 AV Needs,
 name,Where's the Proof?
 Private,PUBLIC
 venue,Food Track (Room 1017)
-Book Description,"How accurate is the ""proof"" on your bottle? Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring. We'll find out if the labeling is correct, and especially test if the rumor that only 100 proof and above is flammable is true. We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
+Book Description,"How accurate is the ""proof"" on your bottle? Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring. We'll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
 Presenters,Jody Raiford
-csvsafedescrip,How accurate is the 'proof' on your bottle?  Let's test the alcohol content of some wines- beers- meads- homebrews- whatever you bring.  We'll find out if the labeling is correct- and especially test if the rumor that only 100 proof and above is flammable is true.  We'll also tell stories and trivia about alcohol- and if we can get some LN2 or dry ice or something- see if we can't make some booze-balls.
+csvsafedescrip,How accurate is the 'proof' on your bottle? Let's test the alcohol content of some wines- beers- meads- homebrews- whatever you bring.  We'll find out if the labeling is correct- and especially test the rumor that only 100 proof and above is flammable. We'll also tell stories and trivia about alcohol- and if we can get some LN2 or dry ice or something- see if we can't make some booze-balls.
 speakernosp,JodyRaiford
 starttime,20:00
 roomnosp,FoodTrackRoom1017
@@ -2421,9 +2403,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Board of Governors
 duration,50 minutes
-description,"Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. 
-
-Rules: http://goo.gl/ZNPElW"
+description,"Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. Rules: http://goo.gl/ZNPElW"
 index,58
 speakers,Anthony Cholag
 Track,Gaming
@@ -2434,7 +2414,7 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Gaming
-input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Board of Governors', 'Gaming', ""Cash N' Guns Live!"", 'Anthony Cholag', ""Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. \n\nRules: http://goo.gl/ZNPElW"", 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Board of Governors', 'Gaming', ""Cash N' Guns Live!"", 'Anthony Cholag', ""Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. Rules: http://goo.gl/ZNPElW"", 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Anthony Cholag
 avneeds,none
@@ -2442,9 +2422,7 @@ speakerlist,['Anthony Cholag']
 hours,0
 totalminutes,50
 speakernosplist,['AnthonyCholag']
-caldescrip,"Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. 
-
-Rules: http://goo.gl/ZNPElW"
+caldescrip,"Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. Rules: http://goo.gl/ZNPElW"
 endtime,20:50
 AV Needs,
 name,Cash N' Guns Live!
@@ -2452,7 +2430,7 @@ Private,PUBLIC
 venue,Board of Governors
 Book Description,"Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle, all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. Rules: http://goo.gl/ZNPElW"
 Presenters,Anthony Cholag
-csvsafedescrip,Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle- all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game.   Rules: http://goo.gl/ZNPElW
+csvsafedescrip,Cash N' Guns Live is a LARPing game where everyone is a gangster. Eight to 20 players play in a public place where non-players are present. When the referee blows the whistle- all players point their hands (as if they had a gun) towards another player. Or maybe you want to throw a grenade? Team based play is required with a maximum of 20 participants per game. Rules: http://goo.gl/ZNPElW
 speakernosp,AnthonyCholag
 starttime,20:00
 roomnosp,BoardofGovernors
@@ -2761,8 +2739,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Nicolet
 duration,50 minutes
-description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.
-To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
+description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the second of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
 index,66
 speakers,Stan Carrico
 Track,Tech
@@ -2773,7 +2750,7 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Tech
-input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Nicolet', 'Tech', 'Conquering HTML5 Apps: Session 2', 'Stan Carrico', ""Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.\nTo get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Nicolet', 'Tech', 'Conquering HTML5 Apps: Session 2', 'Stan Carrico', ""Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the second of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/2/2014
 calspeakers,Stan Carrico
 avneeds,Projector
@@ -2781,16 +2758,15 @@ speakerlist,['Stan Carrico']
 hours,0
 totalminutes,50
 speakernosplist,['StanCarrico']
-caldescrip,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi.
-To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
+caldescrip,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the second of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
 endtime,20:50
 AV Needs,Projector
 name,Conquering HTML5 Apps: Session 2
 Private,PUBLIC
 venue,Nicolet
-Book Description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
+Book Description,"Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the second of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. "
 Presenters,Stan Carrico
-csvsafedescrip,Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session- we will focus on tooling- structure- mock data sets- and build process. Follow along with the presenter- and walk away with a working single page app. Stan represents Bitovi. To get the best head start- clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. 
+csvsafedescrip,Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the second of two sessions -- please come to both! In this session- we will focus on tooling- structure- mock data sets- and build process. Follow along with the presenter- and walk away with a working single page app. Stan represents Bitovi. To get the best head start- clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. 
 speakernosp,StanCarrico
 starttime,20:00
 roomnosp,Nicolet
@@ -4607,13 +4583,13 @@ minutes,50
 allday,FALSE
 event_type,Gaming
 All Day Event,FALSE
-event_end,11:50
+event_end,12:50
 endday,5/3/2014
 private,PUBLIC
-endtimeampm,11 AM
+endtimeampm,12 PM
 Location,Gaming (Restaurant)
-duration,1 hour and 50 minutes
-description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" This 5/3/2014 morning event will last three hours and include four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
+duration,2 hours and 50 minutes
+description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
 index,110
 speakers,Bill Korsak
 Track,Gaming
@@ -4622,25 +4598,25 @@ Title,Chopped GM - Penguicon
 Start Time,10:00
 event_start,10:00
 starttimeampm,10 AM
-End Time,11:50
+End Time,12:50
 tracknosp,Gaming
-input,"['5/3/2014', '10:00', '5/3/2014', '11:50', 'Gaming (Restaurant)', 'Gaming', 'Chopped GM - Penguicon', 'Bill Korsak', 'Fifteen players will have a chance to become the first winner of ""Chopped GM."" This 5/3/2014 morning event will last three hours and include four random elements to test and stretch players\' creative muscles. Have you got what it takes to win the contest?', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '10:00', '5/3/2014', '12:50', 'Gaming (Restaurant)', 'Gaming', 'Chopped GM - Penguicon', 'Bill Korsak', 'Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players\' creative muscles. Have you got what it takes to win the contest?', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Bill Korsak
 avneeds,none
 speakerlist,['Bill Korsak']
-hours,1
-totalminutes,110
+hours,2
+totalminutes,170
 speakernosplist,['BillKorsak']
-caldescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' This 5/3/2014 morning event will last three hours and include four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
-endtime,11:50
+caldescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
+endtime,12:50
 AV Needs,
 name,Chopped GM - Penguicon
 Private,PUBLIC
 venue,Gaming (Restaurant)
-Book Description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" This 5/3/2014 morning event will last three hours and include four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
+Book Description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
 Presenters,Bill Korsak
-csvsafedescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' This 5/3/2014 morning event will last three hours and include four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
+csvsafedescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
 speakernosp,BillKorsak
 starttime,10:00
 roomnosp,GamingRestaurant
@@ -5257,7 +5233,7 @@ Location,Board of Governors
 duration,50 minutes
 description,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 index,125
-speakers,"Nuri Gocay, April Nance, Scott Kennedy"
+speakers,"Nuri Gocay, April Nance, Scott Kennedy, Karen Morand, Dawn Kuczwara"
 Track,Penguicon Events
 startday,5/3/2014
 Title,Creating Safe Spaces
@@ -5266,14 +5242,14 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,PenguiconEvents
-input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Board of Governors', 'Penguicon Events', 'Creating Safe Spaces', 'Nuri Gocay, April Nance, Scott Kennedy', 'How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Board of Governors', 'Penguicon Events', 'Creating Safe Spaces', 'Nuri Gocay, April Nance, Scott Kennedy, Karen Morand, Dawn Kuczwara', 'How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,"Nuri Gocay, April Nance, Scott Kennedy"
+calspeakers,"Nuri Gocay, April Nance, Scott Kennedy, Karen Morand, Dawn Kuczwara"
 avneeds,none
-speakerlist,"['Nuri Gocay', 'April Nance', 'Scott Kennedy']"
+speakerlist,"['Nuri Gocay', 'April Nance', 'Scott Kennedy', 'Karen Morand', 'Dawn Kuczwara']"
 hours,0
 totalminutes,50
-speakernosplist,['ScottKennedy']
+speakernosplist,['DawnKuczwara']
 caldescrip,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 endtime,11:50
 AV Needs,
@@ -5281,9 +5257,9 @@ name,Creating Safe Spaces
 Private,PUBLIC
 venue,Board of Governors
 Book Description,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
-Presenters,"Nuri Gocay, April Nance, Scott Kennedy"
+Presenters,"Nuri Gocay, April Nance, Scott Kennedy, Karen Morand, Dawn Kuczwara"
 csvsafedescrip,How can we create safe spaces for people of all varieties at the convention- and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.
-speakernosp,ScottKennedy
+speakernosp,DawnKuczwara
 starttime,11:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -5423,11 +5399,7 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Charlevoix C
 duration,50 minutes
-description,"Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care?
-
-Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. 
-
-If you want to take over the world, then Erlang is for you."
+description,"Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care? Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. If you want to take over the world, then Erlang is for you."
 index,129
 speakers,Chris Roland
 Track,Tech
@@ -5438,7 +5410,7 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,Tech
-input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Charlevoix C', 'Tech', 'Erlang and You', 'Chris Roland', ""Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care?\n\nCome explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. \n\nIf you want to take over the world, then Erlang is for you."", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Charlevoix C', 'Tech', 'Erlang and You', 'Chris Roland', ""Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care? Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. If you want to take over the world, then Erlang is for you."", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,Chris Roland
 avneeds,Projector
@@ -5446,11 +5418,7 @@ speakerlist,['Chris Roland']
 hours,0
 totalminutes,50
 speakernosplist,['ChrisRoland']
-caldescrip,"Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care?
-
-Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. 
-
-If you want to take over the world, then Erlang is for you."
+caldescrip,"Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care? Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. If you want to take over the world, then Erlang is for you."
 endtime,11:50
 AV Needs,Projector
 name,Erlang and You
@@ -5458,7 +5426,7 @@ Private,PUBLIC
 venue,Charlevoix C
 Book Description,"Erlang is the new old hotness, so ugly you have to love it. Come find out what's it really good for, what does it suck at and why should you care? Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. If you want to take over the world, then Erlang is for you."
 Presenters,Chris Roland
-csvsafedescrip,Erlang is the new old hotness- so ugly you have to love it. Come find out what's it really good for- what does it suck at and why should you care?  Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes.   If you want to take over the world- then Erlang is for you.
+csvsafedescrip,Erlang is the new old hotness- so ugly you have to love it. Come find out what's it really good for- what does it suck at and why should you care? Come explore the deep dark tunnels and wide open plains of Erlang. Cast magical spells of awesomeness and spawn millions of processes. If you want to take over the world- then Erlang is for you.
 speakernosp,ChrisRoland
 starttime,11:00
 roomnosp,CharlevoixC
@@ -5599,8 +5567,7 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
-description,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
-"
+description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 index,133
 speakers,Richard Houser
 Track,Gaming
@@ -5611,7 +5578,7 @@ event_start,12:00
 starttimeampm,12 PM
 End Time,13:50
 tracknosp,Gaming
-input,"['5/3/2014', '12:00', '5/3/2014', '13:50', 'Gaming (Restaurant)', 'Gaming', ""Rick's Big Box of Games"", 'Richard Houser', 'Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.\n', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '12:00', '5/3/2014', '13:50', 'Gaming (Restaurant)', 'Gaming', ""Rick's Big Box of Games"", 'Richard Houser', 'Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Richard Houser
 avneeds,none
@@ -5619,16 +5586,15 @@ speakerlist,['Richard Houser']
 hours,1
 totalminutes,110
 speakernosplist,['RichardHouser']
-caldescrip,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
-"
+caldescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 endtime,13:50
 AV Needs,
 name,Rick's Big Box of Games
 Private,PUBLIC
 venue,Gaming (Restaurant)
-Book Description,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play. "
+Book Description,"Pick from a variety of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play. Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles. New players are welcome, as are walk-ins."
 Presenters,Richard Houser
-csvsafedescrip,Pick from the big box of games and play for a while! Options include: Munchkin- Back to the Future- Dominion- Star Trek DBG- Smallworld- Ticket to Ride Europe- Settlers of Catan- and Castle Panic. Participants will select what games to play. 
+csvsafedescrip,Pick from a variety of games and play for a while!  Options include: Munchkin- Back to the Future- Dominion- Star Trek DBG- Smallworld- Ticket to Ride- Settlers of Catan- Castle Panic- Zombies!!!- Chess- and more. Participants will select which specific games to play.  Some games have limited space- so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome- as are walk-ins.
 speakernosp,RichardHouser
 starttime,12:00
 roomnosp,GamingRestaurant
@@ -5895,9 +5861,7 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
-description,"Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again.
-
-Laptop with vi installed required (Mac and Linux computers have this by default)."
+description,"Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again. Laptop with vi installed required (Mac and Linux computers have this by default)."
 index,140
 speakers,Clay Dowling
 Track,Tech
@@ -5908,7 +5872,7 @@ event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
 tracknosp,Tech
-input,"['5/3/2014', '12:00', '5/3/2014', '12:50', 'Charlevoix C', 'Tech', 'Using vi for Simple Text Editing', 'Clay Dowling', 'Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again.\n\nLaptop with vi installed required (Mac and Linux computers have this by default).', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/3/2014', '12:00', '5/3/2014', '12:50', 'Charlevoix C', 'Tech', 'Using vi for Simple Text Editing', 'Clay Dowling', 'Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again. Laptop with vi installed required (Mac and Linux computers have this by default).', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,Clay Dowling
 avneeds,Projector
@@ -5916,9 +5880,7 @@ speakerlist,['Clay Dowling']
 hours,0
 totalminutes,50
 speakernosplist,['ClayDowling']
-caldescrip,"Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again.
-
-Laptop with vi installed required (Mac and Linux computers have this by default)."
+caldescrip,"Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again. Laptop with vi installed required (Mac and Linux computers have this by default)."
 endtime,12:50
 AV Needs,Projector
 name,Using vi for Simple Text Editing
@@ -5926,7 +5888,7 @@ Private,PUBLIC
 venue,Charlevoix C
 Book Description,"Tired of suspender wearing, bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees? Come to this quick tutorial for vi, the light weight, efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded, suspender wearing bullies again. Laptop with vi installed required (Mac and Linux computers have this by default)."
 Presenters,Clay Dowling
-csvsafedescrip,Tired of suspender wearing- bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi- the light weight- efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded- suspender wearing bullies again.  Laptop with vi installed required (Mac and Linux computers have this by default).
+csvsafedescrip,Tired of suspender wearing- bearded Unix system admins kicking sand in your face? Tired of IDEs and word processors dragging your system to its knees?  Come to this quick tutorial for vi- the light weight- efficient text editor that is available on nearly every system and never suffer from tool bloat or bearded- suspender wearing bullies again. Laptop with vi installed required (Mac and Linux computers have this by default).
 speakernosp,ClayDowling
 starttime,12:00
 roomnosp,CharlevoixC
@@ -6699,33 +6661,33 @@ Location,Con Suite
 duration,1 hour and 50 minutes
 description,We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.
 index,159
-speakers,"Sarah Elkins, Paul Salkie"
+speakers,"Sarah Elkins, Phil Salkie"
 Track,Food
 startday,5/3/2014
-Title,LN2 Ice Cream Leftovers
+Title,LN2 Ice Cream Out of the Box
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
 End Time,15:50
 tracknosp,Food
-input,"['5/3/2014', '14:00', '5/3/2014', '15:50', 'Con Suite', 'Food', 'LN2 Ice Cream Leftovers', 'Sarah Elkins, Paul Salkie', 'We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '14:00', '5/3/2014', '15:50', 'Con Suite', 'Food', 'LN2 Ice Cream Out of the Box', 'Sarah Elkins, Phil Salkie', 'We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,"Sarah Elkins, Paul Salkie"
+calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,none
-speakerlist,"['Sarah Elkins', 'Paul Salkie']"
+speakerlist,"['Sarah Elkins', 'Phil Salkie']"
 hours,1
 totalminutes,110
-speakernosplist,['PaulSalkie']
+speakernosplist,['PhilSalkie']
 caldescrip,We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.
 endtime,15:50
 AV Needs,
-name,LN2 Ice Cream Leftovers
+name,LN2 Ice Cream Out of the Box
 Private,PUBLIC
 venue,Con Suite
 Book Description,We have a lot of ingredients to use up! And more to teach about LN2! Come learn and taste some more. All sessions will offer dairy-free and sugar-free options upon request.
-Presenters,"Sarah Elkins, Paul Salkie"
+Presenters,"Sarah Elkins, Phil Salkie"
 csvsafedescrip,We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.
-speakernosp,PaulSalkie
+speakernosp,PhilSalkie
 starttime,14:00
 roomnosp,ConSuite
 Start Date,5/3/2014
@@ -6949,9 +6911,7 @@ private,PUBLIC
 endtimeampm,2 PM
 Location,Charlevoix B
 duration,50 minutes
-description,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. 
-
-Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
+description,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
 index,165
 speakers,"April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland"
 Track,Life
@@ -6962,7 +6922,7 @@ event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
 tracknosp,Life
-input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Charlevoix B', 'Life', 'LGBTQA* - An Alphabet Soup Q&A', 'April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland', 'A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. \n\nOur panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Charlevoix B', 'Life', 'LGBTQA* - An Alphabet Soup Q&A', 'April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland', 'A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland"
 avneeds,none
@@ -6970,9 +6930,7 @@ speakerlist,"['April Nance', 'Alexa Albright-Kelley', 'Julie Hargraves', 'James 
 hours,0
 totalminutes,50
 speakernosplist,['JenniferCopeland']
-caldescrip,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. 
-
-Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
+caldescrip,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
 endtime,14:50
 AV Needs,
 name,LGBTQA* - An Alphabet Soup Q&A
@@ -6980,7 +6938,7 @@ Private,PUBLIC
 venue,Charlevoix B
 Book Description,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
 Presenters,"April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland"
-csvsafedescrip,A discussion on LGBT/Queer Culture within fandom. This includes challenges faced- successes of fandom culture- and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged.   Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel- as well as providing resources for further learning.
+csvsafedescrip,A discussion on LGBT/Queer Culture within fandom. This includes challenges faced- successes of fandom culture- and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel- as well as providing resources for further learning.
 speakernosp,JenniferCopeland
 starttime,14:00
 roomnosp,CharlevoixB
@@ -8887,7 +8845,7 @@ Location,Baldwin Board Room
 duration,50 minutes
 description,"Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
 index,211
-speakers,"Lucy Kitchen, Professor X   "
+speakers,"LadyAna, Professor X   "
 Track,Film
 startday,5/3/2014
 Title,"Of Gods, Heroes and Their Foes..."
@@ -8896,11 +8854,11 @@ event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,Film
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Baldwin Board Room', 'Film', 'Of Gods, Heroes and Their Foes...', 'Lucy Kitchen, Professor X   ', 'Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That\'s why we\'re here!  Note: there will be free comics and goodies giveaways!       ', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Baldwin Board Room', 'Film', 'Of Gods, Heroes and Their Foes...', 'LadyAna, Professor X   ', 'Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That\'s why we\'re here!  Note: there will be free comics and goodies giveaways!       ', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,"Lucy Kitchen, Professor X   "
+calspeakers,"LadyAna, Professor X   "
 avneeds,none
-speakerlist,"['Lucy Kitchen', 'Professor X   ']"
+speakerlist,"['LadyAna', 'Professor X   ']"
 hours,0
 totalminutes,50
 speakernosplist,['ProfessorX']
@@ -8911,7 +8869,7 @@ name,"Of Gods, Heroes and Their Foes..."
 Private,PUBLIC
 venue,Baldwin Board Room
 Book Description,"Did you think ""Thor: The Dark World"" was awful? What would you like to see happen in ""X-Men: Days of Future Past""? What would you have done differently regarding ""Captain America: Winter Solider""? If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike! Interested in learning more about Marvel (and yes, DC) comics? That's why we're here! Note: there will be free comics and goodies giveaways! "
-Presenters,"Lucy Kitchen, Professor X "
+Presenters,"LadyAna, Professor X "
 csvsafedescrip,Did you think 'Thor: The Dark World' was awful?  What would you like to see happen in 'X-Men: Days of Future Past'?  What would you have done differently regarding 'Captain America: Winter Solider'?  If these are questions you think about- then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes- DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       
 speakernosp,ProfessorX
 starttime,18:00
@@ -9269,7 +9227,7 @@ Location,Windover
 duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,220
-speakers,"Matt Hargraves, Nuri Gocay, Joe Bender"
+speakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 Track,Tech
 startday,5/3/2014
 Title,Building a Career in IT
@@ -9278,14 +9236,14 @@ event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,Tech
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Tech', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Tech', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,"Matt Hargraves, Nuri Gocay, Joe Bender"
+calspeakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 avneeds,none
-speakerlist,"['Matt Hargraves', 'Nuri Gocay', 'Joe Bender']"
+speakerlist,"['Matt Hargraves', 'Nuri Gocay', 'Joe Bender', 'Dawn Kuczwara']"
 hours,0
 totalminutes,50
-speakernosplist,['JoeBender']
+speakernosplist,['DawnKuczwara']
 caldescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 endtime,18:50
 AV Needs,
@@ -9293,9 +9251,9 @@ name,Building a Career in IT
 Private,PUBLIC
 venue,Windover
 Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-Presenters,"Matt Hargraves, Nuri Gocay, Joe Bender"
+Presenters,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 csvsafedescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,JoeBender
+speakernosp,DawnKuczwara
 starttime,18:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -12861,7 +12819,7 @@ Location,Con Suite
 duration,1 hour and 50 minutes
 description,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
 index,305
-speakers,"Sarah Elkins, Paul Salkie"
+speakers,"Sarah Elkins, Phil Salkie"
 Track,Food
 startday,5/4/2014
 Title,LN2 Sunday Morning Brunch
@@ -12870,14 +12828,14 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,12:50
 tracknosp,Food
-input,"['5/4/2014', '11:00', '5/4/2014', '12:50', 'Con Suite', 'Food', 'LN2 Sunday Morning Brunch', 'Sarah Elkins, Paul Salkie', 'Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request.', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '11:00', '5/4/2014', '12:50', 'Con Suite', 'Food', 'LN2 Sunday Morning Brunch', 'Sarah Elkins, Phil Salkie', 'Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request.', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,"Sarah Elkins, Paul Salkie"
+calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,none
-speakerlist,"['Sarah Elkins', 'Paul Salkie']"
+speakerlist,"['Sarah Elkins', 'Phil Salkie']"
 hours,1
 totalminutes,110
-speakernosplist,['PaulSalkie']
+speakernosplist,['PhilSalkie']
 caldescrip,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
 endtime,12:50
 AV Needs,
@@ -12885,9 +12843,9 @@ name,LN2 Sunday Morning Brunch
 Private,PUBLIC
 venue,Con Suite
 Book Description,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch! All LN2 sessions will offer dairy-free and sugar-free options upon request."
-Presenters,"Sarah Elkins, Paul Salkie"
+Presenters,"Sarah Elkins, Phil Salkie"
 csvsafedescrip,Come enjoy (and help us make) breakfast ice creams- from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request.
-speakernosp,PaulSalkie
+speakernosp,PhilSalkie
 starttime,11:00
 roomnosp,ConSuite
 Start Date,5/4/2014
@@ -13187,6 +13145,48 @@ roomnosp,Montcalm
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
+event_type,Gaming
+All Day Event,FALSE
+event_end,13:50
+endday,5/4/2014
+private,PUBLIC
+endtimeampm,1 PM
+Location,Gaming (Restaurant)
+duration,1 hour and 50 minutes
+description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
+index,313
+speakers,Richard Houser
+Track,Gaming
+startday,5/4/2014
+Title,Rick's Big Box of Games
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,13:50
+tracknosp,Gaming
+input,"['5/4/2014', '12:00', '5/4/2014', '13:50', 'Gaming (Restaurant)', 'Gaming', ""Rick's Big Box of Games"", 'Richard Houser', 'Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins.', 'FALSE', 'PUBLIC', '']"
+End Date,5/4/2014
+calspeakers,Richard Houser
+avneeds,none
+speakerlist,['Richard Houser']
+hours,1
+totalminutes,110
+speakernosplist,['RichardHouser']
+caldescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
+endtime,13:50
+AV Needs,
+name,Rick's Big Box of Games
+Private,PUBLIC
+venue,Gaming (Restaurant)
+Book Description,"Pick from a variety of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play. Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles. New players are welcome, as are walk-ins."
+Presenters,Richard Houser
+csvsafedescrip,Pick from a variety of games and play for a while!  Options include: Munchkin- Back to the Future- Dominion- Star Trek DBG- Smallworld- Ticket to Ride- Settlers of Catan- Castle Panic- Zombies!!!- Chess- and more. Participants will select which specific games to play.  Some games have limited space- so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome- as are walk-ins.
+speakernosp,RichardHouser
+starttime,12:00
+roomnosp,GamingRestaurant
+Start Date,5/4/2014
+minutes,50
+allday,FALSE
 event_type,Life
 All Day Event,FALSE
 event_end,12:50
@@ -13196,7 +13196,7 @@ endtimeampm,12 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness & limitations -- there will be opportunities for more advanced practice for those who want it.  "
-index,313
+index,314
 speakers,Marie Staver
 Track,Life
 startday,5/4/2014
@@ -13238,7 +13238,7 @@ endtimeampm,12 PM
 Location,Windover
 duration,50 minutes
 description,"Increasingly, we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
-index,314
+index,315
 speakers,"Taylor Watkins, Douglas Scholl, Heather Gutterman"
 Track,Action Adventure
 startday,5/4/2014
@@ -13280,7 +13280,7 @@ endtimeampm,12 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Come learn how to create a costume out of thin air. You can take everyday clothes and items and make them into something cool!  Get tips on dyeing fabrics and taking care of wigs, and lots of ideas for ways to finish your costume. Bring your costume for help with last minute adjustments."
-index,315
+index,316
 speakers,Cyndee Richardson
 Track,Costuming
 startday,5/4/2014
@@ -13322,7 +13322,7 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in, however, might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works."
-index,316
+index,317
 speakers,"Alex Drummer, Kevin McLeod, Justin Coluzzi"
 Track,Costuming
 startday,5/4/2014
@@ -13364,7 +13364,7 @@ endtimeampm,12 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Do you own a local business?  Do you like to shop Locally?  Come and talk about your favorite local business, your own business, and why it's important to shop the local economy. "
-index,317
+index,318
 speakers,
 Track,Eco
 startday,5/4/2014
@@ -13407,7 +13407,7 @@ Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"In Titans of Industry, you must invest in building factories and businesses (in the 1920's) in order to produce goods to gain victory points (VPs). Game play involves a delicate balance of money, production, and goals. The person who can best manage his buildings and meet his goals in seven years will win.
 "
-index,318
+index,319
 speakers,Matthew Duhan
 Track,Gaming
 startday,5/4/2014
@@ -13450,7 +13450,7 @@ endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Munchkin is the mega-hit card game about dungeon adventure . . . with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm . . . or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon . . ."
-index,319
+index,320
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -13493,7 +13493,7 @@ Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
 "
-index,320
+index,321
 speakers,Richard Houser
 Track,Gaming
 startday,5/4/2014
@@ -13536,7 +13536,7 @@ endtimeampm,12 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
-index,321
+index,322
 speakers,"CJ Tremlett, Alex Page"
 Track,Life
 startday,5/4/2014
@@ -13578,7 +13578,7 @@ endtimeampm,12 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
-index,322
+index,323
 speakers,"Derek Newland, Nathan Balyeat"
 Track,Life
 startday,5/4/2014
@@ -13620,7 +13620,7 @@ endtimeampm,12 PM
 Location,Montcalm
 duration,50 minutes
 description,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
-index,323
+index,324
 speakers,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 Track,Life
 startday,5/4/2014
@@ -13662,7 +13662,7 @@ endtimeampm,12 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
-index,324
+index,325
 speakers,"King Pheenix, 2 Mello, Starf"
 Track,Music
 startday,5/4/2014
@@ -13704,7 +13704,7 @@ endtimeampm,12 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"So, you were interested in talking about something at Penguicon, but decided it was too much work.  Why did you feel that way?  Would it have helped if someone gave you some support?  Would a group project have been of interest?  If you are presenting, what helped you decide to make the presentation?  Let's discuss what we can do to encourage each other to contribute to Penguicon.  We will ask attendees to brainstorm ideas that will encourage more participation. Any thoughts you can bring in will be helpful! The Head of Programming will join in the discussion. "
-index,325
+index,326
 speakers,
 Track,Penguicon Events
 startday,5/4/2014
@@ -13746,7 +13746,7 @@ endtimeampm,12 PM
 Location,Algonquin D
 duration,50 minutes
 description,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
-index,326
+index,327
 speakers,"Amara Sugalski, Catherine Shaffer, Jessica Roland"
 Track,Science
 startday,5/4/2014
@@ -13788,7 +13788,7 @@ endtimeampm,1 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
-index,327
+index,328
 speakers,"Bob Trembley, Marie-therese Enga"
 Track,Science
 startday,5/4/2014
@@ -13830,7 +13830,7 @@ endtimeampm,12 PM
 Location,Nicolet
 duration,50 minutes
 description,"Together we will a look at some of the classic edutainment games from the good old days of DOS and the classic NES.  We will examine the games that worked at entertaining and educating audiences, and those that failed to do either.  Finally, we will consider how current technology could make this unique genre better."
-index,328
+index,329
 speakers,William Bowen
 Track,Videogaming
 startday,5/4/2014
@@ -13872,7 +13872,7 @@ endtimeampm,2 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
 description,"Come learn about fencing done through the Society for Creative Anachronism (SCA)!  The SCA is a practical historical group that strives to learn about and recreate the arts and sciences of pre-17th century life.  We have a ton of fun doing all things from blacksmithing to weaving to archery to armored combat.  Here we will demonstrate our fencing!  Learn how to fence with one sword, two swords, bucklers, cloaks, and more - we teach for free and have loaner equipment at our practices at many locations around Michigan and surrounding states."
-index,329
+index,330
 speakers,Kelly Carnahan
 Track,Action Adventure
 startday,5/4/2014
@@ -13914,7 +13914,7 @@ endtimeampm,4 PM
 Location,Lobby
 duration,3 hours
 description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
-index,330
+index,331
 speakers,"Dean Martelle, Linda Martelle"
 Track,DIY
 startday,5/4/2014
@@ -13956,7 +13956,7 @@ endtimeampm,1 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
-index,331
+index,332
 speakers,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
 Track,Film
 startday,5/4/2014
@@ -13998,7 +13998,7 @@ endtimeampm,1 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.
-index,332
+index,333
 speakers,Kevin Siembieda
 Track,Gaming
 startday,5/4/2014
@@ -14040,7 +14040,7 @@ endtimeampm,1 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts.  "
-index,333
+index,334
 speakers,"Marie Staver, Neil Funk"
 Track,Life
 startday,5/4/2014
@@ -14082,7 +14082,7 @@ endtimeampm,1 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Raising children can be quite a challenge at any age.  There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
-index,334
+index,335
 speakers,"Julie Hargraves, DeWain Molter"
 Track,Life
 startday,5/4/2014
@@ -14124,7 +14124,7 @@ endtimeampm,1 PM
 Location,Montcalm
 duration,50 minutes
 description,"It's finally time: You need to visit Germany and Japan! Whatever your interest is, odds are you'll find a unique spin on it overseas that will change your life and how you view humanity. With nearly half a million transcontinental miles flown east and west, Nick Farr will regale you with tales of the geekiest highlights in both countries and tips on how to have an authentic, safe, geeky and budget-conscious international trip to Germany and Japan."
-index,335
+index,336
 speakers,Nick Farr
 Track,Life
 startday,5/4/2014
@@ -14166,7 +14166,7 @@ endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
 description,"Sit down with our Literature Guest of Honor, Ernie Cline, and discuss writing, his works including Ready Player One, and whatever else comes up."
-index,336
+index,337
 speakers,Ernie Cline
 Track,Lit
 startday,5/4/2014
@@ -14208,7 +14208,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
-index,337
+index,338
 speakers,"Ohhinaifu, The One Electronic, snesei, boaconstructor, barbeque"
 Track,Music
 startday,5/4/2014
@@ -14250,7 +14250,7 @@ endtimeampm,1 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
-index,338
+index,339
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender"
 Track,Penguicon Events
 startday,5/4/2014
@@ -14292,7 +14292,7 @@ endtimeampm,1 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come learn all about programing in Python from Mike, a member of the Python Users Group in Ann Arbor."
-index,339
+index,340
 speakers,Mike Bernson
 Track,Tech
 startday,5/4/2014
@@ -14334,7 +14334,7 @@ endtimeampm,1 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  "
-index,340
+index,341
 speakers,Chad Crabtree
 Track,Tech
 startday,5/4/2014
@@ -14376,7 +14376,7 @@ endtimeampm,2 PM
 Location,Nicolet
 duration,1 hour and 50 minutes
 description,Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. 
-index,341
+index,342
 speakers,Greg Allard
 Track,Tech
 startday,5/4/2014
@@ -14418,7 +14418,7 @@ endtimeampm,2 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.
-index,342
+index,343
 speakers,Kat McConnell
 Track,Costuming
 startday,5/4/2014
@@ -14460,7 +14460,7 @@ endtimeampm,2 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"There's a lot of interest in LED-based grow lights for people starting plants indoors, over-wintering tropical plants, and growing medicinal herbs. Where do you start? This panel will cover basic photosynthesis and light, spectral requirements, some of the options for rolling your own grow lights using high-power LEDs.  We'll also talk about some of the issues with using LEDs."
-index,343
+index,344
 speakers,Roger Slykhouse
 Track,DIY
 startday,5/4/2014
@@ -14502,7 +14502,7 @@ endtimeampm,2 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"""The status is not quo."" 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog."" Costumes welcome!"
-index,344
+index,345
 speakers,"Shannon Marshall, Maggie Maiville, Caitlynn Poirier"
 Track,Film
 startday,5/4/2014
@@ -14544,7 +14544,7 @@ endtimeampm,2 PM
 Location,Con Suite
 duration,50 minutes
 description,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
-index,345
+index,346
 speakers,"Bill Putt, Anthony Distel"
 Track,Food
 startday,5/4/2014
@@ -14586,7 +14586,7 @@ endtimeampm,2 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
-index,346
+index,347
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
 Track,Food
 startday,5/4/2014
@@ -14628,7 +14628,7 @@ endtimeampm,2 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Bringing it back due to the overwhelming request - Come join in Who's Line Is It Anyway style sketches, with a twist!  Ever wonder what would happen if you got Superman and Lex Luthor on Jerry Springer?  What if Spock had to hold a press conference apologizing for all Kirk's indiscretions?  Expect some wild and off the wall topics and skits, and laughs for all!"
-index,347
+index,348
 speakers,Derek Newland
 Track,Gaming
 startday,5/4/2014
@@ -14670,7 +14670,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Be the boss in this fast-paced card game of survival on the mean streets. ""Family Business"" pits mobsters against each other - all working to make sure theirs is the last family standing!"
-index,348
+index,349
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -14712,7 +14712,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can. "
-index,349
+index,350
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -14755,7 +14755,7 @@ Location,Board of Regents
 duration,50 minutes
 description,"Meet other Christians in fandom for discussion and fellowship.
 "
-index,350
+index,351
 speakers,
 Track,Life
 startday,5/4/2014
@@ -14798,7 +14798,7 @@ endtimeampm,2 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Artists, at least since the surrealists, have employed various techniques to introduce a bit of 'chance' into the production of art pieces. One such technique is tarot cards. Aside from any possible use as a divination process, tarot cards are narratively-primed, image-rich, easily-shuffled tidbits ready to add creativity to processes such as writing. Presenter James Frederick Leach has played with ""The Cards"" as a tool for plotting, character development and whittling away at writer's block. This presentation will feature workshop components so bring your portable composition tool of choice."
-index,351
+index,352
 speakers,Jim Leach
 Track,Lit
 startday,5/4/2014
@@ -14840,7 +14840,7 @@ endtimeampm,3 PM
 Location,Windover
 duration,1 hour and 50 minutes
 description,Readings by Literature Track Guests and Panelists
-index,352
+index,353
 speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi"
 Track,Lit
 startday,5/4/2014
@@ -14882,7 +14882,7 @@ endtimeampm,2 PM
 Location,Algonquin D
 duration,50 minutes
 description,"A history of Martian surface changes as documented by Viking, Mariner 9, Mars Global Surveyor and the Mars Reconnaissance Orbiter. Global dust storms, dust devils and persistent winds have lend to brightness variations on more then 30% of the Martian surface."
-index,353
+index,354
 speakers,Marie-therese Enga
 Track,Science
 startday,5/4/2014
@@ -14924,7 +14924,7 @@ endtimeampm,2 PM
 Location,Montcalm
 duration,50 minutes
 description,"An exploration of the fine line between the field of neuroscience and science fiction. Cutting edge neuroscientific research tends to sound more like science fiction year by year. Can you tell the difference between science fiction and cutting edge neuroscience? Topics include both molecular/cellular/developmental neuroscience, and behavioral neuroscience. See if you're up to date on the latest developments in the understanding of man's most complex machine, the human brain!"
-index,354
+index,355
 speakers,Heather Aman
 Track,Science
 startday,5/4/2014
@@ -14966,7 +14966,7 @@ endtimeampm,2 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Why are tech positions mostly filled by men? What can we do to change this? Join our GoH, Erika Carlson, for this important discussion. "
-index,355
+index,356
 speakers,Erika Carlson
 Track,Tech
 startday,5/4/2014
@@ -15008,7 +15008,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"The Domain Name System (DNS) is the backbone of the Internet and the most successful distributed database in history. It's also thirty years old, and perhaps the most insecure protocol in use today. DNS Security Extensions (DNSSEC) guarantees the integrity of DNS data. Deploying DNSSEC isn't that hard -- once you have a basic understanding of how it works. This talk takes you through the basics of DNSSEC and the deployment considerations. By the author of ""DNSSEC Mastery."""
-index,356
+index,357
 speakers,Michael W. Lucas
 Track,Tech
 startday,5/4/2014
@@ -15050,7 +15050,7 @@ endtimeampm,2 PM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,357
+index,358
 speakers,Ed Mason
 Track,Tech
 startday,5/4/2014
@@ -15092,7 +15092,7 @@ endtimeampm,3 PM
 Location,Algonquin A
 duration,50 minutes
 description,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
-index,358
+index,359
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 Track,Action Adventure
 startday,5/4/2014
@@ -15134,7 +15134,7 @@ endtimeampm,3 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like?
-index,359
+index,360
 speakers,
 Track,Film
 startday,5/4/2014
@@ -15176,7 +15176,7 @@ endtimeampm,3 PM
 Location,Board of Governors
 duration,50 minutes
 description,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast & crew of Midnight Monster Movies with Dr. Bob with Q&A.
-index,360
+index,361
 speakers,"Robert Gilbert, Melanie Gilbert"
 Track,Film
 startday,5/4/2014
@@ -15218,7 +15218,7 @@ endtimeampm,3 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Check out Game Bangers: The Webseries. A D&D Parody where table top gaming has been illegalized. Gamers must resort to underground gaming dens to play, while hiding from the police trying to bust them."
-index,361
+index,362
 speakers,
 Track,Film
 startday,5/4/2014
@@ -15260,7 +15260,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,50 minutes
 description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
-index,362
+index,363
 speakers,"William Meyer, Kim Horger"
 Track,Gaming
 startday,5/4/2014
@@ -15302,7 +15302,7 @@ endtimeampm,3 PM
 Location,Board of Regents
 duration,50 minutes
 description,An open discussion for folks who knows ASL (American Sign Language) or have an interest in it. Come chat with us and learn some ASL or just work on your ASL skills! 
-index,363
+index,364
 speakers,Paul Berens
 Track,Life
 startday,5/4/2014
@@ -15344,7 +15344,7 @@ endtimeampm,3 PM
 Location,Montcalm
 duration,50 minutes
 description,What are your core strengths? How can you integrate your unique combination of talents and innate abilities into your personal and professional life? Focusing on what we do well provides greater opportunities for success and helps establish the foundation for some of our more dormant talents to develop and flourish. Come learn how to enjoy a better quality of life by focusing on your strengths.
-index,364
+index,365
 speakers,Melissa Wren
 Track,Life
 startday,5/4/2014
@@ -15386,7 +15386,7 @@ endtimeampm,3 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come talk about guns with a firearms instructor and writer. The panel will briefly discuss the history of firearms with a focus on modern and near future tech. Learn more about how guns work, how to write convincing scenes with firearms, and how knowing more about guns can help both your world building and character development. NOTE: This is NOT the ""Geeks with Guns' event. "
-index,365
+index,366
 speakers,Rob Reed
 Track,Lit
 startday,5/4/2014
@@ -15428,7 +15428,7 @@ endtimeampm,3 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Join filker and synthesizer geek Jim Poltrone on a brief tour of some open-source music composition tools available to the Linux user. Items covered include (but not limited to) music composing/sequencing software Rosegarden, the audio redirection program JACK, to music publishing program Lilypond."
-index,366
+index,367
 speakers,Jim Poltrone
 Track,Music
 startday,5/4/2014
@@ -15470,7 +15470,7 @@ endtimeampm,3 PM
 Location,Board of Trustees
 duration,50 minutes
 description,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
-index,367
+index,368
 speakers,"Janet Gocay, Nuri Gocay, Scott Kennedy, Steve Gutterman"
 Track,Penguicon Events
 startday,5/4/2014
@@ -15512,7 +15512,7 @@ endtimeampm,3 PM
 Location,Nicolet
 duration,50 minutes
 description,"We will discuss and show off several kit examples of Arduino watches and clocks, and go over libraries for timekeeping and reading battery-backed clock chips."
-index,368
+index,369
 speakers,Ethan Dicks
 Track,Tech
 startday,5/4/2014
@@ -15554,7 +15554,7 @@ endtimeampm,4 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
-index,369
+index,370
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Ed Mason, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 Track,Penguicon Events
 startday,5/4/2014
