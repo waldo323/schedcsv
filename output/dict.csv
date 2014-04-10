@@ -8499,7 +8499,7 @@ roomnosp,CharlevoixB
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,LIt
+event_type,Lit
 All Day Event,FALSE
 event_end,17:50
 endday,5/3/2014
@@ -8510,15 +8510,15 @@ duration,50 minutes
 description,"Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?"
 index,203
 speakers,"Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle"
-Track,LIt
+Track,Lit
 startday,5/3/2014
 Title,Line? What Line? Taboos and Speculative Fiction
 Start Time,17:00
 event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
-tracknosp,LIt
-input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Baldwin Board Room', 'LIt', 'Line?  What Line?  Taboos and Speculative Fiction', 'Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle', 'Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?', 'FALSE', 'PUBLIC', '']"
+tracknosp,Lit
+input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Baldwin Board Room', 'Lit', 'Line?  What Line?  Taboos and Speculative Fiction', 'Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle', 'Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle"
 avneeds,none
@@ -8885,9 +8885,7 @@ private,PUBLIC
 endtimeampm,7 PM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
-description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh.   
-
-WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
+description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
 index,212
 speakers,"Greg Williams, Dawn Kuczwara"
 Track,Film
@@ -8898,7 +8896,7 @@ event_start,18:00
 starttimeampm,6 PM
 End Time,19:50
 tracknosp,Film
-input,"['5/3/2014', '18:00', '5/3/2014', '19:50', 'Portage Auditorium', 'Film', 'Film Roast', 'Greg Williams, Dawn Kuczwara', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh.   \n\nWARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."", 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+input,"['5/3/2014', '18:00', '5/3/2014', '19:50', 'Portage Auditorium', 'Film', 'Film Roast', 'Greg Williams, Dawn Kuczwara', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."", 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/3/2014
 calspeakers,"Greg Williams, Dawn Kuczwara"
 avneeds,"Projector, Sound System"
@@ -8906,9 +8904,7 @@ speakerlist,"['Greg Williams', 'Dawn Kuczwara']"
 hours,1
 totalminutes,110
 speakernosplist,['DawnKuczwara']
-caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh.   
-
-WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
+caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
 endtime,19:50
 AV Needs,"Projector, Sound System"
 name,Film Roast
@@ -8916,7 +8912,7 @@ Private,PUBLIC
 venue,Portage Auditorium
 Book Description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes. Not appropriate for young children or those who are easily offended, Ask your doctor if your heart is healthy enough for sex- if it's not, it probably won't get you through one of our shows, either."
 Presenters,"Greg Williams, Dawn Kuczwara"
-csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh.     WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex-  if it's not- it probably won't get you through one of our shows- either.
+csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex-  if it's not- it probably won't get you through one of our shows- either.
 speakernosp,DawnKuczwara
 starttime,18:00
 roomnosp,PortageAuditorium
@@ -9007,7 +9003,7 @@ roomnosp,GamingRestaurant
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,LIt
+event_type,Lit
 All Day Event,FALSE
 event_end,18:50
 endday,5/3/2014
@@ -9018,15 +9014,15 @@ duration,50 minutes
 description,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
 index,215
 speakers,"Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor"
-Track,LIt
+Track,Lit
 startday,5/3/2014
 Title,Obligatory Undead Panel: Is Undead Dead
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
-tracknosp,LIt
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Board of Governors', 'LIt', 'Obligatory Undead Panel: Is Undead Dead', 'Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor', 'Shoot \xe2\x80\x98em in the head, stake \xe2\x80\x98em through the heart, the good old silver bullet...it doesn\xe2\x80\x99t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they\xe2\x80\x99re taking off in the general public?', 'FALSE', 'PUBLIC', '']"
+tracknosp,Lit
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Board of Governors', 'Lit', 'Obligatory Undead Panel: Is Undead Dead', 'Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor', 'Shoot \xe2\x80\x98em in the head, stake \xe2\x80\x98em through the heart, the good old silver bullet...it doesn\xe2\x80\x99t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they\xe2\x80\x99re taking off in the general public?', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor"
 avneeds,none
@@ -9607,7 +9603,7 @@ Location,Board of Governors
 duration,50 minutes
 description,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs."
 index,229
-speakers,"Ferrett Steinmetz, NIcole Castle"
+speakers,"Ferrett Steinmetz, Nicole Castle"
 Track,Lit
 startday,5/3/2014
 Title,Apocalypse When?
@@ -9616,14 +9612,14 @@ event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
 tracknosp,Lit
-input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Board of Governors', 'Lit', 'Apocalypse When?', 'Ferrett Steinmetz, NIcole Castle', 'Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Board of Governors', 'Lit', 'Apocalypse When?', 'Ferrett Steinmetz, Nicole Castle', 'Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,"Ferrett Steinmetz, NIcole Castle"
+calspeakers,"Ferrett Steinmetz, Nicole Castle"
 avneeds,none
-speakerlist,"['Ferrett Steinmetz', 'NIcole Castle']"
+speakerlist,"['Ferrett Steinmetz', 'Nicole Castle']"
 hours,0
 totalminutes,50
-speakernosplist,['NIcoleCastle']
+speakernosplist,['NicoleCastle']
 caldescrip,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs."
 endtime,19:50
 AV Needs,
@@ -9631,9 +9627,9 @@ name,Apocalypse When?
 Private,PUBLIC
 venue,Board of Governors
 Book Description,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction. What type of apocalypse do we enjoy exploring? Come here for all of your dystopian needs."
-Presenters,"Ferrett Steinmetz, NIcole Castle"
+Presenters,"Ferrett Steinmetz, Nicole Castle"
 csvsafedescrip,Zombies- mutant viruses- alien invaders- kaiju- or the environment- the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs.
-speakernosp,NIcoleCastle
+speakernosp,NicoleCastle
 starttime,19:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -11035,9 +11031,7 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Nicolet
 duration,50 minutes
-description,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?)
-
-This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
+description,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 index,263
 speakers,"Phil Chase, Dana Chase, Amy Joynt"
 Track,After Dark
@@ -11048,7 +11042,7 @@ event_start,22:00
 starttimeampm,10 PM
 End Time,22:50
 tracknosp,AfterDark
-input,"['5/3/2014', '22:00', '5/3/2014', '22:50', 'Nicolet', 'After Dark', 'Swinger *or* Poly?  Swinger *and* Poly?', 'Phil Chase, Dana Chase, Amy Joynt', 'Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can\'t we all just get it on? (I mean, get along?)\n\nThis session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It\'ll be run by folks who have their feet in both worlds, and it\'ll include an ask-us-anything time.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '22:00', '5/3/2014', '22:50', 'Nicolet', 'After Dark', 'Swinger *or* Poly?  Swinger *and* Poly?', 'Phil Chase, Dana Chase, Amy Joynt', 'Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can\'t we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It\'ll be run by folks who have their feet in both worlds, and it\'ll include an ask-us-anything time.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Phil Chase, Dana Chase, Amy Joynt"
 avneeds,none
@@ -11056,9 +11050,7 @@ speakerlist,"['Phil Chase', 'Dana Chase', 'Amy Joynt']"
 hours,0
 totalminutes,50
 speakernosplist,['AmyJoynt']
-caldescrip,"Many times, the terms 'swinger' and 'polyamorous' get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?)
-
-This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
+caldescrip,"Many times, the terms 'swinger' and 'polyamorous' get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 endtime,22:50
 AV Needs,
 name,Swinger *or* Poly?  Swinger *and* Poly?
@@ -11066,7 +11058,7 @@ Private,PUBLIC
 venue,Nicolet
 Book Description,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated. Many times, they overlap. In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk. Similarly, one can also meet polyfolk who sneer a bit at swingers. But why? Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle."" The Venn Diagram might well inspire you. It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 Presenters,"Phil Chase, Dana Chase, Amy Joynt"
-csvsafedescrip,Many times- the terms 'swinger' and 'polyamorous' get conflated.  Many times- they overlap.  In the world of alternate relationship styles- one can meet swingers who look suspiciously upon polyfolk.  Similarly- one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean- get along?)  This session is in audience-participation format (not like that- keep your kilts ON!) and seeks to get some of the common stereotypes out in the open- toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds- and it'll include an ask-us-anything time.
+csvsafedescrip,Many times- the terms 'swinger' and 'polyamorous' get conflated.  Many times- they overlap.  In the world of alternate relationship styles- one can meet swingers who look suspiciously upon polyfolk.  Similarly- one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean- get along?) This session is in audience-participation format (not like that- keep your kilts ON!) and seeks to get some of the common stereotypes out in the open- toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds- and it'll include an ask-us-anything time.
 speakernosp,AmyJoynt
 starttime,22:00
 roomnosp,Nicolet

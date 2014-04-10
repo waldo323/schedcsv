@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 ## git add . for adding all changes
+SCHEDDATE = `date`
 echo staging to local repo
 git add .
 ## git commit for committing those changes to the local repo
