@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-import csv, sys, re, os
+import csv, json, sys, re, os
 from operator import itemgetter, attrgetter
 from git import *
 #from bs4 import BeautifulSoup  ## I had hoped to use BeautifulSoup to help clean up the output
@@ -346,6 +346,21 @@ if not os.path.exists(schedulebyroomdir):
     os.makedirs(schedulebyroomdir)
 if not os.path.exists(speakerdir):
     os.makedirs(speakerdir)  
+## dump to a json file
+with open(rp + "2014.penguicon.schedule.alldata.json",'w') as myoutput:
+    json.dump(sessions, myoutput, indent=4, separators=(',', ': '))
+with open(rp + "2014.penguicon.schedule.json",'w') as myoutput:
+    fields = {"location":"Location", "book_description":"Book Description", \
+              "title":"Title", "track":"Track", "minutes":"totalminutes", \
+              "start_date":"Start Date", "end_date":"End Date", \
+              "start_time":"starttime", "end_time":"endtime",
+              "presenters":"speakerlist"
+    }
+    json_output = [
+        {k: y.get(ok,'') for k,ok in fields.items()}
+        for y in sessions
+    ]
+    json.dump(json_output, myoutput, indent=4, separators=(',', ': '))
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
