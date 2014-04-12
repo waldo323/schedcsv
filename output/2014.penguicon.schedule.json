@@ -5493,19 +5493,5 @@
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Book Description",
-        "end_date": "End Date",
-        "title": "Title",
-        "track": "Track",
-        "start_time": "event_start",
-        "presenters": [
-            "Presenters"
-        ],
-        "location": "Location",
-        "minutes": 0,
-        "start_date": "Start Date",
-        "end_time": "event_end"
     }
 ]

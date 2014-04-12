@@ -60,6 +60,7 @@ class readInCSV:
          self.headerdict = {}
          for index, header in enumerate(self.headers):
               self.headerdict[header] = index
+         self.schedule.pop(0)   # remove header line from data
 
 def calcduration(startday, starttime, endday, endtime, minutes):
     print "in calc duration start day ", startday
