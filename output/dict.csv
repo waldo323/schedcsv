@@ -403,7 +403,7 @@ avneeds,Projector
 speakerlist,"['Britain Woodman', 'David Carter']"
 hours,0
 totalminutes,50
-speakernosplist,['DavidCarter']
+speakernosplist,"['BritainWoodman', 'DavidCarter']"
 caldescrip,"The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary.  Learn who uses the Archive, what uses are most common, and what game is heavily restricted."
 endtime,16:50
 AV Needs,Projector
@@ -413,7 +413,7 @@ venue,Algonquin D
 Book Description,"The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary. Learn who uses the Archive, what uses are most common, and what game is heavily restricted."
 Presenters,"Britain Woodman, David Carter"
 csvsafedescrip,The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary.  Learn who uses the Archive- what uses are most common- and what game is heavily restricted.
-speakernosp,DavidCarter
+speakernosp,"BritainWoodman,DavidCarter"
 starttime,16:00
 roomnosp,AlgonquinD
 Start Date,5/2/2014
@@ -613,7 +613,7 @@ avneeds,none
 speakerlist,"['Dean Martelle', 'Linda Martelle']"
 hours,6
 totalminutes,360
-speakernosplist,['LindaMartelle']
+speakernosplist,"['DeanMartelle', 'LindaMartelle']"
 caldescrip,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 endtime,22:00
 AV Needs,
@@ -623,7 +623,7 @@ venue,Lobby
 Book Description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 Presenters,"Dean Martelle, Linda Martelle"
 csvsafedescrip,Enjoy a fun and relaxing session of painting miniature figures- even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques- including drybrushing- washes- and face elements- including the always tricky eyes. Some free figures available (one per person per day).
-speakernosp,LindaMartelle
+speakernosp,"DeanMartelle,LindaMartelle"
 starttime,16:00
 roomnosp,Lobby
 Start Date,5/2/2014
@@ -655,7 +655,7 @@ avneeds,none
 speakerlist,"['Mary Lynne Gibbs', 'Michael Cieslak']"
 hours,0
 totalminutes,50
-speakernosplist,['MichaelCieslak']
+speakernosplist,"['MaryLynneGibbs', 'MichaelCieslak']"
 caldescrip,"We all love that feeling we get when we can fully immerse ourselves in a fictional world.  Conversely, the return to the real world can be quite shocking.  Is this part of the reason for the prevalence of series work in genre fiction?  Is it something from the publishing side?  Is there a place for the stand alone work in SFF?"
 endtime,16:50
 AV Needs,
@@ -665,7 +665,7 @@ venue,Montcalm
 Book Description,"We all love that feeling we get when we can fully immerse ourselves in a fictional world. Conversely, the return to the real world can be quite shocking. Is this part of the reason for the prevalence of series work in genre fiction? Is it something from the publishing side? Is there a place for the stand alone work in SFF?"
 Presenters,"Mary Lynne Gibbs, Michael Cieslak"
 csvsafedescrip,We all love that feeling we get when we can fully immerse ourselves in a fictional world.  Conversely- the return to the real world can be quite shocking.  Is this part of the reason for the prevalence of series work in genre fiction?  Is it something from the publishing side?  Is there a place for the stand alone work in SFF?
-speakernosp,MichaelCieslak
+speakernosp,"MaryLynneGibbs,MichaelCieslak"
 starttime,16:00
 roomnosp,Montcalm
 Start Date,5/2/2014
@@ -991,7 +991,7 @@ avneeds,none
 speakerlist,"['Keith Martens', 'Mary Lynne Gibbs', 'James Fernandez']"
 hours,0
 totalminutes,50
-speakernosplist,['JamesFernandez']
+speakernosplist,"['KeithMartens', 'MaryLynneGibbs', 'JamesFernandez']"
 caldescrip,Come join us for a discussion on making webseries and fan films.
 endtime,17:50
 AV Needs,
@@ -1001,7 +1001,7 @@ venue,Charlevoix C
 Book Description,Come join us for a discussion on making webseries and fan films.
 Presenters,"Keith Martens, Mary Lynne Gibbs, James Fernandez"
 csvsafedescrip,Come join us for a discussion on making webseries and fan films.
-speakernosp,JamesFernandez
+speakernosp,"KeithMartens,MaryLynneGibbs,JamesFernandez"
 starttime,17:00
 roomnosp,CharlevoixC
 Start Date,5/2/2014
@@ -1159,7 +1159,7 @@ avneeds,Projector
 speakerlist,"['Jeffrey Quesnelle', 'Zach Blagg']"
 hours,0
 totalminutes,50
-speakernosplist,['ZachBlagg']
+speakernosplist,"['JeffreyQuesnelle', 'ZachBlagg']"
 caldescrip,"Infinity -- all of mathematics relies on it but its existence is a matter of faith. Come learn about how this pervasive mystery underpins everything we know about numbers. The foundations of math itself will be discussed, and you may leave wondering: are the real numbers really real? "
 endtime,17:50
 AV Needs,Projector
@@ -1169,7 +1169,7 @@ venue,Nicolet
 Book Description,"Infinity -- all of mathematics relies on it but its existence is a matter of faith. Come learn about how this pervasive mystery underpins everything we know about numbers. The foundations of math itself will be discussed, and you may leave wondering: are the real numbers really real? "
 Presenters,"Jeffrey Quesnelle, Zach Blagg"
 csvsafedescrip,Infinity -- all of mathematics relies on it but its existence is a matter of faith. Come learn about how this pervasive mystery underpins everything we know about numbers. The foundations of math itself will be discussed- and you may leave wondering: are the real numbers really real? 
-speakernosp,ZachBlagg
+speakernosp,"JeffreyQuesnelle,ZachBlagg"
 starttime,17:00
 roomnosp,Nicolet
 Start Date,5/2/2014
@@ -1243,7 +1243,7 @@ avneeds,"Microphone, Sound System"
 speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Ed Mason', 'Erika Carlson', 'Eva Galperin', 'Ernie Cline', 'YTCracker']"
 hours,0
 totalminutes,50
-speakernosplist,['YTCracker']
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'EdMason', 'ErikaCarlson', 'EvaGalperin', 'ErnieCline', 'YTCracker']"
 caldescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 endtime,18:50
 AV Needs,"Microphone, Sound System"
@@ -1253,7 +1253,7 @@ venue,Algonquin B/C
 Book Description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Ed Mason, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 csvsafedescrip,Join our con chair- Nuri Gocay- the Con Committee- and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!
-speakernosp,YTCracker
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,EdMason,ErikaCarlson,EvaGalperin,ErnieCline,YTCracker"
 starttime,18:00
 roomnosp,AlgonquinBC
 Start Date,5/2/2014
@@ -1327,7 +1327,7 @@ avneeds,none
 speakerlist,"['Tracy Herrell', 'Rob Reed']"
 hours,0
 totalminutes,50
-speakernosplist,['RobReed']
+speakernosplist,"['TracyHerrell', 'RobReed']"
 caldescrip,Explore the pros and cons of writing for examiner.com and Yahoo’s associated content.  The discussion will compare writing content for the web versus print magazines.  Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself.
 endtime,18:50
 AV Needs,
@@ -1337,7 +1337,7 @@ venue,Baldwin Board Room
 Book Description,Explore the pros and cons of writing for examiner.com and Yahoo’s associated content. The discussion will compare writing content for the web versus print magazines. Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself.
 Presenters,"Tracy Herrell, Rob Reed"
 csvsafedescrip,Explore the pros and cons of writing for examiner.com and Yahoo’s associated content.  The discussion will compare writing content for the web versus print magazines.  Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself.
-speakernosp,RobReed
+speakernosp,"TracyHerrell,RobReed"
 starttime,18:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/2/2014
@@ -1369,7 +1369,7 @@ avneeds,none
 speakerlist,"['Jim Leach', 'Sean M. Davis']"
 hours,0
 totalminutes,50
-speakernosplist,['SeanM.Davis']
+speakernosplist,"['JimLeach', 'SeanM.Davis']"
 caldescrip,"The number of genres into which Speculative Fiction may be divided approaches infinity.  Most are familiar with Hard Sci-Fi, the Space Opera, and Urban Fantasy.  There are also lesser known sub-genres like Bizarro Fiction that fall in the SFF spectrum.  How would you define Bizarro Fiction?  What are the must reads in this field?"
 endtime,18:50
 AV Needs,
@@ -1379,7 +1379,7 @@ venue,Board of Governors
 Book Description,"The number of genres into which Speculative Fiction may be divided approaches infinity. Most are familiar with Hard Sci-Fi, the Space Opera, and Urban Fantasy. There are also lesser known sub-genres like Bizarro Fiction that fall in the SFF spectrum. How would you define Bizarro Fiction? What are the must reads in this field?"
 Presenters,"Jim Leach, Sean M. Davis"
 csvsafedescrip,The number of genres into which Speculative Fiction may be divided approaches infinity.  Most are familiar with Hard Sci-Fi- the Space Opera- and Urban Fantasy.  There are also lesser known sub-genres like Bizarro Fiction that fall in the SFF spectrum.  How would you define Bizarro Fiction?  What are the must reads in this field?
-speakernosp,SeanM.Davis
+speakernosp,"JimLeach,SeanM.Davis"
 starttime,18:00
 roomnosp,BoardofGovernors
 Start Date,5/2/2014
@@ -1411,7 +1411,7 @@ avneeds,none
 speakerlist,"['Mitch Peters', 'Jennifer Peters', 'Julie Hargraves']"
 hours,0
 totalminutes,50
-speakernosplist,['JulieHargraves']
+speakernosplist,"['MitchPeters', 'JenniferPeters', 'JulieHargraves']"
 caldescrip,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
 endtime,18:50
 AV Needs,
@@ -1421,7 +1421,7 @@ venue,Charlevoix B
 Book Description,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
 Presenters,"Mitch Peters, Jennifer Peters, Julie Hargraves"
 csvsafedescrip,Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace- and also give tips on how to come off as confident- instead of creepy.
-speakernosp,JulieHargraves
+speakernosp,"MitchPeters,JenniferPeters,JulieHargraves"
 starttime,18:00
 roomnosp,CharlevoixB
 Start Date,5/2/2014
@@ -1579,7 +1579,7 @@ avneeds,none
 speakerlist,"['Jake Newman', 'Fred Lthrop']"
 hours,2
 totalminutes,170
-speakernosplist,['FredLthrop']
+speakernosplist,"['JakeNewman', 'FredLthrop']"
 caldescrip,"Come join us for the ultimate dungeon crawl through the 'Ruins of Undermountain.' Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice, you have the vice!"
 endtime,20:50
 AV Needs,
@@ -1589,7 +1589,7 @@ venue,Gaming (Restaurant)
 Book Description,"Come join us for the ultimate dungeon crawl through the ""Ruins of Undermountain."" Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like. All characters are premade (level 6+) and ready to play. D and D 3.5 rules will be used. We have the dice, you have the vice!"
 Presenters,"Jake Newman, Fred Lthrop"
 csvsafedescrip,Come join us for the ultimate dungeon crawl through the 'Ruins of Undermountain.' Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice- you have the vice!
-speakernosp,FredLthrop
+speakernosp,"JakeNewman,FredLthrop"
 starttime,18:00
 roomnosp,GamingRestaurant
 Start Date,5/2/2014
@@ -1663,7 +1663,7 @@ avneeds,Projector
 speakerlist,"['Alex Drummer', 'Kevin McLeod', 'Justin Coluzzi']"
 hours,0
 totalminutes,50
-speakernosplist,['JustinColuzzi']
+speakernosplist,"['AlexDrummer', 'KevinMcLeod', 'JustinColuzzi']"
 caldescrip,"Iron Man, Halo, Mass Effect, Star Wars -- what do all of these have in common? Some of the most impressive looking costumes you will see out there involve armor.  In this panel we will discuss multiple forms and techniques of armor construction for cosplay.  You might be surprised at how simple it can be to create very impressive looking armor from some easy to find materials."
 endtime,18:50
 AV Needs,Projector
@@ -1673,7 +1673,7 @@ venue,Nicolet
 Book Description,"Iron Man, Halo, Mass Effect, Star Wars -- what do all of these have in common? Some of the most impressive looking costumes you will see out there involve armor. In this panel we will discuss multiple forms and techniques of armor construction for cosplay. You might be surprised at how simple it can be to create very impressive looking armor from some easy to find materials."
 Presenters,"Alex Drummer, Kevin McLeod, Justin Coluzzi"
 csvsafedescrip,Iron Man- Halo- Mass Effect- Star Wars -- what do all of these have in common? Some of the most impressive looking costumes you will see out there involve armor.  In this panel we will discuss multiple forms and techniques of armor construction for cosplay.  You might be surprised at how simple it can be to create very impressive looking armor from some easy to find materials.
-speakernosp,JustinColuzzi
+speakernosp,"AlexDrummer,KevinMcLeod,JustinColuzzi"
 starttime,18:00
 roomnosp,Nicolet
 Start Date,5/2/2014
@@ -1705,7 +1705,7 @@ avneeds,Projector
 speakerlist,"['Marie-therese Enga', 'Bob Trembley']"
 hours,0
 totalminutes,50
-speakernosplist,['BobTrembley']
+speakernosplist,"['Marie-thereseEnga', 'BobTrembley']"
 caldescrip,"Asteroids, comets, Kuiper Belt objects and minor planets -- learn about the half-million objects we share our solar system with."
 endtime,19:50
 AV Needs,Projector
@@ -1715,7 +1715,7 @@ venue,Algonquin D
 Book Description,"Asteroids, comets, Kuiper Belt objects and minor planets -- learn about the half-million objects we share our solar system with."
 Presenters,"Marie-therese Enga, Bob Trembley"
 csvsafedescrip,Asteroids- comets- Kuiper Belt objects and minor planets -- learn about the half-million objects we share our solar system with.
-speakernosp,BobTrembley
+speakernosp,"Marie-thereseEnga,BobTrembley"
 starttime,19:00
 roomnosp,AlgonquinD
 Start Date,5/2/2014
@@ -1747,7 +1747,7 @@ avneeds,none
 speakerlist,"['Ferrett Steinmetz', 'Michael Cieslak', 'Jim Leach']"
 hours,0
 totalminutes,50
-speakernosplist,['JimLeach']
+speakernosplist,"['FerrettSteinmetz', 'MichaelCieslak', 'JimLeach']"
 caldescrip,"Some writers are plotters, and can’t proceed until they know how everything ends.  Some writers are pantsers, and they surprise themselves as they go.  How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses? "
 endtime,19:50
 AV Needs,
@@ -1757,7 +1757,7 @@ venue,Baldwin Board Room
 Book Description,"Some writers are plotters, and can’t proceed until they know how everything ends. Some writers are pantsers, and they surprise themselves as they go. How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses? "
 Presenters,"Ferrett Steinmetz, Michael Cieslak, Jim Leach"
 csvsafedescrip,Some writers are plotters- and can’t proceed until they know how everything ends.  Some writers are pantsers- and they surprise themselves as they go.  How can you figure out which one you are- and how can you harness the strengths of each approach while avoiding the weaknesses? 
-speakernosp,JimLeach
+speakernosp,"FerrettSteinmetz,MichaelCieslak,JimLeach"
 starttime,19:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/2/2014
@@ -1789,7 +1789,7 @@ avneeds,none
 speakerlist,"['Ed Mason', 'Erika Carlson', 'Eva Galperin', 'Ernie Cline', 'YTCracker']"
 hours,0
 totalminutes,50
-speakernosplist,['YTCracker']
+speakernosplist,"['EdMason', 'ErikaCarlson', 'EvaGalperin', 'ErnieCline', 'YTCracker']"
 caldescrip,Get to know our GoHs as we all get together for some cocktails. Meet us in the bar.
 endtime,19:50
 AV Needs,
@@ -1799,7 +1799,7 @@ venue,Bar
 Book Description,Get to know our GoHs as we all get together for some cocktails. Meet us in the bar.
 Presenters,"Ed Mason, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 csvsafedescrip,Get to know our GoHs as we all get together for some cocktails. Meet us in the bar.
-speakernosp,YTCracker
+speakernosp,"EdMason,ErikaCarlson,EvaGalperin,ErnieCline,YTCracker"
 starttime,19:00
 roomnosp,Bar
 Start Date,5/2/2014
@@ -1832,7 +1832,7 @@ avneeds,none
 speakerlist,"['Deirdre McDaniel', 'Steffo', 'Amara Brighe']"
 hours,0
 totalminutes,50
-speakernosplist,['AmaraBrighe']
+speakernosplist,"['DeirdreMcDaniel', 'Steffo', 'AmaraBrighe']"
 caldescrip,"More people are transitioning publicly in geek social circles where they feel less threatened and more accepted, so it's getting more likely that you will know or meet one. Come hear a transgender person talk about the best way to approach, discuss, and respect transgender people. This presentation focuses on the social aspects of dealing with transgender people with a brief discussion of the physical aspects of transition. Most trans people do not have an easy time, but friends and peers can help by not accidentally saying something rude that makes the trans person feel uncomfortable. Bad attitudes and bad language will not be tolerated.
 "
 endtime,19:50
@@ -1843,7 +1843,7 @@ venue,Board of Governors
 Book Description,"More people are transitioning publicly in geek social circles where they feel less threatened and more accepted, so it's getting more likely that you will know or meet one. Come hear a transgender person talk about the best way to approach, discuss, and respect transgender people. This presentation focuses on the social aspects of dealing with transgender people with a brief discussion of the physical aspects of transition. Most trans people do not have an easy time, but friends and peers can help by not accidentally saying something rude that makes the trans person feel uncomfortable. Bad attitudes and bad language will not be tolerated. "
 Presenters,"Deirdre McDaniel, Steffo, Amara Brighe"
 csvsafedescrip,More people are transitioning publicly in geek social circles where they feel less threatened and more accepted- so it's getting more likely that you will know or meet one. Come hear a transgender person talk about the best way to approach- discuss- and respect transgender people. This presentation focuses on the social aspects of dealing with transgender people with a brief discussion of the physical aspects of transition. Most trans people do not have an easy time- but friends and peers can help by not accidentally saying something rude that makes the trans person feel uncomfortable. Bad attitudes and bad language will not be tolerated. 
-speakernosp,AmaraBrighe
+speakernosp,"DeirdreMcDaniel,Steffo,AmaraBrighe"
 starttime,19:00
 roomnosp,BoardofGovernors
 Start Date,5/2/2014
@@ -1875,7 +1875,7 @@ avneeds,none
 speakerlist,"['Matt Arnold', 'Bruce Webber', 'John D. Bell', 'Janet Gocay', 'Chad Crabtree', 'Jeff Quesnelle', 'Stan Carrico']"
 hours,0
 totalminutes,50
-speakernosplist,['StanCarrico']
+speakernosplist,"['MattArnold', 'BruceWebber', 'JohnD.Bell', 'JanetGocay', 'ChadCrabtree', 'JeffQuesnelle', 'StanCarrico']"
 caldescrip,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
 endtime,19:50
 AV Needs,
@@ -1885,7 +1885,7 @@ venue,Board of Regents
 Book Description,"Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose, stack, and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax"
 Presenters,"Matt Arnold, Bruce Webber, John D. Bell, Janet Gocay, Chad Crabtree, Jeff Quesnelle, Stan Carrico"
 csvsafedescrip,Penguicon has begun to host hackathons year-round to develop software to help organize this convention: tuxtrax.org. Please join us at the whiteboard! Developers and interested stake holders will meet to discuss the project's purpose- stack- and next steps. Look at the user stories in the readme and the flowchart image in the wiki: https://github.com/MattArnold/penguicontrax
-speakernosp,StanCarrico
+speakernosp,"MattArnold,BruceWebber,JohnD.Bell,JanetGocay,ChadCrabtree,JeffQuesnelle,StanCarrico"
 starttime,19:00
 roomnosp,BoardofRegents
 Start Date,5/2/2014
@@ -2211,7 +2211,7 @@ avneeds,Projector
 speakerlist,"['Victoria Stapels', 'April Nance', 'Sunny Smith', 'Erika Carlson', 'Eva Galperin']"
 hours,0
 totalminutes,50
-speakernosplist,['EvaGalperin']
+speakernosplist,"['VictoriaStapels', 'AprilNance', 'SunnySmith', 'ErikaCarlson', 'EvaGalperin']"
 caldescrip,"From Samus Aran to Princess Peach, equal gender representation in nerd culture has been slim at best. With the way we are already judging each other for who is the most ‘L337’ nerd, it’s no surprise that women are getting even more judgement from the nerd community at large. Where are all the female heroes? The tournament-winning chicks? And why are you judging me for kicking YOUR butt in Super Smash Bros.? No matter your gender, please join in on this hot topic! This panel aims to discuss the social issues, inequality and perks that come with being a geeky lady!"
 endtime,20:50
 AV Needs,Projector
@@ -2221,7 +2221,7 @@ venue,Algonquin D
 Book Description,"From Samus Aran to Princess Peach, equal gender representation in nerd culture has been slim at best. With the way we are already judging each other for who is the most ‘L337’ nerd, it’s no surprise that women are getting even more judgement from the nerd community at large. Where are all the female heroes? The tournament-winning chicks? And why are you judging me for kicking YOUR butt in Super Smash Bros.? No matter your gender, please join in on this hot topic! This panel aims to discuss the social issues, inequality and perks that come with being a geeky lady!"
 Presenters,"Victoria Stapels, April Nance, Sunny Smith, Erika Carlson, Eva Galperin"
 csvsafedescrip,From Samus Aran to Princess Peach- equal gender representation in nerd culture has been slim at best. With the way we are already judging each other for who is the most ‘L337’ nerd- it’s no surprise that women are getting even more judgement from the nerd community at large. Where are all the female heroes? The tournament-winning chicks? And why are you judging me for kicking YOUR butt in Super Smash Bros.? No matter your gender- please join in on this hot topic! This panel aims to discuss the social issues- inequality and perks that come with being a geeky lady!
-speakernosp,EvaGalperin
+speakernosp,"VictoriaStapels,AprilNance,SunnySmith,ErikaCarlson,EvaGalperin"
 starttime,20:00
 roomnosp,AlgonquinD
 Start Date,5/2/2014
@@ -2421,7 +2421,7 @@ avneeds,Sound System
 speakerlist,"['Val Hundreds', 'Moses Jackson']"
 hours,0
 totalminutes,50
-speakernosplist,['MosesJackson']
+speakernosplist,"['ValHundreds', 'MosesJackson']"
 caldescrip,"Champions of Breakfast is the electropop collaboration of Moses Jackson and Val Hundreds. The band is one part punk rock, one part Brechtian showmanship, one part dance party. With a live show that acknowledges its own artificiality, the group takes the conventions of music performance and mutates them into a spectacle of hyperbolic proportion. Here, bass guitars are seven feet long and made of construction paper, everything on stage emits blindingly bright light, and the beats of every track are pushed straight into the red."
 endtime,20:50
 AV Needs,Sound System
@@ -2431,7 +2431,7 @@ venue,Charlevoix A
 Book Description,"Champions of Breakfast is the electropop collaboration of Moses Jackson and Val Hundreds. The band is one part punk rock, one part Brechtian showmanship, one part dance party. With a live show that acknowledges its own artificiality, the group takes the conventions of music performance and mutates them into a spectacle of hyperbolic proportion. Here, bass guitars are seven feet long and made of construction paper, everything on stage emits blindingly bright light, and the beats of every track are pushed straight into the red."
 Presenters,"Val Hundreds, Moses Jackson"
 csvsafedescrip,Champions of Breakfast is the electropop collaboration of Moses Jackson and Val Hundreds. The band is one part punk rock- one part Brechtian showmanship- one part dance party. With a live show that acknowledges its own artificiality- the group takes the conventions of music performance and mutates them into a spectacle of hyperbolic proportion. Here- bass guitars are seven feet long and made of construction paper- everything on stage emits blindingly bright light- and the beats of every track are pushed straight into the red.
-speakernosp,MosesJackson
+speakernosp,"ValHundreds,MosesJackson"
 starttime,20:00
 roomnosp,CharlevoixA
 Start Date,5/2/2014
@@ -3051,7 +3051,7 @@ avneeds,none
 speakerlist,"['Heather Gutterman', 'Caitlynn Poirier', 'Taylor Watkins']"
 hours,1
 totalminutes,110
-speakernosplist,['TaylorWatkins']
+speakernosplist,"['HeatherGutterman', 'CaitlynnPoirier', 'TaylorWatkins']"
 caldescrip,"Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!"
 endtime,22:50
 AV Needs,
@@ -3061,7 +3061,7 @@ venue,Food Track (Room 1017)
 Book Description,"Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!"
 Presenters,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins"
 csvsafedescrip,Many alcoholic drinks have histories- but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!
-speakernosp,TaylorWatkins
+speakernosp,"HeatherGutterman,CaitlynnPoirier,TaylorWatkins"
 starttime,21:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/2/2014
@@ -3135,7 +3135,7 @@ avneeds,Projector
 speakerlist,"['Steve Andre', 'Marcus Watts']"
 hours,0
 totalminutes,50
-speakernosplist,['MarcusWatts']
+speakernosplist,"['SteveAndre', 'MarcusWatts']"
 caldescrip,OpenBSD is an open source operating system that emphases security and reliability. Come take a tour!
 endtime,21:50
 AV Needs,Projector
@@ -3145,7 +3145,7 @@ venue,Montcalm
 Book Description,OpenBSD is an open source operating system that emphases security and reliability. Come take a tour!
 Presenters,"Steve Andre, Marcus Watts"
 csvsafedescrip,OpenBSD is an open source operating system that emphases security and reliability. Come take a tour!
-speakernosp,MarcusWatts
+speakernosp,"SteveAndre,MarcusWatts"
 starttime,21:00
 roomnosp,Montcalm
 Start Date,5/2/2014
@@ -3177,7 +3177,7 @@ avneeds,Projector
 speakerlist,"['Jeannie Szarama', 'Rob Polosky']"
 hours,0
 totalminutes,50
-speakernosplist,['RobPolosky']
+speakernosplist,"['JeannieSzarama', 'RobPolosky']"
 caldescrip,"From celebrities like Kevin Smith and Aisha Tyler, to every day folks who just like to talk, people from from all walks of life are starting their own podcasts. What is a podcast? How do you get started? Come find your voice. "
 endtime,21:50
 AV Needs,Projector
@@ -3187,7 +3187,7 @@ venue,Nicolet
 Book Description,"From celebrities like Kevin Smith and Aisha Tyler, to every day folks who just like to talk, people from from all walks of life are starting their own podcasts. What is a podcast? How do you get started? Come find your voice. "
 Presenters,"Jeannie Szarama, Rob Polosky"
 csvsafedescrip,From celebrities like Kevin Smith and Aisha Tyler- to every day folks who just like to talk- people from from all walks of life are starting their own podcasts. What is a podcast? How do you get started? Come find your voice. 
-speakernosp,RobPolosky
+speakernosp,"JeannieSzarama,RobPolosky"
 starttime,21:00
 roomnosp,Nicolet
 Start Date,5/2/2014
@@ -3387,7 +3387,7 @@ avneeds,none
 speakerlist,"['Mitch Peters', 'Jennifer Peters']"
 hours,0
 totalminutes,50
-speakernosplist,['JenniferPeters']
+speakernosplist,"['MitchPeters', 'JenniferPeters']"
 caldescrip,"Two of the worlds greatest pirates, Captain Duckman and his loving wife Jenniveve, have plundered nearly every ship that sails the seven seas. Bored, and on the run from the authorities, they've turned to stealing some thing even more important then money... laughter! But when you're stealing, it's always wise to steal from the best. So, come see them enact stage top piracy of the great bard himself, as they perform The Duckman's 'Romeo and Juliet' (the short version). Shakespeare as it should have been... Funny!"
 endtime,22:50
 AV Needs,
@@ -3397,7 +3397,7 @@ venue,Board of Governors
 Book Description,"Two of the worlds greatest pirates, Captain Duckman and his loving wife Jenniveve, have plundered nearly every ship that sails the seven seas. Bored, and on the run from the authorities, they've turned to stealing some thing even more important then money... laughter! But when you're stealing, it's always wise to steal from the best. So, come see them enact stage top piracy of the great bard himself, as they perform The Duckman's 'Romeo and Juliet' (the short version). Shakespeare as it should have been... Funny!"
 Presenters,"Mitch Peters, Jennifer Peters"
 csvsafedescrip,Two of the worlds greatest pirates- Captain Duckman and his loving wife Jenniveve- have plundered nearly every ship that sails the seven seas. Bored- and on the run from the authorities- they've turned to stealing some thing even more important then money... laughter! But when you're stealing- it's always wise to steal from the best. So- come see them enact stage top piracy of the great bard himself- as they perform The Duckman's 'Romeo and Juliet' (the short version). Shakespeare as it should have been... Funny!
-speakernosp,JenniferPeters
+speakernosp,"MitchPeters,JenniferPeters"
 starttime,22:00
 roomnosp,BoardofGovernors
 Start Date,5/2/2014
@@ -3513,7 +3513,7 @@ avneeds,none
 speakerlist,"['William Meyer', 'Kim Horger']"
 hours,0
 totalminutes,50
-speakernosplist,['KimHorger']
+speakernosplist,"['WilliamMeyer', 'KimHorger']"
 caldescrip,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 endtime,22:50
 AV Needs,
@@ -3523,7 +3523,7 @@ venue,Gaming (Restaurant)
 Book Description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 Presenters,"William Meyer, Kim Horger"
 csvsafedescrip,In MovieMashups- teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards.
-speakernosp,KimHorger
+speakernosp,"WilliamMeyer,KimHorger"
 starttime,22:00
 roomnosp,GamingRestaurant
 Start Date,5/2/2014
@@ -3555,7 +3555,7 @@ avneeds,none
 speakerlist,"['Nick Farr', ""M'jit Raindancer-Stahl"", 'Dean Stahl']"
 hours,2
 totalminutes,170
-speakernosplist,['DeanStahl']
+speakernosplist,"['NickFarr', ""M'jitRaindancer-Stahl"", 'DeanStahl']"
 caldescrip,"We're going to attempt the biggest game of Cards Against Humanity ever.  Even if you've only heard about this wild tabletop game, show up for the fun and stay for the chaos."
 endtime,0:50
 AV Needs,
@@ -3565,7 +3565,7 @@ venue,Gaming (Restaurant)
 Book Description,"We're going to attempt the biggest game of Cards Against Humanity ever. Even if you've only heard about this wild tabletop game, show up for the fun and stay for the chaos."
 Presenters,"Nick Farr, M'jit Raindancer-Stahl, Dean Stahl"
 csvsafedescrip,We're going to attempt the biggest game of Cards Against Humanity ever.  Even if you've only heard about this wild tabletop game- show up for the fun and stay for the chaos.
-speakernosp,DeanStahl
+speakernosp,"NickFarr,M'jitRaindancer-Stahl,DeanStahl"
 starttime,22:00
 roomnosp,GamingRestaurant
 Start Date,5/2/2014
@@ -3681,7 +3681,7 @@ avneeds,none
 speakerlist,"['Bob Trembley', 'Marie-therese Enga']"
 hours,1
 totalminutes,110
-speakernosplist,['Marie-thereseEnga']
+speakernosplist,"['BobTrembley', 'Marie-thereseEnga']"
 caldescrip,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
 endtime,23:50
 AV Needs,
@@ -3691,7 +3691,7 @@ venue,Outside
 Book Description,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
 Presenters,"Bob Trembley, Marie-therese Enga"
 csvsafedescrip,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
-speakernosp,Marie-thereseEnga
+speakernosp,"BobTrembley,Marie-thereseEnga"
 starttime,22:00
 roomnosp,Outside
 Start Date,5/2/2014
@@ -3849,7 +3849,7 @@ avneeds,none
 speakerlist,"['Sarah Elkins', 'Paul Salkie']"
 hours,1
 totalminutes,110
-speakernosplist,['PaulSalkie']
+speakernosplist,"['SarahElkins', 'PaulSalkie']"
 caldescrip,"Learn the basics of making liquid nitrogen ice cream! Equipment; safety; proportions; how the mix should taste before freezing; pouring; stirring; timing of mix-ins; recipe adjustments for non-dairy and non-sugar alternatives.  Hands-on training as space permits, and of course, ice cream samples will be provided!"
 endtime,0:50
 AV Needs,
@@ -3859,7 +3859,7 @@ venue,Con Suite
 Book Description,"Learn the basics of making liquid nitrogen ice cream! Equipment; safety; proportions; how the mix should taste before freezing; pouring; stirring; timing of mix-ins; recipe adjustments for non-dairy and non-sugar alternatives. Hands-on training as space permits, and of course, ice cream samples will be provided!"
 Presenters,"Sarah Elkins, Paul Salkie"
 csvsafedescrip,Learn the basics of making liquid nitrogen ice cream! Equipment; safety; proportions; how the mix should taste before freezing; pouring; stirring; timing of mix-ins; recipe adjustments for non-dairy and non-sugar alternatives.  Hands-on training as space permits- and of course- ice cream samples will be provided!
-speakernosp,PaulSalkie
+speakernosp,"SarahElkins,PaulSalkie"
 starttime,23:00
 roomnosp,ConSuite
 Start Date,5/2/2014
@@ -4017,7 +4017,7 @@ avneeds,"Projector, Sound System"
 speakerlist,"['Robert Gilbert', 'Melanie Gilbert', 'Egypt']"
 hours,1
 totalminutes,110
-speakernosplist,['Egypt']
+speakernosplist,"['RobertGilbert', 'MelanieGilbert', 'Egypt']"
 caldescrip,"Dr. Bob Tesla brings his show to PenguiCon! With the help of his lab assistants and his brother, Nikola, Dr. Bob brings you a fun, cheesy movie experience!"
 endtime,1:50
 AV Needs,"Projector, Sound System"
@@ -4027,7 +4027,7 @@ venue,Portage Auditorium
 Book Description,"Dr. Bob Tesla brings his show to PenguiCon! With the help of his lab assistants and his brother, Nikola, Dr. Bob brings you a fun, cheesy movie experience!"
 Presenters,"Robert Gilbert, Melanie Gilbert, Egypt"
 csvsafedescrip,Dr. Bob Tesla brings his show to PenguiCon! With the help of his lab assistants and his brother- Nikola- Dr. Bob brings you a fun- cheesy movie experience!
-speakernosp,Egypt
+speakernosp,"RobertGilbert,MelanieGilbert,Egypt"
 starttime,0:00
 roomnosp,PortageAuditorium
 Start Date,5/3/2014
@@ -4065,7 +4065,7 @@ avneeds,Sound system
 speakerlist,"['Thaddeus Micelli', 'Shoofle Munroe', 'Steve ""Spark"" Grandpre']"
 hours,1
 totalminutes,110
-speakernosplist,"['Steve""Spark""Grandpre']"
+speakernosplist,"['ThaddeusMicelli', 'ShoofleMunroe', 'Steve""Spark""Grandpre']"
 caldescrip,"Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.
 
 First Hour: FlowCentrics
@@ -4081,7 +4081,7 @@ venue,Algonquin B/C
 Book Description,"Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome. First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details) Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!"
 Presenters,"Thaddeus Micelli, Shoofle Munroe, Steve ""Spark"" Grandpre"
 csvsafedescrip,Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.  First Hour: FlowCentrics Meant for those with little to no experience- this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi- staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow- all skill levels are welcome. (Wanna help? Show up half an hour prior for details)  Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!
-speakernosp,"Steve""Spark""Grandpre"
+speakernosp,"ThaddeusMicelli,ShoofleMunroe,Steve""Spark""Grandpre"
 starttime,10:00
 roomnosp,AlgonquinBC
 Start Date,5/3/2014
@@ -4155,7 +4155,7 @@ avneeds,none
 speakerlist,"['Keith Martens', 'James Fernandez']"
 hours,0
 totalminutes,50
-speakernosplist,['JamesFernandez']
+speakernosplist,"['KeithMartens', 'JamesFernandez']"
 caldescrip,Open forum for Q&A about filmmaking. Learn how to get started in filmmaking.
 endtime,10:50
 AV Needs,
@@ -4165,7 +4165,7 @@ venue,Baldwin Board Room
 Book Description,Open forum for Q and A about filmmaking. Learn how to get started in filmmaking.
 Presenters,"Keith Martens, James Fernandez"
 csvsafedescrip,Open forum for Q&A about filmmaking. Learn how to get started in filmmaking.
-speakernosp,JamesFernandez
+speakernosp,"KeithMartens,JamesFernandez"
 starttime,10:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -4281,7 +4281,7 @@ avneeds,none
 speakerlist,"['Angie Rush', 'Brit Burke']"
 hours,5
 totalminutes,350
-speakernosplist,['BritBurke']
+speakernosplist,"['AngieRush', 'BritBurke']"
 caldescrip,"Relive your youth as you play away the hours on a collection of retro gaming systems, including Atari 2600, NES, SNES and many others. "
 endtime,15:50
 AV Needs,
@@ -4291,7 +4291,7 @@ venue,Board of Trustees
 Book Description,"Relive your youth as you play away the hours on a collection of retro gaming systems, including Atari 2600, NES, SNES and many others. "
 Presenters,"Angie Rush, Brit Burke"
 csvsafedescrip,Relive your youth as you play away the hours on a collection of retro gaming systems- including Atari 2600- NES- SNES and many others. 
-speakernosp,BritBurke
+speakernosp,"AngieRush,BritBurke"
 starttime,10:00
 roomnosp,BoardofTrustees
 Start Date,5/3/2014
@@ -4324,7 +4324,7 @@ avneeds,none
 speakerlist,"['Taylor Watkins', 'Douglas Tobin', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['TaylorWatkins', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,"Join us for a discussion about how to construct sparring weapons. When designing sparring weapons, we take into account many factors. Weight, flexibility, and many other elements of the materials allow for both safety and effectiveness. Construction techniques add to this. Come and add to the discussion as we begin with a historical weapon and talk through methods for creating a sparring weapon variant.
 "
 endtime,10:50
@@ -4335,7 +4335,7 @@ venue,Charlevoix A
 Book Description,"Join us for a discussion about how to construct sparring weapons. When designing sparring weapons, we take into account many factors. Weight, flexibility, and many other elements of the materials allow for both safety and effectiveness. Construction techniques add to this. Come and add to the discussion as we begin with a historical weapon and talk through methods for creating a sparring weapon variant. "
 Presenters,"Taylor Watkins, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Join us for a discussion about how to construct sparring weapons. When designing sparring weapons- we take into account many factors. Weight- flexibility- and many other elements of the materials allow for both safety and effectiveness. Construction techniques add to this. Come and add to the discussion as we begin with a historical weapon and talk through methods for creating a sparring weapon variant. 
-speakernosp,HeatherGutterman
+speakernosp,"TaylorWatkins,DouglasTobin,HeatherGutterman"
 starttime,10:00
 roomnosp,CharlevoixA
 Start Date,5/3/2014
@@ -4409,7 +4409,7 @@ avneeds,none
 speakerlist,"['Mitch Peters', 'Jennifer Peters']"
 hours,0
 totalminutes,50
-speakernosplist,['JenniferPeters']
+speakernosplist,"['MitchPeters', 'JenniferPeters']"
 caldescrip,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."
 endtime,10:50
 AV Needs,
@@ -4419,7 +4419,7 @@ venue,Charlevoix C
 Book Description,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."
 Presenters,"Mitch Peters, Jennifer Peters"
 csvsafedescrip,In this ever changing world of ours- consent is a hot topic. We'll be discussing what it is- what isn't it- and all the various shades in between. Dealing with consent both in the bedroom- and in your everyday life.
-speakernosp,JenniferPeters
+speakernosp,"MitchPeters,JenniferPeters"
 starttime,10:00
 roomnosp,CharlevoixC
 Start Date,5/3/2014
@@ -4703,7 +4703,7 @@ avneeds,Projector
 speakerlist,"['Mary Poirier', 'Douglas Scholl', 'Douglas Tobin', 'Keith Martens']"
 hours,1
 totalminutes,110
-speakernosplist,['KeithMartens']
+speakernosplist,"['MaryPoirier', 'DouglasScholl', 'DouglasTobin', 'KeithMartens']"
 caldescrip,"A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience."
 endtime,12:50
 AV Needs,Projector
@@ -4713,7 +4713,7 @@ venue,Algonquin D
 Book Description,"A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience."
 Presenters,"Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens"
 csvsafedescrip,A demonstration of how a fight scene in a movie is blocked out- choreographed- rehearsed- filmed- edited- and finally seen by the audience.
-speakernosp,KeithMartens
+speakernosp,"MaryPoirier,DouglasScholl,DouglasTobin,KeithMartens"
 starttime,11:00
 roomnosp,AlgonquinD
 Start Date,5/3/2014
@@ -4745,7 +4745,7 @@ avneeds,none
 speakerlist,"['Sean M. Davis', 'Ferrett Steinmetz', 'NIcole Castle']"
 hours,0
 totalminutes,50
-speakernosplist,['NIcoleCastle']
+speakernosplist,"['SeanM.Davis', 'FerrettSteinmetz', 'NIcoleCastle']"
 caldescrip,"Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle?"
 endtime,11:50
 AV Needs,
@@ -4755,7 +4755,7 @@ venue,Baldwin Board Room
 Book Description,"Are there any new stories left, or is everything just a retread of an old idea? What is a retread, and what is a legitimately new angle?"
 Presenters,"Sean M. Davis, Ferrett Steinmetz, NIcole Castle"
 csvsafedescrip,Are there any new stories left- or is everything just a retread of an old idea?  What is a retread- and what is a legitimately new angle?
-speakernosp,NIcoleCastle
+speakernosp,"SeanM.Davis,FerrettSteinmetz,NIcoleCastle"
 starttime,11:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -4787,7 +4787,7 @@ avneeds,none
 speakerlist,"['Nuri Gocay', 'April Nance', 'Scott Kennedy', 'Karen Morand', 'Dawn Kuczwara']"
 hours,0
 totalminutes,50
-speakernosplist,['DawnKuczwara']
+speakernosplist,"['NuriGocay', 'AprilNance', 'ScottKennedy', 'KarenMorand', 'DawnKuczwara']"
 caldescrip,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 endtime,11:50
 AV Needs,
@@ -4797,7 +4797,7 @@ venue,Board of Governors
 Book Description,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 Presenters,"Nuri Gocay, April Nance, Scott Kennedy, Karen Morand, Dawn Kuczwara"
 csvsafedescrip,How can we create safe spaces for people of all varieties at the convention- and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.
-speakernosp,DawnKuczwara
+speakernosp,"NuriGocay,AprilNance,ScottKennedy,KarenMorand,DawnKuczwara"
 starttime,11:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -4871,7 +4871,7 @@ avneeds,none
 speakerlist,"['Sarah Elkins', 'Noah Sussman', 'Jer Lance']"
 hours,0
 totalminutes,50
-speakernosplist,['JerLance']
+speakernosplist,"['SarahElkins', 'NoahSussman', 'JerLance']"
 caldescrip,"Is tech hiring like Pokemon?  How do you hire *and* hang on to good people?  What do recruiting and retention have to do with each other?  If you're looking for a job, does 'passion' in the job ad sound inspiring, or like 80-hour work weeks are expected?  The panelists have each been on both sides of the interview table.  Come hear their perspectives and share your own."
 endtime,11:50
 AV Needs,
@@ -4881,7 +4881,7 @@ venue,Charlevoix A
 Book Description,"Is tech hiring like Pokemon? How do you hire *and* hang on to good people? What do recruiting and retention have to do with each other? If you're looking for a job, does ""passion"" in the job ad sound inspiring, or like 80-hour work weeks are expected? The panelists have each been on both sides of the interview table. Come hear their perspectives and share your own."
 Presenters,"Sarah Elkins, Noah Sussman, Jer Lance"
 csvsafedescrip,Is tech hiring like Pokemon?  How do you hire *and* hang on to good people?  What do recruiting and retention have to do with each other?  If you're looking for a job- does 'passion' in the job ad sound inspiring- or like 80-hour work weeks are expected?  The panelists have each been on both sides of the interview table.  Come hear their perspectives and share your own.
-speakernosp,JerLance
+speakernosp,"SarahElkins,NoahSussman,JerLance"
 starttime,11:00
 roomnosp,CharlevoixA
 Start Date,5/3/2014
@@ -5081,7 +5081,7 @@ avneeds,none
 speakerlist,"['Ernie Cline', 'Ed Mason']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['ErnieCline', 'EdMason']"
 caldescrip,How close are we to being inserted into The Matrix? Join our GoHs Ernie Cline and Ed Mason as we figure out what is fiction and what is reality. 
 endtime,11:50
 AV Needs,
@@ -5091,7 +5091,7 @@ venue,Windover
 Book Description,How close are we to being inserted into The Matrix? Join our GoHs Ernie Cline and Ed Mason as we figure out what is fiction and what is reality. 
 Presenters,"Ernie Cline, Ed Mason"
 csvsafedescrip,How close are we to being inserted into The Matrix? Join our GoHs Ernie Cline and Ed Mason as we figure out what is fiction and what is reality. 
-speakernosp,EdMason
+speakernosp,"ErnieCline,EdMason"
 starttime,11:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -5123,7 +5123,7 @@ avneeds,Sound system
 speakerlist,"['Mike Burrell', 'Jasna Todorovic']"
 hours,1
 totalminutes,110
-speakernosplist,['JasnaTodorovic']
+speakernosplist,"['MikeBurrell', 'JasnaTodorovic']"
 caldescrip,"Come for a beginner lesson on lindy hop, an almost century-old swing dance that's still going strong! Have fun with music with your fellow nerds, explore lead-follow dynamics, and pick up a new skill. Previous experience and coordination are NOT required. We'll be rotating partners (except for those who aren't comfortable rotating partners), so there's no need to bring your own. Comfortable shoes are recommended."
 endtime,13:50
 AV Needs,Sound system
@@ -5133,7 +5133,7 @@ venue,Algonquin B/C
 Book Description,"Come for a beginner lesson on lindy hop, an almost century-old swing dance that's still going strong! Have fun with music with your fellow nerds, explore lead-follow dynamics, and pick up a new skill. Previous experience and coordination are NOT required. We'll be rotating partners (except for those who aren't comfortable rotating partners), so there's no need to bring your own. Comfortable shoes are recommended."
 Presenters,"Mike Burrell, Jasna Todorovic"
 csvsafedescrip,Come for a beginner lesson on lindy hop- an almost century-old swing dance that's still going strong! Have fun with music with your fellow nerds- explore lead-follow dynamics- and pick up a new skill. Previous experience and coordination are NOT required. We'll be rotating partners (except for those who aren't comfortable rotating partners)- so there's no need to bring your own. Comfortable shoes are recommended.
-speakernosp,JasnaTodorovic
+speakernosp,"MikeBurrell,JasnaTodorovic"
 starttime,12:00
 roomnosp,AlgonquinBC
 Start Date,5/3/2014
@@ -5333,7 +5333,7 @@ avneeds,none
 speakerlist,"['Bill Putt', 'Anthony Distel']"
 hours,0
 totalminutes,50
-speakernosplist,['AnthonyDistel']
+speakernosplist,"['BillPutt', 'AnthonyDistel']"
 caldescrip,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
 endtime,12:50
 AV Needs,
@@ -5343,7 +5343,7 @@ venue,Con Suite
 Book Description,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
 Presenters,"Bill Putt, Anthony Distel"
 csvsafedescrip,Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it- why they use different processes- and take suggestions for flavors from the audience.
-speakernosp,AnthonyDistel
+speakernosp,"BillPutt,AnthonyDistel"
 starttime,12:00
 roomnosp,ConSuite
 Start Date,5/3/2014
@@ -5375,7 +5375,7 @@ avneeds,none
 speakerlist,"['Cathy Raymond', 'Eric S. Raymond']"
 hours,0
 totalminutes,50
-speakernosplist,['EricS.Raymond']
+speakernosplist,"['CathyRaymond', 'EricS.Raymond']"
 caldescrip,"Capsicum-based hot sauces are not just about heat, but most people don't think about the other ingredients in their favorite brands.  Not all hot sauces are alike; they fall into distinct groups depending upon their major ingredients (other than hot peppers, vinegar, and water).  Join Eric and Cathy Raymond for a hot sauce tasting experience designed to teach you how to compare your favorites to new ones.  "
 endtime,12:50
 AV Needs,
@@ -5385,7 +5385,7 @@ venue,Food Track (Room 1017)
 Book Description,"Capsicum-based hot sauces are not just about heat, but most people don't think about the other ingredients in their favorite brands. Not all hot sauces are alike; they fall into distinct groups depending upon their major ingredients (other than hot peppers, vinegar, and water). Join Eric and Cathy Raymond for a hot sauce tasting experience designed to teach you how to compare your favorites to new ones. "
 Presenters,"Cathy Raymond, Eric S. Raymond"
 csvsafedescrip,Capsicum-based hot sauces are not just about heat- but most people don't think about the other ingredients in their favorite brands.  Not all hot sauces are alike; they fall into distinct groups depending upon their major ingredients (other than hot peppers- vinegar- and water).  Join Eric and Cathy Raymond for a hot sauce tasting experience designed to teach you how to compare your favorites to new ones.  
-speakernosp,EricS.Raymond
+speakernosp,"CathyRaymond,EricS.Raymond"
 starttime,12:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/3/2014
@@ -5543,7 +5543,7 @@ avneeds,Projector
 speakerlist,"['Ed Platt', 'Shaka Sengho']"
 hours,0
 totalminutes,50
-speakernosplist,['ShakaSengho']
+speakernosplist,"['EdPlatt', 'ShakaSengho']"
 caldescrip,"From SMS-based blogging platforms, to visualization of large-scale public data, to Android tablets for prison inmates reconnecting with society, the way we interact with each other, our communities, and our governments is changing.  This panel will present some exciting examples and speculate on future possibilities."
 endtime,12:50
 AV Needs,Projector
@@ -5553,7 +5553,7 @@ venue,Montcalm
 Book Description,"From SMS-based blogging platforms, to visualization of large-scale public data, to Android tablets for prison inmates reconnecting with society, the way we interact with each other, our communities, and our governments is changing. This panel will present some exciting examples and speculate on future possibilities."
 Presenters,"Ed Platt, Shaka Sengho"
 csvsafedescrip,From SMS-based blogging platforms- to visualization of large-scale public data- to Android tablets for prison inmates reconnecting with society- the way we interact with each other- our communities- and our governments is changing.  This panel will present some exciting examples and speculate on future possibilities.
-speakernosp,ShakaSengho
+speakernosp,"EdPlatt,ShakaSengho"
 starttime,12:00
 roomnosp,Montcalm
 Start Date,5/3/2014
@@ -5585,7 +5585,7 @@ avneeds,none
 speakerlist,"['Merilynne Rush', 'Diana Cramer']"
 hours,0
 totalminutes,50
-speakernosplist,['DianaCramer']
+speakernosplist,"['MerilynneRush', 'DianaCramer']"
 caldescrip,"Until we discover the secret of immortality, we are all going to die one day, and it's healthy to talk and think about it!  Did you know there are more options than cremation and burial?  Join Merilynne Rush of After Death Home Care to learn about natural death care and what you need to know if you want to be composted rather than have a typical funeral.  It's not hard to do but it's not likely to happen unless you plan ahead."
 endtime,12:50
 AV Needs,
@@ -5595,7 +5595,7 @@ venue,Nicolet
 Book Description,"Until we discover the secret of immortality, we are all going to die one day, and it's healthy to talk and think about it! Did you know there are more options than cremation and burial? Join Merilynne Rush of After Death Home Care to learn about natural death care and what you need to know if you want to be composted rather than have a typical funeral. It's not hard to do but it's not likely to happen unless you plan ahead."
 Presenters,"Merilynne Rush, Diana Cramer"
 csvsafedescrip,Until we discover the secret of immortality- we are all going to die one day- and it's healthy to talk and think about it!  Did you know there are more options than cremation and burial?  Join Merilynne Rush of After Death Home Care to learn about natural death care and what you need to know if you want to be composted rather than have a typical funeral.  It's not hard to do but it's not likely to happen unless you plan ahead.
-speakernosp,DianaCramer
+speakernosp,"MerilynneRush,DianaCramer"
 starttime,12:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -5627,7 +5627,7 @@ avneeds,none
 speakerlist,"['Bob Trembley', 'Marie-therese Enga']"
 hours,1
 totalminutes,110
-speakernosplist,['Marie-thereseEnga']
+speakernosplist,"['BobTrembley', 'Marie-thereseEnga']"
 caldescrip,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
 endtime,13:50
 AV Needs,
@@ -5637,7 +5637,7 @@ venue,Outside
 Book Description,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
 Presenters,"Bob Trembley, Marie-therese Enga"
 csvsafedescrip,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
-speakernosp,Marie-thereseEnga
+speakernosp,"BobTrembley,Marie-thereseEnga"
 starttime,12:00
 roomnosp,Outside
 Start Date,5/3/2014
@@ -5753,7 +5753,7 @@ avneeds,none
 speakerlist,"['Kevin Siembieda', 'Bill Korsak']"
 hours,0
 totalminutes,50
-speakernosplist,['BillKorsak']
+speakernosplist,"['KevinSiembieda', 'BillKorsak']"
 caldescrip,Tap in the minds of 2 local GMs and find the best way to make your game session  fast paced and more memorable.
 endtime,13:50
 AV Needs,
@@ -5763,7 +5763,7 @@ venue,Board of Governors
 Book Description,Tap in the minds of 2 local GMs and find the best way to make your game session fast paced and more memorable.
 Presenters,"Kevin Siembieda, Bill Korsak"
 csvsafedescrip,Tap in the minds of 2 local GMs and find the best way to make your game session  fast paced and more memorable.
-speakernosp,BillKorsak
+speakernosp,"KevinSiembieda,BillKorsak"
 starttime,13:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -5921,7 +5921,7 @@ avneeds,none
 speakerlist,"['Janet Gocay', 'Nuri Gocay']"
 hours,0
 totalminutes,50
-speakernosplist,['NuriGocay']
+speakernosplist,"['JanetGocay', 'NuriGocay']"
 caldescrip,Learn to make homemade soda with the conchair and head of programming! We will go over the basic technique for making flavored soda using juice and yeast. Plenty of samples will be provided!
 endtime,13:50
 AV Needs,
@@ -5931,7 +5931,7 @@ venue,Food Track (Room 1017)
 Book Description,Learn to make homemade soda with the conchair and head of programming! We will go over the basic technique for making flavored soda using juice and yeast. Plenty of samples will be provided!
 Presenters,"Janet Gocay, Nuri Gocay"
 csvsafedescrip,Learn to make homemade soda with the conchair and head of programming! We will go over the basic technique for making flavored soda using juice and yeast. Plenty of samples will be provided!
-speakernosp,NuriGocay
+speakernosp,"JanetGocay,NuriGocay"
 starttime,13:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/3/2014
@@ -6047,7 +6047,7 @@ avneeds,none
 speakerlist,"['Dean Martelle', 'Linda Martelle']"
 hours,4
 totalminutes,240
-speakernosplist,['LindaMartelle']
+speakernosplist,"['DeanMartelle', 'LindaMartelle']"
 caldescrip,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 endtime,17:00
 AV Needs,
@@ -6057,7 +6057,7 @@ venue,Lobby
 Book Description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 Presenters,"Dean Martelle, Linda Martelle"
 csvsafedescrip,Enjoy a fun and relaxing session of painting miniature figures- even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques- including drybrushing- washes- and face elements- including the always tricky eyes. Some free figures available (one per person per day).
-speakernosp,LindaMartelle
+speakernosp,"DeanMartelle,LindaMartelle"
 starttime,13:00
 roomnosp,Lobby
 Start Date,5/3/2014
@@ -6131,7 +6131,7 @@ avneeds,none
 speakerlist,"['Merilynne Rush', 'Diana Cramer']"
 hours,1
 totalminutes,110
-speakernosplist,['DianaCramer']
+speakernosplist,"['MerilynneRush', 'DianaCramer']"
 caldescrip,"Join Merilynne Rush (Natural Death Care educator and founder of the Ann Arbor Death Cafe) for eating cake, drinking tea, and talking about death. The aim of this discussion is to help people make the most of their (finite) lives by increasing awareness. Participants will direct the conversation."
 endtime,14:50
 AV Needs,
@@ -6141,7 +6141,7 @@ venue,Nicolet
 Book Description,"Join Merilynne Rush (Natural Death Care educator and founder of the Ann Arbor Death Cafe) for eating cake, drinking tea, and talking about death. The aim of this discussion is to help people make the most of their (finite) lives by increasing awareness. Participants will direct the conversation."
 Presenters,"Merilynne Rush, Diana Cramer"
 csvsafedescrip,Join Merilynne Rush (Natural Death Care educator and founder of the Ann Arbor Death Cafe) for eating cake- drinking tea- and talking about death. The aim of this discussion is to help people make the most of their (finite) lives by increasing awareness. Participants will direct the conversation.
-speakernosp,DianaCramer
+speakernosp,"MerilynneRush,DianaCramer"
 starttime,13:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -6173,7 +6173,7 @@ avneeds,none
 speakerlist,"['Michael W. Lucas', 'Shetan Noir', 'Eva Galperin', 'Cory Doctorow']"
 hours,0
 totalminutes,50
-speakernosplist,['CoryDoctorow']
+speakernosplist,"['MichaelW.Lucas', 'ShetanNoir', 'EvaGalperin', 'CoryDoctorow']"
 caldescrip,What happens when the concept of 'information can't be contained' clashes with content creators who want monetary recompense for their hard work?
 endtime,13:50
 AV Needs,
@@ -6183,7 +6183,7 @@ venue,Windover
 Book Description,"What happens when the concept of ""information can't be contained"" clashes with content creators who want monetary recompense for their hard work?"
 Presenters,"Michael W. Lucas, Shetan Noir, Eva Galperin, Cory Doctorow"
 csvsafedescrip,What happens when the concept of 'information can't be contained' clashes with content creators who want monetary recompense for their hard work?
-speakernosp,CoryDoctorow
+speakernosp,"MichaelW.Lucas,ShetanNoir,EvaGalperin,CoryDoctorow"
 starttime,13:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -6215,7 +6215,7 @@ avneeds,none
 speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Michael Spagnolio', 'Douglas Tobin', 'Heather Gutterman']"
 hours,1
 totalminutes,110
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,"Come see demonstrations in the use of swords, spears, shields, and other western martial arts weapons!"
 endtime,15:50
 AV Needs,
@@ -6225,7 +6225,7 @@ venue,Algonquin A
 Book Description,"Come see demonstrations in the use of swords, spears, shields, and other western martial arts weapons!"
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Come see demonstrations in the use of swords- spears- shields- and other western martial arts weapons!
-speakernosp,HeatherGutterman
+speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,14:00
 roomnosp,AlgonquinA
 Start Date,5/3/2014
@@ -6257,7 +6257,7 @@ avneeds,none
 speakerlist,"['Ferrett Steinmetz', 'Alex Drummer']"
 hours,0
 totalminutes,50
-speakernosplist,['AlexDrummer']
+speakernosplist,"['FerrettSteinmetz', 'AlexDrummer']"
 caldescrip,"Want the closest shave you can get without self-Sweeney Todding yourself?  Straight-razor shaves are intimidating - so let us show you how it all works in a live demonstration, removing our stubble for your edification!"
 endtime,14:50
 AV Needs,
@@ -6267,7 +6267,7 @@ venue,Board of Governors
 Book Description,"Want the closest shave you can get without self-Sweeney Todding yourself? Straight-razor shaves are intimidating - so let us show you how it all works in a live demonstration, removing our stubble for your edification!"
 Presenters,"Ferrett Steinmetz, Alex Drummer"
 csvsafedescrip,Want the closest shave you can get without self-Sweeney Todding yourself?  Straight-razor shaves are intimidating - so let us show you how it all works in a live demonstration- removing our stubble for your edification!
-speakernosp,AlexDrummer
+speakernosp,"FerrettSteinmetz,AlexDrummer"
 starttime,14:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -6299,7 +6299,7 @@ avneeds,none
 speakerlist,"['Steve Gutterman', 'Randy Bradakis', 'Matt Arnold', 'Amanda Long-Adams', 'Jer Lance', 'Gini Judd', 'James Hice']"
 hours,0
 totalminutes,50
-speakernosplist,['JamesHice']
+speakernosplist,"['SteveGutterman', 'RandyBradakis', 'MattArnold', 'AmandaLong-Adams', 'JerLance', 'GiniJudd', 'JamesHice']"
 caldescrip,"You’ve done the convention, you’ve met the staff, and you’ve even socialized with the ConCom. But what about those *other* Penguicon people? Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke? Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon? Come to the Board of Directors meeting and see!"
 endtime,14:50
 AV Needs,
@@ -6309,7 +6309,7 @@ venue,Board of Regents
 Book Description,"You’ve done the convention, you’ve met the staff, and you’ve even socialized with the ConCom. But what about those *other* Penguicon people? Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke? Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon? Come to the Board of Directors meeting and see!"
 Presenters,"Steve Gutterman, Randy Bradakis, Matt Arnold, Amanda Long-Adams, Jer Lance, Gini Judd, James Hice"
 csvsafedescrip,You’ve done the convention- you’ve met the staff- and you’ve even socialized with the ConCom. But what about those *other* Penguicon people? Those shadowy figures that create the multi-year rules- have their fingers on the money- and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke? Ever wonder what the Penguicon Board of Directors does in their secret sanctum- and where they are taking Penguicon? Come to the Board of Directors meeting and see!
-speakernosp,JamesHice
+speakernosp,"SteveGutterman,RandyBradakis,MattArnold,AmandaLong-Adams,JerLance,GiniJudd,JamesHice"
 starttime,14:00
 roomnosp,BoardofRegents
 Start Date,5/3/2014
@@ -6341,7 +6341,7 @@ avneeds,none
 speakerlist,"['barbeque', 'snesei', 'boaconstructor', 'The One Electronic', 'Monotony']"
 hours,0
 totalminutes,50
-speakernosplist,['Monotony']
+speakernosplist,"['barbeque', 'snesei', 'boaconstructor', 'TheOneElectronic', 'Monotony']"
 caldescrip,"The word 'chiptune' has been used as a genre of music, encompassing any/all music made on retro sound chips.  Not so much anymore.  Meet some of the artists breaking into new genres and pushing the limits of the chip sound."
 endtime,14:50
 AV Needs,
@@ -6351,7 +6351,7 @@ venue,Charlevoix A
 Book Description,"The word ""chiptune"" has been used as a genre of music, encompassing any/all music made on retro sound chips. Not so much anymore. Meet some of the artists breaking into new genres and pushing the limits of the chip sound."
 Presenters,"barbeque, snesei, boaconstructor, The One Electronic, Monotony"
 csvsafedescrip,The word 'chiptune' has been used as a genre of music- encompassing any/all music made on retro sound chips.  Not so much anymore.  Meet some of the artists breaking into new genres and pushing the limits of the chip sound.
-speakernosp,Monotony
+speakernosp,"barbeque,snesei,boaconstructor,TheOneElectronic,Monotony"
 starttime,14:00
 roomnosp,CharlevoixA
 Start Date,5/3/2014
@@ -6383,7 +6383,7 @@ avneeds,none
 speakerlist,"['April Nance', 'Alexa Albright-Kelley', 'Julie Hargraves', 'James Dobbs', 'Hope Dundas', 'Maggi Rohde Idzikowski', 'Carol Thomas', 'Michael Ryan McPeek', 'Jennifer Copeland']"
 hours,0
 totalminutes,50
-speakernosplist,['JenniferCopeland']
+speakernosplist,"['AprilNance', 'AlexaAlbright-Kelley', 'JulieHargraves', 'JamesDobbs', 'HopeDundas', 'MaggiRohdeIdzikowski', 'CarolThomas', 'MichaelRyanMcPeek', 'JenniferCopeland']"
 caldescrip,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
 endtime,14:50
 AV Needs,
@@ -6393,7 +6393,7 @@ venue,Charlevoix B
 Book Description,"A discussion on LGBT/Queer Culture within fandom. This includes challenges faced, successes of fandom culture, and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel, as well as providing resources for further learning."
 Presenters,"April Nance, Alexa Albright-Kelley, Julie Hargraves, James Dobbs, Hope Dundas, Maggi Rohde Idzikowski, Carol Thomas, Michael Ryan McPeek, Jennifer Copeland"
 csvsafedescrip,A discussion on LGBT/Queer Culture within fandom. This includes challenges faced- successes of fandom culture- and opportunities for improving inclusivity/diversity within fandom. This will be a hands-on discussion where a diverse panel will represent a variety of the gender and sexual spectrum and audience participation will be encouraged. Our panelists will be happy to address general questions about the gender and sexual spectrum after the panel- as well as providing resources for further learning.
-speakernosp,JenniferCopeland
+speakernosp,"AprilNance,AlexaAlbright-Kelley,JulieHargraves,JamesDobbs,HopeDundas,MaggiRohdeIdzikowski,CarolThomas,MichaelRyanMcPeek,JenniferCopeland"
 starttime,14:00
 roomnosp,CharlevoixB
 Start Date,5/3/2014
@@ -6425,7 +6425,7 @@ avneeds,none
 speakerlist,"['Keith Martens', 'James Fernandez']"
 hours,0
 totalminutes,50
-speakernosplist,['JamesFernandez']
+speakernosplist,"['KeithMartens', 'JamesFernandez']"
 caldescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 endtime,14:50
 AV Needs,
@@ -6435,7 +6435,7 @@ venue,Charlevoix C
 Book Description,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 Presenters,"Keith Martens, James Fernandez"
 csvsafedescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
-speakernosp,JamesFernandez
+speakernosp,"KeithMartens,JamesFernandez"
 starttime,14:00
 roomnosp,CharlevoixC
 Start Date,5/3/2014
@@ -6467,7 +6467,7 @@ avneeds,none
 speakerlist,"['Sarah Elkins', 'Phil Salkie']"
 hours,1
 totalminutes,110
-speakernosplist,['PhilSalkie']
+speakernosplist,"['SarahElkins', 'PhilSalkie']"
 caldescrip,We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.
 endtime,15:50
 AV Needs,
@@ -6477,7 +6477,7 @@ venue,Con Suite
 Book Description,We have a lot of ingredients to use up! And more to teach about LN2! Come learn and taste some more. All sessions will offer dairy-free and sugar-free options upon request.
 Presenters,"Sarah Elkins, Phil Salkie"
 csvsafedescrip,We have a lot of ingredients to use up!  And more to teach about LN2!  Come learn and taste some more.  All sessions will offer dairy-free and sugar-free options upon request.
-speakernosp,PhilSalkie
+speakernosp,"SarahElkins,PhilSalkie"
 starttime,14:00
 roomnosp,ConSuite
 Start Date,5/3/2014
@@ -6551,7 +6551,7 @@ avneeds,none
 speakerlist,"['William Meyer', 'Kim Horger']"
 hours,0
 totalminutes,50
-speakernosplist,['KimHorger']
+speakernosplist,"['WilliamMeyer', 'KimHorger']"
 caldescrip,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 endtime,14:50
 AV Needs,
@@ -6561,7 +6561,7 @@ venue,Gaming (Restaurant)
 Book Description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 Presenters,"William Meyer, Kim Horger"
 csvsafedescrip,In MovieMashups- teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards.
-speakernosp,KimHorger
+speakernosp,"WilliamMeyer,KimHorger"
 starttime,14:00
 roomnosp,GamingRestaurant
 Start Date,5/3/2014
@@ -6803,7 +6803,7 @@ avneeds,none
 speakerlist,"['Ernie Cline', 'Sean M. Davis', 'Michael Cieslak', 'Nicole Castle', 'Jim Leach', 'John Scalzi']"
 hours,0
 totalminutes,50
-speakernosplist,['JohnScalzi']
+speakernosplist,"['ErnieCline', 'SeanM.Davis', 'MichaelCieslak', 'NicoleCastle', 'JimLeach', 'JohnScalzi']"
 caldescrip,"In a world where some of the most watched shows deal with SFF themes or have been adapted from SFF material (Game of Thrones, The Walking Dead, The Lord of the Rings/The Hobbit, The Avengers et. al.) where does the “mainstream” line get drawn?  Why is it suddenly acceptable for the SFF genre to be viewed?  Has this translated over to the written word?  Side question: why has mystery always been more or less accepted but SFF is a more recent explosion?"
 endtime,14:50
 AV Needs,
@@ -6813,7 +6813,7 @@ venue,Windover
 Book Description,"In a world where some of the most watched shows deal with SFF themes or have been adapted from SFF material (Game of Thrones, The Walking Dead, The Lord of the Rings/The Hobbit, The Avengers et. al.) where does the “mainstream” line get drawn? Why is it suddenly acceptable for the SFF genre to be viewed? Has this translated over to the written word? Side question: why has mystery always been more or less accepted but SFF is a more recent explosion?"
 Presenters,"Ernie Cline, Sean M. Davis, Michael Cieslak, Nicole Castle, Jim Leach, John Scalzi"
 csvsafedescrip,In a world where some of the most watched shows deal with SFF themes or have been adapted from SFF material (Game of Thrones- The Walking Dead- The Lord of the Rings/The Hobbit- The Avengers et. al.) where does the “mainstream” line get drawn?  Why is it suddenly acceptable for the SFF genre to be viewed?  Has this translated over to the written word?  Side question: why has mystery always been more or less accepted but SFF is a more recent explosion?
-speakernosp,JohnScalzi
+speakernosp,"ErnieCline,SeanM.Davis,MichaelCieslak,NicoleCastle,JimLeach,JohnScalzi"
 starttime,14:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -6887,7 +6887,7 @@ avneeds,Projector
 speakerlist,"['Eva Galperin', 'Cory Doctorow']"
 hours,0
 totalminutes,50
-speakernosplist,['CoryDoctorow']
+speakernosplist,"['EvaGalperin', 'CoryDoctorow']"
 caldescrip,"With revelations coming out on a daily basis, it's obvious that our privacy is both critically important and under attack. Come learn about an organization that is defending our rights every day. "
 endtime,15:50
 AV Needs,Projector
@@ -6897,7 +6897,7 @@ venue,Algonquin D
 Book Description,"With revelations coming out on a daily basis, it's obvious that our privacy is both critically important and under attack. Come learn about an organization that is defending our rights every day. "
 Presenters,"Eva Galperin, Cory Doctorow"
 csvsafedescrip,With revelations coming out on a daily basis- it's obvious that our privacy is both critically important and under attack. Come learn about an organization that is defending our rights every day. 
-speakernosp,CoryDoctorow
+speakernosp,"EvaGalperin,CoryDoctorow"
 starttime,15:00
 roomnosp,AlgonquinD
 Start Date,5/3/2014
@@ -7139,7 +7139,7 @@ avneeds,Projector
 speakerlist,"['John D. Bell', 'Susan']"
 hours,1
 totalminutes,110
-speakernosplist,['Susan']
+speakernosplist,"['JohnD.Bell', 'Susan']"
 caldescrip,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, 'shell' and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
 endtime,16:50
 AV Needs,Projector
@@ -7149,7 +7149,7 @@ venue,Charlevoix C
 Book Description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box. Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools. You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap. Attendance limited. Sign up at Ops no less than one hour before."
 Presenters,"John D. Bell, Susan"
 csvsafedescrip,Linux hasn't always had a GUI- and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary- scary- 'shell' and its tools.  You will need a WiFi-equipped- ssh-running gizmo (laptop- tablet- smartphone) with a *good* keyboard- your mad typing skillz- and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before.
-speakernosp,Susan
+speakernosp,"JohnD.Bell,Susan"
 starttime,15:00
 roomnosp,CharlevoixC
 Start Date,5/3/2014
@@ -7223,7 +7223,7 @@ avneeds,Projector
 speakerlist,"['Tony Bemus', ""Kevin O'Brien""]"
 hours,0
 totalminutes,50
-speakernosplist,"[""KevinO'Brien""]"
+speakernosplist,"['TonyBemus', ""KevinO'Brien""]"
 caldescrip,"Come learn GPG Encryption with Tony, host of Sunday Morning Linux Review, and active promoter of GPG Encryption, and Kevin O'Brien, frequent contributor to Hacker Public Radio."
 endtime,15:50
 AV Needs,Projector
@@ -7233,7 +7233,7 @@ venue,Nicolet
 Book Description,"Come learn GPG Encryption with Tony, host of Sunday Morning Linux Review, and active promoter of GPG Encryption, and Kevin O'Brien, frequent contributor to Hacker Public Radio."
 Presenters,"Tony Bemus, Kevin O'Brien"
 csvsafedescrip,Come learn GPG Encryption with Tony- host of Sunday Morning Linux Review- and active promoter of GPG Encryption- and Kevin O'Brien- frequent contributor to Hacker Public Radio.
-speakernosp,KevinO'Brien
+speakernosp,"TonyBemus,KevinO'Brien"
 starttime,15:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -7265,7 +7265,7 @@ avneeds,none
 speakerlist,"['Ernie Cline', 'Ferrett Steinmetz', 'Angie Rush']"
 hours,0
 totalminutes,50
-speakernosplist,['AngieRush']
+speakernosplist,"['ErnieCline', 'FerrettSteinmetz', 'AngieRush']"
 caldescrip,"Our GoH Ernie Cline discusses the Greatest Decade Ever, its role in his creative work, and why we still have a soft spot for it, 30 years later."
 endtime,15:50
 AV Needs,
@@ -7275,7 +7275,7 @@ venue,Windover
 Book Description,"Our GoH Ernie Cline discusses the Greatest Decade Ever, its role in his creative work, and why we still have a soft spot for it, 30 years later."
 Presenters,"Ernie Cline, Ferrett Steinmetz, Angie Rush"
 csvsafedescrip,Our GoH Ernie Cline discusses the Greatest Decade Ever- its role in his creative work- and why we still have a soft spot for it- 30 years later.
-speakernosp,AngieRush
+speakernosp,"ErnieCline,FerrettSteinmetz,AngieRush"
 starttime,15:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -7349,7 +7349,7 @@ avneeds,none
 speakerlist,"['Suzette Mariotti', 'Cathy Raymond', 'Catherine Shaffer', 'Annikki Raiford']"
 hours,1
 totalminutes,110
-speakernosplist,['AnnikkiRaiford']
+speakernosplist,"['SuzetteMariotti', 'CathyRaymond', 'CatherineShaffer', 'AnnikkiRaiford']"
 caldescrip,"Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"
 endtime,17:50
 AV Needs,
@@ -7359,7 +7359,7 @@ venue,Algonquin B/C
 Book Description,"Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"
 Presenters,"Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford"
 csvsafedescrip,Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster- so we can announce you in the fashion you are accustomed!
-speakernosp,AnnikkiRaiford
+speakernosp,"SuzetteMariotti,CathyRaymond,CatherineShaffer,AnnikkiRaiford"
 starttime,16:00
 roomnosp,AlgonquinBC
 Start Date,5/3/2014
@@ -7433,7 +7433,7 @@ avneeds,none
 speakerlist,"[' Jim Leach', 'Ferrett Steinmetz']"
 hours,0
 totalminutes,50
-speakernosplist,['FerrettSteinmetz']
+speakernosplist,"['JimLeach', 'FerrettSteinmetz']"
 caldescrip,"There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction?"
 endtime,16:50
 AV Needs,
@@ -7443,7 +7443,7 @@ venue,Baldwin Board Room
 Book Description,"There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight). Is this indicative of an expectation among television and movie audiences that established characters survive? Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments? Is it more acceptable to kill off a character in print? How do these expectations differ amongst genre fiction?"
 Presenters," Jim Leach, Ferrett Steinmetz"
 csvsafedescrip,There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending- even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction?
-speakernosp,FerrettSteinmetz
+speakernosp,"JimLeach,FerrettSteinmetz"
 starttime,16:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -7475,7 +7475,7 @@ avneeds,none
 speakerlist,"['Gini Judd', 'Angie Rush', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['GiniJudd', 'AngieRush', 'HeatherGutterman']"
 caldescrip,"For years, geeky folk seemed to regard their bodies are mobile devices for their brains, but not anymore. Now as one walks through the con, snippets of conversations about Warrior Dashes and Zombie Runs, about FitBits and heart monitors, can often be heard. How is exercise changing so that it appeals to geeks? How is geek culture changing to embrace sport? And what are the coolest devices out there to make it all fun?"
 endtime,16:50
 AV Needs,
@@ -7485,7 +7485,7 @@ venue,Board of Governors
 Book Description,"For years, geeky folk seemed to regard their bodies are mobile devices for their brains, but not anymore. Now as one walks through the con, snippets of conversations about Warrior Dashes and Zombie Runs, about FitBits and heart monitors, can often be heard. How is exercise changing so that it appeals to geeks? How is geek culture changing to embrace sport? And what are the coolest devices out there to make it all fun?"
 Presenters,"Gini Judd, Angie Rush, Heather Gutterman"
 csvsafedescrip,For years- geeky folk seemed to regard their bodies are mobile devices for their brains- but not anymore. Now as one walks through the con- snippets of conversations about Warrior Dashes and Zombie Runs- about FitBits and heart monitors- can often be heard. How is exercise changing so that it appeals to geeks? How is geek culture changing to embrace sport? And what are the coolest devices out there to make it all fun?
-speakernosp,HeatherGutterman
+speakernosp,"GiniJudd,AngieRush,HeatherGutterman"
 starttime,16:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -7643,7 +7643,7 @@ avneeds,none
 speakerlist,"['YTCracker', 'Steffo', 'StarF', 'King Pheenix', '2 Mello', 'Devo Spice']"
 hours,0
 totalminutes,50
-speakernosplist,['DevoSpice']
+speakernosplist,"['YTCracker', 'Steffo', 'StarF', 'KingPheenix', '2Mello', 'DevoSpice']"
 caldescrip,"Nerdcore hip-hop is often taken as a parody genre.  With 'nerdy' references sneaking into more and more mainstream music, is 'nerd rap' a stale term?  Join some of the top artists as they debate the validity of their own genre."
 endtime,16:50
 AV Needs,
@@ -7653,7 +7653,7 @@ venue,Charlevoix B
 Book Description,"Nerdcore hip-hop is often taken as a parody genre. With ""nerdy"" references sneaking into more and more mainstream music, is ""nerd rap"" a stale term? Join some of the top artists as they debate the validity of their own genre."
 Presenters,"YTCracker, Steffo, StarF, King Pheenix, 2 Mello, Devo Spice"
 csvsafedescrip,Nerdcore hip-hop is often taken as a parody genre.  With 'nerdy' references sneaking into more and more mainstream music- is 'nerd rap' a stale term?  Join some of the top artists as they debate the validity of their own genre.
-speakernosp,DevoSpice
+speakernosp,"YTCracker,Steffo,StarF,KingPheenix,2Mello,DevoSpice"
 starttime,16:00
 roomnosp,CharlevoixB
 Start Date,5/3/2014
@@ -7769,7 +7769,7 @@ avneeds,none
 speakerlist,"['Jake Newman', 'Fred Lthrop']"
 hours,2
 totalminutes,170
-speakernosplist,['FredLthrop']
+speakernosplist,"['JakeNewman', 'FredLthrop']"
 caldescrip,"Come join us for the ultimate dungeon crawl through the 'Ruins of Undermountain.' Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice, you have the vice!"
 endtime,18:50
 AV Needs,
@@ -7779,7 +7779,7 @@ venue,Gaming (Restaurant)
 Book Description,"Come join us for the ultimate dungeon crawl through the ""Ruins of Undermountain."" Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like. All characters are premade (level 6+) and ready to play. D and D 3.5 rules will be used. We have the dice, you have the vice!"
 Presenters,"Jake Newman, Fred Lthrop"
 csvsafedescrip,Come join us for the ultimate dungeon crawl through the 'Ruins of Undermountain.' Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice- you have the vice!
-speakernosp,FredLthrop
+speakernosp,"JakeNewman,FredLthrop"
 starttime,16:00
 roomnosp,GamingRestaurant
 Start Date,5/3/2014
@@ -7979,7 +7979,7 @@ avneeds,none
 speakerlist,"['Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Michael Spagnolio', 'Douglas Tobin', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
 endtime,17:50
 AV Needs,
@@ -7989,7 +7989,7 @@ venue,Algonquin A
 Book Description,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
 Presenters,"Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
-speakernosp,HeatherGutterman
+speakernosp,"TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,17:00
 roomnosp,AlgonquinA
 Start Date,5/3/2014
@@ -8063,7 +8063,7 @@ avneeds,none
 speakerlist,"['Ken MacGreggor', 'Sean M. Davis', 'Ferrett Steinmetz', 'Nicole Castle']"
 hours,0
 totalminutes,50
-speakernosplist,['NicoleCastle']
+speakernosplist,"['KenMacGreggor', 'SeanM.Davis', 'FerrettSteinmetz', 'NicoleCastle']"
 caldescrip,"Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?"
 endtime,17:50
 AV Needs,
@@ -8073,7 +8073,7 @@ venue,Baldwin Board Room
 Book Description,"Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction. Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?"
 Presenters,"Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle"
 csvsafedescrip,Incest- rape- children as warriors- the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits- or can anything be used as a plot device so long as it is germane to the story?
-speakernosp,NicoleCastle
+speakernosp,"KenMacGreggor,SeanM.Davis,FerrettSteinmetz,NicoleCastle"
 starttime,17:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -8357,7 +8357,7 @@ avneeds,Projector
 speakerlist,"['Susan Sons', 'Chris Nehren', 'Jeremy Banks', 'Eric S. Raymond', 'Paul Berens', 'Adam Nuwer', 'Andrew Kelley', 'John D. Bell']"
 hours,2
 totalminutes,170
-speakernosplist,['JohnD.Bell']
+speakernosplist,"['SusanSons', 'ChrisNehren', 'JeremyBanks', 'EricS.Raymond', 'PaulBerens', 'AdamNuwer', 'AndrewKelley', 'JohnD.Bell']"
 caldescrip,"Everyday encryption for the general public. Learn to protect your hard drive's data, browse the web anonymously, encrypt your email, and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session."
 endtime,19:50
 AV Needs,Projector
@@ -8367,7 +8367,7 @@ venue,Nicolet
 Book Description,"Everyday encryption for the general public. Learn to protect your hard drive's data, browse the web anonymously, encrypt your email, and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session."
 Presenters,"Susan Sons, Chris Nehren, Jeremy Banks, Eric S. Raymond, Paul Berens, Adam Nuwer, Andrew Kelley, John D. Bell"
 csvsafedescrip,Everyday encryption for the general public. Learn to protect your hard drive's data- browse the web anonymously- encrypt your email- and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session.
-speakernosp,JohnD.Bell
+speakernosp,"SusanSons,ChrisNehren,JeremyBanks,EricS.Raymond,PaulBerens,AdamNuwer,AndrewKelley,JohnD.Bell"
 starttime,17:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -8399,7 +8399,7 @@ avneeds,none
 speakerlist,"['Ernie Cline', 'Mary Lynne Gibbs', 'Cory Doctorow', 'John Scalzi   ']"
 hours,0
 totalminutes,50
-speakernosplist,['JohnScalzi']
+speakernosplist,"['ErnieCline', 'MaryLynneGibbs', 'CoryDoctorow', 'JohnScalzi']"
 caldescrip,A small panel followed by open Q&A/Suggestions.
 endtime,17:50
 AV Needs,
@@ -8409,7 +8409,7 @@ venue,Windover
 Book Description,A small panel followed by open Q and A/Suggestions.
 Presenters,"Ernie Cline, Mary Lynne Gibbs, Cory Doctorow, John Scalzi "
 csvsafedescrip,A small panel followed by open Q&A/Suggestions.
-speakernosp,JohnScalzi
+speakernosp,"ErnieCline,MaryLynneGibbs,CoryDoctorow,JohnScalzi"
 starttime,17:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -8441,7 +8441,7 @@ avneeds,none
 speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Douglas Tobin', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops."
 endtime,18:50
 AV Needs,
@@ -8451,7 +8451,7 @@ venue,Algonquin A
 Book Description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops."
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety- we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
-speakernosp,HeatherGutterman
+speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,DouglasTobin,HeatherGutterman"
 starttime,18:00
 roomnosp,AlgonquinA
 Start Date,5/3/2014
@@ -8483,7 +8483,7 @@ avneeds,Projector
 speakerlist,"['Eva Galperin', 'Cory Doctorow', 'Nick Farr']"
 hours,0
 totalminutes,50
-speakernosplist,['NickFarr']
+speakernosplist,"['EvaGalperin', 'CoryDoctorow', 'NickFarr']"
 caldescrip,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
 endtime,18:50
 AV Needs,Projector
@@ -8493,7 +8493,7 @@ venue,Algonquin D
 Book Description,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
 Presenters,"Eva Galperin, Cory Doctorow, Nick Farr"
 csvsafedescrip,Now that Edward Snowden has made you aware that the government is watching and recording your every move- come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. 
-speakernosp,NickFarr
+speakernosp,"EvaGalperin,CoryDoctorow,NickFarr"
 starttime,18:00
 roomnosp,AlgonquinD
 Start Date,5/3/2014
@@ -8525,7 +8525,7 @@ avneeds,none
 speakerlist,"['LadyAna', 'Professor X   ']"
 hours,0
 totalminutes,50
-speakernosplist,['ProfessorX']
+speakernosplist,"['LadyAna', 'ProfessorX']"
 caldescrip,"Did you think 'Thor: The Dark World' was awful?  What would you like to see happen in 'X-Men: Days of Future Past'?  What would you have done differently regarding 'Captain America: Winter Solider'?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
 endtime,18:50
 AV Needs,
@@ -8535,7 +8535,7 @@ venue,Baldwin Board Room
 Book Description,"Did you think ""Thor: The Dark World"" was awful? What would you like to see happen in ""X-Men: Days of Future Past""? What would you have done differently regarding ""Captain America: Winter Solider""? If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike! Interested in learning more about Marvel (and yes, DC) comics? That's why we're here! Note: there will be free comics and goodies giveaways! "
 Presenters,"LadyAna, Professor X "
 csvsafedescrip,Did you think 'Thor: The Dark World' was awful?  What would you like to see happen in 'X-Men: Days of Future Past'?  What would you have done differently regarding 'Captain America: Winter Solider'?  If these are questions you think about- then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes- DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       
-speakernosp,ProfessorX
+speakernosp,"LadyAna,ProfessorX"
 starttime,18:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -8567,7 +8567,7 @@ avneeds,none
 speakerlist,"['Mary Lynne Gibbs', 'Michael Cieslak', 'Sean M. Davis', 'Ken MacGreggor']"
 hours,0
 totalminutes,50
-speakernosplist,['KenMacGreggor']
+speakernosplist,"['MaryLynneGibbs', 'MichaelCieslak', 'SeanM.Davis', 'KenMacGreggor']"
 caldescrip,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
 endtime,18:50
 AV Needs,
@@ -8577,7 +8577,7 @@ venue,Board of Governors
 Book Description,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back. Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs? Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
 Presenters,"Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor"
 csvsafedescrip,Shoot ‘em in the head- stake ‘em through the heart- the good old silver bullet...it doesn’t matter- the undead keep coming back.  Have zombies- vampires- and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?
-speakernosp,KenMacGreggor
+speakernosp,"MaryLynneGibbs,MichaelCieslak,SeanM.Davis,KenMacGreggor"
 starttime,18:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -8903,7 +8903,7 @@ avneeds,"Projector, Sound System"
 speakerlist,"['Greg Williams', 'Dawn Kuczwara']"
 hours,1
 totalminutes,110
-speakernosplist,['DawnKuczwara']
+speakernosplist,"['GregWilliams', 'DawnKuczwara']"
 caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
 endtime,19:50
 AV Needs,"Projector, Sound System"
@@ -8913,7 +8913,7 @@ venue,Portage Auditorium
 Book Description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes. Not appropriate for young children or those who are easily offended, Ask your doctor if your heart is healthy enough for sex- if it's not, it probably won't get you through one of our shows, either."
 Presenters,"Greg Williams, Dawn Kuczwara"
 csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex-  if it's not- it probably won't get you through one of our shows- either.
-speakernosp,DawnKuczwara
+speakernosp,"GregWilliams,DawnKuczwara"
 starttime,18:00
 roomnosp,PortageAuditorium
 Start Date,5/3/2014
@@ -8945,7 +8945,7 @@ avneeds,none
 speakerlist,"['Matt Hargraves', 'Nuri Gocay', 'Joe Bender', 'Dawn Kuczwara']"
 hours,0
 totalminutes,50
-speakernosplist,['DawnKuczwara']
+speakernosplist,"['MattHargraves', 'NuriGocay', 'JoeBender', 'DawnKuczwara']"
 caldescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 endtime,18:50
 AV Needs,
@@ -8955,7 +8955,7 @@ venue,Windover
 Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Presenters,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 csvsafedescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,DawnKuczwara
+speakernosp,"MattHargraves,NuriGocay,JoeBender,DawnKuczwara"
 starttime,18:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -9115,7 +9115,7 @@ avneeds,none
 speakerlist,"['\nMary Lynne Gibbs', 'Michael Cieslak']"
 hours,0
 totalminutes,50
-speakernosplist,['MichaelCieslak']
+speakernosplist,"['MaryLynneGibbs', 'MichaelCieslak']"
 caldescrip,"Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing.  We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living."
 endtime,19:50
 AV Needs,
@@ -9125,7 +9125,7 @@ venue,Baldwin Board Room
 Book Description,"Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing. We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living."
 Presenters," Mary Lynne Gibbs, Michael Cieslak"
 csvsafedescrip,Editing is an important part of creating a book- even if it isn't as sexy as- you know- actually writing.  We'll be discussing editing- query letters- and all of the business crap that comes along with doing this for a living.
-speakernosp,MichaelCieslak
+speakernosp,"MaryLynneGibbs,MichaelCieslak"
 starttime,19:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/3/2014
@@ -9157,7 +9157,7 @@ avneeds,none
 speakerlist,"['Julie Hargraves', 'Erika Carlson']"
 hours,0
 totalminutes,50
-speakernosplist,['ErikaCarlson']
+speakernosplist,"['JulieHargraves', 'ErikaCarlson']"
 caldescrip,"Meet other women working or hoping to work in technology, swap stories of what it's like working in a male-dominated field, and share strategies for success."
 endtime,19:50
 AV Needs,
@@ -9167,7 +9167,7 @@ venue,Bar
 Book Description,"Meet other women working or hoping to work in technology, swap stories of what it's like working in a male-dominated field, and share strategies for success."
 Presenters,"Julie Hargraves, Erika Carlson"
 csvsafedescrip,Meet other women working or hoping to work in technology- swap stories of what it's like working in a male-dominated field- and share strategies for success.
-speakernosp,ErikaCarlson
+speakernosp,"JulieHargraves,ErikaCarlson"
 starttime,19:00
 roomnosp,Bar
 Start Date,5/3/2014
@@ -9199,7 +9199,7 @@ avneeds,none
 speakerlist,"['Ferrett Steinmetz', 'Nicole Castle']"
 hours,0
 totalminutes,50
-speakernosplist,['NicoleCastle']
+speakernosplist,"['FerrettSteinmetz', 'NicoleCastle']"
 caldescrip,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs."
 endtime,19:50
 AV Needs,
@@ -9209,7 +9209,7 @@ venue,Board of Governors
 Book Description,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction. What type of apocalypse do we enjoy exploring? Come here for all of your dystopian needs."
 Presenters,"Ferrett Steinmetz, Nicole Castle"
 csvsafedescrip,Zombies- mutant viruses- alien invaders- kaiju- or the environment- the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs.
-speakernosp,NicoleCastle
+speakernosp,"FerrettSteinmetz,NicoleCastle"
 starttime,19:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -9325,7 +9325,7 @@ avneeds,none
 speakerlist,"['Marie Staver', 'Ed Platt', 'Neil Funk']"
 hours,0
 totalminutes,50
-speakernosplist,['NeilFunk']
+speakernosplist,"['MarieStaver', 'EdPlatt', 'NeilFunk']"
 caldescrip,"The science is pretty unanimous:  Naps help improve concentration, energy, mood, and may be linked to other health and lifestyle benefits too.  But how, in the real world, can you really get the naps you want?  Long-term polyphasic sleeper and author Marie Staver (aka PureDoxyk) will give tips and answer questions about napping in public, negotiating naptime at work, prioritizing naps, and teaching yourself to fall asleep quickly and wake rested. "
 endtime,19:50
 AV Needs,
@@ -9335,7 +9335,7 @@ venue,Charlevoix B
 Book Description,"The science is pretty unanimous: Naps help improve concentration, energy, mood, and may be linked to other health and lifestyle benefits too. But how, in the real world, can you really get the naps you want? Long-term polyphasic sleeper and author Marie Staver (aka PureDoxyk) will give tips and answer questions about napping in public, negotiating naptime at work, prioritizing naps, and teaching yourself to fall asleep quickly and wake rested. "
 Presenters,"Marie Staver, Ed Platt, Neil Funk"
 csvsafedescrip,The science is pretty unanimous:  Naps help improve concentration- energy- mood- and may be linked to other health and lifestyle benefits too.  But how- in the real world- can you really get the naps you want?  Long-term polyphasic sleeper and author Marie Staver (aka PureDoxyk) will give tips and answer questions about napping in public- negotiating naptime at work- prioritizing naps- and teaching yourself to fall asleep quickly and wake rested. 
-speakernosp,NeilFunk
+speakernosp,"MarieStaver,EdPlatt,NeilFunk"
 starttime,19:00
 roomnosp,CharlevoixB
 Start Date,5/3/2014
@@ -9409,7 +9409,7 @@ avneeds,none
 speakerlist,"['Caitlynn Poirier', 'Heather Gutterman', 'Taylor Watkins', 'Mary Poirier', 'Douglas Tobin']"
 hours,0
 totalminutes,50
-speakernosplist,['DouglasTobin']
+speakernosplist,"['CaitlynnPoirier', 'HeatherGutterman', 'TaylorWatkins', 'MaryPoirier', 'DouglasTobin']"
 caldescrip,"Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with 'pfffft!' and come anyway. 21 and over, please."
 endtime,19:50
 AV Needs,
@@ -9419,7 +9419,7 @@ venue,Food Track (Room 1017)
 Book Description,"Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with ""pfffft!"" and come anyway. 21 and over, please."
 Presenters,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 csvsafedescrip,Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with 'pfffft!' and come anyway. 21 and over- please.
-speakernosp,DouglasTobin
+speakernosp,"CaitlynnPoirier,HeatherGutterman,TaylorWatkins,MaryPoirier,DouglasTobin"
 starttime,19:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/3/2014
@@ -9493,7 +9493,7 @@ avneeds,none
 speakerlist,"['YTCracker', 'Nick Farr']"
 hours,0
 totalminutes,50
-speakernosplist,['NickFarr']
+speakernosplist,"['YTCracker', 'NickFarr']"
 caldescrip,What's a cryptocurrency and why do we need it? What is Bitcoin mining? Why is Bitcoin so volatile? What is this scary new money and why is it important in our ever-changing world?
 endtime,19:50
 AV Needs,
@@ -9503,7 +9503,7 @@ venue,Windover
 Book Description,What's a cryptocurrency and why do we need it? What is Bitcoin mining? Why is Bitcoin so volatile? What is this scary new money and why is it important in our ever-changing world?
 Presenters,"YTCracker, Nick Farr"
 csvsafedescrip,What's a cryptocurrency and why do we need it? What is Bitcoin mining? Why is Bitcoin so volatile? What is this scary new money and why is it important in our ever-changing world?
-speakernosp,NickFarr
+speakernosp,"YTCracker,NickFarr"
 starttime,19:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -9661,7 +9661,7 @@ avneeds,Projector
 speakerlist,"['Ruth Suehle', 'Tom Callaway']"
 hours,0
 totalminutes,50
-speakernosplist,['TomCallaway']
+speakernosplist,"['RuthSuehle', 'TomCallaway']"
 caldescrip,"ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do, and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made, from light displays and using the Pi as an FM radio to a Star Wars project so good, it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS, Pi-powered Pipboy, and aliens, so come ready to geek out, both Pi and otherwise."
 endtime,20:50
 AV Needs,Projector
@@ -9671,7 +9671,7 @@ venue,Algonquin D
 Book Description,"ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do, and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made, from light displays and using the Pi as an FM radio to a Star Wars project so good, it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS, Pi-powered Pipboy, and aliens, so come ready to geek out, both Pi and otherwise."
 Presenters,"Ruth Suehle, Tom Callaway"
 csvsafedescrip,ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do- and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made- from light displays and using the Pi as an FM radio to a Star Wars project so good- it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS- Pi-powered Pipboy- and aliens- so come ready to geek out- both Pi and otherwise.
-speakernosp,TomCallaway
+speakernosp,"RuthSuehle,TomCallaway"
 starttime,20:00
 roomnosp,AlgonquinD
 Start Date,5/3/2014
@@ -9787,7 +9787,7 @@ avneeds,none
 speakerlist,"['Tracy Herrell', 'Michael W. Lucas']"
 hours,0
 totalminutes,50
-speakernosplist,['MichaelW.Lucas']
+speakernosplist,"['TracyHerrell', 'MichaelW.Lucas']"
 caldescrip,"Explore the pros and  cons of self-publishing in the digital age.  Is there still a stigma associated with being self-published? The panel will discuss the many different sites that offer self-publishing, e-books, marketing your books, and being in control of your book."
 endtime,20:50
 AV Needs,
@@ -9797,7 +9797,7 @@ venue,Board of Governors
 Book Description,"Explore the pros and cons of self-publishing in the digital age. Is there still a stigma associated with being self-published? The panel will discuss the many different sites that offer self-publishing, e-books, marketing your books, and being in control of your book."
 Presenters,"Tracy Herrell, Michael W. Lucas"
 csvsafedescrip,Explore the pros and  cons of self-publishing in the digital age.  Is there still a stigma associated with being self-published? The panel will discuss the many different sites that offer self-publishing- e-books- marketing your books- and being in control of your book.
-speakernosp,MichaelW.Lucas
+speakernosp,"TracyHerrell,MichaelW.Lucas"
 starttime,20:00
 roomnosp,BoardofGovernors
 Start Date,5/3/2014
@@ -9957,7 +9957,7 @@ avneeds,none
 speakerlist,"['Caitlynn Poirier', 'Heather Gutterman', 'Taylor Watkins', 'Mary Poirier', 'Douglas Tobin']"
 hours,0
 totalminutes,50
-speakernosplist,['DouglasTobin']
+speakernosplist,"['CaitlynnPoirier', 'HeatherGutterman', 'TaylorWatkins', 'MaryPoirier', 'DouglasTobin']"
 caldescrip,"Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples."
 endtime,20:50
 AV Needs,
@@ -9967,7 +9967,7 @@ venue,Food Track (Room 1017)
 Book Description,"Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples."
 Presenters,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 csvsafedescrip,Fluffy- creamy- boozey- delicious-y... We have some lovely recipes to share. Live demo- including proper eating techniques. 21 and over- please. There will be samples.
-speakernosp,DouglasTobin
+speakernosp,"CaitlynnPoirier,HeatherGutterman,TaylorWatkins,MaryPoirier,DouglasTobin"
 starttime,20:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/3/2014
@@ -10041,7 +10041,7 @@ avneeds,Projector
 speakerlist,"['Justin Coluzzi', 'Kevin McLeod', 'Alex Drummer']"
 hours,1
 totalminutes,110
-speakernosplist,['AlexDrummer']
+speakernosplist,"['JustinColuzzi', 'KevinMcLeod', 'AlexDrummer']"
 caldescrip,"Trace the history of the Doctor through costuming elements of each one's style, and learn how to mix and match fashions to create your own Dr. Who look."
 endtime,21:50
 AV Needs,Projector
@@ -10051,7 +10051,7 @@ venue,Nicolet
 Book Description,"Trace the history of the Doctor through costuming elements of each one's style, and learn how to mix and match fashions to create your own Dr. Who look."
 Presenters,"Justin Coluzzi, Kevin McLeod, Alex Drummer"
 csvsafedescrip,Trace the history of the Doctor through costuming elements of each one's style- and learn how to mix and match fashions to create your own Dr. Who look.
-speakernosp,AlexDrummer
+speakernosp,"JustinColuzzi,KevinMcLeod,AlexDrummer"
 starttime,20:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -10083,7 +10083,7 @@ avneeds,"Projector, Sound System"
 speakerlist,"['Jeannette Quirk', 'Matthew Quirk', 'Kevin Hogan', 'Amy Conlon']"
 hours,4
 totalminutes,290
-speakernosplist,['AmyConlon']
+speakernosplist,"['JeannetteQuirk', 'MatthewQuirk', 'KevinHogan', 'AmyConlon']"
 caldescrip,"In short, the Smithee Awards are like the Anti-people's Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with 'honors' and who is left in the dust."
 endtime,0:50
 AV Needs,"Projector, Sound System"
@@ -10093,7 +10093,7 @@ venue,Portage Auditorium
 Book Description,"In short, the Smithee Awards are like the Anti-people's Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust."
 Presenters,"Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon"
 csvsafedescrip,In short- the Smithee Awards are like the Anti-people's Choice Awards. In long- they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories- 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with 'honors' and who is left in the dust.
-speakernosp,AmyConlon
+speakernosp,"JeannetteQuirk,MatthewQuirk,KevinHogan,AmyConlon"
 starttime,20:00
 roomnosp,PortageAuditorium
 Start Date,5/3/2014
@@ -10125,7 +10125,7 @@ avneeds,none
 speakerlist,"['Nuri Gocay', 'Dawn Kuczwara', 'Greg Williams', 'Scott Kennedy', 'Jer Lance', 'Christopher Pate']"
 hours,2
 totalminutes,170
-speakernosplist,['ChristopherPate']
+speakernosplist,"['NuriGocay', 'DawnKuczwara', 'GregWilliams', 'ScottKennedy', 'JerLance', 'ChristopherPate']"
 caldescrip,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
 endtime,22:50
 AV Needs,
@@ -10135,7 +10135,7 @@ venue,Windover
 Book Description,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
 Presenters,"Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate"
 csvsafedescrip,Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny- it's an irreverent and honest reflection of love- sex- and fandom. Find ways to woo- methods for making friends- and how to avoid being that creepy guy that we all talk about between conventions.
-speakernosp,ChristopherPate
+speakernosp,"NuriGocay,DawnKuczwara,GregWilliams,ScottKennedy,JerLance,ChristopherPate"
 starttime,20:00
 roomnosp,Windover
 Start Date,5/3/2014
@@ -10209,7 +10209,7 @@ avneeds,Projector
 speakerlist,"['Sarah Elkins', 'Cylithria Dubois']"
 hours,0
 totalminutes,50
-speakernosplist,['CylithriaDubois']
+speakernosplist,"['SarahElkins', 'CylithriaDubois']"
 caldescrip,"Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art, charts, technobabble, or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded!"
 endtime,21:50
 AV Needs,Projector
@@ -10219,7 +10219,7 @@ venue,Algonquin D
 Book Description,"Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art, charts, technobabble, or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded!"
 Presenters,"Sarah Elkins, Cylithria Dubois"
 csvsafedescrip,Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art- charts- technobabble- or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded!
-speakernosp,CylithriaDubois
+speakernosp,"SarahElkins,CylithriaDubois"
 starttime,21:00
 roomnosp,AlgonquinD
 Start Date,5/3/2014
@@ -10461,7 +10461,7 @@ avneeds,none
 speakerlist,"['Shannon Marshall', 'Maggie Maiville']"
 hours,0
 totalminutes,50
-speakernosplist,['MaggieMaiville']
+speakernosplist,"['ShannonMarshall', 'MaggieMaiville']"
 caldescrip,"Shannon and Maggie are BFF’s and they like to drink, a lot. Join us as hilarity ensues while the ladies drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick."
 endtime,21:50
 AV Needs,
@@ -10471,7 +10471,7 @@ venue,Charlevoix B
 Book Description,"Shannon and Maggie are BFF’s and they like to drink, a lot. Join us as hilarity ensues while the ladies drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick."
 Presenters,"Shannon Marshall, Maggie Maiville"
 csvsafedescrip,Shannon and Maggie are BFF’s and they like to drink- a lot. Join us as hilarity ensues while the ladies drink- eat cheese- and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly- during the recording- to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick.
-speakernosp,MaggieMaiville
+speakernosp,"ShannonMarshall,MaggieMaiville"
 starttime,21:00
 roomnosp,CharlevoixB
 Start Date,5/3/2014
@@ -10503,7 +10503,7 @@ avneeds,none
 speakerlist,"['Nathan Balyeat', 'Olesh Hotra', 'Cameron Taylor']"
 hours,1
 totalminutes,110
-speakernosplist,['CameronTaylor']
+speakernosplist,"['NathanBalyeat', 'OleshHotra', 'CameronTaylor']"
 caldescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops."
 endtime,22:50
 AV Needs,
@@ -10513,7 +10513,7 @@ venue,Food Track (Room 1017)
 Book Description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke? Are you an adult who adores rum and coke, but are looking to make one better? Are you interested in trying new things? Do you want to just get free drink samples? Sign-up at Ops."
 Presenters,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
 csvsafedescrip,Are you a responsible adult- over the age of 21- who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke- but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops.
-speakernosp,CameronTaylor
+speakernosp,"NathanBalyeat,OleshHotra,CameronTaylor"
 starttime,21:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/3/2014
@@ -10797,7 +10797,7 @@ avneeds,Projector
 speakerlist,"['Victoria Stapels', 'Sunny Smith', 'Michael McAtee ']"
 hours,0
 totalminutes,50
-speakernosplist,['MichaelMcAtee']
+speakernosplist,"['VictoriaStapels', 'SunnySmith', 'MichaelMcAtee']"
 caldescrip,"For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"
 endtime,22:50
 AV Needs,Projector
@@ -10807,7 +10807,7 @@ venue,Charlevoix C
 Book Description,"For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"
 Presenters,"Victoria Stapels, Sunny Smith, Michael McAtee "
 csvsafedescrip,For polyamorous folks and those who may be poly-curious- we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term- join us to discuss ethics and styles of poly and 'poly-cules'!
-speakernosp,MichaelMcAtee
+speakernosp,"VictoriaStapels,SunnySmith,MichaelMcAtee"
 starttime,22:00
 roomnosp,CharlevoixC
 Start Date,5/3/2014
@@ -10839,7 +10839,7 @@ avneeds,none
 speakerlist,"['Phil Chase', 'Dana Chase', 'Amy Joynt']"
 hours,0
 totalminutes,50
-speakernosplist,['AmyJoynt']
+speakernosplist,"['PhilChase', 'DanaChase', 'AmyJoynt']"
 caldescrip,"Many times, the terms 'swinger' and 'polyamorous' get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 endtime,22:50
 AV Needs,
@@ -10849,7 +10849,7 @@ venue,Nicolet
 Book Description,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated. Many times, they overlap. In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk. Similarly, one can also meet polyfolk who sneer a bit at swingers. But why? Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle."" The Venn Diagram might well inspire you. It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 Presenters,"Phil Chase, Dana Chase, Amy Joynt"
 csvsafedescrip,Many times- the terms 'swinger' and 'polyamorous' get conflated.  Many times- they overlap.  In the world of alternate relationship styles- one can meet swingers who look suspiciously upon polyfolk.  Similarly- one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean- get along?) This session is in audience-participation format (not like that- keep your kilts ON!) and seeks to get some of the common stereotypes out in the open- toward the goal of greater understanding on both sides of the 'aisle.'  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds- and it'll include an ask-us-anything time.
-speakernosp,AmyJoynt
+speakernosp,"PhilChase,DanaChase,AmyJoynt"
 starttime,22:00
 roomnosp,Nicolet
 Start Date,5/3/2014
@@ -10881,7 +10881,7 @@ avneeds,none
 speakerlist,"['Bob Trembley', 'Marie-therese Enga']"
 hours,1
 totalminutes,110
-speakernosplist,['Marie-thereseEnga']
+speakernosplist,"['BobTrembley', 'Marie-thereseEnga']"
 caldescrip,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
 endtime,23:50
 AV Needs,
@@ -10891,7 +10891,7 @@ venue,Outside
 Book Description,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
 Presenters,"Bob Trembley, Marie-therese Enga"
 csvsafedescrip,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
-speakernosp,Marie-thereseEnga
+speakernosp,"BobTrembley,Marie-thereseEnga"
 starttime,22:00
 roomnosp,Outside
 Start Date,5/3/2014
@@ -10923,7 +10923,7 @@ avneeds,Sound System
 speakerlist,"['Monotony', 'The One Electronic']"
 hours,0
 totalminutes,50
-speakernosplist,['TheOneElectronic']
+speakernosplist,"['Monotony', 'TheOneElectronic']"
 caldescrip,"Monotony is powered by two game boys running LSDJ, resulting in an assault of grungy, hyperactive, progressive, chiptune dance music. The One Electronic is an electronic artist who specializes in using vintage video game consoles to produce super lo-fi dance music, bringing you a fusion of retro video game sound with modern day EDM flair. Featuring live visuals by Ohhinaifu and Walk In Circles."
 endtime,23:50
 AV Needs,Sound System
@@ -10933,7 +10933,7 @@ venue,Algonquin B/C
 Book Description,"Monotony is powered by two game boys running LSDJ, resulting in an assault of grungy, hyperactive, progressive, chiptune dance music. The One Electronic is an electronic artist who specializes in using vintage video game consoles to produce super lo-fi dance music, bringing you a fusion of retro video game sound with modern day EDM flair. Featuring live visuals by Ohhinaifu and Walk In Circles."
 Presenters,"Monotony, The One Electronic"
 csvsafedescrip,Monotony is powered by two game boys running LSDJ- resulting in an assault of grungy- hyperactive- progressive- chiptune dance music. The One Electronic is an electronic artist who specializes in using vintage video game consoles to produce super lo-fi dance music- bringing you a fusion of retro video game sound with modern day EDM flair. Featuring live visuals by Ohhinaifu and Walk In Circles.
-speakernosp,TheOneElectronic
+speakernosp,"Monotony,TheOneElectronic"
 starttime,23:00
 roomnosp,AlgonquinBC
 Start Date,5/3/2014
@@ -11007,7 +11007,7 @@ avneeds,none
 speakerlist,"['King Pheenix', '2 Mello', 'Starf']"
 hours,0
 totalminutes,50
-speakernosplist,['Starf']
+speakernosplist,"['KingPheenix', '2Mello', 'Starf']"
 caldescrip,"What does a hurricane of comedy mixed with a tornado of entertainment sound like? If you said a stupid analogy, you are right. Scrubcast alumni King Pheenix, StarF, and 2 Mello, will rock your face off with laughter. With their own style of drunken riffing and random observation, this will be a night that you would regret missing."
 endtime,23:50
 AV Needs,
@@ -11017,7 +11017,7 @@ venue,Charlevoix B
 Book Description,"What does a hurricane of comedy mixed with a tornado of entertainment sound like? If you said a stupid analogy, you are right. Scrubcast alumni King Pheenix, StarF, and 2 Mello, will rock your face off with laughter. With their own style of drunken riffing and random observation, this will be a night that you would regret missing."
 Presenters,"King Pheenix, 2 Mello, Starf"
 csvsafedescrip,What does a hurricane of comedy mixed with a tornado of entertainment sound like? If you said a stupid analogy- you are right. Scrubcast alumni King Pheenix- StarF- and 2 Mello- will rock your face off with laughter. With their own style of drunken riffing and random observation- this will be a night that you would regret missing.
-speakernosp,Starf
+speakernosp,"KingPheenix,2Mello,Starf"
 starttime,23:00
 roomnosp,CharlevoixB
 Start Date,5/3/2014
@@ -11259,7 +11259,7 @@ avneeds,none
 speakerlist,"['Ed Platt', 'Jorge Castro', 'Eric Merrill', 'Matt Switlik']"
 hours,0
 totalminutes,50
-speakernosplist,['MattSwitlik']
+speakernosplist,"['EdPlatt', 'JorgeCastro', 'EricMerrill', 'MattSwitlik']"
 caldescrip,"Love free and open source software?  Want to find a way to get paid to work on it?  Our panelists have found a way to do it, come find out how you can too!"
 endtime,9:50
 AV Needs,
@@ -11269,7 +11269,7 @@ venue,Charlevoix C
 Book Description,"Love free and open source software? Want to find a way to get paid to work on it? Our panelists have found a way to do it, come find out how you can too!"
 Presenters,"Ed Platt, Jorge Castro, Eric Merrill, Matt Switlik"
 csvsafedescrip,Love free and open source software?  Want to find a way to get paid to work on it?  Our panelists have found a way to do it- come find out how you can too!
-speakernosp,MattSwitlik
+speakernosp,"EdPlatt,JorgeCastro,EricMerrill,MattSwitlik"
 starttime,9:00
 roomnosp,CharlevoixC
 Start Date,5/3/2014
@@ -11469,7 +11469,7 @@ avneeds,Sound System
 speakerlist,"['barbeque', 'snesei']"
 hours,0
 totalminutes,50
-speakernosplist,['snesei']
+speakernosplist,"['barbeque', 'snesei']"
 caldescrip,"Barbeque creates luscious soundscapes and rhythms designed to flush out memories past, and bring about visions of the future. Snesei's music is the sound of a Nintendo Gameboy mixed with sugar, spice, and everything nice. Featuring live visuals by Ohhinaifu and Walk In Circles."
 endtime,0:50
 AV Needs,Sound System
@@ -11479,7 +11479,7 @@ venue,Algonquin B/C
 Book Description,"Barbeque creates luscious soundscapes and rhythms designed to flush out memories past, and bring about visions of the future. Snesei's music is the sound of a Nintendo Gameboy mixed with sugar, spice, and everything nice. Featuring live visuals by Ohhinaifu and Walk In Circles."
 Presenters,"barbeque, snesei"
 csvsafedescrip,Barbeque creates luscious soundscapes and rhythms designed to flush out memories past- and bring about visions of the future. Snesei's music is the sound of a Nintendo Gameboy mixed with sugar- spice- and everything nice. Featuring live visuals by Ohhinaifu and Walk In Circles.
-speakernosp,snesei
+speakernosp,"barbeque,snesei"
 starttime,0:00
 roomnosp,AlgonquinBC
 Start Date,5/4/2014
@@ -11559,7 +11559,7 @@ avneeds,none
 speakerlist,"['Thaddeus Micelli', 'Shoofle Munroe', 'Steve ""Spark"" Grandpre']"
 hours,1
 totalminutes,110
-speakernosplist,"['Steve""Spark""Grandpre']"
+speakernosplist,"['ThaddeusMicelli', 'ShoofleMunroe', 'Steve""Spark""Grandpre']"
 caldescrip,"Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.
 
 First Hour: FlowCentrics
@@ -11575,7 +11575,7 @@ venue,Algonquin B/C
 Book Description,"Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome. First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details) Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!"
 Presenters,"Thaddeus Micelli, Shoofle Munroe, Steve ""Spark"" Grandpre"
 csvsafedescrip,Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.  First Hour: FlowCentrics Meant for those with little to no experience- this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi- staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow- all skill levels are welcome. (Wanna help? Show up half an hour prior for details)  Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!
-speakernosp,"Steve""Spark""Grandpre"
+speakernosp,"ThaddeusMicelli,ShoofleMunroe,Steve""Spark""Grandpre"
 starttime,10:00
 roomnosp,AlgonquinBC
 Start Date,5/4/2014
@@ -11649,7 +11649,7 @@ avneeds,none
 speakerlist,"['Sasha Brandt', 'Charles Davey']"
 hours,0
 totalminutes,50
-speakernosplist,['CharlesDavey']
+speakernosplist,"['SashaBrandt', 'CharlesDavey']"
 caldescrip,"Do you ever blow a from your bottle of Miracle Bubbles and wonder if that's as big as they get? Do you wish your bubbles lasted longer? Have you ever wanted to startle neighbors with a bubble the size of a small child floating over your roof? We can help! Come learn the basics of bubble mixology, make some wands for a more vast bubble experience, and then come play as we take our new toys for a test drive after the panel!"
 endtime,10:50
 AV Needs,
@@ -11659,7 +11659,7 @@ venue,Board of Regents
 Book Description,"Do you ever blow a from your bottle of Miracle Bubbles and wonder if that's as big as they get? Do you wish your bubbles lasted longer? Have you ever wanted to startle neighbors with a bubble the size of a small child floating over your roof? We can help! Come learn the basics of bubble mixology, make some wands for a more vast bubble experience, and then come play as we take our new toys for a test drive after the panel!"
 Presenters,"Sasha Brandt, Charles Davey"
 csvsafedescrip,Do you ever blow a from your bottle of Miracle Bubbles and wonder if that's as big as they get? Do you wish your bubbles lasted longer? Have you ever wanted to startle neighbors with a bubble the size of a small child floating over your roof? We can help! Come learn the basics of bubble mixology- make some wands for a more vast bubble experience- and then come play as we take our new toys for a test drive after the panel!
-speakernosp,CharlesDavey
+speakernosp,"SashaBrandt,CharlesDavey"
 starttime,10:00
 roomnosp,BoardofRegents
 Start Date,5/4/2014
@@ -11733,7 +11733,7 @@ avneeds,none
 speakerlist,"['Matthew Duhan', 'Matt Arnold']"
 hours,0
 totalminutes,50
-speakernosplist,['MattArnold']
+speakernosplist,"['MatthewDuhan', 'MattArnold']"
 caldescrip,"What does it take to design and produce a new game? We will discuss all aspects, from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q&A panel so bring your questions!"
 endtime,10:50
 AV Needs,
@@ -11743,7 +11743,7 @@ venue,Charlevoix A
 Book Description,"What does it take to design and produce a new game? We will discuss all aspects, from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q and A panel so bring your questions!"
 Presenters,"Matthew Duhan, Matt Arnold"
 csvsafedescrip,What does it take to design and produce a new game? We will discuss all aspects- from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q&A panel so bring your questions!
-speakernosp,MattArnold
+speakernosp,"MatthewDuhan,MattArnold"
 starttime,10:00
 roomnosp,CharlevoixA
 Start Date,5/4/2014
@@ -11775,7 +11775,7 @@ avneeds,none
 speakerlist,"['Stu Chisholm', 'Rob Reed', 'Eric S. Raymond', 'Richard Houser', 'Richard Herrell']"
 hours,0
 totalminutes,50
-speakernosplist,['RichardHerrell']
+speakernosplist,"['StuChisholm', 'RobReed', 'EricS.Raymond', 'RichardHouser', 'RichardHerrell']"
 caldescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 endtime,10:50
 AV Needs,
@@ -11785,7 +11785,7 @@ venue,Charlevoix B
 Book Description,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 Presenters,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell"
 csvsafedescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
-speakernosp,RichardHerrell
+speakernosp,"StuChisholm,RobReed,EricS.Raymond,RichardHouser,RichardHerrell"
 starttime,10:00
 roomnosp,CharlevoixB
 Start Date,5/4/2014
@@ -11817,7 +11817,7 @@ avneeds,none
 speakerlist,"['Heather Gutterman', 'Caitlynn Poirier', 'Taylor Watkins', 'Mary Poirier', 'Douglas Tobin']"
 hours,0
 totalminutes,50
-speakernosplist,['DouglasTobin']
+speakernosplist,"['HeatherGutterman', 'CaitlynnPoirier', 'TaylorWatkins', 'MaryPoirier', 'DouglasTobin']"
 caldescrip,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
 endtime,10:50
 AV Needs,
@@ -11827,7 +11827,7 @@ venue,Food Track (Room 1017)
 Book Description,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
 Presenters,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins, Mary Poirier, Douglas Tobin"
 csvsafedescrip,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
-speakernosp,DouglasTobin
+speakernosp,"HeatherGutterman,CaitlynnPoirier,TaylorWatkins,MaryPoirier,DouglasTobin"
 starttime,10:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/4/2014
@@ -12111,7 +12111,7 @@ avneeds,none
 speakerlist,"['Ernie Cline', 'Ed Mason', 'John Scalzi']"
 hours,0
 totalminutes,50
-speakernosplist,['JohnScalzi']
+speakernosplist,"['ErnieCline', 'EdMason', 'JohnScalzi']"
 caldescrip,"With the Oculus Rift being bought by media giant Facebook, the cautionary tales of science fiction seem closer than ever to reality.  Join authors Ernie Cline and John Scalzi, and Android VR creator Gameface Labs, as they talk about where our communal virtual fantasy is headed."
 endtime,10:50
 AV Needs,
@@ -12121,7 +12121,7 @@ venue,Windover
 Book Description,"With the Oculus Rift being bought by media giant Facebook, the cautionary tales of science fiction seem closer than ever to reality. Join authors Ernie Cline and John Scalzi, and Android VR creator Gameface Labs, as they talk about where our communal virtual fantasy is headed."
 Presenters,"Ernie Cline, Ed Mason, John Scalzi"
 csvsafedescrip,With the Oculus Rift being bought by media giant Facebook- the cautionary tales of science fiction seem closer than ever to reality.  Join authors Ernie Cline and John Scalzi- and Android VR creator Gameface Labs- as they talk about where our communal virtual fantasy is headed.
-speakernosp,JohnScalzi
+speakernosp,"ErnieCline,EdMason,JohnScalzi"
 starttime,10:00
 roomnosp,Windover
 Start Date,5/4/2014
@@ -12154,7 +12154,7 @@ avneeds,none
 speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Michael Spagnolio', 'Douglas Tobin', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,"Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds.
 "
 endtime,11:50
@@ -12165,7 +12165,7 @@ venue,Algonquin A
 Book Description,Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds. 
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds. 
-speakernosp,HeatherGutterman
+speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,11:00
 roomnosp,AlgonquinA
 Start Date,5/4/2014
@@ -12239,7 +12239,7 @@ avneeds,none
 speakerlist,"['StarF', 'Val Hundreds', 'Moses Jackson', 'James Fernandez', 'BluRaven C. Houvener']"
 hours,0
 totalminutes,50
-speakernosplist,['BluRavenC.Houvener']
+speakernosplist,"['StarF', 'ValHundreds', 'MosesJackson', 'JamesFernandez', 'BluRavenC.Houvener']"
 caldescrip,"Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault?"
 endtime,11:50
 AV Needs,
@@ -12249,7 +12249,7 @@ venue,Board of Governors
 Book Description,"Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire? Is sequel-itis all our fault?"
 Presenters,"StarF, Val Hundreds, Moses Jackson, James Fernandez, BluRaven C. Houvener"
 csvsafedescrip,Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback- or are we encouraging authors- artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault?
-speakernosp,BluRavenC.Houvener
+speakernosp,"StarF,ValHundreds,MosesJackson,JamesFernandez,BluRavenC.Houvener"
 starttime,11:00
 roomnosp,BoardofGovernors
 Start Date,5/4/2014
@@ -12407,7 +12407,7 @@ avneeds,Projector
 speakerlist,"['Nick Farr', 'Eva Galperin', 'Jeff Goeke-Smith', 'Jolly']"
 hours,0
 totalminutes,50
-speakernosplist,['Jolly']
+speakernosplist,"['NickFarr', 'EvaGalperin', 'JeffGoeke-Smith', 'Jolly']"
 caldescrip,"There are only three rules: Ridiculous, Plausible, Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science, stay for the laughs!"
 endtime,11:50
 AV Needs,Projector
@@ -12417,7 +12417,7 @@ venue,Charlevoix C
 Book Description,"There are only three rules: Ridiculous, Plausible, Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science, stay for the laughs!"
 Presenters,"Nick Farr, Eva Galperin, Jeff Goeke-Smith, Jolly"
 csvsafedescrip,There are only three rules: Ridiculous- Plausible- Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science- stay for the laughs!
-speakernosp,Jolly
+speakernosp,"NickFarr,EvaGalperin,JeffGoeke-Smith,Jolly"
 starttime,11:00
 roomnosp,CharlevoixC
 Start Date,5/4/2014
@@ -12449,7 +12449,7 @@ avneeds,none
 speakerlist,"['Sarah Elkins', 'Phil Salkie']"
 hours,1
 totalminutes,110
-speakernosplist,['PhilSalkie']
+speakernosplist,"['SarahElkins', 'PhilSalkie']"
 caldescrip,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
 endtime,12:50
 AV Needs,
@@ -12459,7 +12459,7 @@ venue,Con Suite
 Book Description,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch! All LN2 sessions will offer dairy-free and sugar-free options upon request."
 Presenters,"Sarah Elkins, Phil Salkie"
 csvsafedescrip,Come enjoy (and help us make) breakfast ice creams- from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request.
-speakernosp,PhilSalkie
+speakernosp,"SarahElkins,PhilSalkie"
 starttime,11:00
 roomnosp,ConSuite
 Start Date,5/4/2014
@@ -12575,7 +12575,7 @@ avneeds,Projector
 speakerlist,"['Jessica Roland', 'Kristy Currier', 'Chris Roland', 'Heather Aman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherAman']
+speakernosplist,"['JessicaRoland', 'KristyCurrier', 'ChrisRoland', 'HeatherAman']"
 caldescrip,"The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences.  We will explore how changing our perspective on mental health issues, from one focused on disability to one highlighting ability, can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on 'can't.'"
 endtime,11:50
 AV Needs,Projector
@@ -12585,7 +12585,7 @@ venue,Nicolet
 Book Description,"The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences. We will explore how changing our perspective on mental health issues, from one focused on disability to one highlighting ability, can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on ""can't."""
 Presenters,"Jessica Roland, Kristy Currier, Chris Roland, Heather Aman"
 csvsafedescrip,The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences.  We will explore how changing our perspective on mental health issues- from one focused on disability to one highlighting ability- can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on 'can't.'
-speakernosp,HeatherAman
+speakernosp,"JessicaRoland,KristyCurrier,ChrisRoland,HeatherAman"
 starttime,11:00
 roomnosp,Nicolet
 Start Date,5/4/2014
@@ -12701,7 +12701,7 @@ avneeds,Projector
 speakerlist,"['Amara Sugalski', 'Catherine Shaffer', 'Jessica Roland']"
 hours,0
 totalminutes,50
-speakernosplist,['JessicaRoland']
+speakernosplist,"['AmaraSugalski', 'CatherineShaffer', 'JessicaRoland']"
 caldescrip,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
 endtime,12:50
 AV Needs,Projector
@@ -12711,7 +12711,7 @@ venue,Algonquin D
 Book Description,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
 Presenters,"Amara Sugalski, Catherine Shaffer, Jessica Roland"
 csvsafedescrip,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
-speakernosp,JessicaRoland
+speakernosp,"AmaraSugalski,CatherineShaffer,JessicaRoland"
 starttime,12:00
 roomnosp,AlgonquinD
 Start Date,5/4/2014
@@ -12743,7 +12743,7 @@ avneeds,none
 speakerlist,"['CJ Tremlett', 'Alex Page']"
 hours,0
 totalminutes,50
-speakernosplist,['AlexPage']
+speakernosplist,"['CJTremlett', 'AlexPage']"
 caldescrip,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
 endtime,12:50
 AV Needs,
@@ -12753,7 +12753,7 @@ venue,Baldwin Board Room
 Book Description,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
 Presenters,"CJ Tremlett, Alex Page"
 csvsafedescrip,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
-speakernosp,AlexPage
+speakernosp,"CJTremlett,AlexPage"
 starttime,12:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/4/2014
@@ -12911,7 +12911,7 @@ avneeds,none
 speakerlist,"['King Pheenix', '2 Mello', 'Starf']"
 hours,0
 totalminutes,50
-speakernosplist,['Starf']
+speakernosplist,"['KingPheenix', '2Mello', 'Starf']"
 caldescrip,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
 endtime,12:50
 AV Needs,
@@ -12921,7 +12921,7 @@ venue,Charlevoix A
 Book Description,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
 Presenters,"King Pheenix, 2 Mello, Starf"
 csvsafedescrip,Scrub Club Records is the world's first and only- not for profit- independent- open source music label. Many people have questions on what it takes to be successful independently- and we are here to help! King Pheenix- StarF and 2 Mello will take your questions- and give you answers ranging from inspirational- to possibly insane- but always entertaining. Music is love -- let's spread it.
-speakernosp,Starf
+speakernosp,"KingPheenix,2Mello,Starf"
 starttime,12:00
 roomnosp,CharlevoixA
 Start Date,5/4/2014
@@ -12953,7 +12953,7 @@ avneeds,none
 speakerlist,"['Derek Newland', 'Nathan Balyeat']"
 hours,0
 totalminutes,50
-speakernosplist,['NathanBalyeat']
+speakernosplist,"['DerekNewland', 'NathanBalyeat']"
 caldescrip,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
 endtime,12:50
 AV Needs,
@@ -12963,7 +12963,7 @@ venue,Charlevoix B
 Book Description,"Back once again! After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage. There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them! "
 Presenters,"Derek Newland, Nathan Balyeat"
 csvsafedescrip,Back once again!  After signing a waiver- come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period- then any member of the audience who feels up to it can come try it out to see how it works for them!  
-speakernosp,NathanBalyeat
+speakernosp,"DerekNewland,NathanBalyeat"
 starttime,12:00
 roomnosp,CharlevoixB
 Start Date,5/4/2014
@@ -12995,7 +12995,7 @@ avneeds,Projector
 speakerlist,"['Alex Drummer', 'Kevin McLeod', 'Justin Coluzzi']"
 hours,0
 totalminutes,50
-speakernosplist,['JustinColuzzi']
+speakernosplist,"['AlexDrummer', 'KevinMcLeod', 'JustinColuzzi']"
 caldescrip,"Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in, however, might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works."
 endtime,12:50
 AV Needs,Projector
@@ -13005,7 +13005,7 @@ venue,Charlevoix C
 Book Description,"Nerf guns and blasters are an amazing source for cosplay weaponry. The bright yellow and blue colors they come in, however, might distract from your costume. In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting. We will even show you how to put it back together so it still works."
 Presenters,"Alex Drummer, Kevin McLeod, Justin Coluzzi"
 csvsafedescrip,Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in- however- might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works.
-speakernosp,JustinColuzzi
+speakernosp,"AlexDrummer,KevinMcLeod,JustinColuzzi"
 starttime,12:00
 roomnosp,CharlevoixC
 Start Date,5/4/2014
@@ -13209,7 +13209,7 @@ avneeds,Projector
 speakerlist,"['BluRaven C. Houvener', 'Gabrielle Gamache-Nettles', 'Lainey Carroll', 'Sam Vernier']"
 hours,0
 totalminutes,50
-speakernosplist,['SamVernier']
+speakernosplist,"['BluRavenC.Houvener', 'GabrielleGamache-Nettles', 'LaineyCarroll', 'SamVernier']"
 caldescrip,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
 endtime,12:50
 AV Needs,Projector
@@ -13219,7 +13219,7 @@ venue,Montcalm
 Book Description,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
 Presenters,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 csvsafedescrip,Join a webcomic artist that dabbles in film- a film maker- a cosplayer- and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!
-speakernosp,SamVernier
+speakernosp,"BluRavenC.Houvener,GabrielleGamache-Nettles,LaineyCarroll,SamVernier"
 starttime,12:00
 roomnosp,Montcalm
 Start Date,5/4/2014
@@ -13293,7 +13293,7 @@ avneeds,none
 speakerlist,"['Bob Trembley', 'Marie-therese Enga']"
 hours,1
 totalminutes,110
-speakernosplist,['Marie-thereseEnga']
+speakernosplist,"['BobTrembley', 'Marie-thereseEnga']"
 caldescrip,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
 endtime,13:50
 AV Needs,
@@ -13303,7 +13303,7 @@ venue,Outside
 Book Description,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
 Presenters,"Bob Trembley, Marie-therese Enga"
 csvsafedescrip,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
-speakernosp,Marie-thereseEnga
+speakernosp,"BobTrembley,Marie-thereseEnga"
 starttime,12:00
 roomnosp,Outside
 Start Date,5/4/2014
@@ -13335,7 +13335,7 @@ avneeds,none
 speakerlist,"['Taylor Watkins', 'Douglas Scholl', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['TaylorWatkins', 'DouglasScholl', 'HeatherGutterman']"
 caldescrip,"Increasingly, we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
 endtime,12:50
 AV Needs,
@@ -13345,7 +13345,7 @@ venue,Windover
 Book Description,"Increasingly, we are developing the ability to study the martial traditions of many western cultures. This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
 Presenters,"Taylor Watkins, Douglas Scholl, Heather Gutterman"
 csvsafedescrip,Increasingly- we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy- source materials- tools- and techniques of modern Western martial arts.
-speakernosp,HeatherGutterman
+speakernosp,"TaylorWatkins,DouglasScholl,HeatherGutterman"
 starttime,12:00
 roomnosp,Windover
 Start Date,5/4/2014
@@ -13503,7 +13503,7 @@ avneeds,none
 speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender']"
 hours,0
 totalminutes,50
-speakernosplist,['ChristineBender']
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender']"
 caldescrip,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
 endtime,13:50
 AV Needs,
@@ -13513,7 +13513,7 @@ venue,Board of Regents
 Book Description,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
 Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender"
 csvsafedescrip,Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention- come offer your soul- your firstborn child... or just your help. 
-speakernosp,ChristineBender
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender"
 starttime,13:00
 roomnosp,BoardofRegents
 Start Date,5/4/2014
@@ -13545,7 +13545,7 @@ avneeds,none
 speakerlist,"['Marie Staver', 'Neil Funk']"
 hours,0
 totalminutes,50
-speakernosplist,['NeilFunk']
+speakernosplist,"['MarieStaver', 'NeilFunk']"
 caldescrip,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts.  "
 endtime,13:50
 AV Needs,
@@ -13555,7 +13555,7 @@ venue,Board of Trustees
 Book Description,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping? Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts. "
 Presenters,"Marie Staver, Neil Funk"
 csvsafedescrip,Have you ever tried- or wanted to try- polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences- your curiosity- or your doubts.  
-speakernosp,NeilFunk
+speakernosp,"MarieStaver,NeilFunk"
 starttime,13:00
 roomnosp,BoardofTrustees
 Start Date,5/4/2014
@@ -13587,7 +13587,7 @@ avneeds,none
 speakerlist,"['Ohhinaifu', 'The One Electronic', 'snesei', 'boaconstructor', 'barbeque']"
 hours,0
 totalminutes,50
-speakernosplist,['barbeque']
+speakernosplist,"['Ohhinaifu', 'TheOneElectronic', 'snesei', 'boaconstructor', 'barbeque']"
 caldescrip,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
 endtime,13:50
 AV Needs,
@@ -13597,7 +13597,7 @@ venue,Charlevoix A
 Book Description,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around! Check out this session if you're new to the chip/pixel world!
 Presenters,"Ohhinaifu, The One Electronic, snesei, boaconstructor, barbeque"
 csvsafedescrip,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
-speakernosp,barbeque
+speakernosp,"Ohhinaifu,TheOneElectronic,snesei,boaconstructor,barbeque"
 starttime,13:00
 roomnosp,CharlevoixA
 Start Date,5/4/2014
@@ -13629,7 +13629,7 @@ avneeds,none
 speakerlist,"['Julie Hargraves', 'DeWain Molter']"
 hours,0
 totalminutes,50
-speakernosplist,['DeWainMolter']
+speakernosplist,"['JulieHargraves', 'DeWainMolter']"
 caldescrip,"Raising children can be quite a challenge at any age.  There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
 endtime,13:50
 AV Needs,
@@ -13639,7 +13639,7 @@ venue,Charlevoix B
 Book Description,"Raising children can be quite a challenge at any age. There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
 Presenters,"Julie Hargraves, DeWain Molter"
 csvsafedescrip,Raising children can be quite a challenge at any age.  There is no right or wrong way to parent- but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be.
-speakernosp,DeWainMolter
+speakernosp,"JulieHargraves,DeWainMolter"
 starttime,13:00
 roomnosp,CharlevoixB
 Start Date,5/4/2014
@@ -13713,7 +13713,7 @@ avneeds,none
 speakerlist,"['Dean Martelle', 'Linda Martelle']"
 hours,3
 totalminutes,180
-speakernosplist,['LindaMartelle']
+speakernosplist,"['DeanMartelle', 'LindaMartelle']"
 caldescrip,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 endtime,16:00
 AV Needs,
@@ -13723,7 +13723,7 @@ venue,Lobby
 Book Description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 Presenters,"Dean Martelle, Linda Martelle"
 csvsafedescrip,Enjoy a fun and relaxing session of painting miniature figures- even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques- including drybrushing- washes- and face elements- including the always tricky eyes. Some free figures available (one per person per day).
-speakernosp,LindaMartelle
+speakernosp,"DeanMartelle,LindaMartelle"
 starttime,13:00
 roomnosp,Lobby
 Start Date,5/4/2014
@@ -13839,7 +13839,7 @@ avneeds,"Projector, Sound System"
 speakerlist,"['Shannon Marshall', 'Heather Gutterman', 'Mary Poirier', 'Caitlynn Poirier', 'Eva Galperin']"
 hours,0
 totalminutes,50
-speakernosplist,['EvaGalperin']
+speakernosplist,"['ShannonMarshall', 'HeatherGutterman', 'MaryPoirier', 'CaitlynnPoirier', 'EvaGalperin']"
 caldescrip,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
 endtime,13:50
 AV Needs,"Projector, Sound System"
@@ -13849,7 +13849,7 @@ venue,Portage Auditorium
 Book Description,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
 Presenters,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
 csvsafedescrip,Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques- “prop” fighting- and swordsmanship in each clip.
-speakernosp,EvaGalperin
+speakernosp,"ShannonMarshall,HeatherGutterman,MaryPoirier,CaitlynnPoirier,EvaGalperin"
 starttime,13:00
 roomnosp,PortageAuditorium
 Start Date,5/4/2014
@@ -14261,7 +14261,7 @@ avneeds,none
 speakerlist,"['Bill Putt', 'Anthony Distel']"
 hours,0
 totalminutes,50
-speakernosplist,['AnthonyDistel']
+speakernosplist,"['BillPutt', 'AnthonyDistel']"
 caldescrip,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
 endtime,14:50
 AV Needs,
@@ -14271,7 +14271,7 @@ venue,Con Suite
 Book Description,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
 Presenters,"Bill Putt, Anthony Distel"
 csvsafedescrip,Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it- why they use different processes- and take suggestions for flavors from the audience.
-speakernosp,AnthonyDistel
+speakernosp,"BillPutt,AnthonyDistel"
 starttime,14:00
 roomnosp,ConSuite
 Start Date,5/4/2014
@@ -14303,7 +14303,7 @@ avneeds,none
 speakerlist,"['Caitlynn Poirier', 'Heather Gutterman', 'Taylor Watkins']"
 hours,0
 totalminutes,50
-speakernosplist,['TaylorWatkins']
+speakernosplist,"['CaitlynnPoirier', 'HeatherGutterman', 'TaylorWatkins']"
 caldescrip,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
 endtime,14:50
 AV Needs,
@@ -14313,7 +14313,7 @@ venue,Food Track (Room 1017)
 Book Description,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end! 21 and over, please."
 Presenters,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
 csvsafedescrip,Mead is delicious. Everybody loves mead- unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over- please.
-speakernosp,TaylorWatkins
+speakernosp,"CaitlynnPoirier,HeatherGutterman,TaylorWatkins"
 starttime,14:00
 roomnosp,FoodTrackRoom1017
 Start Date,5/4/2014
@@ -14513,7 +14513,7 @@ avneeds,"Projector, Sound System"
 speakerlist,"['Shannon Marshall', 'Maggie Maiville', 'Caitlynn Poirier']"
 hours,0
 totalminutes,50
-speakernosplist,['CaitlynnPoirier']
+speakernosplist,"['ShannonMarshall', 'MaggieMaiville', 'CaitlynnPoirier']"
 caldescrip,'The status is not quo.' 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog.' Costumes welcome!
 endtime,14:50
 AV Needs,"Projector, Sound System"
@@ -14523,7 +14523,7 @@ venue,Portage Auditorium
 Book Description,"""The status is not quo."" 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog."" Costumes welcome!"
 Presenters,"Shannon Marshall, Maggie Maiville, Caitlynn Poirier"
 csvsafedescrip,'The status is not quo.' 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog.' Costumes welcome!
-speakernosp,CaitlynnPoirier
+speakernosp,"ShannonMarshall,MaggieMaiville,CaitlynnPoirier"
 starttime,14:00
 roomnosp,PortageAuditorium
 Start Date,5/4/2014
@@ -14555,7 +14555,7 @@ avneeds,none
 speakerlist,"['Ken MacGreggor', 'Mary Lynne Gibbs', 'Nicole Castle', 'John Scalzi']"
 hours,1
 totalminutes,110
-speakernosplist,['JohnScalzi']
+speakernosplist,"['KenMacGreggor', 'MaryLynneGibbs', 'NicoleCastle', 'JohnScalzi']"
 caldescrip,Readings by Literature Track Guests and Panelists
 endtime,15:50
 AV Needs,
@@ -14565,7 +14565,7 @@ venue,Windover
 Book Description,Readings by Literature Track Guests and Panelists
 Presenters,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi"
 csvsafedescrip,Readings by Literature Track Guests and Panelists
-speakernosp,JohnScalzi
+speakernosp,"KenMacGreggor,MaryLynneGibbs,NicoleCastle,JohnScalzi"
 starttime,14:00
 roomnosp,Windover
 Start Date,5/4/2014
@@ -14597,7 +14597,7 @@ avneeds,none
 speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Michael Spagnolio', 'Douglas Tobin', 'Heather Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherGutterman']
+speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
 caldescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
 endtime,15:50
 AV Needs,
@@ -14607,7 +14607,7 @@ venue,Algonquin A
 Book Description,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 csvsafedescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in ops.
-speakernosp,HeatherGutterman
+speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,15:00
 roomnosp,AlgonquinA
 Start Date,5/4/2014
@@ -14723,7 +14723,7 @@ avneeds,none
 speakerlist,"['Robert Gilbert', 'Melanie Gilbert']"
 hours,0
 totalminutes,50
-speakernosplist,['MelanieGilbert']
+speakernosplist,"['RobertGilbert', 'MelanieGilbert']"
 caldescrip,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast & crew of Midnight Monster Movies with Dr. Bob with Q&A.
 endtime,15:50
 AV Needs,
@@ -14733,7 +14733,7 @@ venue,Board of Governors
 Book Description,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast and crew of Midnight Monster Movies with Dr. Bob with Q and A.
 Presenters,"Robert Gilbert, Melanie Gilbert"
 csvsafedescrip,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast & crew of Midnight Monster Movies with Dr. Bob with Q&A.
-speakernosp,MelanieGilbert
+speakernosp,"RobertGilbert,MelanieGilbert"
 starttime,15:00
 roomnosp,BoardofGovernors
 Start Date,5/4/2014
@@ -14807,7 +14807,7 @@ avneeds,none
 speakerlist,"['Janet Gocay', 'Nuri Gocay', 'Scott Kennedy', 'Steve Gutterman']"
 hours,0
 totalminutes,50
-speakernosplist,['SteveGutterman']
+speakernosplist,"['JanetGocay', 'NuriGocay', 'ScottKennedy', 'SteveGutterman']"
 caldescrip,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
 endtime,15:50
 AV Needs,
@@ -14817,7 +14817,7 @@ venue,Board of Trustees
 Book Description,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
 Presenters,"Janet Gocay, Nuri Gocay, Scott Kennedy, Steve Gutterman"
 csvsafedescrip,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
-speakernosp,SteveGutterman
+speakernosp,"JanetGocay,NuriGocay,ScottKennedy,SteveGutterman"
 starttime,15:00
 roomnosp,BoardofTrustees
 Start Date,5/4/2014
@@ -14891,7 +14891,7 @@ avneeds,none
 speakerlist,"['William Meyer', 'Kim Horger']"
 hours,0
 totalminutes,50
-speakernosplist,['KimHorger']
+speakernosplist,"['WilliamMeyer', 'KimHorger']"
 caldescrip,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 endtime,15:50
 AV Needs,
@@ -14901,7 +14901,7 @@ venue,Gaming (Restaurant)
 Book Description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 Presenters,"William Meyer, Kim Horger"
 csvsafedescrip,In MovieMashups- teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards.
-speakernosp,KimHorger
+speakernosp,"WilliamMeyer,KimHorger"
 starttime,15:00
 roomnosp,GamingRestaurant
 Start Date,5/4/2014
@@ -15059,7 +15059,7 @@ avneeds,"Microphone, Sound System"
 speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Ed Mason', 'Erika Carlson', 'Eva Galperin', 'Ernie Cline', 'YTCracker']"
 hours,0
 totalminutes,50
-speakernosplist,['YTCracker']
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'EdMason', 'ErikaCarlson', 'EvaGalperin', 'ErnieCline', 'YTCracker']"
 caldescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 endtime,16:50
 AV Needs,"Microphone, Sound System"
@@ -15069,7 +15069,7 @@ venue,Algonquin B/C
 Book Description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Ed Mason, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 csvsafedescrip,As we officially shut down another amazing- exciting year for Penguicon- come hear about how it went- and what we've got our eye on for next year.
-speakernosp,YTCracker
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,EdMason,ErikaCarlson,EvaGalperin,ErnieCline,YTCracker"
 starttime,16:00
 roomnosp,AlgonquinBC
 Start Date,5/4/2014
@@ -15353,7 +15353,7 @@ avneeds,none
 speakerlist,"['Mat Enders', 'Mary Tomich', 'Tony Bemus']"
 hours,1
 totalminutes,110
-speakernosplist,['TonyBemus']
+speakernosplist,"['MatEnders', 'MaryTomich', 'TonyBemus']"
 caldescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 endtime,10:50
 AV Needs,
@@ -15363,7 +15363,7 @@ venue,Baldwin Board Room
 Book Description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Presenters,"Mat Enders, Mary Tomich, Tony Bemus"
 csvsafedescrip,Tony- Mat- and Mary record an episode of their popular Linux podcast- the Sunday Morning Linux Review
-speakernosp,TonyBemus
+speakernosp,"MatEnders,MaryTomich,TonyBemus"
 starttime,9:00
 roomnosp,BaldwinBoardRoom
 Start Date,5/4/2014
@@ -15521,7 +15521,7 @@ avneeds,none
 speakerlist,"['Stu Chisholm', 'Richard Houser']"
 hours,0
 totalminutes,50
-speakernosplist,['RichardHouser']
+speakernosplist,"['StuChisholm', 'RichardHouser']"
 caldescrip,"Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately.  What are the relevant laws, and what should you expect?  Why would someone want to carry a weapon in the first place?  What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics.  Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints.  Some people have extremely strong views on the subject of gun control.  We expect participants to respect the views of others.  Anyone unable to do so will be asked to leave."
 endtime,9:50
 AV Needs,
@@ -15531,7 +15531,7 @@ venue,Charlevoix B
 Book Description,"Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately. What are the relevant laws, and what should you expect? Why would someone want to carry a weapon in the first place? What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics. Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints. Some people have extremely strong views on the subject of gun control. We expect participants to respect the views of others. Anyone unable to do so will be asked to leave."
 Presenters,"Stu Chisholm, Richard Houser"
 csvsafedescrip,Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately.  What are the relevant laws- and what should you expect?  Why would someone want to carry a weapon in the first place?  What does this really mean with respect to your rights- safety- encounters with those carrying in public- and any response from law enforcement? Join our panelists in a discussion on these and related topics.  Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications- and there may be conflicting viewpoints.  Some people have extremely strong views on the subject of gun control.  We expect participants to respect the views of others.  Anyone unable to do so will be asked to leave.
-speakernosp,RichardHouser
+speakernosp,"StuChisholm,RichardHouser"
 starttime,9:00
 roomnosp,CharlevoixB
 Start Date,5/4/2014

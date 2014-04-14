@@ -287,12 +287,16 @@ for index, x in enumerate(pconsched.schedule):
    
     
     session['speakerlist'] = session['speakers'].split(", ")
+    session['speakernosp'] = ""
     for speaker in session['speakerlist']:
             tempspeaker = re.sub(r'\s','', speaker)
             tempspeaker = re.sub(r'\(','', tempspeaker)
             tempspeaker = re.sub(r'\)','', tempspeaker)
             tempspeaker = re.sub(r'/','', tempspeaker)
-            session['speakernosp'] = tempspeaker
+            if session['speakernosp'] == "":
+                session['speakernosp'] = session['speakernosp'] + tempspeaker
+            else:
+                session['speakernosp'] = session['speakernosp'] + "," + tempspeaker
     session['speakernosplist'] = session['speakernosp'].split(",")
     for speaker in session['speakerlist']:
       if speaker != "":
@@ -396,8 +400,8 @@ with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
             temproomsched.write(schedule_header)
             temproomsched.close()
     for index, y in enumerate(sessions):
-      #for speakernosp in speakernosplist:
-        with open(speakerdir  + y['speakernosp'] + ".csv",'w') as tempspeakersched:        
+      for speakernosp in y['speakernosplist']:
+        with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
         #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
             tempspeakersched.write(schedule_header)
             tempspeakersched.close()
@@ -407,9 +411,10 @@ with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
             with open(schedulebyroomdir + y['roomnosp'] + ".csv",'a') as temproomsched:
                 temproomsched.write(schedule_csv_template % y)
             temproomsched.close()
-            with open(speakerdir  + y['speakernosp'] + ".csv",'a') as tempspeakersched:
-                tempspeakersched.write(schedule_csv_template % y)
-            tempspeakersched.close()
+            for speaker in y['speakernosplist']:
+                with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
+                    tempspeakersched.write(schedule_csv_template % y)
+                tempspeakersched.close()
 
 fullschedule.close()
 
