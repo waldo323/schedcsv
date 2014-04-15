@@ -63,17 +63,17 @@ class readInCSV:
          self.schedule.pop(0)   # remove header line from data
 
 def calcduration(startday, starttime, endday, endtime, minutes):
-    print "in calc duration start day ", startday
-    print "in calc duration start time", starttime
-    print "in cacl duration end day ", endday
-    print "in calc duration end time ", endtime
-    print "in calc duration end minutes", minutes
+    #print "in calc duration start day ", startday
+    #print "in calc duration start time", starttime
+    #print "in cacl duration end day ", endday
+    #print "in calc duration end time ", endtime
+    #print "in calc duration end minutes", minutes
     day = endday - startday
-    print "day diff ", day
+    #print "day diff ", day
     hour = endtime - starttime
-    print "hour diff ", hour
+    #print "hour diff ", hour
     hours = (24 * day) + hour
-    print "hours + 24 * days", hours
+    #print "hours + 24 * days", hours
     if hours == 1:
         hourstext = "1 hour"
     else:
@@ -161,13 +161,13 @@ for index, x in enumerate(pconsched.schedule):
         ##start day and time assignments
         if  (field == "Start Date"):
             session['startday'] = fieldtext
-            print fieldtext
+            #print fieldtext
 
         if  (field == "Start Time"):
             if fieldtext != "Start Time":
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
-                print fieldtext
+                #print fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['starttimeampm'] = ampmformat(session['starttime']) 
             else:   
@@ -183,7 +183,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "End Time"):
             if fieldtext != "End Time":
                 session['endtime'] = fieldtext
-                print "setting endtime " + fieldtext
+                #print "setting endtime " + fieldtext
                 session['event_end'] = fieldtext            
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
                 session['endtimeampm'] = ampmformat(session['endtime']) 
@@ -268,17 +268,17 @@ for index, x in enumerate(pconsched.schedule):
 # this first one is a for the first entry which is intentionally dummy data
     if (session['starttime'] ==  "event_start") or (session['startday'] ==  "Start Day"):
         session['duration'] = "duration"
-        print "duration"
+        #print "duration"
         session['hours'] = 0
         session['minutes'] = 0
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        print session['name']
+        ##print session['name']
         #print "start day " + session['startday'][2:-5] 
         #print "start time " + session['starttime'][:-3]
         #print "end day " + session['endday'][2:-5]
-        print "end time " + session['endtime'][-5:-3]
+        ##print "end time " + session['endtime'][-5:-3]
         #print "end minutes " + session['endtime'][3:]
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
@@ -304,7 +304,7 @@ for index, x in enumerate(pconsched.schedule):
             speakers.append(speaker)
             speakerdict[speaker] = session['totalminutes']
             #speaker_events_dict[speaker].append(session['name'])
-            print speaker, session['name']
+            #print speaker, session['name']
             
         else:
             speakerdict[speaker] += session['totalminutes']
