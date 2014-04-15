@@ -849,7 +849,7 @@ Location,Board of Governors
 duration,50 minutes
 description,"Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here.  If you've never been and you want to get to know the event, this is the panel for you!"
 index,24
-speakers,Nuri Gocay
+speakers,"Nuri Gocay, Cylithria Dubois"
 Track,Penguicon Events
 startday,5/2/2014
 Title,So This is Your First Penguicon?
@@ -858,14 +858,14 @@ event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
 tracknosp,PenguiconEvents
-input,"['5/2/2014', '17:00', '5/2/2014', '17:50', 'Board of Governors', 'Penguicon Events', 'So This is Your First Penguicon?', 'Nuri Gocay', ""Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here.  If you've never been and you want to get to know the event, this is the panel for you!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '17:00', '5/2/2014', '17:50', 'Board of Governors', 'Penguicon Events', 'So This is Your First Penguicon?', 'Nuri Gocay, Cylithria Dubois', ""Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here.  If you've never been and you want to get to know the event, this is the panel for you!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
-calspeakers,Nuri Gocay
+calspeakers,"Nuri Gocay, Cylithria Dubois"
 avneeds,none
-speakerlist,['Nuri Gocay']
+speakerlist,"['Nuri Gocay', 'Cylithria Dubois']"
 hours,0
 totalminutes,50
-speakernosplist,['NuriGocay']
+speakernosplist,"['NuriGocay', 'CylithriaDubois']"
 caldescrip,"Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here.  If you've never been and you want to get to know the event, this is the panel for you!"
 endtime,17:50
 AV Needs,
@@ -873,9 +873,9 @@ name,So This is Your First Penguicon?
 Private,PUBLIC
 venue,Board of Governors
 Book Description,"Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here. If you've never been and you want to get to know the event, this is the panel for you!"
-Presenters,Nuri Gocay
+Presenters,"Nuri Gocay, Cylithria Dubois"
 csvsafedescrip,Our chair- Nuri- will talk about how he first joined Penguicon- and give you a tour of what's awesome (everything!) here.  If you've never been and you want to get to know the event- this is the panel for you!
-speakernosp,NuriGocay
+speakernosp,"NuriGocay,CylithriaDubois"
 starttime,17:00
 roomnosp,BoardofGovernors
 Start Date,5/2/2014
