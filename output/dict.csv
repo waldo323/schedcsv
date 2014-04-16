@@ -2739,7 +2739,7 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Portage Auditorium
 duration,50 minutes
-description,Spend an hour in an.ti.ci.....pation. Enjoy some fan videos and get ready to watch the feature film!
+description,"Spend an hour in an.ti.ci.....pation. Alternative universes smash up and fuse together in this collection of fan videos.   See these short, rip-roaring spoofs of your favorite movies and shows, as they get the ""RHPS Treatment.""  From Harry Potter & Star Trek to World of WarCraft gaming,  Rocky Horror Picture Show fans treat them all with ""due reverence."" Come join in the fun as we prepare for the main festivities to follow.  RHPS costumes encouraged!"
 index,54
 speakers,Tim Downing
 Track,Film
@@ -2750,7 +2750,7 @@ event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
 tracknosp,Film
-input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show - The Preshow', 'Tim Downing', 'Spend an hour in an.ti.ci.....pation. Enjoy some fan videos and get ready to watch the feature film!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show - The Preshow', 'Tim Downing', 'Spend an hour in an.ti.ci.....pation. Alternative universes smash up and fuse together in this collection of fan videos.   See these short, rip-roaring spoofs of your favorite movies and shows, as they get the ""RHPS Treatment.""  From Harry Potter & Star Trek to World of WarCraft gaming,  Rocky Horror Picture Show fans treat them all with ""due reverence."" Come join in the fun as we prepare for the main festivities to follow.  RHPS costumes encouraged!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/2/2014
 calspeakers,Tim Downing
 avneeds,"Projector, Sound System"
@@ -2758,15 +2758,15 @@ speakerlist,['Tim Downing']
 hours,0
 totalminutes,50
 speakernosplist,['TimDowning']
-caldescrip,Spend an hour in an.ti.ci.....pation. Enjoy some fan videos and get ready to watch the feature film!
+caldescrip,"Spend an hour in an.ti.ci.....pation. Alternative universes smash up and fuse together in this collection of fan videos.   See these short, rip-roaring spoofs of your favorite movies and shows, as they get the 'RHPS Treatment.'  From Harry Potter & Star Trek to World of WarCraft gaming,  Rocky Horror Picture Show fans treat them all with 'due reverence.' Come join in the fun as we prepare for the main festivities to follow.  RHPS costumes encouraged!"
 endtime,20:50
 AV Needs,"Projector, Sound System"
 name,Rocky Horror Picture Show - The Preshow
 Private,PUBLIC
 venue,Portage Auditorium
-Book Description,Spend an hour in an.ti.ci.....pation. Enjoy some fan videos and get ready to watch the feature film!
+Book Description,"Spend an hour in an.ti.ci.....pation. Alternative universes smash up and fuse together in this collection of fan videos. See these short, rip-roaring spoofs of your favorite movies and shows, as they get the ""RHPS Treatment."" From Harry Potter and Star Trek to World of WarCraft gaming, Rocky Horror Picture Show fans treat them all with ""due reverence."" Come join in the fun as we prepare for the main festivities to follow. RHPS costumes encouraged!"
 Presenters,Tim Downing
-csvsafedescrip,Spend an hour in an.ti.ci.....pation. Enjoy some fan videos and get ready to watch the feature film!
+csvsafedescrip,Spend an hour in an.ti.ci.....pation. Alternative universes smash up and fuse together in this collection of fan videos.   See these short- rip-roaring spoofs of your favorite movies and shows- as they get the 'RHPS Treatment.'  From Harry Potter & Star Trek to World of WarCraft gaming-  Rocky Horror Picture Show fans treat them all with 'due reverence.' Come join in the fun as we prepare for the main festivities to follow.  RHPS costumes encouraged!
 speakernosp,TimDowning
 starttime,20:00
 roomnosp,PortageAuditorium
@@ -3206,13 +3206,13 @@ index,69
 speakers,Tim Downing
 Track,Film
 startday,5/2/2014
-Title,Rocky Horror Picture Show
+Title,Rocky Horror Picture Show - The Movie!
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
 End Time,23:50
 tracknosp,Film
-input,"['5/2/2014', '21:00', '5/2/2014', '23:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show', 'Tim Downing', '""The Rocky Horror Picture Show"" Come join us for a strange journey... ', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+input,"['5/2/2014', '21:00', '5/2/2014', '23:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show - The Movie!', 'Tim Downing', '""The Rocky Horror Picture Show"" Come join us for a strange journey... ', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/2/2014
 calspeakers,Tim Downing
 avneeds,"Projector, Sound System"
@@ -3223,7 +3223,7 @@ speakernosplist,['TimDowning']
 caldescrip,'The Rocky Horror Picture Show' Come join us for a strange journey... 
 endtime,23:50
 AV Needs,"Projector, Sound System"
-name,Rocky Horror Picture Show
+name,Rocky Horror Picture Show - The Movie!
 Private,PUBLIC
 venue,Portage Auditorium
 Book Description,"""The Rocky Horror Picture Show"" Come join us for a strange journey... "
