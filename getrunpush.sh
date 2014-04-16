@@ -6,6 +6,7 @@ git pull
 git rm ./output/2014.*
 git rm ./output/schedbyspeaker/*
 git rm ./output/schedbyroom/*
+git rm ./output/schedsbyspeaker.zip
 
 
 echo get schedule and run the parsing script on the schedule 
