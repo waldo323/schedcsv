@@ -3957,7 +3957,7 @@ private,PUBLIC
 endtimeampm,12 AM
 Location,Board of Regents
 duration,50 minutes
-description,You've watched the movie and done the dance. Now... discuss! 
+description,You've watched the movie and done the dance. Now... discuss!
 index,93
 speakers,
 Track,Film
@@ -3968,7 +3968,7 @@ event_start,0:00
 starttimeampm,12 AM
 End Time,0:50
 tracknosp,Film
-input,"['5/3/2014', '0:00', '5/3/2014', '0:50', 'Board of Regents', 'Film', 'BoF: RHPS', '', ""You've watched the movie and done the dance. Now... discuss! "", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '0:00', '5/3/2014', '0:50', 'Board of Regents', 'Film', 'BoF: RHPS', '', ""You've watched the movie and done the dance. Now... discuss!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,
 avneeds,none
@@ -3976,15 +3976,15 @@ speakerlist,['']
 hours,0
 totalminutes,50
 speakernosplist,['']
-caldescrip,You've watched the movie and done the dance. Now... discuss! 
+caldescrip,You've watched the movie and done the dance. Now... discuss!
 endtime,0:50
 AV Needs,
 name,BoF: RHPS
 Private,PUBLIC
 venue,Board of Regents
-Book Description,You've watched the movie and done the dance. Now... discuss! 
+Book Description,You've watched the movie and done the dance. Now... discuss!
 Presenters,
-csvsafedescrip,You've watched the movie and done the dance. Now... discuss! 
+csvsafedescrip,You've watched the movie and done the dance. Now... discuss!
 speakernosp,
 starttime,0:00
 roomnosp,BoardofRegents
