@@ -11542,7 +11542,7 @@ Meant for those with little to no experience, this session will introduce you to
 
 Second Hour: Spin Jam!
 Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!"
-index,295
+index,294
 speakers,"Thaddeus Micelli, Shoofle Munroe, Steve ""Spark"" Grandpre"
 Track,Life
 startday,5/4/2014
@@ -11578,48 +11578,6 @@ csvsafedescrip,Come check out something completely different here at Penguicon! 
 speakernosp,"ThaddeusMicelli,ShoofleMunroe,Steve""Spark""Grandpre"
 starttime,10:00
 roomnosp,AlgonquinBC
-Start Date,5/4/2014
-minutes,50
-allday,FALSE
-event_type,Film
-All Day Event,FALSE
-event_end,10:50
-endday,5/4/2014
-private,PUBLIC
-endtimeampm,10 AM
-Location,Algonquin D
-duration,50 minutes
-description,"Brush up on your Whedonverse knowledge and join us for a rousing game of trivia based on the creations of the one and only! Buffy to Firefly, Dr. Horrible to Cabin in the Woods, Avengers to Agents of S.H.I.E.L.D. Fabulous prizes await you!"
-index,289
-speakers,Jennifer Beitzel
-Track,Film
-startday,5/4/2014
-Title,Whedonites Unite! Trivia
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
-tracknosp,Film
-input,"['5/4/2014', '10:00', '5/4/2014', '10:50', 'Algonquin D', 'Film', 'Whedonites Unite! Trivia', 'Jennifer Beitzel', 'Brush up on your Whedonverse knowledge and join us for a rousing game of trivia based on the creations of the one and only! Buffy to Firefly, Dr. Horrible to Cabin in the Woods, Avengers to Agents of S.H.I.E.L.D. Fabulous prizes await you!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
-End Date,5/4/2014
-calspeakers,Jennifer Beitzel
-avneeds,"Projector, Sound System"
-speakerlist,['Jennifer Beitzel']
-hours,0
-totalminutes,50
-speakernosplist,['JenniferBeitzel']
-caldescrip,"Brush up on your Whedonverse knowledge and join us for a rousing game of trivia based on the creations of the one and only! Buffy to Firefly, Dr. Horrible to Cabin in the Woods, Avengers to Agents of S.H.I.E.L.D. Fabulous prizes await you!"
-endtime,10:50
-AV Needs,"Projector, Sound System"
-name,Whedonites Unite! Trivia
-Private,PUBLIC
-venue,Algonquin D
-Book Description,"Brush up on your Whedonverse knowledge and join us for a rousing game of trivia based on the creations of the one and only! Buffy to Firefly, Dr. Horrible to Cabin in the Woods, Avengers to Agents of S.H.I.E.L.D. Fabulous prizes await you!"
-Presenters,Jennifer Beitzel
-csvsafedescrip,Brush up on your Whedonverse knowledge and join us for a rousing game of trivia based on the creations of the one and only! Buffy to Firefly- Dr. Horrible to Cabin in the Woods- Avengers to Agents of S.H.I.E.L.D. Fabulous prizes await you!
-speakernosp,JenniferBeitzel
-starttime,10:00
-roomnosp,AlgonquinD
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
@@ -11716,7 +11674,7 @@ endtimeampm,10 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"What does it take to design and produce a new game? We will discuss all aspects, from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q&A panel so bring your questions!"
-index,292
+index,291
 speakers,"Matthew Duhan, Matt Arnold"
 Track,Gaming
 startday,5/4/2014
@@ -11800,7 +11758,7 @@ endtimeampm,10 AM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
-index,291
+index,290
 speakers,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins, Mary Poirier, Douglas Tobin"
 Track,Food
 startday,5/4/2014
@@ -11842,7 +11800,7 @@ endtimeampm,11 AM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"In the Gloom card game, you assume control of the fate of an eccentric family of misfits and misanthropes. The goal of the game is sad, but simple: you want your characters to suffer the greatest tragedies possible before passing on to the well-deserved respite of death. You'll play horrible mishaps like Pursued by Poodles or Mocked by Midgets on your own characters to lower their Self-Worth scores, while trying to cheer your opponents' characters with marriages and other happy occasions that pile on positive points. The player with the lowest total Family Value wins."
-index,293
+index,292
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -11884,7 +11842,7 @@ endtimeampm,11 AM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies.
-index,294
+index,293
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -11926,7 +11884,7 @@ endtimeampm,1 PM
 Location,Hamlin
 duration,3 hours and 50 minutes
 description,"Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend."
-index,299
+index,298
 speakers,Joe Greene
 Track,Videogaming
 startday,5/4/2014
@@ -11968,7 +11926,7 @@ endtimeampm,10 AM
 Location,Montcalm
 duration,50 minutes
 description,"The Getting Things Done (GTD) methodology by David Allen is a popular way to not only get things done but also to clear away distractions and achieve focus. Craig Maloney details how he uses GTD under a Linux environment, using tools like Todo.txt, Evernote, Dropbox, and text files. He'll also cover some useful tips and tricks for setting up and honing your own GTD system."
-index,296
+index,295
 speakers,Craig Maloney
 Track,Tech
 startday,5/4/2014
@@ -12010,7 +11968,7 @@ endtimeampm,10 AM
 Location,Nicolet
 duration,50 minutes
 description,IT Infrastructure Library (ITIL®) is a set of best practices that has been used globally for over 15 years to help IT organizations work in harmony with the business. ITIL® provides guidelines for an IT organization to become the most efficient and effective it can be. Come learn how valuable ITIL® certification can be for IT professionals and their organizations.
-index,297
+index,296
 speakers,Melissa Wren
 Track,Tech
 startday,5/4/2014
@@ -12052,7 +12010,7 @@ endtimeampm,12 PM
 Location,Portage Auditorium
 duration,2 hours and 50 minutes
 description,"""Justice Is Mind"" In a future where MRI technology can read your mind, the trial of the century soon begins when a defendant faces his own memory for a double murder he doesn't remember committing."
-index,290
+index,289
 speakers,Mark Lund
 Track,Film
 startday,5/4/2014
@@ -12094,7 +12052,7 @@ endtimeampm,10 AM
 Location,Windover
 duration,50 minutes
 description,"With the Oculus Rift being bought by media giant Facebook, the cautionary tales of science fiction seem closer than ever to reality.  Join authors Ernie Cline and John Scalzi, and Android VR creator Gameface Labs, as they talk about where our communal virtual fantasy is headed."
-index,298
+index,297
 speakers,"Ernie Cline, Ed Mason, John Scalzi"
 Track,Tech
 startday,5/4/2014
@@ -12137,7 +12095,7 @@ Location,Algonquin A
 duration,50 minutes
 description,"Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds.
 "
-index,300
+index,299
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 Track,Action Adventure
 startday,5/4/2014
@@ -12180,7 +12138,7 @@ endtimeampm,11 AM
 Location,Algonquin D
 duration,50 minutes
 description,"Learn how to make your home network more secure using a hardware firewall with Chris, a security professional."
-index,309
+index,308
 speakers,Chris Krieger
 Track,Tech
 startday,5/4/2014
@@ -12222,7 +12180,7 @@ endtimeampm,11 AM
 Location,Board of Governors
 duration,50 minutes
 description,"Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault?"
-index,306
+index,305
 speakers,"StarF, Val Hundreds, Moses Jackson, James Fernandez, BluRaven C. Houvener"
 Track,Lit
 startday,5/4/2014
@@ -12264,7 +12222,7 @@ endtimeampm,11 AM
 Location,Board of Regents
 duration,50 minutes
 description,"Learn how to make an origami penguin! Penguins for Penguicon!  Bring your hands and a little patience, and we'll help you create paper penguins for any occasion - hand them out, enclose them in letters, leave them as surprises for kids wherever you go."
-index,303
+index,302
 speakers,CJ Tremlett
 Track,DIY
 startday,5/4/2014
@@ -12306,7 +12264,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"Joseph Campbell's ""Hero With a Thousand Faces"" tells the tale of the Tale: the archetypal path of life.  What kind of a Hero are you? Where in your Quest are you? How does the concept of the Archetype in you impact your day to day?"
-index,301
+index,300
 speakers,Sal Sanfratello
 Track,Action Adventure
 startday,5/4/2014
@@ -12348,7 +12306,7 @@ endtimeampm,11 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"Join your fellow gun enthusiasts of fandom to discuss guns, gun safety, and gun laws.  "
-index,302
+index,301
 speakers,
 Track,Action Adventure
 startday,5/4/2014
@@ -12390,7 +12348,7 @@ endtimeampm,11 AM
 Location,Charlevoix C
 duration,50 minutes
 description,"There are only three rules: Ridiculous, Plausible, Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science, stay for the laughs!"
-index,307
+index,306
 speakers,"Nick Farr, Eva Galperin, Jeff Goeke-Smith, Jolly"
 Track,Science
 startday,5/4/2014
@@ -12432,7 +12390,7 @@ endtimeampm,12 PM
 Location,Con Suite
 duration,1 hour and 50 minutes
 description,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
-index,304
+index,303
 speakers,"Sarah Elkins, Phil Salkie"
 Track,Food
 startday,5/4/2014
@@ -12474,7 +12432,7 @@ endtimeampm,11 AM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,310
+index,309
 speakers,Ed Mason
 Track,Tech
 startday,5/4/2014
@@ -12516,7 +12474,7 @@ endtimeampm,11 AM
 Location,Montcalm
 duration,50 minutes
 description,"If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator."
-index,311
+index,310
 speakers,Matt Arnold
 Track,Tech
 startday,5/4/2014
@@ -12558,7 +12516,7 @@ endtimeampm,11 AM
 Location,Nicolet
 duration,50 minutes
 description,"The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences.  We will explore how changing our perspective on mental health issues, from one focused on disability to one highlighting ability, can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on ""can't."""
-index,308
+index,307
 speakers,"Jessica Roland, Kristy Currier, Chris Roland, Heather Aman"
 Track,Science
 startday,5/4/2014
@@ -12600,7 +12558,7 @@ endtimeampm,11 AM
 Location,Windover
 duration,50 minutes
 description,"Think about something you really love to do. Chances are you find it energizing, inspiring, challenging, and heart-opening, right? Next question: do you get to spend all day doing that thing? If you said ""no,"" why not? Erika Carlson shares suggestions and lessons from experience on finding, doing, and getting paid for what you love, without living on ramen (unless you're into that). "
-index,305
+index,304
 speakers,Erika Carlson
 Track,Life
 startday,5/4/2014
@@ -12642,7 +12600,7 @@ endtimeampm,12 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness & limitations -- there will be opportunities for more advanced practice for those who want it.  "
-index,313
+index,312
 speakers,Marie Staver
 Track,Life
 startday,5/4/2014
@@ -12684,7 +12642,7 @@ endtimeampm,12 PM
 Location,Algonquin D
 duration,50 minutes
 description,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
-index,326
+index,325
 speakers,"Amara Sugalski, Catherine Shaffer, Jessica Roland"
 Track,Science
 startday,5/4/2014
@@ -12726,7 +12684,7 @@ endtimeampm,12 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
-index,321
+index,320
 speakers,"CJ Tremlett, Alex Page"
 Track,Life
 startday,5/4/2014
@@ -12768,7 +12726,7 @@ endtimeampm,12 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Come learn how to create a costume out of thin air. You can take everyday clothes and items and make them into something cool!  Get tips on dyeing fabrics and taking care of wigs, and lots of ideas for ways to finish your costume. Bring your costume for help with last minute adjustments."
-index,315
+index,314
 speakers,Cyndee Richardson
 Track,Costuming
 startday,5/4/2014
@@ -12810,7 +12768,7 @@ endtimeampm,12 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Do you own a local business?  Do you like to shop Locally?  Come and talk about your favorite local business, your own business, and why it's important to shop the local economy. "
-index,317
+index,316
 speakers,
 Track,Eco
 startday,5/4/2014
@@ -12852,7 +12810,7 @@ endtimeampm,12 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"So, you were interested in talking about something at Penguicon, but decided it was too much work.  Why did you feel that way?  Would it have helped if someone gave you some support?  Would a group project have been of interest?  If you are presenting, what helped you decide to make the presentation?  Let's discuss what we can do to encourage each other to contribute to Penguicon.  We will ask attendees to brainstorm ideas that will encourage more participation. Any thoughts you can bring in will be helpful! The Head of Programming will join in the discussion. "
-index,325
+index,324
 speakers,
 Track,Penguicon Events
 startday,5/4/2014
@@ -12894,7 +12852,7 @@ endtimeampm,12 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
-index,324
+index,323
 speakers,"King Pheenix, 2 Mello, Starf"
 Track,Music
 startday,5/4/2014
@@ -12936,7 +12894,7 @@ endtimeampm,12 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
-index,322
+index,321
 speakers,"Derek Newland, Nathan Balyeat"
 Track,Life
 startday,5/4/2014
@@ -12978,7 +12936,7 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in, however, might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works."
-index,316
+index,315
 speakers,"Alex Drummer, Kevin McLeod, Justin Coluzzi"
 Track,Costuming
 startday,5/4/2014
@@ -13020,7 +12978,7 @@ endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
-index,312
+index,311
 speakers,Richard Houser
 Track,Gaming
 startday,5/4/2014
@@ -13063,7 +13021,7 @@ Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"In Titans of Industry, you must invest in building factories and businesses (in the 1920's) in order to produce goods to gain victory points (VPs). Game play involves a delicate balance of money, production, and goals. The person who can best manage his buildings and meet his goals in seven years will win.
 "
-index,318
+index,317
 speakers,Matthew Duhan
 Track,Gaming
 startday,5/4/2014
@@ -13106,7 +13064,7 @@ endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Munchkin is the mega-hit card game about dungeon adventure . . . with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm . . . or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon . . ."
-index,319
+index,318
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -13149,7 +13107,7 @@ Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
 "
-index,320
+index,319
 speakers,Richard Houser
 Track,Gaming
 startday,5/4/2014
@@ -13192,7 +13150,7 @@ endtimeampm,12 PM
 Location,Montcalm
 duration,50 minutes
 description,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
-index,323
+index,322
 speakers,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 Track,Life
 startday,5/4/2014
@@ -13234,7 +13192,7 @@ endtimeampm,12 PM
 Location,Nicolet
 duration,50 minutes
 description,"Together we will a look at some of the classic edutainment games from the good old days of DOS and the classic NES.  We will examine the games that worked at entertaining and educating audiences, and those that failed to do either.  Finally, we will consider how current technology could make this unique genre better."
-index,328
+index,327
 speakers,William Bowen
 Track,Videogaming
 startday,5/4/2014
@@ -13276,7 +13234,7 @@ endtimeampm,1 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
-index,327
+index,326
 speakers,"Bob Trembley, Marie-therese Enga"
 Track,Science
 startday,5/4/2014
@@ -13318,7 +13276,7 @@ endtimeampm,12 PM
 Location,Windover
 duration,50 minutes
 description,"Increasingly, we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
-index,314
+index,313
 speakers,"Taylor Watkins, Douglas Scholl, Heather Gutterman"
 Track,Action Adventure
 startday,5/4/2014
@@ -13360,7 +13318,7 @@ endtimeampm,2 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
 description,"Come learn about fencing done through the Society for Creative Anachronism (SCA)!  The SCA is a practical historical group that strives to learn about and recreate the arts and sciences of pre-17th century life.  We have a ton of fun doing all things from blacksmithing to weaving to archery to armored combat.  Here we will demonstrate our fencing!  Learn how to fence with one sword, two swords, bucklers, cloaks, and more - we teach for free and have loaner equipment at our practices at many locations around Michigan and surrounding states."
-index,329
+index,328
 speakers,Kelly Carnahan
 Track,Action Adventure
 startday,5/4/2014
@@ -13402,7 +13360,7 @@ endtimeampm,1 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come learn all about programing in Python from Mike, a member of the Python Users Group in Ann Arbor."
-index,339
+index,338
 speakers,Mike Bernson
 Track,Tech
 startday,5/4/2014
@@ -13444,7 +13402,7 @@ endtimeampm,1 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.
-index,332
+index,331
 speakers,Kevin Siembieda
 Track,Gaming
 startday,5/4/2014
@@ -13486,7 +13444,7 @@ endtimeampm,1 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
-index,338
+index,337
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender"
 Track,Penguicon Events
 startday,5/4/2014
@@ -13528,7 +13486,7 @@ endtimeampm,1 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts.  "
-index,333
+index,332
 speakers,"Marie Staver, Neil Funk"
 Track,Life
 startday,5/4/2014
@@ -13570,7 +13528,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
-index,337
+index,336
 speakers,"Ohhinaifu, The One Electronic, snesei, boaconstructor, barbeque"
 Track,Music
 startday,5/4/2014
@@ -13612,7 +13570,7 @@ endtimeampm,1 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Raising children can be quite a challenge at any age.  There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
-index,334
+index,333
 speakers,"Julie Hargraves, DeWain Molter"
 Track,Life
 startday,5/4/2014
@@ -13654,7 +13612,7 @@ endtimeampm,1 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  "
-index,340
+index,339
 speakers,Chad Crabtree
 Track,Tech
 startday,5/4/2014
@@ -13696,7 +13654,7 @@ endtimeampm,4 PM
 Location,Lobby
 duration,3 hours
 description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
-index,330
+index,329
 speakers,"Dean Martelle, Linda Martelle"
 Track,DIY
 startday,5/4/2014
@@ -13738,7 +13696,7 @@ endtimeampm,1 PM
 Location,Montcalm
 duration,50 minutes
 description,"It's finally time: You need to visit Germany and Japan! Whatever your interest is, odds are you'll find a unique spin on it overseas that will change your life and how you view humanity. With nearly half a million transcontinental miles flown east and west, Nick Farr will regale you with tales of the geekiest highlights in both countries and tips on how to have an authentic, safe, geeky and budget-conscious international trip to Germany and Japan."
-index,335
+index,334
 speakers,Nick Farr
 Track,Life
 startday,5/4/2014
@@ -13780,7 +13738,7 @@ endtimeampm,2 PM
 Location,Nicolet
 duration,1 hour and 50 minutes
 description,Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. 
-index,341
+index,340
 speakers,Greg Allard
 Track,Tech
 startday,5/4/2014
@@ -13822,7 +13780,7 @@ endtimeampm,1 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
-index,331
+index,330
 speakers,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
 Track,Film
 startday,5/4/2014
@@ -13864,7 +13822,7 @@ endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
 description,"Sit down with our Literature Guest of Honor, Ernie Cline, and discuss writing, his works including Ready Player One, and whatever else comes up."
-index,336
+index,335
 speakers,Ernie Cline
 Track,Lit
 startday,5/4/2014
@@ -13906,7 +13864,7 @@ endtimeampm,2 PM
 Location,Algonquin D
 duration,50 minutes
 description,"A history of Martian surface changes as documented by Viking, Mariner 9, Mars Global Surveyor and the Mars Reconnaissance Orbiter. Global dust storms, dust devils and persistent winds have lend to brightness variations on more then 30% of the Martian surface."
-index,353
+index,352
 speakers,Marie-therese Enga
 Track,Science
 startday,5/4/2014
@@ -13948,7 +13906,7 @@ endtimeampm,2 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.
-index,342
+index,341
 speakers,Kat McConnell
 Track,Costuming
 startday,5/4/2014
@@ -13990,7 +13948,7 @@ endtimeampm,2 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Artists, at least since the surrealists, have employed various techniques to introduce a bit of 'chance' into the production of art pieces. One such technique is tarot cards. Aside from any possible use as a divination process, tarot cards are narratively-primed, image-rich, easily-shuffled tidbits ready to add creativity to processes such as writing. Presenter James Frederick Leach has played with ""The Cards"" as a tool for plotting, character development and whittling away at writer's block. This presentation will feature workshop components so bring your portable composition tool of choice."
-index,351
+index,350
 speakers,Jim Leach
 Track,Lit
 startday,5/4/2014
@@ -14033,7 +13991,7 @@ Location,Board of Regents
 duration,50 minutes
 description,"Meet other Christians in fandom for discussion and fellowship.
 "
-index,350
+index,349
 speakers,
 Track,Life
 startday,5/4/2014
@@ -14076,7 +14034,7 @@ endtimeampm,2 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Why are tech positions mostly filled by men? What can we do to change this? Join our GoH, Erika Carlson, for this important discussion. "
-index,355
+index,354
 speakers,Erika Carlson
 Track,Tech
 startday,5/4/2014
@@ -14118,7 +14076,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"The Domain Name System (DNS) is the backbone of the Internet and the most successful distributed database in history. It's also thirty years old, and perhaps the most insecure protocol in use today. DNS Security Extensions (DNSSEC) guarantees the integrity of DNS data. Deploying DNSSEC isn't that hard -- once you have a basic understanding of how it works. This talk takes you through the basics of DNSSEC and the deployment considerations. By the author of ""DNSSEC Mastery."""
-index,356
+index,355
 speakers,Michael W. Lucas
 Track,Tech
 startday,5/4/2014
@@ -14160,7 +14118,7 @@ endtimeampm,2 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Bringing it back due to the overwhelming request - Come join in Who's Line Is It Anyway style sketches, with a twist!  Ever wonder what would happen if you got Superman and Lex Luthor on Jerry Springer?  What if Spock had to hold a press conference apologizing for all Kirk's indiscretions?  Expect some wild and off the wall topics and skits, and laughs for all!"
-index,347
+index,346
 speakers,Derek Newland
 Track,Gaming
 startday,5/4/2014
@@ -14202,7 +14160,7 @@ endtimeampm,2 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"There's a lot of interest in LED-based grow lights for people starting plants indoors, over-wintering tropical plants, and growing medicinal herbs. Where do you start? This panel will cover basic photosynthesis and light, spectral requirements, some of the options for rolling your own grow lights using high-power LEDs.  We'll also talk about some of the issues with using LEDs."
-index,343
+index,342
 speakers,Roger Slykhouse
 Track,DIY
 startday,5/4/2014
@@ -14244,7 +14202,7 @@ endtimeampm,2 PM
 Location,Con Suite
 duration,50 minutes
 description,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
-index,345
+index,344
 speakers,"Bill Putt, Anthony Distel"
 Track,Food
 startday,5/4/2014
@@ -14286,7 +14244,7 @@ endtimeampm,2 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
-index,346
+index,345
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
 Track,Food
 startday,5/4/2014
@@ -14328,7 +14286,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Be the boss in this fast-paced card game of survival on the mean streets. ""Family Business"" pits mobsters against each other - all working to make sure theirs is the last family standing!"
-index,348
+index,347
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -14370,7 +14328,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can. "
-index,349
+index,348
 speakers,
 Track,Gaming
 startday,5/4/2014
@@ -14412,7 +14370,7 @@ endtimeampm,2 PM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,357
+index,356
 speakers,Ed Mason
 Track,Tech
 startday,5/4/2014
@@ -14454,7 +14412,7 @@ endtimeampm,2 PM
 Location,Montcalm
 duration,50 minutes
 description,"An exploration of the fine line between the field of neuroscience and science fiction. Cutting edge neuroscientific research tends to sound more like science fiction year by year. Can you tell the difference between science fiction and cutting edge neuroscience? Topics include both molecular/cellular/developmental neuroscience, and behavioral neuroscience. See if you're up to date on the latest developments in the understanding of man's most complex machine, the human brain!"
-index,354
+index,353
 speakers,Heather Aman
 Track,Science
 startday,5/4/2014
@@ -14496,7 +14454,7 @@ endtimeampm,2 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"""The status is not quo."" 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog."" Costumes welcome!"
-index,344
+index,343
 speakers,"Shannon Marshall, Maggie Maiville, Caitlynn Poirier"
 Track,Film
 startday,5/4/2014
@@ -14538,7 +14496,7 @@ endtimeampm,3 PM
 Location,Windover
 duration,1 hour and 50 minutes
 description,Readings by Literature Track Guests and Panelists
-index,352
+index,351
 speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
 Track,Lit
 startday,5/4/2014
@@ -14580,7 +14538,7 @@ endtimeampm,3 PM
 Location,Algonquin A
 duration,50 minutes
 description,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
-index,358
+index,357
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 Track,Action Adventure
 startday,5/4/2014
@@ -14622,7 +14580,7 @@ endtimeampm,3 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come talk about guns with a firearms instructor and writer. The panel will briefly discuss the history of firearms with a focus on modern and near future tech. Learn more about how guns work, how to write convincing scenes with firearms, and how knowing more about guns can help both your world building and character development. NOTE: This is NOT the ""Geeks with Guns' event. "
-index,365
+index,364
 speakers,Rob Reed
 Track,Lit
 startday,5/4/2014
@@ -14664,7 +14622,7 @@ endtimeampm,3 PM
 Location,Baldwin Board Room
 duration,50 minutes
 description,Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like?
-index,359
+index,358
 speakers,
 Track,Film
 startday,5/4/2014
@@ -14706,7 +14664,7 @@ endtimeampm,3 PM
 Location,Board of Governors
 duration,50 minutes
 description,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast & crew of Midnight Monster Movies with Dr. Bob with Q&A.
-index,360
+index,359
 speakers,"Robert Gilbert, Melanie Gilbert"
 Track,Film
 startday,5/4/2014
@@ -14748,7 +14706,7 @@ endtimeampm,3 PM
 Location,Board of Regents
 duration,50 minutes
 description,An open discussion for folks who knows ASL (American Sign Language) or have an interest in it. Come chat with us and learn some ASL or just work on your ASL skills! 
-index,363
+index,362
 speakers,Paul Berens
 Track,Life
 startday,5/4/2014
@@ -14790,7 +14748,7 @@ endtimeampm,3 PM
 Location,Board of Trustees
 duration,50 minutes
 description,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
-index,367
+index,366
 speakers,"Janet Gocay, Nuri Gocay, Scott Kennedy, Steve Gutterman"
 Track,Penguicon Events
 startday,5/4/2014
@@ -14832,7 +14790,7 @@ endtimeampm,3 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Join filker and synthesizer geek Jim Poltrone on a brief tour of some open-source music composition tools available to the Linux user. Items covered include (but not limited to) music composing/sequencing software Rosegarden, the audio redirection program JACK, to music publishing program Lilypond."
-index,366
+index,365
 speakers,Jim Poltrone
 Track,Music
 startday,5/4/2014
@@ -14874,7 +14832,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,50 minutes
 description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
-index,362
+index,361
 speakers,"William Meyer, Kim Horger"
 Track,Gaming
 startday,5/4/2014
@@ -14916,7 +14874,7 @@ endtimeampm,3 PM
 Location,Montcalm
 duration,50 minutes
 description,What are your core strengths? How can you integrate your unique combination of talents and innate abilities into your personal and professional life? Focusing on what we do well provides greater opportunities for success and helps establish the foundation for some of our more dormant talents to develop and flourish. Come learn how to enjoy a better quality of life by focusing on your strengths.
-index,364
+index,363
 speakers,Melissa Wren
 Track,Life
 startday,5/4/2014
@@ -14958,7 +14916,7 @@ endtimeampm,3 PM
 Location,Nicolet
 duration,50 minutes
 description,"We will discuss and show off several kit examples of Arduino watches and clocks, and go over libraries for timekeeping and reading battery-backed clock chips."
-index,368
+index,367
 speakers,Ethan Dicks
 Track,Tech
 startday,5/4/2014
@@ -15000,7 +14958,7 @@ endtimeampm,3 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Check out Game Bangers: The Webseries. A D&D Parody where table top gaming has been illegalized. Gamers must resort to underground gaming dens to play, while hiding from the police trying to bust them."
-index,361
+index,360
 speakers,
 Track,Film
 startday,5/4/2014
@@ -15042,7 +15000,7 @@ endtimeampm,4 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
-index,369
+index,368
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Ed Mason, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 Track,Penguicon Events
 startday,5/4/2014
