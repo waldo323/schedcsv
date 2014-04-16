@@ -16,6 +16,6 @@ cp penguicon.schedule.xml ./output/penguicon.schedule.xml
 zip ./output/schedsbyspeaker.zip ./output/schedbyspeaker/*
 git add ./output/schedsbyspeaker.zip
 echo time and date of task `date>> ../logs/getrunpushcron.log` 
-date
+
 # push the schedule and output files to github ./pushsched.sh
 git status|awk '/Changes/&&/not/&&/staged/{system("./pushsched.sh")}'
