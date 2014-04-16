@@ -7115,48 +7115,6 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,16:50
-endday,5/3/2014
-private,PUBLIC
-endtimeampm,4 PM
-Location,Charlevoix C
-duration,1 hour and 50 minutes
-description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
-index,177
-speakers,"John D. Bell, Susan"
-Track,Tech
-startday,5/3/2014
-Title,"Linux - the Scary, Scary Command Line"
-Start Time,15:00
-event_start,15:00
-starttimeampm,3 PM
-End Time,16:50
-tracknosp,Tech
-input,"['5/3/2014', '15:00', '5/3/2014', '16:50', 'Charlevoix C', 'Tech', 'Linux - the Scary, Scary Command Line', 'John D. Bell, Susan', 'Linux hasn\'t always had a GUI, and you don\'t *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before.', 'FALSE', 'PUBLIC', 'Projector']"
-End Date,5/3/2014
-calspeakers,"John D. Bell, Susan"
-avneeds,Projector
-speakerlist,"['John D. Bell', 'Susan']"
-hours,1
-totalminutes,110
-speakernosplist,"['JohnD.Bell', 'Susan']"
-caldescrip,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, 'shell' and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
-endtime,16:50
-AV Needs,Projector
-name,"Linux - the Scary, Scary Command Line"
-Private,PUBLIC
-venue,Charlevoix C
-Book Description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box. Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools. You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap. Attendance limited. Sign up at Ops no less than one hour before."
-Presenters,"John D. Bell, Susan"
-csvsafedescrip,Linux hasn't always had a GUI- and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary- scary- 'shell' and its tools.  You will need a WiFi-equipped- ssh-running gizmo (laptop- tablet- smartphone) with a *good* keyboard- your mad typing skillz- and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before.
-speakernosp,"JohnD.Bell,Susan"
-starttime,15:00
-roomnosp,CharlevoixC
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
-event_type,Tech
-All Day Event,FALSE
 event_end,15:50
 endday,5/3/2014
 private,PUBLIC
@@ -11581,6 +11539,48 @@ roomnosp,AlgonquinBC
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
+event_type,Eco
+All Day Event,FALSE
+event_end,10:50
+endday,5/4/2014
+private,PUBLIC
+endtimeampm,10 AM
+Location,Board of Governors
+duration,50 minutes
+description,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
+index,279
+speakers,
+Track,Eco
+startday,5/4/2014
+Title,BoF: Homesteading for Begininers
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
+tracknosp,Eco
+input,"['5/4/2014', '10:00', '5/4/2014', '10:50', 'Board of Governors', 'Eco', 'BoF: Homesteading for Begininers', '', 'Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. ', 'FALSE', 'PUBLIC', '']"
+End Date,5/4/2014
+calspeakers,
+avneeds,none
+speakerlist,['']
+hours,0
+totalminutes,50
+speakernosplist,['']
+caldescrip,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
+endtime,10:50
+AV Needs,
+name,BoF: Homesteading for Begininers
+Private,PUBLIC
+venue,Board of Governors
+Book Description,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
+Presenters,
+csvsafedescrip,Come together and share your resources- tips- and skills on living the self-sustaining lifestyle. 
+speakernosp,
+starttime,10:00
+roomnosp,BoardofGovernors
+Start Date,5/4/2014
+minutes,50
+allday,FALSE
 event_type,DIY
 All Day Event,FALSE
 event_end,10:50
@@ -15159,6 +15159,48 @@ roomnosp,AlgonquinBC
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
+event_type,Tech
+All Day Event,FALSE
+event_end,9:50
+endday,5/4/2014
+private,PUBLIC
+endtimeampm,9 AM
+Location,Board of Trustees
+duration,1 hour and 50 minutes
+description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
+index,177
+speakers,"John D. Bell, Susan"
+Track,Tech
+startday,5/4/2014
+Title,"Linux - the Scary, Scary Command Line"
+Start Time,8:00
+event_start,8:00
+starttimeampm,8 AM
+End Time,9:50
+tracknosp,Tech
+input,"['5/4/2014', '8:00', '5/4/2014', '9:50', 'Board of Trustees', 'Tech', 'Linux - the Scary, Scary Command Line', 'John D. Bell, Susan', 'Linux hasn\'t always had a GUI, and you don\'t *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before.', 'FALSE', 'PUBLIC', 'Projector']"
+End Date,5/4/2014
+calspeakers,"John D. Bell, Susan"
+avneeds,Projector
+speakerlist,"['John D. Bell', 'Susan']"
+hours,1
+totalminutes,110
+speakernosplist,"['JohnD.Bell', 'Susan']"
+caldescrip,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, 'shell' and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
+endtime,9:50
+AV Needs,Projector
+name,"Linux - the Scary, Scary Command Line"
+Private,PUBLIC
+venue,Board of Trustees
+Book Description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box. Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools. You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap. Attendance limited. Sign up at Ops no less than one hour before."
+Presenters,"John D. Bell, Susan"
+csvsafedescrip,Linux hasn't always had a GUI- and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary- scary- 'shell' and its tools.  You will need a WiFi-equipped- ssh-running gizmo (laptop- tablet- smartphone) with a *good* keyboard- your mad typing skillz- and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before.
+speakernosp,"JohnD.Bell,Susan"
+starttime,8:00
+roomnosp,BoardofTrustees
+Start Date,5/4/2014
+minutes,50
+allday,FALSE
 event_type,Film
 All Day Event,FALSE
 event_end,9:50
@@ -15408,48 +15450,6 @@ csvsafedescrip,Can you share any ideas on how we can make our technical clubs an
 speakernosp,
 starttime,9:00
 roomnosp,BoardofRegents
-Start Date,5/4/2014
-minutes,50
-allday,FALSE
-event_type,Eco
-All Day Event,FALSE
-event_end,9:50
-endday,5/4/2014
-private,PUBLIC
-endtimeampm,9 AM
-Location,Board of Trustees
-duration,50 minutes
-description,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
-index,279
-speakers,
-Track,Eco
-startday,5/4/2014
-Title,BoF: Homesteading for Begininers
-Start Time,9:00
-event_start,9:00
-starttimeampm,9 AM
-End Time,9:50
-tracknosp,Eco
-input,"['5/4/2014', '9:00', '5/4/2014', '9:50', 'Board of Trustees', 'Eco', 'BoF: Homesteading for Begininers', '', 'Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. ', 'FALSE', 'PUBLIC', '']"
-End Date,5/4/2014
-calspeakers,
-avneeds,none
-speakerlist,['']
-hours,0
-totalminutes,50
-speakernosplist,['']
-caldescrip,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
-endtime,9:50
-AV Needs,
-name,BoF: Homesteading for Begininers
-Private,PUBLIC
-venue,Board of Trustees
-Book Description,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
-Presenters,
-csvsafedescrip,Come together and share your resources- tips- and skills on living the self-sustaining lifestyle. 
-speakernosp,
-starttime,9:00
-roomnosp,BoardofTrustees
 Start Date,5/4/2014
 minutes,50
 allday,FALSE

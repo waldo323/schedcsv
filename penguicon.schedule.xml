@@ -697,10 +697,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Life</topic>
 <room>Charlevoix B</room>
 <blurb><participant></participant> </blurb></event>
-<event><title>Linux - the Scary, Scary Command Line</title>
-<topic>Tech</topic>
-<room>Charlevoix C</room>
-<blurb><participant>John D. Bell, Susan</participant> Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, "shell" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Teaching Free Software to Homeschoolers</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -1141,6 +1137,10 @@ Meant for those with little to no experience, this session will introduce you to
 
 Second Hour: Spin Jam!
 Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>BoF: Homesteading for Begininers</title>
+<topic>Eco</topic>
+<room>Board of Governors</room>
+<blurb><participant></participant> </blurb></event>
 <event><title>DIY Bubble Mix and Wands</title>
 <topic>DIY</topic>
 <room>Board of Regents</room>
@@ -1492,6 +1492,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <room>Algonquin B/C</room>
 <blurb><participant>Open</participant> Continue the jams with Penguicon's awesome chiptune artists. All chiptunes artists are welcome to join in.  Featuring live visuals by Ohhinaifu and Walk In Circles. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>8 AM</time>
+<event><title>Linux - the Scary, Scary Command Line</title>
+<topic>Tech</topic>
+<room>Board of Trustees</room>
+<blurb><participant>John D. Bell, Susan</participant> Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, "shell" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>The Brain That Wouldn't Die</title>
 <topic>Film</topic>
 <room>Portage Auditorium</room>
@@ -1516,10 +1520,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <event><title>BoF: Building a Tech Community</title>
 <topic>Tech</topic>
 <room>Board of Regents</room>
-<blurb><participant></participant> </blurb></event>
-<event><title>BoF: Homesteading for Begininers</title>
-<topic>Eco</topic>
-<room>Board of Trustees</room>
 <blurb><participant></participant> </blurb></event>
 <event><title>Firearms and the Law</title>
 <topic>Action Adventure</topic>
