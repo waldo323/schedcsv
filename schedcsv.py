@@ -40,6 +40,7 @@ schedule_header= """Start Date,Start Time,End Date,End Time,Duration,Location,Tr
 schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s",%(event_type)s,"%(name)s","%(speakers)s",'%(csvsafedescrip)s',%(allday)s,%(private)s,%(avneeds)s\n"""
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
+speaker_calendar_templatee=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
 
 # replace all function to help with the clean up
 def replace_all(text, dic):
@@ -403,7 +404,7 @@ with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
       for speakernosp in y['speakernosplist']:
         with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
         #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
-            tempspeakersched.write(schedule_header)
+            tempspeakersched.write(calendar_header)
             tempspeakersched.close()
     for index, y in enumerate(sessions):
         #if not y['All Day Event'] == 'All Day Event':
@@ -413,7 +414,7 @@ with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
             temproomsched.close()
             for speaker in y['speakernosplist']:
                 with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
-                    tempspeakersched.write(schedule_csv_template % y)
+                    tempspeakersched.write(speaker_calendar_template % y)
                 tempspeakersched.close()
 
 fullschedule.close()
