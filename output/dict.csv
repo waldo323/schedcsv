@@ -14539,7 +14539,7 @@ Location,Windover
 duration,1 hour and 50 minutes
 description,Readings by Literature Track Guests and Panelists
 index,352
-speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi"
+speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
 Track,Lit
 startday,5/4/2014
 Title,Author Readings
@@ -14548,14 +14548,14 @@ event_start,14:00
 starttimeampm,2 PM
 End Time,15:50
 tracknosp,Lit
-input,"['5/4/2014', '14:00', '5/4/2014', '15:50', 'Windover', 'Lit', 'Author Readings', 'Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi', 'Readings by Literature Track Guests and Panelists', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '14:00', '5/4/2014', '15:50', 'Windover', 'Lit', 'Author Readings', 'Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis', 'Readings by Literature Track Guests and Panelists', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi"
+calspeakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
 avneeds,none
-speakerlist,"['Ken MacGreggor', 'Mary Lynne Gibbs', 'Nicole Castle', 'John Scalzi']"
+speakerlist,"['Ken MacGreggor', 'Mary Lynne Gibbs', 'Nicole Castle', 'John Scalzi', 'Sean Davis']"
 hours,1
 totalminutes,110
-speakernosplist,"['KenMacGreggor', 'MaryLynneGibbs', 'NicoleCastle', 'JohnScalzi']"
+speakernosplist,"['KenMacGreggor', 'MaryLynneGibbs', 'NicoleCastle', 'JohnScalzi', 'SeanDavis']"
 caldescrip,Readings by Literature Track Guests and Panelists
 endtime,15:50
 AV Needs,
@@ -14563,9 +14563,9 @@ name,Author Readings
 Private,PUBLIC
 venue,Windover
 Book Description,Readings by Literature Track Guests and Panelists
-Presenters,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi"
+Presenters,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
 csvsafedescrip,Readings by Literature Track Guests and Panelists
-speakernosp,"KenMacGreggor,MaryLynneGibbs,NicoleCastle,JohnScalzi"
+speakernosp,"KenMacGreggor,MaryLynneGibbs,NicoleCastle,JohnScalzi,SeanDavis"
 starttime,14:00
 roomnosp,Windover
 Start Date,5/4/2014
