@@ -3201,7 +3201,7 @@ private,PUBLIC
 endtimeampm,11 PM
 Location,Portage Auditorium
 duration,2 hours and 50 minutes
-description,"""The Rocky Horror Picture Show"" Come join us for a strange journey... "
+description,"""The Rocky Horror Picture Show"" Come join us for a strange journey... where aliens and Earth meet!  Infamous aliens arrive in this galaxy again to give themselves over to absolute pleasure.  Join with fellow ""Unconventional Conventionists"" in this strange journey. Cosplay is encouraged!"
 index,69
 speakers,Tim Downing
 Track,Film
@@ -3212,7 +3212,7 @@ event_start,21:00
 starttimeampm,9 PM
 End Time,23:50
 tracknosp,Film
-input,"['5/2/2014', '21:00', '5/2/2014', '23:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show - The Movie!', 'Tim Downing', '""The Rocky Horror Picture Show"" Come join us for a strange journey... ', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+input,"['5/2/2014', '21:00', '5/2/2014', '23:50', 'Portage Auditorium', 'Film', 'Rocky Horror Picture Show - The Movie!', 'Tim Downing', '""The Rocky Horror Picture Show"" Come join us for a strange journey... where aliens and Earth meet!  Infamous aliens arrive in this galaxy again to give themselves over to absolute pleasure.  Join with fellow ""Unconventional Conventionists"" in this strange journey. Cosplay is encouraged!', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/2/2014
 calspeakers,Tim Downing
 avneeds,"Projector, Sound System"
@@ -3220,15 +3220,15 @@ speakerlist,['Tim Downing']
 hours,2
 totalminutes,170
 speakernosplist,['TimDowning']
-caldescrip,'The Rocky Horror Picture Show' Come join us for a strange journey... 
+caldescrip,'The Rocky Horror Picture Show' Come join us for a strange journey... where aliens and Earth meet!  Infamous aliens arrive in this galaxy again to give themselves over to absolute pleasure.  Join with fellow 'Unconventional Conventionists' in this strange journey. Cosplay is encouraged!
 endtime,23:50
 AV Needs,"Projector, Sound System"
 name,Rocky Horror Picture Show - The Movie!
 Private,PUBLIC
 venue,Portage Auditorium
-Book Description,"""The Rocky Horror Picture Show"" Come join us for a strange journey... "
+Book Description,"""The Rocky Horror Picture Show"" Come join us for a strange journey... where aliens and Earth meet! Infamous aliens arrive in this galaxy again to give themselves over to absolute pleasure. Join with fellow ""Unconventional Conventionists"" in this strange journey. Cosplay is encouraged!"
 Presenters,Tim Downing
-csvsafedescrip,'The Rocky Horror Picture Show' Come join us for a strange journey... 
+csvsafedescrip,'The Rocky Horror Picture Show' Come join us for a strange journey... where aliens and Earth meet!  Infamous aliens arrive in this galaxy again to give themselves over to absolute pleasure.  Join with fellow 'Unconventional Conventionists' in this strange journey. Cosplay is encouraged!
 speakernosp,TimDowning
 starttime,21:00
 roomnosp,PortageAuditorium
