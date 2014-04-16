@@ -10,7 +10,7 @@ git rm ./output/schedsbyspeaker.zip
 echo get schedule and run the parsing script on the schedule 
 ./getsched.sh
 
-make it easier to find the schedule
+# make it easier to find the schedule
 cp penguicon.schedule.xml ./output/penguicon.schedule.xml 
 # zip up the speakers' csv import to ical files
 zip ./output/schedsbyspeaker.zip ./output/schedbyspeaker/*
