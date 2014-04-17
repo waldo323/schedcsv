@@ -41,10 +41,6 @@
 <topic>Videogaming</topic>
 <room>Algonquin D</room>
 <blurb><participant>Britain Woodman, David Carter</participant> Britain Woodman, David Carter</blurb></event>
-<event><title>How To Throw A Party</title>
-<topic>Life</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Sal Sanfratello</participant> Sal Sanfratello</blurb></event>
 <event><title>BoF: Why Johnny Can't Code</title>
 <topic>Tech</topic>
 <room>Board of Regents</room>
@@ -57,6 +53,10 @@
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> In Nuns on the Run™ you explore the exciting nocturnal world of a grand abbey filled with intrigue and deception. As the old abbess, the noble prioress, or a simple novice you become hunter or prey. Everyone gets a special "blessing" but only the novices try to fulfill a "secret wish." They must sneak through the dimly lit halls, corridors, and gardens, seeking keys and treasures unique to their goal. Meanwhile, the vigilant abbess and prioress patrol their routes, ever watchful of young novices who should be fast asleep in their austere cells. Are you wily enough to fulfill your quest and win the night? <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>How To Throw A Party</title>
+<topic>Life</topic>
+<room>Hamlin</room>
+<blurb><participant>Sal Sanfratello</participant> Sal Sanfratello</blurb></event>
 <event><title>Paint and Take</title>
 <topic>DIY</topic>
 <room>Lobby</room>
@@ -78,10 +78,10 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Heather Aman</participant> Heather Aman</blurb></event>
-<event><title>Life Hacks: Communication</title>
-<topic>Life</topic>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
 <room>Baldwin Board Room</room>
-<blurb><participant>Ed Platt</participant> Ed Platt</blurb></event>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
 <event><title>So This is Your First Penguicon?</title>
 <topic>Penguicon Events</topic>
 <room>Board of Governors</room>
@@ -102,10 +102,10 @@
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Selina Firecat</participant> Selina Firecat</blurb></event>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
+<event><title>Life Hacks: Communication</title>
+<topic>Life</topic>
 <room>Hamlin</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Ed Platt</participant> Ed Platt</blurb></event>
 <event><title>On Location: Local Food and Local Businesses, and Why We Need Them</title>
 <topic>Eco</topic>
 <room>Montcalm</room>
@@ -127,10 +127,6 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Bob Trembley</participant> Bob Trembley</blurb></event>
-<event><title>Writing for the Web </title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Tracy Herrell, Rob Reed</participant> Tracy Herrell, Rob Reed</blurb></event>
 <event><title>The Hidden Sub-Genres</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -155,6 +151,10 @@
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Jake Newman, Fred Lthrop</participant> Come join us for the ultimate dungeon crawl through the "Ruins of Undermountain." Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice, you have the vice! <duration>2 hours and 50 minutes</duration></blurb></event>
+<event><title>Writing for the Web </title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Tracy Herrell, Rob Reed</participant> Tracy Herrell, Rob Reed</blurb></event>
 <event><title>Conquering HTML5 Apps: Session 1</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -168,10 +168,6 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Marie-therese Enga, Bob Trembley</participant> Marie-therese Enga, Bob Trembley</blurb></event>
-<event><title>Plotters vs Pantsers – Finding the Storytelling That Works For You</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Ferrett Steinmetz, Michael Cieslak, Jim Leach</participant> Ferrett Steinmetz, Michael Cieslak, Jim Leach</blurb></event>
 <event><title>GoH Social Hour</title>
 <topic>Penguicon Events</topic>
 <room>Bar</room>
@@ -200,6 +196,10 @@
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Amy Castner</participant> Amy Castner</blurb></event>
+<event><title>Plotters vs Pantsers – Finding the Storytelling That Works For You</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Ferrett Steinmetz, Michael Cieslak, Jim Leach</participant> Ferrett Steinmetz, Michael Cieslak, Jim Leach</blurb></event>
 <event><title>What's the Deal with "Internal" Martial Arts?</title>
 <topic>Life</topic>
 <room>Montcalm</room>
@@ -278,10 +278,6 @@
 <topic>Music</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Dixon's Violin</participant> Dixon's Violin</blurb></event>
-<event><title>BoF: Arduino</title>
-<topic>Tech</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant></participant> </blurb></event>
 <event><title>Safewords, Beginning to Expert</title>
 <topic>After Dark</topic>
 <room>Board of Governors</room>
@@ -298,6 +294,10 @@
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Heather Gutterman, Caitlynn Poirier, Taylor Watkins</participant> Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>BoF: Arduino</title>
+<topic>Tech</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> </blurb></event>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -323,10 +323,6 @@
 <topic>Music</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>boaconstructor</participant> boaconstructor</blurb></event>
-<event><title>Parasitic Paranormals: Getting Rid of Them</title>
-<topic>After Dark</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Shetan Noir</participant> Shetan Noir</blurb></event>
 <event><title>Just Happy to Be Here Presents Romeo and Juliet, The Funny Version</title>
 <topic>Life</topic>
 <room>Board of Governors</room>
@@ -347,6 +343,10 @@
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Nick Farr, M'jit Raindancer-Stahl, Dean Stahl</participant> We're going to attempt the biggest game of Cards Against Humanity ever.  Even if you've only heard about this wild tabletop game, show up for the fun and stay for the chaos. <duration>2 hours and 50 minutes</duration></blurb></event>
+<event><title>Parasitic Paranormals: Getting Rid of Them</title>
+<topic>After Dark</topic>
+<room>Hamlin</room>
+<blurb><participant>Shetan Noir</participant> Shetan Noir</blurb></event>
 <event><title>Gaming Without Boundaries</title>
 <topic>Gaming</topic>
 <room>Montcalm</room>
@@ -408,10 +408,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Ron Demerino</participant> Ron Demerino</blurb></event>
-<event><title>Filmmaker's Forum</title>
-<topic>Film</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Keith Martens, James Fernandez</participant> Keith Martens, James Fernandez</blurb></event>
 <event><title>BoF: Open Source Software for Everyday Use</title>
 <topic>Tech</topic>
 <room>Board of Governors</room>
@@ -444,6 +440,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Bill Korsak</participant> Fifteen players will have a chance to become the first winner of "Chopped GM." There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? <duration>2 hours and 50 minutes</duration></blurb></event>
+<event><title>Filmmaker's Forum</title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant>Keith Martens, James Fernandez</participant> Keith Martens, James Fernandez</blurb></event>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -465,10 +465,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Action Adventure</topic>
 <room>Algonquin D</room>
 <blurb><participant>Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens</participant> A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Digging Up The Same Old Ground</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Sean M. Davis, Ferrett Steinmetz, NIcole Castle</participant> Sean M. Davis, Ferrett Steinmetz, NIcole Castle</blurb></event>
 <event><title>Creating Safe Spaces</title>
 <topic>Penguicon Events</topic>
 <room>Board of Governors</room>
@@ -493,6 +489,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Amy Castner</participant> Amy Castner</blurb></event>
+<event><title>Digging Up The Same Old Ground</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Sean M. Davis, Ferrett Steinmetz, NIcole Castle</participant> Sean M. Davis, Ferrett Steinmetz, NIcole Castle</blurb></event>
 <event><title>Sudo: You're Doing It Wrong</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -506,10 +506,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Life</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Mike Burrell, Jasna Todorovic</participant> Come for a beginner lesson on lindy hop, an almost century-old swing dance that's still going strong! Have fun with music with your fellow nerds, explore lead-follow dynamics, and pick up a new skill. Previous experience and coordination are NOT required. We'll be rotating partners (except for those who aren't comfortable rotating partners), so there's no need to bring your own. Comfortable shoes are recommended. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Fun with High-Voltage Toys</title>
-<topic>Tech</topic>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
 <room>Baldwin Board Room</room>
-<blurb><participant>Keith Moore</participant> Keith Moore</blurb></event>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>5 hours and 50 minutes</duration></blurb></event>
 <event><title>Ubuntu: Latest Updates</title>
 <topic>Tech</topic>
 <room>Board of Governors</room>
@@ -534,10 +534,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Richard Houser</participant> Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
+<event><title>Fun with High-Voltage Toys</title>
+<topic>Tech</topic>
 <room>Hamlin</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>5 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Keith Moore</participant> Keith Moore</blurb></event>
 <event><title>Let's Juggle!</title>
 <topic>Life</topic>
 <room>Lobby</room>
@@ -677,10 +677,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Eva Galperin, Cory Doctorow</participant> Eva Galperin, Cory Doctorow</blurb></event>
-<event><title>Reviewing for the Masses</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Janea Schimmel</participant> Janea Schimmel</blurb></event>
 <event><title>Health at Every Size</title>
 <topic>Life</topic>
 <room>Board of Governors</room>
@@ -697,6 +693,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Life</topic>
 <room>Charlevoix B</room>
 <blurb><participant></participant> </blurb></event>
+<event><title>Reviewing for the Masses</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Janea Schimmel</participant> Janea Schimmel</blurb></event>
 <event><title>Teaching Free Software to Homeschoolers</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -722,10 +722,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Bob Trembley</participant> Bob Trembley</blurb></event>
-<event><title>What About The Happily Ever After?</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant> Jim Leach, Ferrett Steinmetz</participant>  Jim Leach, Ferrett Steinmetz</blurb></event>
 <event><title>Geek Culture: Embracing Exercise?</title>
 <topic>Life</topic>
 <room>Board of Governors</room>
@@ -758,6 +754,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Jake Newman, Fred Lthrop</participant> Come join us for the ultimate dungeon crawl through the "Ruins of Undermountain." Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice, you have the vice! <duration>2 hours and 50 minutes</duration></blurb></event>
+<event><title>What About The Happily Ever After?</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant> Jim Leach, Ferrett Steinmetz</participant>  Jim Leach, Ferrett Steinmetz</blurb></event>
 <event><title>Two-Factor Authentication: A Primer</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -783,10 +783,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Music</topic>
 <room>Algonquin D</room>
 <blurb><participant>YTCracker</participant> YTCracker</blurb></event>
-<event><title>Line?  What Line?  Taboos and Speculative Fiction</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</blurb></event>
 <event><title>World Building</title>
 <topic>Gaming</topic>
 <room>Board of Governors</room>
@@ -807,6 +803,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Food</topic>
 <room>Con Suite</room>
 <blurb><participant></participant> </blurb></event>
+<event><title>Line?  What Line?  Taboos and Speculative Fiction</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</blurb></event>
 <event><title>An Intro to Foraging in Michigan</title>
 <topic>Eco</topic>
 <room>Montcalm</room>
@@ -828,10 +828,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Eva Galperin, Cory Doctorow, Nick Farr</participant> Eva Galperin, Cory Doctorow, Nick Farr</blurb></event>
-<event><title>Of Gods, Heroes and Their Foes...</title>
-<topic>Film</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>LadyAna, Professor X   </participant> LadyAna, Professor X   </blurb></event>
 <event><title>Obligatory Undead Panel: Is Undead Dead</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -856,6 +852,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Matt Arnold</participant> In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome! <duration>2 hours and 50 minutes</duration></blurb></event>
+<event><title>Of Gods, Heroes and Their Foes...</title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant>LadyAna, Professor X   </participant> LadyAna, Professor X   </blurb></event>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -885,12 +885,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Tom Callaway</participant> Tom Callaway</blurb></event>
-<event><title>The Importance of Editing and Non-Writing For Would-Be Writers</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>
-Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> 
-Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <event><title>Women in Tech Meetup</title>
 <topic>Tech</topic>
 <room>Bar</room>
@@ -919,6 +913,12 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</participant> Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</blurb></event>
+<event><title>The Importance of Editing and Non-Writing For Would-Be Writers</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>
+Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> 
+Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <event><title>Sustainable Engineering in Developing Economies</title>
 <topic>Eco</topic>
 <room>Montcalm</room>
@@ -945,10 +945,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Ruth Suehle, Tom Callaway</participant> Ruth Suehle, Tom Callaway</blurb></event>
-<event><title>Open Readings</title>
-<topic>Lit</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant></participant> </blurb></event>
 <event><title>Ubuntu Release Party</title>
 <topic>Tech</topic>
 <room>Bar</room>
@@ -973,6 +969,10 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</participant> Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</blurb></event>
+<event><title>Open Readings</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> </blurb></event>
 <event><title>Inside Game Face Labs</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -998,10 +998,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <topic>Gaming</topic>
 <room>Algonquin D</room>
 <blurb><participant>Sarah Elkins, Cylithria Dubois</participant> Sarah Elkins, Cylithria Dubois</blurb></event>
-<event><title>BoF: Gamers Looking for Campaigns</title>
-<topic>Gaming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant></participant> </blurb></event>
 <event><title>Creepy Fun, But Would You Read It?</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -1034,6 +1030,10 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</blurb></event>
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> Players are recent immigrants to the newly populated island of Catan. Expand your colony through the building of settlements, roads, and villages by harvesting commodities from the land around you. Trade sheep, lumber, bricks and grain for a settlement, bricks and wood for a road, or try to complete other combinations for more advanced buildings, services and specials. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>BoF: Gamers Looking for Campaigns</title>
+<topic>Gaming</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> </blurb></event>
 <event><title>Polyamory 201</title>
 <topic>After Dark</topic>
 <room>Montcalm</room>
@@ -1137,6 +1137,10 @@ Meant for those with little to no experience, this session will introduce you to
 
 Second Hour: Spin Jam!
 Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<room>Baldwin Board Room</room>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
 <event><title>BoF: Homesteading for Begininers</title>
 <topic>Eco</topic>
 <room>Board of Governors</room>
@@ -1169,10 +1173,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
-<room>Hamlin</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
 <event><title>Getting Things Done (GTD) Under Linux</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -1247,10 +1247,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Amara Sugalski, Catherine Shaffer, Jessica Roland</participant> Amara Sugalski, Catherine Shaffer, Jessica Roland</blurb></event>
-<event><title>Tarot Q & A</title>
-<topic>Life</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>CJ Tremlett, Alex Page</participant> CJ Tremlett, Alex Page</blurb></event>
 <event><title>The Emperor's New Clothes</title>
 <topic>Costuming</topic>
 <room>Board of Governors</room>
@@ -1293,6 +1289,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Richard Houser</participant> Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
  <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Tarot Q & A</title>
+<topic>Life</topic>
+<room>Hamlin</room>
+<blurb><participant>CJ Tremlett, Alex Page</participant> CJ Tremlett, Alex Page</blurb></event>
 <event><title>The Trials and Tribulations of  the Artists Lifestyle</title>
 <topic>Life</topic>
 <room>Montcalm</room>
@@ -1318,10 +1318,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Mike Bernson</participant> Mike Bernson</blurb></event>
-<event><title>Pen and Paper Game Design</title>
-<topic>Gaming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Kevin Siembieda</participant> Kevin Siembieda</blurb></event>
 <event><title>Penguicon 2015 Planning Meeting</title>
 <topic>Penguicon Events</topic>
 <room>Board of Regents</room>
@@ -1342,6 +1338,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Chad Crabtree</participant> Chad Crabtree</blurb></event>
+<event><title>Pen and Paper Game Design</title>
+<topic>Gaming</topic>
+<room>Hamlin</room>
+<blurb><participant>Kevin Siembieda</participant> Kevin Siembieda</blurb></event>
 <event><title>Paint and Take</title>
 <topic>DIY</topic>
 <room>Lobby</room>
@@ -1367,10 +1367,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Marie-therese Enga</participant> Marie-therese Enga</blurb></event>
-<event><title>You Monster! A Special Effects Makeup Demonstration</title>
-<topic>Costuming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Kat McConnell</participant> Kat McConnell</blurb></event>
 <event><title>Indeterminacy as a Compositional Tool: Tarot Cards and Writing</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -1411,6 +1407,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can.  <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>You Monster! A Special Effects Makeup Demonstration</title>
+<topic>Costuming</topic>
+<room>Hamlin</room>
+<blurb><participant>Kat McConnell</participant> Kat McConnell</blurb></event>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -1436,10 +1436,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Lit</topic>
 <room>Algonquin D</room>
 <blurb><participant>Rob Reed</participant> Rob Reed</blurb></event>
-<event><title>BoF: Recent Free Scifi Movies </title>
-<topic>Film</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant></participant> </blurb></event>
 <event><title>Midnight Monster Movies with Dr. Bob: Behind the Lab Coat</title>
 <topic>Film</topic>
 <room>Board of Governors</room>
@@ -1460,6 +1456,10 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>William Meyer, Kim Horger</participant> William Meyer, Kim Horger</blurb></event>
+<event><title>BoF: Recent Free Scifi Movies </title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> </blurb></event>
 <event><title>Living From Your Strengths</title>
 <topic>Life</topic>
 <room>Montcalm</room>
@@ -1509,10 +1509,6 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Film</topic>
 <room>Algonquin D</room>
 <blurb><participant>Derek Newland</participant> Derek Newland</blurb></event>
-<event><title>Live: Sunday Morning Linux Review</title>
-<topic>Tech</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Mat Enders, Mary Tomich, Tony Bemus</participant> Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Hunting For Fiction: How to Find What You Want To Read</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -1529,4 +1525,8 @@ Come show your stuff and perhaps pick up a new trick from your fellow con goers!
 <topic>Tech</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Phil Salkie</participant> Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things.  In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry.  Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters.  <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Live: Sunday Morning Linux Review</title>
+<topic>Tech</topic>
+<room>Hamlin</room>
+<blurb><participant>Mat Enders, Mary Tomich, Tony Bemus</participant> Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review <duration>1 hour and 50 minutes</duration></blurb></event>
 </document></events>
