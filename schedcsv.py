@@ -221,6 +221,7 @@ for index, x in enumerate(pconsched.schedule):
                 temptrack = re.sub(r'\(','', temptrack)
                 temptrack = re.sub(r'\)','', temptrack)
                 temptrack = re.sub(r'/','', temptrack)
+                print temptrack
                 session['tracknosp'].append(temptrack)
                 if eventtype not in tracks:
                   tracks.append(eventtype)
@@ -464,7 +465,8 @@ with open( caldir + "2014.penguicon.fullcalendar.csv",'w') as fullcalendar:
     for index, y in enumerate(sessions):
         if not y['All Day Event'] == 'All Day Event':
             fullcalendar.write(calendar_template % y)
-            for caltrack in session['tracknosp']:
+            print y['tracknosp']
+            for caltrack in y['tracknosp']:
               with open(caldir + caltrack + ".csv",'a') as tempcal:
                 tempcal.write(calendar_template % y)
               tempcal.close()
