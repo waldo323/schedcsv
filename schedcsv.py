@@ -19,12 +19,12 @@ else:
 programbook_template ="""<event><title>%(name)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
-<blurb><participant>%(speakers)s</participant> %(description)s <duration>%(duration)s</duration></blurb></event>\n"""
+<blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>\n"""
 
 hourtemplate ="""<event><title>%(name)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
-<blurb><participant>%(speakers)s</participant> %(speakers)s</blurb></event>\n"""
+<blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>\n"""
 
 extrainfo= """
 <startday>%(startday)s</startday>
@@ -259,8 +259,8 @@ for index, x in enumerate(pconsched.schedule):
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            #temptext = replace_all(fieldtext, addamp)         
-            #session['caldescrip'] = temptext
+            temptext = replace_all(fieldtext, addamp)         
+            session['bookdescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
             session['calspeakers'] = temptext
