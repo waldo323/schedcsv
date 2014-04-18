@@ -7,6 +7,7 @@ git rm ./output/2014.*
 git rm ./output/schedbyspeaker/*.csv
 git rm ./output/schedbyroom/*
 git rm ./output/schedsbyspeaker.zip
+git rm ./output/calendars/*
 echo get schedule and run the parsing script on the schedule 
 ./getsched.sh
 
