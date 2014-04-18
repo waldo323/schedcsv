@@ -8877,7 +8877,7 @@ roomnosp,PortageAuditorium
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, Life"
 All Day Event,FALSE
 event_end,18:50
 endday,5/3/2014
@@ -8888,15 +8888,15 @@ duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,219
 speakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
-Track,Tech
+Track,"Tech, Life"
 startday,5/3/2014
 Title,Building a Career in IT
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
-tracknosp,Tech
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Tech', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Tech,Life"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 avneeds,none
@@ -9129,7 +9129,7 @@ roomnosp,BoardofGovernors
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Costuming
+event_type,"Costuming, DIY"
 All Day Event,FALSE
 event_end,19:50
 endday,5/3/2014
@@ -9140,15 +9140,15 @@ duration,50 minutes
 description,"A professional face and body painter shows you how several beautiful designs can radiate from the eye with different combinations of a few simple strokes. Materials and guidance will be available for hands-on practice, so bring a face or two."
 index,226
 speakers,Sarah Metzler
-Track,Costuming
+Track,"Costuming, DIY"
 startday,5/3/2014
 Title,Face Painting How To
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
-tracknosp,Costuming
-input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Board of Regents', 'Costuming', 'Face Painting How To', 'Sarah Metzler', 'A professional face and body painter shows you how several beautiful designs can radiate from the eye with different combinations of a few simple strokes. Materials and guidance will be available for hands-on practice, so bring a face or two.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Costuming,DIY"
+input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Board of Regents', 'Costuming, DIY', 'Face Painting How To', 'Sarah Metzler', 'A professional face and body painter shows you how several beautiful designs can radiate from the eye with different combinations of a few simple strokes. Materials and guidance will be available for hands-on practice, so bring a face or two.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Sarah Metzler
 avneeds,none
@@ -9171,7 +9171,7 @@ roomnosp,BoardofRegents
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,After Dark
+event_type,Life
 All Day Event,FALSE
 event_end,19:50
 endday,5/3/2014
@@ -9182,15 +9182,15 @@ duration,50 minutes
 description,"If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!"
 index,227
 speakers,Dana McNabb
-Track,After Dark
+Track,Life
 startday,5/3/2014
 Title,Speed Dating for Open Relationships
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
-tracknosp,AfterDark
-input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Charlevoix A', 'After Dark', 'Speed Dating for Open Relationships', 'Dana McNabb', 'If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!', 'FALSE', 'PUBLIC', '']"
+tracknosp,Life
+input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Charlevoix A', 'Life', 'Speed Dating for Open Relationships', 'Dana McNabb', 'If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Dana McNabb
 avneeds,none
@@ -9297,7 +9297,7 @@ roomnosp,CharlevoixC
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,19:50
 endday,5/3/2014
@@ -9308,15 +9308,15 @@ duration,50 minutes
 description,"Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with ""pfffft!"" and come anyway. 21 and over, please."
 index,230
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
-Track,Food
+Track,"Food, After Dark"
 startday,5/3/2014
 Title,Stupendous Jello Shots
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
-tracknosp,Food
-input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Food Track (Room 1017)', 'Food', 'Stupendous Jello Shots', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin', 'Explore the dark secrets of making the BEST jello shots of all time. We\'ll share some with you to prove it!. Already know all there is about jello shots? Let\'s go with ""pfffft!"" and come anyway. 21 and over, please.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/3/2014', '19:00', '5/3/2014', '19:50', 'Food Track (Room 1017)', 'Food, After Dark', 'Stupendous Jello Shots', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin', 'Explore the dark secrets of making the BEST jello shots of all time. We\'ll share some with you to prove it!. Already know all there is about jello shots? Let\'s go with ""pfffft!"" and come anyway. 21 and over, please.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 avneeds,none
@@ -9719,7 +9719,7 @@ roomnosp,BoardofGovernors
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Costuming
+event_type,"Costuming, DIY"
 All Day Event,FALSE
 event_end,20:50
 endday,5/3/2014
@@ -9731,15 +9731,15 @@ description,"Want to make your own samurai armor? Well, let's get started! In th
 Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"
 index,239
 speakers,Alexander Kostrzewa
-Track,Costuming
+Track,"Costuming, DIY"
 startday,5/3/2014
 Title,Armour Academy: Samurai Edition!
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
-tracknosp,Costuming
-input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Board of Regents', 'Costuming', 'Armour Academy: Samurai Edition!', 'Alexander Kostrzewa', ""Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari \xe2\x80\x93 a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own!\nKits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"", 'FALSE', 'PUBLIC', '']"
+tracknosp,"Costuming,DIY"
+input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Board of Regents', 'Costuming, DIY', 'Armour Academy: Samurai Edition!', 'Alexander Kostrzewa', ""Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari \xe2\x80\x93 a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own!\nKits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Alexander Kostrzewa
 avneeds,none
@@ -9847,7 +9847,7 @@ roomnosp,CharlevoixC
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,20:50
 endday,5/3/2014
@@ -9858,15 +9858,15 @@ duration,50 minutes
 description,"Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples."
 index,242
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
-Track,Food
+Track,"Food, After Dark"
 startday,5/3/2014
 Title,The Pudding Shot Technique
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
-tracknosp,Food
-input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Food Track (Room 1017)', 'Food', 'The Pudding Shot Technique', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin', 'Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Food Track (Room 1017)', 'Food, After Dark', 'The Pudding Shot Technique', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin', 'Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 avneeds,none
@@ -10015,7 +10015,7 @@ roomnosp,Nicolet
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Film
+event_type,"Film, After Dark"
 All Day Event,FALSE
 event_end,0:50
 endday,5/4/2014
@@ -10026,15 +10026,15 @@ duration,4 hours and 50 minutes
 description,"In short, the Smithee Awards are like the Anti-people's Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust."
 index,245
 speakers,"Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon"
-Track,Film
+Track,"Film, After Dark"
 startday,5/3/2014
 Title,The Smithee Awards
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
 End Time,0:50
-tracknosp,Film
-input,"['5/3/2014', '20:00', '5/4/2014', '0:50', 'Portage Auditorium', 'Film', 'The Smithee Awards', 'Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon', 'In short, the Smithee Awards are like the Anti-people\'s Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust.', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+tracknosp,"Film,AfterDark"
+input,"['5/3/2014', '20:00', '5/4/2014', '0:50', 'Portage Auditorium', 'Film, After Dark', 'The Smithee Awards', 'Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon', 'In short, the Smithee Awards are like the Anti-people\'s Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust.', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/4/2014
 calspeakers,"Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon"
 avneeds,"Projector, Sound System"
@@ -10393,7 +10393,7 @@ roomnosp,CharlevoixB
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,22:50
 endday,5/3/2014
@@ -10404,15 +10404,15 @@ duration,1 hour and 50 minutes
 description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops."
 index,255
 speakers,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
-Track,Food
+Track,"Food, After Dark"
 startday,5/3/2014
 Title,Completely Random Guide to Cocktail Crafting
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
 End Time,22:50
-tracknosp,Food
-input,"['5/3/2014', '21:00', '5/3/2014', '22:50', 'Food Track (Room 1017)', 'Food', 'Completely Random Guide to Cocktail Crafting', 'Nathan Balyeat, Olesh Hotra, Cameron Taylor', 'Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/3/2014', '21:00', '5/3/2014', '22:50', 'Food Track (Room 1017)', 'Food, After Dark', 'Completely Random Guide to Cocktail Crafting', 'Nathan Balyeat, Olesh Hotra, Cameron Taylor', 'Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
 avneeds,none
@@ -10561,7 +10561,7 @@ roomnosp,Hamlin
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,After Dark
+event_type,Life
 All Day Event,FALSE
 event_end,21:50
 endday,5/3/2014
@@ -10572,15 +10572,15 @@ duration,50 minutes
 description,"Advanced polyamory topics for practicing polyamorists.  We're skipping basics like ""what is polyamory"" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more."
 index,258
 speakers,Susan
-Track,After Dark
+Track,Life
 startday,5/3/2014
 Title,Polyamory 201
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
 End Time,21:50
-tracknosp,AfterDark
-input,"['5/3/2014', '21:00', '5/3/2014', '21:50', 'Montcalm', 'After Dark', 'Polyamory 201', 'Susan', 'Advanced polyamory topics for practicing polyamorists.  We\'re skipping basics like ""what is polyamory"" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more.', 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,Life
+input,"['5/3/2014', '21:00', '5/3/2014', '21:50', 'Montcalm', 'Life', 'Polyamory 201', 'Susan', 'Advanced polyamory topics for practicing polyamorists.  We\'re skipping basics like ""what is polyamory"" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more.', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,Susan
 avneeds,Projector
@@ -10729,7 +10729,7 @@ roomnosp,BoardofRegents
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,After Dark
+event_type,Life
 All Day Event,FALSE
 event_end,22:50
 endday,5/3/2014
@@ -10740,15 +10740,15 @@ duration,50 minutes
 description,"For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"
 index,262
 speakers,"Victoria Stapels, Sunny Smith, Michael McAtee "
-Track,After Dark
+Track,Life
 startday,5/3/2014
 Title,Kevin Bacon of Love
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
 End Time,22:50
-tracknosp,AfterDark
-input,"['5/3/2014', '22:00', '5/3/2014', '22:50', 'Charlevoix C', 'After Dark', 'Kevin Bacon of Love', 'Victoria Stapels, Sunny Smith, Michael McAtee ', ""For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"", 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,Life
+input,"['5/3/2014', '22:00', '5/3/2014', '22:50', 'Charlevoix C', 'Life', 'Kevin Bacon of Love', 'Victoria Stapels, Sunny Smith, Michael McAtee ', ""For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,"Victoria Stapels, Sunny Smith, Michael McAtee "
 avneeds,Projector
