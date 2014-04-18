@@ -4803,7 +4803,7 @@ roomnosp,BoardofRegents
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, Life"
 All Day Event,FALSE
 event_end,11:50
 endday,5/3/2014
@@ -4814,15 +4814,15 @@ duration,50 minutes
 description,"Is tech hiring like Pokemon?  How do you hire *and* hang on to good people?  What do recruiting and retention have to do with each other?  If you're looking for a job, does ""passion"" in the job ad sound inspiring, or like 80-hour work weeks are expected?  The panelists have each been on both sides of the interview table.  Come hear their perspectives and share your own."
 index,123
 speakers,"Sarah Elkins, Noah Sussman, Jer Lance"
-Track,Tech
+Track,"Tech, Life"
 startday,5/3/2014
 Title,Great Engineers: Gotta Catch 'Em All
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
-tracknosp,Tech
-input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Charlevoix A', 'Tech', ""Great Engineers: Gotta Catch 'Em All"", 'Sarah Elkins, Noah Sussman, Jer Lance', 'Is tech hiring like Pokemon?  How do you hire *and* hang on to good people?  What do recruiting and retention have to do with each other?  If you\'re looking for a job, does ""passion"" in the job ad sound inspiring, or like 80-hour work weeks are expected?  The panelists have each been on both sides of the interview table.  Come hear their perspectives and share your own.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Tech,Life"
+input,"['5/3/2014', '11:00', '5/3/2014', '11:50', 'Charlevoix A', 'Tech, Life', ""Great Engineers: Gotta Catch 'Em All"", 'Sarah Elkins, Noah Sussman, Jer Lance', 'Is tech hiring like Pokemon?  How do you hire *and* hang on to good people?  What do recruiting and retention have to do with each other?  If you\'re looking for a job, does ""passion"" in the job ad sound inspiring, or like 80-hour work weeks are expected?  The panelists have each been on both sides of the interview table.  Come hear their perspectives and share your own.', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Sarah Elkins, Noah Sussman, Jer Lance"
 avneeds,none
@@ -6399,7 +6399,7 @@ roomnosp,CharlevoixB
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Film
+event_type,"Film, Lit"
 All Day Event,FALSE
 event_end,14:50
 endday,5/3/2014
@@ -6410,15 +6410,15 @@ duration,50 minutes
 description,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 index,160
 speakers,"Keith Martens, James Fernandez"
-Track,Film
+Track,"Film, Lit"
 startday,5/3/2014
 Title,Script Writing for Movies
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
-tracknosp,Film
-input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Charlevoix C', 'Film', 'Script Writing for Movies', 'Keith Martens, James Fernandez', ""Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script."", 'FALSE', 'PUBLIC', '']"
+tracknosp,"Film,Lit"
+input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Charlevoix C', 'Film, Lit', 'Script Writing for Movies', 'Keith Martens, James Fernandez', ""Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script."", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Keith Martens, James Fernandez"
 avneeds,none
@@ -6819,7 +6819,7 @@ roomnosp,Windover
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Penguicon Events
+event_type,"Penguicon Events, Costuming"
 All Day Event,FALSE
 event_end,15:50
 endday,5/3/2014
@@ -6830,15 +6830,15 @@ duration,50 minutes
 description,Come join us for the Masquerade contest!
 index,170
 speakers,Suzette Mariotti
-Track,Penguicon Events
+Track,"Penguicon Events, Costuming"
 startday,5/3/2014
 Title,Masquerade Muster
 Start Time,15:00
 event_start,15:00
 starttimeampm,3 PM
 End Time,15:50
-tracknosp,PenguiconEvents
-input,"['5/3/2014', '15:00', '5/3/2014', '15:50', 'Algonquin B/C', 'Penguicon Events', 'Masquerade Muster', 'Suzette Mariotti', 'Come join us for the Masquerade contest!', 'FALSE', 'PUBLIC', 'Microphone, Sound System']"
+tracknosp,"PenguiconEvents,Costuming"
+input,"['5/3/2014', '15:00', '5/3/2014', '15:50', 'Algonquin B/C', 'Penguicon Events, Costuming', 'Masquerade Muster', 'Suzette Mariotti', 'Come join us for the Masquerade contest!', 'FALSE', 'PUBLIC', 'Microphone, Sound System']"
 End Date,5/3/2014
 calspeakers,Suzette Mariotti
 avneeds,"Microphone, Sound System"
@@ -7281,7 +7281,7 @@ roomnosp,AlgonquinA
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Penguicon Events
+event_type,"Penguicon Events, Costuming"
 All Day Event,FALSE
 event_end,17:50
 endday,5/3/2014
@@ -7292,15 +7292,15 @@ duration,1 hour and 50 minutes
 description,"Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"
 index,181
 speakers,"Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford"
-Track,Penguicon Events
+Track,"Penguicon Events, Costuming"
 startday,5/3/2014
 Title,Masquerade
 Start Time,16:00
 event_start,16:00
 starttimeampm,4 PM
 End Time,17:50
-tracknosp,PenguiconEvents
-input,"['5/3/2014', '16:00', '5/3/2014', '17:50', 'Algonquin B/C', 'Penguicon Events', 'Masquerade', 'Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford', ""Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"", 'FALSE', 'PUBLIC', '']"
+tracknosp,"PenguiconEvents,Costuming"
+input,"['5/3/2014', '16:00', '5/3/2014', '17:50', 'Algonquin B/C', 'Penguicon Events, Costuming', 'Masquerade', 'Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford', ""Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford"
 avneeds,none
@@ -7869,7 +7869,7 @@ roomnosp,PortageAuditorium
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Lit
+event_type,Life
 All Day Event,FALSE
 event_end,16:50
 endday,5/3/2014
@@ -7880,15 +7880,15 @@ duration,50 minutes
 description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
 index,195
 speakers,Randy Bradakis
-Track,Lit
+Track,Life
 startday,5/3/2014
 Title,Why is Fandom so Damn Pale and Male?
 Start Time,16:00
 event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
-tracknosp,Lit
-input,"['5/3/2014', '16:00', '5/3/2014', '16:50', 'Windover', 'Lit', 'Why is Fandom so Damn Pale and Male?', 'Randy Bradakis', ""A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"", 'FALSE', 'PUBLIC', '']"
+tracknosp,Life
+input,"['5/3/2014', '16:00', '5/3/2014', '16:50', 'Windover', 'Life', 'Why is Fandom so Damn Pale and Male?', 'Randy Bradakis', ""A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Randy Bradakis
 avneeds,none
@@ -8079,7 +8079,7 @@ roomnosp,BoardofTrustees
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Life
+event_type,"Life, After Dark"
 All Day Event,FALSE
 event_end,17:50
 endday,5/3/2014
@@ -8090,15 +8090,15 @@ duration,50 minutes
 description,"How does one play casino games?  What games give you the best odds against the house? A trained Casino Surveillance expert talks to authors, game designers and more about gambling and casino cheating - come with your world-building questions!"
 index,201
 speakers,"Tom ""Shark"" Jones"
-Track,Life
+Track,"Life, After Dark"
 startday,5/3/2014
 Title,"Money, Dice, Chips, and Cheating. Want to Know More?"
 Start Time,17:00
 event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
-tracknosp,Life
-input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Charlevoix B', 'Life', 'Money, Dice, Chips, and Cheating. Want to Know More?', 'Tom ""Shark"" Jones', 'How does one play casino games?  What games give you the best odds against the house? A trained Casino Surveillance expert talks to authors, game designers and more about gambling and casino cheating - come with your world-building questions!', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Life,AfterDark"
+input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Charlevoix B', 'Life, After Dark', 'Money, Dice, Chips, and Cheating. Want to Know More?', 'Tom ""Shark"" Jones', 'How does one play casino games?  What games give you the best odds against the house? A trained Casino Surveillance expert talks to authors, game designers and more about gambling and casino cheating - come with your world-building questions!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Tom 'Shark' Jones
 avneeds,none
@@ -8247,7 +8247,7 @@ roomnosp,Hamlin
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Eco
+event_type,"Eco, Food"
 All Day Event,FALSE
 event_end,17:50
 endday,5/3/2014
@@ -8258,15 +8258,15 @@ duration,50 minutes
 description,"As the costs of fossil fuels continue to rise, so too will the price of food. And yet there is free, nutrient-dense food to be found growing all around us. From inconspicuous “weeds” to thorny shrubs, wild food is free, flavorful, and often abundant. This talk will teach attendees the essentials of foraging in Michigan, including best practices, and how to safely identify and harvest three common plants."
 index,204
 speakers,Paul Angelini
-Track,Eco
+Track,"Eco, Food"
 startday,5/3/2014
 Title,An Intro to Foraging in Michigan
 Start Time,17:00
 event_start,17:00
 starttimeampm,5 PM
 End Time,17:50
-tracknosp,Eco
-input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Montcalm', 'Eco', 'An Intro to Foraging in Michigan', 'Paul Angelini', 'As the costs of fossil fuels continue to rise, so too will the price of food. And yet there is free, nutrient-dense food to be found growing all around us. From inconspicuous \xe2\x80\x9cweeds\xe2\x80\x9d to thorny shrubs, wild food is free, flavorful, and often abundant. This talk will teach attendees the essentials of foraging in Michigan, including best practices, and how to safely identify and harvest three common plants.', 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,"Eco,Food"
+input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Montcalm', 'Eco, Food', 'An Intro to Foraging in Michigan', 'Paul Angelini', 'As the costs of fossil fuels continue to rise, so too will the price of food. And yet there is free, nutrient-dense food to be found growing all around us. From inconspicuous \xe2\x80\x9cweeds\xe2\x80\x9d to thorny shrubs, wild food is free, flavorful, and often abundant. This talk will teach attendees the essentials of foraging in Michigan, including best practices, and how to safely identify and harvest three common plants.', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,Paul Angelini
 avneeds,Projector
