@@ -12856,13 +12856,13 @@ index,318
 speakers,"Derek Newland, Nathan Balyeat"
 Track,Life
 startday,5/4/2014
-Title,Engineers Guide to Self Defense
+Title,Engineer's Guide to Self Defense
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
 tracknosp,Life
-input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Charlevoix B', 'Life', 'Engineers Guide to Self Defense', 'Derek Newland, Nathan Balyeat', 'Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  ', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Charlevoix B', 'Life', ""Engineer's Guide to Self Defense"", 'Derek Newland, Nathan Balyeat', 'Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  ', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,"Derek Newland, Nathan Balyeat"
 avneeds,none
@@ -12873,7 +12873,7 @@ speakernosplist,"['DerekNewland', 'NathanBalyeat']"
 caldescrip,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
 endtime,12:50
 AV Needs,
-name,Engineers Guide to Self Defense
+name,Engineer's Guide to Self Defense
 Private,PUBLIC
 venue,Charlevoix B
 Book Description,"Back once again! After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage. There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them! "
@@ -13154,13 +13154,13 @@ index,324
 speakers,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 Track,Life
 startday,5/4/2014
-Title,The Trials and Tribulations of the Artists Lifestyle
+Title,The Trials and Tribulations of the Artist's Lifestyle
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
 tracknosp,Life
-input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Montcalm', 'Life', 'The Trials and Tribulations of  the Artists Lifestyle', 'BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier', ""Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Montcalm', 'Life', ""The Trials and Tribulations of  the Artist's Lifestyle"", 'BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier', ""Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/4/2014
 calspeakers,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 avneeds,Projector
@@ -13171,7 +13171,7 @@ speakernosplist,"['BluRavenC.Houvener', 'GabrielleGamache-Nettles', 'LaineyCarro
 caldescrip,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
 endtime,12:50
 AV Needs,Projector
-name,The Trials and Tribulations of  the Artists Lifestyle
+name,The Trials and Tribulations of  the Artist's Lifestyle
 Private,PUBLIC
 venue,Montcalm
 Book Description,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
@@ -13574,13 +13574,13 @@ index,335
 speakers,Chad Crabtree
 Track,Tech
 startday,5/4/2014
-Title,"Pascal Isn't Air Pressure, It's a Modern Programming Language."
+Title,"Pascal Isn't Air Pressure, It's a Modern Programming Language"
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
 tracknosp,Tech
-input,"['5/4/2014', '13:00', '5/4/2014', '13:50', 'Charlevoix C', 'Tech', ""Pascal Isn't Air Pressure, It's a Modern Programming Language."", 'Chad Crabtree', 'The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  ', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/4/2014', '13:00', '5/4/2014', '13:50', 'Charlevoix C', 'Tech', ""Pascal Isn't Air Pressure, It's a Modern Programming Language"", 'Chad Crabtree', 'The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  ', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/4/2014
 calspeakers,Chad Crabtree
 avneeds,Projector
@@ -13591,7 +13591,7 @@ speakernosplist,['ChadCrabtree']
 caldescrip,"The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  "
 endtime,13:50
 AV Needs,Projector
-name,"Pascal Isn't Air Pressure, It's a Modern Programming Language."
+name,"Pascal Isn't Air Pressure, It's a Modern Programming Language"
 Private,PUBLIC
 venue,Charlevoix C
 Book Description,"The Pascal programming language is still alive. Free Pascal is a modern compiler for Pascal that works on nearly all platforms. It is a low-level, object-oriented programming language that is pretty darned fast. There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base. Expose yourself to the granddaddy programming language that has continued to learn new tricks. "
@@ -13729,7 +13729,7 @@ roomnosp,Montcalm
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, Action Adventure"
 All Day Event,FALSE
 event_end,14:50
 endday,5/4/2014
@@ -13740,15 +13740,15 @@ duration,1 hour and 50 minutes
 description,Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. 
 index,338
 speakers,Greg Allard
-Track,Tech
+Track,"Tech, Action Adventure"
 startday,5/4/2014
 Title,Open Source Firearms: A Presentation on FOSSCAD
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,14:50
-tracknosp,Tech
-input,"['5/4/2014', '13:00', '5/4/2014', '14:50', 'Nicolet', 'Tech', 'Open Source Firearms: A Presentation on FOSSCAD', 'Greg Allard', 'Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. ', 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,"Tech,ActionAdventure"
+input,"['5/4/2014', '13:00', '5/4/2014', '14:50', 'Nicolet', 'Tech, Action Adventure', 'Open Source Firearms: A Presentation on FOSSCAD', 'Greg Allard', 'Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. ', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/4/2014
 calspeakers,Greg Allard
 avneeds,Projector
@@ -13771,7 +13771,7 @@ roomnosp,Nicolet
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
-event_type,Film
+event_type,"Film, Action Adventure"
 All Day Event,FALSE
 event_end,13:50
 endday,5/4/2014
@@ -13782,15 +13782,15 @@ duration,50 minutes
 description,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
 index,339
 speakers,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
-Track,Film
+Track,"Film, Action Adventure"
 startday,5/4/2014
 Title,Fighting in the Movies - Chicks That Kick Ass
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
-tracknosp,Film
-input,"['5/4/2014', '13:00', '5/4/2014', '13:50', 'Portage Auditorium', 'Film', 'Fighting in the Movies - Chicks That Kick Ass', 'Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin', 'Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, \xe2\x80\x9cprop\xe2\x80\x9d fighting, and swordsmanship in each clip.', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
+tracknosp,"Film,ActionAdventure"
+input,"['5/4/2014', '13:00', '5/4/2014', '13:50', 'Portage Auditorium', 'Film, Action Adventure', 'Fighting in the Movies - Chicks That Kick Ass', 'Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin', 'Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, \xe2\x80\x9cprop\xe2\x80\x9d fighting, and swordsmanship in each clip.', 'FALSE', 'PUBLIC', 'Projector, Sound System']"
 End Date,5/4/2014
 calspeakers,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
 avneeds,"Projector, Sound System"
@@ -14193,7 +14193,7 @@ roomnosp,ConSuite
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,14:50
 endday,5/4/2014
@@ -14204,15 +14204,15 @@ duration,50 minutes
 description,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
 index,350
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
-Track,Food
+Track,"Food, After Dark"
 startday,5/4/2014
 Title,Mead Making Shortcuts
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
-tracknosp,Food
-input,"['5/4/2014', '14:00', '5/4/2014', '14:50', 'Food Track (Room 1017)', 'Food', 'Mead Making Shortcuts', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins', ""Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."", 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/4/2014', '14:00', '5/4/2014', '14:50', 'Food Track (Room 1017)', 'Food, After Dark', 'Mead Making Shortcuts', 'Caitlynn Poirier, Heather Gutterman, Taylor Watkins', ""Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."", 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
 avneeds,none
