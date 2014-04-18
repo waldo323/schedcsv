@@ -545,7 +545,7 @@ roomnosp,GamingRestaurant
 Start Date,5/2/2014
 minutes,50
 allday,FALSE
-event_type,Life
+event_type,"Life, After Dark"
 All Day Event,FALSE
 event_end,16:50
 endday,5/2/2014
@@ -556,15 +556,15 @@ duration,50 minutes
 description,"The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories."
 index,1
 speakers,Sal Sanfratello
-Track,Life
+Track,"Life, After Dark"
 startday,5/2/2014
 Title,How To Throw A Party
 Start Time,16:00
 event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
-tracknosp,Life
-input,"['5/2/2014', '16:00', '5/2/2014', '16:50', 'Hamlin', 'Life', 'How To Throw A Party', 'Sal Sanfratello', 'The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Life,AfterDark"
+input,"['5/2/2014', '16:00', '5/2/2014', '16:50', 'Hamlin', 'Life, After Dark', 'How To Throw A Party', 'Sal Sanfratello', 'The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories.', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Sal Sanfratello
 avneeds,none
@@ -1933,7 +1933,7 @@ roomnosp,CharlevoixB
 Start Date,5/2/2014
 minutes,50
 allday,FALSE
-event_type,After Dark
+event_type,Life
 All Day Event,FALSE
 event_end,19:50
 endday,5/2/2014
@@ -1944,15 +1944,15 @@ duration,50 minutes
 description,"If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!"
 index,47
 speakers,Dana McNabb
-Track,After Dark
+Track,Life
 startday,5/2/2014
 Title,Speed Dating for Open Relationships
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
-tracknosp,AfterDark
-input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Charlevoix C', 'After Dark', 'Speed Dating for Open Relationships', 'Dana McNabb', 'If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!', 'FALSE', 'PUBLIC', '']"
+tracknosp,Life
+input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Charlevoix C', 'Life', 'Speed Dating for Open Relationships', 'Dana McNabb', 'If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Dana McNabb
 avneeds,none
@@ -2101,7 +2101,7 @@ roomnosp,Montcalm
 Start Date,5/2/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, Gaming"
 All Day Event,FALSE
 event_end,19:50
 endday,5/2/2014
@@ -2112,15 +2112,15 @@ duration,50 minutes
 description,"3D Printing will change many different industries and tabletop gaming will be one of the first.  Using the copyright wars of the past 15 years as a model, we'll look at the challenges 3D printing creates for tabletop game creators and explore ways companies can embrace the technology without being hostile to their customers.Jason is the creator of tabletop game Legends of Kalidasia."
 index,50
 speakers,Jason Rutherford
-Track,Tech
+Track,"Tech, Gaming"
 startday,5/2/2014
 Title,3D Printing and the Tabletop Game Industry
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
 End Time,19:50
-tracknosp,Tech
-input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Nicolet', 'Tech', '3D Printing and the Tabletop Game Industry', 'Jason Rutherford', ""3D Printing will change many different industries and tabletop gaming will be one of the first.  Using the copyright wars of the past 15 years as a model, we'll look at the challenges 3D printing creates for tabletop game creators and explore ways companies can embrace the technology without being hostile to their customers.Jason is the creator of tabletop game Legends of Kalidasia."", 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,"Tech,Gaming"
+input,"['5/2/2014', '19:00', '5/2/2014', '19:50', 'Nicolet', 'Tech, Gaming', '3D Printing and the Tabletop Game Industry', 'Jason Rutherford', ""3D Printing will change many different industries and tabletop gaming will be one of the first.  Using the copyright wars of the past 15 years as a model, we'll look at the challenges 3D printing creates for tabletop game creators and explore ways companies can embrace the technology without being hostile to their customers.Jason is the creator of tabletop game Legends of Kalidasia."", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/2/2014
 calspeakers,Jason Rutherford
 avneeds,Projector
