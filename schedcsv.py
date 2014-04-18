@@ -214,14 +214,17 @@ for index, x in enumerate(pconsched.schedule):
 
         if  (field == "Track"):
             session['event_type'] = fieldtext
-            temptrack = re.sub(r'\s','', fieldtext)
-            temptrack = re.sub(r'\(','', temptrack)
-            temptrack = re.sub(r'\)','', temptrack)
-            temptrack = re.sub(r'/','', temptrack)
-            session['tracknosp'] = temptrack
-            if fieldtext not in tracks:
-              tracks.append(fieldtext)
-              tracksdict[fieldtext] = temptrack
+            session['event_type_list'] = fieldtext.split(", ")
+            session['tracknosp'] = []
+            for eventtype in session['event_type_list']:
+                temptrack = re.sub(r'\s','', eventtype)
+                temptrack = re.sub(r'\(','', temptrack)
+                temptrack = re.sub(r'\)','', temptrack)
+                temptrack = re.sub(r'/','', temptrack)
+                session['tracknosp'].append(temptrack)
+                if eventtype not in tracks:
+                  tracks.append(eventtype)
+                  tracksdict[eventtype] = temptrack
         if  (field == "All Day Event"):
             if  (fieldtext == ""):
               session['allday'] = "FALSE"
@@ -461,9 +464,10 @@ with open( caldir + "2014.penguicon.fullcalendar.csv",'w') as fullcalendar:
     for index, y in enumerate(sessions):
         if not y['All Day Event'] == 'All Day Event':
             fullcalendar.write(calendar_template % y)
-            with open(caldir + y['tracknosp'] + ".csv",'a') as tempcal:
+            for caltrack in session['tracknosp']:
+              with open(caldir + caltrack + ".csv",'a') as tempcal:
                 tempcal.write(calendar_template % y)
-            tempcal.close()
+              tempcal.close()
 
 fullcalendar.close()
 #fullcalendar.close()
