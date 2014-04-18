@@ -12465,7 +12465,7 @@ roomnosp,Lobby
 Start Date,5/4/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, DIY"
 All Day Event,FALSE
 event_end,11:50
 endday,5/4/2014
@@ -12476,15 +12476,15 @@ duration,50 minutes
 description,"If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator."
 index,308
 speakers,Matt Arnold
-Track,Tech
+Track,"Tech, DIY"
 startday,5/4/2014
 Title,Creating Machine Tool Paths In Adobe Illustrator
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
-tracknosp,Tech
-input,"['5/4/2014', '11:00', '5/4/2014', '11:50', 'Montcalm', 'Tech', 'Creating Machine Tool Paths In Adobe Illustrator', 'Matt Arnold', 'If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator.', 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,"Tech,DIY"
+input,"['5/4/2014', '11:00', '5/4/2014', '11:50', 'Montcalm', 'Tech, DIY', 'Creating Machine Tool Paths In Adobe Illustrator', 'Matt Arnold', 'If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator.', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/4/2014
 calspeakers,Matt Arnold
 avneeds,Projector
