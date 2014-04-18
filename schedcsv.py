@@ -259,7 +259,7 @@ for index, x in enumerate(pconsched.schedule):
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            temptext = replace_all(fieldtext, addamp)         
+            temptext = replace_all(fieldtext, addamps)         
             session['bookdescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
