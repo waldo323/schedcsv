@@ -223,8 +223,7 @@ for index, x in enumerate(pconsched.schedule):
             if  (fieldtext == ""):
               session['allday'] = "FALSE"
             else:
-              session['allday'] = fieldtext
-              print fieldtext
+              session['allday'] = fieldtext 
         if  (field == "Private"):
             if  (fieldtext == ""):
               session['private'] = "DEFAULT"
