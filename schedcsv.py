@@ -247,17 +247,20 @@ for index, x in enumerate(pconsched.schedule):
         reps = {"&nbsp;":" ","<br />":"","&":" and ","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
+        addamps = {"&":"&amp" }
         commarep = {",":"-","\n":" "}
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
 #        temptext.replace(os.linesep, " ")
-        session[field] = replace_all(temptext, amps)
+        session['fieldtext'] = replace_all(temptext, amps)
         if field == "Book Description":
             temptext = replace_all(fieldtext, quoterep)         
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
+            #temptext = replace_all(fieldtext, addamp)         
+            #session['caldescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
             session['calspeakers'] = temptext
