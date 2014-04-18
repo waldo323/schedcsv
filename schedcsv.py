@@ -16,12 +16,12 @@ else:
     filename = "sched.csv"
 
 # quick and simple template for the output for the schedule book
-programbook_template ="""<event><title>%(name)s</title>
+programbook_template ="""<event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>\n"""
 
-hourtemplate ="""<event><title>%(name)s</title>
+hourtemplate ="""<event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>\n"""
@@ -209,6 +209,9 @@ for index, x in enumerate(pconsched.schedule):
             session['speakers'] = fieldtext
         if  (field == "Title"):
             session['name'] = fieldtext
+            temptext = replace_all(fieldtext, addamps)         
+            session['bookname'] = temptext
+
         if  (field == "Track"):
             session['event_type'] = fieldtext
             temptrack = re.sub(r'\s','', fieldtext)
