@@ -2521,7 +2521,7 @@ roomnosp,CharlevoixC
 Start Date,5/2/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,20:50
 endday,5/2/2014
@@ -2532,15 +2532,15 @@ duration,50 minutes
 description,"How accurate is the ""proof"" on your bottle? Let's test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We'll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We'll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can't make some booze-balls."
 index,60
 speakers,Jody Raiford
-Track,Food
+Track,"Food, After Dark"
 startday,5/2/2014
 Title,Where's the Proof?
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
-tracknosp,Food
-input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Food Track (Room 1017)', 'Food', ""Where's the Proof?"", 'Jody Raiford', 'How accurate is the ""proof"" on your bottle? Let\'s test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We\'ll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We\'ll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can\'t make some booze-balls.', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/2/2014', '20:00', '5/2/2014', '20:50', 'Food Track (Room 1017)', 'Food, After Dark', ""Where's the Proof?"", 'Jody Raiford', 'How accurate is the ""proof"" on your bottle? Let\'s test the alcohol content of some wines, beers, meads, homebrews, whatever you bring.  We\'ll find out if the labeling is correct, and especially test the rumor that only 100 proof and above is flammable. We\'ll also tell stories and trivia about alcohol, and if we can get some LN2 or dry ice or something, see if we can\'t make some booze-balls.', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,Jody Raiford
 avneeds,none
@@ -2983,7 +2983,7 @@ roomnosp,CharlevoixA
 Start Date,5/2/2014
 minutes,50
 allday,FALSE
-event_type,Food
+event_type,"Food, After Dark"
 All Day Event,FALSE
 event_end,22:50
 endday,5/2/2014
@@ -2994,15 +2994,15 @@ duration,1 hour and 50 minutes
 description,"Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!"
 index,72
 speakers,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins"
-Track,Food
+Track,"Food, After Dark"
 startday,5/2/2014
 Title,History and Sampling of Port
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
 End Time,22:50
-tracknosp,Food
-input,"['5/2/2014', '21:00', '5/2/2014', '22:50', 'Food Track (Room 1017)', 'Food', 'History and Sampling of Port', 'Heather Gutterman, Caitlynn Poirier, Taylor Watkins', 'Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Food,AfterDark"
+input,"['5/2/2014', '21:00', '5/2/2014', '22:50', 'Food Track (Room 1017)', 'Food, After Dark', 'History and Sampling of Port', 'Heather Gutterman, Caitlynn Poirier, Taylor Watkins', 'Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins"
 avneeds,none
@@ -4349,7 +4349,7 @@ private,PUBLIC
 endtimeampm,10 AM
 Location,Charlevoix C
 duration,50 minutes
-description,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."
+description,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. We'll be dealing with consent both in the bedroom, and in your everyday life."
 index,112
 speakers,"Mitch Peters, Jennifer Peters"
 Track,Life
@@ -4360,7 +4360,7 @@ event_start,10:00
 starttimeampm,10 AM
 End Time,10:50
 tracknosp,Life
-input,"['5/3/2014', '10:00', '5/3/2014', '10:50', 'Charlevoix C', 'Life', 'The Basics of Consent', 'Mitch Peters, Jennifer Peters', ""In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '10:00', '5/3/2014', '10:50', 'Charlevoix C', 'Life', 'The Basics of Consent', 'Mitch Peters, Jennifer Peters', ""In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. We'll be dealing with consent both in the bedroom, and in your everyday life."", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Mitch Peters, Jennifer Peters"
 avneeds,none
@@ -4368,15 +4368,15 @@ speakerlist,"['Mitch Peters', 'Jennifer Peters']"
 hours,0
 totalminutes,50
 speakernosplist,"['MitchPeters', 'JenniferPeters']"
-caldescrip,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."
+caldescrip,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. We'll be dealing with consent both in the bedroom, and in your everyday life."
 endtime,10:50
 AV Needs,
 name,The Basics of Consent
 Private,PUBLIC
 venue,Charlevoix C
-Book Description,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. Dealing with consent both in the bedroom, and in your everyday life."
+Book Description,"In this ever changing world of ours, consent is a hot topic. We'll be discussing what it is, what isn't it, and all the various shades in between. We'll be dealing with consent both in the bedroom, and in your everyday life."
 Presenters,"Mitch Peters, Jennifer Peters"
-csvsafedescrip,In this ever changing world of ours- consent is a hot topic. We'll be discussing what it is- what isn't it- and all the various shades in between. Dealing with consent both in the bedroom- and in your everyday life.
+csvsafedescrip,In this ever changing world of ours- consent is a hot topic. We'll be discussing what it is- what isn't it- and all the various shades in between. We'll be dealing with consent both in the bedroom- and in your everyday life.
 speakernosp,"MitchPeters,JenniferPeters"
 starttime,10:00
 roomnosp,CharlevoixC
@@ -4677,7 +4677,7 @@ roomnosp,Windover
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Action Adventure
+event_type,"Action Adventure, Film"
 All Day Event,FALSE
 event_end,12:50
 endday,5/3/2014
@@ -4688,15 +4688,15 @@ duration,1 hour and 50 minutes
 description,"A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience."
 index,119
 speakers,"Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens"
-Track,Action Adventure
+Track,"Action Adventure, Film"
 startday,5/3/2014
 Title,Fighting in Film vs. Martial Arts
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
 End Time,12:50
-tracknosp,ActionAdventure
-input,"['5/3/2014', '11:00', '5/3/2014', '12:50', 'Algonquin D', 'Action Adventure', 'Fighting in Film vs. Martial Arts', 'Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens', 'A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience.', 'FALSE', 'PUBLIC', 'Projector']"
+tracknosp,"ActionAdventure,Film"
+input,"['5/3/2014', '11:00', '5/3/2014', '12:50', 'Algonquin D', 'Action Adventure, Film', 'Fighting in Film vs. Martial Arts', 'Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens', 'A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience.', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
 calspeakers,"Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens"
 avneeds,Projector
@@ -11191,7 +11191,7 @@ roomnosp,BoardofRegents
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,"Tech, Life"
 All Day Event,FALSE
 event_end,9:50
 endday,5/3/2014
@@ -11202,15 +11202,15 @@ duration,50 minutes
 description,"Love free and open source software?  Want to find a way to get paid to work on it?  Our panelists have found a way to do it, come find out how you can too!"
 index,100
 speakers,"Ed Platt, Jorge Castro, Eric Merrill, Matt Switlik"
-Track,Tech
+Track,"Tech, Life"
 startday,5/3/2014
 Title,Open Source Jobs
 Start Time,9:00
 event_start,9:00
 starttimeampm,9 AM
 End Time,9:50
-tracknosp,Tech
-input,"['5/3/2014', '9:00', '5/3/2014', '9:50', 'Charlevoix C', 'Tech', 'Open Source Jobs', 'Ed Platt, Jorge Castro, Eric Merrill, Matt Switlik', 'Love free and open source software?  Want to find a way to get paid to work on it?  Our panelists have found a way to do it, come find out how you can too!', 'FALSE', 'PUBLIC', '']"
+tracknosp,"Tech,Life"
+input,"['5/3/2014', '9:00', '5/3/2014', '9:50', 'Charlevoix C', 'Tech, Life', 'Open Source Jobs', 'Ed Platt, Jorge Castro, Eric Merrill, Matt Switlik', 'Love free and open source software?  Want to find a way to get paid to work on it?  Our panelists have found a way to do it, come find out how you can too!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Ed Platt, Jorge Castro, Eric Merrill, Matt Switlik"
 avneeds,none
