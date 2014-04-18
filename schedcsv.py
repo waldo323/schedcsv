@@ -244,7 +244,7 @@ for index, x in enumerate(pconsched.schedule):
         ## included some html symbols and tags which would not have looked
         ## good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
-        reps = {"&nbsp;":" ","<br />":"","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
+        reps = {"&nbsp;":" ","<br />":"","&":" and ","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
         commarep = {",":"-","\n":" "}

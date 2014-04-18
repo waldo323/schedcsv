@@ -2481,6 +2481,22 @@
         "end_time": "15:50"
     },
     {
+        "book_description": "Matt Dobson, Adam Magaluk and Kevin Swiber, engineers at Apigee in Downtown Detroit, will demonstrate a geographically distributed system of robots, sensors and actuators. They will share hardware tips, APIs and code from their new open source JavaScript platform called Zetta.js. You will see robot parlor tricks, a man with green(ish) hair and a variety of devices connected with Arduino, Bluetooth, Raspberry Pi, Node.js and Hypermedia APIs. It will be a veritable Internet of Things.",
+        "end_date": "5/3/2014",
+        "title": "Distributed Robotics with Raspberry Pi, Arduino and Zetta.js",
+        "track": "Tech",
+        "start_time": "15:00",
+        "presenters": [
+            "Matt Dobson",
+            "Adam Magaluk",
+            "Kevin Swiber"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what? The panelists will discuss the ins and outs of reviewing material on-line.",
         "end_date": "5/3/2014",
         "title": "Reviewing for the Masses",
