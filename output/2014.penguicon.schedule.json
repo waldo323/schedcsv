@@ -126,6 +126,21 @@
         "end_time": "16:00"
     },
     {
+        "book_description": "Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day).",
+        "end_date": "5/2/2014",
+        "title": "Paint and Take",
+        "track": "DIY",
+        "start_time": "16:00",
+        "presenters": [
+            "Dean Martelle",
+            "Linda Martelle"
+        ],
+        "location": "Lobby",
+        "minutes": 360,
+        "start_date": "5/2/2014",
+        "end_time": "22:00"
+    },
+    {
         "book_description": "The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary. Learn who uses the Archive, what uses are most common, and what game is heavily restricted.",
         "end_date": "5/2/2014",
         "title": "Wait, We Have a Video Game Archive?",
@@ -195,21 +210,6 @@
         "minutes": 50,
         "start_date": "5/2/2014",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day).",
-        "end_date": "5/2/2014",
-        "title": "Paint and Take",
-        "track": "DIY",
-        "start_time": "16:00",
-        "presenters": [
-            "Dean Martelle",
-            "Linda Martelle"
-        ],
-        "location": "Lobby",
-        "minutes": 360,
-        "start_date": "5/2/2014",
-        "end_time": "22:00"
     },
     {
         "book_description": "We all love that feeling we get when we can fully immerse ourselves in a fictional world. Conversely, the return to the real world can be quite shocking. Is this part of the reason for the prevalence of series work in genre fiction? Is it something from the publishing side? Is there a place for the stand alone work in SFF?",
