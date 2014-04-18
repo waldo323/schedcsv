@@ -250,7 +250,7 @@ for index, x in enumerate(pconsched.schedule):
         reps = {"&nbsp;":" ","<br />":"","&":" and ","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
-        addamps = {"&":"&amp;" }
+        addamps = {"&":"&amp;", "\n":" "}
         commarep = {",":"-","\n":" "}
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
