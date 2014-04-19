@@ -1,4 +1,44 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><document>
+<time>4 PM</time>
+<event><title>Wait, We Have a Video Game Archive?</title>
+<topic>Videogaming</topic>
+<room>Algonquin D</room>
+<blurb><participant>Britain Woodman, David Carter</participant> The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary.  Learn who uses the Archive, what uses are most common, and what game is heavily restricted. </blurb></event>
+<time>4 PM</time>
+<event><title>How To Throw A Party</title>
+<topic>Life, After Dark</topic>
+<room>Hamlin</room>
+<blurb><participant>Sal Sanfratello</participant> The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories. </blurb></event>
+<time>4 PM</time>
+<event><title>BoF: Why Johnny Can't Code</title>
+<topic>Tech</topic>
+<room>Board of Regents</room>
+<blurb><participant></participant> You know there are smart people out there who could learn to code (write software, program computers).  But they don't.  Why not?  What can we do to expand the coding craft?  Do schools need to teach the principles that make good coders?  Can we start a little coding instruction event?  </blurb></event>
+<time>4 PM</time>
+<event><title>FRAG</title>
+<topic>Gaming</topic>
+<room>Gaming (Restaurant)</room>
+<blurb><participant></participant> Frag is a computer game without a computer. It's a "first-person shooter" on a tabletop. Move your fighter and frag your foes; draw cards for weapons, armor, and gadgets; move through the blood spatters to restore your own health! If you die, you respawn and come back shooting! Up to six can play. <duration>1 hour and 50 minutes</duration></blurb></event>
+<time>4 PM</time>
+<event><title>Nuns on the Run</title>
+<topic>Gaming</topic>
+<room>Gaming (Restaurant)</room>
+<blurb><participant></participant> In Nuns on the Run™ you explore the exciting nocturnal world of a grand abbey filled with intrigue and deception. As the old abbess, the noble prioress, or a simple novice you become hunter or prey. Everyone gets a special "blessing" but only the novices try to fulfill a "secret wish." They must sneak through the dimly lit halls, corridors, and gardens, seeking keys and treasures unique to their goal. Meanwhile, the vigilant abbess and prioress patrol their routes, ever watchful of young novices who should be fast asleep in their austere cells. Are you wily enough to fulfill your quest and win the night? <duration>1 hour and 50 minutes</duration></blurb></event>
+<time>4 PM</time>
+<event><title>Paint and Take</title>
+<topic>DIY</topic>
+<room>Lobby</room>
+<blurb><participant>Dean Martelle, Linda Martelle</participant> Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day). <duration>6 hours</duration></blurb></event>
+<time>4 PM</time>
+<event><title>Sequels and Series in Genre Fiction</title>
+<topic>Lit</topic>
+<room>Montcalm</room>
+<blurb><participant>Mary Lynne Gibbs, Michael Cieslak</participant> We all love that feeling we get when we can fully immerse ourselves in a fictional world.  Conversely, the return to the real world can be quite shocking.  Is this part of the reason for the prevalence of series work in genre fiction?  Is it something from the publishing side?  Is there a place for the stand alone work in SFF? </blurb></event>
+<time>4 PM</time>
+<event><title>The Amazing Transparent Man</title>
+<topic>Film</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> "The Amazing Transparent Man" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner! </blurb></event>
 <time>All Weekend</time>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
@@ -44,46 +84,6 @@
 <topic>Mayhem</topic>
 <room></room>
 <blurb><participant></participant> Tag, you're it.  Enjoy eating braaaaaains!  Look out for zombified con-goers trying to “bite” you (with a ribbon, not teeth).  <duration>48 hours</duration></blurb></event>
-<time>4 PM</time>
-<event><title>Wait, We Have a Video Game Archive?</title>
-<topic>Videogaming</topic>
-<room>Algonquin D</room>
-<blurb><participant>Britain Woodman, David Carter</participant> The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary.  Learn who uses the Archive, what uses are most common, and what game is heavily restricted. </blurb></event>
-<time>4 PM</time>
-<event><title>BoF: Why Johnny Can't Code</title>
-<topic>Tech</topic>
-<room>Board of Regents</room>
-<blurb><participant></participant> You know there are smart people out there who could learn to code (write software, program computers).  But they don't.  Why not?  What can we do to expand the coding craft?  Do schools need to teach the principles that make good coders?  Can we start a little coding instruction event?  </blurb></event>
-<time>4 PM</time>
-<event><title>FRAG</title>
-<topic>Gaming</topic>
-<room>Gaming (Restaurant)</room>
-<blurb><participant></participant> Frag is a computer game without a computer. It's a "first-person shooter" on a tabletop. Move your fighter and frag your foes; draw cards for weapons, armor, and gadgets; move through the blood spatters to restore your own health! If you die, you respawn and come back shooting! Up to six can play. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>4 PM</time>
-<event><title>Nuns on the Run</title>
-<topic>Gaming</topic>
-<room>Gaming (Restaurant)</room>
-<blurb><participant></participant> In Nuns on the Run™ you explore the exciting nocturnal world of a grand abbey filled with intrigue and deception. As the old abbess, the noble prioress, or a simple novice you become hunter or prey. Everyone gets a special "blessing" but only the novices try to fulfill a "secret wish." They must sneak through the dimly lit halls, corridors, and gardens, seeking keys and treasures unique to their goal. Meanwhile, the vigilant abbess and prioress patrol their routes, ever watchful of young novices who should be fast asleep in their austere cells. Are you wily enough to fulfill your quest and win the night? <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>4 PM</time>
-<event><title>How To Throw A Party</title>
-<topic>Life, After Dark</topic>
-<room>Hamlin</room>
-<blurb><participant>Sal Sanfratello</participant> The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories. </blurb></event>
-<time>4 PM</time>
-<event><title>Paint and Take</title>
-<topic>DIY</topic>
-<room>Lobby</room>
-<blurb><participant>Dean Martelle, Linda Martelle</participant> Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day). <duration>6 hours</duration></blurb></event>
-<time>4 PM</time>
-<event><title>Sequels and Series in Genre Fiction</title>
-<topic>Lit</topic>
-<room>Montcalm</room>
-<blurb><participant>Mary Lynne Gibbs, Michael Cieslak</participant> We all love that feeling we get when we can fully immerse ourselves in a fictional world.  Conversely, the return to the real world can be quite shocking.  Is this part of the reason for the prevalence of series work in genre fiction?  Is it something from the publishing side?  Is there a place for the stand alone work in SFF? </blurb></event>
-<time>4 PM</time>
-<event><title>The Amazing Transparent Man</title>
-<topic>Film</topic>
-<room>Portage Auditorium</room>
-<blurb><participant></participant> "The Amazing Transparent Man" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner’s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job — a prisoner! </blurb></event>
 <time>5 PM</time>
 <event><title>You Can Juggle!</title>
 <topic>Life</topic>
@@ -95,10 +95,10 @@
 <room>Algonquin D</room>
 <blurb><participant>Heather Aman</participant> Neuroprosthetics and brain-computer-interface systems are rapidly becoming a reality. What neuroscience challenges will we face in getting to our cyborg future? What are the impacts on our society? Explore and discuss with a talk followed by Q&amp;A. </blurb></event>
 <time>5 PM</time>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>Life Hacks: Communication</title>
+<topic>Life</topic>
+<room>Hamlin</room>
+<blurb><participant>Ed Platt</participant> Flame wars got you down? This panel will cover hacks for improving interpersonal communication.  Topics include: active listening, nonviolent communication, conflict resolution, consensus decision-making, validation, and common pitfalls and fallacies. </blurb></event>
 <time>5 PM</time>
 <event><title>So This is Your First Penguicon?</title>
 <topic>Penguicon Events</topic>
@@ -125,10 +125,10 @@
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Selina Firecat</participant> Learn techniques for making a few delicious breads, and taste some of them, too! </blurb></event>
 <time>5 PM</time>
-<event><title>Life Hacks: Communication</title>
-<topic>Life</topic>
-<room>Hamlin</room>
-<blurb><participant>Ed Platt</participant> Flame wars got you down? This panel will cover hacks for improving interpersonal communication.  Topics include: active listening, nonviolent communication, conflict resolution, consensus decision-making, validation, and common pitfalls and fallacies. </blurb></event>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<room>Baldwin Board Room</room>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
 <time>5 PM</time>
 <event><title>On Location: Local Food and Local Businesses, and Why We Need Them</title>
 <topic>Eco</topic>
@@ -154,6 +154,11 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Bob Trembley</participant> Learn about the current space missions and their impact on science today: Dawn, Juno, and New Horizons. </blurb></event>
+<time>6 PM</time>
+<event><title>Writing for the Web </title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Tracy Herrell, Rob Reed</participant> Explore the pros and cons of writing for examiner.com and Yahoo’s associated content.  The discussion will compare writing content for the web versus print magazines.  Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself. </blurb></event>
 <time>6 PM</time>
 <event><title>The Hidden Sub-Genres</title>
 <topic>Lit</topic>
@@ -185,11 +190,6 @@
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Jake Newman, Fred Lthrop</participant> Come join us for the ultimate dungeon crawl through the "Ruins of Undermountain." Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&amp;D 3.5 rules will be used. We have the dice, you have the vice! <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>6 PM</time>
-<event><title>Writing for the Web </title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>Tracy Herrell, Rob Reed</participant> Explore the pros and cons of writing for examiner.com and Yahoo’s associated content.  The discussion will compare writing content for the web versus print magazines.  Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself. </blurb></event>
-<time>6 PM</time>
 <event><title>Conquering HTML5 Apps: Session 1</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -204,6 +204,11 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Marie-therese Enga, Bob Trembley</participant> Asteroids, comets, Kuiper Belt objects and minor planets -- learn about the half-million objects we share our solar system with. </blurb></event>
+<time>7 PM</time>
+<event><title>Plotters vs Pantsers – Finding the Storytelling That Works For You</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Ferrett Steinmetz, Michael Cieslak, Jim Leach</participant> Some writers are plotters, and can’t proceed until they know how everything ends.  Some writers are pantsers, and they surprise themselves as they go.  How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses?  </blurb></event>
 <time>7 PM</time>
 <event><title>GoH Social Hour</title>
 <topic>Penguicon Events</topic>
@@ -239,11 +244,6 @@
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Amy Castner</participant> Making cheese at home is awesome, but without a cheese press you are limited in what types you can make.  This class will show you the materials and supplies you will need to make a cheese press for under $50 and in less than an hour!   </blurb></event>
-<time>7 PM</time>
-<event><title>Plotters vs Pantsers – Finding the Storytelling That Works For You</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>Ferrett Steinmetz, Michael Cieslak, Jim Leach</participant> Some writers are plotters, and can’t proceed until they know how everything ends.  Some writers are pantsers, and they surprise themselves as they go.  How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses?  </blurb></event>
 <time>7 PM</time>
 <event><title>What's the Deal with "Internal" Martial Arts?</title>
 <topic>Life</topic>
@@ -340,6 +340,11 @@
 <room>Algonquin B/C</room>
 <blurb><participant>Dixon's Violin</participant> Transformational Journeys via Digital Violin. The world's premier digital violinist, Dixon's life mission is to inspire people!  And he has done so across North America, captivating audiences at intimate shows, and wowing crowds of thousands, including Burning Man, giving two TED talks/performances, plus radio and TV. </blurb></event>
 <time>9 PM</time>
+<event><title>BoF: Arduino</title>
+<topic>Tech</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> Arduino is the original open hardware controller. Come discuss how you can use it and share your enthusiasm </blurb></event>
+<time>9 PM</time>
 <event><title>Safewords, Beginning to Expert</title>
 <topic>After Dark</topic>
 <room>Board of Governors</room>
@@ -359,11 +364,6 @@
 <topic>Food, After Dark</topic>
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Heather Gutterman, Caitlynn Poirier, Taylor Watkins</participant> Many alcoholic drinks have histories, but Port will be the focus of this panel. We will discuss this history as we sample different varieties and labels of this illustrious drink. Do you have a favorite? Bring a bottle to share and we will be all the merrier for it. 21 and over only. Sign up at Ops! <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>9 PM</time>
-<event><title>BoF: Arduino</title>
-<topic>Tech</topic>
-<room>Hamlin</room>
-<blurb><participant></participant> Arduino is the original open hardware controller. Come discuss how you can use it and share your enthusiasm </blurb></event>
 <time>9 PM</time>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
@@ -395,6 +395,11 @@
 <room>Algonquin B/C</room>
 <blurb><participant>boaconstructor</participant> Since 2011, Seattle-based 8-bit EDM producer boaconstructor has carved a name for himself pushing out huge bass tunes from a single Nintendo Gameboy.  Self-confessed to be disconnected from videogame culture, boa’s Gameboy use is aesthetic only, bringing less of the 80s, and more of the party.  </blurb></event>
 <time>10 PM</time>
+<event><title>Parasitic Paranormals: Getting Rid of Them</title>
+<topic>After Dark</topic>
+<room>Hamlin</room>
+<blurb><participant>Shetan Noir</participant> How to remove unwanted things/beings from life, home and being. Discussion of different practices, spells, and ingredients that help to remove annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals. </blurb></event>
+<time>10 PM</time>
 <event><title>Just Happy to Be Here Presents Romeo and Juliet, The Funny Version</title>
 <topic>Life</topic>
 <room>Board of Governors</room>
@@ -419,11 +424,6 @@
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Nick Farr, M'jit Raindancer-Stahl, Dean Stahl</participant> We're going to attempt the biggest game of Cards Against Humanity ever.  Even if you've only heard about this wild tabletop game, show up for the fun and stay for the chaos. <duration>2 hours and 50 minutes</duration></blurb></event>
-<time>10 PM</time>
-<event><title>Parasitic Paranormals: Getting Rid of Them</title>
-<topic>After Dark</topic>
-<room>Hamlin</room>
-<blurb><participant>Shetan Noir</participant> How to remove unwanted things/beings from life, home and being. Discussion of different practices, spells, and ingredients that help to remove annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals. </blurb></event>
 <time>10 PM</time>
 <event><title>Gaming Without Boundaries</title>
 <topic>Gaming</topic>
@@ -490,6 +490,11 @@
 <room>Algonquin D</room>
 <blurb><participant>Ron Demerino</participant> Christmas Interruptus? Narcs on a bus? (Nope! They are engineers) Professor Ron relates more great tales from his career, followed by Q&amp;A.  </blurb></event>
 <time>10 AM</time>
+<event><title>Filmmaker's Forum</title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant>Keith Martens, James Fernandez</participant> Open forum for Q&amp;A about filmmaking. Learn how to get started in filmmaking. </blurb></event>
+<time>10 AM</time>
 <event><title>BoF: Open Source Software for Everyday Use</title>
 <topic>Tech</topic>
 <room>Board of Governors</room>
@@ -530,11 +535,6 @@
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Bill Korsak</participant> Fifteen players will have a chance to become the first winner of "Chopped GM." There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
-<event><title>Filmmaker's Forum</title>
-<topic>Film</topic>
-<room>Hamlin</room>
-<blurb><participant>Keith Martens, James Fernandez</participant> Open forum for Q&amp;A about filmmaking. Learn how to get started in filmmaking. </blurb></event>
-<time>10 AM</time>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -559,6 +559,11 @@
 <topic>Action Adventure, Film</topic>
 <room>Algonquin D</room>
 <blurb><participant>Mary Poirier, Douglas Scholl, Douglas Tobin, Keith Martens</participant> A demonstration of how a fight scene in a movie is blocked out, choreographed, rehearsed, filmed, edited, and finally seen by the audience. <duration>1 hour and 50 minutes</duration></blurb></event>
+<time>11 AM</time>
+<event><title>Digging Up The Same Old Ground</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle? </blurb></event>
 <time>11 AM</time>
 <event><title>Creating Safe Spaces</title>
 <topic>Penguicon Events</topic>
@@ -590,11 +595,6 @@
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Amy Castner</participant> Mozzarella is easy and fun to make at home!  We'll discuss what type of milk to use, where to get ingredients, and have a live demonstration so that everyone can see how easy it is to make in your own kitchen. </blurb></event>
 <time>11 AM</time>
-<event><title>Digging Up The Same Old Ground</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle? </blurb></event>
-<time>11 AM</time>
 <event><title>Sudo: You're Doing It Wrong</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -610,10 +610,10 @@
 <room>Algonquin B/C</room>
 <blurb><participant>Mike Burrell, Jasna Todorovic</participant> Come for a beginner lesson on lindy hop, an almost century-old swing dance that's still going strong! Have fun with music with your fellow nerds, explore lead-follow dynamics, and pick up a new skill. Previous experience and coordination are NOT required. We'll be rotating partners (except for those who aren't comfortable rotating partners), so there's no need to bring your own. Comfortable shoes are recommended. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>5 hours and 50 minutes</duration></blurb></event>
+<event><title>Fun with High-Voltage Toys</title>
+<topic>Tech</topic>
+<room>Hamlin</room>
+<blurb><participant>Keith Moore</participant> Learn how arcane objects like dekatrons, vacuum tubes, and nixies can make fun toys! </blurb></event>
 <time>12 PM</time>
 <event><title>Ubuntu: Latest Updates</title>
 <topic>Tech</topic>
@@ -645,10 +645,10 @@
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Richard Houser</participant> Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
-<event><title>Fun with High-Voltage Toys</title>
-<topic>Tech</topic>
-<room>Hamlin</room>
-<blurb><participant>Keith Moore</participant> Learn how arcane objects like dekatrons, vacuum tubes, and nixies can make fun toys! </blurb></event>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<room>Baldwin Board Room</room>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>5 hours and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
 <event><title>Let's Juggle!</title>
 <topic>Life</topic>
@@ -820,6 +820,11 @@
 <room>Algonquin D</room>
 <blurb><participant>Eva Galperin, Cory Doctorow</participant> With revelations coming out on a daily basis, it's obvious that our privacy is both critically important and under attack. Come learn about an organization that is defending our rights every day.  </blurb></event>
 <time>3 PM</time>
+<event><title>Reviewing for the Masses</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Janea Schimmel</participant> Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what?  The panelists will discuss the ins and outs of reviewing material on-line. </blurb></event>
+<time>3 PM</time>
 <event><title>Health at Every Size</title>
 <topic>Life</topic>
 <room>Board of Governors</room>
@@ -840,16 +845,6 @@
 <room>Charlevoix B</room>
 <blurb><participant></participant> What challenges do members of the LGBTQA community face? How can we improve diversity and inclusivity in fandom? </blurb></event>
 <time>3 PM</time>
-<event><title>Distributed Robotics with Raspberry Pi, Arduino and Zetta.js</title>
-<topic>Tech</topic>
-<room>Charlevoix C</room>
-<blurb><participant>Matt Dobson, Adam Magaluk, Kevin Swiber</participant> Matt Dobson, Adam Magaluk and Kevin Swiber, engineers at Apigee in Downtown Detroit, will demonstrate a geographically distributed system of robots, sensors and actuators. They will share hardware tips, APIs and code from their new open source JavaScript platform called Zetta.js. You will see robot parlor tricks, a man with green(ish) hair and a variety of devices connected with Arduino, Bluetooth, Raspberry Pi, Node.js and Hypermedia APIs. It will be a veritable Internet of Things. </blurb></event>
-<time>3 PM</time>
-<event><title>Reviewing for the Masses</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>Janea Schimmel</participant> Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what?  The panelists will discuss the ins and outs of reviewing material on-line. </blurb></event>
-<time>3 PM</time>
 <event><title>Teaching Free Software to Homeschoolers</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -864,6 +859,11 @@
 <topic>Life</topic>
 <room>Windover</room>
 <blurb><participant>Ernie Cline, Ferrett Steinmetz, Angie Rush</participant> Our GoH Ernie Cline discusses the Greatest Decade Ever, its role in his creative work, and why we still have a soft spot for it, 30 years later. </blurb></event>
+<time>3 PM</time>
+<event><title>Distributed Robotics with Raspberry Pi, Arduino and Zetta.js</title>
+<topic>Tech</topic>
+<room>Charlevoix C</room>
+<blurb><participant>Matt Dobson, Adam Magaluk, Kevin Swiber</participant> Matt Dobson, Adam Magaluk and Kevin Swiber, engineers at Apigee in Downtown Detroit, will demonstrate a geographically distributed system of robots, sensors and actuators. They will share hardware tips, APIs and code from their new open source JavaScript platform called Zetta.js. You will see robot parlor tricks, a man with green(ish) hair and a variety of devices connected with Arduino, Bluetooth, Raspberry Pi, Node.js and Hypermedia APIs. It will be a veritable Internet of Things. </blurb></event>
 <time>4 PM</time>
 <event><title>Board-Breaking Class</title>
 <topic>Action Adventure</topic>
@@ -879,6 +879,11 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Bob Trembley</participant> Find out what you can see in our light-polluted skies, and learn a bit about Astronomy and current events in Space/Astronomy news. </blurb></event>
+<time>4 PM</time>
+<event><title>What About The Happily Ever After?</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant> Jim Leach, Ferrett Steinmetz</participant> There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction? </blurb></event>
 <time>4 PM</time>
 <event><title>Geek Culture: Embracing Exercise?</title>
 <topic>Life</topic>
@@ -920,11 +925,6 @@
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Jake Newman, Fred Lthrop</participant> Come join us for the ultimate dungeon crawl through the "Ruins of Undermountain." Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&amp;D 3.5 rules will be used. We have the dice, you have the vice! <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>4 PM</time>
-<event><title>What About The Happily Ever After?</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant> Jim Leach, Ferrett Steinmetz</participant> There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction? </blurb></event>
-<time>4 PM</time>
 <event><title>Two-Factor Authentication: A Primer</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -955,6 +955,11 @@
 <room>Algonquin D</room>
 <blurb><participant>YTCracker</participant> Got any questions for an (in)famous hacker and Internet famous rapper?  We're doing informal hangout session with our GoH YTCracker!  Join in! </blurb></event>
 <time>5 PM</time>
+<event><title>Line?  What Line?  Taboos and Speculative Fiction</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story? </blurb></event>
+<time>5 PM</time>
 <event><title>World Building</title>
 <topic>Gaming</topic>
 <room>Board of Governors</room>
@@ -980,11 +985,6 @@
 <room>Con Suite</room>
 <blurb><participant></participant> Come enjoy LN2 ice cream made for you by our own new group of volunteers! </blurb></event>
 <time>5 PM</time>
-<event><title>Line?  What Line?  Taboos and Speculative Fiction</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle</participant> Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story? </blurb></event>
-<time>5 PM</time>
 <event><title>An Intro to Foraging in Michigan</title>
 <topic>Eco, Food</topic>
 <room>Montcalm</room>
@@ -1009,6 +1009,11 @@
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Eva Galperin, Cory Doctorow, Nick Farr</participant> Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state.  </blurb></event>
+<time>6 PM</time>
+<event><title>Of Gods, Heroes and Their Foes...</title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant>LadyAna, Professor X   </participant> Did you think "Thor: The Dark World" was awful?  What would you like to see happen in "X-Men: Days of Future Past"?  What would you have done differently regarding "Captain America: Winter Solider"?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!        </blurb></event>
 <time>6 PM</time>
 <event><title>Obligatory Undead Panel: Is Undead Dead</title>
 <topic>Lit</topic>
@@ -1039,11 +1044,6 @@
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Matt Arnold</participant> In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome! <duration>2 hours and 50 minutes</duration></blurb></event>
-<time>6 PM</time>
-<event><title>Of Gods, Heroes and Their Foes...</title>
-<topic>Film</topic>
-<room>Hamlin</room>
-<blurb><participant>LadyAna, Professor X   </participant> Did you think "Thor: The Dark World" was awful?  What would you like to see happen in "X-Men: Days of Future Past"?  What would you have done differently regarding "Captain America: Winter Solider"?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!        </blurb></event>
 <time>6 PM</time>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
@@ -1080,6 +1080,12 @@
 <room>Algonquin D</room>
 <blurb><participant>Tom Callaway</participant> 3D Printing is a big thing with the maker movement, and Tom shows how you can do this with free software. Tom is a Red Hat employee and member of the Fedora project. </blurb></event>
 <time>7 PM</time>
+<event><title>The Importance of Editing and Non-Writing For Would-Be Writers</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant>
+Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing.  We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living. </blurb></event>
+<time>7 PM</time>
 <event><title>Women in Tech Meetup</title>
 <topic>Tech</topic>
 <room>Bar</room>
@@ -1115,12 +1121,6 @@
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</participant> Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with "pfffft!" and come anyway. 21 and over, please. </blurb></event>
 <time>7 PM</time>
-<event><title>The Importance of Editing and Non-Writing For Would-Be Writers</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant>
-Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing.  We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living. </blurb></event>
-<time>7 PM</time>
 <event><title>Sustainable Engineering in Developing Economies</title>
 <topic>Eco</topic>
 <room>Montcalm</room>
@@ -1150,6 +1150,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Ruth Suehle, Tom Callaway</participant> ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do, and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made, from light displays and using the Pi as an FM radio to a Star Wars project so good, it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS, Pi-powered Pipboy, and aliens, so come ready to geek out, both Pi and otherwise. </blurb></event>
+<time>8 PM</time>
+<event><title>Open Readings</title>
+<topic>Lit</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> Join us and read from your book or a favorite book!  Please sign up at Ops. </blurb></event>
 <time>8 PM</time>
 <event><title>Ubuntu Release Party</title>
 <topic>Tech</topic>
@@ -1181,11 +1186,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Food Track (Room 1017)</room>
 <blurb><participant>Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin</participant> Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples. </blurb></event>
 <time>8 PM</time>
-<event><title>Open Readings</title>
-<topic>Lit</topic>
-<room>Hamlin</room>
-<blurb><participant></participant> Join us and read from your book or a favorite book!  Please sign up at Ops. </blurb></event>
-<time>8 PM</time>
 <event><title>Inside Game Face Labs</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -1215,6 +1215,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Gaming</topic>
 <room>Algonquin D</room>
 <blurb><participant>Sarah Elkins, Cylithria Dubois</participant> Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art, charts, technobabble, or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded! </blurb></event>
+<time>9 PM</time>
+<event><title>BoF: Gamers Looking for Campaigns</title>
+<topic>Gaming</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> Meet fellow gamers and find new adventures.  </blurb></event>
 <time>9 PM</time>
 <event><title>Creepy Fun, But Would You Read It?</title>
 <topic>Lit</topic>
@@ -1255,11 +1260,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> Players are recent immigrants to the newly populated island of Catan. Expand your colony through the building of settlements, roads, and villages by harvesting commodities from the land around you. Trade sheep, lumber, bricks and grain for a settlement, bricks and wood for a road, or try to complete other combinations for more advanced buildings, services and specials. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>9 PM</time>
-<event><title>BoF: Gamers Looking for Campaigns</title>
-<topic>Gaming</topic>
-<room>Hamlin</room>
-<blurb><participant></participant> Meet fellow gamers and find new adventures.  </blurb></event>
 <time>9 PM</time>
 <event><title>Polyamory 201</title>
 <topic>Life</topic>
@@ -1376,11 +1376,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Algonquin B/C</room>
 <blurb><participant>Thaddeus Micelli, Shoofle Munroe, Steve "Spark" Grandpre</participant> Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.  First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details)  Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely! <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
-<event><title>Artemis: The Starship Bridge Simulator</title>
-<topic>Videogaming</topic>
-<room>Baldwin Board Room</room>
-<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
-<time>10 AM</time>
 <event><title>BoF: Homesteading for Begininers</title>
 <topic>Eco</topic>
 <room>Board of Governors</room>
@@ -1420,6 +1415,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies. <duration>1 hour and 50 minutes</duration></blurb></event>
+<time>10 AM</time>
+<event><title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<room>Baldwin Board Room</room>
+<blurb><participant>Joe Greene</participant> Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend. <duration>3 hours and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>Getting Things Done (GTD) Under Linux</title>
 <topic>Tech, Life</topic>
@@ -1511,6 +1511,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Algonquin D</room>
 <blurb><participant>Amara Sugalski, Catherine Shaffer, Jessica Roland</participant> Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation. </blurb></event>
 <time>12 PM</time>
+<event><title>Tarot Q &amp; A</title>
+<topic>Life</topic>
+<room>Hamlin</room>
+<blurb><participant>CJ Tremlett, Alex Page</participant> Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot! </blurb></event>
+<time>12 PM</time>
 <event><title>The Emperor's New Clothes</title>
 <topic>Costuming</topic>
 <room>Board of Governors</room>
@@ -1561,11 +1566,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Gaming (Restaurant)</room>
 <blurb><participant>Richard Houser</participant> Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.  <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
-<event><title>Tarot Q &amp; A</title>
-<topic>Life</topic>
-<room>Hamlin</room>
-<blurb><participant>CJ Tremlett, Alex Page</participant> Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot! </blurb></event>
-<time>12 PM</time>
 <event><title>The Trials and Tribulations of  the Artist's Lifestyle</title>
 <topic>Life</topic>
 <room>Montcalm</room>
@@ -1596,6 +1596,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Algonquin D</room>
 <blurb><participant>Mike Bernson</participant> Come learn all about programing in Python from Mike, a member of the Python Users Group in Ann Arbor. </blurb></event>
 <time>1 PM</time>
+<event><title>Pen and Paper Game Design</title>
+<topic>Gaming</topic>
+<room>Hamlin</room>
+<blurb><participant>Kevin Siembieda</participant> Meet local designer Kevin Siembieda and tap his mind for ways to design your own games. </blurb></event>
+<time>1 PM</time>
 <event><title>Penguicon 2015 Planning Meeting</title>
 <topic>Penguicon Events</topic>
 <room>Board of Regents</room>
@@ -1620,11 +1625,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Tech</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Chad Crabtree</participant> The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.   </blurb></event>
-<time>1 PM</time>
-<event><title>Pen and Paper Game Design</title>
-<topic>Gaming</topic>
-<room>Hamlin</room>
-<blurb><participant>Kevin Siembieda</participant> Meet local designer Kevin Siembieda and tap his mind for ways to design your own games. </blurb></event>
 <time>1 PM</time>
 <event><title>Paint and Take</title>
 <topic>DIY</topic>
@@ -1655,6 +1655,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Marie-therese Enga</participant> A history of Martian surface changes as documented by Viking, Mariner 9, Mars Global Surveyor and the Mars Reconnaissance Orbiter. Global dust storms, dust devils and persistent winds have lend to brightness variations on more then 30% of the Martian surface. </blurb></event>
+<time>2 PM</time>
+<event><title>You Monster! A Special Effects Makeup Demonstration</title>
+<topic>Costuming</topic>
+<room>Hamlin</room>
+<blurb><participant>Kat McConnell</participant> Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies. </blurb></event>
 <time>2 PM</time>
 <event><title>Indeterminacy as a Compositional Tool: Tarot Cards and Writing</title>
 <topic>Lit</topic>
@@ -1706,11 +1711,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Gaming (Restaurant)</room>
 <blurb><participant></participant> Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can.  <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>2 PM</time>
-<event><title>You Monster! A Special Effects Makeup Demonstration</title>
-<topic>Costuming</topic>
-<room>Hamlin</room>
-<blurb><participant>Kat McConnell</participant> Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies. </blurb></event>
-<time>2 PM</time>
 <event><title>Virtual Reality Headset Demo with Game Face Labs </title>
 <topic>Tech</topic>
 <room>Lobby</room>
@@ -1741,6 +1741,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Algonquin D</room>
 <blurb><participant>Rob Reed</participant> Come talk about guns with a firearms instructor and writer. The panel will briefly discuss the history of firearms with a focus on modern and near future tech. Learn more about how guns work, how to write convincing scenes with firearms, and how knowing more about guns can help both your world building and character development. NOTE: This is NOT the "Geeks with Guns' event.  </blurb></event>
 <time>3 PM</time>
+<event><title>BoF: Recent Free Scifi Movies </title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant></participant> Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like? </blurb></event>
+<time>3 PM</time>
 <event><title>Midnight Monster Movies with Dr. Bob: Behind the Lab Coat</title>
 <topic>Film</topic>
 <room>Board of Governors</room>
@@ -1765,11 +1770,6 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Gaming</topic>
 <room>Gaming (Restaurant)</room>
 <blurb><participant>William Meyer, Kim Horger</participant> In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards. </blurb></event>
-<time>3 PM</time>
-<event><title>BoF: Recent Free Scifi Movies </title>
-<topic>Film</topic>
-<room>Hamlin</room>
-<blurb><participant></participant> Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like? </blurb></event>
 <time>3 PM</time>
 <event><title>Living From Your Strengths</title>
 <topic>Life</topic>
@@ -1826,6 +1826,11 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <room>Algonquin D</room>
 <blurb><participant>Derek Newland</participant> Ever have someone tell you about a favorite TV series or book that you've never heard of, then you check it out and wonder why everyone *hasn't* heard of it?  Come share your favorite book/movie/TV show that you feel got less press than it deserved.   </blurb></event>
 <time>9 AM</time>
+<event><title>Live: Sunday Morning Linux Review</title>
+<topic>Tech</topic>
+<room>Hamlin</room>
+<blurb><participant>Mat Enders, Mary Tomich, Tony Bemus</participant> Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review <duration>1 hour and 50 minutes</duration></blurb></event>
+<time>9 AM</time>
 <event><title>Hunting For Fiction: How to Find What You Want To Read</title>
 <topic>Lit</topic>
 <room>Board of Governors</room>
@@ -1845,9 +1850,4 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <topic>Tech</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Phil Salkie</participant> Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things.  In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry.  Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters.  <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>9 AM</time>
-<event><title>Live: Sunday Morning Linux Review</title>
-<topic>Tech</topic>
-<room>Hamlin</room>
-<blurb><participant>Mat Enders, Mary Tomich, Tony Bemus</participant> Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review <duration>1 hour and 50 minutes</duration></blurb></event>
 </document></events>

@@ -1,5 +1,120 @@
 [
     {
+        "book_description": "The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary. Learn who uses the Archive, what uses are most common, and what game is heavily restricted.",
+        "end_date": "5/2/2014",
+        "title": "Wait, We Have a Video Game Archive?",
+        "track": "Videogaming",
+        "start_time": "16:00",
+        "presenters": [
+            "Britain Woodman",
+            "David Carter"
+        ],
+        "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories.",
+        "end_date": "5/2/2014",
+        "title": "How To Throw A Party",
+        "track": "Life, After Dark",
+        "start_time": "16:00",
+        "presenters": [
+            "Sal Sanfratello"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "You know there are smart people out there who could learn to code (write software, program computers). But they don't. Why not? What can we do to expand the coding craft? Do schools need to teach the principles that make good coders? Can we start a little coding instruction event? ",
+        "end_date": "5/2/2014",
+        "title": "BoF: Why Johnny Can't Code",
+        "track": "Tech",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Board of Regents",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Frag is a computer game without a computer. It's a \"first-person shooter\" on a tabletop. Move your fighter and frag your foes; draw cards for weapons, armor, and gadgets; move through the blood spatters to restore your own health! If you die, you respawn and come back shooting! Up to six can play.",
+        "end_date": "5/2/2014",
+        "title": "FRAG",
+        "track": "Gaming",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Gaming (Restaurant)",
+        "minutes": 110,
+        "start_date": "5/2/2014",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "In Nuns on the Run\u2122 you explore the exciting nocturnal world of a grand abbey filled with intrigue and deception. As the old abbess, the noble prioress, or a simple novice you become hunter or prey. Everyone gets a special \"blessing\" but only the novices try to fulfill a \"secret wish.\" They must sneak through the dimly lit halls, corridors, and gardens, seeking keys and treasures unique to their goal. Meanwhile, the vigilant abbess and prioress patrol their routes, ever watchful of young novices who should be fast asleep in their austere cells. Are you wily enough to fulfill your quest and win the night?",
+        "end_date": "5/2/2014",
+        "title": "Nuns on the Run",
+        "track": "Gaming",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Gaming (Restaurant)",
+        "minutes": 110,
+        "start_date": "5/2/2014",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day).",
+        "end_date": "5/2/2014",
+        "title": "Paint and Take",
+        "track": "DIY",
+        "start_time": "16:00",
+        "presenters": [
+            "Dean Martelle",
+            "Linda Martelle"
+        ],
+        "location": "Lobby",
+        "minutes": 360,
+        "start_date": "5/2/2014",
+        "end_time": "22:00"
+    },
+    {
+        "book_description": "We all love that feeling we get when we can fully immerse ourselves in a fictional world. Conversely, the return to the real world can be quite shocking. Is this part of the reason for the prevalence of series work in genre fiction? Is it something from the publishing side? Is there a place for the stand alone work in SFF?",
+        "end_date": "5/2/2014",
+        "title": "Sequels and Series in Genre Fiction",
+        "track": "Lit",
+        "start_time": "16:00",
+        "presenters": [
+            "Mary Lynne Gibbs",
+            "Michael Cieslak"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "\"The Amazing Transparent Man\" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner\u2019s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job \u2014 a prisoner!",
+        "end_date": "5/2/2014",
+        "title": "The Amazing Transparent Man",
+        "track": "Film",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Portage Auditorium",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "16:50"
+    },
+    {
         "book_description": "The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up! Find it in the lobby!",
         "end_date": "5/4/2014",
         "title": "Chaos Machine",
@@ -126,121 +241,6 @@
         "end_time": "16:00"
     },
     {
-        "book_description": "The Computer and Video Game Archive at the University of Michigan recently celebrated its fifth anniversary. Learn who uses the Archive, what uses are most common, and what game is heavily restricted.",
-        "end_date": "5/2/2014",
-        "title": "Wait, We Have a Video Game Archive?",
-        "track": "Videogaming",
-        "start_time": "16:00",
-        "presenters": [
-            "Britain Woodman",
-            "David Carter"
-        ],
-        "location": "Algonquin D",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "You know there are smart people out there who could learn to code (write software, program computers). But they don't. Why not? What can we do to expand the coding craft? Do schools need to teach the principles that make good coders? Can we start a little coding instruction event? ",
-        "end_date": "5/2/2014",
-        "title": "BoF: Why Johnny Can't Code",
-        "track": "Tech",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Board of Regents",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "Frag is a computer game without a computer. It's a \"first-person shooter\" on a tabletop. Move your fighter and frag your foes; draw cards for weapons, armor, and gadgets; move through the blood spatters to restore your own health! If you die, you respawn and come back shooting! Up to six can play.",
-        "end_date": "5/2/2014",
-        "title": "FRAG",
-        "track": "Gaming",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Gaming (Restaurant)",
-        "minutes": 110,
-        "start_date": "5/2/2014",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "In Nuns on the Run\u2122 you explore the exciting nocturnal world of a grand abbey filled with intrigue and deception. As the old abbess, the noble prioress, or a simple novice you become hunter or prey. Everyone gets a special \"blessing\" but only the novices try to fulfill a \"secret wish.\" They must sneak through the dimly lit halls, corridors, and gardens, seeking keys and treasures unique to their goal. Meanwhile, the vigilant abbess and prioress patrol their routes, ever watchful of young novices who should be fast asleep in their austere cells. Are you wily enough to fulfill your quest and win the night?",
-        "end_date": "5/2/2014",
-        "title": "Nuns on the Run",
-        "track": "Gaming",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Gaming (Restaurant)",
-        "minutes": 110,
-        "start_date": "5/2/2014",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "The panelists have thrown many great parties over the years - join them for conversations on how to be a good host, creating atmosphere, and maintaining energy. Bring your own best tips and great party stories.",
-        "end_date": "5/2/2014",
-        "title": "How To Throw A Party",
-        "track": "Life, After Dark",
-        "start_time": "16:00",
-        "presenters": [
-            "Sal Sanfratello"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day).",
-        "end_date": "5/2/2014",
-        "title": "Paint and Take",
-        "track": "DIY",
-        "start_time": "16:00",
-        "presenters": [
-            "Dean Martelle",
-            "Linda Martelle"
-        ],
-        "location": "Lobby",
-        "minutes": 360,
-        "start_date": "5/2/2014",
-        "end_time": "22:00"
-    },
-    {
-        "book_description": "We all love that feeling we get when we can fully immerse ourselves in a fictional world. Conversely, the return to the real world can be quite shocking. Is this part of the reason for the prevalence of series work in genre fiction? Is it something from the publishing side? Is there a place for the stand alone work in SFF?",
-        "end_date": "5/2/2014",
-        "title": "Sequels and Series in Genre Fiction",
-        "track": "Lit",
-        "start_time": "16:00",
-        "presenters": [
-            "Mary Lynne Gibbs",
-            "Michael Cieslak"
-        ],
-        "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "\"The Amazing Transparent Man\" Dr. Peter Ulof, inventor of an invisibility machine, is forced to create a weapon out of it by Maj. Paul Krenner who keeps his daughter prisoner. The machine cannot be completed without materials that are kept safe in a well guarded government facility. Krenner\u2019s plan is to send an invisible man to steal the needed materials but he picks the wrong person for the job \u2014 a prisoner!",
-        "end_date": "5/2/2014",
-        "title": "The Amazing Transparent Man",
-        "track": "Film",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Portage Auditorium",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "16:50"
-    },
-    {
         "book_description": "Juggling class for those who think they can't juggle. You totally can, and we'll show you how. We will have juggling balls on-hand.",
         "end_date": "5/2/2014",
         "title": "You Can Juggle!",
@@ -269,18 +269,18 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
+        "book_description": "Flame wars got you down? This panel will cover hacks for improving interpersonal communication. Topics include: active listening, nonviolent communication, conflict resolution, consensus decision-making, validation, and common pitfalls and fallacies.",
         "end_date": "5/2/2014",
-        "title": "Artemis: The Starship Bridge Simulator",
-        "track": "Videogaming",
+        "title": "Life Hacks: Communication",
+        "track": "Life",
         "start_time": "17:00",
         "presenters": [
-            "Joe Greene"
+            "Ed Platt"
         ],
-        "location": "Baldwin Board Room",
-        "minutes": 230,
+        "location": "Hamlin",
+        "minutes": 50,
         "start_date": "5/2/2014",
-        "end_time": "20:50"
+        "end_time": "17:50"
     },
     {
         "book_description": "Our chair, Nuri, will talk about how he first joined Penguicon, and give you a tour of what's awesome (everything!) here. If you've never been and you want to get to know the event, this is the panel for you!",
@@ -356,18 +356,18 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "Flame wars got you down? This panel will cover hacks for improving interpersonal communication. Topics include: active listening, nonviolent communication, conflict resolution, consensus decision-making, validation, and common pitfalls and fallacies.",
+        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
         "end_date": "5/2/2014",
-        "title": "Life Hacks: Communication",
-        "track": "Life",
+        "title": "Artemis: The Starship Bridge Simulator",
+        "track": "Videogaming",
         "start_time": "17:00",
         "presenters": [
-            "Ed Platt"
+            "Joe Greene"
         ],
-        "location": "Hamlin",
-        "minutes": 50,
+        "location": "Baldwin Board Room",
+        "minutes": 230,
         "start_date": "5/2/2014",
-        "end_time": "17:50"
+        "end_time": "20:50"
     },
     {
         "book_description": "This discussion will address the importance of local food and businesses in our world today, why they are important, and why they are gaining in popularity. The talk will inspire people to support their local mom n' pop shops over the big box stores, and in turn do good for their local communities. Attendees will learn about farmers' markets, buying clubs, CSA's (community supported agriculture), and other local resources to provide food, fun, and entertainment.",
@@ -448,6 +448,21 @@
             "Bob Trembley"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Explore the pros and cons of writing for examiner.com and Yahoo\u2019s associated content. The discussion will compare writing content for the web versus print magazines. Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself.",
+        "end_date": "5/2/2014",
+        "title": "Writing for the Web ",
+        "track": "Lit",
+        "start_time": "18:00",
+        "presenters": [
+            "Tracy Herrell",
+            "Rob Reed"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/2/2014",
         "end_time": "18:50"
@@ -541,21 +556,6 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Explore the pros and cons of writing for examiner.com and Yahoo\u2019s associated content. The discussion will compare writing content for the web versus print magazines. Other topics to be covered include how to build your writing portfolio and setting deadlines for yourself.",
-        "end_date": "5/2/2014",
-        "title": "Writing for the Web ",
-        "track": "Lit",
-        "start_time": "18:00",
-        "presenters": [
-            "Tracy Herrell",
-            "Rob Reed"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "18:50"
-    },
-    {
         "book_description": "Javascript got you down? Do you see fancy single page applications and wonder how in the world that thing works? Do you make this stuff every day and just want to make more or see someone else's approach? This intermediate level panel is for you! This is the first of two sessions -- please come to both! In this session, we will focus on tooling, structure, mock data sets, and build process. Follow along with the presenter, and walk away with a working single page app. Stan represents Bitovi. To get the best head start, clone https://github.com/shcarrico/skel-html5 and follow the readme for install directions. ",
         "end_date": "5/2/2014",
         "title": "Conquering HTML5 Apps: Session 1",
@@ -596,6 +596,22 @@
             "Bob Trembley"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Some writers are plotters, and can\u2019t proceed until they know how everything ends. Some writers are pantsers, and they surprise themselves as they go. How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses? ",
+        "end_date": "5/2/2014",
+        "title": "Plotters vs Pantsers \u2013 Finding the Storytelling That Works For You",
+        "track": "Lit",
+        "start_time": "19:00",
+        "presenters": [
+            "Ferrett Steinmetz",
+            "Michael Cieslak",
+            "Jim Leach"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/2/2014",
         "end_time": "19:50"
@@ -706,22 +722,6 @@
             "Amy Castner"
         ],
         "location": "Food Track (Room 1017)",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Some writers are plotters, and can\u2019t proceed until they know how everything ends. Some writers are pantsers, and they surprise themselves as they go. How can you figure out which one you are, and how can you harness the strengths of each approach while avoiding the weaknesses? ",
-        "end_date": "5/2/2014",
-        "title": "Plotters vs Pantsers \u2013 Finding the Storytelling That Works For You",
-        "track": "Lit",
-        "start_time": "19:00",
-        "presenters": [
-            "Ferrett Steinmetz",
-            "Michael Cieslak",
-            "Jim Leach"
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/2/2014",
         "end_time": "19:50"
@@ -1000,6 +1000,20 @@
         "end_time": "21:50"
     },
     {
+        "book_description": "Arduino is the original open hardware controller. Come discuss how you can use it and share your enthusiasm",
+        "end_date": "5/2/2014",
+        "title": "BoF: Arduino",
+        "track": "Tech",
+        "start_time": "21:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "21:50"
+    },
+    {
         "book_description": "Learn how and why people use safewords during rough sex play and BDSM. They're codewords to stop activity in case of trauma or the need to discuss what's going on, with no repercussions. Did you know that tops/doms use safewords, too? Practice saying safewords aloud during a brief exercise. Hear about examples when safewords failed and how many people are reluctant to use them, despite their best intent.",
         "end_date": "5/2/2014",
         "title": "Safewords, Beginning to Expert",
@@ -1056,20 +1070,6 @@
         "minutes": 110,
         "start_date": "5/2/2014",
         "end_time": "22:50"
-    },
-    {
-        "book_description": "Arduino is the original open hardware controller. Come discuss how you can use it and share your enthusiasm",
-        "end_date": "5/2/2014",
-        "title": "BoF: Arduino",
-        "track": "Tech",
-        "start_time": "21:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "21:50"
     },
     {
         "book_description": "Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!",
@@ -1160,6 +1160,20 @@
         "end_time": "22:50"
     },
     {
+        "book_description": "How to remove unwanted things/beings from life, home and being. Discussion of different practices, spells, and ingredients that help to remove annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals.",
+        "end_date": "5/2/2014",
+        "title": "Parasitic Paranormals: Getting Rid of Them",
+        "track": "After Dark",
+        "start_time": "22:00",
+        "presenters": [
+            "Shetan Noir"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/2/2014",
+        "end_time": "22:50"
+    },
+    {
         "book_description": "Two of the worlds greatest pirates, Captain Duckman and his loving wife Jenniveve, have plundered nearly every ship that sails the seven seas. Bored, and on the run from the authorities, they've turned to stealing some thing even more important then money... laughter! But when you're stealing, it's always wise to steal from the best. So, come see them enact stage top piracy of the great bard himself, as they perform The Duckman's 'Romeo and Juliet' (the short version). Shakespeare as it should have been... Funny!",
         "end_date": "5/2/2014",
         "title": "Just Happy to Be Here Presents Romeo and Juliet, The Funny Version",
@@ -1232,20 +1246,6 @@
         "minutes": 170,
         "start_date": "5/2/2014",
         "end_time": "0:50"
-    },
-    {
-        "book_description": "How to remove unwanted things/beings from life, home and being. Discussion of different practices, spells, and ingredients that help to remove annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals.",
-        "end_date": "5/2/2014",
-        "title": "Parasitic Paranormals: Getting Rid of Them",
-        "track": "After Dark",
-        "start_time": "22:00",
-        "presenters": [
-            "Shetan Noir"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/2/2014",
-        "end_time": "22:50"
     },
     {
         "book_description": "What happens when you are out at a restaurant, or waiting in line for a movie, and you've forgotten to bring a game to stave off boredom? This panel will teach you several games you can play with any number of people that require only a pen and paper, a few coins, or nothing at all. Puzzle games, word games, party games, strategic games, dexterity games... all can be played if you just know the rules! You'll instantly feel like you can handle any airline delay or family function without your miniatures, cards, or boards.",
@@ -1436,6 +1436,21 @@
         "end_time": "10:50"
     },
     {
+        "book_description": "Open forum for Q and A about filmmaking. Learn how to get started in filmmaking.",
+        "end_date": "5/3/2014",
+        "title": "Filmmaker's Forum",
+        "track": "Film",
+        "start_time": "10:00",
+        "presenters": [
+            "Keith Martens",
+            "James Fernandez"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "10:50"
+    },
+    {
         "book_description": "What open source software do you find yourself using everyday? Why do you use that software? How can we make our lives better with software? ",
         "end_date": "5/3/2014",
         "title": "BoF: Open Source Software for Everyday Use",
@@ -1552,21 +1567,6 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Open forum for Q and A about filmmaking. Learn how to get started in filmmaking.",
-        "end_date": "5/3/2014",
-        "title": "Filmmaker's Forum",
-        "track": "Film",
-        "start_time": "10:00",
-        "presenters": [
-            "Keith Martens",
-            "James Fernandez"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "10:50"
-    },
-    {
         "book_description": "Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!",
         "end_date": "5/3/2014",
         "title": "Virtual Reality Headset Demo with Game Face Labs ",
@@ -1638,6 +1638,22 @@
         "minutes": 110,
         "start_date": "5/3/2014",
         "end_time": "12:50"
+    },
+    {
+        "book_description": "Are there any new stories left, or is everything just a retread of an old idea? What is a retread, and what is a legitimately new angle?",
+        "end_date": "5/3/2014",
+        "title": "Digging Up The Same Old Ground",
+        "track": "Lit",
+        "start_time": "11:00",
+        "presenters": [
+            "Sean M. Davis",
+            "Ferrett Steinmetz",
+            "Nicole Castle"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "11:50"
     },
     {
         "book_description": "How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.",
@@ -1730,22 +1746,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Are there any new stories left, or is everything just a retread of an old idea? What is a retread, and what is a legitimately new angle?",
-        "end_date": "5/3/2014",
-        "title": "Digging Up The Same Old Ground",
-        "track": "Lit",
-        "start_time": "11:00",
-        "presenters": [
-            "Sean M. Davis",
-            "Ferrett Steinmetz",
-            "Nicole Castle"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "11:50"
-    },
-    {
         "book_description": "Sudo is one of the most widely deployed authorization tools for Unix-like systems. It's also one of the most commonly misconfigured, leaving security holes for intruders.This talk takes you through common sudo uses and breaks them, then suggests secure ways to accomplish what you really want. We'll talk about exotic sudo features, such as LDAP and intrusion detection.",
         "end_date": "5/3/2014",
         "title": "Sudo: You're Doing It Wrong",
@@ -1790,18 +1790,18 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
+        "book_description": "Learn how arcane objects like dekatrons, vacuum tubes, and nixies can make fun toys!",
         "end_date": "5/3/2014",
-        "title": "Artemis: The Starship Bridge Simulator",
-        "track": "Videogaming",
+        "title": "Fun with High-Voltage Toys",
+        "track": "Tech",
         "start_time": "12:00",
         "presenters": [
-            "Joe Greene"
+            "Keith Moore"
         ],
-        "location": "Baldwin Board Room",
-        "minutes": 350,
+        "location": "Hamlin",
+        "minutes": 50,
         "start_date": "5/3/2014",
-        "end_time": "17:50"
+        "end_time": "12:50"
     },
     {
         "book_description": "Jorge is employed by Canonical and will present on the latest developments from this popular Linux distro. Focus will be on recetnly released 14.04.",
@@ -1890,18 +1890,18 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Learn how arcane objects like dekatrons, vacuum tubes, and nixies can make fun toys!",
+        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
         "end_date": "5/3/2014",
-        "title": "Fun with High-Voltage Toys",
-        "track": "Tech",
+        "title": "Artemis: The Starship Bridge Simulator",
+        "track": "Videogaming",
         "start_time": "12:00",
         "presenters": [
-            "Keith Moore"
+            "Joe Greene"
         ],
-        "location": "Hamlin",
-        "minutes": 50,
+        "location": "Baldwin Board Room",
+        "minutes": 350,
         "start_date": "5/3/2014",
-        "end_time": "12:50"
+        "end_time": "17:50"
     },
     {
         "book_description": "General meetup for people who want to juggle together. Bring your own, or juggle whatever we have on hand!",
@@ -2425,6 +2425,20 @@
         "end_time": "15:50"
     },
     {
+        "book_description": "Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what? The panelists will discuss the ins and outs of reviewing material on-line.",
+        "end_date": "5/3/2014",
+        "title": "Reviewing for the Masses",
+        "track": "Lit",
+        "start_time": "15:00",
+        "presenters": [
+            "Janea Schimmel"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "A presentation about Size Acceptance and the recent research showing that weight loss is not only very difficult to achieve and maintain, but that it is not really an indicator of a person's healthiness and may not even contribute substantially to health. A review of the literature about what does appear to make a difference, and a discussion of how to be healthier at any weight.",
         "end_date": "5/3/2014",
         "title": "Health at Every Size",
@@ -2481,36 +2495,6 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "Matt Dobson, Adam Magaluk and Kevin Swiber, engineers at Apigee in Downtown Detroit, will demonstrate a geographically distributed system of robots, sensors and actuators. They will share hardware tips, APIs and code from their new open source JavaScript platform called Zetta.js. You will see robot parlor tricks, a man with green(ish) hair and a variety of devices connected with Arduino, Bluetooth, Raspberry Pi, Node.js and Hypermedia APIs. It will be a veritable Internet of Things.",
-        "end_date": "5/3/2014",
-        "title": "Distributed Robotics with Raspberry Pi, Arduino and Zetta.js",
-        "track": "Tech",
-        "start_time": "15:00",
-        "presenters": [
-            "Matt Dobson",
-            "Adam Magaluk",
-            "Kevin Swiber"
-        ],
-        "location": "Charlevoix C",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Dedicated reviewing websites, personal blogs, Amazon, Goodreads... there are endless places online to get recommendations on what to read and what to watch - where is best, for what? The panelists will discuss the ins and outs of reviewing material on-line.",
-        "end_date": "5/3/2014",
-        "title": "Reviewing for the Masses",
-        "track": "Lit",
-        "start_time": "15:00",
-        "presenters": [
-            "Janea Schimmel"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "15:50"
-    },
-    {
         "book_description": "Emily is a GNOME member and developer, as well as a mother with an interest in teaching her kids. Come learn from her experience in teaching free software.",
         "end_date": "5/3/2014",
         "title": "Teaching Free Software to Homeschoolers",
@@ -2556,6 +2540,22 @@
         "end_time": "15:50"
     },
     {
+        "book_description": "Matt Dobson, Adam Magaluk and Kevin Swiber, engineers at Apigee in Downtown Detroit, will demonstrate a geographically distributed system of robots, sensors and actuators. They will share hardware tips, APIs and code from their new open source JavaScript platform called Zetta.js. You will see robot parlor tricks, a man with green(ish) hair and a variety of devices connected with Arduino, Bluetooth, Raspberry Pi, Node.js and Hypermedia APIs. It will be a veritable Internet of Things.",
+        "end_date": "5/3/2014",
+        "title": "Distributed Robotics with Raspberry Pi, Arduino and Zetta.js",
+        "track": "Tech",
+        "start_time": "15:00",
+        "presenters": [
+            "Matt Dobson",
+            "Adam Magaluk",
+            "Kevin Swiber"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "A fundamental feat of confidence and will, board breaking is one of the first, most dramatic tests of Eastern martial arts. Join Aegis as we teach you what it takes for you to break a board or two. Take your broken board home with you as proof or your new prowess!",
         "end_date": "5/3/2014",
         "title": "Board-Breaking Class",
@@ -2596,6 +2596,21 @@
             "Bob Trembley"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn\u2019t read it (to the reader's delight). Is this indicative of an expectation among television and movie audiences that established characters survive? Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments? Is it more acceptable to kill off a character in print? How do these expectations differ amongst genre fiction?",
+        "end_date": "5/3/2014",
+        "title": "What About The Happily Ever After?",
+        "track": "Lit",
+        "start_time": "16:00",
+        "presenters": [
+            " Jim Leach",
+            "Ferrett Steinmetz"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "16:50"
@@ -2721,21 +2736,6 @@
         "end_time": "18:50"
     },
     {
-        "book_description": "There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn\u2019t read it (to the reader's delight). Is this indicative of an expectation among television and movie audiences that established characters survive? Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments? Is it more acceptable to kill off a character in print? How do these expectations differ amongst genre fiction?",
-        "end_date": "5/3/2014",
-        "title": "What About The Happily Ever After?",
-        "track": "Lit",
-        "start_time": "16:00",
-        "presenters": [
-            " Jim Leach",
-            "Ferrett Steinmetz"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "16:50"
-    },
-    {
         "book_description": "Let Mark, a security professional, teach you how you can use two-factor authentication to improve your security and prevent the bad guys from stealing your online accounts.",
         "end_date": "5/3/2014",
         "title": "Two-Factor Authentication: A Primer",
@@ -2825,6 +2825,23 @@
         "end_time": "17:50"
     },
     {
+        "book_description": "Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction. Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?",
+        "end_date": "5/3/2014",
+        "title": "Line? What Line? Taboos and Speculative Fiction",
+        "track": "Lit",
+        "start_time": "17:00",
+        "presenters": [
+            "Ken MacGreggor",
+            "Sean M. Davis",
+            "Ferrett Steinmetz",
+            "Nicole Castle"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "17:50"
+    },
+    {
         "book_description": "What are the best tips of making a world that is unique and sensational?",
         "end_date": "5/3/2014",
         "title": "World Building",
@@ -2890,23 +2907,6 @@
             ""
         ],
         "location": "Con Suite",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction. Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?",
-        "end_date": "5/3/2014",
-        "title": "Line? What Line? Taboos and Speculative Fiction",
-        "track": "Lit",
-        "start_time": "17:00",
-        "presenters": [
-            "Ken MacGreggor",
-            "Sean M. Davis",
-            "Ferrett Steinmetz",
-            "Nicole Castle"
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "17:50"
@@ -3000,6 +3000,21 @@
         "end_time": "18:50"
     },
     {
+        "book_description": "Did you think \"Thor: The Dark World\" was awful? What would you like to see happen in \"X-Men: Days of Future Past\"? What would you have done differently regarding \"Captain America: Winter Solider\"? If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike! Interested in learning more about Marvel (and yes, DC) comics? That's why we're here! Note: there will be free comics and goodies giveaways! ",
+        "end_date": "5/3/2014",
+        "title": "Of Gods, Heroes and Their Foes...",
+        "track": "Film",
+        "start_time": "18:00",
+        "presenters": [
+            "LadyAna",
+            "Professor X   "
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "18:50"
+    },
+    {
         "book_description": "Shoot \u2018em in the head, stake \u2018em through the heart, the good old silver bullet...it doesn\u2019t matter, the undead keep coming back. Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs? Is there a division between genre fans who have grown tired of these creatures just as they\u2019re taking off in the general public?",
         "end_date": "5/3/2014",
         "title": "Obligatory Undead Panel: Is Undead Dead",
@@ -3085,21 +3100,6 @@
         "minutes": 170,
         "start_date": "5/3/2014",
         "end_time": "20:50"
-    },
-    {
-        "book_description": "Did you think \"Thor: The Dark World\" was awful? What would you like to see happen in \"X-Men: Days of Future Past\"? What would you have done differently regarding \"Captain America: Winter Solider\"? If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike! Interested in learning more about Marvel (and yes, DC) comics? That's why we're here! Note: there will be free comics and goodies giveaways! ",
-        "end_date": "5/3/2014",
-        "title": "Of Gods, Heroes and Their Foes...",
-        "track": "Film",
-        "start_time": "18:00",
-        "presenters": [
-            "LadyAna",
-            "Professor X   "
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "18:50"
     },
     {
         "book_description": "Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!",
@@ -3199,6 +3199,22 @@
             "Tom Callaway"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing. We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living.",
+        "end_date": "5/3/2014",
+        "title": "The Importance of Editing and Non-Writing For Would-Be Writers",
+        "track": "Lit",
+        "start_time": "19:00",
+        "presenters": [
+            "\nMary Lynne Gibbs",
+            "Michael Cieslak",
+            "Rosemary Van Deuren"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "19:50"
@@ -3310,22 +3326,6 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing. We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living.",
-        "end_date": "5/3/2014",
-        "title": "The Importance of Editing and Non-Writing For Would-Be Writers",
-        "track": "Lit",
-        "start_time": "19:00",
-        "presenters": [
-            "\nMary Lynne Gibbs",
-            "Michael Cieslak",
-            "Rosemary Van Deuren"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "19:50"
-    },
-    {
         "book_description": "The presenter will highlight some of the work that EOS International (http://eosinternational.org/) is doing in Nicaragua and how you could use the technology here. Started by young engineering grads, EOS International is a great example of what keeping engineering local and appropriate means.",
         "end_date": "5/3/2014",
         "title": "Sustainable Engineering in Developing Economies",
@@ -3407,6 +3407,20 @@
             "Tom Callaway"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "Join us and read from your book or a favorite book! Please sign up at Ops.",
+        "end_date": "5/3/2014",
+        "title": "Open Readings",
+        "track": "Lit",
+        "start_time": "20:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "20:50"
@@ -3496,20 +3510,6 @@
             "Douglas Tobin"
         ],
         "location": "Food Track (Room 1017)",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "20:50"
-    },
-    {
-        "book_description": "Join us and read from your book or a favorite book! Please sign up at Ops.",
-        "end_date": "5/3/2014",
-        "title": "Open Readings",
-        "track": "Lit",
-        "start_time": "20:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "20:50"
@@ -3605,6 +3605,20 @@
             "Cylithria Dubois"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "Meet fellow gamers and find new adventures. ",
+        "end_date": "5/3/2014",
+        "title": "BoF: Gamers Looking for Campaigns",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "21:50"
@@ -3723,20 +3737,6 @@
         "minutes": 110,
         "start_date": "5/3/2014",
         "end_time": "22:50"
-    },
-    {
-        "book_description": "Meet fellow gamers and find new adventures. ",
-        "end_date": "5/3/2014",
-        "title": "BoF: Gamers Looking for Campaigns",
-        "track": "Gaming",
-        "start_time": "21:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "21:50"
     },
     {
         "book_description": "Advanced polyamory topics for practicing polyamorists. We're skipping basics like \"what is polyamory\" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more.",
@@ -4075,20 +4075,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
-        "end_date": "5/4/2014",
-        "title": "Artemis: The Starship Bridge Simulator",
-        "track": "Videogaming",
-        "start_time": "10:00",
-        "presenters": [
-            "Joe Greene"
-        ],
-        "location": "Baldwin Board Room",
-        "minutes": 230,
-        "start_date": "5/4/2014",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. ",
         "end_date": "5/4/2014",
         "title": "BoF: Homesteading for Begininers",
@@ -4209,6 +4195,20 @@
         "minutes": 110,
         "start_date": "5/4/2014",
         "end_time": "11:50"
+    },
+    {
+        "book_description": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
+        "end_date": "5/4/2014",
+        "title": "Artemis: The Starship Bridge Simulator",
+        "track": "Videogaming",
+        "start_time": "10:00",
+        "presenters": [
+            "Joe Greene"
+        ],
+        "location": "Baldwin Board Room",
+        "minutes": 230,
+        "start_date": "5/4/2014",
+        "end_time": "13:50"
     },
     {
         "book_description": "The Getting Things Done (GTD) methodology by David Allen is a popular way to not only get things done but also to clear away distractions and achieve focus. Craig Maloney details how he uses GTD under a Linux environment, using tools like Todo.txt, Evernote, Dropbox, and text files. He'll also cover some useful tips and tricks for setting up and honing your own GTD system.",
@@ -4485,6 +4485,21 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!",
+        "end_date": "5/4/2014",
+        "title": "Tarot Q and A",
+        "track": "Life",
+        "start_time": "12:00",
+        "presenters": [
+            "CJ Tremlett",
+            "Alex Page"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "Come learn how to create a costume out of thin air. You can take everyday clothes and items and make them into something cool! Get tips on dyeing fabrics and taking care of wigs, and lots of ideas for ways to finish your costume. Bring your costume for help with last minute adjustments.",
         "end_date": "5/4/2014",
         "title": "The Emperor's New Clothes",
@@ -4630,21 +4645,6 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!",
-        "end_date": "5/4/2014",
-        "title": "Tarot Q and A",
-        "track": "Life",
-        "start_time": "12:00",
-        "presenters": [
-            "CJ Tremlett",
-            "Alex Page"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "12:50"
-    },
-    {
         "book_description": "Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!",
         "end_date": "5/4/2014",
         "title": "The Trials and Tribulations of the Artist's Lifestyle",
@@ -4735,6 +4735,20 @@
         "end_time": "13:50"
     },
     {
+        "book_description": "Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.",
+        "end_date": "5/4/2014",
+        "title": "Pen and Paper Game Design",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Kevin Siembieda"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. ",
         "end_date": "5/4/2014",
         "title": "Penguicon 2015 Planning Meeting",
@@ -4813,20 +4827,6 @@
             "Chad Crabtree"
         ],
         "location": "Charlevoix C",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.",
-        "end_date": "5/4/2014",
-        "title": "Pen and Paper Game Design",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Kevin Siembieda"
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "13:50"
@@ -4916,6 +4916,20 @@
             "Marie-therese Enga"
         ],
         "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.",
+        "end_date": "5/4/2014",
+        "title": "You Monster! A Special Effects Makeup Demonstration",
+        "track": "Costuming",
+        "start_time": "14:00",
+        "presenters": [
+            "Kat McConnell"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "14:50"
@@ -5064,20 +5078,6 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.",
-        "end_date": "5/4/2014",
-        "title": "You Monster! A Special Effects Makeup Demonstration",
-        "track": "Costuming",
-        "start_time": "14:00",
-        "presenters": [
-            "Kat McConnell"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "14:50"
-    },
-    {
         "book_description": "Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!",
         "end_date": "5/4/2014",
         "title": "Virtual Reality Headset Demo with Game Face Labs ",
@@ -5175,6 +5175,20 @@
         "end_time": "15:50"
     },
     {
+        "book_description": "Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there. Which ones have you seen? What did you like?",
+        "end_date": "5/4/2014",
+        "title": "BoF: Recent Free Scifi Movies ",
+        "track": "Film",
+        "start_time": "15:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast and crew of Midnight Monster Movies with Dr. Bob with Q and A.",
         "end_date": "5/4/2014",
         "title": "Midnight Monster Movies with Dr. Bob: Behind the Lab Coat",
@@ -5245,20 +5259,6 @@
             "Kim Horger"
         ],
         "location": "Gaming (Restaurant)",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there. Which ones have you seen? What did you like?",
-        "end_date": "5/4/2014",
-        "title": "BoF: Recent Free Scifi Movies ",
-        "track": "Film",
-        "start_time": "15:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "15:50"
@@ -5431,6 +5431,22 @@
         "end_time": "9:50"
     },
     {
+        "book_description": "Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review",
+        "end_date": "5/4/2014",
+        "title": "Live: Sunday Morning Linux Review",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            "Mat Enders",
+            "Mary Tomich",
+            "Tony Bemus"
+        ],
+        "location": "Hamlin",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "10:50"
+    },
+    {
         "book_description": "A look at how people find books to read when brick and mortar bookstores are becoming scarce and libraries may or may not stock the genre fiction you are interested in. Will cover blogs, Goodreads, and more.",
         "end_date": "5/4/2014",
         "title": "Hunting For Fiction: How to Find What You Want To Read",
@@ -5483,22 +5499,6 @@
             "Phil Salkie"
         ],
         "location": "Charlevoix C",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "10:50"
-    },
-    {
-        "book_description": "Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review",
-        "end_date": "5/4/2014",
-        "title": "Live: Sunday Morning Linux Review",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            "Mat Enders",
-            "Mary Tomich",
-            "Tony Bemus"
-        ],
-        "location": "Hamlin",
         "minutes": 110,
         "start_date": "5/4/2014",
         "end_time": "10:50"
