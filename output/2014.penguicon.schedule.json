@@ -1406,6 +1406,121 @@
         "end_time": "1:50"
     },
     {
+        "book_description": "Enjoy the tunes as Penguicon's music guests jam until we're all ready for bed. All musicians are welcome to join in. ",
+        "end_date": "5/3/2014",
+        "title": "Penguicon Music Open Mic",
+        "track": "Music",
+        "start_time": "1:00",
+        "presenters": [
+            "Open"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 110,
+        "start_date": "5/3/2014",
+        "end_time": "2:50"
+    },
+    {
+        "book_description": "Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands. Come get fit to dubstep and remixed gaming music!",
+        "end_date": "5/3/2014",
+        "title": "Fitness Boot Camp",
+        "track": "Life",
+        "start_time": "9:00",
+        "presenters": [
+            "William Bowen"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "What does the CIA have in common with dinosaur extinction? They have a great metallurgical story behind them! Come hear some great stories from Professor Ron, followed by Q and A.",
+        "end_date": "5/3/2014",
+        "title": "Adventures in Metallurgy",
+        "track": "Science",
+        "start_time": "9:00",
+        "presenters": [
+            "Ron Demerino"
+        ],
+        "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Come share ideas for local resources for fresh foods. ",
+        "end_date": "5/3/2014",
+        "title": "BoF: Fresh Food Resources Networking",
+        "track": "Food",
+        "start_time": "9:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Board of Regents",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Love free and open source software? Want to find a way to get paid to work on it? Our panelists have found a way to do it, come find out how you can too!",
+        "end_date": "5/3/2014",
+        "title": "Open Source Jobs",
+        "track": "Tech, Life",
+        "start_time": "9:00",
+        "presenters": [
+            "Ed Platt",
+            "Jorge Castro",
+            "Eric Merrill",
+            "Matt Switlik"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "We all spend a great deal of time driving or otherwise working on projects that prevent us from reading as much as we'd like. Many have found audiobooks to be a great way to take advantage of otherwise lost time. Learn the current (and historic) technology.",
+        "end_date": "5/3/2014",
+        "title": "All About Audiobooks",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            "Bill Kolasa"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "How to find and download e-books from the library. Learn how the library acquires and catalogs books from a librarian. Find out why there are not infinite digital copies and why there is a waitlist for newly released titles.",
+        "end_date": "5/3/2014",
+        "title": "Checking Out an E-book: How and Why",
+        "track": "Lit",
+        "start_time": "9:00",
+        "presenters": [
+            "Janea Schimmel"
+        ],
+        "location": "Nicolet",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "A collection of Michigan-Made Movies. Shorts and Features to include: \"Handlebar\" a crime drama by Michael McCallum (Feature); \"Captive of a Death Mask\" a slasher flick by Slash Proof Productions (Feature); \"Footprints\" an apocalyptic short film by Slash Proof Productions (Short); \"Detroit Ghost Busters\" a fan-film by Kimberly Howard (short); \"Crosscurrent\" a DieselPunk film by Bad Catholic Films (short); \"Moving Mountains\" a WWII drama by Michigami Films (short); \"Amish Vengence\" a movie trailer parody by Bad Catholic Films. And maybe more!",
+        "end_date": "5/3/2014",
+        "title": "Independent Film Block",
+        "track": "Film",
+        "start_time": "9:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Portage Auditorium",
+        "minutes": 290,
+        "start_date": "5/3/2014",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome. First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details) Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!",
         "end_date": "5/3/2014",
         "title": " Open Source Spinning",
@@ -3355,20 +3470,6 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Enjoy the tunes as Penguicon's music guests jam until we're all ready for bed. All musicians are welcome to join in. ",
-        "end_date": "5/3/2014",
-        "title": "Penguicon Music Open Mic",
-        "track": "Music",
-        "start_time": "1:00",
-        "presenters": [
-            "Open"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 110,
-        "start_date": "5/3/2014",
-        "end_time": "2:50"
-    },
-    {
         "book_description": "Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Learn the rules, find out where you can play in Michigan, and try out the weapons for yourself.",
         "end_date": "5/3/2014",
         "title": "Dagorhir: Local Eryndor LARP ",
@@ -3915,107 +4016,6 @@
         "end_time": "23:50"
     },
     {
-        "book_description": "Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands. Come get fit to dubstep and remixed gaming music!",
-        "end_date": "5/3/2014",
-        "title": "Fitness Boot Camp",
-        "track": "Life",
-        "start_time": "9:00",
-        "presenters": [
-            "William Bowen"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "What does the CIA have in common with dinosaur extinction? They have a great metallurgical story behind them! Come hear some great stories from Professor Ron, followed by Q and A.",
-        "end_date": "5/3/2014",
-        "title": "Adventures in Metallurgy",
-        "track": "Science",
-        "start_time": "9:00",
-        "presenters": [
-            "Ron Demerino"
-        ],
-        "location": "Algonquin D",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Come share ideas for local resources for fresh foods. ",
-        "end_date": "5/3/2014",
-        "title": "BoF: Fresh Food Resources Networking",
-        "track": "Food",
-        "start_time": "9:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Board of Regents",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Love free and open source software? Want to find a way to get paid to work on it? Our panelists have found a way to do it, come find out how you can too!",
-        "end_date": "5/3/2014",
-        "title": "Open Source Jobs",
-        "track": "Tech, Life",
-        "start_time": "9:00",
-        "presenters": [
-            "Ed Platt",
-            "Jorge Castro",
-            "Eric Merrill",
-            "Matt Switlik"
-        ],
-        "location": "Charlevoix C",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "We all spend a great deal of time driving or otherwise working on projects that prevent us from reading as much as we'd like. Many have found audiobooks to be a great way to take advantage of otherwise lost time. Learn the current (and historic) technology.",
-        "end_date": "5/3/2014",
-        "title": "All About Audiobooks",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            "Bill Kolasa"
-        ],
-        "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "How to find and download e-books from the library. Learn how the library acquires and catalogs books from a librarian. Find out why there are not infinite digital copies and why there is a waitlist for newly released titles.",
-        "end_date": "5/3/2014",
-        "title": "Checking Out an E-book: How and Why",
-        "track": "Lit",
-        "start_time": "9:00",
-        "presenters": [
-            "Janea Schimmel"
-        ],
-        "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "A collection of Michigan-Made Movies. Shorts and Features to include: \"Handlebar\" a crime drama by Michael McCallum (Feature); \"Captive of a Death Mask\" a slasher flick by Slash Proof Productions (Feature); \"Footprints\" an apocalyptic short film by Slash Proof Productions (Short); \"Detroit Ghost Busters\" a fan-film by Kimberly Howard (short); \"Crosscurrent\" a DieselPunk film by Bad Catholic Films (short); \"Moving Mountains\" a WWII drama by Michigami Films (short); \"Amish Vengence\" a movie trailer parody by Bad Catholic Films. And maybe more!",
-        "end_date": "5/3/2014",
-        "title": "Independent Film Block",
-        "track": "Film",
-        "start_time": "9:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Portage Auditorium",
-        "minutes": 290,
-        "start_date": "5/3/2014",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "During the hustle of Con it is easy to become tense. Relax and recharge with some yoga stretching, whether it is to prepare for sleep or recharge you for a long night of partying. Open to all levels, abilities, and body types. Wear comfortable clothing and be ready to sweat. ",
         "end_date": "5/4/2014",
         "title": "Midnight Yoga",
@@ -4057,6 +4057,178 @@
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "0:50"
+    },
+    {
+        "book_description": "Since 2011, Seattle-based 8-bit EDM producer boaconstructor has carved a name for himself pushing out huge bass tunes from a single Nintendo Gameboy. Self-confessed to be disconnected from videogame culture, boa\u2019s Gameboy use is aesthetic only, bringing less of the 80s, and more of the party. Featuring live visuals by Ohhinaifu and Walk In Circles.",
+        "end_date": "5/4/2014",
+        "title": "Performance: boaconstructor",
+        "track": "Music",
+        "start_time": "1:00",
+        "presenters": [
+            "boaconstructor"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "1:50"
+    },
+    {
+        "book_description": "\"Plan 9 From Outer Space\" After multiple attempts by the government to cover up alien sightings, the aliens decide execute plan 9 - resurrecting dead people as zombies - in an effort to push the government into acknowledging their existence.",
+        "end_date": "5/4/2014",
+        "title": "Plan 9 From Outer Space",
+        "track": "Film",
+        "start_time": "1:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Portage Auditorium",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "2:50"
+    },
+    {
+        "book_description": "Continue the jams with Penguicon's awesome chiptune artists. All chiptunes artists are welcome to join in. Featuring live visuals by Ohhinaifu and Walk In Circles.",
+        "end_date": "5/4/2014",
+        "title": "Open Chip Jam Session",
+        "track": "Music",
+        "start_time": "2:00",
+        "presenters": [
+            "Open"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "3:50"
+    },
+    {
+        "book_description": "Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box. Come get a brief but thorough introduction to interacting with that scary, scary, \"shell\" and its tools. You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap. Attendance limited. Sign up at Ops no less than one hour before.",
+        "end_date": "5/4/2014",
+        "title": "Linux - the Scary, Scary Command Line",
+        "track": "Tech",
+        "start_time": "8:00",
+        "presenters": [
+            "John D. Bell",
+            "Susan"
+        ],
+        "location": "Board of Trustees",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "\"The Brain That Wouldn't Die\" Dr. Bill Cortner\u2019s beautiful fiancee, Jan, is decapitated in a car accident. Bill cannot let her go, revives her head and keeps it in his laboratory while looking for a body that could serve as a host. Jan, however, has other plans!",
+        "end_date": "5/4/2014",
+        "title": "The Brain That Wouldn't Die",
+        "track": "Film",
+        "start_time": "8:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Portage Auditorium",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands. Come get fit to dubstep and remixed gaming music!",
+        "end_date": "5/4/2014",
+        "title": "Fitness Boot Camp",
+        "track": "Life",
+        "start_time": "9:00",
+        "presenters": [
+            "William Bowen"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Ever have someone tell you about a favorite TV series or book that you've never heard of, then you check it out and wonder why everyone *hasn't* heard of it? Come share your favorite book/movie/TV show that you feel got less press than it deserved. ",
+        "end_date": "5/4/2014",
+        "title": "Lost Gems in Media",
+        "track": "Film",
+        "start_time": "9:00",
+        "presenters": [
+            "Derek Newland"
+        ],
+        "location": "Algonquin D",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review",
+        "end_date": "5/4/2014",
+        "title": "Live: Sunday Morning Linux Review",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            "Mat Enders",
+            "Mary Tomich",
+            "Tony Bemus"
+        ],
+        "location": "Hamlin",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "10:50"
+    },
+    {
+        "book_description": "A look at how people find books to read when brick and mortar bookstores are becoming scarce and libraries may or may not stock the genre fiction you are interested in. Will cover blogs, Goodreads, and more.",
+        "end_date": "5/4/2014",
+        "title": "Hunting For Fiction: How to Find What You Want To Read",
+        "track": "Lit",
+        "start_time": "9:00",
+        "presenters": [
+            "Janea Schimmel"
+        ],
+        "location": "Board of Governors",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Can you share any ideas on how we can make our technical clubs and community groups better? What would it take for you to play a more active role in the groups around the area?",
+        "end_date": "5/4/2014",
+        "title": "BoF: Building a Tech Community",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Board of Regents",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately. What are the relevant laws, and what should you expect? Why would someone want to carry a weapon in the first place? What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics. Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints. Some people have extremely strong views on the subject of gun control. We expect participants to respect the views of others. Anyone unable to do so will be asked to leave.",
+        "end_date": "5/4/2014",
+        "title": "Firearms and the Law",
+        "track": "Action Adventure",
+        "start_time": "9:00",
+        "presenters": [
+            "Stu Chisholm",
+            "Richard Houser"
+        ],
+        "location": "Charlevoix B",
+        "minutes": 50,
+        "start_date": "5/4/2014",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things. In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry. Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters. ",
+        "end_date": "5/4/2014",
+        "title": "Programming Robots the Old Fashioned Way (A Crash Course in PLC Ladder Logic)",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            "Phil Salkie"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 110,
+        "start_date": "5/4/2014",
+        "end_time": "10:50"
     },
     {
         "book_description": "Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome. First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details) Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!",
@@ -5330,177 +5502,5 @@
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Since 2011, Seattle-based 8-bit EDM producer boaconstructor has carved a name for himself pushing out huge bass tunes from a single Nintendo Gameboy. Self-confessed to be disconnected from videogame culture, boa\u2019s Gameboy use is aesthetic only, bringing less of the 80s, and more of the party. Featuring live visuals by Ohhinaifu and Walk In Circles.",
-        "end_date": "5/4/2014",
-        "title": "Performance: boaconstructor",
-        "track": "Music",
-        "start_time": "1:00",
-        "presenters": [
-            "boaconstructor"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "1:50"
-    },
-    {
-        "book_description": "\"Plan 9 From Outer Space\" After multiple attempts by the government to cover up alien sightings, the aliens decide execute plan 9 - resurrecting dead people as zombies - in an effort to push the government into acknowledging their existence.",
-        "end_date": "5/4/2014",
-        "title": "Plan 9 From Outer Space",
-        "track": "Film",
-        "start_time": "1:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Portage Auditorium",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "2:50"
-    },
-    {
-        "book_description": "Continue the jams with Penguicon's awesome chiptune artists. All chiptunes artists are welcome to join in. Featuring live visuals by Ohhinaifu and Walk In Circles.",
-        "end_date": "5/4/2014",
-        "title": "Open Chip Jam Session",
-        "track": "Music",
-        "start_time": "2:00",
-        "presenters": [
-            "Open"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "3:50"
-    },
-    {
-        "book_description": "Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box. Come get a brief but thorough introduction to interacting with that scary, scary, \"shell\" and its tools. You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap. Attendance limited. Sign up at Ops no less than one hour before.",
-        "end_date": "5/4/2014",
-        "title": "Linux - the Scary, Scary Command Line",
-        "track": "Tech",
-        "start_time": "8:00",
-        "presenters": [
-            "John D. Bell",
-            "Susan"
-        ],
-        "location": "Board of Trustees",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "\"The Brain That Wouldn't Die\" Dr. Bill Cortner\u2019s beautiful fiancee, Jan, is decapitated in a car accident. Bill cannot let her go, revives her head and keeps it in his laboratory while looking for a body that could serve as a host. Jan, however, has other plans!",
-        "end_date": "5/4/2014",
-        "title": "The Brain That Wouldn't Die",
-        "track": "Film",
-        "start_time": "8:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Portage Auditorium",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands. Come get fit to dubstep and remixed gaming music!",
-        "end_date": "5/4/2014",
-        "title": "Fitness Boot Camp",
-        "track": "Life",
-        "start_time": "9:00",
-        "presenters": [
-            "William Bowen"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Ever have someone tell you about a favorite TV series or book that you've never heard of, then you check it out and wonder why everyone *hasn't* heard of it? Come share your favorite book/movie/TV show that you feel got less press than it deserved. ",
-        "end_date": "5/4/2014",
-        "title": "Lost Gems in Media",
-        "track": "Film",
-        "start_time": "9:00",
-        "presenters": [
-            "Derek Newland"
-        ],
-        "location": "Algonquin D",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review",
-        "end_date": "5/4/2014",
-        "title": "Live: Sunday Morning Linux Review",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            "Mat Enders",
-            "Mary Tomich",
-            "Tony Bemus"
-        ],
-        "location": "Hamlin",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "10:50"
-    },
-    {
-        "book_description": "A look at how people find books to read when brick and mortar bookstores are becoming scarce and libraries may or may not stock the genre fiction you are interested in. Will cover blogs, Goodreads, and more.",
-        "end_date": "5/4/2014",
-        "title": "Hunting For Fiction: How to Find What You Want To Read",
-        "track": "Lit",
-        "start_time": "9:00",
-        "presenters": [
-            "Janea Schimmel"
-        ],
-        "location": "Board of Governors",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Can you share any ideas on how we can make our technical clubs and community groups better? What would it take for you to play a more active role in the groups around the area?",
-        "end_date": "5/4/2014",
-        "title": "BoF: Building a Tech Community",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Board of Regents",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately. What are the relevant laws, and what should you expect? Why would someone want to carry a weapon in the first place? What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics. Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints. Some people have extremely strong views on the subject of gun control. We expect participants to respect the views of others. Anyone unable to do so will be asked to leave.",
-        "end_date": "5/4/2014",
-        "title": "Firearms and the Law",
-        "track": "Action Adventure",
-        "start_time": "9:00",
-        "presenters": [
-            "Stu Chisholm",
-            "Richard Houser"
-        ],
-        "location": "Charlevoix B",
-        "minutes": 50,
-        "start_date": "5/4/2014",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things. In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry. Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters. ",
-        "end_date": "5/4/2014",
-        "title": "Programming Robots the Old Fashioned Way (A Crash Course in PLC Ladder Logic)",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            "Phil Salkie"
-        ],
-        "location": "Charlevoix C",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "10:50"
     }
 ]
