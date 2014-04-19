@@ -350,6 +350,9 @@ sessions.sort(key=itemgetter('index'))
 ##sessions.sort(key=itemgetter('startday'))
 ##sessions.sort(key=itemgetter('allday'), reverse=True)
 sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue']) ## thanks Walter!
+
+sessions.sort(key=itemgetter('allday'), reverse=True)
+
 speakers.sort()
 tempstart = "test"
 
