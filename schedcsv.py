@@ -304,6 +304,7 @@ for index, x in enumerate(pconsched.schedule):
             tempspeaker = re.sub(r'\(','', tempspeaker)
             tempspeaker = re.sub(r'\)','', tempspeaker)
             tempspeaker = re.sub(r'/','', tempspeaker)
+            tempspeaker = re.sub(r'"','-',, tempspeaker)
             if session['speakernosp'] == "":
                 session['speakernosp'] = session['speakernosp'] + tempspeaker
             else:
