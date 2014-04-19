@@ -1047,7 +1047,7 @@ index,23
 speakers,"Keith Martens, Mary Lynne Gibbs, James Fernandez"
 bookdescrip,Come join us for a discussion on making webseries and fan films.
 Track,Film
-startday,5/2/2014
+startday,5/3/2014
 Title,Webseries and Fan Films: Future of Filmmaking?
 Start Time,17:00
 event_start,17:00
@@ -1055,13 +1055,13 @@ starttimeampm,5 PM
 End Time,17:50
 tracknosp,['Film']
 endday,5/2/2014
-input,"['5/2/2014', '17:00', '5/2/2014', '17:50', 'Charlevoix C', 'Film', 'Webseries and Fan Films: Future of Filmmaking?', 'Keith Martens, Mary Lynne Gibbs, James Fernandez', 'Come join us for a discussion on making webseries and fan films.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '17:00', '5/2/2014', '17:50', 'Charlevoix C', 'Film', 'Webseries and Fan Films: Future of Filmmaking?', 'Keith Martens, Mary Lynne Gibbs, James Fernandez', 'Come join us for a discussion on making webseries and fan films.', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,"Keith Martens, Mary Lynne Gibbs, James Fernandez"
 avneeds,none
 speakerlist,"['Keith Martens', 'Mary Lynne Gibbs', 'James Fernandez']"
-hours,0
-totalminutes,50
+hours,-24
+totalminutes,-1390
 speakernosplist,"['KeithMartens', 'MaryLynneGibbs', 'JamesFernandez']"
 caldescrip,Come join us for a discussion on making webseries and fan films.
 endtime,17:50
@@ -1076,7 +1076,7 @@ csvsafedescrip,Come join us for a discussion on making webseries and fan films.
 speakernosp,"KeithMartens,MaryLynneGibbs,JamesFernandez"
 starttime,17:00
 roomnosp,CharlevoixC
-Start Date,5/2/2014
+Start Date,5/3/2014
 minutes,50
 allday,FALSE
 event_type,Food
