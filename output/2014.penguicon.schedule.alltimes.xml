@@ -115,11 +115,6 @@
 <room>Charlevoix B</room>
 <blurb><participant>Michael W. Lucas</participant> While Linux gets a lot of press time these days, it's not the oldest open-source Unix-like operating system. The Berkeley Software Distribution (BSD) has been around since the late 1970s. We'll cover the two most popular BSD variants, FreeBSD and OpenBSD, and what makes these operating systems special. If you use the Internet, you use BSD. Come see what you rely on. By the author of "Absolute FreeBSD" and "Absolute OpenBSD." </blurb></event>
 <time>5 PM</time>
-<event><title>Webseries and Fan Films: Future of Filmmaking?</title>
-<topic>Film</topic>
-<room>Charlevoix C</room>
-<blurb><participant>Keith Martens, Mary Lynne Gibbs, James Fernandez</participant> Come join us for a discussion on making webseries and fan films. </blurb></event>
-<time>5 PM</time>
 <event><title>Working with Yeast</title>
 <topic>Food</topic>
 <room>Food Track (Room 1017)</room>
@@ -714,6 +709,11 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Cory Doctorow</participant> A sneak peek at an untitled, in-progress novel for adults, that is something of a prequel to Down and Out in the Magic Kingdom, in the vein of Makers. You'll be the first people apart from Cory himself to come into contact with this material! </blurb></event>
+<time>1 PM</time>
+<event><title>Webseries and Fan Films: Future of Filmmaking?</title>
+<topic>Film</topic>
+<room>Hamlin</room>
+<blurb><participant>Keith Martens, Mary Lynne Gibbs, James Fernandez</participant> Come join us for a discussion on making webseries and fan films. </blurb></event>
 <time>1 PM</time>
 <event><title>Introduction to Leadership</title>
 <topic>Life</topic>
@@ -1514,7 +1514,7 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <event><title>Do Angry Fans Ruin It?</title>
 <topic>Life, Lit, Gaming</topic>
 <room>Board of Governors</room>
-<blurb><participant>StarF, Val Hundreds, Moses Jackson, James Fernandez, BluRaven C. Houvener</participant> Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault? </blurb></event>
+<blurb><participant>StarF, Val Hundreds, Moses Jackson, BluRaven C. Houvener</participant> Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault? </blurb></event>
 <time>11 AM</time>
 <event><title>Make an Origami Penguin!</title>
 <topic>DIY</topic>

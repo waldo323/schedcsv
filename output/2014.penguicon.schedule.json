@@ -326,22 +326,6 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "Come join us for a discussion on making webseries and fan films.",
-        "end_date": "5/2/2014",
-        "title": "Webseries and Fan Films: Future of Filmmaking?",
-        "track": "Film",
-        "start_time": "17:00",
-        "presenters": [
-            "Keith Martens",
-            "Mary Lynne Gibbs",
-            "James Fernandez"
-        ],
-        "location": "Charlevoix C",
-        "minutes": -1390,
-        "start_date": "5/3/2014",
-        "end_time": "17:50"
-    },
-    {
         "book_description": "Learn techniques for making a few delicious breads, and taste some of them, too!",
         "end_date": "5/2/2014",
         "title": "Working with Yeast",
@@ -2090,6 +2074,22 @@
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "12:50"
+    },
+    {
+        "book_description": "Come join us for a discussion on making webseries and fan films.",
+        "end_date": "5/3/2014",
+        "title": "Webseries and Fan Films: Future of Filmmaking?",
+        "track": "Film",
+        "start_time": "13:00",
+        "presenters": [
+            "Keith Martens",
+            "Mary Lynne Gibbs",
+            "James Fernandez"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "13:50"
     },
     {
         "book_description": "What makes a good leader? What makes a person willingly work or follow another person, and what are the qualities that make us successful as leaders and managers? If you've ever wanted to know how to be a more effective manager, how you can attract people who want to work for you, or just how to be more effective at managing your group, this is an introduction to what makes those people special, and rise above the rest.",
@@ -4485,7 +4485,6 @@
             "StarF",
             "Val Hundreds",
             "Moses Jackson",
-            "James Fernandez",
             "BluRaven C. Houvener"
         ],
         "location": "Board of Governors",
