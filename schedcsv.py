@@ -344,12 +344,12 @@ for index, x in enumerate(pconsched.schedule):
 sessions.sort(key=itemgetter('index'))
 
 # old n busted sort 
-sessions.sort(key=itemgetter('venue'))
+##sessions.sort(key=itemgetter('venue'))
 #sessions.sort(key=itemgetter('startday','starttime','venue'))
-sessions.sort(key=itemgetter('starttime'))
-sessions.sort(key=itemgetter('startday'))
-
-sessions.sort(key=itemgetter('allday'), reverse=True)
+##sessions.sort(key=itemgetter('starttime'))
+##sessions.sort(key=itemgetter('startday'))
+##sessions.sort(key=itemgetter('allday'), reverse=True)
+sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1') + thing['venue'] + thing['startday'] + thing['starttime']) ## thanks Walter!
 speakers.sort()
 tempstart = "test"
 
