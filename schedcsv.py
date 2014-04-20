@@ -169,7 +169,7 @@ for index, x in enumerate(pconsched.schedule):
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
                 #print fieldtext
-                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
+                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]   
                 session['starttimeampm'] = ampmformat(session['starttime']) 
             else:   
                 session['starttime'] = "event_start"
@@ -221,7 +221,7 @@ for index, x in enumerate(pconsched.schedule):
                 temptrack = re.sub(r'\(','', temptrack)
                 temptrack = re.sub(r'\)','', temptrack)
                 temptrack = re.sub(r'/','', temptrack)
-                print temptrack
+                #print temptrack
                 session['tracknosp'].append(temptrack)
                 if eventtype not in tracks:
                   tracks.append(eventtype)
