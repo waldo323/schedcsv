@@ -2753,34 +2753,6 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
-        "end_date": "5/3/2014",
-        "title": "Armour Academy: Chainmail!",
-        "track": "Costuming",
-        "start_time": "16:00",
-        "presenters": [
-            "Alexander Kostrzewa"
-        ],
-        "location": "Board of Regents",
-        "minutes": 110,
-        "start_date": "5/3/2014",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
-        "end_date": "5/3/2014",
-        "title": "Performance: Tom Smith",
-        "track": "Music",
-        "start_time": "16:00",
-        "presenters": [
-            "Tom Smith"
-        ],
-        "location": "Charlevoix A",
-        "minutes": -130,
-        "start_date": "5/3/2014",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "A one-woman music act, lyrically driven from her personal dreamscape. Often incorporating themes of mythology into her lyrics, Scientific Sushine's ukulele and acoustic guitar powered songs are sure to have you singing and dancing along.",
         "end_date": "5/3/2014",
         "title": "Performance: Scientific Sunshine",
@@ -3564,18 +3536,18 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari \u2013 a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own! Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!",
+        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
         "end_date": "5/3/2014",
-        "title": "Armour Academy: Samurai Edition!",
-        "track": "Costuming, DIY",
-        "start_time": "20:00",
+        "title": "Performance: Tom Smith",
+        "track": "Music",
+        "start_time": "16:00",
         "presenters": [
-            "Alexander Kostrzewa"
+            "Tom Smith"
         ],
-        "location": "Board of Regents",
-        "minutes": 50,
+        "location": "Charlevoix A",
+        "minutes": -130,
         "start_date": "5/3/2014",
-        "end_time": "20:50"
+        "end_time": "13:50"
     },
     {
         "book_description": "Direct conflict is only one manner of affecting the world. This discussion focuses on the multitude of tactics for the creating social improvement.",

@@ -8391,96 +8391,6 @@ roomnosp,BoardofGovernors
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Costuming
-All Day Event,FALSE
-event_end,17:50
-event_type_list,['Costuming']
-private,PUBLIC
-endtimeampm,5 PM
-Location,Board of Regents
-duration,1 hour and 50 minutes
-description,"Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!"
-index,186
-speakers,Alexander Kostrzewa
-bookdescrip,"Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!"
-Track,Costuming
-startday,5/3/2014
-Title,Armour Academy: Chainmail!
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,17:50
-tracknosp,['Costuming']
-endday,5/3/2014
-input,"['5/3/2014', '16:00', '5/3/2014', '17:50', 'Board of Regents', 'Costuming', 'Armour Academy: Chainmail!', 'Alexander Kostrzewa', ""Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!"", 'FALSE', 'PUBLIC', '']"
-End Date,5/3/2014
-calspeakers,Alexander Kostrzewa
-avneeds,none
-speakerlist,['Alexander Kostrzewa']
-hours,1
-totalminutes,110
-speakernosplist,['AlexanderKostrzewa']
-caldescrip,"Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!"
-endtime,17:50
-AV Needs,
-name,Armour Academy: Chainmail!
-Private,PUBLIC
-bookname,Armour Academy: Chainmail!
-venue,Board of Regents
-Book Description,"Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!"
-Presenters,Alexander Kostrzewa
-csvsafedescrip,Want to learn how to make chainmail? Well- good news! It's not that hard! Well- kind of hard- but not too bad. In this panel- we will teach the traditional European four-in-one weave- used for armor from the Roman Empire through middle ages- and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel- but all are welcome to observe!
-speakernosp,AlexanderKostrzewa
-starttime,16:00
-roomnosp,BoardofRegents
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
-event_type,Music
-All Day Event,FALSE
-event_end,13:50
-event_type_list,['Music']
-private,PUBLIC
-endtimeampm,1 PM
-Location,Charlevoix A
-duration,50 minutes
-description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-index,187
-speakers,Tom Smith
-bookdescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-Track,Music
-startday,5/3/2014
-Title,Performance: Tom Smith
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,13:50
-tracknosp,['Music']
-endday,5/3/2014
-input,"['5/3/2014', '16:00', '5/3/2014', '13:50', 'Charlevoix A', 'Music', 'Performance: Tom Smith', 'Tom Smith', ""There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "", 'FALSE', 'PUBLIC', 'Sound System']"
-End Date,5/3/2014
-calspeakers,Tom Smith
-avneeds,Sound System
-speakerlist,['Tom Smith']
-hours,-3
-totalminutes,-130
-speakernosplist,['TomSmith']
-caldescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-endtime,13:50
-AV Needs,Sound System
-name,Performance: Tom Smith
-Private,PUBLIC
-bookname,Performance: Tom Smith
-venue,Charlevoix A
-Book Description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. "
-Presenters,Tom Smith
-csvsafedescrip,There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim- the vocal fireworks of Meat Loaf- the comedic  timing of Robin Williams- and the dynamic physique of the Skipper from  Gilligan's Island- the only thing he won't do is be boring. 
-speakernosp,TomSmith
-starttime,16:00
-roomnosp,CharlevoixA
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
 event_type,Music
 All Day Event,FALSE
 event_end,16:50
@@ -8490,7 +8400,7 @@ endtimeampm,4 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"A one-woman music act, lyrically driven from her personal dreamscape.  Often incorporating themes of mythology into her lyrics, Scientific Sushine's ukulele and acoustic guitar powered songs are sure to have you singing and dancing along."
-index,188
+index,186
 speakers,Jordan Alexandria
 bookdescrip,"A one-woman music act, lyrically driven from her personal dreamscape.  Often incorporating themes of mythology into her lyrics, Scientific Sushine's ukulele and acoustic guitar powered songs are sure to have you singing and dancing along."
 Track,Music
@@ -8535,7 +8445,7 @@ endtimeampm,4 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Nerdcore hip-hop is often taken as a parody genre.  With ""nerdy"" references sneaking into more and more mainstream music, is ""nerd rap"" a stale term?  Join some of the top artists as they debate the validity of their own genre."
-index,189
+index,187
 speakers,"YTCracker, Steffo, StarF, King Pheenix, 2 Mello, Devo Spice"
 bookdescrip,"Nerdcore hip-hop is often taken as a parody genre.  With ""nerdy"" references sneaking into more and more mainstream music, is ""nerd rap"" a stale term?  Join some of the top artists as they debate the validity of their own genre."
 Track,Music
@@ -8580,7 +8490,7 @@ endtimeampm,5 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Illuminati is the Game Of Conspiracy. Secret conspiracies are everywhere, and now you can take control of one of them and try to . . . yes . . . take over the world! This game has been one of our most popular since its 1982 release. It won the Game Designers' Guild Select Award and the Origins Award for Best Science Fiction Board Game, which is a good trick since it's more of a card game, but the Illuminati work in mysterious ways."
-index,190
+index,188
 speakers,
 bookdescrip,"Illuminati is the Game Of Conspiracy. Secret conspiracies are everywhere, and now you can take control of one of them and try to . . . yes . . . take over the world! This game has been one of our most popular since its 1982 release. It won the Game Designers' Guild Select Award and the Origins Award for Best Science Fiction Board Game, which is a good trick since it's more of a card game, but the Illuminati work in mysterious ways."
 Track,Gaming
@@ -8625,7 +8535,7 @@ endtimeampm,5 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"It's moving day! You have lots of boxes to load, and a truck to load them into... but how are they going to fit? Maybe on their ends? Stacked on top of each other? You'll have to pack your unique truck as tightly as possible, and you lose points for packing too few pieces on your truck, or for leaving pieces you can't fit behind. Can you pack'em, stack'em and rack'em with the best?"
-index,191
+index,189
 speakers,
 bookdescrip,"It's moving day! You have lots of boxes to load, and a truck to load them into... but how are they going to fit? Maybe on their ends? Stacked on top of each other? You'll have to pack your unique truck as tightly as possible, and you lose points for packing too few pieces on your truck, or for leaving pieces you can't fit behind. Can you pack'em, stack'em and rack'em with the best?"
 Track,Gaming
@@ -8670,7 +8580,7 @@ endtimeampm,6 PM
 Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"Come join us for the ultimate dungeon crawl through the ""Ruins of Undermountain."" Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&D 3.5 rules will be used. We have the dice, you have the vice!"
-index,192
+index,190
 speakers,"Jake Newman, Fred Lthrop"
 bookdescrip,"Come join us for the ultimate dungeon crawl through the ""Ruins of Undermountain."" Do you dare enter the playhouse of the mad wizard Hallaster? He's having a tea party and you're invited...as the entertainment. Who knows what horrors lay waiting around the next corner! This is a massive magical dungeon where players can come and go at Hallaster's whim. Come join us for as long or as short as you like.  All characters are premade (level 6+) and ready to play. D&amp;D 3.5 rules will be used. We have the dice, you have the vice!"
 Track,Gaming
@@ -8715,7 +8625,7 @@ endtimeampm,4 PM
 Location,Montcalm
 duration,50 minutes
 description,"Let Mark, a security professional, teach you how you can use two-factor authentication to improve your security and prevent the bad guys from stealing your online accounts."
-index,193
+index,191
 speakers,Mark Stanislav
 bookdescrip,"Let Mark, a security professional, teach you how you can use two-factor authentication to improve your security and prevent the bad guys from stealing your online accounts."
 Track,Tech
@@ -8760,7 +8670,7 @@ endtimeampm,4 PM
 Location,Nicolet
 duration,50 minutes
 description,Jorge will show how you an use the open source SteamOS software to build your own Steambox console for playing games on Valve's Steam.
-index,194
+index,192
 speakers,Jorge Castro
 bookdescrip,Jorge will show how you an use the open source SteamOS software to build your own Steambox console for playing games on Valve's Steam.
 Track,Tech
@@ -8805,7 +8715,7 @@ endtimeampm,5 PM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"The science fiction and horror form of movie goes all the way back to the initial days of cinema. Many people know about the big names like Nosferatu and Metropolis, but there are many more movies of significant interest and profound cultural importance to the geek community. This session will explore the common and easily (re)discovered movies from the silent era. Some excerpts (or a whole movie or two) will be shown. "
-index,195
+index,193
 speakers,Keith Moore
 bookdescrip,"The science fiction and horror form of movie goes all the way back to the initial days of cinema. Many people know about the big names like Nosferatu and Metropolis, but there are many more movies of significant interest and profound cultural importance to the geek community. This session will explore the common and easily (re)discovered movies from the silent era. Some excerpts (or a whole movie or two) will be shown. "
 Track,Film
@@ -8850,7 +8760,7 @@ endtimeampm,4 PM
 Location,Windover
 duration,50 minutes
 description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
-index,196
+index,194
 speakers,Randy Bradakis
 bookdescrip,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
 Track,Life
@@ -8895,7 +8805,7 @@ endtimeampm,5 PM
 Location,Algonquin A
 duration,50 minutes
 description,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
-index,197
+index,195
 speakers,"Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 bookdescrip,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
@@ -8940,7 +8850,7 @@ endtimeampm,5 PM
 Location,Algonquin D
 duration,50 minutes
 description,Got any questions for an (in)famous hacker and Internet famous rapper?  We're doing informal hangout session with our GoH YTCracker!  Join in!
-index,198
+index,196
 speakers,YTCracker
 bookdescrip,Got any questions for an (in)famous hacker and Internet famous rapper?  We're doing informal hangout session with our GoH YTCracker!  Join in!
 Track,Music
@@ -8985,7 +8895,7 @@ endtimeampm,5 PM
 Location,Hamlin
 duration,50 minutes
 description,"Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?"
-index,199
+index,197
 speakers,"Ken MacGreggor, Sean M. Davis, Ferrett Steinmetz, Nicole Castle"
 bookdescrip,"Incest, rape, children as warriors, the wholesale slaughter of children... there are many distasteful acts which are performed in speculative fiction.  Is there anything which is still off limits, or can anything be used as a plot device so long as it is germane to the story?"
 Track,Lit
@@ -9030,7 +8940,7 @@ endtimeampm,5 PM
 Location,Board of Governors
 duration,50 minutes
 description,What are the best tips of making a world that is unique and sensational?
-index,200
+index,198
 speakers,Kevin Siembieda
 bookdescrip,What are the best tips of making a world that is unique and sensational?
 Track,Gaming
@@ -9075,7 +8985,7 @@ endtimeampm,5 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Please join us to create a scifi story during this birds of a feather event. We will start with a few words, sentences or short description, then move around the room. Each person will have a chance to add a bit more to the story. Anyone can choose to skip a turn.  Add a character, kill one off.  Create a new world or new love.  Anything is possible. Non-creative and shy people will be encouraged to participate in a supportive environment."
-index,201
+index,199
 speakers,
 bookdescrip,"Please join us to create a scifi story during this birds of a feather event. We will start with a few words, sentences or short description, then move around the room. Each person will have a chance to add a bit more to the story. Anyone can choose to skip a turn.  Add a character, kill one off.  Create a new world or new love.  Anything is possible. Non-creative and shy people will be encouraged to participate in a supportive environment."
 Track,Lit
@@ -9120,7 +9030,7 @@ endtimeampm,5 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"How does one play casino games?  What games give you the best odds against the house? A trained Casino Surveillance expert talks to authors, game designers and more about gambling and casino cheating - come with your world-building questions!"
-index,202
+index,200
 speakers,"Tom ""Shark"" Jones"
 bookdescrip,"How does one play casino games?  What games give you the best odds against the house? A trained Casino Surveillance expert talks to authors, game designers and more about gambling and casino cheating - come with your world-building questions!"
 Track,"Life, After Dark"
@@ -9165,7 +9075,7 @@ endtimeampm,5 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Science literature and science journalism are full of buzzwords like genomics, proteomics, transcriptomics, metabolomics, and interactomics. But just what exactly is an -omics area, and what do all these words actually mean? Come find out how these systems-wide views of biology are making advancements in our understanding of the complexities of life itself, and what kinds of technology area making it possible. In this first of two sessions, we will explore the genome and its importance in modern science, and finish with a Q&A."
-index,203
+index,201
 speakers,Amara Sugalski
 bookdescrip,"Science literature and science journalism are full of buzzwords like genomics, proteomics, transcriptomics, metabolomics, and interactomics. But just what exactly is an -omics area, and what do all these words actually mean? Come find out how these systems-wide views of biology are making advancements in our understanding of the complexities of life itself, and what kinds of technology area making it possible. In this first of two sessions, we will explore the genome and its importance in modern science, and finish with a Q&amp;A."
 Track,Science
@@ -9210,7 +9120,7 @@ endtimeampm,5 PM
 Location,Con Suite
 duration,50 minutes
 description,Come enjoy LN2 ice cream made for you by our own new group of volunteers!
-index,204
+index,202
 speakers,
 bookdescrip,Come enjoy LN2 ice cream made for you by our own new group of volunteers!
 Track,Food
@@ -9255,7 +9165,7 @@ endtimeampm,5 PM
 Location,Montcalm
 duration,50 minutes
 description,"As the costs of fossil fuels continue to rise, so too will the price of food. And yet there is free, nutrient-dense food to be found growing all around us. From inconspicuous “weeds” to thorny shrubs, wild food is free, flavorful, and often abundant. This talk will teach attendees the essentials of foraging in Michigan, including best practices, and how to safely identify and harvest three common plants."
-index,205
+index,203
 speakers,Paul Angelini
 bookdescrip,"As the costs of fossil fuels continue to rise, so too will the price of food. And yet there is free, nutrient-dense food to be found growing all around us. From inconspicuous “weeds” to thorny shrubs, wild food is free, flavorful, and often abundant. This talk will teach attendees the essentials of foraging in Michigan, including best practices, and how to safely identify and harvest three common plants."
 Track,"Eco, Food"
@@ -9300,7 +9210,7 @@ endtimeampm,7 PM
 Location,Nicolet
 duration,2 hours and 50 minutes
 description,"Everyday encryption for the general public. Learn to protect your hard drive's data, browse the web anonymously, encrypt your email, and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session."
-index,206
+index,204
 speakers,"Susan Sons, Chris Nehren, Jeremy Banks, Eric S. Raymond, Paul Berens, Adam Nuwer, Andrew Kelley, John D. Bell"
 bookdescrip,"Everyday encryption for the general public. Learn to protect your hard drive's data, browse the web anonymously, encrypt your email, and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session."
 Track,Tech
@@ -9345,7 +9255,7 @@ endtimeampm,5 PM
 Location,Windover
 duration,50 minutes
 description,A small panel followed by open Q&A/Suggestions.
-index,207
+index,205
 speakers,"Ernie Cline, Mary Lynne Gibbs, Cory Doctorow, John Scalzi   "
 bookdescrip,A small panel followed by open Q&amp;A/Suggestions.
 Track,Lit
@@ -9390,7 +9300,7 @@ endtimeampm,6 PM
 Location,Algonquin A
 duration,50 minutes
 description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
-index,208
+index,206
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
 bookdescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
@@ -9435,7 +9345,7 @@ endtimeampm,6 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
-index,209
+index,207
 speakers,"Eva Galperin, Cory Doctorow, Nick Farr"
 bookdescrip,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
 Track,Tech
@@ -9480,7 +9390,7 @@ endtimeampm,6 PM
 Location,Hamlin
 duration,50 minutes
 description,"Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
-index,210
+index,208
 speakers,"LadyAna, Professor X   "
 bookdescrip,"Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
 Track,Film
@@ -9525,7 +9435,7 @@ endtimeampm,6 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
-index,211
+index,209
 speakers,"Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor"
 bookdescrip,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
 Track,Lit
@@ -9570,7 +9480,7 @@ endtimeampm,6 PM
 Location,Board of Regents
 duration,50 minutes
 description,Come to this workshop to make your own simple drop spindle and learn the basic of spinning!  All materials will be provided. Sign up at Ops. 
-index,212
+index,210
 speakers,Holly Richardson
 bookdescrip,Come to this workshop to make your own simple drop spindle and learn the basic of spinning!  All materials will be provided. Sign up at Ops. 
 Track,DIY
@@ -9615,7 +9525,7 @@ endtimeampm,7 PM
 Location,Board of Trustees
 duration,1 hour and 50 minutes
 description,There has been a murder!  Who did it?  Use your Sherlockian wits and deductive reasoning to solve a murder mystery in a social hors d'oeuvres laden Tea and scones environment.  Dressing up is encouraged.  Find this killer before he kills YOU!
-index,213
+index,211
 speakers,Selina Firecat
 bookdescrip,There has been a murder!  Who did it?  Use your Sherlockian wits and deductive reasoning to solve a murder mystery in a social hors d'oeuvres laden Tea and scones environment.  Dressing up is encouraged.  Find this killer before he kills YOU!
 Track,Gaming
@@ -9660,7 +9570,7 @@ endtimeampm,6 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
-index,214
+index,212
 speakers,Jim Poltrone
 bookdescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 Track,Music
@@ -9705,7 +9615,7 @@ endtimeampm,6 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Secure Shell (SSH) servers are popular targets for password-guessing attacks. The only way to eliminate these attacks is to use key-based authentication. If you're still using password-based authentication because key-based authentication seems hard, come to this talk. Bring your laptop. You'll create your own authentication key, deploy it to your server, and make key-based authentication painless. When you go back to work after Penguicon, you'll wonder how you ever survived using passwords."
-index,215
+index,213
 speakers,Michael W. Lucas
 bookdescrip,"Secure Shell (SSH) servers are popular targets for password-guessing attacks. The only way to eliminate these attacks is to use key-based authentication. If you're still using password-based authentication because key-based authentication seems hard, come to this talk. Bring your laptop. You'll create your own authentication key, deploy it to your server, and make key-based authentication painless. When you go back to work after Penguicon, you'll wonder how you ever survived using passwords."
 Track,Tech
@@ -9750,7 +9660,7 @@ endtimeampm,8 PM
 Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome!"
-index,216
+index,214
 speakers,Matt Arnold
 bookdescrip,"In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome!"
 Track,Gaming
@@ -9795,7 +9705,7 @@ endtimeampm,6 PM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,217
+index,215
 speakers,"Ed Mason, 
 Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
@@ -9842,7 +9752,7 @@ endtimeampm,6 PM
 Location,Montcalm
 duration,50 minutes
 description,Massively Multiplayer Online games (MMOs) have been around for decades. Did you know they were teaching you things you could use in real-life?  We will examine the parallels and differences that many don't realize are there until they step back and look at them. Trying to get into a top guild? Better be ready to write a good application and have references and an interview. Sounds a lot like getting a job to me...
-index,218
+index,216
 speakers,Craig Hibbard
 bookdescrip,Massively Multiplayer Online games (MMOs) have been around for decades. Did you know they were teaching you things you could use in real-life?  We will examine the parallels and differences that many don't realize are there until they step back and look at them. Trying to get into a top guild? Better be ready to write a good application and have references and an interview. Sounds a lot like getting a job to me...
 Track,Videogaming
@@ -9887,7 +9797,7 @@ endtimeampm,7 PM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
-index,219
+index,217
 speakers,"Greg Williams, Dawn Kuczwara"
 bookdescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
 Track,Film
@@ -9932,7 +9842,7 @@ endtimeampm,6 PM
 Location,Windover
 duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-index,220
+index,218
 speakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
 bookdescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Track,"Tech, Life"
@@ -9977,7 +9887,7 @@ endtimeampm,7 PM
 Location,Algonquin A
 duration,50 minutes
 description,"A class on balance, grounding, and silent walking."
-index,221
+index,219
 speakers,Sal Sanfratello
 bookdescrip,"A class on balance, grounding, and silent walking."
 Track,Action Adventure
@@ -10022,7 +9932,7 @@ endtimeampm,7 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Bro-Bot is a nerdcore hip-hop supergroup based out of Flint, MI.  With five diverse pilots and a fully-armed and operational fifty-foot kaiju-killing mechanized funk-machine, nothing in the galaxy is off-limits."
-index,222
+index,220
 speakers,Bro-Bot
 bookdescrip,"Bro-Bot is a nerdcore hip-hop supergroup based out of Flint, MI.  With five diverse pilots and a fully-armed and operational fifty-foot kaiju-killing mechanized funk-machine, nothing in the galaxy is off-limits."
 Track,Music
@@ -10067,7 +9977,7 @@ endtimeampm,7 PM
 Location,Algonquin D
 duration,50 minutes
 description,"3D Printing is a big thing with the maker movement, and Tom shows how you can do this with free software. Tom is a Red Hat employee and member of the Fedora project."
-index,223
+index,221
 speakers,Tom Callaway
 bookdescrip,"3D Printing is a big thing with the maker movement, and Tom shows how you can do this with free software. Tom is a Red Hat employee and member of the Fedora project."
 Track,Tech
@@ -10112,7 +10022,7 @@ endtimeampm,7 PM
 Location,Hamlin
 duration,50 minutes
 description,"Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing.  We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living."
-index,224
+index,222
 speakers,"
 Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren"
 bookdescrip,"Editing is an important part of creating a book, even if it isn't as sexy as, you know, actually writing.  We'll be discussing editing, query letters, and all of the business crap that comes along with doing this for a living."
@@ -10159,7 +10069,7 @@ endtimeampm,7 PM
 Location,Bar
 duration,50 minutes
 description,"Meet other women working or hoping to work in technology, swap stories of what it's like working in a male-dominated field, and share strategies for success."
-index,225
+index,223
 speakers,"Julie Hargraves, Erika Carlson"
 bookdescrip,"Meet other women working or hoping to work in technology, swap stories of what it's like working in a male-dominated field, and share strategies for success."
 Track,Tech
@@ -10204,7 +10114,7 @@ endtimeampm,7 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs."
-index,226
+index,224
 speakers,"Ferrett Steinmetz, Nicole Castle"
 bookdescrip,"Zombies, mutant viruses, alien invaders, kaiju, or the environment, the end of the world is a mainstay of science fiction.  What type of apocalypse do we enjoy exploring?  Come here for all of your dystopian needs."
 Track,Lit
@@ -10249,7 +10159,7 @@ endtimeampm,7 PM
 Location,Board of Regents
 duration,50 minutes
 description,"A professional face and body painter shows you how several beautiful designs can radiate from the eye with different combinations of a few simple strokes. Materials and guidance will be available for hands-on practice, so bring a face or two."
-index,227
+index,225
 speakers,Sarah Metzler
 bookdescrip,"A professional face and body painter shows you how several beautiful designs can radiate from the eye with different combinations of a few simple strokes. Materials and guidance will be available for hands-on practice, so bring a face or two."
 Track,"Costuming, DIY"
@@ -10294,7 +10204,7 @@ endtimeampm,7 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!"
-index,228
+index,226
 speakers,Dana McNabb
 bookdescrip,"If you are interested in, or already involved in polyamory, and want to meet new available people at the con, join us for a round of poly speed dating!"
 Track,Life
@@ -10339,7 +10249,7 @@ endtimeampm,7 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"The science is pretty unanimous:  Naps help improve concentration, energy, mood, and may be linked to other health and lifestyle benefits too.  But how, in the real world, can you really get the naps you want?  Long-term polyphasic sleeper and author Marie Staver (aka PureDoxyk) will give tips and answer questions about napping in public, negotiating naptime at work, prioritizing naps, and teaching yourself to fall asleep quickly and wake rested. "
-index,229
+index,227
 speakers,"Marie Staver, Ed Platt, Neil Funk"
 bookdescrip,"The science is pretty unanimous:  Naps help improve concentration, energy, mood, and may be linked to other health and lifestyle benefits too.  But how, in the real world, can you really get the naps you want?  Long-term polyphasic sleeper and author Marie Staver (aka PureDoxyk) will give tips and answer questions about napping in public, negotiating naptime at work, prioritizing naps, and teaching yourself to fall asleep quickly and wake rested. "
 Track,Life
@@ -10384,7 +10294,7 @@ endtimeampm,7 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Science literature and science journalism are full of buzzwords like genomics, proteomics, transcriptomics, metabolomics, and interactomics. But just what exactly is an -omics area, and what do all these words actually mean? Come find out how these systems-wide views of biology are making advancements in our understanding of the complexities of life itself, and what kinds of technology area making it possible. In this second of two sessions, we will explore the the transcriptome, epigenome, and more, ending with a Q&A."
-index,230
+index,228
 speakers,Amara Sugalski
 bookdescrip,"Science literature and science journalism are full of buzzwords like genomics, proteomics, transcriptomics, metabolomics, and interactomics. But just what exactly is an -omics area, and what do all these words actually mean? Come find out how these systems-wide views of biology are making advancements in our understanding of the complexities of life itself, and what kinds of technology area making it possible. In this second of two sessions, we will explore the the transcriptome, epigenome, and more, ending with a Q&amp;A."
 Track,Science
@@ -10429,7 +10339,7 @@ endtimeampm,7 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,"Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with ""pfffft!"" and come anyway. 21 and over, please."
-index,231
+index,229
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 bookdescrip,"Explore the dark secrets of making the BEST jello shots of all time. We'll share some with you to prove it!. Already know all there is about jello shots? Let's go with ""pfffft!"" and come anyway. 21 and over, please."
 Track,"Food, After Dark"
@@ -10474,7 +10384,7 @@ endtimeampm,7 PM
 Location,Montcalm
 duration,50 minutes
 description,"The presenter will highlight some of the work that EOS International (http://eosinternational.org/) is doing in Nicaragua and how you could use the technology here.  Started by young engineering grads, EOS International is a great example of what keeping engineering local and appropriate means."
-index,232
+index,230
 speakers,Kristy Currier
 bookdescrip,"The presenter will highlight some of the work that EOS International (http://eosinternational.org/) is doing in Nicaragua and how you could use the technology here.  Started by young engineering grads, EOS International is a great example of what keeping engineering local and appropriate means."
 Track,Eco
@@ -10519,7 +10429,7 @@ endtimeampm,7 PM
 Location,Windover
 duration,50 minutes
 description,What's a cryptocurrency and why do we need it? What is Bitcoin mining? Why is Bitcoin so volatile? What is this scary new money and why is it important in our ever-changing world?
-index,233
+index,231
 speakers,"YTCracker, Nick Farr"
 bookdescrip,What's a cryptocurrency and why do we need it? What is Bitcoin mining? Why is Bitcoin so volatile? What is this scary new money and why is it important in our ever-changing world?
 Track,Tech
@@ -10564,7 +10474,7 @@ endtimeampm,9 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
 description,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing.  Learn the rules, find out where you can play in Michigan, and try out the weapons for yourself."
-index,234
+index,232
 speakers,Kalika Johnson
 bookdescrip,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing.  Learn the rules, find out where you can play in Michigan, and try out the weapons for yourself."
 Track,Action Adventure
@@ -10609,7 +10519,7 @@ endtimeampm,8 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"King Pheenix (Scott Shepley) has been a recording artist since 2003.  After releasing his Third album, Event Horizon:No Turning back. and with many projects in the cache for 2014… many people are asking – is the Pheenix ready to re-gen? Check out his hip hop with a nerdy twinge. "
-index,235
+index,233
 speakers,King Pheenix
 bookdescrip,"King Pheenix (Scott Shepley) has been a recording artist since 2003.  After releasing his Third album, Event Horizon:No Turning back. and with many projects in the cache for 2014… many people are asking – is the Pheenix ready to re-gen? Check out his hip hop with a nerdy twinge. "
 Track,Music
@@ -10654,7 +10564,7 @@ endtimeampm,8 PM
 Location,Algonquin D
 duration,50 minutes
 description,"ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do, and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made, from light displays and using the Pi as an FM radio to a Star Wars project so good, it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS, Pi-powered Pipboy, and aliens, so come ready to geek out, both Pi and otherwise."
-index,236
+index,234
 speakers,"Ruth Suehle, Tom Callaway"
 bookdescrip,"ife with the Raspberry Pi. Learn how to choose the best distro for the job you intend to do, and advance to building a custom kernel. You'll learn how to add a power switch and check your power problems. See what we and others have made, from light displays and using the Pi as an FM radio to a Star Wars project so good, it scored the creator an upgrade from girlfriend to wife. You'll see Lego TARDIS, Pi-powered Pipboy, and aliens, so come ready to geek out, both Pi and otherwise."
 Track,Tech
@@ -10699,7 +10609,7 @@ endtimeampm,8 PM
 Location,Hamlin
 duration,50 minutes
 description,Join us and read from your book or a favorite book!  Please sign up at Ops.
-index,237
+index,235
 speakers,
 bookdescrip,Join us and read from your book or a favorite book!  Please sign up at Ops.
 Track,Lit
@@ -10744,7 +10654,7 @@ endtimeampm,9 PM
 Location,Bar
 duration,1 hour and 50 minutes
 description,Come celebrate the release of version 14.04 of this highly popular Linux distribution - meet us in the bar!
-index,238
+index,236
 speakers,Craig Maloney
 bookdescrip,Come celebrate the release of version 14.04 of this highly popular Linux distribution - meet us in the bar!
 Track,Tech
@@ -10789,7 +10699,7 @@ endtimeampm,8 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Explore the pros and  cons of self-publishing in the digital age.  Is there still a stigma associated with being self-published? The panel will discuss the many different sites that offer self-publishing, e-books, marketing your books, and being in control of your book."
-index,239
+index,237
 speakers,"Tracy Herrell, Michael W. Lucas, Rob Kroese"
 bookdescrip,"Explore the pros and  cons of self-publishing in the digital age.  Is there still a stigma associated with being self-published? The panel will discuss the many different sites that offer self-publishing, e-books, marketing your books, and being in control of your book."
 Track,Lit
@@ -10825,50 +10735,48 @@ roomnosp,BoardofGovernors
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,"Costuming, DIY"
+event_type,Music
 All Day Event,FALSE
-event_end,20:50
-event_type_list,"['Costuming', 'DIY']"
+event_end,13:50
+event_type_list,['Music']
 private,PUBLIC
-endtimeampm,8 PM
-Location,Board of Regents
+endtimeampm,1 PM
+Location,Charlevoix A
 duration,50 minutes
-description,"Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari – a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own!
-Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"
-index,240
-speakers,Alexander Kostrzewa
-bookdescrip,"Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari – a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own! Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"
-Track,"Costuming, DIY"
+description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+index,238
+speakers,Tom Smith
+bookdescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+Track,Music
 startday,5/3/2014
-Title,Armour Academy: Samurai Edition!
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
-End Time,20:50
-tracknosp,"['Costuming', 'DIY']"
+Title,Performance: Tom Smith
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,13:50
+tracknosp,['Music']
 endday,5/3/2014
-input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Board of Regents', 'Costuming, DIY', 'Armour Academy: Samurai Edition!', 'Alexander Kostrzewa', ""Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari \xe2\x80\x93 a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own!\nKits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '16:00', '5/3/2014', '13:50', 'Charlevoix A', 'Music', 'Performance: Tom Smith', 'Tom Smith', ""There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "", 'FALSE', 'PUBLIC', 'Sound System']"
 End Date,5/3/2014
-calspeakers,Alexander Kostrzewa
-avneeds,none
-speakerlist,['Alexander Kostrzewa']
-hours,0
-totalminutes,50
-speakernosplist,['AlexanderKostrzewa']
-caldescrip,"Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari – a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own!
-Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"
-endtime,20:50
-AV Needs,
-name,Armour Academy: Samurai Edition!
+calspeakers,Tom Smith
+avneeds,Sound System
+speakerlist,['Tom Smith']
+hours,-3
+totalminutes,-130
+speakernosplist,['TomSmith']
+caldescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+endtime,13:50
+AV Needs,Sound System
+name,Performance: Tom Smith
 Private,PUBLIC
-bookname,Armour Academy: Samurai Edition!
-venue,Board of Regents
-Book Description,"Want to make your own samurai armor? Well, let's get started! In this panel, we'll look at the construction of Japanese Kusari – a mesh armor similar to but distinct from European chainmail. During the course of the panel, we'll teach you the basic So Kusari and Hana Kusari patterns, and send you home with a small piece of your very own! Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel, but all are welcome to observe!"
-Presenters,Alexander Kostrzewa
-csvsafedescrip,Want to make your own samurai armor? Well- let's get started! In this panel- we'll look at the construction of Japanese Kusari – a mesh armor similar to but distinct from European chainmail. During the course of the panel- we'll teach you the basic So Kusari and Hana Kusari patterns- and send you home with a small piece of your very own! Kits can be purchased at Thundersteel Armoury in the artists alley to participate in this panel- but all are welcome to observe!
-speakernosp,AlexanderKostrzewa
-starttime,20:00
-roomnosp,BoardofRegents
+bookname,Performance: Tom Smith
+venue,Charlevoix A
+Book Description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. "
+Presenters,Tom Smith
+csvsafedescrip,There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim- the vocal fireworks of Meat Loaf- the comedic  timing of Robin Williams- and the dynamic physique of the Skipper from  Gilligan's Island- the only thing he won't do is be boring. 
+speakernosp,TomSmith
+starttime,16:00
+roomnosp,CharlevoixA
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
@@ -10881,7 +10789,7 @@ endtimeampm,8 PM
 Location,Charlevoix B
 duration,50 minutes
 description,Direct conflict is only one manner of affecting the world.  This discussion focuses on the multitude of tactics for the creating social improvement.
-index,241
+index,239
 speakers,Sal Sanfratello
 bookdescrip,Direct conflict is only one manner of affecting the world.  This discussion focuses on the multitude of tactics for the creating social improvement.
 Track,Action Adventure
@@ -10926,7 +10834,7 @@ endtimeampm,8 PM
 Location,Charlevoix C
 duration,50 minutes
 description,See examples of interactive data visualizations built with d3.js and learn how to make your own.
-index,242
+index,240
 speakers,Ed Platt
 bookdescrip,See examples of interactive data visualizations built with d3.js and learn how to make your own.
 Track,Tech
@@ -10971,7 +10879,7 @@ endtimeampm,8 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,"Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples."
-index,243
+index,241
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins, Mary Poirier, Douglas Tobin"
 bookdescrip,"Fluffy, creamy, boozey, delicious-y... We have some lovely recipes to share. Live demo, including proper eating techniques. 21 and over, please. There will be samples."
 Track,"Food, After Dark"
@@ -11016,7 +10924,7 @@ endtimeampm,8 PM
 Location,Montcalm
 duration,50 minutes
 description,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
-index,244
+index,242
 speakers,"Ed Mason, 
 Vinny Rawlley"
 bookdescrip,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
@@ -11063,7 +10971,7 @@ endtimeampm,9 PM
 Location,Nicolet
 duration,1 hour and 50 minutes
 description,"Trace the history of the Doctor through costuming elements of each one's style, and learn how to mix and match fashions to create your own Dr. Who look."
-index,245
+index,243
 speakers,"Justin Coluzzi, Kevin McLeod, Alex Drummer"
 bookdescrip,"Trace the history of the Doctor through costuming elements of each one's style, and learn how to mix and match fashions to create your own Dr. Who look."
 Track,Costuming
@@ -11108,7 +11016,7 @@ endtimeampm,12 AM
 Location,Portage Auditorium
 duration,4 hours and 50 minutes
 description,"In short, the Smithee Awards are like the Anti-people's Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust."
-index,246
+index,244
 speakers,"Jeannette Quirk, Matthew Quirk, Kevin Hogan, Amy Conlon"
 bookdescrip,"In short, the Smithee Awards are like the Anti-people's Choice Awards. In long, they are an awards ceremony where 95 clips compete against each other (19 classic B-Movie categories, 5 clips per category) for the dubious honor of being the worst of the lot. Stupid Looking Monsters? Worst Science? Bad Acting? We have it all! And the best part is that you get to decide who goes home with ""honors"" and who is left in the dust."
 Track,"Film, After Dark"
@@ -11153,7 +11061,7 @@ endtimeampm,10 PM
 Location,Windover
 duration,2 hours and 50 minutes
 description,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
-index,247
+index,245
 speakers,"Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate"
 bookdescrip,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
 Track,Life
@@ -11198,7 +11106,7 @@ endtimeampm,9 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Steffeny “Steffo” Messinger uses the title “My Parents Favorite Music” to describe the chiptune/video game influenced songs she writes, produces, and records. Bringing a spectacular amount of energy and love, clever wordplay, and unique presence, Steffo ensures every listener is welcome to join the party in her musical adventure."
-index,248
+index,246
 speakers,Steffo
 bookdescrip,"Steffeny “Steffo” Messinger uses the title “My Parents Favorite Music” to describe the chiptune/video game influenced songs she writes, produces, and records. Bringing a spectacular amount of energy and love, clever wordplay, and unique presence, Steffo ensures every listener is welcome to join the party in her musical adventure."
 Track,Music
@@ -11243,7 +11151,7 @@ endtimeampm,9 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art, charts, technobabble, or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded!"
-index,249
+index,247
 speakers,"Sarah Elkins, Cylithria Dubois"
 bookdescrip,"Players will try out their improv chops one at a time with a random slide deck which they get to present to the audience (with a time limit). Each player hangs a compelling or funny narrative on whatever art, charts, technobabble, or self-improvement jargon comes up on the slides. Volunteer from the audience! Prizes awarded!"
 Track,Gaming
@@ -11288,7 +11196,7 @@ endtimeampm,9 PM
 Location,Hamlin
 duration,50 minutes
 description,Meet fellow gamers and find new adventures. 
-index,250
+index,248
 speakers,
 bookdescrip,Meet fellow gamers and find new adventures. 
 Track,Gaming
@@ -11333,7 +11241,7 @@ endtimeampm,9 PM
 Location,Board of Governors
 duration,50 minutes
 description,"There is a lot of “reality” programming which deals with speculative fiction adjacent material, like paranormal research, monster hunting, and cryptozoology.  There is a market for people to watch these shows, but is there a readership?  Have you read any books on this topic which you would recommend? "
-index,251
+index,249
 speakers,Shetan Noir
 bookdescrip,"There is a lot of “reality” programming which deals with speculative fiction adjacent material, like paranormal research, monster hunting, and cryptozoology.  There is a market for people to watch these shows, but is there a readership?  Have you read any books on this topic which you would recommend? "
 Track,Lit
@@ -11378,7 +11286,7 @@ endtimeampm,9 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Come chat with us about the podcast Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  The Sheriff's Secret Police will be observing the proceedings to make sure all City Council regulations are followed.  Only you can prevent your own reeducation session in the dark box. "
-index,252
+index,250
 speakers,Kat McConnell
 bookdescrip,"Come chat with us about the podcast Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  The Sheriff's Secret Police will be observing the proceedings to make sure all City Council regulations are followed.  Only you can prevent your own reeducation session in the dark box. "
 Track,Life
@@ -11423,7 +11331,7 @@ endtimeampm,11 PM
 Location,Board of Trustees
 duration,2 hours and 50 minutes
 description,"Watch the magic happen as we transform our beautiful model into a work of art! Have you ever thought of becoming a body painter? Have you ever wanted to transform another person into something from your imagination, making them your own creation? Have you ever wanted to become the art yourself? Come and see what it is all about. We will be painting a full-body Doctor Who inspired piece. Stop by throughout the evening and watch the paint come to life. Feel free to take pictures and ask questions of the artists and model."
-index,253
+index,251
 speakers,Jeannie Arquette
 bookdescrip,"Watch the magic happen as we transform our beautiful model into a work of art! Have you ever thought of becoming a body painter? Have you ever wanted to transform another person into something from your imagination, making them your own creation? Have you ever wanted to become the art yourself? Come and see what it is all about. We will be painting a full-body Doctor Who inspired piece. Stop by throughout the evening and watch the paint come to life. Feel free to take pictures and ask questions of the artists and model."
 Track,After Dark
@@ -11468,7 +11376,7 @@ endtimeampm,10 PM
 Location,Charlevoix A
 duration,1 hour and 50 minutes
 description,"This year's Geek Prom is themed ""Enchantment Under the Sea"", just like in Back to the Future.  Come dance around Ernie Cline's Delorean!"
-index,254
+index,252
 speakers,
 bookdescrip,"This year's Geek Prom is themed ""Enchantment Under the Sea"", just like in Back to the Future.  Come dance around Ernie Cline's Delorean!"
 Track,Penguicon Events
@@ -11513,7 +11421,7 @@ endtimeampm,9 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Shannon and Maggie are BFF’s and they like to drink, a lot. Join us as hilarity ensues while the ladies drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick."
-index,255
+index,253
 speakers,"Shannon Marshall, Maggie Maiville"
 bookdescrip,"Shannon and Maggie are BFF’s and they like to drink, a lot. Join us as hilarity ensues while the ladies drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick."
 Track,Life
@@ -11558,7 +11466,7 @@ endtimeampm,10 PM
 Location,Food Track (Room 1017)
 duration,1 hour and 50 minutes
 description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!"
-index,256
+index,254
 speakers,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
 bookdescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!"
 Track,"Food, After Dark"
@@ -11603,7 +11511,7 @@ endtimeampm,10 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,Do you want to test your GM creative skills? You will get four random elements and 30 minutes to create a title and game blurb to get players. Once you have players you have four hours to run the best game ever! Prizes awarded for the best GMs.
-index,257
+index,255
 speakers,
 bookdescrip,Do you want to test your GM creative skills? You will get four random elements and 30 minutes to create a title and game blurb to get players. Once you have players you have four hours to run the best game ever! Prizes awarded for the best GMs.
 Track,Gaming
@@ -11648,7 +11556,7 @@ endtimeampm,10 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Players are recent immigrants to the newly populated island of Catan. Expand your colony through the building of settlements, roads, and villages by harvesting commodities from the land around you. Trade sheep, lumber, bricks and grain for a settlement, bricks and wood for a road, or try to complete other combinations for more advanced buildings, services and specials."
-index,258
+index,256
 speakers,
 bookdescrip,"Players are recent immigrants to the newly populated island of Catan. Expand your colony through the building of settlements, roads, and villages by harvesting commodities from the land around you. Trade sheep, lumber, bricks and grain for a settlement, bricks and wood for a road, or try to complete other combinations for more advanced buildings, services and specials."
 Track,Gaming
@@ -11693,7 +11601,7 @@ endtimeampm,9 PM
 Location,Montcalm
 duration,50 minutes
 description,"Advanced polyamory topics for practicing polyamorists.  We're skipping basics like ""what is polyamory"" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more."
-index,259
+index,257
 speakers,Susan
 bookdescrip,"Advanced polyamory topics for practicing polyamorists.  We're skipping basics like ""what is polyamory"" to talk about different poly relationship formats and how they tend to fare in different circumstances, how to introduce newbie polyamorists to a stable poly network with a minimum of drama, and more."
 Track,Life
@@ -11738,7 +11646,7 @@ endtimeampm,10 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Recognized as a forefather of the ""nerdcore"" genre, he has travelled all around the universe amassing billions of fans, the majority of which do not live on planet earth.  YTCracker raps about all of the important things in life, like high frame rate and low latency pings."
-index,260
+index,258
 speakers,YTCracker
 bookdescrip,"Recognized as a forefather of the ""nerdcore"" genre, he has travelled all around the universe amassing billions of fans, the majority of which do not live on planet earth.  YTCracker raps about all of the important things in life, like high frame rate and low latency pings."
 Track,Music
@@ -11783,7 +11691,7 @@ endtimeampm,11 PM
 Location,Board of Governors
 duration,1 hour and 50 minutes
 description,"Learn how to set fire to the ones you love! Will include discussion of fire wands, flash cotton, firecupping, and much discussion of safety. "
-index,261
+index,259
 speakers,Ferrett Steinmetz
 bookdescrip,"Learn how to set fire to the ones you love! Will include discussion of fire wands, flash cotton, firecupping, and much discussion of safety. "
 Track,After Dark
@@ -11828,7 +11736,7 @@ endtimeampm,10 PM
 Location,Board of Regents
 duration,50 minutes
 description,What are your favorite video games? What new games are you excited about?
-index,262
+index,260
 speakers,
 bookdescrip,What are your favorite video games? What new games are you excited about?
 Track,Videogaming
@@ -11873,7 +11781,7 @@ endtimeampm,10 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"
-index,263
+index,261
 speakers,"Victoria Stapels, Sunny Smith, Michael McAtee "
 bookdescrip,"For polyamorous folks and those who may be poly-curious, we'd like to offer you an inside look on our lifestyle. Polyamory is the philosophy or state of being in love or romantically involved with more than one person at the same time. Regardless of whether you've been poly for years or have never heard of the term, join us to discuss ethics and styles of poly and 'poly-cules'!"
 Track,Life
@@ -11918,7 +11826,7 @@ endtimeampm,10 PM
 Location,Nicolet
 duration,50 minutes
 description,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
-index,264
+index,262
 speakers,"Phil Chase, Dana Chase, Amy Joynt"
 bookdescrip,"Many times, the terms ""swinger"" and ""polyamorous"" get conflated.  Many times, they overlap.  In the world of alternate relationship styles, one can meet swingers who look suspiciously upon polyfolk.  Similarly, one can also meet polyfolk who sneer a bit at swingers.  But why?  Can't we all just get it on? (I mean, get along?) This session is in audience-participation format (not like that, keep your kilts ON!) and seeks to get some of the common stereotypes out in the open, toward the goal of greater understanding on both sides of the ""aisle.""  The Venn Diagram might well inspire you.  It'll be run by folks who have their feet in both worlds, and it'll include an ask-us-anything time."
 Track,After Dark
@@ -11963,7 +11871,7 @@ endtimeampm,11 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
-index,265
+index,263
 speakers,"Bob Trembley, Marie-therese Enga"
 bookdescrip,Join us at outside to observe the moon as a waxing crescent. Observe via telescopes and other instruments made available to view the moon. Meet by the main doors in the lobby.
 Track,Science
@@ -12008,7 +11916,7 @@ endtimeampm,11 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Monotony is powered by two game boys running LSDJ, resulting in an assault of grungy, hyperactive, progressive, chiptune dance music. The One Electronic is an electronic artist who specializes in using vintage video game consoles to produce super lo-fi dance music, bringing you a fusion of retro video game sound with modern day EDM flair. Featuring live visuals by Ohhinaifu and Walk In Circles."
-index,266
+index,264
 speakers,"Monotony, The One Electronic"
 bookdescrip,"Monotony is powered by two game boys running LSDJ, resulting in an assault of grungy, hyperactive, progressive, chiptune dance music. The One Electronic is an electronic artist who specializes in using vintage video game consoles to produce super lo-fi dance music, bringing you a fusion of retro video game sound with modern day EDM flair. Featuring live visuals by Ohhinaifu and Walk In Circles."
 Track,Music
@@ -12053,7 +11961,7 @@ endtimeampm,11 PM
 Location,Board of Regents
 duration,50 minutes
 description,Which cool tech do you want to talk about?  What are the best technology gadgets you have seen?  What do you want to see in the near future?  Why do you like your gadget?
-index,267
+index,265
 speakers,
 bookdescrip,Which cool tech do you want to talk about?  What are the best technology gadgets you have seen?  What do you want to see in the near future?  Why do you like your gadget?
 Track,Tech
@@ -12098,7 +12006,7 @@ endtimeampm,11 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"What does a hurricane of comedy mixed with a tornado of entertainment sound like? If you said a stupid analogy, you are right. Scrubcast alumni King Pheenix, StarF, and 2 Mello, will rock your face off with laughter. With their own style of drunken riffing and random observation, this will be a night that you would regret missing."
-index,268
+index,266
 speakers,"King Pheenix, 2 Mello, Starf"
 bookdescrip,"What does a hurricane of comedy mixed with a tornado of entertainment sound like? If you said a stupid analogy, you are right. Scrubcast alumni King Pheenix, StarF, and 2 Mello, will rock your face off with laughter. With their own style of drunken riffing and random observation, this will be a night that you would regret missing."
 Track,Music
@@ -12143,7 +12051,7 @@ endtimeampm,11 PM
 Location,Con Suite
 duration,50 minutes
 description,Come enjoy LN2 ice cream made for you by our own new group of volunteers!
-index,269
+index,267
 speakers,
 bookdescrip,Come enjoy LN2 ice cream made for you by our own new group of volunteers!
 Track,Food
@@ -12188,7 +12096,7 @@ endtimeampm,11 PM
 Location,Montcalm
 duration,50 minutes
 description,"Not just for parents! This session will cover the whole of polyamorous family life: how to keep long-term relationships alive and healthy, household management, dealing with extended families, and yes, kids.  If you are a practicing polyamorist or seeking one or more long-term relationships, this session is for you. If you are poly-curious and want to see the different ways that poly families take shape, please feel free to join us."
-index,270
+index,268
 speakers,Susan
 bookdescrip,"Not just for parents! This session will cover the whole of polyamorous family life: how to keep long-term relationships alive and healthy, household management, dealing with extended families, and yes, kids.  If you are a practicing polyamorist or seeking one or more long-term relationships, this session is for you. If you are poly-curious and want to see the different ways that poly families take shape, please feel free to join us."
 Track,Life
@@ -12233,7 +12141,7 @@ endtimeampm,12 AM
 Location,Algonquin A
 duration,50 minutes
 description,"During the hustle of Con it is easy to become tense. Relax and recharge with some yoga stretching, whether it is to prepare for sleep or recharge you for a long night of partying.  Open to all levels, abilities, and body types. Wear comfortable clothing and be ready to sweat.  "
-index,271
+index,269
 speakers,Chloe Zrnich
 bookdescrip,"During the hustle of Con it is easy to become tense. Relax and recharge with some yoga stretching, whether it is to prepare for sleep or recharge you for a long night of partying.  Open to all levels, abilities, and body types. Wear comfortable clothing and be ready to sweat.  "
 Track,Life
@@ -12278,7 +12186,7 @@ endtimeampm,12 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Barbeque creates luscious soundscapes and rhythms designed to flush out memories past, and bring about visions of the future. Snesei's music is the sound of a Nintendo Gameboy mixed with sugar, spice, and everything nice. Featuring live visuals by Ohhinaifu and Walk In Circles."
-index,272
+index,270
 speakers,"barbeque, snesei"
 bookdescrip,"Barbeque creates luscious soundscapes and rhythms designed to flush out memories past, and bring about visions of the future. Snesei's music is the sound of a Nintendo Gameboy mixed with sugar, spice, and everything nice. Featuring live visuals by Ohhinaifu and Walk In Circles."
 Track,Music
@@ -12323,7 +12231,7 @@ endtimeampm,12 AM
 Location,Board of Governors
 duration,50 minutes
 description,Tesla Coils in the bedroom? Shocking!  A history and demonstration of Violet Wands from their beginnings as Violet Rays to your bedroom as fun and shocking devices known as Violet Wands. Learn some of the science behind the devices. Ever wondered what it's like to feel high voltage at your finger tips?  Ever wondered if you can take a tesla coil in the bedroom? This is where you'll find out!
-index,273
+index,271
 speakers,Rabbit
 bookdescrip,Tesla Coils in the bedroom? Shocking!  A history and demonstration of Violet Wands from their beginnings as Violet Rays to your bedroom as fun and shocking devices known as Violet Wands. Learn some of the science behind the devices. Ever wondered what it's like to feel high voltage at your finger tips?  Ever wondered if you can take a tesla coil in the bedroom? This is where you'll find out!
 Track,After Dark
@@ -12368,7 +12276,7 @@ endtimeampm,1 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Since 2011, Seattle-based 8-bit EDM producer boaconstructor has carved a name for himself pushing out huge bass tunes from a single Nintendo Gameboy.  Self-confessed to be disconnected from videogame culture, boa’s Gameboy use is aesthetic only, bringing less of the 80s, and more of the party. Featuring live visuals by Ohhinaifu and Walk In Circles."
-index,274
+index,272
 speakers,boaconstructor
 bookdescrip,"Since 2011, Seattle-based 8-bit EDM producer boaconstructor has carved a name for himself pushing out huge bass tunes from a single Nintendo Gameboy.  Self-confessed to be disconnected from videogame culture, boa’s Gameboy use is aesthetic only, bringing less of the 80s, and more of the party. Featuring live visuals by Ohhinaifu and Walk In Circles."
 Track,Music
@@ -12413,7 +12321,7 @@ endtimeampm,2 AM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"""Plan 9 From Outer Space"" After multiple attempts by the government to cover up alien sightings, the aliens decide execute plan 9 - resurrecting dead people as zombies - in an effort to push the government into acknowledging their existence."
-index,275
+index,273
 speakers,
 bookdescrip,"""Plan 9 From Outer Space"" After multiple attempts by the government to cover up alien sightings, the aliens decide execute plan 9 - resurrecting dead people as zombies - in an effort to push the government into acknowledging their existence."
 Track,Film
@@ -12458,7 +12366,7 @@ endtimeampm,3 AM
 Location,Algonquin B/C
 duration,1 hour and 50 minutes
 description,Continue the jams with Penguicon's awesome chiptune artists. All chiptunes artists are welcome to join in.  Featuring live visuals by Ohhinaifu and Walk In Circles.
-index,276
+index,274
 speakers,Open
 bookdescrip,Continue the jams with Penguicon's awesome chiptune artists. All chiptunes artists are welcome to join in.  Featuring live visuals by Ohhinaifu and Walk In Circles.
 Track,Music
@@ -12503,7 +12411,7 @@ endtimeampm,9 AM
 Location,Board of Trustees
 duration,1 hour and 50 minutes
 description,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
-index,277
+index,275
 speakers,"John D. Bell, Susan"
 bookdescrip,"Linux hasn't always had a GUI, and you don't *need* a mouse to use or administer a Linux box.  Come get a brief but thorough introduction to interacting with that scary, scary, ""shell"" and its tools.  You will need a WiFi-equipped, ssh-running gizmo (laptop, tablet, smartphone) with a *good* keyboard, your mad typing skillz, and your thinking cap.  Attendance limited. Sign up at Ops no less than one hour before."
 Track,Tech
@@ -12548,7 +12456,7 @@ endtimeampm,9 AM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"""The Brain That Wouldn't Die"" Dr. Bill Cortner’s beautiful fiancee, Jan, is decapitated in a car accident. Bill cannot let her go, revives her head and keeps it in his laboratory while looking for a body that could serve as a host. Jan, however, has other plans!"
-index,278
+index,276
 speakers,
 bookdescrip,"""The Brain That Wouldn't Die"" Dr. Bill Cortner’s beautiful fiancee, Jan, is decapitated in a car accident. Bill cannot let her go, revives her head and keeps it in his laboratory while looking for a body that could serve as a host. Jan, however, has other plans!"
 Track,Film
@@ -12593,7 +12501,7 @@ endtimeampm,9 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands.  Come get fit to dubstep and remixed gaming music!"
-index,279
+index,277
 speakers,William Bowen
 bookdescrip,"Work out to a total body strength and cardio training format, with a cool down and stretching at the end. This class incorporates the use of body weight and/or resistance bands.  Come get fit to dubstep and remixed gaming music!"
 Track,Life
@@ -12638,7 +12546,7 @@ endtimeampm,9 AM
 Location,Algonquin D
 duration,50 minutes
 description,"Ever have someone tell you about a favorite TV series or book that you've never heard of, then you check it out and wonder why everyone *hasn't* heard of it?  Come share your favorite book/movie/TV show that you feel got less press than it deserved.  "
-index,280
+index,278
 speakers,Derek Newland
 bookdescrip,"Ever have someone tell you about a favorite TV series or book that you've never heard of, then you check it out and wonder why everyone *hasn't* heard of it?  Come share your favorite book/movie/TV show that you feel got less press than it deserved.  "
 Track,Film
@@ -12683,7 +12591,7 @@ endtimeampm,10 AM
 Location,Hamlin
 duration,1 hour and 50 minutes
 description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
-index,281
+index,279
 speakers,"Mat Enders, Mary Tomich, Tony Bemus"
 bookdescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Track,Tech
@@ -12728,7 +12636,7 @@ endtimeampm,9 AM
 Location,Board of Governors
 duration,50 minutes
 description,"A look at how people find books to read when brick and mortar bookstores are becoming scarce and libraries may or may not stock the genre fiction you are interested in.  Will cover blogs, Goodreads, and more."
-index,282
+index,280
 speakers,Janea Schimmel
 bookdescrip,"A look at how people find books to read when brick and mortar bookstores are becoming scarce and libraries may or may not stock the genre fiction you are interested in.  Will cover blogs, Goodreads, and more."
 Track,Lit
@@ -12773,7 +12681,7 @@ endtimeampm,9 AM
 Location,Board of Regents
 duration,50 minutes
 description,Can you share any ideas on how we can make our technical clubs and community groups better?  What would it take for you to play a more active role in the groups around the area?
-index,283
+index,281
 speakers,
 bookdescrip,Can you share any ideas on how we can make our technical clubs and community groups better?  What would it take for you to play a more active role in the groups around the area?
 Track,Tech
@@ -12818,7 +12726,7 @@ endtimeampm,9 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately.  What are the relevant laws, and what should you expect?  Why would someone want to carry a weapon in the first place?  What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics.  Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints.  Some people have extremely strong views on the subject of gun control.  We expect participants to respect the views of others.  Anyone unable to do so will be asked to leave."
-index,284
+index,282
 speakers,"Stu Chisholm, Richard Houser"
 bookdescrip,"Open Carry and Conceal Carry in particular have been getting increased coverage in the news lately.  What are the relevant laws, and what should you expect?  Why would someone want to carry a weapon in the first place?  What does this really mean with respect to your rights, safety, encounters with those carrying in public, and any response from law enforcement? Join our panelists in a discussion on these and related topics.  Sharing of personal experiences is strongly encouraged. Please note that this is a logic-based discussion primarily regarding the law and it's implications, and there may be conflicting viewpoints.  Some people have extremely strong views on the subject of gun control.  We expect participants to respect the views of others.  Anyone unable to do so will be asked to leave."
 Track,Action Adventure
@@ -12863,7 +12771,7 @@ endtimeampm,10 AM
 Location,Charlevoix C
 duration,1 hour and 50 minutes
 description,"Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things.  In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry.  Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters. "
-index,285
+index,283
 speakers,Phil Salkie
 bookdescrip,"Voice-controlled robots that can be programmed by waving your arms around are in the news every day - they're the latest craze! Back here on planet Reality, specialized computers called Programmable Logic Controllers (PLCs) are what run practically every industrial process - they control machinery to assemble electronics, regulate temperature, blend pharmaceuticals, and do a thousand more things.  In factories, warehouses, ships, and trucks throughout the world, these rugged workhorses are the core of modern industry.  Learn how they work, how to program them, which units have free programming software, and how to score cheap used units on ebay to install in your army of giant Mecha-Hamsters. "
 Track,Tech
@@ -12914,7 +12822,7 @@ Meant for those with little to no experience, this session will introduce you to
 
 Second Hour: Spin Jam!
 Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!"
-index,286
+index,284
 speakers,"Thaddeus Micelli, Shoofle Munroe, Steve ""Spark"" Grandpre"
 bookdescrip,"Come check out something completely different here at Penguicon! Come meet some of your fellow con goers for a morning of fun and movement. All skill levels are welcome.  First Hour: FlowCentrics Meant for those with little to no experience, this session will introduce you to the basics of flow and get you comfortable with your new favorite toy of choice (a variety of poi, staffs and other fun options will be available). Not a beginner but still want to participate? No problem! Although this is meant for those new to flow, all skill levels are welcome. (Wanna help? Show up half an hour prior for details)  Second Hour: Spin Jam! Come show your stuff and perhaps pick up a new trick from your fellow con goers! There will be open space for flow-ers of all skill levels to play freely!"
 Track,Life
@@ -12965,7 +12873,7 @@ endtimeampm,10 AM
 Location,Board of Governors
 duration,50 minutes
 description,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
-index,287
+index,285
 speakers,
 bookdescrip,"Come together and share your resources, tips, and skills on living the self-sustaining lifestyle. "
 Track,Eco
@@ -13010,7 +12918,7 @@ endtimeampm,10 AM
 Location,Board of Regents
 duration,50 minutes
 description,"Do you ever blow a from your bottle of Miracle Bubbles and wonder if that's as big as they get? Do you wish your bubbles lasted longer? Have you ever wanted to startle neighbors with a bubble the size of a small child floating over your roof? We can help! Come learn the basics of bubble mixology, make some wands for a more vast bubble experience, and then come play as we take our new toys for a test drive after the panel! Please sign up at Ops!"
-index,288
+index,286
 speakers,"Sasha Brandt, Charles Davey"
 bookdescrip,"Do you ever blow a from your bottle of Miracle Bubbles and wonder if that's as big as they get? Do you wish your bubbles lasted longer? Have you ever wanted to startle neighbors with a bubble the size of a small child floating over your roof? We can help! Come learn the basics of bubble mixology, make some wands for a more vast bubble experience, and then come play as we take our new toys for a test drive after the panel! Please sign up at Ops!"
 Track,DIY
@@ -13055,7 +12963,7 @@ endtimeampm,11 AM
 Location,Board of Trustees
 duration,1 hour and 50 minutes
 description,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
-index,289
+index,287
 speakers,Melissa Ebbe
 bookdescrip,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
 Track,DIY
@@ -13100,7 +13008,7 @@ endtimeampm,10 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"What does it take to design and produce a new game? We will discuss all aspects, from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q&A panel so bring your questions!"
-index,290
+index,288
 speakers,"Matthew Duhan, Matt Arnold"
 bookdescrip,"What does it take to design and produce a new game? We will discuss all aspects, from initial concept and mechanics to playtesting and even funding through Kickstarter. This is a Q&amp;A panel so bring your questions!"
 Track,Gaming
@@ -13145,7 +13053,7 @@ endtimeampm,10 AM
 Location,Charlevoix B
 duration,50 minutes
 description,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
-index,291
+index,289
 speakers,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell"
 bookdescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 Track,Action Adventure
@@ -13190,7 +13098,7 @@ endtimeampm,10 AM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
-index,292
+index,290
 speakers,"Heather Gutterman, Caitlynn Poirier, Taylor Watkins, Mary Poirier, Douglas Tobin"
 bookdescrip,Explore the amazing depth of field the cheese world has to offer. Bring eager tastebuds to fully experience the breadth of pairing cheese with other foods.
 Track,Food
@@ -13235,7 +13143,7 @@ endtimeampm,11 AM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"In the Gloom card game, you assume control of the fate of an eccentric family of misfits and misanthropes. The goal of the game is sad, but simple: you want your characters to suffer the greatest tragedies possible before passing on to the well-deserved respite of death. You'll play horrible mishaps like Pursued by Poodles or Mocked by Midgets on your own characters to lower their Self-Worth scores, while trying to cheer your opponents' characters with marriages and other happy occasions that pile on positive points. The player with the lowest total Family Value wins."
-index,293
+index,291
 speakers,
 bookdescrip,"In the Gloom card game, you assume control of the fate of an eccentric family of misfits and misanthropes. The goal of the game is sad, but simple: you want your characters to suffer the greatest tragedies possible before passing on to the well-deserved respite of death. You'll play horrible mishaps like Pursued by Poodles or Mocked by Midgets on your own characters to lower their Self-Worth scores, while trying to cheer your opponents' characters with marriages and other happy occasions that pile on positive points. The player with the lowest total Family Value wins."
 Track,Gaming
@@ -13280,7 +13188,7 @@ endtimeampm,11 AM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies.
-index,294
+index,292
 speakers,
 bookdescrip,This time you are playing the zombies and trying to infect as many people in town as possible. This game will be able to be played with Zombies!!! - some players playing humans and some players playing zombies.
 Track,Gaming
@@ -13325,7 +13233,7 @@ endtimeampm,1 PM
 Location,Baldwin Board Room
 duration,3 hours and 50 minutes
 description,"Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend."
-index,295
+index,293
 speakers,Joe Greene
 bookdescrip,"Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend."
 Track,Videogaming
@@ -13370,7 +13278,7 @@ endtimeampm,10 AM
 Location,Montcalm
 duration,50 minutes
 description,"The Getting Things Done (GTD) methodology by David Allen is a popular way to not only get things done but also to clear away distractions and achieve focus. Craig Maloney details how he uses GTD under a Linux environment, using tools like Todo.txt, Evernote, Dropbox, and text files. He'll also cover some useful tips and tricks for setting up and honing your own GTD system."
-index,296
+index,294
 speakers,Craig Maloney
 bookdescrip,"The Getting Things Done (GTD) methodology by David Allen is a popular way to not only get things done but also to clear away distractions and achieve focus. Craig Maloney details how he uses GTD under a Linux environment, using tools like Todo.txt, Evernote, Dropbox, and text files. He'll also cover some useful tips and tricks for setting up and honing your own GTD system."
 Track,"Tech, Life"
@@ -13415,7 +13323,7 @@ endtimeampm,10 AM
 Location,Nicolet
 duration,50 minutes
 description,IT Infrastructure Library (ITIL®) is a set of best practices that has been used globally for over 15 years to help IT organizations work in harmony with the business. ITIL® provides guidelines for an IT organization to become the most efficient and effective it can be. Come learn how valuable ITIL® certification can be for IT professionals and their organizations.
-index,297
+index,295
 speakers,Melissa Wren
 bookdescrip,IT Infrastructure Library (ITIL®) is a set of best practices that has been used globally for over 15 years to help IT organizations work in harmony with the business. ITIL® provides guidelines for an IT organization to become the most efficient and effective it can be. Come learn how valuable ITIL® certification can be for IT professionals and their organizations.
 Track,Tech
@@ -13460,7 +13368,7 @@ endtimeampm,12 PM
 Location,Portage Auditorium
 duration,2 hours and 50 minutes
 description,"""Justice Is Mind"" In a future where MRI technology can read your mind, the trial of the century soon begins when a defendant faces his own memory for a double murder he doesn't remember committing."
-index,298
+index,296
 speakers,Mark Lund
 bookdescrip,"""Justice Is Mind"" In a future where MRI technology can read your mind, the trial of the century soon begins when a defendant faces his own memory for a double murder he doesn't remember committing."
 Track,Film
@@ -13505,7 +13413,7 @@ endtimeampm,10 AM
 Location,Windover
 duration,50 minutes
 description,"With the Oculus Rift being bought by media giant Facebook, the cautionary tales of science fiction seem closer than ever to reality.  Join authors Ernie Cline and John Scalzi, and Android VR creator Gameface Labs, as they talk about where our communal virtual fantasy is headed."
-index,299
+index,297
 speakers,"Ernie Cline, Ed Mason, John Scalzi"
 bookdescrip,"With the Oculus Rift being bought by media giant Facebook, the cautionary tales of science fiction seem closer than ever to reality.  Join authors Ernie Cline and John Scalzi, and Android VR creator Gameface Labs, as they talk about where our communal virtual fantasy is headed."
 Track,Tech
@@ -13551,7 +13459,7 @@ Location,Algonquin A
 duration,50 minutes
 description,"Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds.
 "
-index,300
+index,298
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 bookdescrip,Martial artists of all backgrounds join in sharing and learning skills with other martial artists! Please bring any training equipment that you would like to use with you. This will be an open format opportunity for developing new understanding with martial artists of other backgrounds. 
 Track,Action Adventure
@@ -13597,7 +13505,7 @@ endtimeampm,11 AM
 Location,Algonquin D
 duration,50 minutes
 description,"Learn how to make your home network more secure using a hardware firewall with Chris, a security professional."
-index,301
+index,299
 speakers,Chris Krieger
 bookdescrip,"Learn how to make your home network more secure using a hardware firewall with Chris, a security professional."
 Track,Tech
@@ -13642,7 +13550,7 @@ endtimeampm,11 AM
 Location,Board of Governors
 duration,50 minutes
 description,"Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault?"
-index,302
+index,300
 speakers,"StarF, Val Hundreds, Moses Jackson, BluRaven C. Houvener"
 bookdescrip,"Was Mass Effect 3 improved by the outrage of gamers? Do TV shows like Community or Top Gear need angry feedback, or are we encouraging authors, artists and designers to be less creative to avoid fan ire?  Is sequel-itis all our fault?"
 Track,"Life, Lit, Gaming"
@@ -13687,7 +13595,7 @@ endtimeampm,11 AM
 Location,Board of Regents
 duration,50 minutes
 description,"Learn how to make an origami penguin! Penguins for Penguicon!  Bring your hands and a little patience, and we'll help you create paper penguins for any occasion - hand them out, enclose them in letters, leave them as surprises for kids wherever you go."
-index,303
+index,301
 speakers,CJ Tremlett
 bookdescrip,"Learn how to make an origami penguin! Penguins for Penguicon!  Bring your hands and a little patience, and we'll help you create paper penguins for any occasion - hand them out, enclose them in letters, leave them as surprises for kids wherever you go."
 Track,DIY
@@ -13732,7 +13640,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"Joseph Campbell's ""Hero With a Thousand Faces"" tells the tale of the Tale: the archetypal path of life.  What kind of a Hero are you? Where in your Quest are you? How does the concept of the Archetype in you impact your day to day?"
-index,304
+index,302
 speakers,Sal Sanfratello
 bookdescrip,"Joseph Campbell's ""Hero With a Thousand Faces"" tells the tale of the Tale: the archetypal path of life.  What kind of a Hero are you? Where in your Quest are you? How does the concept of the Archetype in you impact your day to day?"
 Track,Action Adventure
@@ -13777,7 +13685,7 @@ endtimeampm,11 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"Join your fellow gun enthusiasts of fandom to discuss guns, gun safety, and gun laws.  "
-index,305
+index,303
 speakers,
 bookdescrip,"Join your fellow gun enthusiasts of fandom to discuss guns, gun safety, and gun laws.  "
 Track,Action Adventure
@@ -13822,7 +13730,7 @@ endtimeampm,11 AM
 Location,Charlevoix C
 duration,50 minutes
 description,"There are only three rules: Ridiculous, Plausible, Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science, stay for the laughs!"
-index,306
+index,304
 speakers,"Nick Farr, Eva Galperin, Jeff Goeke-Smith, Jolly"
 bookdescrip,"There are only three rules: Ridiculous, Plausible, Entertaining. All of our amazing panelists have agreed to present their ideas for Space Travel that fulfill each of these rules and are willing to suffer your silly and serious questions and comments on each. Come for the science, stay for the laughs!"
 Track,Science
@@ -13867,7 +13775,7 @@ endtimeampm,12 PM
 Location,Con Suite
 duration,1 hour and 50 minutes
 description,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
-index,307
+index,305
 speakers,"Sarah Elkins, Phil Salkie"
 bookdescrip,"Come enjoy (and help us make) breakfast ice creams, from coffee ice cream to Captain Crunch!  All LN2 sessions will offer dairy-free and sugar-free options upon request."
 Track,Food
@@ -13912,7 +13820,7 @@ endtimeampm,11 AM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,308
+index,306
 speakers,"Ed Mason, 
 Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
@@ -13959,7 +13867,7 @@ endtimeampm,11 AM
 Location,Montcalm
 duration,50 minutes
 description,"If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator."
-index,309
+index,307
 speakers,Matt Arnold
 bookdescrip,"If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or ""vector"", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator."
 Track,"Tech, DIY"
@@ -14004,7 +13912,7 @@ endtimeampm,11 AM
 Location,Nicolet
 duration,50 minutes
 description,"The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences.  We will explore how changing our perspective on mental health issues, from one focused on disability to one highlighting ability, can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on ""can't."""
-index,310
+index,308
 speakers,"Jessica Roland, Kristy Currier, Chris Roland, Heather Aman"
 bookdescrip,"The term Neurodiversity has been around since the late 1990's but it has recently become a call to arms for activists looking for acceptance and respect when it comes to neurological differences.  We will explore how changing our perspective on mental health issues, from one focused on disability to one highlighting ability, can not only benefit the future of the individual but also the future of our society. Panelists who live with a variety of different mental health issues will talk about their experiences living and working in a society that focuses on ""can't."""
 Track,Science
@@ -14049,7 +13957,7 @@ endtimeampm,11 AM
 Location,Windover
 duration,50 minutes
 description,"Think about something you really love to do. Chances are you find it energizing, inspiring, challenging, and heart-opening, right? Next question: do you get to spend all day doing that thing? If you said ""no,"" why not? Erika Carlson shares suggestions and lessons from experience on finding, doing, and getting paid for what you love, without living on ramen (unless you're into that). "
-index,311
+index,309
 speakers,Erika Carlson
 bookdescrip,"Think about something you really love to do. Chances are you find it energizing, inspiring, challenging, and heart-opening, right? Next question: do you get to spend all day doing that thing? If you said ""no,"" why not? Erika Carlson shares suggestions and lessons from experience on finding, doing, and getting paid for what you love, without living on ramen (unless you're into that). "
 Track,Life
@@ -14094,7 +14002,7 @@ endtimeampm,12 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness & limitations -- there will be opportunities for more advanced practice for those who want it.  "
-index,312
+index,310
 speakers,Marie Staver
 bookdescrip,"Ever wanted to study the traditional Chinese internal martial art of Taiji (Tai Chi)?  Get a taste of it here, and sample the health benefits while you're at it!  This session, led by a longtime student, will cover basic movements and body alignment based on the awesome Chen and Wudang styles.  Wear loose clothing and know your body, fitness &amp; limitations -- there will be opportunities for more advanced practice for those who want it.  "
 Track,Life
@@ -14139,7 +14047,7 @@ endtimeampm,12 PM
 Location,Algonquin D
 duration,50 minutes
 description,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
-index,313
+index,311
 speakers,"Amara Sugalski, Catherine Shaffer, Jessica Roland"
 bookdescrip,Movies and Sci-fi TV shows present visions of the future of medicine that may or may not come to pass. How will hospitals and healthcare providers step up to meet the challenges in today's health care? What are the future challenges? What roles will genomics and neuroscience play? Our panelists explore these themes in a wide ranging discussion with audience participation.
 Track,Science
@@ -14184,7 +14092,7 @@ endtimeampm,12 PM
 Location,Hamlin
 duration,50 minutes
 description,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
-index,314
+index,312
 speakers,"CJ Tremlett, Alex Page"
 bookdescrip,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
 Track,Life
@@ -14229,7 +14137,7 @@ endtimeampm,12 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Come learn how to create a costume out of thin air. You can take everyday clothes and items and make them into something cool!  Get tips on dyeing fabrics and taking care of wigs, and lots of ideas for ways to finish your costume. Bring your costume for help with last minute adjustments."
-index,315
+index,313
 speakers,Cyndee Richardson
 bookdescrip,"Come learn how to create a costume out of thin air. You can take everyday clothes and items and make them into something cool!  Get tips on dyeing fabrics and taking care of wigs, and lots of ideas for ways to finish your costume. Bring your costume for help with last minute adjustments."
 Track,Costuming
@@ -14274,7 +14182,7 @@ endtimeampm,12 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Do you own a local business?  Do you like to shop Locally?  Come and talk about your favorite local business, your own business, and why it's important to shop the local economy. "
-index,316
+index,314
 speakers,
 bookdescrip,"Do you own a local business?  Do you like to shop Locally?  Come and talk about your favorite local business, your own business, and why it's important to shop the local economy. "
 Track,Eco
@@ -14319,7 +14227,7 @@ endtimeampm,12 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"So, you were interested in talking about something at Penguicon, but decided it was too much work.  Why did you feel that way?  Would it have helped if someone gave you some support?  Would a group project have been of interest?  If you are presenting, what helped you decide to make the presentation?  Let's discuss what we can do to encourage each other to contribute to Penguicon.  We will ask attendees to brainstorm ideas that will encourage more participation. Any thoughts you can bring in will be helpful! The Head of Programming will join in the discussion. "
-index,317
+index,315
 speakers,
 bookdescrip,"So, you were interested in talking about something at Penguicon, but decided it was too much work.  Why did you feel that way?  Would it have helped if someone gave you some support?  Would a group project have been of interest?  If you are presenting, what helped you decide to make the presentation?  Let's discuss what we can do to encourage each other to contribute to Penguicon.  We will ask attendees to brainstorm ideas that will encourage more participation. Any thoughts you can bring in will be helpful! The Head of Programming will join in the discussion. "
 Track,Penguicon Events
@@ -14364,7 +14272,7 @@ endtimeampm,12 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
-index,318
+index,316
 speakers,"King Pheenix, 2 Mello, Starf"
 bookdescrip,"Scrub Club Records is the world's first and only, not for profit, independent, open source music label. Many people have questions on what it takes to be successful independently, and we are here to help! King Pheenix, StarF and 2 Mello will take your questions, and give you answers ranging from inspirational, to possibly insane, but always entertaining. Music is love -- let's spread it."
 Track,Music
@@ -14409,7 +14317,7 @@ endtimeampm,12 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
-index,319
+index,317
 speakers,"Derek Newland, Nathan Balyeat"
 bookdescrip,"Back once again!  After signing a waiver, come learn some basic self defense techniques and tricks that work using basic principles of body motion and leverage.  There will be a demonstration period, then any member of the audience who feels up to it can come try it out to see how it works for them!  "
 Track,Life
@@ -14454,7 +14362,7 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in, however, might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works."
-index,320
+index,318
 speakers,"Alex Drummer, Kevin McLeod, Justin Coluzzi"
 bookdescrip,"Nerf guns and blasters are an amazing source for cosplay weaponry.  The bright yellow and blue colors they come in, however, might distract from your costume.  In this panel we will discuss and demonstrate how to disassemble a Nerf gun so you can prep it for painting.  We will even show you how to put it back together so it still works."
 Track,Costuming
@@ -14499,7 +14407,7 @@ endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
-index,321
+index,319
 speakers,Richard Houser
 bookdescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 Track,Gaming
@@ -14545,7 +14453,7 @@ Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"In Titans of Industry, you must invest in building factories and businesses (in the 1920's) in order to produce goods to gain victory points (VPs). Game play involves a delicate balance of money, production, and goals. The person who can best manage his buildings and meet his goals in seven years will win.
 "
-index,322
+index,320
 speakers,Matthew Duhan
 bookdescrip,"In Titans of Industry, you must invest in building factories and businesses (in the 1920's) in order to produce goods to gain victory points (VPs). Game play involves a delicate balance of money, production, and goals. The person who can best manage his buildings and meet his goals in seven years will win. "
 Track,Gaming
@@ -14591,7 +14499,7 @@ endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Munchkin is the mega-hit card game about dungeon adventure . . . with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm . . . or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon . . ."
-index,323
+index,321
 speakers,
 bookdescrip,"Munchkin is the mega-hit card game about dungeon adventure . . . with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm . . . or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon . . ."
 Track,Gaming
@@ -14637,7 +14545,7 @@ Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play.
 "
-index,324
+index,322
 speakers,Richard Houser
 bookdescrip,"Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play. "
 Track,Gaming
@@ -14683,7 +14591,7 @@ endtimeampm,12 PM
 Location,Montcalm
 duration,50 minutes
 description,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
-index,325
+index,323
 speakers,"BluRaven C. Houvener, Gabrielle Gamache-Nettles, Lainey Carroll, Sam Vernier"
 bookdescrip,"Join a webcomic artist that dabbles in film, a film maker, a cosplayer, and a cosplayer/model/artist as they sit down with you for a guaranteed laugh riot. They'll share some of their wackiest moments working on their craft. Both aspiring artists and those that have never given thought towards creation are encouraged to come!"
 Track,Life
@@ -14728,7 +14636,7 @@ endtimeampm,12 PM
 Location,Nicolet
 duration,50 minutes
 description,"Together we will a look at some of the classic edutainment games from the good old days of DOS and the classic NES.  We will examine the games that worked at entertaining and educating audiences, and those that failed to do either.  Finally, we will consider how current technology could make this unique genre better."
-index,326
+index,324
 speakers,William Bowen
 bookdescrip,"Together we will a look at some of the classic edutainment games from the good old days of DOS and the classic NES.  We will examine the games that worked at entertaining and educating audiences, and those that failed to do either.  Finally, we will consider how current technology could make this unique genre better."
 Track,Videogaming
@@ -14773,7 +14681,7 @@ endtimeampm,1 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
-index,327
+index,325
 speakers,"Bob Trembley, Marie-therese Enga"
 bookdescrip,Join us outside to check out the sun in all its glory! Observe via telescopes and other instruments made available to view the sun. Meet by the main doors in the lobby.
 Track,Science
@@ -14818,7 +14726,7 @@ endtimeampm,12 PM
 Location,Windover
 duration,50 minutes
 description,"Increasingly, we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
-index,328
+index,326
 speakers,"Taylor Watkins, Douglas Scholl, Heather Gutterman"
 bookdescrip,"Increasingly, we are developing the ability to study the martial traditions of many western cultures.  This panel will discuss the philosophy, source materials, tools, and techniques of modern Western martial arts."
 Track,Action Adventure
@@ -14863,7 +14771,7 @@ endtimeampm,2 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
 description,"Come learn about fencing done through the Society for Creative Anachronism (SCA)!  The SCA is a practical historical group that strives to learn about and recreate the arts and sciences of pre-17th century life.  We have a ton of fun doing all things from blacksmithing to weaving to archery to armored combat.  Here we will demonstrate our fencing!  Learn how to fence with one sword, two swords, bucklers, cloaks, and more - we teach for free and have loaner equipment at our practices at many locations around Michigan and surrounding states."
-index,329
+index,327
 speakers,Kelly Carnahan
 bookdescrip,"Come learn about fencing done through the Society for Creative Anachronism (SCA)!  The SCA is a practical historical group that strives to learn about and recreate the arts and sciences of pre-17th century life.  We have a ton of fun doing all things from blacksmithing to weaving to archery to armored combat.  Here we will demonstrate our fencing!  Learn how to fence with one sword, two swords, bucklers, cloaks, and more - we teach for free and have loaner equipment at our practices at many locations around Michigan and surrounding states."
 Track,Action Adventure
@@ -14908,7 +14816,7 @@ endtimeampm,1 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come learn all about programing in Python from Mike, a member of the Python Users Group in Ann Arbor."
-index,330
+index,328
 speakers,Mike Bernson
 bookdescrip,"Come learn all about programing in Python from Mike, a member of the Python Users Group in Ann Arbor."
 Track,Tech
@@ -14953,7 +14861,7 @@ endtimeampm,1 PM
 Location,Hamlin
 duration,50 minutes
 description,Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.
-index,331
+index,329
 speakers,Kevin Siembieda
 bookdescrip,Meet local designer Kevin Siembieda and tap his mind for ways to design your own games.
 Track,Gaming
@@ -14998,7 +14906,7 @@ endtimeampm,1 PM
 Location,Board of Regents
 duration,50 minutes
 description,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
-index,332
+index,330
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender"
 bookdescrip,"Planning meeting with the 2015 ConChair. If you're interested in helping to organize next year's convention, come offer your soul, your firstborn child... or just your help. "
 Track,Penguicon Events
@@ -15043,7 +14951,7 @@ endtimeampm,1 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts.  "
-index,333
+index,331
 speakers,"Marie Staver, Neil Funk"
 bookdescrip,"Have you ever tried, or wanted to try, polyphasic (nap-based) sleeping?  Come to this open discussion and talk to other people -- including some long-term polyphasers and the author of the book _Ubersleep_ -- about your experiences, your curiosity, or your doubts.  "
 Track,Life
@@ -15088,7 +14996,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
-index,334
+index,332
 speakers,"Ohhinaifu, The One Electronic, snesei, boaconstructor, barbeque"
 bookdescrip,Learn the tools tips and tricks for creating both 8-bit music and pixel art from some of the best artists around!  Check out this session if you're new to the chip/pixel world!
 Track,Music
@@ -15133,7 +15041,7 @@ endtimeampm,1 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Raising children can be quite a challenge at any age.  There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
-index,335
+index,333
 speakers,"Julie Hargraves, DeWain Molter"
 bookdescrip,"Raising children can be quite a challenge at any age.  There is no right or wrong way to parent, but come talk with other geeky parents about the ins and outs of parenting and raising your children to be geeky just like you or learning to cope when they turn out to be not quite as geeky as you thought they'd be."
 Track,Life
@@ -15178,7 +15086,7 @@ endtimeampm,1 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  "
-index,336
+index,334
 speakers,Chad Crabtree
 bookdescrip,"The Pascal programming language is still alive.  Free Pascal is a modern compiler for Pascal that works on nearly all platforms.  It is a low-level, object-oriented programming language that is pretty darned fast.  There will also be a demo of Lazarus, an IDE and cross platform GUI toolkit that allows one to make native applications on Windows/Linux/OSX with one code base.  Expose yourself to the granddaddy programming language that has continued to learn new tricks.  "
 Track,Tech
@@ -15223,7 +15131,7 @@ endtimeampm,4 PM
 Location,Lobby
 duration,3 hours
 description,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
-index,337
+index,335
 speakers,"Dean Martelle, Linda Martelle"
 bookdescrip,"Enjoy a fun and relaxing session of painting miniature figures, even if you don't think of yourself as an artist. We are happy to demonstrate several painting techniques, including drybrushing, washes, and face elements, including the always tricky eyes. Some free figures available (one per person per day)."
 Track,DIY
@@ -15268,7 +15176,7 @@ endtimeampm,1 PM
 Location,Montcalm
 duration,50 minutes
 description,"It's finally time: You need to visit Germany and Japan! Whatever your interest is, odds are you'll find a unique spin on it overseas that will change your life and how you view humanity. With nearly half a million transcontinental miles flown east and west, Nick Farr will regale you with tales of the geekiest highlights in both countries and tips on how to have an authentic, safe, geeky and budget-conscious international trip to Germany and Japan."
-index,338
+index,336
 speakers,Nick Farr
 bookdescrip,"It's finally time: You need to visit Germany and Japan! Whatever your interest is, odds are you'll find a unique spin on it overseas that will change your life and how you view humanity. With nearly half a million transcontinental miles flown east and west, Nick Farr will regale you with tales of the geekiest highlights in both countries and tips on how to have an authentic, safe, geeky and budget-conscious international trip to Germany and Japan."
 Track,Life
@@ -15313,7 +15221,7 @@ endtimeampm,2 PM
 Location,Nicolet
 duration,1 hour and 50 minutes
 description,Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. 
-index,339
+index,337
 speakers,Greg Allard
 bookdescrip,Find out about the work we are doing to develop open source firearms for legal personal use for self and civil defense. 
 Track,"Tech, Action Adventure"
@@ -15358,7 +15266,7 @@ endtimeampm,1 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
-index,340
+index,338
 speakers,"Shannon Marshall, Heather Gutterman, Mary Poirier, Caitlynn Poirier, Eva Galperin"
 bookdescrip,"Ever wonder if the action in films could happen in real life? Join us as we review and discuss some of the top female fighting scenes in cinema. We will watch movie clips and then examine the hand-to-hand techniques, “prop” fighting, and swordsmanship in each clip."
 Track,"Film, Action Adventure"
@@ -15403,7 +15311,7 @@ endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
 description,"Sit down with our Literature Guest of Honor, Ernie Cline, and discuss writing, his works including Ready Player One, and whatever else comes up."
-index,341
+index,339
 speakers,Ernie Cline
 bookdescrip,"Sit down with our Literature Guest of Honor, Ernie Cline, and discuss writing, his works including Ready Player One, and whatever else comes up."
 Track,Lit
@@ -15448,7 +15356,7 @@ endtimeampm,2 PM
 Location,Algonquin D
 duration,50 minutes
 description,"A history of Martian surface changes as documented by Viking, Mariner 9, Mars Global Surveyor and the Mars Reconnaissance Orbiter. Global dust storms, dust devils and persistent winds have lend to brightness variations on more then 30% of the Martian surface."
-index,342
+index,340
 speakers,Marie-therese Enga
 bookdescrip,"A history of Martian surface changes as documented by Viking, Mariner 9, Mars Global Surveyor and the Mars Reconnaissance Orbiter. Global dust storms, dust devils and persistent winds have lend to brightness variations on more then 30% of the Martian surface."
 Track,Science
@@ -15493,7 +15401,7 @@ endtimeampm,2 PM
 Location,Hamlin
 duration,50 minutes
 description,Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.
-index,343
+index,341
 speakers,Kat McConnell
 bookdescrip,Learn how to transform yourself and others into a hideous creatures that will impress your friends and terrify your enemies.
 Track,Costuming
@@ -15538,7 +15446,7 @@ endtimeampm,2 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Artists, at least since the surrealists, have employed various techniques to introduce a bit of 'chance' into the production of art pieces. One such technique is tarot cards. Aside from any possible use as a divination process, tarot cards are narratively-primed, image-rich, easily-shuffled tidbits ready to add creativity to processes such as writing. Presenter James Frederick Leach has played with ""The Cards"" as a tool for plotting, character development and whittling away at writer's block. This presentation will feature workshop components so bring your portable composition tool of choice."
-index,344
+index,342
 speakers,Jim Leach
 bookdescrip,"Artists, at least since the surrealists, have employed various techniques to introduce a bit of 'chance' into the production of art pieces. One such technique is tarot cards. Aside from any possible use as a divination process, tarot cards are narratively-primed, image-rich, easily-shuffled tidbits ready to add creativity to processes such as writing. Presenter James Frederick Leach has played with ""The Cards"" as a tool for plotting, character development and whittling away at writer's block. This presentation will feature workshop components so bring your portable composition tool of choice."
 Track,Lit
@@ -15584,7 +15492,7 @@ Location,Board of Regents
 duration,50 minutes
 description,"Meet other Christians in fandom for discussion and fellowship.
 "
-index,345
+index,343
 speakers,
 bookdescrip,Meet other Christians in fandom for discussion and fellowship. 
 Track,Life
@@ -15630,7 +15538,7 @@ endtimeampm,2 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"Why are tech positions mostly filled by men? What can we do to change this? Join our GoH, Erika Carlson, for this important discussion. "
-index,346
+index,344
 speakers,Erika Carlson
 bookdescrip,"Why are tech positions mostly filled by men? What can we do to change this? Join our GoH, Erika Carlson, for this important discussion. "
 Track,Tech
@@ -15675,7 +15583,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"The Domain Name System (DNS) is the backbone of the Internet and the most successful distributed database in history. It's also thirty years old, and perhaps the most insecure protocol in use today. DNS Security Extensions (DNSSEC) guarantees the integrity of DNS data. Deploying DNSSEC isn't that hard -- once you have a basic understanding of how it works. This talk takes you through the basics of DNSSEC and the deployment considerations. By the author of ""DNSSEC Mastery."""
-index,347
+index,345
 speakers,Michael W. Lucas
 bookdescrip,"The Domain Name System (DNS) is the backbone of the Internet and the most successful distributed database in history. It's also thirty years old, and perhaps the most insecure protocol in use today. DNS Security Extensions (DNSSEC) guarantees the integrity of DNS data. Deploying DNSSEC isn't that hard -- once you have a basic understanding of how it works. This talk takes you through the basics of DNSSEC and the deployment considerations. By the author of ""DNSSEC Mastery."""
 Track,Tech
@@ -15720,7 +15628,7 @@ endtimeampm,2 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Bringing it back due to the overwhelming request - Come join in Who's Line Is It Anyway style sketches, with a twist!  Ever wonder what would happen if you got Superman and Lex Luthor on Jerry Springer?  What if Spock had to hold a press conference apologizing for all Kirk's indiscretions?  Expect some wild and off the wall topics and skits, and laughs for all!"
-index,348
+index,346
 speakers,Derek Newland
 bookdescrip,"Bringing it back due to the overwhelming request - Come join in Who's Line Is It Anyway style sketches, with a twist!  Ever wonder what would happen if you got Superman and Lex Luthor on Jerry Springer?  What if Spock had to hold a press conference apologizing for all Kirk's indiscretions?  Expect some wild and off the wall topics and skits, and laughs for all!"
 Track,Gaming
@@ -15765,7 +15673,7 @@ endtimeampm,2 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"There's a lot of interest in LED-based grow lights for people starting plants indoors, over-wintering tropical plants, and growing medicinal herbs. Where do you start? This panel will cover basic photosynthesis and light, spectral requirements, some of the options for rolling your own grow lights using high-power LEDs.  We'll also talk about some of the issues with using LEDs."
-index,349
+index,347
 speakers,Roger Slykhouse
 bookdescrip,"There's a lot of interest in LED-based grow lights for people starting plants indoors, over-wintering tropical plants, and growing medicinal herbs. Where do you start? This panel will cover basic photosynthesis and light, spectral requirements, some of the options for rolling your own grow lights using high-power LEDs.  We'll also talk about some of the issues with using LEDs."
 Track,DIY
@@ -15810,7 +15718,7 @@ endtimeampm,2 PM
 Location,Con Suite
 duration,50 minutes
 description,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
-index,350
+index,348
 speakers,"Bill Putt, Anthony Distel"
 bookdescrip,"Watch as Bill and Anthony actually make a two-liter of soda during a live demonstration. They'll explain how to make it, why they use different processes, and take suggestions for flavors from the audience."
 Track,Food
@@ -15855,7 +15763,7 @@ endtimeampm,2 PM
 Location,Food Track (Room 1017)
 duration,50 minutes
 description,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
-index,351
+index,349
 speakers,"Caitlynn Poirier, Heather Gutterman, Taylor Watkins"
 bookdescrip,"Mead is delicious. Everybody loves mead, unless you're a communist. So wouldn't you like to know how to make some? We will discuss the basics and shortcuts of mead making. There will also be home-made mead for tasting at the end!  21 and over, please."
 Track,"Food, After Dark"
@@ -15900,7 +15808,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Be the boss in this fast-paced card game of survival on the mean streets. ""Family Business"" pits mobsters against each other - all working to make sure theirs is the last family standing!"
-index,352
+index,350
 speakers,
 bookdescrip,"Be the boss in this fast-paced card game of survival on the mean streets. ""Family Business"" pits mobsters against each other - all working to make sure theirs is the last family standing!"
 Track,Gaming
@@ -15945,7 +15853,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
 description,"Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can. "
-index,353
+index,351
 speakers,
 bookdescrip,"Have you ever had the urge to start beating some know-it-all who really deserved it, but were held back by those frustrating social boundaries? Ever wanted to go psycho on a bunch of bleached-blonde cheerleaders, or the pretentious beatnick at the corner coffee shop? Ever wanted to achieve fame through your horrifying actions? This game may help relieve that urge. In Let's Kill you play a psychotic killer determined to kill as many people as possible in the most bizarre ways you can think of, using everything from sporks to weed whackers to industrial paper shredders, while gaining as much media coverage as you can. "
 Track,Gaming
@@ -15990,7 +15898,7 @@ endtimeampm,2 PM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,354
+index,352
 speakers,"Ed Mason, 
 Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
@@ -16037,7 +15945,7 @@ endtimeampm,2 PM
 Location,Montcalm
 duration,50 minutes
 description,"An exploration of the fine line between the field of neuroscience and science fiction. Cutting edge neuroscientific research tends to sound more like science fiction year by year. Can you tell the difference between science fiction and cutting edge neuroscience? Topics include both molecular/cellular/developmental neuroscience, and behavioral neuroscience. See if you're up to date on the latest developments in the understanding of man's most complex machine, the human brain!"
-index,355
+index,353
 speakers,Heather Aman
 bookdescrip,"An exploration of the fine line between the field of neuroscience and science fiction. Cutting edge neuroscientific research tends to sound more like science fiction year by year. Can you tell the difference between science fiction and cutting edge neuroscience? Topics include both molecular/cellular/developmental neuroscience, and behavioral neuroscience. See if you're up to date on the latest developments in the understanding of man's most complex machine, the human brain!"
 Track,Science
@@ -16082,7 +15990,7 @@ endtimeampm,2 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"""The status is not quo."" 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog."" Costumes welcome!"
-index,356
+index,354
 speakers,"Shannon Marshall, Maggie Maiville, Caitlynn Poirier"
 bookdescrip,"""The status is not quo."" 45 minutes of watching and singing along to “Dr. Horrible’s Sing-A-Long Blog."" Costumes welcome!"
 Track,Film
@@ -16127,7 +16035,7 @@ endtimeampm,3 PM
 Location,Windover
 duration,1 hour and 50 minutes
 description,Readings by Literature Track Guests and Panelists
-index,357
+index,355
 speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
 bookdescrip,Readings by Literature Track Guests and Panelists
 Track,Lit
@@ -16172,7 +16080,7 @@ endtimeampm,3 PM
 Location,Algonquin A
 duration,50 minutes
 description,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
-index,358
+index,356
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 bookdescrip,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
@@ -16217,7 +16125,7 @@ endtimeampm,3 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Come talk about guns with a firearms instructor and writer. The panel will briefly discuss the history of firearms with a focus on modern and near future tech. Learn more about how guns work, how to write convincing scenes with firearms, and how knowing more about guns can help both your world building and character development. NOTE: This is NOT the ""Geeks with Guns' event. "
-index,359
+index,357
 speakers,Rob Reed
 bookdescrip,"Come talk about guns with a firearms instructor and writer. The panel will briefly discuss the history of firearms with a focus on modern and near future tech. Learn more about how guns work, how to write convincing scenes with firearms, and how knowing more about guns can help both your world building and character development. NOTE: This is NOT the ""Geeks with Guns' event. "
 Track,Lit
@@ -16262,7 +16170,7 @@ endtimeampm,3 PM
 Location,Hamlin
 duration,50 minutes
 description,Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like?
-index,360
+index,358
 speakers,
 bookdescrip,Movie making has become cheaper and easier. There are a number of fairly good quality amateur free movies/videos out there.  Which ones have you seen?  What did you like?
 Track,Film
@@ -16307,7 +16215,7 @@ endtimeampm,3 PM
 Location,Board of Governors
 duration,50 minutes
 description,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast & crew of Midnight Monster Movies with Dr. Bob with Q&A.
-index,361
+index,359
 speakers,"Robert Gilbert, Melanie Gilbert"
 bookdescrip,Ever wonder what went into making a midnight movie host show? Curious about how Dr. Bob Tesla and his crew came to be? Want to know why we did what did and didn't do what we didn't? This is your chance! A behind-the-scenes talk with the cast &amp; crew of Midnight Monster Movies with Dr. Bob with Q&amp;A.
 Track,Film
@@ -16352,7 +16260,7 @@ endtimeampm,3 PM
 Location,Board of Regents
 duration,50 minutes
 description,An open discussion for folks who knows ASL (American Sign Language) or have an interest in it. Come chat with us and learn some ASL or just work on your ASL skills! 
-index,362
+index,360
 speakers,Paul Berens
 bookdescrip,An open discussion for folks who knows ASL (American Sign Language) or have an interest in it. Come chat with us and learn some ASL or just work on your ASL skills! 
 Track,Life
@@ -16397,7 +16305,7 @@ endtimeampm,3 PM
 Location,Board of Trustees
 duration,50 minutes
 description,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
-index,363
+index,361
 speakers,"Janet Gocay, Nuri Gocay, Scott Kennedy, Steve Gutterman"
 bookdescrip,Penguicon will be throwing a two-night room party at Detcon1. Come help with the plans for this most epic of parties!
 Track,Penguicon Events
@@ -16442,7 +16350,7 @@ endtimeampm,3 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Join filker and synthesizer geek Jim Poltrone on a brief tour of some open-source music composition tools available to the Linux user. Items covered include (but not limited to) music composing/sequencing software Rosegarden, the audio redirection program JACK, to music publishing program Lilypond."
-index,364
+index,362
 speakers,Jim Poltrone
 bookdescrip,"Join filker and synthesizer geek Jim Poltrone on a brief tour of some open-source music composition tools available to the Linux user. Items covered include (but not limited to) music composing/sequencing software Rosegarden, the audio redirection program JACK, to music publishing program Lilypond."
 Track,Music
@@ -16487,7 +16395,7 @@ endtimeampm,3 PM
 Location,Gaming (Restaurant)
 duration,50 minutes
 description,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
-index,365
+index,363
 speakers,"William Meyer, Kim Horger"
 bookdescrip,"In MovieMashups, teams of 2-4 players compete to prove their knowledge of mixed-up movies. The winning team will walk away with one deck of cards."
 Track,Gaming
@@ -16532,7 +16440,7 @@ endtimeampm,3 PM
 Location,Montcalm
 duration,50 minutes
 description,What are your core strengths? How can you integrate your unique combination of talents and innate abilities into your personal and professional life? Focusing on what we do well provides greater opportunities for success and helps establish the foundation for some of our more dormant talents to develop and flourish. Come learn how to enjoy a better quality of life by focusing on your strengths.
-index,366
+index,364
 speakers,Melissa Wren
 bookdescrip,What are your core strengths? How can you integrate your unique combination of talents and innate abilities into your personal and professional life? Focusing on what we do well provides greater opportunities for success and helps establish the foundation for some of our more dormant talents to develop and flourish. Come learn how to enjoy a better quality of life by focusing on your strengths.
 Track,Life
@@ -16577,7 +16485,7 @@ endtimeampm,3 PM
 Location,Nicolet
 duration,50 minutes
 description,"We will discuss and show off several kit examples of Arduino watches and clocks, and go over libraries for timekeeping and reading battery-backed clock chips."
-index,367
+index,365
 speakers,Ethan Dicks
 bookdescrip,"We will discuss and show off several kit examples of Arduino watches and clocks, and go over libraries for timekeeping and reading battery-backed clock chips."
 Track,Tech
@@ -16622,7 +16530,7 @@ endtimeampm,3 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Check out Game Bangers: The Webseries. A D&D Parody where table top gaming has been illegalized. Gamers must resort to underground gaming dens to play, while hiding from the police trying to bust them."
-index,368
+index,366
 speakers,
 bookdescrip,"Check out Game Bangers: The Webseries. A D&amp;D Parody where table top gaming has been illegalized. Gamers must resort to underground gaming dens to play, while hiding from the police trying to bust them."
 Track,Film
@@ -16667,7 +16575,7 @@ endtimeampm,4 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
-index,369
+index,367
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Ed Mason, Vinny Rawlley, Erika Carlson, Eva Galperin, Ernie Cline, YTCracker"
 bookdescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 Track,Penguicon Events
