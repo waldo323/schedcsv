@@ -11547,10 +11547,10 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Food Track (Room 1017)
 duration,1 hour and 50 minutes
-description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops."
+description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!"
 index,256
 speakers,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
-bookdescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops."
+bookdescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!"
 Track,"Food, After Dark"
 startday,5/3/2014
 Title,Completely Random Guide to Cocktail Crafting
@@ -11560,7 +11560,7 @@ starttimeampm,9 PM
 End Time,22:50
 tracknosp,"['Food', 'AfterDark']"
 endday,5/3/2014
-input,"['5/3/2014', '21:00', '5/3/2014', '22:50', 'Food Track (Room 1017)', 'Food, After Dark', 'Completely Random Guide to Cocktail Crafting', 'Nathan Balyeat, Olesh Hotra, Cameron Taylor', 'Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '21:00', '5/3/2014', '22:50', 'Food Track (Room 1017)', 'Food, After Dark', 'Completely Random Guide to Cocktail Crafting', 'Nathan Balyeat, Olesh Hotra, Cameron Taylor', 'Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
 avneeds,none
@@ -11568,16 +11568,16 @@ speakerlist,"['Nathan Balyeat', 'Olesh Hotra', 'Cameron Taylor']"
 hours,1
 totalminutes,110
 speakernosplist,"['NathanBalyeat', 'OleshHotra', 'CameronTaylor']"
-caldescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops."
+caldescrip,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke, but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!"
 endtime,22:50
 AV Needs,
 name,Completely Random Guide to Cocktail Crafting
 Private,PUBLIC
 bookname,Completely Random Guide to Cocktail Crafting
 venue,Food Track (Room 1017)
-Book Description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke? Are you an adult who adores rum and coke, but are looking to make one better? Are you interested in trying new things? Do you want to just get free drink samples? Sign-up at Ops."
+Book Description,"Are you a responsible adult, over the age of 21, who has never had anything more complex or interesting to drink than a rum and coke? Are you an adult who adores rum and coke, but are looking to make one better? Are you interested in trying new things? Do you want to just get free drink samples? Sign up at Ops!"
 Presenters,"Nathan Balyeat, Olesh Hotra, Cameron Taylor"
-csvsafedescrip,Are you a responsible adult- over the age of 21- who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke- but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign-up at Ops.
+csvsafedescrip,Are you a responsible adult- over the age of 21- who has never had anything more complex or interesting to drink than a rum and coke?  Are you an adult who adores rum and coke- but are looking to make one better?  Are you interested in trying new things?  Do you want to just get free drink samples?  Sign up at Ops!
 speakernosp,"NathanBalyeat,OleshHotra,CameronTaylor"
 starttime,21:00
 roomnosp,FoodTrackRoom1017
@@ -13044,10 +13044,10 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Board of Trustees
 duration,1 hour and 50 minutes
-description,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting."
+description,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
 index,289
 speakers,Melissa Ebbe
-bookdescrip,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting."
+bookdescrip,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
 Track,DIY
 startday,5/4/2014
 Title,Basic Silicone Molding and Resin Casting Techniques
@@ -13057,7 +13057,7 @@ starttimeampm,10 AM
 End Time,11:50
 tracknosp,['DIY']
 endday,5/4/2014
-input,"['5/4/2014', '10:00', '5/4/2014', '11:50', 'Board of Trustees', 'DIY', 'Basic Silicone Molding and Resin Casting Techniques', 'Melissa Ebbe', 'Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting.', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '10:00', '5/4/2014', '11:50', 'Board of Trustees', 'DIY', 'Basic Silicone Molding and Resin Casting Techniques', 'Melissa Ebbe', 'Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. ', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,Melissa Ebbe
 avneeds,none
@@ -13065,16 +13065,16 @@ speakerlist,['Melissa Ebbe']
 hours,1
 totalminutes,110
 speakernosplist,['MelissaEbbe']
-caldescrip,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting."
+caldescrip,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
 endtime,11:50
 AV Needs,
 name,Basic Silicone Molding and Resin Casting Techniques
 Private,PUBLIC
 bookname,Basic Silicone Molding and Resin Casting Techniques
 venue,Board of Trustees
-Book Description,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting."
+Book Description,"Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon, cat, or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. "
 Presenters,Melissa Ebbe
-csvsafedescrip,Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon- cat- or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting.
+csvsafedescrip,Learn how to make a simple silicone block mold and then cast your very own small sculpture (dragon- cat- or penguin) to take with you! Silicone types and resin types will be discussed as well as troubleshooting. Please sign up in advance at Ops. 
 speakernosp,MelissaEbbe
 starttime,10:00
 roomnosp,BoardofTrustees
