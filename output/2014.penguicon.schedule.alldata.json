@@ -8263,7 +8263,7 @@
         "duration": "50 minutes",
         "description": "Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle?",
         "index": 119,
-        "speakers": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle",
+        "speakers": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle, Jon David",
         "bookdescrip": "Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle?",
         "Track": "Lit",
         "startday": "5/3/2014",
@@ -8284,26 +8284,28 @@
             "Hamlin",
             "Lit",
             "Digging Up The Same Old Ground",
-            "Sean M. Davis, Ferrett Steinmetz, Nicole Castle",
+            "Sean M. Davis, Ferrett Steinmetz, Nicole Castle, Jon David",
             "Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle?",
             "FALSE",
             "PUBLIC",
             ""
         ],
         "End Date": "5/3/2014",
-        "calspeakers": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle",
+        "calspeakers": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle, Jon David",
         "avneeds": "none",
         "speakerlist": [
             "Sean M. Davis",
             "Ferrett Steinmetz",
-            "Nicole Castle"
+            "Nicole Castle",
+            "Jon David"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "SeanM.Davis",
             "FerrettSteinmetz",
-            "NicoleCastle"
+            "NicoleCastle",
+            "JonDavid"
         ],
         "caldescrip": "Are there any new stories left, or is everything just a retread of an old idea?  What is a retread, and what is a legitimately new angle?",
         "endtime": "11:50",
@@ -8313,9 +8315,9 @@
         "bookname": "Digging Up The Same Old Ground",
         "venue": "Hamlin",
         "Book Description": "Are there any new stories left, or is everything just a retread of an old idea? What is a retread, and what is a legitimately new angle?",
-        "Presenters": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle",
+        "Presenters": "Sean M. Davis, Ferrett Steinmetz, Nicole Castle, Jon David",
         "csvsafedescrip": "Are there any new stories left- or is everything just a retread of an old idea?  What is a retread- and what is a legitimately new angle?",
-        "speakernosp": "SeanM.Davis,FerrettSteinmetz,NicoleCastle",
+        "speakernosp": "SeanM.Davis,FerrettSteinmetz,NicoleCastle,JonDavid",
         "starttime": "11:00",
         "roomnosp": "Hamlin",
         "Start Date": "5/3/2014",
