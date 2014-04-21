@@ -1447,20 +1447,20 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Charlevoix B
 duration,50 minutes
-description,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
+description,"Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident, instead of creepy."
 index,32
 speakers,"Mitch Peters, Jennifer Peters, Julie Hargraves"
-bookdescrip,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
+bookdescrip,"Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident, instead of creepy."
 Track,Life
 startday,5/2/2014
-Title,Body Language for Nerds
+Title,"Nerd Skills: Body Language, Communication, and More!"
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,['Life']
 endday,5/2/2014
-input,"['5/2/2014', '18:00', '5/2/2014', '18:50', 'Charlevoix B', 'Life', 'Body Language for Nerds', 'Mitch Peters, Jennifer Peters, Julie Hargraves', ""Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."", 'FALSE', 'PUBLIC', '']"
+input,"['5/2/2014', '18:00', '5/2/2014', '18:50', 'Charlevoix B', 'Life', 'Nerd Skills: Body Language, Communication, and More!', 'Mitch Peters, Jennifer Peters, Julie Hargraves', 'Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident, instead of creepy.', 'FALSE', 'PUBLIC', '']"
 End Date,5/2/2014
 calspeakers,"Mitch Peters, Jennifer Peters, Julie Hargraves"
 avneeds,none
@@ -1468,16 +1468,16 @@ speakerlist,"['Mitch Peters', 'Jennifer Peters', 'Julie Hargraves']"
 hours,0
 totalminutes,50
 speakernosplist,"['MitchPeters', 'JenniferPeters', 'JulieHargraves']"
-caldescrip,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
+caldescrip,"Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident, instead of creepy."
 endtime,18:50
 AV Needs,
-name,Body Language for Nerds
+name,"Nerd Skills: Body Language, Communication, and More!"
 Private,PUBLIC
-bookname,Body Language for Nerds
+bookname,"Nerd Skills: Body Language, Communication, and More!"
 venue,Charlevoix B
-Book Description,"Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace, and also give tips on how to come off as confident, instead of creepy."
+Book Description,"Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident, instead of creepy."
 Presenters,"Mitch Peters, Jennifer Peters, Julie Hargraves"
-csvsafedescrip,Body language can be a difficult thing to read without some experience. We'll illuminate some of the more common body language people displace- and also give tips on how to come off as confident- instead of creepy.
+csvsafedescrip,Come discuss the best ways to communicate with your fellow nerds! Learn to use body language and communication techniques that will help you come off as confident- instead of creepy.
 speakernosp,"MitchPeters,JenniferPeters,JulieHargraves"
 starttime,18:00
 roomnosp,CharlevoixB
@@ -7495,7 +7495,8 @@ Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 index,166
-speakers,Ed Mason
+speakers,"Ed Mason, 
+Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 Track,Tech
 startday,5/3/2014
@@ -7506,14 +7507,15 @@ starttimeampm,2 PM
 End Time,14:50
 tracknosp,['Tech']
 endday,5/3/2014
-input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '14:00', '5/3/2014', '14:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason, \nVinny Rawlley', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,Ed Mason
+calspeakers,"Ed Mason, 
+Vinny Rawlley"
 avneeds,none
-speakerlist,['Ed Mason']
+speakerlist,"['Ed Mason', '\nVinny Rawlley']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['EdMason', 'VinnyRawlley']"
 caldescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 endtime,14:50
 AV Needs,
@@ -7522,9 +7524,9 @@ Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs 
 venue,Lobby
 Book Description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-Presenters,Ed Mason
+Presenters,"Ed Mason, Vinny Rawlley"
 csvsafedescrip,Come try Game Face Labs' 3D printed- Android based- wireless virtual reality headset. You know you want to!
-speakernosp,EdMason
+speakernosp,"EdMason,VinnyRawlley"
 starttime,14:00
 roomnosp,Lobby
 Start Date,5/3/2014
@@ -9790,7 +9792,8 @@ Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 index,217
-speakers,Ed Mason
+speakers,"Ed Mason, 
+Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 Track,Tech
 startday,5/3/2014
@@ -9801,14 +9804,15 @@ starttimeampm,6 PM
 End Time,18:50
 tracknosp,['Tech']
 endday,5/3/2014
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason, \nVinny Rawlley', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
-calspeakers,Ed Mason
+calspeakers,"Ed Mason, 
+Vinny Rawlley"
 avneeds,none
-speakerlist,['Ed Mason']
+speakerlist,"['Ed Mason', '\nVinny Rawlley']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['EdMason', 'VinnyRawlley']"
 caldescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 endtime,18:50
 AV Needs,
@@ -9817,9 +9821,9 @@ Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs 
 venue,Lobby
 Book Description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-Presenters,Ed Mason
+Presenters,"Ed Mason, Vinny Rawlley"
 csvsafedescrip,Come try Game Face Labs' 3D printed- Android based- wireless virtual reality headset. You know you want to!
-speakernosp,EdMason
+speakernosp,"EdMason,VinnyRawlley"
 starttime,18:00
 roomnosp,Lobby
 Start Date,5/3/2014
@@ -11009,7 +11013,8 @@ Location,Montcalm
 duration,50 minutes
 description,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
 index,244
-speakers,Ed Mason
+speakers,"Ed Mason, 
+Vinny Rawlley"
 bookdescrip,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
 Track,Tech
 startday,5/3/2014
@@ -11020,14 +11025,15 @@ starttimeampm,8 PM
 End Time,20:50
 tracknosp,['Tech']
 endday,5/3/2014
-input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Montcalm', 'Tech', 'Inside Game Face Labs', 'Ed Mason', 'Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. ', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Montcalm', 'Tech', 'Inside Game Face Labs', 'Ed Mason, \nVinny Rawlley', 'Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. ', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,5/3/2014
-calspeakers,Ed Mason
+calspeakers,"Ed Mason, 
+Vinny Rawlley"
 avneeds,Projector
-speakerlist,['Ed Mason']
+speakerlist,"['Ed Mason', '\nVinny Rawlley']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['EdMason', 'VinnyRawlley']"
 caldescrip,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
 endtime,20:50
 AV Needs,Projector
@@ -11036,9 +11042,9 @@ Private,PUBLIC
 bookname,Inside Game Face Labs
 venue,Montcalm
 Book Description,"Join Ed Mason, CEO of Game Face Labs, as he gives you a behind the scenes look at making virtual reality come to life. "
-Presenters,Ed Mason
+Presenters,"Ed Mason, Vinny Rawlley"
 csvsafedescrip,Join Ed Mason- CEO of Game Face Labs- as he gives you a behind the scenes look at making virtual reality come to life. 
-speakernosp,EdMason
+speakernosp,"EdMason,VinnyRawlley"
 starttime,20:00
 roomnosp,Montcalm
 Start Date,5/3/2014
@@ -13903,7 +13909,8 @@ Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 index,308
-speakers,Ed Mason
+speakers,"Ed Mason, 
+Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 Track,Tech
 startday,5/4/2014
@@ -13914,14 +13921,15 @@ starttimeampm,11 AM
 End Time,11:50
 tracknosp,['Tech']
 endday,5/4/2014
-input,"['5/4/2014', '11:00', '5/4/2014', '11:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '11:00', '5/4/2014', '11:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason, \nVinny Rawlley', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,Ed Mason
+calspeakers,"Ed Mason, 
+Vinny Rawlley"
 avneeds,none
-speakerlist,['Ed Mason']
+speakerlist,"['Ed Mason', '\nVinny Rawlley']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['EdMason', 'VinnyRawlley']"
 caldescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 endtime,11:50
 AV Needs,
@@ -13930,9 +13938,9 @@ Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs 
 venue,Lobby
 Book Description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-Presenters,Ed Mason
+Presenters,"Ed Mason, Vinny Rawlley"
 csvsafedescrip,Come try Game Face Labs' 3D printed- Android based- wireless virtual reality headset. You know you want to!
-speakernosp,EdMason
+speakernosp,"EdMason,VinnyRawlley"
 starttime,11:00
 roomnosp,Lobby
 Start Date,5/4/2014
@@ -15979,7 +15987,8 @@ Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 index,354
-speakers,Ed Mason
+speakers,"Ed Mason, 
+Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 Track,Tech
 startday,5/4/2014
@@ -15990,14 +15999,15 @@ starttimeampm,2 PM
 End Time,14:50
 tracknosp,['Tech']
 endday,5/4/2014
-input,"['5/4/2014', '14:00', '5/4/2014', '14:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '14:00', '5/4/2014', '14:50', 'Lobby', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs ', 'Ed Mason, \nVinny Rawlley', ""Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"", 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,Ed Mason
+calspeakers,"Ed Mason, 
+Vinny Rawlley"
 avneeds,none
-speakerlist,['Ed Mason']
+speakerlist,"['Ed Mason', '\nVinny Rawlley']"
 hours,0
 totalminutes,50
-speakernosplist,['EdMason']
+speakernosplist,"['EdMason', 'VinnyRawlley']"
 caldescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
 endtime,14:50
 AV Needs,
@@ -16006,9 +16016,9 @@ Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs 
 venue,Lobby
 Book Description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-Presenters,Ed Mason
+Presenters,"Ed Mason, Vinny Rawlley"
 csvsafedescrip,Come try Game Face Labs' 3D printed- Android based- wireless virtual reality headset. You know you want to!
-speakernosp,EdMason
+speakernosp,"EdMason,VinnyRawlley"
 starttime,14:00
 roomnosp,Lobby
 Start Date,5/4/2014
