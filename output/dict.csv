@@ -5108,10 +5108,10 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
-description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
+description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!"
 index,113
 speakers,Bill Korsak
-bookdescrip,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
+bookdescrip,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!"
 Track,Gaming
 startday,5/3/2014
 Title,Chopped GM - Penguicon
@@ -5121,7 +5121,7 @@ starttimeampm,10 AM
 End Time,12:50
 tracknosp,['Gaming']
 endday,5/3/2014
-input,"['5/3/2014', '10:00', '5/3/2014', '12:50', 'Gaming (Restaurant)', 'Gaming', 'Chopped GM - Penguicon', 'Bill Korsak', 'Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players\' creative muscles. Have you got what it takes to win the contest?', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '10:00', '5/3/2014', '12:50', 'Gaming (Restaurant)', 'Gaming', 'Chopped GM - Penguicon', 'Bill Korsak', 'Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players\' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Bill Korsak
 avneeds,none
@@ -5129,16 +5129,16 @@ speakerlist,['Bill Korsak']
 hours,2
 totalminutes,170
 speakernosplist,['BillKorsak']
-caldescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
+caldescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!
 endtime,12:50
 AV Needs,
 name,Chopped GM - Penguicon
 Private,PUBLIC
 bookname,Chopped GM - Penguicon
 venue,Gaming (Restaurant)
-Book Description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?"
+Book Description,"Fifteen players will have a chance to become the first winner of ""Chopped GM."" There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!"
 Presenters,Bill Korsak
-csvsafedescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest?
+csvsafedescrip,Fifteen players will have a chance to become the first winner of 'Chopped GM.' There will be four random elements to test and stretch players' creative muscles. Have you got what it takes to win the contest? Sign up at Ops!
 speakernosp,BillKorsak
 starttime,10:00
 roomnosp,GamingRestaurant
@@ -8888,10 +8888,10 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Algonquin A
 duration,50 minutes
-description,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+description,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 index,197
 speakers,"Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
-bookdescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+bookdescrip,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
 startday,5/3/2014
 Title,Western Spear Techniques Workshop
@@ -8901,7 +8901,7 @@ starttimeampm,5 PM
 End Time,17:50
 tracknosp,['ActionAdventure']
 endday,5/3/2014
-input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Algonquin A', 'Action Adventure', 'Western Spear Techniques Workshop', 'Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman', 'Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Algonquin A', 'Action Adventure', 'Western Spear Techniques Workshop', 'Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman', 'Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 avneeds,none
@@ -8909,16 +8909,16 @@ speakerlist,"['Taylor Watkins', 'Mary Poirier', 'Douglas Scholl', 'Michael Spagn
 hours,0
 totalminutes,50
 speakernosplist,"['TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
-caldescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+caldescrip,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 endtime,17:50
 AV Needs,
 name,Western Spear Techniques Workshop
 Private,PUBLIC
 bookname,Western Spear Techniques Workshop
 venue,Algonquin A
-Book Description,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+Book Description,"Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Presenters,"Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
-csvsafedescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+csvsafedescrip,Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop- so please sign up at Ops!
 speakernosp,"TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,17:00
 roomnosp,AlgonquinA
@@ -9383,10 +9383,10 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Algonquin A
 duration,50 minutes
-description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops."
+description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 index,208
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
-bookdescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops."
+bookdescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
 startday,5/3/2014
 Title,Throwing and Catching Practice Swords
@@ -9396,7 +9396,7 @@ starttimeampm,6 PM
 End Time,18:50
 tracknosp,['ActionAdventure']
 endday,5/3/2014
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Algonquin A', 'Action Adventure', 'Throwing and Catching Practice Swords', 'Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman', 'Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Algonquin A', 'Action Adventure', 'Throwing and Catching Practice Swords', 'Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman', 'Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
 avneeds,none
@@ -9404,16 +9404,16 @@ speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirie
 hours,0
 totalminutes,50
 speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'DouglasTobin', 'HeatherGutterman']"
-caldescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops."
+caldescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 endtime,18:50
 AV Needs,
 name,Throwing and Catching Practice Swords
 Private,PUBLIC
 bookname,Throwing and Catching Practice Swords
 venue,Algonquin A
-Book Description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops."
+Book Description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
-csvsafedescrip,Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety- we will be using training weapons. There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+csvsafedescrip,Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety- we will be using training weapons. There are a limited number of available spaces for this workshop- so please sign up at Ops!
 speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,DouglasTobin,HeatherGutterman"
 starttime,18:00
 roomnosp,AlgonquinA
@@ -9653,10 +9653,10 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Charlevoix A
 duration,50 minutes
-description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided."
+description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 index,214
 speakers,Jim Poltrone
-bookdescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided."
+bookdescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 Track,Music
 startday,5/3/2014
 Title,Test Drive a Minimoog
@@ -9666,7 +9666,7 @@ starttimeampm,6 PM
 End Time,18:50
 tracknosp,['Music']
 endday,5/3/2014
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Charlevoix A', 'Music', 'Test Drive a Minimoog', 'Jim Poltrone', 'Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided.', 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Charlevoix A', 'Music', 'Test Drive a Minimoog', 'Jim Poltrone', 'Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,Jim Poltrone
 avneeds,none
@@ -9674,16 +9674,16 @@ speakerlist,['Jim Poltrone']
 hours,0
 totalminutes,50
 speakernosplist,['JimPoltrone']
-caldescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided."
+caldescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 endtime,18:50
 AV Needs,
 name,Test Drive a Minimoog
 Private,PUBLIC
 bookname,Test Drive a Minimoog
 venue,Charlevoix A
-Book Description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided."
+Book Description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 Presenters,Jim Poltrone
-csvsafedescrip,Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth- and encourage interested people to create their own sounds with it. Patch sheets will be provided.
+csvsafedescrip,Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth- and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!
 speakernosp,JimPoltrone
 starttime,18:00
 roomnosp,CharlevoixA
@@ -14486,10 +14486,10 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Gaming (Restaurant)
 duration,1 hour and 50 minutes
-description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
+description,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 index,321
 speakers,Richard Houser
-bookdescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
+bookdescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 Track,Gaming
 startday,5/4/2014
 Title,Rick's Big Box of Games
@@ -14499,7 +14499,7 @@ starttimeampm,12 PM
 End Time,13:50
 tracknosp,['Gaming']
 endday,5/4/2014
-input,"['5/4/2014', '12:00', '5/4/2014', '13:50', 'Gaming (Restaurant)', 'Gaming', ""Rick's Big Box of Games"", 'Richard Houser', 'Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins.', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '12:00', '5/4/2014', '13:50', 'Gaming (Restaurant)', 'Gaming', ""Rick's Big Box of Games"", 'Richard Houser', 'Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins.', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,Richard Houser
 avneeds,none
@@ -14507,16 +14507,16 @@ speakerlist,['Richard Houser']
 hours,1
 totalminutes,110
 speakernosplist,['RichardHouser']
-caldescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
+caldescrip,"Pick from a variety of games and play for a while!  Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play.  Some games have limited space, so sign up in advance at Ops and vote for your favourite titles.  New players are welcome, as are walk-ins."
 endtime,13:50
 AV Needs,
 name,Rick's Big Box of Games
 Private,PUBLIC
 bookname,Rick's Big Box of Games
 venue,Gaming (Restaurant)
-Book Description,"Pick from a variety of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play. Some games have limited space, so sign-up in advance at Ops and vote for your favourite titles. New players are welcome, as are walk-ins."
+Book Description,"Pick from a variety of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride, Settlers of Catan, Castle Panic, Zombies!!!, Chess, and more. Participants will select which specific games to play. Some games have limited space, so sign up in advance at Ops and vote for your favourite titles. New players are welcome, as are walk-ins."
 Presenters,Richard Houser
-csvsafedescrip,Pick from a variety of games and play for a while!  Options include: Munchkin- Back to the Future- Dominion- Star Trek DBG- Smallworld- Ticket to Ride- Settlers of Catan- Castle Panic- Zombies!!!- Chess- and more. Participants will select which specific games to play.  Some games have limited space- so sign-up in advance at Ops and vote for your favourite titles.  New players are welcome- as are walk-ins.
+csvsafedescrip,Pick from a variety of games and play for a while!  Options include: Munchkin- Back to the Future- Dominion- Star Trek DBG- Smallworld- Ticket to Ride- Settlers of Catan- Castle Panic- Zombies!!!- Chess- and more. Participants will select which specific games to play.  Some games have limited space- so sign up in advance at Ops and vote for your favourite titles.  New players are welcome- as are walk-ins.
 speakernosp,RichardHouser
 starttime,12:00
 roomnosp,GamingRestaurant
@@ -16157,10 +16157,10 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Algonquin A
 duration,50 minutes
-description,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+description,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 index,358
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
-bookdescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+bookdescrip,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
 startday,5/4/2014
 Title,Western Swordsmanship Workshop
@@ -16170,7 +16170,7 @@ starttimeampm,3 PM
 End Time,15:50
 tracknosp,['ActionAdventure']
 endday,5/4/2014
-input,"['5/4/2014', '15:00', '5/4/2014', '15:50', 'Algonquin A', 'Action Adventure', 'Western Swordsmanship Workshop', 'Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman', 'Learn to use a sword! \xc2\xa0In this active workshop you will learn swordsmanship techniques drawn from western historical sources. \xc2\xa0Come dressed and ready to move. \xc2\xa0There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '15:00', '5/4/2014', '15:50', 'Algonquin A', 'Action Adventure', 'Western Swordsmanship Workshop', 'Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman', 'Learn to use a sword! \xc2\xa0In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
 avneeds,none
@@ -16178,16 +16178,16 @@ speakerlist,"['Matthew William', 'Jeanine Ecker', 'Taylor Watkins', 'Mary Poirie
 hours,0
 totalminutes,50
 speakernosplist,"['MatthewWilliam', 'JeanineEcker', 'TaylorWatkins', 'MaryPoirier', 'DouglasScholl', 'MichaelSpagnolio', 'DouglasTobin', 'HeatherGutterman']"
-caldescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+caldescrip,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 endtime,15:50
 AV Needs,
 name,Western Swordsmanship Workshop
 Private,PUBLIC
 bookname,Western Swordsmanship Workshop
 venue,Algonquin A
-Book Description,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+Book Description,"Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Presenters,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Michael Spagnolio, Douglas Tobin, Heather Gutterman"
-csvsafedescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources.  Come dressed and ready to move.  There are a limited number of available spaces for this workshop. You must sign-up ahead in Ops.
+csvsafedescrip,Learn to use a sword!  In this active workshop you will learn swordsmanship techniques drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop- so please sign up at Ops!
 speakernosp,"MatthewWilliam,JeanineEcker,TaylorWatkins,MaryPoirier,DouglasScholl,MichaelSpagnolio,DouglasTobin,HeatherGutterman"
 starttime,15:00
 roomnosp,AlgonquinA
