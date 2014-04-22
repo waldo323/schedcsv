@@ -5485,5 +5485,19 @@
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+        "end_date": "5/3/2014",
+        "title": "Armour Academy: Chainmail!",
+        "track": "Costuming",
+        "start_time": "16:00",
+        "presenters": [
+            "Alexander Kostrzewa"
+        ],
+        "location": "Board of Regents",
+        "minutes": 110,
+        "start_date": "5/3/2014",
+        "end_time": "17:50"
     }
 ]

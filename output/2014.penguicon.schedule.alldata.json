@@ -25742,5 +25742,73 @@
         "roomnosp": "AlgonquinBC",
         "Start Date": "5/4/2014",
         "minutes": "50"
+    },
+    {
+        "allday": "FALSE",
+        "event_type": "Costuming",
+        "All Day Event": "",
+        "event_end": "17:50",
+        "event_type_list": [
+            "Costuming"
+        ],
+        "private": "DEFAULT",
+        "endtimeampm": "5 PM",
+        "Location": "Board of Regents",
+        "duration": "1 hour and 50 minutes",
+        "description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+        "index": 368,
+        "speakers": "Alexander Kostrzewa",
+        "bookdescrip": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+        "Track": "Costuming",
+        "startday": "5/3/2014",
+        "Title": "Armour Academy: Chainmail!",
+        "Start Time": "16:00",
+        "event_start": "16:00",
+        "starttimeampm": "4 PM",
+        "End Time": "17:50",
+        "tracknosp": [
+            "Costuming"
+        ],
+        "endday": "5/3/2014",
+        "input": [
+            "5/3/2014",
+            "16:00",
+            "5/3/2014",
+            "17:50",
+            "Board of Regents",
+            "Costuming",
+            "Armour Academy: Chainmail!",
+            "Alexander Kostrzewa",
+            "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+            "",
+            "",
+            ""
+        ],
+        "End Date": "5/3/2014",
+        "calspeakers": "Alexander Kostrzewa",
+        "avneeds": "none",
+        "speakerlist": [
+            "Alexander Kostrzewa"
+        ],
+        "hours": 1,
+        "totalminutes": 110,
+        "speakernosplist": [
+            "AlexanderKostrzewa"
+        ],
+        "caldescrip": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+        "endtime": "17:50",
+        "AV Needs": "",
+        "name": "Armour Academy: Chainmail!",
+        "Private": "",
+        "bookname": "Armour Academy: Chainmail!",
+        "venue": "Board of Regents",
+        "Book Description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
+        "Presenters": "Alexander Kostrzewa",
+        "csvsafedescrip": "Want to learn how to make chainmail? Well- good news! It's not that hard! Well- kind of hard- but not too bad. In this panel- we will teach the traditional European four-in-one weave- used for armor from the Roman Empire through middle ages- and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel- but all are welcome to observe!",
+        "speakernosp": "AlexanderKostrzewa",
+        "starttime": "16:00",
+        "roomnosp": "BoardofRegents",
+        "Start Date": "5/3/2014",
+        "minutes": "50"
     }
 ]
