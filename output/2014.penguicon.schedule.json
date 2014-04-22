@@ -2885,6 +2885,34 @@
         "end_time": "16:50"
     },
     {
+        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
+        "end_date": "5/3/2014",
+        "title": "Performance: Tom Smith",
+        "track": "Music",
+        "start_time": "16:00",
+        "presenters": [
+            "Tom Smith"
+        ],
+        "location": "Charlevoix A",
+        "minutes": -130,
+        "start_date": "5/3/2014",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and you'll get a chance to try your hand at forging some armor!",
+        "end_date": "5/3/2014",
+        "title": "Armour Academy: Chainmail!",
+        "track": "Costuming",
+        "start_time": "16:00",
+        "presenters": [
+            "Alexander Kostrzewa"
+        ],
+        "location": "Board of Regents",
+        "minutes": 110,
+        "start_date": "5/3/2014",
+        "end_time": "17:50"
+    },
+    {
         "book_description": "Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!",
         "end_date": "5/3/2014",
         "title": "Western Spear Techniques Workshop",
@@ -3534,20 +3562,6 @@
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "20:50"
-    },
-    {
-        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
-        "end_date": "5/3/2014",
-        "title": "Performance: Tom Smith",
-        "track": "Music",
-        "start_time": "16:00",
-        "presenters": [
-            "Tom Smith"
-        ],
-        "location": "Charlevoix A",
-        "minutes": -130,
-        "start_date": "5/3/2014",
-        "end_time": "13:50"
     },
     {
         "book_description": "Direct conflict is only one manner of affecting the world. This discussion focuses on the multitude of tactics for the creating social improvement.",
@@ -5485,19 +5499,5 @@
         "minutes": 50,
         "start_date": "5/4/2014",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Want to learn how to make chainmail? Well, good news! It's not that hard! Well, kind of hard, but not too bad. In this panel, we will teach the traditional European four-in-one weave, used for armor from the Roman Empire through middle ages, and send you home with a small piece forged by your own hands! Kits can be purchased at Thundersteel Armoury in Artist Alley to participate in this panel, but all are welcome to observe!",
-        "end_date": "5/3/2014",
-        "title": "Armour Academy: Chainmail!",
-        "track": "Costuming",
-        "start_time": "16:00",
-        "presenters": [
-            "Alexander Kostrzewa"
-        ],
-        "location": "Board of Regents",
-        "minutes": 110,
-        "start_date": "5/3/2014",
-        "end_time": "17:50"
     }
 ]
