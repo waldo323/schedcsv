@@ -2779,20 +2779,6 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?",
-        "end_date": "5/3/2014",
-        "title": "Why is Fandom so Damn Pale and Male?",
-        "track": "Life",
-        "start_time": "18:00",
-        "presenters": [
-            "Randy Bradakis"
-        ],
-        "location": "Windover",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "18:50"
-    },
-    {
         "book_description": "There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn\u2019t read it (to the reader's delight). Is this indicative of an expectation among television and movie audiences that established characters survive? Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments? Is it more acceptable to kill off a character in print? How do these expectations differ amongst genre fiction?",
         "end_date": "5/3/2014",
         "title": "What About The Happily Ever After?",
@@ -2839,20 +2825,6 @@
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
-        "end_date": "5/3/2014",
-        "title": "Performance: Tom Smith",
-        "track": "Music",
-        "start_time": "17:00",
-        "presenters": [
-            "Tom Smith"
-        ],
-        "location": "Charlevoix A",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "17:50"
     },
     {
         "book_description": "Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!",
@@ -2912,6 +2884,37 @@
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.",
+        "end_date": "5/3/2014",
+        "title": "Building a Career in IT",
+        "track": "Tech, Life",
+        "start_time": "16:00",
+        "presenters": [
+            "Matt Hargraves",
+            "Nuri Gocay",
+            "Joe Bender",
+            "Dawn Kuczwara"
+        ],
+        "location": "Windover",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. ",
+        "end_date": "5/3/2014",
+        "title": "Performance: Tom Smith",
+        "track": "Music",
+        "start_time": "17:00",
+        "presenters": [
+            "Tom Smith"
+        ],
+        "location": "Charlevoix A",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "17:50"
     },
     {
         "book_description": "Learn to use a spear! This active workshop focuses on techniques of spear drawn from western historical sources. Come dressed and ready to move. There are a limited number of available spaces for this workshop, so please sign up at Ops!",
@@ -3086,6 +3089,20 @@
         "end_time": "19:50"
     },
     {
+        "book_description": "A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?",
+        "end_date": "5/3/2014",
+        "title": "Why is Fandom so Damn Pale and Male?",
+        "track": "Life",
+        "start_time": "18:00",
+        "presenters": [
+            "Randy Bradakis"
+        ],
+        "location": "Windover",
+        "minutes": 50,
+        "start_date": "5/3/2014",
+        "end_time": "18:50"
+    },
+    {
         "book_description": "Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!",
         "end_date": "5/3/2014",
         "title": "Throwing and Catching Practice Swords",
@@ -3252,23 +3269,6 @@
         "minutes": 50,
         "start_date": "5/3/2014",
         "end_time": "18:50"
-    },
-    {
-        "book_description": "Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.",
-        "end_date": "5/3/2014",
-        "title": "Building a Career in IT",
-        "track": "Tech, Life",
-        "start_time": "16:00",
-        "presenters": [
-            "Matt Hargraves",
-            "Nuri Gocay",
-            "Joe Bender",
-            "Dawn Kuczwara"
-        ],
-        "location": "Windover",
-        "minutes": 50,
-        "start_date": "5/3/2014",
-        "end_time": "16:50"
     },
     {
         "book_description": "Massively Multiplayer Online games (MMOs) have been around for decades. Did you know they were teaching you things you could use in real-life? We will examine the parallels and differences that many don't realize are there until they step back and look at them. Trying to get into a top guild? Better be ready to write a good application and have references and an interview. Sounds a lot like getting a job to me...",
@@ -3571,9 +3571,9 @@
             "Christopher Pate"
         ],
         "location": "Windover",
-        "minutes": 170,
+        "minutes": 50,
         "start_date": "5/3/2014",
-        "end_time": "22:50"
+        "end_time": "20:50"
     },
     {
         "book_description": "Join us and read from your book or a favorite book! Please sign up at Ops.",

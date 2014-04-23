@@ -773,12 +773,6 @@ Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, 
 <topic>Life</topic>
 <room>Board of Governors</room>
 <blurb><participant>Gini Judd, Angie Rush, Heather Gutterman</participant> For years, geeky folk seemed to regard their bodies are mobile devices for their brains, but not anymore. Now as one walks through the con, snippets of conversations about Warrior Dashes and Zombie Runs, about FitBits and heart monitors, can often be heard. How is exercise changing so that it appeals to geeks? How is geek culture changing to embrace sport? And what are the coolest devices out there to make it all fun? </blurb></event>
-<time>6 PM</time>
-<event><title>Why is Fandom so Damn Pale and Male?</title>
-<topic>Life</topic>
-<room>Windover</room>
-<blurb><participant>Randy Bradakis</participant> A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing? </blurb></event>
-<time>4 PM</time>
 <event><title>What About The Happily Ever After?</title>
 <topic>Lit</topic>
 <room>Hamlin</room>
@@ -791,12 +785,6 @@ Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, 
 <topic>Music</topic>
 <room>Charlevoix B</room>
 <blurb><participant>YTCracker, Steffo, StarF, King Pheenix, 2 Mello, Devo Spice</participant> Nerdcore hip-hop is often taken as a parody genre.  With "nerdy" references sneaking into more and more mainstream music, is "nerd rap" a stale term?  Join some of the top artists as they debate the validity of their own genre. </blurb></event>
-<time>5 PM</time>
-<event><title>Performance: Tom Smith</title>
-<topic>Music</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Tom Smith</participant> There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring.  </blurb></event>
-<time>4 PM</time>
 <event><title>Masquerade</title>
 <topic>Penguicon Events, Costuming</topic>
 <room>Algonquin B/C</room>
@@ -813,7 +801,15 @@ Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, 
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Jorge Castro</participant> Jorge will show how you an use the open source SteamOS software to build your own Steambox console for playing games on Valve's Steam. </blurb></event>
+<event><title>Building a Career in IT</title>
+<topic>Tech, Life</topic>
+<room>Windover</room>
+<blurb><participant>Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara</participant> Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top. </blurb></event>
 <time>5 PM</time>
+<event><title>Performance: Tom Smith</title>
+<topic>Music</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Tom Smith</participant> There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring.  </blurb></event>
 <event><title>Western Spear Techniques Workshop</title>
 <topic>Action Adventure</topic>
 <room>Algonquin A</room>
@@ -859,6 +855,10 @@ Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, 
 <room>Nicolet</room>
 <blurb><participant>Susan Sons, Chris Nehren, Jeremy Banks, Eric S. Raymond, Paul Berens, Adam Nuwer, Andrew Kelley, John D. Bell</participant> Everyday encryption for the general public. Learn to protect your hard drive's data, browse the web anonymously, encrypt your email, and more in this hands-on workshop. Absolute beginners are welcome; we will have volunteers on hand to provide you with software and help you learn to use it. Bring your laptop along to get the most from hands-on activities in this session. <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>6 PM</time>
+<event><title>Why is Fandom so Damn Pale and Male?</title>
+<topic>Life</topic>
+<room>Windover</room>
+<blurb><participant>Randy Bradakis</participant> A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing? </blurb></event>
 <event><title>Throwing and Catching Practice Swords</title>
 <topic>Action Adventure</topic>
 <room>Algonquin A</room>
@@ -904,12 +904,6 @@ Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, 
 <room>Lobby</room>
 <blurb><participant>Ed Mason, 
 Vinny Rawlley</participant> Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to! </blurb></event>
-<time>4 PM</time>
-<event><title>Building a Career in IT</title>
-<topic>Tech, Life</topic>
-<room>Windover</room>
-<blurb><participant>Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara</participant> Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top. </blurb></event>
-<time>6 PM</time>
 <event><title>Is Your MMO Teaching You About Life?</title>
 <topic>Videogaming</topic>
 <room>Montcalm</room>
@@ -992,7 +986,7 @@ Mary Lynne Gibbs, Michael Cieslak, Rosemary Van Deuren</participant> Editing is 
 <event><title>Flirting for Geeks</title>
 <topic>Life</topic>
 <room>Windover</room>
-<blurb><participant>Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate</participant> Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions. <duration>2 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate</participant> Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions. </blurb></event>
 <event><title>Open Readings</title>
 <topic>Lit</topic>
 <room>Hamlin</room>

@@ -8481,51 +8481,6 @@ roomnosp,BoardofGovernors
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Life
-All Day Event,FALSE
-event_end,18:50
-event_type_list,['Life']
-private,PUBLIC
-endtimeampm,6 PM
-Location,Windover
-duration,50 minutes
-description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
-index,188
-speakers,Randy Bradakis
-bookdescrip,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
-Track,Life
-startday,5/3/2014
-Title,Why is Fandom so Damn Pale and Male?
-Start Time,18:00
-event_start,18:00
-starttimeampm,6 PM
-End Time,18:50
-tracknosp,['Life']
-endday,5/3/2014
-input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Life', 'Why is Fandom so Damn Pale and Male?', 'Randy Bradakis', ""A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"", 'FALSE', 'PUBLIC', '']"
-End Date,5/3/2014
-calspeakers,Randy Bradakis
-avneeds,none
-speakerlist,['Randy Bradakis']
-hours,0
-totalminutes,50
-speakernosplist,['RandyBradakis']
-caldescrip,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
-endtime,18:50
-AV Needs,
-name,Why is Fandom so Damn Pale and Male?
-Private,PUBLIC
-bookname,Why is Fandom so Damn Pale and Male?
-venue,Windover
-Book Description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
-Presenters,Randy Bradakis
-csvsafedescrip,A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male- non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?
-speakernosp,RandyBradakis
-starttime,18:00
-roomnosp,Windover
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
 event_type,Lit
 All Day Event,FALSE
 event_end,16:50
@@ -8535,7 +8490,7 @@ endtimeampm,4 PM
 Location,Hamlin
 duration,50 minutes
 description,"There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction?"
-index,189
+index,188
 speakers," Jim Leach, Ferrett Steinmetz"
 bookdescrip,"There was an insane Internet reaction to the Red Wedding from those who were watching Game of Thrones but hadn’t read it (to the reader's delight).  Is this indicative of an expectation among television and movie audiences that established characters survive?  Has Hollywood created the expectation of a happy ending, even in the harshest of fictional environments?  Is it more acceptable to kill off a character in print?  How do these expectations differ amongst genre fiction?"
 Track,Lit
@@ -8580,7 +8535,7 @@ endtimeampm,4 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"A one-woman music act, lyrically driven from her personal dreamscape.  Often incorporating themes of mythology into her lyrics, Scientific Sushine's ukulele and acoustic guitar powered songs are sure to have you singing and dancing along."
-index,190
+index,189
 speakers,Jordan Alexandria
 bookdescrip,"A one-woman music act, lyrically driven from her personal dreamscape.  Often incorporating themes of mythology into her lyrics, Scientific Sushine's ukulele and acoustic guitar powered songs are sure to have you singing and dancing along."
 Track,Music
@@ -8625,7 +8580,7 @@ endtimeampm,4 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Nerdcore hip-hop is often taken as a parody genre.  With ""nerdy"" references sneaking into more and more mainstream music, is ""nerd rap"" a stale term?  Join some of the top artists as they debate the validity of their own genre."
-index,191
+index,190
 speakers,"YTCracker, Steffo, StarF, King Pheenix, 2 Mello, Devo Spice"
 bookdescrip,"Nerdcore hip-hop is often taken as a parody genre.  With ""nerdy"" references sneaking into more and more mainstream music, is ""nerd rap"" a stale term?  Join some of the top artists as they debate the validity of their own genre."
 Track,Music
@@ -8661,51 +8616,6 @@ roomnosp,CharlevoixB
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
-event_type,Music
-All Day Event,FALSE
-event_end,17:50
-event_type_list,['Music']
-private,PUBLIC
-endtimeampm,5 PM
-Location,Charlevoix A
-duration,50 minutes
-description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-index,192
-speakers,Tom Smith
-bookdescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-Track,Music
-startday,5/3/2014
-Title,Performance: Tom Smith
-Start Time,17:00
-event_start,17:00
-starttimeampm,5 PM
-End Time,17:50
-tracknosp,['Music']
-endday,5/3/2014
-input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Charlevoix A', 'Music', 'Performance: Tom Smith', 'Tom Smith', ""There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "", 'FALSE', 'PUBLIC', 'Sound System']"
-End Date,5/3/2014
-calspeakers,Tom Smith
-avneeds,Sound System
-speakerlist,['Tom Smith']
-hours,0
-totalminutes,50
-speakernosplist,['TomSmith']
-caldescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
-endtime,17:50
-AV Needs,Sound System
-name,Performance: Tom Smith
-Private,PUBLIC
-bookname,Performance: Tom Smith
-venue,Charlevoix A
-Book Description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. "
-Presenters,Tom Smith
-csvsafedescrip,There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim- the vocal fireworks of Meat Loaf- the comedic  timing of Robin Williams- and the dynamic physique of the Skipper from  Gilligan's Island- the only thing he won't do is be boring. 
-speakernosp,TomSmith
-starttime,17:00
-roomnosp,CharlevoixA
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
 event_type,"Penguicon Events, Costuming"
 All Day Event,FALSE
 event_end,17:50
@@ -8715,7 +8625,7 @@ endtimeampm,5 PM
 Location,Algonquin B/C
 duration,1 hour and 50 minutes
 description,"Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"
-index,193
+index,191
 speakers,"Suzette Mariotti, Cathy Raymond, Catherine Shaffer, Annikki Raiford"
 bookdescrip,"Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!"
 Track,"Penguicon Events, Costuming"
@@ -8760,7 +8670,7 @@ endtimeampm,4 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Find out what you can see in our light-polluted skies, and learn a bit about Astronomy and current events in Space/Astronomy news."
-index,194
+index,192
 speakers,Bob Trembley
 bookdescrip,"Find out what you can see in our light-polluted skies, and learn a bit about Astronomy and current events in Space/Astronomy news."
 Track,Science
@@ -8805,7 +8715,7 @@ endtimeampm,4 PM
 Location,Montcalm
 duration,50 minutes
 description,"Let Mark, a security professional, teach you how you can use two-factor authentication to improve your security and prevent the bad guys from stealing your online accounts."
-index,195
+index,193
 speakers,Mark Stanislav
 bookdescrip,"Let Mark, a security professional, teach you how you can use two-factor authentication to improve your security and prevent the bad guys from stealing your online accounts."
 Track,Tech
@@ -8850,7 +8760,7 @@ endtimeampm,4 PM
 Location,Nicolet
 duration,50 minutes
 description,Jorge will show how you an use the open source SteamOS software to build your own Steambox console for playing games on Valve's Steam.
-index,196
+index,194
 speakers,Jorge Castro
 bookdescrip,Jorge will show how you an use the open source SteamOS software to build your own Steambox console for playing games on Valve's Steam.
 Track,Tech
@@ -8883,6 +8793,96 @@ csvsafedescrip,Jorge will show how you an use the open source SteamOS software t
 speakernosp,JorgeCastro
 starttime,16:00
 roomnosp,Nicolet
+Start Date,5/3/2014
+minutes,50
+allday,FALSE
+event_type,"Tech, Life"
+All Day Event,FALSE
+event_end,16:50
+event_type_list,"['Tech', 'Life']"
+private,PUBLIC
+endtimeampm,4 PM
+Location,Windover
+duration,50 minutes
+description,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
+index,195
+speakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
+bookdescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
+Track,"Tech, Life"
+startday,5/3/2014
+Title,Building a Career in IT
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
+tracknosp,"['Tech', 'Life']"
+endday,5/3/2014
+input,"['5/3/2014', '16:00', '5/3/2014', '16:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
+End Date,5/3/2014
+calspeakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
+avneeds,none
+speakerlist,"['Matt Hargraves', 'Nuri Gocay', 'Joe Bender', 'Dawn Kuczwara']"
+hours,0
+totalminutes,50
+speakernosplist,"['MattHargraves', 'NuriGocay', 'JoeBender', 'DawnKuczwara']"
+caldescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
+endtime,16:50
+AV Needs,
+name,Building a Career in IT
+Private,PUBLIC
+bookname,Building a Career in IT
+venue,Windover
+Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
+Presenters,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
+csvsafedescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
+speakernosp,"MattHargraves,NuriGocay,JoeBender,DawnKuczwara"
+starttime,16:00
+roomnosp,Windover
+Start Date,5/3/2014
+minutes,50
+allday,FALSE
+event_type,Music
+All Day Event,FALSE
+event_end,17:50
+event_type_list,['Music']
+private,PUBLIC
+endtimeampm,5 PM
+Location,Charlevoix A
+duration,50 minutes
+description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+index,196
+speakers,Tom Smith
+bookdescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+Track,Music
+startday,5/3/2014
+Title,Performance: Tom Smith
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
+tracknosp,['Music']
+endday,5/3/2014
+input,"['5/3/2014', '17:00', '5/3/2014', '17:50', 'Charlevoix A', 'Music', 'Performance: Tom Smith', 'Tom Smith', ""There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "", 'FALSE', 'PUBLIC', 'Sound System']"
+End Date,5/3/2014
+calspeakers,Tom Smith
+avneeds,Sound System
+speakerlist,['Tom Smith']
+hours,0
+totalminutes,50
+speakernosplist,['TomSmith']
+caldescrip,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic  timing of Robin Williams, and the dynamic physique of the Skipper from  Gilligan's Island, the only thing he won't do is be boring. "
+endtime,17:50
+AV Needs,Sound System
+name,Performance: Tom Smith
+Private,PUBLIC
+bookname,Performance: Tom Smith
+venue,Charlevoix A
+Book Description,"There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity of Ashman and Sondheim, the vocal fireworks of Meat Loaf, the comedic timing of Robin Williams, and the dynamic physique of the Skipper from Gilligan's Island, the only thing he won't do is be boring. "
+Presenters,Tom Smith
+csvsafedescrip,There's every other singer out there... and then there's Tom Smith. Tom is NOT your ordinary comedy musician. With the lyrical complexity  of Ashman and Sondheim- the vocal fireworks of Meat Loaf- the comedic  timing of Robin Williams- and the dynamic physique of the Skipper from  Gilligan's Island- the only thing he won't do is be boring. 
+speakernosp,TomSmith
+starttime,17:00
+roomnosp,CharlevoixA
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
@@ -9381,6 +9381,51 @@ roomnosp,Nicolet
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
+event_type,Life
+All Day Event,FALSE
+event_end,18:50
+event_type_list,['Life']
+private,PUBLIC
+endtimeampm,6 PM
+Location,Windover
+duration,50 minutes
+description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
+index,208
+speakers,Randy Bradakis
+bookdescrip,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
+Track,Life
+startday,5/3/2014
+Title,Why is Fandom so Damn Pale and Male?
+Start Time,18:00
+event_start,18:00
+starttimeampm,6 PM
+End Time,18:50
+tracknosp,['Life']
+endday,5/3/2014
+input,"['5/3/2014', '18:00', '5/3/2014', '18:50', 'Windover', 'Life', 'Why is Fandom so Damn Pale and Male?', 'Randy Bradakis', ""A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"", 'FALSE', 'PUBLIC', '']"
+End Date,5/3/2014
+calspeakers,Randy Bradakis
+avneeds,none
+speakerlist,['Randy Bradakis']
+hours,0
+totalminutes,50
+speakernosplist,['RandyBradakis']
+caldescrip,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
+endtime,18:50
+AV Needs,
+name,Why is Fandom so Damn Pale and Male?
+Private,PUBLIC
+bookname,Why is Fandom so Damn Pale and Male?
+venue,Windover
+Book Description,"A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male, non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?"
+Presenters,Randy Bradakis
+csvsafedescrip,A serious question from the Penguicon Board President: Why isn't fandom (Open Source and/or SFF) a better representation of the culture and people of the local area? This is a problem. What can we do about it? Invite more non-male- non-white GoHs? (Check) Suggest materials to friends from a wider range of authors? What can we do? What are you doing?
+speakernosp,RandyBradakis
+starttime,18:00
+roomnosp,Windover
+Start Date,5/3/2014
+minutes,50
+allday,FALSE
 event_type,Action Adventure
 All Day Event,FALSE
 event_end,18:50
@@ -9390,7 +9435,7 @@ endtimeampm,6 PM
 Location,Algonquin A
 duration,50 minutes
 description,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
-index,208
+index,209
 speakers,"Matthew William, Jeanine Ecker, Taylor Watkins, Mary Poirier, Douglas Scholl, Douglas Tobin, Heather Gutterman"
 bookdescrip,"Learn to throw and catch swords! There will be a short lesson followed by fun and awesome practice. In consideration of safety, we will be using training weapons. There are a limited number of available spaces for this workshop, so please sign up at Ops!"
 Track,Action Adventure
@@ -9435,7 +9480,7 @@ endtimeampm,6 PM
 Location,Board of Regents
 duration,50 minutes
 description,Come to this workshop to make your own simple drop spindle and learn the basic of spinning!  All materials will be provided. Sign up at Ops. 
-index,209
+index,210
 speakers,Holly Richardson
 bookdescrip,Come to this workshop to make your own simple drop spindle and learn the basic of spinning!  All materials will be provided. Sign up at Ops. 
 Track,DIY
@@ -9480,7 +9525,7 @@ endtimeampm,6 PM
 Location,Hamlin
 duration,50 minutes
 description,"Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
-index,210
+index,211
 speakers,"LadyAna, Professor X   "
 bookdescrip,"Did you think ""Thor: The Dark World"" was awful?  What would you like to see happen in ""X-Men: Days of Future Past""?  What would you have done differently regarding ""Captain America: Winter Solider""?  If these are questions you think about, then please join us for a rousing discussion of the movies and comics alike!   Interested in learning more about Marvel (and yes, DC) comics?  That's why we're here!  Note: there will be free comics and goodies giveaways!       "
 Track,Film
@@ -9525,7 +9570,7 @@ endtimeampm,7 PM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
-index,211
+index,212
 speakers,"Greg Williams, Dawn Kuczwara"
 bookdescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K ) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex-  if it's not, it probably won't get you through one of our shows, either."
 Track,Film
@@ -9570,7 +9615,7 @@ endtimeampm,7 PM
 Location,Board of Trustees
 duration,1 hour and 50 minutes
 description,There has been a murder!  Who did it?  Use your Sherlockian wits and deductive reasoning to solve a murder mystery in a social hors d'oeuvres laden Tea and scones environment.  Dressing up is encouraged.  Find this killer before he kills YOU!
-index,212
+index,213
 speakers,Selina Firecat
 bookdescrip,There has been a murder!  Who did it?  Use your Sherlockian wits and deductive reasoning to solve a murder mystery in a social hors d'oeuvres laden Tea and scones environment.  Dressing up is encouraged.  Find this killer before he kills YOU!
 Track,Gaming
@@ -9615,7 +9660,7 @@ endtimeampm,8 PM
 Location,Gaming (Restaurant)
 duration,2 hours and 50 minutes
 description,"In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome!"
-index,213
+index,214
 speakers,Matt Arnold
 bookdescrip,"In this million-selling “non-collectible card game,” players start with the same simple deck, and use their hand to buy cards into their collection from the middle of the table. Whoever buys the most expensive victory cards first, wins. Winners take home plastic trays for displaying cards during play. Plan to play through two games with pre-designed sets. Please sign up at Ops, but walk ins are still welcome!"
 Track,Gaming
@@ -9660,7 +9705,7 @@ endtimeampm,6 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
-index,214
+index,215
 speakers,"Mary Lynne Gibbs, Michael Cieslak, Sean M. Davis, Ken MacGreggor"
 bookdescrip,"Shoot ‘em in the head, stake ‘em through the heart, the good old silver bullet...it doesn’t matter, the undead keep coming back.  Have zombies, vampires, and werewolves finally run their course or do these creatures still have legs?  Is there a division between genre fans who have grown tired of these creatures just as they’re taking off in the general public?"
 Track,Lit
@@ -9705,7 +9750,7 @@ endtimeampm,6 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
-index,215
+index,216
 speakers,Jim Poltrone
 bookdescrip,"Have you ever dreamed of playing a classic Moog Minimoog synthesizer? Filker and synthesizer geek Jim Poltrone will demonstrate the operation and signal path of this classic synth, and encourage interested people to create their own sounds with it. Patch sheets will be provided. Please sign up at Ops!"
 Track,Music
@@ -9750,7 +9795,7 @@ endtimeampm,6 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
-index,216
+index,217
 speakers,"Eva Galperin, Cory Doctorow, Nick Farr"
 bookdescrip,"Now that Edward Snowden has made you aware that the government is watching and recording your every move, come join our GoH Eva Galperin and Featured Guests Cory Doctorow and Nick Farr as they discuss of the implications of living in a surveillance state. "
 Track,Tech
@@ -9795,7 +9840,7 @@ endtimeampm,6 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Secure Shell (SSH) servers are popular targets for password-guessing attacks. The only way to eliminate these attacks is to use key-based authentication. If you're still using password-based authentication because key-based authentication seems hard, come to this talk. Bring your laptop. You'll create your own authentication key, deploy it to your server, and make key-based authentication painless. When you go back to work after Penguicon, you'll wonder how you ever survived using passwords."
-index,217
+index,218
 speakers,Michael W. Lucas
 bookdescrip,"Secure Shell (SSH) servers are popular targets for password-guessing attacks. The only way to eliminate these attacks is to use key-based authentication. If you're still using password-based authentication because key-based authentication seems hard, come to this talk. Bring your laptop. You'll create your own authentication key, deploy it to your server, and make key-based authentication painless. When you go back to work after Penguicon, you'll wonder how you ever survived using passwords."
 Track,Tech
@@ -9840,7 +9885,7 @@ endtimeampm,6 PM
 Location,Lobby
 duration,50 minutes
 description,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
-index,218
+index,219
 speakers,"Ed Mason, 
 Vinny Rawlley"
 bookdescrip,"Come try Game Face Labs' 3D printed, Android based, wireless virtual reality headset. You know you want to!"
@@ -9875,51 +9920,6 @@ csvsafedescrip,Come try Game Face Labs' 3D printed- Android based- wireless virt
 speakernosp,"EdMason,VinnyRawlley"
 starttime,18:00
 roomnosp,Lobby
-Start Date,5/3/2014
-minutes,50
-allday,FALSE
-event_type,"Tech, Life"
-All Day Event,FALSE
-event_end,16:50
-event_type_list,"['Tech', 'Life']"
-private,PUBLIC
-endtimeampm,4 PM
-Location,Windover
-duration,50 minutes
-description,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-index,219
-speakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
-bookdescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-Track,"Tech, Life"
-startday,5/3/2014
-Title,Building a Career in IT
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
-tracknosp,"['Tech', 'Life']"
-endday,5/3/2014
-input,"['5/3/2014', '16:00', '5/3/2014', '16:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara', 'Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
-End Date,5/3/2014
-calspeakers,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
-avneeds,none
-speakerlist,"['Matt Hargraves', 'Nuri Gocay', 'Joe Bender', 'Dawn Kuczwara']"
-hours,0
-totalminutes,50
-speakernosplist,"['MattHargraves', 'NuriGocay', 'JoeBender', 'DawnKuczwara']"
-caldescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-endtime,16:50
-AV Needs,
-name,Building a Career in IT
-Private,PUBLIC
-bookname,Building a Career in IT
-venue,Windover
-Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-Presenters,"Matt Hargraves, Nuri Gocay, Joe Bender, Dawn Kuczwara"
-csvsafedescrip,Considering a career in IT or looking to advance your existing career?  Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,"MattHargraves,NuriGocay,JoeBender,DawnKuczwara"
-starttime,16:00
-roomnosp,Windover
 Start Date,5/3/2014
 minutes,50
 allday,FALSE
@@ -10782,12 +10782,12 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,22:50
+event_end,20:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,10 PM
+endtimeampm,8 PM
 Location,Windover
-duration,2 hours and 50 minutes
+duration,50 minutes
 description,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
 index,239
 speakers,"Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate"
@@ -10798,19 +10798,19 @@ Title,Flirting for Geeks
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
-End Time,22:50
+End Time,20:50
 tracknosp,['Life']
 endday,5/3/2014
-input,"['5/3/2014', '20:00', '5/3/2014', '22:50', 'Windover', 'Life', 'Flirting for Geeks', 'Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate', ""Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."", 'FALSE', 'PUBLIC', '']"
+input,"['5/3/2014', '20:00', '5/3/2014', '20:50', 'Windover', 'Life', 'Flirting for Geeks', 'Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate', ""Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."", 'FALSE', 'PUBLIC', '']"
 End Date,5/3/2014
 calspeakers,"Nuri Gocay, Dawn Kuczwara, Greg Williams, Scott Kennedy, Jer Lance, Christopher Pate"
 avneeds,none
 speakerlist,"['Nuri Gocay', 'Dawn Kuczwara', 'Greg Williams', 'Scott Kennedy', 'Jer Lance', 'Christopher Pate']"
-hours,2
-totalminutes,170
+hours,0
+totalminutes,50
 speakernosplist,"['NuriGocay', 'DawnKuczwara', 'GregWilliams', 'ScottKennedy', 'JerLance', 'ChristopherPate']"
 caldescrip,"Come learn how to (and how not to) flirt from some of our local fandom's biggest flirts.  Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to avoid being that creepy guy that we all talk about between conventions."
-endtime,22:50
+endtime,20:50
 AV Needs,
 name,Flirting for Geeks
 Private,PUBLIC
