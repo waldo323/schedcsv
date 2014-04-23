@@ -1,4 +1,4 @@
-Hot to import a csv into Google Calender
+Hot to import a csv into Google Calendar
 ========
 
 Instructions summary: 
