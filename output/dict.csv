@@ -14421,7 +14421,7 @@ starttimeampm,12 PM
 End Time,12:50
 tracknosp,['Life']
 endday,5/4/2014
-input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Hamlin', 'Life', 'Tarot Q & A', 'CJ Tremlett, Alex Page', 'Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '12:00', '5/4/2014', '12:50', 'Hamlin', 'Life', 'Tarot Q&A', 'CJ Tremlett, Alex Page', 'Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
 calspeakers,"CJ Tremlett, Alex Page"
 avneeds,none
@@ -14432,9 +14432,9 @@ speakernosplist,"['CJTremlett', 'AlexPage']"
 caldescrip,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
 endtime,12:50
 AV Needs,
-name,Tarot Q & A
+name,Tarot Q&A
 Private,PUBLIC
-bookname,Tarot Q &amp; A
+bookname,Tarot Q&amp;A
 venue,Hamlin
 Book Description,Learn the not-quite-as-mysterious history of tarot and the basic concepts behind the cards and readings. Bring any questions you might have about tarot!
 Presenters,"CJ Tremlett, Alex Page"
