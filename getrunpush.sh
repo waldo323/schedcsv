@@ -15,7 +15,7 @@ echo get schedule and run the parsing script on the schedule
 cp penguicon.schedule.xml ./output/penguicon.schedule.xml 
 
 # zip up the speakers' csv import to ical files
-zip -j ./output/schedsbyspeaker.zip ./output/schedbyspeaker/*
+cd ./output/schedbyspeaker && zip -j ../schedsbyspeaker.zip ./* && cd ../../
 #git add ./output/schedsbyspeaker.zip
 #git add .
 echo time and date of task  
