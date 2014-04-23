@@ -2845,14 +2845,14 @@
         "end_date": "5/3/2014",
         "title": "Performance: Tom Smith",
         "track": "Music",
-        "start_time": "16:00",
+        "start_time": "17:00",
         "presenters": [
             "Tom Smith"
         ],
         "location": "Charlevoix A",
-        "minutes": -130,
+        "minutes": 50,
         "start_date": "5/3/2014",
-        "end_time": "13:50"
+        "end_time": "17:50"
     },
     {
         "book_description": "Anyone who'd like to join in our Masquerade contest is encouraged to join us for the Muster, so we can announce you in the fashion you are accustomed!",
@@ -4718,20 +4718,6 @@
         "start_time": "12:00",
         "presenters": [
             ""
-        ],
-        "location": "Gaming (Restaurant)",
-        "minutes": 110,
-        "start_date": "5/4/2014",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Pick from the big box of games and play for a while! Options include: Munchkin, Back to the Future, Dominion, Star Trek DBG, Smallworld, Ticket to Ride Europe, Settlers of Catan, and Castle Panic. Participants will select what games to play. ",
-        "end_date": "5/4/2014",
-        "title": "Richard's Big Box of Games",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Richard Houser"
         ],
         "location": "Gaming (Restaurant)",
         "minutes": 110,
