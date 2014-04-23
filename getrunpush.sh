@@ -13,7 +13,8 @@ echo get schedule and run the parsing script on the schedule
 
 # make it easier to find the schedule
 cp penguicon.schedule.xml ./output/penguicon.schedule.xml 
-
+# copy to final schedule
+cp penguicon.schedule.xml 2014.penguicon.final.schedule.xml 
 # zip up the speakers' csv import to ical files
 cd ./output/schedbyspeaker && zip -j ../schedsbyspeaker.zip ./* && cd ../../
 #git add ./output/schedsbyspeaker.zip
