@@ -4549,7 +4549,7 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or \"vector\", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator.",
+        "book_description": "If you use a laser cutter, vinyl plotter, or other CNC tools at i3Detroit or another hacker space, you need 2D paths that the tool will follow. This path, or \"vector\", is described with various formats such as SVG (scalable vector graphics), AI (Adobe Illustrator), or DXF (digital exchange format). This class will teach you the basics of the premiere vector illustration tool, Adobe Illustrator, with an emphasis on how to prepare your file to be used as a tool path. Computers and software are not provided, we can help if you bring a prepared file or Illustrator.",
         "end_date": "5/4/2014",
         "title": "Creating Machine Tool Paths In Adobe Illustrator",
         "track": "Tech, DIY",
