@@ -13054,7 +13054,7 @@ Location,Charlevoix B
 duration,50 minutes
 description,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 index,289
-speakers,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell"
+speakers,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser"
 bookdescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 Track,Action Adventure
 startday,5/4/2014
@@ -13065,14 +13065,14 @@ starttimeampm,10 AM
 End Time,10:50
 tracknosp,['ActionAdventure']
 endday,5/4/2014
-input,"['5/4/2014', '10:00', '5/4/2014', '10:50', 'Charlevoix B', 'Action Adventure', 'Guns and Gun Safety', 'Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell', 'Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '10:00', '5/4/2014', '10:50', 'Charlevoix B', 'Action Adventure', 'Guns and Gun Safety', 'Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser', 'Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell"
+calspeakers,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser"
 avneeds,none
-speakerlist,"['Stu Chisholm', 'Rob Reed', 'Eric S. Raymond', 'Richard Houser', 'Richard Herrell']"
+speakerlist,"['Stu Chisholm', 'Rob Reed', 'Eric S. Raymond', 'Richard Houser']"
 hours,0
 totalminutes,50
-speakernosplist,"['StuChisholm', 'RobReed', 'EricS.Raymond', 'RichardHouser', 'RichardHerrell']"
+speakernosplist,"['StuChisholm', 'RobReed', 'EricS.Raymond', 'RichardHouser']"
 caldescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
 endtime,10:50
 AV Needs,
@@ -13081,9 +13081,9 @@ Private,PUBLIC
 bookname,Guns and Gun Safety
 venue,Charlevoix B
 Book Description,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
-Presenters,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser, Richard Herrell"
+Presenters,"Stu Chisholm, Rob Reed, Eric S. Raymond, Richard Houser"
 csvsafedescrip,Author and gun enthusiast Stu Chisholm and author and NRA instructor Rob Reed talk about guns and gun safety.
-speakernosp,"StuChisholm,RobReed,EricS.Raymond,RichardHouser,RichardHerrell"
+speakernosp,"StuChisholm,RobReed,EricS.Raymond,RichardHouser"
 starttime,10:00
 roomnosp,CharlevoixB
 Start Date,5/4/2014
