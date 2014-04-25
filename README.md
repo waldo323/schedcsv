@@ -14,7 +14,9 @@ current output:
    * schedule by speaker in a (google or other ical) calendar importable csv format
    * zip of all speakers calender importable csv files
    * schedule by room for dubugging 
-   * 
+
+
+
    
 Running wish list:
    * split code into separately functioning bits
