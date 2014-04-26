@@ -15854,7 +15854,7 @@ Location,Windover
 duration,1 hour and 50 minutes
 description,Readings by Literature Track Guests and Panelists
 index,351
-speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
+speakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean M. Davis"
 bookdescrip,Readings by Literature Track Guests and Panelists
 Track,Lit
 startday,5/4/2014
@@ -15865,14 +15865,14 @@ starttimeampm,2 PM
 End Time,15:50
 tracknosp,['Lit']
 endday,5/4/2014
-input,"['5/4/2014', '14:00', '5/4/2014', '15:50', 'Windover', 'Lit', 'Author Readings', 'Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis', 'Readings by Literature Track Guests and Panelists', 'FALSE', 'PUBLIC', '']"
+input,"['5/4/2014', '14:00', '5/4/2014', '15:50', 'Windover', 'Lit', 'Author Readings', 'Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean M. Davis', 'Readings by Literature Track Guests and Panelists', 'FALSE', 'PUBLIC', '']"
 End Date,5/4/2014
-calspeakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
+calspeakers,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean M. Davis"
 avneeds,none
-speakerlist,"['Ken MacGreggor', 'Mary Lynne Gibbs', 'Nicole Castle', 'John Scalzi', 'Sean Davis']"
+speakerlist,"['Ken MacGreggor', 'Mary Lynne Gibbs', 'Nicole Castle', 'John Scalzi', 'Sean M. Davis']"
 hours,1
 totalminutes,110
-speakernosplist,"['KenMacGreggor', 'MaryLynneGibbs', 'NicoleCastle', 'JohnScalzi', 'SeanDavis']"
+speakernosplist,"['KenMacGreggor', 'MaryLynneGibbs', 'NicoleCastle', 'JohnScalzi', 'SeanM.Davis']"
 caldescrip,Readings by Literature Track Guests and Panelists
 endtime,15:50
 AV Needs,
@@ -15881,9 +15881,9 @@ Private,PUBLIC
 bookname,Author Readings
 venue,Windover
 Book Description,Readings by Literature Track Guests and Panelists
-Presenters,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean Davis"
+Presenters,"Ken MacGreggor, Mary Lynne Gibbs, Nicole Castle, John Scalzi, Sean M. Davis"
 csvsafedescrip,Readings by Literature Track Guests and Panelists
-speakernosp,"KenMacGreggor,MaryLynneGibbs,NicoleCastle,JohnScalzi,SeanDavis"
+speakernosp,"KenMacGreggor,MaryLynneGibbs,NicoleCastle,JohnScalzi,SeanM.Davis"
 starttime,14:00
 roomnosp,Windover
 Start Date,5/4/2014
