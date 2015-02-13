@@ -130,7 +130,7 @@ pconsched = readInCSV(filename)
 ## 2013 fields
 #fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters", "Book Description", "All Day Event","Private"]
 
-## 2014 fields
+## 2015 fields
 fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters", "Book Description", "All Day Event","Private","AV Needs"]
 ## fields needed for google calendar
 calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
@@ -371,9 +371,9 @@ if not os.path.exists(schedulebyroomdir):
 if not os.path.exists(speakerdir):
     os.makedirs(speakerdir)  
 ## dump to a json file
-with open(rp + "2014.penguicon.schedule.alldata.json",'w') as myoutput:
+with open(rp + "2015.penguicon.schedule.alldata.json",'w') as myoutput:
     json.dump(sessions, myoutput, indent=4, separators=(',', ': '))
-with open(rp + "2014.penguicon.schedule.json",'w') as myoutput:
+with open(rp + "2015.penguicon.schedule.json",'w') as myoutput:
     fields = {"location":"Location", "book_description":"Book Description", \
               "title":"Title", "track":"Track", "minutes":"totalminutes", \
               "start_date":"Start Date", "end_date":"End Date", \
@@ -387,10 +387,10 @@ with open(rp + "2014.penguicon.schedule.json",'w') as myoutput:
     json.dump(json_output, myoutput, indent=4, separators=(',', ': '))
 ## for each session in the list of sessions 
 #"""
-with open(rp + "2014.penguicon.schedule.alltimes.xml",'w') as myoutput:
+with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
     for index, y in enumerate(sessions):
 #      print y
-      if "2014-05-02 14:00:00" != y['event_start'] and "duration" != y['duration']:
+      if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
         #print y
@@ -413,7 +413,7 @@ myoutput.close()
 
 # schedule by room and by speaker output
 
-with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
+with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
     for room in roomsdict:
         with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
@@ -438,8 +438,8 @@ with open( rp + "2014.penguicon.fullschedule.csv",'w') as fullschedule:
 
 fullschedule.close()
 
-with open(rp + "2014.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open(rp + "2014.penguicon.speakers.txt",'w') as fullspeaker:
+with open(rp + "2015.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
+  with open(rp + "2015.penguicon.speakers.txt",'w') as fullspeaker:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           discountedspeaker.write("%s\n" % (key))
@@ -448,8 +448,8 @@ with open(rp + "2014.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 fullspeaker.close()
 discountedspeaker.close()
 fullspkrlist = []
-with open(rp + "2014.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
-  with open(rp + "2014.penguicon.spkrs.bylast.txt",'w') as fullspkr:
+with open(rp + "2015.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
+  with open(rp + "2015.penguicon.spkrs.bylast.txt",'w') as fullspkr:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
@@ -463,8 +463,8 @@ dscountedspkr.close()
 
 # one calendar per track/type of programming
 #  also output the full calendar
-with open( caldir + "2014.penguicon.fullcalendar.csv",'w') as fullcalendar:
-  #with open(caldir + "2014.penguicon.speakers.txt",'w') as fullspeaker:
+with open( caldir + "2015.penguicon.fullcalendar.csv",'w') as fullcalendar:
+  #with open(caldir + "2015.penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
     for track in tracks:
         with open(caldir + tracksdict[track] + ".csv",'w') as tempcal:
@@ -498,10 +498,10 @@ for index, y in enumerate(sessions):
 
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open(rp + '2014.penguicon.schedule.alltimes.xml', 'r')
+inputfile = open(rp + '2015.penguicon.schedule.alltimes.xml', 'r')
 outputfile = open('penguicon.schedule.xml', 'w')
 
-# current time is set to the initial start time of 4 pm for the 2014 year... this could change year to year
+# current time is set to the initial start time of 4 pm for the 2015 year... this could change year to year
 currenttime = '<time>4 PM</time>'
 
 # this line is used for 'all weekend events' 
