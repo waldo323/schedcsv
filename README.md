@@ -19,6 +19,7 @@ current output:
 
    
 Running wish list:
+   * add output for calendar by room
    * work with tuxtrax https://github.com/MattArnold/tuxtrax 
    * split code into separately functioning bits
      *  bring in the schedule (or use the parts needed from the db)
