@@ -2,7 +2,7 @@ schedcsv
 ========
 
 simple project with the goal of parsing a csv file from an export
-from the head of programming and generating output files which are particularly useful to Penguicon 2014 (on the master branch).
+from the head of programming and generating output files which are particularly useful to Penguicon 2015 (on the master branch).
 
 
 current output:
@@ -26,4 +26,4 @@ Running wish list:
      *  create output files in all the various or optionally just particular formats
      *  upload to gitub or other public place for collaboration with staff and the public
    * add template files for each type of output
-   * potentially store schedule in pickle file or sqlite and also allow for connection to mysql, postgres etc (not immediately neccesary)
+   * work with tuxtrax https://github.com/MattArnold/tuxtrax 
