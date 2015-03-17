@@ -23,7 +23,7 @@ Running wish list:
    * split code into separately functioning bits
      *  bring in the schedule (or use the parts needed from the db)
      *  process the schedule into usable pieces for later use (event start time, end times, location, speakers etc)
-       *  not needed if working with tux trax
+       *  not needed if working with tuxtrax
      *  clean the text so that it will be useable in various formats (specaial characters changed to uable formats in the cases of the InDesign importable xml file, no new lines for xml and csv outputs etc)
        *  work with tuxtrax to make sure the field clean before getting them so the data can be entered directly into templates
      *  create output files in all the various or optionally just particular formats
