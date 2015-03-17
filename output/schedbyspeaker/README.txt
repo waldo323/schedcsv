@@ -7,7 +7,7 @@ Instructions summary:
    * import csv into new calendar
 
 
-Detail instructions:
+Detailed instructions:
 ========
 
 Download/save your csv
