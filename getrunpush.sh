@@ -2,8 +2,8 @@
 echo update repo first!
 git pull
 
-# clean up previous outpu files
-git rm ./output/2014.*
+# clean up previous output files
+#git rm ./output/2014.*
 git rm ./output/2015.*
 git rm ./output/schedbyspeaker/*.csv
 git rm ./output/schedbyroom/*
