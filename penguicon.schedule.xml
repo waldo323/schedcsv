@@ -288,7 +288,7 @@ Charlie Jane Anders, Ivan Owen, Jen Owen</participant> Join our con chair, Nuri 
 <event><title>The IT Road Warrior</title>
 <topic>Tech, Life</topic>
 <room>Algonquin D</room>
-<blurb><participant>Mark Haynes
+<blurb><participant>Mark Haynes, 
 Douglas Johnson</participant> What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road? </blurb></event>
 <time>8 PM</time>
 <event><title>Board Games for Young Kids that are Actually Fun</title>
@@ -475,7 +475,7 @@ Charlie Jane Anders, Ivan Owen, Jen Owen
 <event><title>Troubleshooting in Tech, Health, and Beyond</title>
 <topic>Tech, Life</topic>
 <room>Algonquin B</room>
-<blurb><participant>Jennifer Hamilton
+<blurb><participant>Jennifer Hamilton, 
 Sarah Elkins</participant> What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!) </blurb></event>
 <event><title>The Ethics of AI</title>
 <topic>Science, Tech</topic>
@@ -488,7 +488,7 @@ Sarah Elkins</participant> What do medical diagnoses and fixing build breaks hav
 <event><title>Getting Involved in the Open Source Community</title>
 <topic>Tech</topic>
 <room>Algonquin C</room>
-<blurb><participant>Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
+<blurb><participant>Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, 
 William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like "How do I find them? What can I do to introduce myself? How can I help?" </blurb></event>
 <time>10 AM</time>
 <event><title>Hanafuda Koi Koi</title>
@@ -613,8 +613,8 @@ William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d print
 <event><title>Building a Career in IT</title>
 <topic>Tech, Life</topic>
 <room>Windover</room>
-<blurb><participant>Dawn Kuczwara
-Nuri Gocay
+<blurb><participant>Dawn Kuczwara, 
+Nuri Gocay, 
 Mike Yanok
 </participant> Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top. </blurb></event>
 <event><title>Contributing to OSS - Navigating Community</title>
@@ -649,7 +649,7 @@ Mike Yanok
 <event><title>How is Game of Thrones Breaking the Rules of Story Telling?</title>
 <topic>Literature, Film</topic>
 <room>Hamlin</room>
-<blurb><participant>Jeannie Szarama
+<blurb><participant>Jeannie Szarama, 
 Ferrett Steinmetz</participant> Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular?  </blurb></event>
 <event><title>Telescope Observing: The Sun</title>
 <topic>Science</topic>
@@ -753,7 +753,7 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <event><title>Maria DB and Ubuntu Cloud</title>
 <topic>Tech</topic>
 <room>Algonquin B</room>
-<blurb><participant>Colin Charles
+<blurb><participant>Colin Charles, 
 Jorge Castro</participant> This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring. </blurb></event>
 <event><title>Surveillance Can Be Fun: The Future of Civil Liberties in Tech</title>
 <topic>Tech, Science</topic>
@@ -929,7 +929,7 @@ Jorge Castro</participant> This workshop will get into some of the nitty gritty 
 <event><title>Juju: Automate Your Cloud or Home Infrastructure</title>
 <topic>Tech</topic>
 <room>Algonquin B</room>
-<blurb><participant>Jorge Castro
+<blurb><participant>Jorge Castro, 
 Mark Ramm</participant> Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line. </blurb></event>
 <time>4 PM</time>
 <event><title>Weaponized Malware: The future of Cyber Warfare</title>
@@ -1276,8 +1276,8 @@ Mark Ramm</participant> Configure, manage, maintain, deploy and scale efficientl
 <event><title>LIVE PODCAST: Sunday Morning Linux Review</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Tony Bemus
-Mary Tomich
+<blurb><participant>Tony Bemus,
+Mary Tomich,
 Mat Enders</participant> Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review </blurb></event>
 <time>9 AM</time>
 <event><title>Doing What you Love: Turning Passions into a Business</title>
@@ -1604,7 +1604,7 @@ Mat Enders</participant> Tony, Mat, and Mary record an episode of their popular 
 <event><title>Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion</title>
 <topic>Life</topic>
 <room>Nicolet</room>
-<blurb><participant>Heather Fish
+<blurb><participant>Heather Fish,
 Roni Jean Neal</participant> The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life.  </blurb></event>
 <event><title>Tarot as a Gaming Tool</title>
 <topic>Gaming</topic>

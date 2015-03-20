@@ -3122,7 +3122,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 index,69
-speakers,"Mark Haynes
+speakers,"Mark Haynes, 
 Douglas Johnson"
 bookdescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Track,"Tech, Life"
@@ -3134,15 +3134,15 @@ starttimeampm,12 PM
 End Time,12:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Algonquin D', 'Tech, Life', 'The IT Road Warrior', 'Mark Haynes\nDouglas Johnson', 'What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Algonquin D', 'Tech, Life', 'The IT Road Warrior', 'Mark Haynes, \nDouglas Johnson', 'What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/25/2015
-calspeakers,"Mark Haynes
+calspeakers,"Mark Haynes, 
 Douglas Johnson"
 avneeds,Projector
-speakerlist,['Mark Haynes\nDouglas Johnson']
+speakerlist,"['Mark Haynes', '\nDouglas Johnson']"
 hours,0
 totalminutes,50
-speakernosplist,['MarkHaynesDouglasJohnson']
+speakernosplist,"['MarkHaynes', 'DouglasJohnson']"
 caldescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 endtime,12:50
 AV Needs,Projector
@@ -3151,9 +3151,9 @@ Private,PUBLIC
 bookname,The IT Road Warrior
 venue,Algonquin D
 Book Description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
-Presenters,Mark Haynes Douglas Johnson
+Presenters,"Mark Haynes, Douglas Johnson"
 csvsafedescrip,What does it take to become an IT Road Warrior? What are the gadgets- luggage- and contract requirements for living life on the road?
-speakernosp,MarkHaynesDouglasJohnson
+speakernosp,"MarkHaynes,DouglasJohnson"
 starttime,12:00
 roomnosp,AlgonquinD
 Start Date,4/25/2015
@@ -5114,7 +5114,7 @@ Location,Algonquin B
 duration,50 minutes
 description,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 index,113
-speakers,"Jennifer Hamilton
+speakers,"Jennifer Hamilton, 
 Sarah Elkins"
 bookdescrip,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 Track,"Tech, Life"
@@ -5126,15 +5126,15 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin B', 'Tech, Life', 'Troubleshooting in Tech, Health, and Beyond', 'Jennifer Hamilton\nSarah Elkins', ""What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin B', 'Tech, Life', 'Troubleshooting in Tech, Health, and Beyond', 'Jennifer Hamilton, \nSarah Elkins', ""What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/25/2015
-calspeakers,"Jennifer Hamilton
+calspeakers,"Jennifer Hamilton, 
 Sarah Elkins"
 avneeds,Projector
-speakerlist,['Jennifer Hamilton\nSarah Elkins']
+speakerlist,"['Jennifer Hamilton', '\nSarah Elkins']"
 hours,0
 totalminutes,50
-speakernosplist,['JenniferHamiltonSarahElkins']
+speakernosplist,"['JenniferHamilton', 'SarahElkins']"
 caldescrip,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 endtime,9:50
 AV Needs,Projector
@@ -5143,9 +5143,9 @@ Private,PUBLIC
 bookname,"Troubleshooting in Tech, Health, and Beyond"
 venue,Algonquin B
 Book Description,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
-Presenters,Jennifer Hamilton Sarah Elkins
+Presenters,"Jennifer Hamilton, Sarah Elkins"
 csvsafedescrip,What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong- what is wrong- and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)
-speakernosp,JenniferHamiltonSarahElkins
+speakernosp,"JenniferHamilton,SarahElkins"
 starttime,9:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -5251,7 +5251,7 @@ Location,Algonquin C
 duration,50 minutes
 description,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
 index,116
-speakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
+speakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, 
 William A. Rowe Jr."
 bookdescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
 Track,Tech
@@ -5263,15 +5263,15 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer\nWilliam A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', 'FALSE', 'PUBLIC', '']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, \nWilliam A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', 'FALSE', 'PUBLIC', '']"
 End Date,4/25/2015
-calspeakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
+calspeakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, 
 William A. Rowe Jr."
 avneeds,none
-speakerlist,"[""Kevin O'Brien"", 'Tom Callaway', 'Ruth Suehle', 'Emily Gonyer\nWilliam A. Rowe Jr.']"
+speakerlist,"[""Kevin O'Brien"", 'Tom Callaway', 'Ruth Suehle', 'Emily Gonyer', '\nWilliam A. Rowe Jr.']"
 hours,0
 totalminutes,50
-speakernosplist,"[""KevinO'Brien"", 'TomCallaway', 'RuthSuehle', 'EmilyGonyerWilliamA.RoweJr.']"
+speakernosplist,"[""KevinO'Brien"", 'TomCallaway', 'RuthSuehle', 'EmilyGonyer', 'WilliamA.RoweJr.']"
 caldescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'"
 endtime,9:50
 AV Needs,
@@ -5280,9 +5280,9 @@ Private,PUBLIC
 bookname,Getting Involved in the Open Source Community
 venue,Algonquin C
 Book Description,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
-Presenters,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer William A. Rowe Jr."
+Presenters,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr."
 csvsafedescrip,Whether you are into circuitry- soda- 3d printing- DIY furniture- or software- there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'
-speakernosp,"KevinO'Brien,TomCallaway,RuthSuehle,EmilyGonyerWilliamA.RoweJr."
+speakernosp,"KevinO'Brien,TomCallaway,RuthSuehle,EmilyGonyer,WilliamA.RoweJr."
 starttime,9:00
 roomnosp,AlgonquinC
 Start Date,4/25/2015
@@ -6603,8 +6603,8 @@ Location,Windover
 duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,146
-speakers,"Dawn Kuczwara
-Nuri Gocay
+speakers,"Dawn Kuczwara, 
+Nuri Gocay, 
 Mike Yanok
 "
 bookdescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
@@ -6617,17 +6617,17 @@ starttimeampm,11 AM
 End Time,11:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Dawn Kuczwara\nNuri Gocay\nMike Yanok\n', 'Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Dawn Kuczwara, \nNuri Gocay, \nMike Yanok\n', 'Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
 End Date,4/25/2015
-calspeakers,"Dawn Kuczwara
-Nuri Gocay
+calspeakers,"Dawn Kuczwara, 
+Nuri Gocay, 
 Mike Yanok
 "
 avneeds,none
-speakerlist,['Dawn Kuczwara\nNuri Gocay\nMike Yanok\n']
+speakerlist,"['Dawn Kuczwara', '\nNuri Gocay', '\nMike Yanok\n']"
 hours,0
 totalminutes,50
-speakernosplist,['DawnKuczwaraNuriGocayMikeYanok']
+speakernosplist,"['DawnKuczwara', 'NuriGocay', 'MikeYanok']"
 caldescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 endtime,11:50
 AV Needs,
@@ -6636,9 +6636,9 @@ Private,PUBLIC
 bookname,Building a Career in IT
 venue,Windover
 Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-Presenters,Dawn Kuczwara Nuri Gocay Mike Yanok 
+Presenters,"Dawn Kuczwara, Nuri Gocay, Mike Yanok "
 csvsafedescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,DawnKuczwaraNuriGocayMikeYanok
+speakernosp,"DawnKuczwara,NuriGocay,MikeYanok"
 starttime,11:00
 roomnosp,Windover
 Start Date,4/25/2015
@@ -6969,7 +6969,7 @@ Location,Hamlin
 duration,50 minutes
 description,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 index,154
-speakers,"Jeannie Szarama
+speakers,"Jeannie Szarama, 
 Ferrett Steinmetz"
 bookdescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 Track,"Literature, Film"
@@ -6981,15 +6981,15 @@ starttimeampm,12 PM
 End Time,12:50
 tracknosp,"['Literature', 'Film']"
 endday,4/25/2015
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Hamlin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama\nFerrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', 'FALSE', 'PUBLIC', '']"
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Hamlin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama, \nFerrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', 'FALSE', 'PUBLIC', '']"
 End Date,4/25/2015
-calspeakers,"Jeannie Szarama
+calspeakers,"Jeannie Szarama, 
 Ferrett Steinmetz"
 avneeds,none
-speakerlist,['Jeannie Szarama\nFerrett Steinmetz']
+speakerlist,"['Jeannie Szarama', '\nFerrett Steinmetz']"
 hours,0
 totalminutes,50
-speakernosplist,['JeannieSzaramaFerrettSteinmetz']
+speakernosplist,"['JeannieSzarama', 'FerrettSteinmetz']"
 caldescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 endtime,12:50
 AV Needs,
@@ -6998,9 +6998,9 @@ Private,PUBLIC
 bookname,How is Game of Thrones Breaking the Rules of Story Telling?
 venue,Hamlin
 Book Description,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
-Presenters,Jeannie Szarama Ferrett Steinmetz
+Presenters,"Jeannie Szarama, Ferrett Steinmetz"
 csvsafedescrip,Main characters die- the popular characters never win- and our expectations are thwarted at every turn. How has it become so popular? 
-speakernosp,JeannieSzaramaFerrettSteinmetz
+speakernosp,"JeannieSzarama,FerrettSteinmetz"
 starttime,12:00
 roomnosp,Hamlin
 Start Date,4/25/2015
@@ -8101,7 +8101,7 @@ duration,50 minutes
 description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 index,179
-speakers,"Colin Charles
+speakers,"Colin Charles, 
 Jorge Castro"
 bookdescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 Track,Tech
@@ -8113,15 +8113,15 @@ starttimeampm,1 PM
 End Time,13:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin B', 'Tech', 'Maria DB and Ubuntu Cloud', 'Colin Charles\nJorge Castro', ""This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be\ndeploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."", 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin B', 'Tech', 'Maria DB and Ubuntu Cloud', 'Colin Charles, \nJorge Castro', ""This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be\ndeploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."", 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/25/2015
-calspeakers,"Colin Charles
+calspeakers,"Colin Charles, 
 Jorge Castro"
 avneeds,Projector
-speakerlist,['Colin Charles\nJorge Castro']
+speakerlist,"['Colin Charles', '\nJorge Castro']"
 hours,0
 totalminutes,50
-speakernosplist,['ColinCharlesJorgeCastro']
+speakernosplist,"['ColinCharles', 'JorgeCastro']"
 caldescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 endtime,13:50
@@ -8131,9 +8131,9 @@ Private,PUBLIC
 bookname,Maria DB and Ubuntu Cloud
 venue,Algonquin B
 Book Description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
-Presenters,Colin Charles Jorge Castro
+Presenters,"Colin Charles, Jorge Castro"
 csvsafedescrip,This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations- including load balanced master/slave clusters with monitoring.
-speakernosp,ColinCharlesJorgeCastro
+speakernosp,"ColinCharles,JorgeCastro"
 starttime,13:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -9906,7 +9906,7 @@ Location,Algonquin B
 duration,50 minutes
 description,"Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line."
 index,219
-speakers,"Jorge Castro
+speakers,"Jorge Castro, 
 Mark Ramm"
 bookdescrip,"Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line."
 Track,Tech
@@ -9918,15 +9918,15 @@ starttimeampm,5 PM
 End Time,17:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Algonquin B', 'Tech', 'Juju: Automate Your Cloud or Home Infrastructure', 'Jorge Castro\nMark Ramm', 'Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line.', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Algonquin B', 'Tech', 'Juju: Automate Your Cloud or Home Infrastructure', 'Jorge Castro, \nMark Ramm', 'Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line.', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/25/2015
-calspeakers,"Jorge Castro
+calspeakers,"Jorge Castro, 
 Mark Ramm"
 avneeds,Projector
-speakerlist,['Jorge Castro\nMark Ramm']
+speakerlist,"['Jorge Castro', '\nMark Ramm']"
 hours,0
 totalminutes,50
-speakernosplist,['JorgeCastroMarkRamm']
+speakernosplist,"['JorgeCastro', 'MarkRamm']"
 caldescrip,"Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line."
 endtime,17:50
 AV Needs,Projector
@@ -9935,9 +9935,9 @@ Private,PUBLIC
 bookname,Juju: Automate Your Cloud or Home Infrastructure
 venue,Algonquin B
 Book Description,"Configure, manage, maintain, deploy and scale efficiently with best-practice Charms on any public, private or hybrid cloud from a powerful GUI or the command-line."
-Presenters,Jorge Castro Mark Ramm
+Presenters,"Jorge Castro, Mark Ramm"
 csvsafedescrip,Configure- manage- maintain- deploy and scale efficiently with best-practice Charms on any public- private or hybrid cloud from a powerful GUI or the command-line.
-speakernosp,JorgeCastroMarkRamm
+speakernosp,"JorgeCastro,MarkRamm"
 starttime,17:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -13675,8 +13675,8 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 index,302
-speakers,"Tony Bemus
-Mary Tomich
+speakers,"Tony Bemus,
+Mary Tomich,
 Mat Enders"
 bookdescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Track,Tech
@@ -13688,16 +13688,16 @@ starttimeampm,8 AM
 End Time,8:50
 tracknosp,['Tech']
 endday,4/26/2015
-input,"['4/26/2015', '8:00', '4/26/2015', '8:50', 'Charlevoix A', 'Tech', 'LIVE PODCAST: Sunday Morning Linux Review', 'Tony Bemus\nMary Tomich\nMat Enders', 'Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review', 'FALSE', 'PUBLIC', '']"
+input,"['4/26/2015', '8:00', '4/26/2015', '8:50', 'Charlevoix A', 'Tech', 'LIVE PODCAST: Sunday Morning Linux Review', 'Tony Bemus,\nMary Tomich,\nMat Enders', 'Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review', 'FALSE', 'PUBLIC', '']"
 End Date,4/26/2015
-calspeakers,"Tony Bemus
-Mary Tomich
+calspeakers,"Tony Bemus,
+Mary Tomich,
 Mat Enders"
 avneeds,none
-speakerlist,['Tony Bemus\nMary Tomich\nMat Enders']
+speakerlist,"['Tony Bemus,\nMary Tomich,\nMat Enders']"
 hours,0
 totalminutes,50
-speakernosplist,['TonyBemusMaryTomichMatEnders']
+speakernosplist,"['TonyBemus', 'MaryTomich', 'MatEnders']"
 caldescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 endtime,8:50
 AV Needs,
@@ -13706,9 +13706,9 @@ Private,PUBLIC
 bookname,LIVE PODCAST: Sunday Morning Linux Review
 venue,Charlevoix A
 Book Description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
-Presenters,Tony Bemus Mary Tomich Mat Enders
+Presenters,"Tony Bemus, Mary Tomich, Mat Enders"
 csvsafedescrip,Tony- Mat- and Mary record an episode of their popular Linux podcast- the Sunday Morning Linux Review
-speakernosp,TonyBemusMaryTomichMatEnders
+speakernosp,"TonyBemus,MaryTomich,MatEnders"
 starttime,8:00
 roomnosp,CharlevoixA
 Start Date,4/26/2015
@@ -17255,7 +17255,7 @@ Location,Nicolet
 duration,50 minutes
 description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 index,381
-speakers,"Heather Fish
+speakers,"Heather Fish,
 Roni Jean Neal"
 bookdescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 Track,Life
@@ -17267,15 +17267,15 @@ starttimeampm,2 PM
 End Time,14:50
 tracknosp,['Life']
 endday,4/26/2015
-input,"['4/26/2015', '14:00', '4/26/2015', '14:50', 'Nicolet', 'Life', 'Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion', 'Heather Fish\nRoni Jean Neal', 'The fastest growing religious category in the US is \xe2\x80\x9cunaffiliated,\xe2\x80\x9d which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don\xe2\x80\x99t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. ', 'FALSE', 'PUBLIC', '']"
+input,"['4/26/2015', '14:00', '4/26/2015', '14:50', 'Nicolet', 'Life', 'Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion', 'Heather Fish,\nRoni Jean Neal', 'The fastest growing religious category in the US is \xe2\x80\x9cunaffiliated,\xe2\x80\x9d which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don\xe2\x80\x99t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. ', 'FALSE', 'PUBLIC', '']"
 End Date,4/26/2015
-calspeakers,"Heather Fish
+calspeakers,"Heather Fish,
 Roni Jean Neal"
 avneeds,none
-speakerlist,['Heather Fish\nRoni Jean Neal']
+speakerlist,"['Heather Fish,\nRoni Jean Neal']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherFishRoniJeanNeal']
+speakernosplist,"['HeatherFish', 'RoniJeanNeal']"
 caldescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 endtime,14:50
 AV Needs,
@@ -17284,9 +17284,9 @@ Private,PUBLIC
 bookname,Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion
 venue,Nicolet
 Book Description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population. Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
-Presenters,Heather Fish Roni Jean Neal
+Presenters,"Heather Fish, Roni Jean Neal"
 csvsafedescrip,The fastest growing religious category in the US is “unaffiliated-” which comprises approximately 16-20% of the population.  Including spiritual atheists- agnostics- and those whose spiritual practices and beliefs don’t conform to any particular religion- individuals in this group use their own sense of awe- wonder- and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition- science- and the natural world to develop relevance and purpose in modern life. 
-speakernosp,HeatherFishRoniJeanNeal
+speakernosp,"HeatherFish,RoniJeanNeal"
 starttime,14:00
 roomnosp,Nicolet
 Start Date,4/26/2015

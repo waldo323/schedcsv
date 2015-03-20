@@ -1027,7 +1027,8 @@
         "track": "Tech, Life",
         "start_time": "12:00",
         "presenters": [
-            "Mark Haynes\nDouglas Johnson"
+            "Mark Haynes",
+            "\nDouglas Johnson"
         ],
         "location": "Algonquin D",
         "minutes": 50,
@@ -1675,7 +1676,8 @@
         "track": "Tech, Life",
         "start_time": "9:00",
         "presenters": [
-            "Jennifer Hamilton\nSarah Elkins"
+            "Jennifer Hamilton",
+            "\nSarah Elkins"
         ],
         "location": "Algonquin B",
         "minutes": 50,
@@ -1721,7 +1723,8 @@
             "Kevin O'Brien",
             "Tom Callaway",
             "Ruth Suehle",
-            "Emily Gonyer\nWilliam A. Rowe Jr."
+            "Emily Gonyer",
+            "\nWilliam A. Rowe Jr."
         ],
         "location": "Algonquin C",
         "minutes": 50,
@@ -2171,7 +2174,9 @@
         "track": "Tech, Life",
         "start_time": "11:00",
         "presenters": [
-            "Dawn Kuczwara\nNuri Gocay\nMike Yanok\n"
+            "Dawn Kuczwara",
+            "\nNuri Gocay",
+            "\nMike Yanok\n"
         ],
         "location": "Windover",
         "minutes": 50,
@@ -2290,7 +2295,8 @@
         "track": "Literature, Film",
         "start_time": "12:00",
         "presenters": [
-            "Jeannie Szarama\nFerrett Steinmetz"
+            "Jeannie Szarama",
+            "\nFerrett Steinmetz"
         ],
         "location": "Hamlin",
         "minutes": 50,
@@ -2672,7 +2678,8 @@
         "track": "Tech",
         "start_time": "13:00",
         "presenters": [
-            "Colin Charles\nJorge Castro"
+            "Colin Charles",
+            "\nJorge Castro"
         ],
         "location": "Algonquin B",
         "minutes": 50,
@@ -3278,7 +3285,8 @@
         "track": "Tech",
         "start_time": "17:00",
         "presenters": [
-            "Jorge Castro\nMark Ramm"
+            "Jorge Castro",
+            "\nMark Ramm"
         ],
         "location": "Algonquin B",
         "minutes": 50,
@@ -4526,7 +4534,7 @@
         "track": "Tech",
         "start_time": "8:00",
         "presenters": [
-            "Tony Bemus\nMary Tomich\nMat Enders"
+            "Tony Bemus,\nMary Tomich,\nMat Enders"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
@@ -5708,7 +5716,7 @@
         "track": "Life",
         "start_time": "14:00",
         "presenters": [
-            "Heather Fish\nRoni Jean Neal"
+            "Heather Fish,\nRoni Jean Neal"
         ],
         "location": "Nicolet",
         "minutes": 50,
