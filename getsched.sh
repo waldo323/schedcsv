@@ -8,7 +8,8 @@ echo get the schedule from google drive
 # wget --output-document sched.csv "https://docs.google.com/spreadsheet/ccc?key=0AsysQw--cSRTdEd4b005YmhGZmVTNUtzZXlCR0Z0WlE&output=csv"
 
 #schedule for 2015
-wget --output-document sched.csv https://docs.google.com/spreadsheets/d/1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4/export?format=csv&id=1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4
+wget --output-document sched.csv https://docs.google.com/spreadsheets/d/1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4/export?format=csv&id=1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4 &
+wait %1
 
 
 # schedule for 2014
