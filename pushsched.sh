@@ -8,8 +8,4 @@ echo committing to local repo
 git commit -a -m "updated schedule to the lastest downloaded version as of $SCHEDDATE"
 
 ## git push sends it up to github
-echo pushing up to github
-git push
-
-
-echo push successful!
+echo pushing up to github && git push && echo push successful!
