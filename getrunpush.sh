@@ -19,7 +19,7 @@ cp penguicon.schedule.xml 2015.penguicon.final.schedule.xml
 # zip up the speakers' csv import to ical files
 cd ./output/schedbyspeaker && zip -j ../schedsbyspeaker.zip ./* && cd ../../
 #git add ./output/schedsbyspeaker.zip
-git add -A
+#git add -A
 echo time and date of task  
 date
 # push the schedule and output files to github ./pushsched.sh
