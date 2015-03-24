@@ -13528,7 +13528,7 @@ Location,Algonquin B
 duration,1 hour and 50 minutes
 description,Join #teamswoop for some chiptunes awesomeness!
 index,299
-speakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, "
+speakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B"
 bookdescrip,Join #teamswoop for some chiptunes awesomeness!
 Track,Music
 startday,4/26/2015
@@ -13539,14 +13539,14 @@ starttimeampm,12 AM
 End Time,1:50
 tracknosp,['Music']
 endday,4/26/2015
-input,"['4/26/2015', '0:00', '4/26/2015', '1:50', 'Algonquin B', 'Music', 'Chip Rave w/ #teamswoop', 'Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, ', 'Join #teamswoop for some chiptunes awesomeness!', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/26/2015', '0:00', '4/26/2015', '1:50', 'Algonquin B', 'Music', 'Chip Rave w/ #teamswoop', 'Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B', 'Join #teamswoop for some chiptunes awesomeness!', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/26/2015
-calspeakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, "
+calspeakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B"
 avneeds,Projector
-speakerlist,"['Barbeque', 'Snesei', 'Monotony', 'Walk in Circles', 'DJ Seanni B', '']"
+speakerlist,"['Barbeque', 'Snesei', 'Monotony', 'Walk in Circles', 'DJ Seanni B']"
 hours,1
 totalminutes,110
-speakernosplist,"['Barbeque', 'Snesei', 'Monotony', 'WalkinCircles', 'DJSeanniB', '']"
+speakernosplist,"['Barbeque', 'Snesei', 'Monotony', 'WalkinCircles', 'DJSeanniB']"
 caldescrip,Join #teamswoop for some chiptunes awesomeness!
 endtime,1:50
 AV Needs,Projector
@@ -13555,9 +13555,9 @@ Private,PUBLIC
 bookname,Chip Rave w/ #teamswoop
 venue,Algonquin B
 Book Description,Join #teamswoop for some chiptunes awesomeness!
-Presenters,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, "
+Presenters,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B"
 csvsafedescrip,Join #teamswoop for some chiptunes awesomeness!
-speakernosp,"Barbeque,Snesei,Monotony,WalkinCircles,DJSeanniB,"
+speakernosp,"Barbeque,Snesei,Monotony,WalkinCircles,DJSeanniB"
 starttime,0:00
 roomnosp,AlgonquinB
 Start Date,4/26/2015
@@ -13663,9 +13663,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 index,302
-speakers,"Tony Bemus,
-Mary Tomich,
-Mat Enders"
+speakers,"Tony Bemus, Mary Tomich, Mat Enders"
 bookdescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Track,Tech
 startday,4/26/2015
@@ -13676,13 +13674,11 @@ starttimeampm,8 AM
 End Time,8:50
 tracknosp,['Tech']
 endday,4/26/2015
-input,"['4/26/2015', '8:00', '4/26/2015', '8:50', 'Charlevoix A', 'Tech', 'LIVE PODCAST: Sunday Morning Linux Review', 'Tony Bemus,\nMary Tomich,\nMat Enders', 'Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review', 'FALSE', 'PUBLIC', '']"
+input,"['4/26/2015', '8:00', '4/26/2015', '8:50', 'Charlevoix A', 'Tech', 'LIVE PODCAST: Sunday Morning Linux Review', 'Tony Bemus, Mary Tomich, Mat Enders', 'Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review', 'FALSE', 'PUBLIC', '']"
 End Date,4/26/2015
-calspeakers,"Tony Bemus,
-Mary Tomich,
-Mat Enders"
+calspeakers,"Tony Bemus, Mary Tomich, Mat Enders"
 avneeds,none
-speakerlist,"['Tony Bemus,\nMary Tomich,\nMat Enders']"
+speakerlist,"['Tony Bemus', 'Mary Tomich', 'Mat Enders']"
 hours,0
 totalminutes,50
 speakernosplist,"['TonyBemus', 'MaryTomich', 'MatEnders']"

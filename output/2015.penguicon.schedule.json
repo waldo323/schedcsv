@@ -4493,8 +4493,7 @@
             "Snesei",
             "Monotony",
             "Walk in Circles",
-            "DJ Seanni B",
-            ""
+            "DJ Seanni B"
         ],
         "location": "Algonquin B",
         "minutes": 110,
@@ -4536,7 +4535,9 @@
         "track": "Tech",
         "start_time": "8:00",
         "presenters": [
-            "Tony Bemus,\nMary Tomich,\nMat Enders"
+            "Tony Bemus",
+            "Mary Tomich",
+            "Mat Enders"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
