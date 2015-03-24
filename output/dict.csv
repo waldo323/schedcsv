@@ -2852,7 +2852,7 @@ Location,Hamlin
 duration,50 minutes
 description,Come and listen to two masters of the modern horror story read and discuss their latest works.
 index,63
-speakers,"Nicole Castle, Ken MacGregor, "
+speakers,"Nicole Castle, Ken MacGregor"
 bookdescrip,Come and listen to two masters of the modern horror story read and discuss their latest works.
 Track,Literature
 startday,4/26/2015
@@ -2863,14 +2863,14 @@ starttimeampm,12 PM
 End Time,12:50
 tracknosp,['Literature']
 endday,4/26/2015
-input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Hamlin', 'Literature', 'Author Reading: Nicole Castle and Ken MacGregor', 'Nicole Castle, Ken MacGregor, ', 'Come and listen to two masters of the modern horror story read and discuss their latest works.', 'FALSE', 'PUBLIC', '']"
+input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Hamlin', 'Literature', 'Author Reading: Nicole Castle and Ken MacGregor', 'Nicole Castle, Ken MacGregor', 'Come and listen to two masters of the modern horror story read and discuss their latest works.', 'FALSE', 'PUBLIC', '']"
 End Date,4/26/2015
-calspeakers,"Nicole Castle, Ken MacGregor, "
+calspeakers,"Nicole Castle, Ken MacGregor"
 avneeds,none
-speakerlist,"['Nicole Castle', 'Ken MacGregor', '']"
+speakerlist,"['Nicole Castle', 'Ken MacGregor']"
 hours,0
 totalminutes,50
-speakernosplist,"['NicoleCastle', 'KenMacGregor', '']"
+speakernosplist,"['NicoleCastle', 'KenMacGregor']"
 caldescrip,Come and listen to two masters of the modern horror story read and discuss their latest works.
 endtime,12:50
 AV Needs,
@@ -2879,9 +2879,9 @@ Private,PUBLIC
 bookname,Author Reading: Nicole Castle and Ken MacGregor
 venue,Hamlin
 Book Description,Come and listen to two masters of the modern horror story read and discuss their latest works.
-Presenters,"Nicole Castle, Ken MacGregor, "
+Presenters,"Nicole Castle, Ken MacGregor"
 csvsafedescrip,Come and listen to two masters of the modern horror story read and discuss their latest works.
-speakernosp,"NicoleCastle,KenMacGregor,"
+speakernosp,"NicoleCastle,KenMacGregor"
 starttime,12:00
 roomnosp,Hamlin
 Start Date,4/26/2015
@@ -3122,8 +3122,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 index,69
-speakers,"Mark Haynes, 
-Douglas Johnson"
+speakers,"Mark Haynes, Douglas Johnson"
 bookdescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Track,"Tech, Life"
 startday,4/25/2015
@@ -3134,12 +3133,11 @@ starttimeampm,12 PM
 End Time,12:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Algonquin D', 'Tech, Life', 'The IT Road Warrior', 'Mark Haynes, \nDouglas Johnson', 'What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?', 'FALSE', 'PUBLIC', 'Projector']"
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Algonquin D', 'Tech, Life', 'The IT Road Warrior', 'Mark Haynes, Douglas Johnson', 'What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?', 'FALSE', 'PUBLIC', 'Projector']"
 End Date,4/25/2015
-calspeakers,"Mark Haynes, 
-Douglas Johnson"
+calspeakers,"Mark Haynes, Douglas Johnson"
 avneeds,Projector
-speakerlist,"['Mark Haynes', '\nDouglas Johnson']"
+speakerlist,"['Mark Haynes', 'Douglas Johnson']"
 hours,0
 totalminutes,50
 speakernosplist,"['MarkHaynes', 'DouglasJohnson']"
@@ -3259,9 +3257,7 @@ Location,Bar
 duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,72
-speakers,"
-Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen 
+speakers,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen
 "
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon Events
@@ -3273,14 +3269,12 @@ starttimeampm,9 PM
 End Time,21:50
 tracknosp,['PenguiconEvents']
 endday,4/24/2015
-input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Bar', 'Penguicon Events', 'Guest of Honor Social Hour', '\nAral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen \n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', 'FALSE', 'PUBLIC', '']"
+input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Bar', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen\n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', 'FALSE', 'PUBLIC', '']"
 End Date,4/24/2015
-calspeakers,"
-Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen 
+calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen
 "
 avneeds,none
-speakerlist,"['\nAral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen \n']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen\n']"
 hours,0
 totalminutes,50
 speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
@@ -3292,7 +3286,7 @@ Private,PUBLIC
 bookname,Guest of Honor Social Hour
 venue,Bar
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-Presenters," Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
+Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
 starttime,21:00
@@ -6603,9 +6597,7 @@ Location,Windover
 duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,146
-speakers,"Dawn Kuczwara, 
-Nuri Gocay, 
-Mike Yanok
+speakers,"Dawn Kuczwara, Nuri Gocay, Mike Yanok
 "
 bookdescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Track,"Tech, Life"
@@ -6617,14 +6609,12 @@ starttimeampm,11 AM
 End Time,11:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Dawn Kuczwara, \nNuri Gocay, \nMike Yanok\n', 'Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Dawn Kuczwara, Nuri Gocay, Mike Yanok\n', 'Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', 'FALSE', 'PUBLIC', '']"
 End Date,4/25/2015
-calspeakers,"Dawn Kuczwara, 
-Nuri Gocay, 
-Mike Yanok
+calspeakers,"Dawn Kuczwara, Nuri Gocay, Mike Yanok
 "
 avneeds,none
-speakerlist,"['Dawn Kuczwara', '\nNuri Gocay', '\nMike Yanok\n']"
+speakerlist,"['Dawn Kuczwara', 'Nuri Gocay', 'Mike Yanok\n']"
 hours,0
 totalminutes,50
 speakernosplist,"['DawnKuczwara', 'NuriGocay', 'MikeYanok']"
