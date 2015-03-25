@@ -16,13 +16,11 @@ else:
     filename = "sched.csv"
 
 # quick and simple template for the output for the schedule book
-programbook_template ="""<event><title>%(bookname)s</title>
-<topic>%(event_type)s</topic>
+programbook_template ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>\n"""
 
-hourtemplate ="""<event><title>%(bookname)s</title>
-<topic>%(event_type)s</topic>
+hourtemplate ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>\n"""
 
