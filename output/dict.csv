@@ -633,45 +633,45 @@ minutes,50
 allday,FALSE
 event_type,Action Adventure
 All Day Event,FALSE
-event_end,19:50
+event_end,11:50
 event_type_list,['Action Adventure']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,11 AM
 Location,Algonquin C
 duration,50 minutes
 description,Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage.
 index,1
-speakers,"Matt Arnold, Heather Fish, Moshe Yudkowsky"
+speakers,"Matt Arnold, Heather Fish, Moshe Yudkowsky, Misha Tuesday"
 bookdescrip,Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage.
 Track,Action Adventure
 startday,4/25/2015
 Title,Adventure As A Way Of Life
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
 tracknosp,['ActionAdventure']
 endday,4/25/2015
-input,"['4/25/2015', '19:00', '4/25/2015', '19:50', 'Algonquin C', 'Action Adventure', 'Adventure As A Way Of Life', 'Matt Arnold, Heather Fish, Moshe Yudkowsky', ""Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Algonquin C', 'Action Adventure', 'Adventure As A Way Of Life', 'Matt Arnold, Heather Fish, Moshe Yudkowsky, Misha Tuesday', ""Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Matt Arnold, Heather Fish, Moshe Yudkowsky"
+calspeakers,"Matt Arnold, Heather Fish, Moshe Yudkowsky, Misha Tuesday"
 avneeds,none
-speakerlist,"['Matt Arnold', 'Heather Fish', 'Moshe Yudkowsky']"
+speakerlist,"['Matt Arnold', 'Heather Fish', 'Moshe Yudkowsky', 'Misha Tuesday']"
 hours,0
 totalminutes,50
-speakernosplist,"['MattArnold', 'HeatherFish', 'MosheYudkowsky']"
+speakernosplist,"['MattArnold', 'HeatherFish', 'MosheYudkowsky', 'MishaTuesday']"
 caldescrip,Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage.
-endtime,19:50
+endtime,11:50
 AV Needs,
 name,Adventure As A Way Of Life
 Private,PUBLIC
 bookname,Adventure As A Way Of Life
 venue,Algonquin C
 Book Description,Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage.
-Presenters,"Matt Arnold, Heather Fish, Moshe Yudkowsky"
+Presenters,"Matt Arnold, Heather Fish, Moshe Yudkowsky, Misha Tuesday"
 csvsafedescrip,Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage.
-speakernosp,"MattArnold,HeatherFish,MosheYudkowsky"
-starttime,19:00
+speakernosp,"MattArnold,HeatherFish,MosheYudkowsky,MishaTuesday"
+starttime,11:00
 roomnosp,AlgonquinC
 Start Date,4/25/2015
 minutes,50
@@ -2842,10 +2842,10 @@ minutes,50
 allday,FALSE
 event_type,Costuming
 All Day Event,FALSE
-event_end,18:50
+event_end,11:50
 event_type_list,['Costuming']
 private,PUBLIC
-endtimeampm,6 PM
+endtimeampm,11 AM
 Location,Nicolet
 duration,1 hour and 50 minutes
 description,"With some pvc pipe, a heat gun, and fabric, flight is possible. At least, the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty."
@@ -2853,16 +2853,16 @@ index,50
 speakers,Kayla Ray
 bookdescrip,"With some pvc pipe, a heat gun, and fabric, flight is possible. At least, the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty."
 Track,Costuming
-startday,4/24/2015
+startday,4/25/2015
 Title,Taking Flight: Making Moving Bat Wings
-Start Time,17:00
-event_start,17:00
-starttimeampm,5 PM
-End Time,18:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,11:50
 tracknosp,['Costuming']
-endday,4/24/2015
-input,"['4/24/2015', '17:00', '4/24/2015', '18:50', 'Nicolet', 'Costuming', 'Taking Flight: Making Moving Bat Wings', 'Kayla Ray', ""With some pvc pipe, a heat gun, and fabric, flight is possible. At least, the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty."", '01hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
-End Date,4/24/2015
+endday,4/25/2015
+input,"['4/25/2015', '10:00', '4/25/2015', '11:50', 'Nicolet', 'Costuming', 'Taking Flight: Making Moving Bat Wings', 'Kayla Ray', ""With some pvc pipe, a heat gun, and fabric, flight is possible. At least, the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty."", '01hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+End Date,4/25/2015
 calspeakers,Kayla Ray
 avneeds,Projector
 speakerlist,['Kayla Ray']
@@ -2870,7 +2870,7 @@ hours,1
 totalminutes,110
 speakernosplist,['KaylaRay']
 caldescrip,"With some pvc pipe, a heat gun, and fabric, flight is possible. At least, the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty."
-endtime,18:50
+endtime,11:50
 AV Needs,Projector
 name,Taking Flight: Making Moving Bat Wings
 Private,PUBLIC
@@ -2880,9 +2880,9 @@ Book Description,"With some pvc pipe, a heat gun, and fabric, flight is possible
 Presenters,Kayla Ray
 csvsafedescrip,With some pvc pipe- a heat gun- and fabric- flight is possible. At least- the appearance of flight! Come and learn how to make moving wings for any of your cosplay needs or if you're just feeling batty.
 speakernosp,KaylaRay
-starttime,17:00
+starttime,10:00
 roomnosp,Nicolet
-Start Date,4/24/2015
+Start Date,4/25/2015
 minutes,50
 allday,FALSE
 event_type,DIY
@@ -2977,11 +2977,11 @@ minutes,50
 allday,FALSE
 event_type,"DIY, Tech"
 All Day Event,FALSE
-event_end,22:50
+event_end,10:50
 event_type_list,"['DIY', 'Tech']"
 private,PUBLIC
-endtimeampm,10 PM
-Location,Algonquin D
+endtimeampm,10 AM
+Location,Board of Trustees
 duration,50 minutes
 description,"Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group."
 index,53
@@ -2990,13 +2990,13 @@ bookdescrip,"Show off electronics projects that you have been working on, and di
 Track,"DIY, Tech"
 startday,4/25/2015
 Title,BoF: Electronics Projects Show and Tell
-Start Time,22:00
-event_start,22:00
-starttimeampm,10 PM
-End Time,22:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,"['DIY', 'Tech']"
 endday,4/25/2015
-input,"['4/25/2015', '22:00', '4/25/2015', '22:50', 'Algonquin D', 'DIY, Tech', 'BoF: Electronics Projects Show and Tell', '', 'Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Board of Trustees', 'DIY, Tech', 'BoF: Electronics Projects Show and Tell', '', 'Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,
 avneeds,none
@@ -3005,18 +3005,18 @@ hours,0
 totalminutes,50
 speakernosplist,['']
 caldescrip,"Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group."
-endtime,22:50
+endtime,10:50
 AV Needs,
 name,BoF: Electronics Projects Show and Tell
 Private,PUBLIC
 bookname,BoF: Electronics Projects Show and Tell
-venue,Algonquin D
+venue,Board of Trustees
 Book Description,"Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group."
 Presenters,
 csvsafedescrip,Show off electronics projects that you have been working on- and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event- bring a laptop or another way to show it to the group.
 speakernosp,
-starttime,22:00
-roomnosp,AlgonquinD
+starttime,10:00
+roomnosp,BoardofTrustees
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -3564,11 +3564,11 @@ minutes,50
 allday,FALSE
 event_type,Eco
 All Day Event,FALSE
-event_end,11:50
+event_end,17:50
 event_type_list,['Eco']
 private,PUBLIC
-endtimeampm,11 AM
-Location,Algonquin C
+endtimeampm,5 PM
+Location,Charlevoix A
 duration,50 minutes
 description,Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.
 index,66
@@ -3577,13 +3577,13 @@ bookdescrip,Lots of fun surprises and ideas for making use of a 5 gallon bucket 
 Track,Eco
 startday,4/25/2015
 Title,12 Uses for a 5-Gallon Bucket in the Garden
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
 tracknosp,['Eco']
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Algonquin C', 'Eco', '12 Uses for a 5-Gallon Bucket in the Garden', 'Janice Leach ', 'Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Charlevoix A', 'Eco', '12 Uses for a 5-Gallon Bucket in the Garden', 'Janice Leach ', 'Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Janice Leach 
 avneeds,none
@@ -3592,18 +3592,18 @@ hours,0
 totalminutes,50
 speakernosplist,['JaniceLeach']
 caldescrip,Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.
-endtime,11:50
+endtime,17:50
 AV Needs,
 name,12 Uses for a 5-Gallon Bucket in the Garden
 Private,PUBLIC
 bookname,12 Uses for a 5-Gallon Bucket in the Garden
-venue,Algonquin C
+venue,Charlevoix A
 Book Description,Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.
 Presenters,Janice Leach 
 csvsafedescrip,Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters.
 speakernosp,JaniceLeach
-starttime,11:00
-roomnosp,AlgonquinC
+starttime,17:00
+roomnosp,CharlevoixA
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -5831,10 +5831,10 @@ minutes,50
 allday,FALSE
 event_type,Gaming
 All Day Event,FALSE
-event_end,17:50
+event_end,13:50
 event_type_list,['Gaming']
 private,PUBLIC
-endtimeampm,5 PM
+endtimeampm,1 PM
 Location,Gaming [Lobby]
 duration,50 minutes
 description,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.
@@ -5843,16 +5843,16 @@ index,116
 speakers,Mark Geary
 bookdescrip,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers. "
 Track,Gaming
-startday,4/25/2015
+startday,4/26/2015
 Title,Carabande (aka PitchCar)
-Start Time,17:00
-event_start,17:00
-starttimeampm,5 PM
-End Time,17:50
+Start Time,13:00
+event_start,13:00
+starttimeampm,1 PM
+End Time,13:50
 tracknosp,['Gaming']
-endday,4/25/2015
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Gaming [Lobby]', 'Gaming', 'Carabande (aka PitchCar)', 'Mark Geary', ""A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/26/2015
+input,"['4/26/2015', '13:00', '4/26/2015', '13:50', 'Gaming [Lobby]', 'Gaming', 'Carabande (aka PitchCar)', 'Mark Geary', ""A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/26/2015
 calspeakers,Mark Geary
 avneeds,none
 speakerlist,['Mark Geary']
@@ -5861,7 +5861,7 @@ totalminutes,50
 speakernosplist,['MarkGeary']
 caldescrip,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.
 "
-endtime,17:50
+endtime,13:50
 AV Needs,
 name,Carabande (aka PitchCar)
 Private,PUBLIC
@@ -5871,9 +5871,9 @@ Book Description,"A skill-packed automobile race requiring intuition and dexteri
 Presenters,Mark Geary
 csvsafedescrip,A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch- they fly over the track- zipping around corners- and sweep between opponents' cars in daring maneuvers. 
 speakernosp,MarkGeary
-starttime,17:00
+starttime,13:00
 roomnosp,Gaming[Lobby]
-Start Date,4/25/2015
+Start Date,4/26/2015
 minutes,50
 allday,FALSE
 event_type,Gaming
@@ -6463,11 +6463,11 @@ minutes,50
 allday,FALSE
 event_type,Gaming
 All Day Event,FALSE
-event_end,15:50
+event_end,11:50
 event_type_list,['Gaming']
 private,PUBLIC
-endtimeampm,3 PM
-Location,Windover
+endtimeampm,11 AM
+Location,Board of Trustees
 duration,1 hour and 50 minutes
 description,Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!
 index,130
@@ -6476,13 +6476,13 @@ bookdescrip,Want to get to know your character better? Need advice on what horri
 Track,Gaming
 startday,4/26/2015
 Title,Tarot as a Gaming Tool
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,15:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,11:50
 tracknosp,['Gaming']
 endday,4/26/2015
-input,"['4/26/2015', '14:00', '4/26/2015', '15:50', 'Windover', 'Gaming', 'Tarot as a Gaming Tool', 'Dawn Marino, Rachael Folkerth', 'Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '10:00', '4/26/2015', '11:50', 'Board of Trustees', 'Gaming', 'Tarot as a Gaming Tool', 'Dawn Marino, Rachael Folkerth', 'Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Dawn Marino, Rachael Folkerth"
 avneeds,none
@@ -6491,18 +6491,18 @@ hours,1
 totalminutes,110
 speakernosplist,"['DawnMarino', 'RachaelFolkerth']"
 caldescrip,Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!
-endtime,15:50
+endtime,11:50
 AV Needs,
 name,Tarot as a Gaming Tool
 Private,PUBLIC
 bookname,Tarot as a Gaming Tool
-venue,Windover
+venue,Board of Trustees
 Book Description,Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!
 Presenters,"Dawn Marino, Rachael Folkerth"
 csvsafedescrip,Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience!
 speakernosp,"DawnMarino,RachaelFolkerth"
-starttime,14:00
-roomnosp,Windover
+starttime,10:00
+roomnosp,BoardofTrustees
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -6598,10 +6598,10 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,10:50
+event_end,9:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,10 AM
+endtimeampm,9 AM
 Location,Board of Trustees
 duration,50 minutes
 description,An open discussion for Christians who are fans.
@@ -6611,13 +6611,13 @@ bookdescrip,An open discussion for Christians who are fans.
 Track,Life
 startday,4/25/2015
 Title,BoF: Christians in Fandom 
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,9:00
+event_start,9:00
+starttimeampm,9 AM
+End Time,9:50
 tracknosp,['Life']
 endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Board of Trustees', 'Life', 'BoF: Christians in Fandom ', '', 'An open discussion for Christians who are fans.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Board of Trustees', 'Life', 'BoF: Christians in Fandom ', '', 'An open discussion for Christians who are fans.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,
 avneeds,none
@@ -6626,7 +6626,7 @@ hours,0
 totalminutes,50
 speakernosplist,['']
 caldescrip,An open discussion for Christians who are fans.
-endtime,10:50
+endtime,9:50
 AV Needs,
 name,BoF: Christians in Fandom 
 Private,PUBLIC
@@ -6636,7 +6636,7 @@ Book Description,An open discussion for Christians who are fans.
 Presenters,
 csvsafedescrip,An open discussion for Christians who are fans.
 speakernosp,
-starttime,10:00
+starttime,9:00
 roomnosp,BoardofTrustees
 Start Date,4/25/2015
 minutes,50
@@ -7095,11 +7095,11 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,10:50
+event_end,13:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,10 AM
-Location,Algonquin C
+endtimeampm,1 PM
+Location,Charlevoix A
 duration,50 minutes
 description,"Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly."
 index,144
@@ -7108,13 +7108,13 @@ bookdescrip,"Exploring polyamory can be a challenge for those new to it. Opening
 Track,Life
 startday,4/25/2015
 Title,From Mono to Poly and Poly/Mono
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,13:00
+event_start,13:00
+starttimeampm,1 PM
+End Time,13:50
 tracknosp,['Life']
 endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Algonquin C', 'Life', 'From Mono to Poly and Poly/Mono', 'Catrice Thornton, Isaac Thornton ', ""Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Charlevoix A', 'Life', 'From Mono to Poly and Poly/Mono', 'Catrice Thornton, Isaac Thornton ', ""Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Catrice Thornton, Isaac Thornton "
 avneeds,none
@@ -7123,18 +7123,18 @@ hours,0
 totalminutes,50
 speakernosplist,"['CatriceThornton', 'IsaacThornton']"
 caldescrip,"Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly."
-endtime,10:50
+endtime,13:50
 AV Needs,
 name,From Mono to Poly and Poly/Mono
 Private,PUBLIC
 bookname,From Mono to Poly and Poly/Mono
-venue,Algonquin C
+venue,Charlevoix A
 Book Description,"Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly."
 Presenters,"Catrice Thornton, Isaac Thornton "
 csvsafedescrip,Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up- training wheels for newbies- avoiding pitfalls- as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly.
 speakernosp,"CatriceThornton,IsaacThornton"
-starttime,10:00
-roomnosp,AlgonquinC
+starttime,13:00
+roomnosp,CharlevoixA
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -7296,17 +7296,17 @@ starttimeampm,4 PM
 End Time,16:50
 tracknosp,['Life']
 endday,4/24/2015
-input,"['4/24/2015', '16:00', '4/24/2015', '16:50', 'Nicolet', 'Life', 'How to Improve Your Con Experience as an Introvert', 'Alexa Albright-Kelley, Carol Thomas', ""Being introverted can make conventions stressful, no matter how awesome the people around you are. Find out what you can do to have a great con experience without wanting to crawl into a hole -- and while you're here, learn the differences between introverts, extroverts and ambiverts; why introverts rock; and (for extroverts) how to interact better with your introverted friends. Will include humor, handouts, research, and RIBBONS!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/24/2015', '16:50', 'Nicolet', 'Life', 'How to Improve Your Con Experience as an Introvert', 'Alexa Albright-Kelley, Carol Thomas', ""Being introverted can make conventions stressful, no matter how awesome the people around you are. Find out what you can do to have a great con experience without wanting to crawl into a hole -- and while you're here, learn the differences between introverts, extroverts and ambiverts; why introverts rock; and (for extroverts) how to interact better with your introverted friends. Will include humor, handouts, research, and RIBBONS!"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Alexa Albright-Kelley, Carol Thomas"
-avneeds,none
+avneeds,Projector
 speakerlist,"['Alexa Albright-Kelley', 'Carol Thomas']"
 hours,0
 totalminutes,50
 speakernosplist,"['AlexaAlbright-Kelley', 'CarolThomas']"
 caldescrip,"Being introverted can make conventions stressful, no matter how awesome the people around you are. Find out what you can do to have a great con experience without wanting to crawl into a hole -- and while you're here, learn the differences between introverts, extroverts and ambiverts; why introverts rock; and (for extroverts) how to interact better with your introverted friends. Will include humor, handouts, research, and RIBBONS!"
 endtime,16:50
-AV Needs,
+AV Needs,Projector
 name,How to Improve Your Con Experience as an Introvert
 Private,PUBLIC
 bookname,How to Improve Your Con Experience as an Introvert
@@ -7521,17 +7521,17 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,"['Life', 'Gaming']"
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Montcalm', 'Life, Gaming', 'Level up with HabitRPG ', 'Lithoglyphe', ""Learn about & share tips for HabitRPG, an open-source habit building program that treats your life like a Role Playing Game. After a brief intro for newbies, participants will share how they've used HabitRPG to have fun, develop better habits, Get Things Done, and gamify their lives."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Montcalm', 'Life, Gaming', 'Level up with HabitRPG ', 'Lithoglyphe', ""Learn about & share tips for HabitRPG, an open-source habit building program that treats your life like a Role Playing Game. After a brief intro for newbies, participants will share how they've used HabitRPG to have fun, develop better habits, Get Things Done, and gamify their lives."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Lithoglyphe
-avneeds,none
+avneeds,Projector
 speakerlist,['Lithoglyphe']
 hours,0
 totalminutes,50
 speakernosplist,['Lithoglyphe']
 caldescrip,"Learn about & share tips for HabitRPG, an open-source habit building program that treats your life like a Role Playing Game. After a brief intro for newbies, participants will share how they've used HabitRPG to have fun, develop better habits, Get Things Done, and gamify their lives."
 endtime,9:50
-AV Needs,
+AV Needs,Projector
 name,Level up with HabitRPG 
 Private,PUBLIC
 bookname,Level up with HabitRPG 
@@ -7727,46 +7727,46 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,13:50
+event_end,9:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,1 PM
-Location,Charlevoix A
+endtimeampm,9 AM
+Location,Algonquin C
 duration,50 minutes
 description,The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. 
 index,158
-speakers,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster"
+speakers,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster, Terry Pavlet"
 bookdescrip,The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. 
 Track,Life
 startday,4/25/2015
 Title,Living in the Eye of the Storm: Neurodiversity in Relationships
-Start Time,13:00
-event_start,13:00
-starttimeampm,1 PM
-End Time,13:50
+Start Time,9:00
+event_start,9:00
+starttimeampm,9 AM
+End Time,9:50
 tracknosp,['Life']
 endday,4/25/2015
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Charlevoix A', 'Life', 'Living in the Eye of the Storm: Neurodiversity in Relationships', 'Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster', 'The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin C', 'Life', 'Living in the Eye of the Storm: Neurodiversity in Relationships', 'Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster, Terry Pavlet', 'The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster"
+calspeakers,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster, Terry Pavlet"
 avneeds,none
-speakerlist,"['Jessica Roland', 'Chris Roland', 'Kristy Currier', 'Miranda Webster']"
+speakerlist,"['Jessica Roland', 'Chris Roland', 'Kristy Currier', 'Miranda Webster', 'Terry Pavlet']"
 hours,0
 totalminutes,50
-speakernosplist,"['JessicaRoland', 'ChrisRoland', 'KristyCurrier', 'MirandaWebster']"
+speakernosplist,"['JessicaRoland', 'ChrisRoland', 'KristyCurrier', 'MirandaWebster', 'TerryPavlet']"
 caldescrip,The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. 
-endtime,13:50
+endtime,9:50
 AV Needs,
 name,Living in the Eye of the Storm: Neurodiversity in Relationships
 Private,PUBLIC
 bookname,Living in the Eye of the Storm: Neurodiversity in Relationships
-venue,Charlevoix A
+venue,Algonquin C
 Book Description,The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. 
-Presenters,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster"
+Presenters,"Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster, Terry Pavlet"
 csvsafedescrip,The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity. 
-speakernosp,"JessicaRoland,ChrisRoland,KristyCurrier,MirandaWebster"
-starttime,13:00
-roomnosp,CharlevoixA
+speakernosp,"JessicaRoland,ChrisRoland,KristyCurrier,MirandaWebster,TerryPavlet"
+starttime,9:00
+roomnosp,AlgonquinC
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -7870,7 +7870,7 @@ event_end,22:50
 event_type_list,['Life']
 private,PUBLIC
 endtimeampm,10 PM
-Location,Hamilin
+Location,Windover
 duration,50 minutes
 description,"Come see three fierce pirates, showing off their skills as they pirate everyone's favorite bard, Shakespeare! Captain Duckman, his bride/first Mate Jenniveve, and new cabin girl Titania are out to provide their take on Romeo and Juliet, in a short and funny manner. It's a Rennaissance Faire style interactive show!"
 index,161
@@ -7885,7 +7885,7 @@ starttimeampm,10 PM
 End Time,22:50
 tracknosp,['Life']
 endday,4/24/2015
-input,"['4/24/2015', '22:00', '4/24/2015', '22:50', 'Hamilin', 'Life', 'Piratical Romeo and Juliet', 'Jennifer Peters, Katherine Hatfield-Nix, Mitchell Peters, Jennifer Reisbig', ""Come see three fierce pirates, showing off their skills as they pirate everyone's favorite bard, Shakespeare! Captain Duckman, his bride/first Mate Jenniveve, and new cabin girl Titania are out to provide their take on Romeo and Juliet, in a short and funny manner. It's a Rennaissance Faire style interactive show!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '22:00', '4/24/2015', '22:50', 'Windover', 'Life', 'Piratical Romeo and Juliet', 'Jennifer Peters, Katherine Hatfield-Nix, Mitchell Peters, Jennifer Reisbig', ""Come see three fierce pirates, showing off their skills as they pirate everyone's favorite bard, Shakespeare! Captain Duckman, his bride/first Mate Jenniveve, and new cabin girl Titania are out to provide their take on Romeo and Juliet, in a short and funny manner. It's a Rennaissance Faire style interactive show!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Jennifer Peters, Katherine Hatfield-Nix, Mitchell Peters, Jennifer Reisbig"
 avneeds,none
@@ -7899,13 +7899,13 @@ AV Needs,
 name,Piratical Romeo and Juliet
 Private,PUBLIC
 bookname,Piratical Romeo and Juliet
-venue,Hamilin
+venue,Windover
 Book Description,"Come see three fierce pirates, showing off their skills as they pirate everyone's favorite bard, Shakespeare! Captain Duckman, his bride/first Mate Jenniveve, and new cabin girl Titania are out to provide their take on Romeo and Juliet, in a short and funny manner. It's a Rennaissance Faire style interactive show!"
 Presenters,"Jennifer Peters, Katherine Hatfield-Nix, Mitchell Peters, Jennifer Reisbig"
 csvsafedescrip,Come see three fierce pirates- showing off their skills as they pirate everyone's favorite bard- Shakespeare! Captain Duckman- his bride/first Mate Jenniveve- and new cabin girl Titania are out to provide their take on Romeo and Juliet- in a short and funny manner. It's a Rennaissance Faire style interactive show!
 speakernosp,"JenniferPeters,KatherineHatfield-Nix,MitchellPeters,JenniferReisbig"
 starttime,22:00
-roomnosp,Hamilin
+roomnosp,Windover
 Start Date,4/24/2015
 minutes,50
 allday,FALSE
@@ -8247,17 +8247,17 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,"['Life', 'ActionAdventure']"
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Charlevoix C', 'Life, Action Adventure', 'So You Want to Run a Race', 'Lana Krolikowski', ""From Color Races to Zombie Runs to Warrior Dashes, there seem to be races for all different interests. But what if you haven't even done a 5k before? Heck, what if you haven't even run around the block lately? Learn the basics of what is needed to prepare for your first race, from race selection to training and nutrition to the dos and don'ts of race day. Geared towards beginners."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Charlevoix C', 'Life, Action Adventure', 'So You Want to Run a Race', 'Lana Krolikowski', ""From Color Races to Zombie Runs to Warrior Dashes, there seem to be races for all different interests. But what if you haven't even done a 5k before? Heck, what if you haven't even run around the block lately? Learn the basics of what is needed to prepare for your first race, from race selection to training and nutrition to the dos and don'ts of race day. Geared towards beginners."", '00hr:50min', 'projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Lana Krolikowski
-avneeds,none
+avneeds,projector
 speakerlist,['Lana Krolikowski']
 hours,0
 totalminutes,50
 speakernosplist,['LanaKrolikowski']
 caldescrip,"From Color Races to Zombie Runs to Warrior Dashes, there seem to be races for all different interests. But what if you haven't even done a 5k before? Heck, what if you haven't even run around the block lately? Learn the basics of what is needed to prepare for your first race, from race selection to training and nutrition to the dos and don'ts of race day. Geared towards beginners."
 endtime,9:50
-AV Needs,
+AV Needs,projector
 name,So You Want to Run a Race
 Private,PUBLIC
 bookname,So You Want to Run a Race
@@ -8320,11 +8320,11 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,17:50
+event_end,19:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,5 PM
-Location,Charlevoix A
+endtimeampm,7 PM
+Location,Algonquin C
 duration,50 minutes
 description,"Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it?"
 index,171
@@ -8333,13 +8333,13 @@ bookdescrip,"Sports and their fans are still easy targets for mockery by SF/F fa
 Track,Life
 startday,4/25/2015
 Title,Sports Fandom in the Geek Community
-Start Time,17:00
-event_start,17:00
-starttimeampm,5 PM
-End Time,17:50
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,19:50
 tracknosp,['Life']
 endday,4/25/2015
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Charlevoix A', 'Life', 'Sports Fandom in the Geek Community', 'Dave Hogg, Zach Blagg, Jeannie\xc2\xa0Szarama, Samuel Hansen', 'Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '19:00', '4/25/2015', '19:50', 'Algonquin C', 'Life', 'Sports Fandom in the Geek Community', 'Dave Hogg, Zach Blagg, Jeannie\xc2\xa0Szarama, Samuel Hansen', 'Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Dave Hogg, Zach Blagg, Jeannie Szarama, Samuel Hansen"
 avneeds,none
@@ -8348,18 +8348,18 @@ hours,0
 totalminutes,50
 speakernosplist,"['DaveHogg', 'ZachBlagg', 'Jeannie\xc2\xa0Szarama', 'SamuelHansen']"
 caldescrip,"Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it?"
-endtime,17:50
+endtime,19:50
 AV Needs,
 name,Sports Fandom in the Geek Community
 Private,PUBLIC
 bookname,Sports Fandom in the Geek Community
-venue,Charlevoix A
+venue,Algonquin C
 Book Description,"Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it?"
 Presenters,"Dave Hogg, Zach Blagg, Jeannie Szarama, Samuel Hansen"
 csvsafedescrip,Sports and their fans are still easy targets for mockery by SF/F fans- even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war- why are we still fighting it?
 speakernosp,"DaveHogg,ZachBlagg,Jeannie Szarama,SamuelHansen"
-starttime,17:00
-roomnosp,CharlevoixA
+starttime,19:00
+roomnosp,AlgonquinC
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -8590,11 +8590,11 @@ minutes,50
 allday,FALSE
 event_type,"Life, Webcomics, Film"
 All Day Event,FALSE
-event_end,14:50
+event_end,9:50
 event_type_list,"['Life', 'Webcomics', 'Film']"
 private,PUBLIC
-endtimeampm,2 PM
-Location,Charlevoix C
+endtimeampm,9 AM
+Location,Portage Auditorium
 duration,50 minutes
 description,Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!
 index,177
@@ -8603,33 +8603,33 @@ bookdescrip,Join BluRaven C. Houvener (writer and illustrator of the Webcomic It
 Track,"Life, Webcomics, Film"
 startday,4/26/2015
 Title,The Trials and Tribulations of the Artist's Lifestyle
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,9:00
+event_start,9:00
+starttimeampm,9 AM
+End Time,9:50
 tracknosp,"['Life', 'Webcomics', 'Film']"
 endday,4/26/2015
-input,"['4/26/2015', '14:00', '4/26/2015', '14:50', 'Charlevoix C', 'Life, Webcomics, Film', ""The Trials and Tribulations of the Artist's Lifestyle"", 'Jennifer Hamilton, Gabrielle Nettles, BluRaven Houvener', ""Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Portage Auditorium', 'Life, Webcomics, Film', ""The Trials and Tribulations of the Artist's Lifestyle"", 'Jennifer Hamilton, Gabrielle Nettles, BluRaven Houvener', ""Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!"", '00hr:50min', 'Projector, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Jennifer Hamilton, Gabrielle Nettles, BluRaven Houvener"
-avneeds,none
+avneeds,"Projector, Sound System"
 speakerlist,"['Jennifer Hamilton', 'Gabrielle Nettles', 'BluRaven Houvener']"
 hours,0
 totalminutes,50
 speakernosplist,"['JenniferHamilton', 'GabrielleNettles', 'BluRavenHouvener']"
 caldescrip,Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!
-endtime,14:50
-AV Needs,
+endtime,9:50
+AV Needs,"Projector, Sound System"
 name,The Trials and Tribulations of the Artist's Lifestyle
 Private,PUBLIC
 bookname,The Trials and Tribulations of the Artist's Lifestyle
-venue,Charlevoix C
+venue,Portage Auditorium
 Book Description,Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!
 Presenters,"Jennifer Hamilton, Gabrielle Nettles, BluRaven Houvener"
 csvsafedescrip,Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged!
 speakernosp,"JenniferHamilton,GabrielleNettles,BluRavenHouvener"
-starttime,14:00
-roomnosp,CharlevoixC
+starttime,9:00
+roomnosp,PortageAuditorium
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -9330,7 +9330,7 @@ event_end,9:50
 event_type_list,['Literature']
 private,PUBLIC
 endtimeampm,9 AM
-Location,Board of Trustees
+Location,Board of Regents
 duration,50 minutes
 description,"An open discussion about recent works which use Fantasy tropes, but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction, and why are some works considered too ""mainstream?"" Why is fantasy so popular among items aimed at the YA market?"
 index,193
@@ -9345,7 +9345,7 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,['Literature']
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Board of Trustees', 'Literature', 'BoF: But Is It Fantasy?', '', 'An open discussion about recent works which use Fantasy tropes, but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction, and why are some works considered too ""mainstream?"" Why is fantasy so popular among items aimed at the YA market?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Board of Regents', 'Literature', 'BoF: But Is It Fantasy?', '', 'An open discussion about recent works which use Fantasy tropes, but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction, and why are some works considered too ""mainstream?"" Why is fantasy so popular among items aimed at the YA market?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,
 avneeds,none
@@ -9359,13 +9359,13 @@ AV Needs,
 name,BoF: But Is It Fantasy?
 Private,PUBLIC
 bookname,BoF: But Is It Fantasy?
-venue,Board of Trustees
+venue,Board of Regents
 Book Description,"An open discussion about recent works which use Fantasy tropes, but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction, and why are some works considered too ""mainstream?"" Why is fantasy so popular among items aimed at the YA market?"
 Presenters,
 csvsafedescrip,An open discussion about recent works which use Fantasy tropes- but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction- and why are some works considered too 'mainstream?' Why is fantasy so popular among items aimed at the YA market?
 speakernosp,
 starttime,9:00
-roomnosp,BoardofTrustees
+roomnosp,BoardofRegents
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -9506,10 +9506,10 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,FALSE
-event_end,9:50
+event_end,16:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,9 AM
+endtimeampm,4 PM
 Location,Board of Trustees
 duration,50 minutes
 description,"You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse, an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?"
@@ -9517,16 +9517,16 @@ index,197
 speakers,
 bookdescrip,"You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse, an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?"
 Track,Literature
-startday,4/26/2015
+startday,4/24/2015
 Title,BoF: Research vs. Faking It
-Start Time,9:00
-event_start,9:00
-starttimeampm,9 AM
-End Time,9:50
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
 tracknosp,['Literature']
-endday,4/26/2015
-input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Board of Trustees', 'Literature', 'BoF: Research vs. Faking It', '', ""You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse, an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/26/2015
+endday,4/24/2015
+input,"['4/24/2015', '16:00', '4/24/2015', '16:50', 'Board of Trustees', 'Literature', 'BoF: Research vs. Faking It', '', ""You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse, an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/24/2015
 calspeakers,
 avneeds,none
 speakerlist,['']
@@ -9534,7 +9534,7 @@ hours,0
 totalminutes,50
 speakernosplist,['']
 caldescrip,"You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse, an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?"
-endtime,9:50
+endtime,16:50
 AV Needs,
 name,BoF: Research vs. Faking It
 Private,PUBLIC
@@ -9544,9 +9544,9 @@ Book Description,"You've read it. That book that used Hollywood physics. The sto
 Presenters,
 csvsafedescrip,You've read it. That book that used Hollywood physics. The story that isn't a spoof but should be. The setting's in your hometown but the author didn't even check Google. Which is worse- an author blowing off research or faking things? What if the faking is done so well you let it slide? What throws you out of the story quicker? What do you wish authors would actually research every time?
 speakernosp,
-starttime,9:00
+starttime,16:00
 roomnosp,BoardofTrustees
-Start Date,4/26/2015
+Start Date,4/24/2015
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -9641,47 +9641,47 @@ minutes,50
 allday,FALSE
 event_type,"Literature, Videogaming, Gaming, Webcomics"
 All Day Event,FALSE
-event_end,11:50
+event_end,15:50
 event_type_list,"['Literature', 'Videogaming', 'Gaming', 'Webcomics']"
 private,PUBLIC
-endtimeampm,11 AM
-Location,Montcalm
-duration,50 minutes
+endtimeampm,3 PM
+Location,Windover
+duration,1 hour and 50 minutes
 description,Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.
 index,200
 speakers,"Maggie Maiville, Sarah Hans"
 bookdescrip,Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.
 Track,"Literature, Videogaming, Gaming, Webcomics"
-startday,4/25/2015
+startday,4/26/2015
 Title,Crowdfunding Your Way to Success
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,15:50
 tracknosp,"['Literature', 'Videogaming', 'Gaming', 'Webcomics']"
-endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Montcalm', 'Literature, Videogaming, Gaming, Webcomics', 'Crowdfunding Your Way to Success', 'Maggie Maiville, Sarah Hans', 'Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/26/2015
+input,"['4/26/2015', '14:00', '4/26/2015', '15:50', 'Windover', 'Literature, Videogaming, Gaming, Webcomics', 'Crowdfunding Your Way to Success', 'Maggie Maiville, Sarah Hans', 'Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/26/2015
 calspeakers,"Maggie Maiville, Sarah Hans"
 avneeds,none
 speakerlist,"['Maggie Maiville', 'Sarah Hans']"
-hours,0
-totalminutes,50
+hours,1
+totalminutes,110
 speakernosplist,"['MaggieMaiville', 'SarahHans']"
 caldescrip,Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.
-endtime,11:50
+endtime,15:50
 AV Needs,
 name,Crowdfunding Your Way to Success
 Private,PUBLIC
 bookname,Crowdfunding Your Way to Success
-venue,Montcalm
+venue,Windover
 Book Description,Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.
 Presenters,"Maggie Maiville, Sarah Hans"
 csvsafedescrip,Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality.
 speakernosp,"MaggieMaiville,SarahHans"
-starttime,11:00
-roomnosp,Montcalm
-Start Date,4/25/2015
+starttime,14:00
+roomnosp,Windover
+Start Date,4/26/2015
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -9821,10 +9821,10 @@ minutes,50
 allday,FALSE
 event_type,"Literature, Film"
 All Day Event,FALSE
-event_end,12:50
+event_end,18:50
 event_type_list,"['Literature', 'Film']"
 private,PUBLIC
-endtimeampm,12 PM
+endtimeampm,6 PM
 Location,Hamilin
 duration,50 minutes
 description,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
@@ -9833,16 +9833,16 @@ speakers,"Jeannie Szarama
 Ferrett Steinmetz"
 bookdescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 Track,"Literature, Film"
-startday,4/25/2015
+startday,4/24/2015
 Title,How is Game of Thrones Breaking the Rules of Story Telling?
-Start Time,12:00
-event_start,12:00
-starttimeampm,12 PM
-End Time,12:50
+Start Time,18:00
+event_start,18:00
+starttimeampm,6 PM
+End Time,18:50
 tracknosp,"['Literature', 'Film']"
-endday,4/25/2015
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Hamilin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama\nFerrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/24/2015
+input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Hamilin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama\nFerrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/24/2015
 calspeakers,"Jeannie Szarama
 Ferrett Steinmetz"
 avneeds,none
@@ -9851,7 +9851,7 @@ hours,0
 totalminutes,50
 speakernosplist,['JeannieSzaramaFerrettSteinmetz']
 caldescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
-endtime,12:50
+endtime,18:50
 AV Needs,
 name,How is Game of Thrones Breaking the Rules of Story Telling?
 Private,PUBLIC
@@ -9861,9 +9861,9 @@ Book Description,"Main characters die, the popular characters never win, and our
 Presenters,Jeannie Szarama Ferrett Steinmetz
 csvsafedescrip,Main characters die- the popular characters never win- and our expectations are thwarted at every turn. How has it become so popular? 
 speakernosp,JeannieSzaramaFerrettSteinmetz
-starttime,12:00
+starttime,18:00
 roomnosp,Hamilin
-Start Date,4/25/2015
+Start Date,4/24/2015
 minutes,50
 allday,FALSE
 event_type,"Literature, Music, Film, Life"
@@ -10003,10 +10003,10 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,FALSE
-event_end,18:50
+event_end,12:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,6 PM
+endtimeampm,12 PM
 Location,Hamilin
 duration,50 minutes
 description,"Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters."
@@ -10014,16 +10014,16 @@ index,208
 speakers,"Michael Cieslak, Sarah Hans, Steven Saus, Leslie Gulvas"
 bookdescrip,"Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters."
 Track,Literature
-startday,4/24/2015
+startday,4/25/2015
 Title,Making the Fantastic Believable
-Start Time,18:00
-event_start,18:00
-starttimeampm,6 PM
-End Time,18:50
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,12:50
 tracknosp,['Literature']
-endday,4/24/2015
-input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Hamilin', 'Literature', 'Making the Fantastic Believable', 'Michael Cieslak, Sarah Hans, Steven Saus, Leslie Gulvas', 'Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/24/2015
+endday,4/25/2015
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Hamilin', 'Literature', 'Making the Fantastic Believable', 'Michael Cieslak, Sarah Hans, Steven Saus, Leslie Gulvas', 'Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/25/2015
 calspeakers,"Michael Cieslak, Sarah Hans, Steven Saus, Leslie Gulvas"
 avneeds,none
 speakerlist,"['Michael Cieslak', 'Sarah Hans', 'Steven Saus', 'Leslie Gulvas']"
@@ -10031,7 +10031,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['MichaelCieslak', 'SarahHans', 'StevenSaus', 'LeslieGulvas']"
 caldescrip,"Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters."
-endtime,18:50
+endtime,12:50
 AV Needs,
 name,Making the Fantastic Believable
 Private,PUBLIC
@@ -10041,9 +10041,9 @@ Book Description,"Ghosts, lycanthropes, robots, elves, even vampires that sparkl
 Presenters,"Michael Cieslak, Sarah Hans, Steven Saus, Leslie Gulvas"
 csvsafedescrip,Ghosts- lycanthropes- robots- elves- even vampires that sparkle in the sunlight- what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.
 speakernosp,"MichaelCieslak,SarahHans,StevenSaus,LeslieGulvas"
-starttime,18:00
+starttime,12:00
 roomnosp,Hamilin
-Start Date,4/24/2015
+Start Date,4/25/2015
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -10543,10 +10543,10 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,FALSE
-event_end,19:50
+event_end,21:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,9 PM
 Location,Board of Governors
 duration,50 minutes
 description,"Year after year we wonder if this will be the year that people get sick of zombies and vampires. Year after year we get a resounding no from the audience. Join us as we explore the most recent explorations of the undead and brainstorm with us, wondering what may be on the horizon: angels, ghosts, demons?"
@@ -10556,13 +10556,13 @@ bookdescrip,"Year after year we wonder if this will be the year that people get 
 Track,Literature
 startday,4/25/2015
 Title,You Can't Kill The Undead
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,21:00
+event_start,21:00
+starttimeampm,9 PM
+End Time,21:50
 tracknosp,['Literature']
 endday,4/25/2015
-input,"['4/25/2015', '19:00', '4/25/2015', '19:50', 'Board of Governors', 'Literature', ""You Can't Kill The Undead"", 'Nicole Castle, Mary Lynne Gibbs, Michael Cieslak, Sarah Hans, Ken MacGregor, Steven Saus, Sean M. Davis ', 'Year after year we wonder if this will be the year that people get sick of zombies and vampires. Year after year we get a resounding no from the audience. Join us as we explore the most recent explorations of the undead and brainstorm with us, wondering what may be on the horizon: angels, ghosts, demons?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '21:00', '4/25/2015', '21:50', 'Board of Governors', 'Literature', ""You Can't Kill The Undead"", 'Nicole Castle, Mary Lynne Gibbs, Michael Cieslak, Sarah Hans, Ken MacGregor, Steven Saus, Sean M. Davis ', 'Year after year we wonder if this will be the year that people get sick of zombies and vampires. Year after year we get a resounding no from the audience. Join us as we explore the most recent explorations of the undead and brainstorm with us, wondering what may be on the horizon: angels, ghosts, demons?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Nicole Castle, Mary Lynne Gibbs, Michael Cieslak, Sarah Hans, Ken MacGregor, Steven Saus, Sean M. Davis "
 avneeds,none
@@ -10571,7 +10571,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['NicoleCastle', 'MaryLynneGibbs', 'MichaelCieslak', 'SarahHans', 'KenMacGregor', 'StevenSaus', 'SeanM.Davis']"
 caldescrip,"Year after year we wonder if this will be the year that people get sick of zombies and vampires. Year after year we get a resounding no from the audience. Join us as we explore the most recent explorations of the undead and brainstorm with us, wondering what may be on the horizon: angels, ghosts, demons?"
-endtime,19:50
+endtime,21:50
 AV Needs,
 name,You Can't Kill The Undead
 Private,PUBLIC
@@ -10581,7 +10581,7 @@ Book Description,"Year after year we wonder if this will be the year that people
 Presenters,"Nicole Castle, Mary Lynne Gibbs, Michael Cieslak, Sarah Hans, Ken MacGregor, Steven Saus, Sean M. Davis "
 csvsafedescrip,Year after year we wonder if this will be the year that people get sick of zombies and vampires. Year after year we get a resounding no from the audience. Join us as we explore the most recent explorations of the undead and brainstorm with us- wondering what may be on the horizon: angels- ghosts- demons?
 speakernosp,"NicoleCastle,MaryLynneGibbs,MichaelCieslak,SarahHans,KenMacGregor,StevenSaus,SeanM.Davis"
-starttime,19:00
+starttime,21:00
 roomnosp,BoardofGovernors
 Start Date,4/25/2015
 minutes,50
@@ -10948,10 +10948,10 @@ minutes,50
 allday,FALSE
 event_type,Music
 All Day Event,FALSE
-event_end,19:50
+event_end,20:50
 event_type_list,['Music']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,8 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available.
@@ -10961,13 +10961,13 @@ bookdescrip,Hand drumming for beginners focusing on Middle Eastern and drumming 
 Track,Music
 startday,4/24/2015
 Title,Hand Drumming for Beginners
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,20:00
+event_start,20:00
+starttimeampm,8 PM
+End Time,20:50
 tracknosp,['Music']
 endday,4/24/2015
-input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Charlevoix A', 'Music', 'Hand Drumming for Beginners', 'Dan Eakin, Roni Neal ', 'Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Charlevoix A', 'Music', 'Hand Drumming for Beginners', 'Dan Eakin, Roni Neal ', 'Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Dan Eakin, Roni Neal "
 avneeds,none
@@ -10976,7 +10976,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['DanEakin', 'RoniNeal']"
 caldescrip,Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available.
-endtime,19:50
+endtime,20:50
 AV Needs,
 name,Hand Drumming for Beginners
 Private,PUBLIC
@@ -10986,7 +10986,7 @@ Book Description,Hand drumming for beginners focusing on Middle Eastern and drum
 Presenters,"Dan Eakin, Roni Neal "
 csvsafedescrip,Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available.
 speakernosp,"DanEakin,RoniNeal"
-starttime,19:00
+starttime,20:00
 roomnosp,CharlevoixA
 Start Date,4/24/2015
 minutes,50
@@ -11239,17 +11239,17 @@ starttimeampm,6 PM
 End Time,18:50
 tracknosp,['Music']
 endday,4/24/2015
-input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Charlevoix A', 'Music', 'Pirate Rock by Rathbone and the Blades of Fortune', 'Misha Tuesday', ""The Pirate industry has a lot of employment turnover, due to battle deaths, being eaten by sharks, capture and execution, and death [other]. The last survivors of Stone Crazy Pirates have recruited some new mates to sing and play rockin' sea shanties for you, and you can sing along if you like. Costumes encouraged! Boisterousness encouraged! Courage encouraged!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Charlevoix A', 'Music', 'Pirate Rock by Rathbone and the Blades of Fortune', 'Misha Tuesday', ""The Pirate industry has a lot of employment turnover, due to battle deaths, being eaten by sharks, capture and execution, and death [other]. The last survivors of Stone Crazy Pirates have recruited some new mates to sing and play rockin' sea shanties for you, and you can sing along if you like. Costumes encouraged! Boisterousness encouraged! Courage encouraged!"", '00hr:50min', 'Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Misha Tuesday
-avneeds,none
+avneeds,Sound System
 speakerlist,['Misha Tuesday']
 hours,0
 totalminutes,50
 speakernosplist,['MishaTuesday']
 caldescrip,"The Pirate industry has a lot of employment turnover, due to battle deaths, being eaten by sharks, capture and execution, and death [other]. The last survivors of Stone Crazy Pirates have recruited some new mates to sing and play rockin' sea shanties for you, and you can sing along if you like. Costumes encouraged! Boisterousness encouraged! Courage encouraged!"
 endtime,18:50
-AV Needs,
+AV Needs,Sound System
 name,Pirate Rock by Rathbone and the Blades of Fortune
 Private,PUBLIC
 bookname,Pirate Rock by Rathbone and the Blades of Fortune
@@ -11310,10 +11310,10 @@ minutes,50
 allday,FALSE
 event_type,Music
 All Day Event,FALSE
-event_end,10:50
+event_end,17:50
 event_type_list,['Music']
 private,PUBLIC
-endtimeampm,10 AM
+endtimeampm,5 PM
 Location,Nicolet
 duration,50 minutes
 description,It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area.
@@ -11321,16 +11321,16 @@ index,250
 speakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, StarF, MPFM, 2d6"
 bookdescrip,It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area.
 Track,Music
-startday,4/25/2015
+startday,4/24/2015
 Title,Surviving As an Independent Musician
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
 tracknosp,['Music']
-endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Nicolet', 'Music', 'Surviving As an Independent Musician', 'Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, StarF, MPFM, 2d6', ""It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/24/2015
+input,"['4/24/2015', '17:00', '4/24/2015', '17:50', 'Nicolet', 'Music', 'Surviving As an Independent Musician', 'Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, StarF, MPFM, 2d6', ""It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/24/2015
 calspeakers,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, StarF, MPFM, 2d6"
 avneeds,none
 speakerlist,"['Barbeque', 'Snesei', 'Monotony', 'Walk in Circles', 'DJ Seanni B', 'StarF', 'MPFM', '2d6']"
@@ -11338,7 +11338,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['Barbeque', 'Snesei', 'Monotony', 'WalkinCircles', 'DJSeanniB', 'StarF', 'MPFM', '2d6']"
 caldescrip,It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area.
-endtime,10:50
+endtime,17:50
 AV Needs,
 name,Surviving As an Independent Musician
 Private,PUBLIC
@@ -11348,9 +11348,9 @@ Book Description,It's hard out there on the streets. Are you a musician trying t
 Presenters,"Barbeque, Snesei, Monotony, Walk in Circles, DJ Seanni B, StarF, MPFM, 2d6"
 csvsafedescrip,It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area.
 speakernosp,"Barbeque,Snesei,Monotony,WalkinCircles,DJSeanniB,StarF,MPFM,2d6"
-starttime,10:00
+starttime,17:00
 roomnosp,Nicolet
-Start Date,4/25/2015
+Start Date,4/24/2015
 minutes,50
 allday,FALSE
 event_type,Music
@@ -11400,10 +11400,10 @@ minutes,50
 allday,FALSE
 event_type,Music
 All Day Event,FALSE
-event_end,20:50
+event_end,19:50
 event_type_list,['Music']
 private,PUBLIC
-endtimeampm,8 PM
+endtimeampm,7 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
@@ -11413,13 +11413,13 @@ bookdescrip,"Drop in with the #teamswoop crew and get a rundown on basic vinyl m
 Track,Music
 startday,4/24/2015
 Title,Vinyl Mixing 101
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
-End Time,20:50
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,19:50
 tracknosp,['Music']
 endday,4/24/2015
-input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Charlevoix A', 'Music', 'Vinyl Mixing 101', 'DJ Seanni B, Walk In Circles', 'Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Charlevoix A', 'Music', 'Vinyl Mixing 101', 'DJ Seanni B, Walk In Circles', 'Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"DJ Seanni B, Walk In Circles"
 avneeds,none
@@ -11428,7 +11428,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['DJSeanniB', 'WalkInCircles']"
 caldescrip,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
-endtime,20:50
+endtime,19:50
 AV Needs,
 name,Vinyl Mixing 101
 Private,PUBLIC
@@ -11438,7 +11438,7 @@ Book Description,"Drop in with the #teamswoop crew and get a rundown on basic vi
 Presenters,"DJ Seanni B, Walk In Circles"
 csvsafedescrip,Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases- and hey they might even give you your very own DJ name!
 speakernosp,"DJSeanniB,WalkInCircles"
-starttime,20:00
+starttime,19:00
 roomnosp,CharlevoixA
 Start Date,4/24/2015
 minutes,50
@@ -11584,11 +11584,11 @@ minutes,50
 allday,FALSE
 event_type,Penguicon Events
 All Day Event,FALSE
-event_end,11:50
+event_end,10:50
 event_type_list,['Penguicon Events']
 private,PUBLIC
-endtimeampm,11 AM
-Location,Charlevoix C
+endtimeampm,10 AM
+Location,Windover
 duration,50 minutes
 description,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 index,256
@@ -11597,13 +11597,13 @@ bookdescrip,"How can we create safe spaces for people of all varieties at the co
 Track,Penguicon Events
 startday,4/25/2015
 Title,Creating Safe Spaces
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['PenguiconEvents']
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Charlevoix C', 'Penguicon Events', 'Creating Safe Spaces', 'Nuri Gocay, April Nance, Scott Kennedy, Mark Oshiro, Mari Brighe', 'How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Windover', 'Penguicon Events', 'Creating Safe Spaces', 'Nuri Gocay, April Nance, Scott Kennedy, Mark Oshiro, Mari Brighe', 'How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Nuri Gocay, April Nance, Scott Kennedy, Mark Oshiro, Mari Brighe"
 avneeds,none
@@ -11612,18 +11612,18 @@ hours,0
 totalminutes,50
 speakernosplist,"['NuriGocay', 'AprilNance', 'ScottKennedy', 'MarkOshiro', 'MariBrighe']"
 caldescrip,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
-endtime,11:50
+endtime,10:50
 AV Needs,
 name,Creating Safe Spaces
 Private,PUBLIC
 bookname,Creating Safe Spaces
-venue,Charlevoix C
+venue,Windover
 Book Description,"How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent."
 Presenters,"Nuri Gocay, April Nance, Scott Kennedy, Mark Oshiro, Mari Brighe"
 csvsafedescrip,How can we create safe spaces for people of all varieties at the convention- and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent.
 speakernosp,"NuriGocay,AprilNance,ScottKennedy,MarkOshiro,MariBrighe"
-starttime,11:00
-roomnosp,CharlevoixC
+starttime,10:00
+roomnosp,Windover
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -12860,10 +12860,10 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Montcalm
 duration,1 hour and 50 minutes
-description,"The early ""personal computer revolution"" was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We'll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's), and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. "
+description,"The early “personal computer revolution” in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We’ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s), and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context."
 index,284
 speakers,Adam Trent Phillips
-bookdescrip,"The early ""personal computer revolution"" was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We'll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's), and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. "
+bookdescrip,"The early “personal computer revolution” in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We’ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s), and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context."
 Track,Tech
 startday,4/24/2015
 Title,A Tale of Two Sinclairs
@@ -12873,7 +12873,7 @@ starttimeampm,5 PM
 End Time,18:50
 tracknosp,['Tech']
 endday,4/24/2015
-input,"['4/24/2015', '17:00', '4/24/2015', '18:50', 'Montcalm', 'Tech', 'A Tale of Two Sinclairs', 'Adam Trent Phillips', 'The early ""personal computer revolution"" was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We\'ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980\'s), and how both the computer industry and it\'s market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. ', '01hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '17:00', '4/24/2015', '18:50', 'Montcalm', 'Tech', 'A Tale of Two Sinclairs', 'Adam Trent Phillips', 'The early \xe2\x80\x9cpersonal computer revolution\xe2\x80\x9d in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We\xe2\x80\x99ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980\xe2\x80\x99s), and how both the computer industry and it\xe2\x80\x99s market were rapidly changing in that era \xe2\x80\x93 with lessons for today. Both computers will be discussed in technical detail and put into historic context.', '01hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Adam Trent Phillips
 avneeds,Projector
@@ -12881,16 +12881,16 @@ speakerlist,['Adam Trent Phillips']
 hours,1
 totalminutes,110
 speakernosplist,['AdamTrentPhillips']
-caldescrip,"The early 'personal computer revolution' was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We'll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's), and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. "
+caldescrip,"The early “personal computer revolution” in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We’ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s), and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context."
 endtime,18:50
 AV Needs,Projector
 name,A Tale of Two Sinclairs
 Private,PUBLIC
 bookname,A Tale of Two Sinclairs
 venue,Montcalm
-Book Description,"The early ""personal computer revolution"" was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. We'll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's), and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. "
+Book Description,"The early “personal computer revolution” in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We’ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s), and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context."
 Presenters,Adam Trent Phillips
-csvsafedescrip,The early 'personal computer revolution' was influenced by two models of personal computers- the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We'll talk about their general architecture- software and hardware- as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's)- and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context. 
+csvsafedescrip,The early “personal computer revolution” in the UK was influenced by two models of personal computers- the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum- the important successor to the ZX-81. We’ll talk about their general architecture- software and hardware- as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s)- and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context.
 speakernosp,AdamTrentPhillips
 starttime,17:00
 roomnosp,Montcalm
@@ -13079,11 +13079,11 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,10:50
+event_end,16:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,10 AM
-Location,Charlevoix C
+endtimeampm,4 PM
+Location,Charlevoix B
 duration,50 minutes
 description,"Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge.
 This presentation will cover mathematics in bash, arrays, and functions."
@@ -13091,16 +13091,16 @@ index,289
 speakers,Mat Enders
 bookdescrip,"Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge. This presentation will cover mathematics in bash, arrays, and functions."
 Track,Tech
-startday,4/25/2015
+startday,4/24/2015
 Title,Bash Scripting 201
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
 tracknosp,['Tech']
-endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Charlevoix C', 'Tech', 'Bash Scripting 201', 'Mat Enders', 'Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge.\nThis presentation will cover mathematics in bash, arrays, and functions.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/24/2015
+input,"['4/24/2015', '16:00', '4/24/2015', '16:50', 'Charlevoix B', 'Tech', 'Bash Scripting 201', 'Mat Enders', 'Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge.\nThis presentation will cover mathematics in bash, arrays, and functions.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+End Date,4/24/2015
 calspeakers,Mat Enders
 avneeds,Projector
 speakerlist,['Mat Enders']
@@ -13109,19 +13109,19 @@ totalminutes,50
 speakernosplist,['MatEnders']
 caldescrip,"Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge.
 This presentation will cover mathematics in bash, arrays, and functions."
-endtime,10:50
+endtime,16:50
 AV Needs,Projector
 name,Bash Scripting 201
 Private,PUBLIC
 bookname,Bash Scripting 201
-venue,Charlevoix C
+venue,Charlevoix B
 Book Description,"Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge. This presentation will cover mathematics in bash, arrays, and functions."
 Presenters,Mat Enders
 csvsafedescrip,Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge. This presentation will cover mathematics in bash- arrays- and functions.
 speakernosp,MatEnders
-starttime,10:00
-roomnosp,CharlevoixC
-Start Date,4/25/2015
+starttime,16:00
+roomnosp,CharlevoixB
+Start Date,4/24/2015
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -13680,7 +13680,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."
 index,302
-speakers,"Willaim A. Rowe, Emily Gonyer"
+speakers,"William A. Rowe Jr., Emily Gonyer"
 bookdescrip,"Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."
 Track,Tech
 startday,4/25/2015
@@ -13691,14 +13691,14 @@ starttimeampm,2 PM
 End Time,14:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '14:00', '4/25/2015', '14:50', 'Charlevoix A', 'Tech', 'Contributing to OSS - Navigating Community', 'Willaim A. Rowe, Emily Gonyer', ""Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '14:00', '4/25/2015', '14:50', 'Charlevoix A', 'Tech', 'Contributing to OSS - Navigating Community', 'William A. Rowe Jr., Emily Gonyer', ""Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Willaim A. Rowe, Emily Gonyer"
+calspeakers,"William A. Rowe Jr., Emily Gonyer"
 avneeds,none
-speakerlist,"['Willaim A. Rowe', 'Emily Gonyer']"
+speakerlist,"['William A. Rowe Jr.', 'Emily Gonyer']"
 hours,0
 totalminutes,50
-speakernosplist,"['WillaimA.Rowe', 'EmilyGonyer']"
+speakernosplist,"['WilliamA.RoweJr.', 'EmilyGonyer']"
 caldescrip,"Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."
 endtime,14:50
 AV Needs,
@@ -13707,9 +13707,9 @@ Private,PUBLIC
 bookname,Contributing to OSS - Navigating Community
 venue,Charlevoix A
 Book Description,"Hacking Open Source Software is the entire point of its existence. Change what you don't like, fix what doesn't work for you, and enjoy. But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects."
-Presenters,"Willaim A. Rowe, Emily Gonyer"
+Presenters,"William A. Rowe Jr., Emily Gonyer"
 csvsafedescrip,Hacking Open Source Software is the entire point of its existence.  Change what you don't like- fix what doesn't work for you- and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities- finding acceptance for your contributions- and becoming part of the bigger communities of Open Source Projects.
-speakernosp,"WillaimA.Rowe,EmilyGonyer"
+speakernosp,"WilliamA.RoweJr.,EmilyGonyer"
 starttime,14:00
 roomnosp,CharlevoixA
 Start Date,4/25/2015
@@ -13852,10 +13852,10 @@ minutes,50
 allday,FALSE
 event_type,"Tech, Eco"
 All Day Event,FALSE
-event_end,13:50
+event_end,16:50
 event_type_list,"['Tech', 'Eco']"
 private,PUBLIC
-endtimeampm,1 PM
+endtimeampm,4 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"In an increasingly competitive market, the non-profit sector is undergoing a paradigm shift. Traditional charity models (i.e. foundation funding, annual giving, estate planning, million dollar grants, bake sales, etc.) are quickly becoming irrelevant, but with increasing access to open-source technology, so too is the barrier to entry for running a successful non-profit. This presentation will focus on outlining best-practices for using free technology to build a sustainable organization from the ground up. Case studies will include the Michigan Urban Farming Initiative and will cover social media, crowd-funding, task-management software, web development, geomapping, 3D & graphic design, and industry secrets."
@@ -13865,13 +13865,13 @@ bookdescrip,"In an increasingly competitive market, the non-profit sector is und
 Track,"Tech, Eco"
 startday,4/25/2015
 Title,DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology
-Start Time,13:00
-event_start,13:00
-starttimeampm,1 PM
-End Time,13:50
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
 tracknosp,"['Tech', 'Eco']"
 endday,4/25/2015
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Charlevoix C', 'Tech, Eco', 'DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology', 'Tyson Gersh', 'In an increasingly competitive market, the non-profit sector is undergoing a paradigm shift. Traditional charity models (i.e. foundation funding, annual giving, estate planning, million dollar grants, bake sales, etc.) are quickly becoming irrelevant, but with increasing access to open-source technology, so too is the barrier to entry for running a successful non-profit. This presentation will focus on outlining best-practices for using free technology to build a sustainable organization from the ground up. Case studies will include the Michigan Urban Farming Initiative and will cover social media, crowd-funding, task-management software, web development, geomapping, 3D & graphic design, and industry secrets.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Charlevoix C', 'Tech, Eco', 'DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology', 'Tyson Gersh', 'In an increasingly competitive market, the non-profit sector is undergoing a paradigm shift. Traditional charity models (i.e. foundation funding, annual giving, estate planning, million dollar grants, bake sales, etc.) are quickly becoming irrelevant, but with increasing access to open-source technology, so too is the barrier to entry for running a successful non-profit. This presentation will focus on outlining best-practices for using free technology to build a sustainable organization from the ground up. Case studies will include the Michigan Urban Farming Initiative and will cover social media, crowd-funding, task-management software, web development, geomapping, 3D & graphic design, and industry secrets.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Tyson Gersh
 avneeds,Projector
@@ -13880,7 +13880,7 @@ hours,0
 totalminutes,50
 speakernosplist,['TysonGersh']
 caldescrip,"In an increasingly competitive market, the non-profit sector is undergoing a paradigm shift. Traditional charity models (i.e. foundation funding, annual giving, estate planning, million dollar grants, bake sales, etc.) are quickly becoming irrelevant, but with increasing access to open-source technology, so too is the barrier to entry for running a successful non-profit. This presentation will focus on outlining best-practices for using free technology to build a sustainable organization from the ground up. Case studies will include the Michigan Urban Farming Initiative and will cover social media, crowd-funding, task-management software, web development, geomapping, 3D & graphic design, and industry secrets."
-endtime,13:50
+endtime,16:50
 AV Needs,Projector
 name,DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology
 Private,PUBLIC
@@ -13890,7 +13890,7 @@ Book Description,"In an increasingly competitive market, the non-profit sector i
 Presenters,Tyson Gersh
 csvsafedescrip,In an increasingly competitive market- the non-profit sector is undergoing a paradigm shift. Traditional charity models (i.e. foundation funding- annual giving- estate planning- million dollar grants- bake sales- etc.) are quickly becoming irrelevant- but with increasing access to open-source technology- so too is the barrier to entry for running a successful non-profit. This presentation will focus on outlining best-practices for using free technology to build a sustainable organization from the ground up. Case studies will include the Michigan Urban Farming Initiative and will cover social media- crowd-funding- task-management software- web development- geomapping- 3D & graphic design- and industry secrets.
 speakernosp,TysonGersh
-starttime,13:00
+starttime,16:00
 roomnosp,CharlevoixC
 Start Date,4/25/2015
 minutes,50
@@ -14167,10 +14167,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,9:50
+event_end,10:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,9 AM
+endtimeampm,10 AM
 Location,Algonquin C
 duration,50 minutes
 description,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
@@ -14181,13 +14181,13 @@ bookdescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, o
 Track,Tech
 startday,4/25/2015
 Title,Getting Involved in the Open Source Community
-Start Time,9:00
-event_start,9:00
-starttimeampm,9 AM
-End Time,9:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer\nWilliam A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer\nWilliam A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
 William A. Rowe Jr."
@@ -14197,7 +14197,7 @@ hours,0
 totalminutes,50
 speakernosplist,"[""KevinO'Brien"", 'TomCallaway', 'RuthSuehle', 'EmilyGonyerWilliamA.RoweJr.']"
 caldescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'"
-endtime,9:50
+endtime,10:50
 AV Needs,
 name,Getting Involved in the Open Source Community
 Private,PUBLIC
@@ -14207,7 +14207,7 @@ Book Description,"Whether you are into circuitry, soda, 3d printing, DIY furnitu
 Presenters,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer William A. Rowe Jr."
 csvsafedescrip,Whether you are into circuitry- soda- 3d printing- DIY furniture- or software- there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'
 speakernosp,"KevinO'Brien,TomCallaway,RuthSuehle,EmilyGonyerWilliamA.RoweJr."
-starttime,9:00
+starttime,10:00
 roomnosp,AlgonquinC
 Start Date,4/25/2015
 minutes,50
@@ -14349,10 +14349,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,10:50
+event_end,11:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,10 AM
+endtimeampm,11 AM
 Location,Windover
 duration,50 minutes
 description,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?"
@@ -14362,13 +14362,13 @@ bookdescrip,"With the emergence of the Internet of Things, pretty much everythin
 Track,Tech
 startday,4/25/2015
 Title,Hacking Outside the Box: Internet of Things
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Windover', 'Tech', 'Hacking Outside the Box: Internet of Things', 'Nick Farr, Jeff Goeke-Smith, Jason Kridner', 'With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech', 'Hacking Outside the Box: Internet of Things', 'Nick Farr, Jeff Goeke-Smith, Jason Kridner', 'With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Nick Farr, Jeff Goeke-Smith, Jason Kridner"
 avneeds,none
@@ -14377,7 +14377,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['NickFarr', 'JeffGoeke-Smith', 'JasonKridner']"
 caldescrip,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?"
-endtime,10:50
+endtime,11:50
 AV Needs,
 name,Hacking Outside the Box: Internet of Things
 Private,PUBLIC
@@ -14387,7 +14387,7 @@ Book Description,"With the emergence of the Internet of Things, pretty much ever
 Presenters,"Nick Farr, Jeff Goeke-Smith, Jason Kridner"
 csvsafedescrip,With the emergence of the Internet of Things- pretty much everything you use on a daily basis -- from your car- to your thermometer- to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?
 speakernosp,"NickFarr,JeffGoeke-Smith,JasonKridner"
-starttime,10:00
+starttime,11:00
 roomnosp,Windover
 Start Date,4/25/2015
 minutes,50
@@ -14439,10 +14439,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,16:50
+event_end,11:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
+endtimeampm,11 AM
 Location,Charlevoix C
 duration,50 minutes
 description,"Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy, anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development, overcomes her fears, questions the nature of reality, and shows off a super cool Ruby script. "
@@ -14450,16 +14450,16 @@ index,319
 speakers,Anne Cahalan
 bookdescrip,"Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy, anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development, overcomes her fears, questions the nature of reality, and shows off a super cool Ruby script. "
 Track,Tech
-startday,4/25/2015
+startday,4/26/2015
 Title,How To Be A Real Developer In Two Easy Steps
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
 tracknosp,['Tech']
-endday,4/25/2015
-input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Charlevoix C', 'Tech', 'How To Be A Real Developer In Two Easy Steps', 'Anne Cahalan', ""Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy, anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development, overcomes her fears, questions the nature of reality, and shows off a super cool Ruby script. "", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
-End Date,4/25/2015
+endday,4/26/2015
+input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Charlevoix C', 'Tech', 'How To Be A Real Developer In Two Easy Steps', 'Anne Cahalan', ""Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy, anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development, overcomes her fears, questions the nature of reality, and shows off a super cool Ruby script. "", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+End Date,4/26/2015
 calspeakers,Anne Cahalan
 avneeds,Projector
 speakerlist,['Anne Cahalan']
@@ -14467,7 +14467,7 @@ hours,0
 totalminutes,50
 speakernosplist,['AnneCahalan']
 caldescrip,"Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy, anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development, overcomes her fears, questions the nature of reality, and shows off a super cool Ruby script. "
-endtime,16:50
+endtime,11:50
 AV Needs,Projector
 name,How To Be A Real Developer In Two Easy Steps
 Private,PUBLIC
@@ -14477,9 +14477,9 @@ Book Description,"Have some imposter syndrome? Worried that you aren't a *real* 
 Presenters,Anne Cahalan
 csvsafedescrip,Have some imposter syndrome? Worried that you aren't a *real* developer? You're in luck! There's an easy- anybody-can-do-it two-step process you can follow to conquer your fears and become a Real Developer. What are those two steps? Well...that's where it gets complicated. Come with Anne as she recounts her path into the world of software development- overcomes her fears- questions the nature of reality- and shows off a super cool Ruby script. 
 speakernosp,AnneCahalan
-starttime,16:00
+starttime,11:00
 roomnosp,CharlevoixC
-Start Date,4/25/2015
+Start Date,4/26/2015
 minutes,50
 allday,FALSE
 event_type,"Tech, Life"
@@ -14713,11 +14713,11 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,16:50
+event_end,10:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
-Location,Charlevoix B
+endtimeampm,10 AM
+Location,Charlevoix C
 duration,50 minutes
 description,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 index,325
@@ -14725,16 +14725,16 @@ speakers,"Mark Haynes
 Douglas Johnson"
 bookdescrip,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 Track,Tech
-startday,4/24/2015
+startday,4/25/2015
 Title,Introduction to Kanban Boards
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['Tech']
-endday,4/24/2015
-input,"['4/24/2015', '16:00', '4/24/2015', '16:50', 'Charlevoix B', 'Tech', 'Introduction to Kanban Boards', 'Mark Haynes\nDouglas Johnson', 'A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
-End Date,4/24/2015
+endday,4/25/2015
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Charlevoix C', 'Tech', 'Introduction to Kanban Boards', 'Mark Haynes\nDouglas Johnson', 'A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+End Date,4/25/2015
 calspeakers,"Mark Haynes
 Douglas Johnson"
 avneeds,Projector
@@ -14743,19 +14743,19 @@ hours,0
 totalminutes,50
 speakernosplist,['MarkHaynesDouglasJohnson']
 caldescrip,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
-endtime,16:50
+endtime,10:50
 AV Needs,Projector
 name,Introduction to Kanban Boards
 Private,PUBLIC
 bookname,Introduction to Kanban Boards
-venue,Charlevoix B
+venue,Charlevoix C
 Book Description,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 Presenters,Mark Haynes Douglas Johnson
 csvsafedescrip,A lean- visual- Just-In-Time software scheduling system. Visual scheduling system- which uses pre-defined units of work as input and displays them in various states of completeness.
 speakernosp,MarkHaynesDouglasJohnson
-starttime,16:00
-roomnosp,CharlevoixB
-Start Date,4/24/2015
+starttime,10:00
+roomnosp,CharlevoixC
+Start Date,4/25/2015
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -14854,7 +14854,7 @@ event_end,11:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,11 AM
-Location,Windover
+Location,Charlevoix C
 duration,50 minutes
 description,"IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!"
 index,328
@@ -14869,27 +14869,27 @@ starttimeampm,11 AM
 End Time,11:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Windover', 'Tech', 'IPv6: So Fetch, It Hurts', 'Mark E Doner', 'IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Charlevoix C', 'Tech', 'IPv6: So Fetch, It Hurts', 'Mark E Doner', 'IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Mark E Doner
-avneeds,none
+avneeds,Projector
 speakerlist,['Mark E Doner']
 hours,0
 totalminutes,50
 speakernosplist,['MarkEDoner']
 caldescrip,"IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!"
 endtime,11:50
-AV Needs,
+AV Needs,Projector
 name,"IPv6: So Fetch, It Hurts"
 Private,PUBLIC
 bookname,"IPv6: So Fetch, It Hurts"
-venue,Windover
+venue,Charlevoix C
 Book Description,"IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!"
 Presenters,Mark E Doner
 csvsafedescrip,IPv6 adoption has been slow- abysmally slow. Hundreds- if not thousands of blogs exist that proclaim IPv6 is ready for the world- and yet- 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge- and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions!
 speakernosp,MarkEDoner
 starttime,11:00
-roomnosp,Windover
+roomnosp,CharlevoixC
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -15582,10 +15582,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,12:50
+event_end,13:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,12 PM
+endtimeampm,1 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Linux distributions don't package themselves.  Show up and help make it happen!  We will all join together to package software of the attendees choice so it's easier for the community to use. Help will be available for all the intricate details of RPM packaging, but DEB packagers are also welcome. Please come with either knowledge of Linux software packaging or prior attendance at the RPM Packaging Workshop. Please bring a notebook running a Linux distribution (or remote access)."
@@ -15595,13 +15595,13 @@ bookdescrip,"Linux distributions don't package themselves.  Show up and help mak
 Track,Tech
 startday,4/25/2015
 Title,Pack-a-thon
-Start Time,12:00
-event_start,12:00
-starttimeampm,12 PM
-End Time,12:50
+Start Time,13:00
+event_start,13:00
+starttimeampm,1 PM
+End Time,13:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Charlevoix C', 'Tech', 'Pack-a-thon', 'Rick Houser', ""Linux distributions don't package themselves.  Show up and help make it happen!  We will all join together to package software of the attendees choice so it's easier for the community to use. Help will be available for all the intricate details of RPM packaging, but DEB packagers are also welcome. Please come with either knowledge of Linux software packaging or prior attendance at the RPM Packaging Workshop. Please bring a notebook running a Linux distribution (or remote access)."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Charlevoix C', 'Tech', 'Pack-a-thon', 'Rick Houser', ""Linux distributions don't package themselves.  Show up and help make it happen!  We will all join together to package software of the attendees choice so it's easier for the community to use. Help will be available for all the intricate details of RPM packaging, but DEB packagers are also welcome. Please come with either knowledge of Linux software packaging or prior attendance at the RPM Packaging Workshop. Please bring a notebook running a Linux distribution (or remote access)."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Rick Houser
 avneeds,Projector
@@ -15610,7 +15610,7 @@ hours,0
 totalminutes,50
 speakernosplist,['RickHouser']
 caldescrip,"Linux distributions don't package themselves.  Show up and help make it happen!  We will all join together to package software of the attendees choice so it's easier for the community to use. Help will be available for all the intricate details of RPM packaging, but DEB packagers are also welcome. Please come with either knowledge of Linux software packaging or prior attendance at the RPM Packaging Workshop. Please bring a notebook running a Linux distribution (or remote access)."
-endtime,12:50
+endtime,13:50
 AV Needs,Projector
 name,Pack-a-thon
 Private,PUBLIC
@@ -15620,7 +15620,7 @@ Book Description,"Linux distributions don't package themselves. Show up and help
 Presenters,Rick Houser
 csvsafedescrip,Linux distributions don't package themselves.  Show up and help make it happen!  We will all join together to package software of the attendees choice so it's easier for the community to use. Help will be available for all the intricate details of RPM packaging- but DEB packagers are also welcome. Please come with either knowledge of Linux software packaging or prior attendance at the RPM Packaging Workshop. Please bring a notebook running a Linux distribution (or remote access).
 speakernosp,RickHouser
-starttime,12:00
+starttime,13:00
 roomnosp,CharlevoixC
 Start Date,4/25/2015
 minutes,50
@@ -15672,10 +15672,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,11:50
+event_end,12:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,11 AM
+endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software."
@@ -15683,16 +15683,16 @@ index,346
 speakers,Rick Houser
 bookdescrip,"Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software."
 Track,Tech
-startday,4/26/2015
+startday,4/25/2015
 Title,RPM Packaging Workshop
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,12:50
 tracknosp,['Tech']
-endday,4/26/2015
-input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Charlevoix C', 'Tech', 'RPM Packaging Workshop', 'Rick Houser', 'Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
-End Date,4/26/2015
+endday,4/25/2015
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Charlevoix C', 'Tech', 'RPM Packaging Workshop', 'Rick Houser', 'Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+End Date,4/25/2015
 calspeakers,Rick Houser
 avneeds,Projector
 speakerlist,['Rick Houser']
@@ -15700,7 +15700,7 @@ hours,0
 totalminutes,50
 speakernosplist,['RickHouser']
 caldescrip,"Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software."
-endtime,11:50
+endtime,12:50
 AV Needs,Projector
 name,RPM Packaging Workshop
 Private,PUBLIC
@@ -15710,9 +15710,9 @@ Book Description,"Wonder how RPM packages are put together? Want to learn how to
 Presenters,Rick Houser
 csvsafedescrip,Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation- and a workshop where everyone follows along with packaging a few simple- pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred- but not required. Stick around for the Pack-a-thon- and you can put your skills to use with your own software.
 speakernosp,RickHouser
-starttime,11:00
+starttime,12:00
 roomnosp,CharlevoixC
-Start Date,4/26/2015
+Start Date,4/25/2015
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -16167,11 +16167,11 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,9:50
+event_end,14:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,9 AM
-Location,Portage Auditorium
+endtimeampm,2 PM
+Location,Charlevoix C
 duration,50 minutes
 description,"Thanks to Moore's Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep & share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku & Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question ""What's the catch?"""
 index,357
@@ -16180,13 +16180,13 @@ bookdescrip,"Thanks to Moore's Law and weird business models on the Internet, a 
 Track,Tech
 startday,4/26/2015
 Title,The Cloud is Your Free Hobby Computer
-Start Time,9:00
-event_start,9:00
-starttimeampm,9 AM
-End Time,9:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
 tracknosp,['Tech']
 endday,4/26/2015
-input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Portage Auditorium', 'Tech', 'The Cloud is Your Free Hobby Computer', 'Les Orchard', 'Thanks to Moore\'s Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep & share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku & Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question ""What\'s the catch?""', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '14:00', '4/26/2015', '14:50', 'Charlevoix C', 'Tech', 'The Cloud is Your Free Hobby Computer', 'Les Orchard', 'Thanks to Moore\'s Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep & share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku & Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question ""What\'s the catch?""', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Les Orchard
 avneeds,Projector
@@ -16195,18 +16195,18 @@ hours,0
 totalminutes,50
 speakernosplist,['LesOrchard']
 caldescrip,"Thanks to Moore's Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep & share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku & Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question 'What's the catch?'"
-endtime,9:50
+endtime,14:50
 AV Needs,Projector
 name,The Cloud is Your Free Hobby Computer
 Private,PUBLIC
 bookname,The Cloud is Your Free Hobby Computer
-venue,Portage Auditorium
+venue,Charlevoix C
 Book Description,"Thanks to Moore's Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep and share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku and Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question ""What's the catch?"""
 Presenters,Les Orchard
 csvsafedescrip,Thanks to Moore's Law and weird business models on the Internet- a lot of computing power can be had free-of-charge. GitHub will keep & share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku & Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning- as well as answering the question 'What's the catch?'
 speakernosp,LesOrchard
-starttime,9:00
-roomnosp,PortageAuditorium
+starttime,14:00
+roomnosp,CharlevoixC
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -17393,10 +17393,10 @@ minutes,50
 allday,FALSE
 event_type,Webcomics
 All Day Event,FALSE
-event_end,10:50
+event_end,9:50
 event_type_list,['Webcomics']
 private,PUBLIC
-endtimeampm,10 AM
+endtimeampm,9 AM
 Location,Board of Trustees
 duration,50 minutes
 description,Join Terry Pavlet as he teaches you how to draw a dragon!
@@ -17406,13 +17406,13 @@ bookdescrip,Join Terry Pavlet as he teaches you how to draw a dragon!
 Track,Webcomics
 startday,4/26/2015
 Title,Learn to Draw a Dragon
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,9:00
+event_start,9:00
+starttimeampm,9 AM
+End Time,9:50
 tracknosp,['Webcomics']
 endday,4/26/2015
-input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Board of Trustees', 'Webcomics', 'Learn to Draw a Dragon', 'Terry Pavlet', 'Join Terry Pavlet as he teaches you how to draw a dragon!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Board of Trustees', 'Webcomics', 'Learn to Draw a Dragon', 'Terry Pavlet', 'Join Terry Pavlet as he teaches you how to draw a dragon!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Terry Pavlet
 avneeds,none
@@ -17421,7 +17421,7 @@ hours,0
 totalminutes,50
 speakernosplist,['TerryPavlet']
 caldescrip,Join Terry Pavlet as he teaches you how to draw a dragon!
-endtime,10:50
+endtime,9:50
 AV Needs,
 name,Learn to Draw a Dragon
 Private,PUBLIC
@@ -17431,7 +17431,7 @@ Book Description,Join Terry Pavlet as he teaches you how to draw a dragon!
 Presenters,Terry Pavlet
 csvsafedescrip,Join Terry Pavlet as he teaches you how to draw a dragon!
 speakernosp,TerryPavlet
-starttime,10:00
+starttime,9:00
 roomnosp,BoardofTrustees
 Start Date,4/26/2015
 minutes,50
@@ -17888,11 +17888,11 @@ minutes,00
 allday,FALSE
 event_type,Videogaming
 All Day Event,FALSE
-event_end,12:00
+event_end,16:00
 event_type_list,['Videogaming']
 private,PUBLIC
-endtimeampm,12 PM
-Location,Board of Trustees
+endtimeampm,4 PM
+Location,Hamilin
 duration,1 hour
 description,"Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top?"
 index,395
@@ -17901,13 +17901,13 @@ bookdescrip,"Now that there's been time to experience both the XBox One and the 
 Track,Videogaming
 startday,4/26/2015
 Title,"BoF: XBox One vs. Playstation 4 -- Who ""Won"" the Next Gen Console War?"
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,12:00
+Start Time,15:00
+event_start,15:00
+starttimeampm,3 PM
+End Time,16:00
 tracknosp,['Videogaming']
 endday,4/26/2015
-input,"['4/26/2015', '11:00', '4/26/2015', '12:00', 'Board of Trustees', 'Videogaming', 'BoF: XBox One vs. Playstation 4 -- Who ""Won"" the Next Gen Console War?', '', ""Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top?"", '01hr:00min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '15:00', '4/26/2015', '16:00', 'Hamilin', 'Videogaming', 'BoF: XBox One vs. Playstation 4 -- Who ""Won"" the Next Gen Console War?', '', ""Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top?"", '01hr:00min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -17916,18 +17916,18 @@ hours,1
 totalminutes,60
 speakernosplist,['']
 caldescrip,"Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top?"
-endtime,12:00
+endtime,16:00
 AV Needs,
 name,"BoF: XBox One vs. Playstation 4 -- Who ""Won"" the Next Gen Console War?"
 Private,PUBLIC
 bookname,"BoF: XBox One vs. Playstation 4 -- Who ""Won"" the Next Gen Console War?"
-venue,Board of Trustees
+venue,Hamilin
 Book Description,"Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top?"
 Presenters,
 csvsafedescrip,Now that there's been time to experience both the XBox One and the Playstation 4- which system has come out on top?
 speakernosp,
-starttime,11:00
-roomnosp,BoardofTrustees
+starttime,15:00
+roomnosp,Hamilin
 Start Date,4/26/2015
 minutes,00
 allday,FALSE
@@ -18339,10 +18339,10 @@ minutes,00
 allday,FALSE
 event_type,Videogaming
 All Day Event,FALSE
-event_end,22:00
+event_end,20:00
 event_type_list,['Videogaming']
 private,PUBLIC
-endtimeampm,10 PM
+endtimeampm,8 PM
 Location,Board of Governors
 duration,1 hour
 description,"Video games and hardware are getting increasingly more complex and powerful. But, so are the resources available to gamers. Back in the 80s, a space trading game like Elite would call for a pad of paper to track prices between space stations. Today, players of the modern MMORPG EVE Online have spawned web services and dynamic spreadsheets to cope with market activity. Even World of Warcraft players have used code and spreadsheets to manage characters and gear. Some players and developers consider this cheating. But, for others, this is just the way games are played while living in the future. What do you think?  Let's discuss!"
@@ -18352,13 +18352,13 @@ bookdescrip,"Video games and hardware are getting increasingly more complex and 
 Track,Videogaming
 startday,4/25/2015
 Title,The Augmented Gamer
-Start Time,21:00
-event_start,21:00
-starttimeampm,9 PM
-End Time,22:00
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,20:00
 tracknosp,['Videogaming']
 endday,4/25/2015
-input,"['4/25/2015', '21:00', '4/25/2015', '22:00', 'Board of Governors', 'Videogaming', 'The Augmented Gamer', 'Les Orchard', ""Video games and hardware are getting increasingly more complex and powerful. But, so are the resources available to gamers. Back in the 80s, a space trading game like Elite would call for a pad of paper to track prices between space stations. Today, players of the modern MMORPG EVE Online have spawned web services and dynamic spreadsheets to cope with market activity. Even World of Warcraft players have used code and spreadsheets to manage characters and gear. Some players and developers consider this cheating. But, for others, this is just the way games are played while living in the future. What do you think?  Let's discuss!"", '01hr:00min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '19:00', '4/25/2015', '20:00', 'Board of Governors', 'Videogaming', 'The Augmented Gamer', 'Les Orchard', ""Video games and hardware are getting increasingly more complex and powerful. But, so are the resources available to gamers. Back in the 80s, a space trading game like Elite would call for a pad of paper to track prices between space stations. Today, players of the modern MMORPG EVE Online have spawned web services and dynamic spreadsheets to cope with market activity. Even World of Warcraft players have used code and spreadsheets to manage characters and gear. Some players and developers consider this cheating. But, for others, this is just the way games are played while living in the future. What do you think?  Let's discuss!"", '01hr:00min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Les Orchard
 avneeds,none
@@ -18367,7 +18367,7 @@ hours,1
 totalminutes,60
 speakernosplist,['LesOrchard']
 caldescrip,"Video games and hardware are getting increasingly more complex and powerful. But, so are the resources available to gamers. Back in the 80s, a space trading game like Elite would call for a pad of paper to track prices between space stations. Today, players of the modern MMORPG EVE Online have spawned web services and dynamic spreadsheets to cope with market activity. Even World of Warcraft players have used code and spreadsheets to manage characters and gear. Some players and developers consider this cheating. But, for others, this is just the way games are played while living in the future. What do you think?  Let's discuss!"
-endtime,22:00
+endtime,20:00
 AV Needs,
 name,The Augmented Gamer
 Private,PUBLIC
@@ -18377,7 +18377,7 @@ Book Description,"Video games and hardware are getting increasingly more complex
 Presenters,Les Orchard
 csvsafedescrip,Video games and hardware are getting increasingly more complex and powerful. But- so are the resources available to gamers. Back in the 80s- a space trading game like Elite would call for a pad of paper to track prices between space stations. Today- players of the modern MMORPG EVE Online have spawned web services and dynamic spreadsheets to cope with market activity. Even World of Warcraft players have used code and spreadsheets to manage characters and gear. Some players and developers consider this cheating. But- for others- this is just the way games are played while living in the future. What do you think?  Let's discuss!
 speakernosp,LesOrchard
-starttime,21:00
+starttime,19:00
 roomnosp,BoardofGovernors
 Start Date,4/25/2015
 minutes,00
@@ -18403,17 +18403,17 @@ starttimeampm,10 PM
 End Time,23:00
 tracknosp,['Videogaming']
 endday,4/24/2015
-input,"['4/24/2015', '22:00', '4/24/2015', '23:00', 'Charlevoix C', 'Videogaming', 'The Metagame: Video Game Debate', 'Derek Parrott, Saker Alexander, Richard Villarruel ', 'Which made you feel more in control, Kingdom Hearts or Madden 2015? Which had a better soundtrack, Jet Set Radio or Chrono Trigger? Our panelists will be given specific questions, and using a limited pool of games they must construct and present an argument answering that question. A panel of judges will weigh in on the arguments presented and decide a winner. After our pros go head-to-head, the audience will be given the chance to challenge the panelists and each other!', '01hr:00min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '22:00', '4/24/2015', '23:00', 'Charlevoix C', 'Videogaming', 'The Metagame: Video Game Debate', 'Derek Parrott, Saker Alexander, Richard Villarruel ', 'Which made you feel more in control, Kingdom Hearts or Madden 2015? Which had a better soundtrack, Jet Set Radio or Chrono Trigger? Our panelists will be given specific questions, and using a limited pool of games they must construct and present an argument answering that question. A panel of judges will weigh in on the arguments presented and decide a winner. After our pros go head-to-head, the audience will be given the chance to challenge the panelists and each other!', '01hr:00min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Derek Parrott, Saker Alexander, Richard Villarruel "
-avneeds,none
+avneeds,Projector
 speakerlist,"['Derek Parrott', 'Saker Alexander', 'Richard Villarruel ']"
 hours,1
 totalminutes,60
 speakernosplist,"['DerekParrott', 'SakerAlexander', 'RichardVillarruel']"
 caldescrip,"Which made you feel more in control, Kingdom Hearts or Madden 2015? Which had a better soundtrack, Jet Set Radio or Chrono Trigger? Our panelists will be given specific questions, and using a limited pool of games they must construct and present an argument answering that question. A panel of judges will weigh in on the arguments presented and decide a winner. After our pros go head-to-head, the audience will be given the chance to challenge the panelists and each other!"
 endtime,23:00
-AV Needs,
+AV Needs,Projector
 name,The Metagame: Video Game Debate
 Private,PUBLIC
 bookname,The Metagame: Video Game Debate

@@ -59,11 +59,12 @@
 <topic>Action Adventure</topic>
 <room>Algonquin A</room>
 <blurb><participant>Devon Boling</participant> Dancers suspended mid-air, splashes of water frozen like glass, bullets exploding an apple? Maybe not the last one, but come see what it takes for a photographer to capture those surreal moments. </blurb></event>
-<time>7 PM</time>
+<time>11 AM</time>
 <event><title>Adventure As A Way Of Life</title>
 <topic>Action Adventure</topic>
 <room>Algonquin C</room>
-<blurb><participant>Matt Arnold, Heather Fish, Moshe Yudkowsky</participant> Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage. </blurb></event>
+<blurb><participant>Matt Arnold, Heather Fish, Moshe Yudkowsky, Misha Tuesday</participant> Not everyone can get outside of their comfort zone as a matter of course. But that's where the most treasure is. Let's discuss the practicalities and challenges of not depending on a reassuring hobbit hole of stability; the necessary values and priorities; building resilience and flexibility toward change; and estimating risk and courage. </blurb></event>
+<time>7 PM</time>
 <event><title>Archery in Hollywood</title>
 <topic>Action Adventure, Film</topic>
 <room>Portage Auditorium</room>
@@ -301,7 +302,7 @@
 <topic>Costuming</topic>
 <room>Board of Regents</room>
 <blurb><participant>Kat McConnell, Jeannie Arquette</participant> Come find out about the cool effects you can pull off using unflavored gelatin as a base. </blurb></event>
-<time>5 PM</time>
+<time>10 AM</time>
 <event><title>Taking Flight: Making Moving Bat Wings</title>
 <topic>Costuming</topic>
 <room>Nicolet</room>
@@ -316,12 +317,11 @@
 <topic>DIY</topic>
 <room>Board of Governors</room>
 <blurb><participant>Kent Newland, Derek Newland</participant> Learn metalworking, welding theory and safety presented by two knowledgeable individuals whose combined experience totals 10+ years. Also, learn about why welding and blacksmithing is a useful tool to learn, and what you can do with different metals. </blurb></event>
-<time>10 PM</time>
+<time>10 AM</time>
 <event><title>BoF: Electronics Projects Show and Tell</title>
 <topic>DIY, Tech</topic>
-<room>Algonquin D</room>
+<room>Board of Trustees</room>
 <blurb><participant></participant> Show off electronics projects that you have been working on, and discuss how you made it! Robots! Wearable computers! Arduino! Raspberry Pi! Beaglebone! All and more are welcome. If you cannot bring the physical project to the event, bring a laptop or another way to show it to the group. </blurb></event>
-<time>10 AM</time>
 <event><title>Crappy Floors: Turning Lemons into Lemonade</title>
 <topic>DIY</topic>
 <room>Charlevoix C</room>
@@ -379,10 +379,10 @@
 <topic>DIY, Costuming</topic>
 <room>Maker Space [Board of Directors]</room>
 <blurb><participant>James Hice, John D. Bell</participant> Come help design and build a robot during the convention. Donations may be accepted depending on the robot design. No skill necessary to help but prior experience would be useful. Useful skills include familiarity with microcontrollers, structural design, costume design, programming, graphic design, and logic! <duration>4 hours and 50 minutes</duration></blurb></event>
-<time>11 AM</time>
+<time>5 PM</time>
 <event><title>12 Uses for a 5-Gallon Bucket in the Garden</title>
 <topic>Eco</topic>
-<room>Algonquin C</room>
+<room>Charlevoix A</room>
 <blurb><participant>Janice Leach </participant> Lots of fun surprises and ideas for making use of a 5 gallon bucket for a variety of tasks and purposes. 5 gallon buckets are readily available in stores or repurposed by gardeners of all skill levels to become everything from storage to planters. </blurb></event>
 <time>1 PM</time>
 <event><title>Beekeeping for Sustainable Farming and Homesteading</title>
@@ -640,7 +640,7 @@
 <topic>Gaming</topic>
 <room>Gaming [Lobby]</room>
 <blurb><participant>Rick Houser, Seth Breidbart, Don Wenzel</participant> The first Penguicon Chess Tournament has arrived! Bug House games are extremely fast paced team play often involving shouting and some very non-traditional mechanics. Even if you don't play chess, feel free to swing by and take a peak. This tournament will -not- be elimination, so expect to get 4-5 games in. There will be a sign-up sheet at Ops. Chess set availability is limited. Those that bring a set get first priority; second priority goes to those on the sign-up sheet, in order.  Equipment: If you have a chess set or durable clock, please bring it.  We do have a limited number of sets available for use. You need to know at least one variant of Bughouse or Doubles Speed, so come check out our Bug House panel! As long as you understand the rules, don't worry about not being good enough! <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>5 PM</time>
+<time>1 PM</time>
 <event><title>Carabande (aka PitchCar)</title>
 <topic>Gaming</topic>
 <room>Gaming [Lobby]</room>
@@ -709,10 +709,10 @@
 <topic>Gaming</topic>
 <room>Gaming [Lobby]</room>
 <blurb><participant>Mark Geary</participant> It’s a slow day at the widget factory, so the central race computer has prepared a RoboRally tournament for the factory computers. You can be one of those computers. Navigate your robot across conveyor belts, over gears, and past pushers in your effort to be the first to touch all the checkpoints. But watch out for the other robots, not only are they trying to beat you to the checkpoints, but they might even push you off course. Don’t forget the lasers. Easy to learn, hard to master. <duration>2 hours and 50 minutes</duration></blurb></event>
-<time>2 PM</time>
+<time>10 AM</time>
 <event><title>Tarot as a Gaming Tool</title>
 <topic>Gaming</topic>
-<room>Windover</room>
+<room>Board of Trustees</room>
 <blurb><participant>Dawn Marino, Rachael Folkerth</participant> Want to get to know your character better? Need advice on what horrible fate should befall your players? Come learn how to use the reading of Tarot to help out your Table Top Gaming experience! <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>6 PM</time>
 <event><title>Tzolkin</title>
@@ -724,12 +724,10 @@
 <topic>Gaming</topic>
 <room>Gaming [Lobby]</room>
 <blurb><participant>Mark Haynes</participant> Each player will take the reins of a family and have them find fame and glory in many different ways. There is one thing you must not forget, however: Time will not stop for anyone and with time people will vanish. Those who will find themselves immortalized in the village chronicles will bring honor to their family and be one step closer to victory. <duration>3 hours and 50 minutes</duration></blurb></event>
-<time>10 AM</time>
 <event><title>BoF: Christians in Fandom </title>
 <topic>Life</topic>
 <room>Board of Trustees</room>
 <blurb><participant></participant> An open discussion for Christians who are fans. </blurb></event>
-<time>9 AM</time>
 <event><title>BoF: Compliments Confidence </title>
 <topic>Life</topic>
 <room>Board of Regents</room>
@@ -778,10 +776,10 @@
 <topic>Life</topic>
 <room>Board of Governors</room>
 <blurb><participant>Jessica Roland, Carol Thomas</participant> Meeting people can be difficult and sometimes impossible to do as an adult. This is especially true if you find social settings overwhelming. Come to this panel to meet other attendees in a informal setting. Find people with similar interests to hang with while you are at the con. Conversation starters will be provided. </blurb></event>
-<time>10 AM</time>
+<time>1 PM</time>
 <event><title>From Mono to Poly and Poly/Mono</title>
 <topic>Life</topic>
-<room>Algonquin C</room>
+<room>Charlevoix A</room>
 <blurb><participant>Catrice Thornton, Isaac Thornton </participant> Exploring polyamory can be a challenge for those new to it. Opening up a monogamous relationship is full of its own set of unique challenges. Discussions on opening up, training wheels for newbies, avoiding pitfalls, as well as dealing with those not avoided. Will also touch on what happens when one partner doesn't want to date others as their partner moves into poly. </blurb></event>
 <time>8 PM</time>
 <event><title>G33K Biathlon</title>
@@ -846,11 +844,11 @@
 <topic>Life</topic>
 <room>Restaurant</room>
 <blurb><participant>Maggie Maiville, Shannon Marshall</participant> It's a three-peat! Shannon and Maggie are BFF’s and they like to drink, a lot. Join us as hilarity ensues while the ladies drink, eat cheese, and discuss the latest events in life and entertainment. Audience members can submit questions to be answered live during the recording to Shannon and Maggie or via Twitter at @ShannonsParty and @TheSexToyChick. Find us in the small room at the back of the restaurant! </blurb></event>
-<time>1 PM</time>
+<time>9 AM</time>
 <event><title>Living in the Eye of the Storm: Neurodiversity in Relationships</title>
 <topic>Life</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster</participant> The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity.  </blurb></event>
+<room>Algonquin C</room>
+<blurb><participant>Jessica Roland, Chris Roland, Kristy Currier, Miranda Webster, Terry Pavlet</participant> The eye of the storm is a calm haven of beauty and peace but any number of things can push you beyond that center into a world of chaos and uncertainty. Relationships are difficult and even more so when you throw in neurologically different perspectives. Join the discussion to see how relationships can work despite one or both partners living with neurodiversity.  </blurb></event>
 <time>9 PM</time>
 <event><title>Night Vale Community Radio Hour</title>
 <topic>Life</topic>
@@ -864,7 +862,7 @@
 <time>10 PM</time>
 <event><title>Piratical Romeo and Juliet</title>
 <topic>Life</topic>
-<room>Hamilin</room>
+<room>Windover</room>
 <blurb><participant>Jennifer Peters, Katherine Hatfield-Nix, Mitchell Peters, Jennifer Reisbig</participant> Come see three fierce pirates, showing off their skills as they pirate everyone's favorite bard, Shakespeare! Captain Duckman, his bride/first Mate Jenniveve, and new cabin girl Titania are out to provide their take on Romeo and Juliet, in a short and funny manner. It's a Rennaissance Faire style interactive show! </blurb></event>
 <time>10 AM</time>
 <event><title>Polyamory: Communication is Key</title>
@@ -912,10 +910,10 @@
 <room>Board of Governors</room>
 <blurb><participant>Heather Fish
 Roni Jean Neal</participant> The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life.  </blurb></event>
-<time>5 PM</time>
+<time>7 PM</time>
 <event><title>Sports Fandom in the Geek Community</title>
 <topic>Life</topic>
-<room>Charlevoix A</room>
+<room>Algonquin C</room>
 <blurb><participant>Dave Hogg, Zach Blagg, Jeannie Szarama, Samuel Hansen</participant> Sports and their fans are still easy targets for mockery by SF/F fans, even while athletes are watching The Walking Dead and Game of Thrones and playing World of Warcraft and Settlers of Catan. If we won the culture war, why are we still fighting it? </blurb></event>
 <time>4 PM</time>
 <event><title>Surviving a Nuclear Holocaust</title>
@@ -942,10 +940,10 @@ Roni Jean Neal</participant> The fastest growing religious category in the US is
 <topic>Life</topic>
 <room>Board of Governors</room>
 <blurb><participant>Jeffrey Beeler</participant> The Ancient Greeks centred their communities around an open space in the middle where they would meet to do business, educate or socialize.  In modern societies, where are these places in the real world and online?  How has their role changed or stayed the same? </blurb></event>
-<time>2 PM</time>
+<time>9 AM</time>
 <event><title>The Trials and Tribulations of the Artist's Lifestyle</title>
 <topic>Life, Webcomics, Film</topic>
-<room>Charlevoix C</room>
+<room>Portage Auditorium</room>
 <blurb><participant>Jennifer Hamilton, Gabrielle Nettles, BluRaven Houvener</participant> Join BluRaven C. Houvener (writer and illustrator of the Webcomic It's Just Another Day) and Gabrielle Nettles (Founder of Bad Catholic Films LLC) for another year of laugh out loud mayhem as they regale you with tales of success and failure that they've faced reaching towards fame and fortune. Comments and questions are encouraged! </blurb></event>
 <time>5 PM</time>
 <event><title>Thought Experiments: Guided Meditation</title>
@@ -1023,7 +1021,7 @@ Roni Jean Neal</participant> The fastest growing religious category in the US is
 <time>9 AM</time>
 <event><title>BoF: But Is It Fantasy?</title>
 <topic>Literature</topic>
-<room>Board of Trustees</room>
+<room>Board of Regents</room>
 <blurb><participant></participant> An open discussion about recent works which use Fantasy tropes, but which are not generally considered to fall into the umbrella of the fantasy genre. What defines genre fiction, and why are some works considered too "mainstream?" Why is fantasy so popular among items aimed at the YA market? </blurb></event>
 <time>11 PM</time>
 <event><title>BoF: But is it Horror?</title>
@@ -1039,7 +1037,7 @@ Roni Jean Neal</participant> The fastest growing religious category in the US is
 <topic>Literature</topic>
 <room>Board of Regents</room>
 <blurb><participant></participant> NaNoWriMo, the National Novel Writing Month, is an exhilarating, frustrating, possibly insane idea -- write a 50,000 word novel in one month. One of the amazing aspects of NaNo, and one which sets it apart from the typical, solitary writer life, is the social aspect. Come meet other brave souls who have accepted the NaNo challenge. </blurb></event>
-<time>9 AM</time>
+<time>4 PM</time>
 <event><title>BoF: Research vs. Faking It</title>
 <topic>Literature</topic>
 <room>Board of Trustees</room>
@@ -1054,11 +1052,10 @@ Roni Jean Neal</participant> The fastest growing religious category in the US is
 <topic>Literature, Costuming</topic>
 <room>Board of Regents</room>
 <blurb><participant></participant> Steampunk is more than a literary and cinematic sub-genre of science fiction. It has become an aesthetic encompassing costuming, diet, and more. Put on your waistcoat and join a discussion of all things steampunk. </blurb></event>
-<time>11 AM</time>
 <event><title>Crowdfunding Your Way to Success</title>
 <topic>Literature, Videogaming, Gaming, Webcomics</topic>
-<room>Montcalm</room>
-<blurb><participant>Maggie Maiville, Sarah Hans</participant> Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality. </blurb></event>
+<room>Windover</room>
+<blurb><participant>Maggie Maiville, Sarah Hans</participant> Crowdfunding has taken the world by storm. Learn about the different types of crowdfunding and the ways they can help your project become a reality. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>3 PM</time>
 <event><title>E-Books: An Examination of the Current State of Digital Publishing</title>
 <topic>Literature</topic>
@@ -1073,12 +1070,13 @@ Roni Jean Neal</participant> The fastest growing religious category in the US is
 <topic>Literature</topic>
 <room>Montcalm</room>
 <blurb><participant>Jen Talley, Patty Templeton</participant> Librarians are everywhere -- in comics and literature, on tv and in the movies, and even at your actual library. What is the public fascination with librarians, and what's with the stereotypes? This presentation looks at representations of librarians in popular culture, discusses the bespectacled shushing "Marian the librarian" trope, the "sexy librarian" of pulp and porn, the disproportionate number of librarians in cozy mysteries, and the more recent "librarian as mystical gatekeeper" device found in characters as diverse as Rupert Giles and the Librarian of Unseen University (ook!) Finally, we'll look at what actual librarians are doing these days, and how they might surprise you. </blurb></event>
-<time>12 PM</time>
+<time>6 PM</time>
 <event><title>How is Game of Thrones Breaking the Rules of Story Telling?</title>
 <topic>Literature, Film</topic>
 <room>Hamilin</room>
 <blurb><participant>Jeannie Szarama
 Ferrett Steinmetz</participant> Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular?  </blurb></event>
+<time>12 PM</time>
 <event><title>How To Be A Critic: Writing Reviews for Fun and Profit</title>
 <topic>Literature, Music, Film, Life</topic>
 <room>Charlevoix B</room>
@@ -1093,7 +1091,7 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <topic>Literature</topic>
 <room>Windover</room>
 <blurb><participant>Jen Haeger, Brent Seth, Rachael Acks, Patty Templeton, Clarence Young, Leslie Gulvas, Michael Elliott </participant> Sometimes panels with very successful writers on them are intimidating or a bit non-applicable to folks just dipping their toes in the ink, so to speak. This panel has writers struggling to find success sharing their triumphs, woes, insights, and experiences with other aspiring writers. </blurb></event>
-<time>6 PM</time>
+<time>12 PM</time>
 <event><title>Making the Fantastic Believable</title>
 <topic>Literature</topic>
 <room>Hamilin</room>
@@ -1153,7 +1151,7 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <topic>Literature</topic>
 <room>Hamilin</room>
 <blurb><participant>Michael Cieslak, Jen Haeger</participant> It is a simple concept: write a 50,000 word novel during the month of November. Is it a good writing exercise? The panelists will talk about their own NaNo experiences, discuss what they have done with their NaNo works, and answer questions. </blurb></event>
-<time>7 PM</time>
+<time>9 PM</time>
 <event><title>You Can't Kill The Undead</title>
 <topic>Literature</topic>
 <room>Board of Governors</room>
@@ -1198,12 +1196,11 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <topic>Music</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Walk in Circles</participant> Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>7 PM</time>
+<time>8 PM</time>
 <event><title>Hand Drumming for Beginners</title>
 <topic>Music</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Dan Eakin, Roni Neal </participant> Hand drumming for beginners focusing on Middle Eastern and drumming for dancers. Bring a drum. Extra drums may be available. </blurb></event>
-<time>8 PM</time>
 <event><title>Performance: Derwood Bowen + 2d6</title>
 <topic>Music</topic>
 <room>Algonquin B</room>
@@ -1238,7 +1235,7 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <topic>Music</topic>
 <room>Board of Governors</room>
 <blurb><participant>Patty Templeton</participant> Everybody knows about the Beatles, the Rolling Stones, Chuck Berry, Hank Williams, the Sex Pistols, and Muddy Waters. Everywhere you look, music history has been written about men. What about the ladies? They existed in blues, country, and rock 'n' roll. Join us for a discussion on rad women in music history. Then, at the end, tell us your favorite women in rock and beyond. </blurb></event>
-<time>10 AM</time>
+<time>5 PM</time>
 <event><title>Surviving As an Independent Musician</title>
 <topic>Music</topic>
 <room>Nicolet</room>
@@ -1248,12 +1245,11 @@ Ferrett Steinmetz</participant> Main characters die, the popular characters neve
 <topic>Music</topic>
 <room>Board of Governors</room>
 <blurb><participant>Mikey Mason</participant> Nationally touring comedian and geek rock musician Mikey Mason discusses the process that allowed him to turn comedy into his full-time profession, and how using these ideals and principles might help you do the same. The conversation will not be limited to comedy, music, or performing, but can touch on many, if not most creative hobbies. If you dream of doing what you love for a living, this is the panel for you. </blurb></event>
-<time>8 PM</time>
+<time>7 PM</time>
 <event><title>Vinyl Mixing 101</title>
 <topic>Music</topic>
 <room>Charlevoix A</room>
 <blurb><participant>DJ Seanni B, Walk In Circles</participant> Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name! </blurb></event>
-<time>7 PM</time>
 <event><title>2014's Con Chair Roast</title>
 <topic>Penguicon Events</topic>
 <room>Algonquin D</room>
@@ -1269,10 +1265,10 @@ Charlie Jane Anders, Ivan Owen, Jen Owen</participant> As we officially shut dow
 <topic>Penguicon Events</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Alex Drummer, Justin Coluzzi, Kevin McLeod, Albert Manero, Ruth Suehle, Alex Page</participant> This year we are making the costume contest a little more informal.  This means no Muster, Paperwork, or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!  </blurb></event>
-<time>11 AM</time>
+<time>10 AM</time>
 <event><title>Creating Safe Spaces</title>
 <topic>Penguicon Events</topic>
-<room>Charlevoix C</room>
+<room>Windover</room>
 <blurb><participant>Nuri Gocay, April Nance, Scott Kennedy, Mark Oshiro, Mari Brighe</participant> How can we create safe spaces for people of all varieties at the convention, and in our lives outside of fandom? Join a discussion with our staff (including the con chair) and those who have ideas on how we can do better on inclusivity and promoting consent. </blurb></event>
 <time>9 PM</time>
 <event><title>Geek Prom</title>
@@ -1414,7 +1410,7 @@ Charlie Jane Anders, Ivan Owen, Jen Owen</participant> Join our con chair, Nuri 
 <event><title>A Tale of Two Sinclairs</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
-<blurb><participant>Adam Trent Phillips</participant> The early "personal computer revolution" was influenced by two models of personal computers, the XZ-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL.  We'll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980's), and how both the computer industry and it's market where rapidly changing in that era - with lessons for today. Both computers will be discussed in technical detail and put into historic context.  <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Adam Trent Phillips</participant> The early “personal computer revolution” in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We’ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980’s), and how both the computer industry and it’s market were rapidly changing in that era – with lessons for today. Both computers will be discussed in technical detail and put into historic context. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>11 AM</time>
 <event><title>Advanced Python</title>
 <topic>Tech</topic>
@@ -1435,10 +1431,10 @@ Charlie Jane Anders, Ivan Owen, Jen Owen</participant> Join our con chair, Nuri 
 <topic>Tech, Videogaming</topic>
 <room>Nicolet</room>
 <blurb><participant>Joe Greene</participant> Wonder how it can be affordable to run a windows game that requires six computers? Come find out how it's done, with extra tools to make it more immersive at almost no additional cost! We'll show you the tricks used to make the Linux Bootable USB drives, 'behind the bridges', and what extra tools they include.  </blurb></event>
-<time>10 AM</time>
+<time>4 PM</time>
 <event><title>Bash Scripting 201</title>
 <topic>Tech</topic>
-<room>Charlevoix C</room>
+<room>Charlevoix B</room>
 <blurb><participant>Mat Enders</participant> Please join us having gone to Bash Scripting for Beginners or have equivalent knowledge. This presentation will cover mathematics in bash, arrays, and functions. </blurb></event>
 <time>7 PM</time>
 <event><title>Bash Scripting for Beginners</title>
@@ -1506,7 +1502,7 @@ Mike Yanok
 <event><title>Contributing to OSS - Navigating Community</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Willaim A. Rowe, Emily Gonyer</participant> Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects. </blurb></event>
+<blurb><participant>William A. Rowe Jr., Emily Gonyer</participant> Hacking Open Source Software is the entire point of its existence.  Change what you don't like, fix what doesn't work for you, and enjoy.  But what about getting your patches accepted by the project? wrowe@apache.org and other participants invite you to this discussion on navigating communities, finding acceptance for your contributions, and becoming part of the bigger communities of Open Source Projects. </blurb></event>
 <time>6 PM</time>
 <event><title>Cryptoparty, Penguicon Edition</title>
 <topic>Tech</topic>
@@ -1522,7 +1518,7 @@ Mike Yanok
 <topic>Tech, Science</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Albert Manero, Jen Owen, Ivan Owen</participant> A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000.  Why pay an arm and a leg for an arm and a leg?  Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials.  Take it a step further and add biological sensing electronics for less than $250.  </blurb></event>
-<time>1 PM</time>
+<time>4 PM</time>
 <event><title>DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology</title>
 <topic>Tech, Eco</topic>
 <room>Charlevoix C</room>
@@ -1556,7 +1552,7 @@ Mike Yanok
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Jeff Hanson</participant> Discussion of technical problems with application installation and operation on Wine in a Linux environment. Dependencies, tools, DRM/copy-protection, support resources, and AppDB test submissions will be covered. </blurb></event>
-<time>9 AM</time>
+<time>10 AM</time>
 <event><title>Getting Involved in the Open Source Community</title>
 <topic>Tech</topic>
 <room>Algonquin C</room>
@@ -1577,16 +1573,17 @@ William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d print
 <topic>Tech, Life</topic>
 <room>Montcalm</room>
 <blurb><participant>Craig Maloney</participant> The Getting Things Done (GTD) methodology by David Allen is a popular way to not only get things done but also to clear away distractions and achieve focus. Craig Maloney details how he uses GTD under a Linux environment, using tools like Todo.txt, Tagspaces, Dropbox, and text files. He'll also cover some useful tips and tricks for setting up and honing your own GTD system. </blurb></event>
-<time>10 AM</time>
+<time>11 AM</time>
 <event><title>Hacking Outside the Box: Internet of Things</title>
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Nick Farr, Jeff Goeke-Smith, Jason Kridner</participant> With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit? </blurb></event>
+<time>10 AM</time>
 <event><title>Hacking Your Writing and Editing Toolbox</title>
 <topic>Tech, Literature</topic>
 <room>Nicolet</room>
 <blurb><participant>Scott Favre</participant> Ever feel like parts of the editing process is a lot of repetitive, boring, tedious work? The sort of thing that a computer really should be able to do for you? Learn how to write MS Word add-ins to make your life easier! We'll use freely available tools to create an add-in that helps you track down problem words in your manuscript. Some computer programming experience is suggested. The finished project will be made available open source via GitHub. </blurb></event>
-<time>4 PM</time>
+<time>11 AM</time>
 <event><title>How To Be A Real Developer In Two Easy Steps</title>
 <topic>Tech</topic>
 <room>Charlevoix C</room>
@@ -1616,10 +1613,10 @@ William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d print
 <topic>Tech</topic>
 <room>Algonquin B</room>
 <blurb><participant>Andrew Kirsch</participant> An Introduction to Network Monitoring utilizing the Zenoss Monitoring System. Topics covered will include configuration, managing monitored hosts, SNMP, SSH, and basic remediation. </blurb></event>
-<time>4 PM</time>
+<time>10 AM</time>
 <event><title>Introduction to Kanban Boards</title>
 <topic>Tech</topic>
-<room>Charlevoix B</room>
+<room>Charlevoix C</room>
 <blurb><participant>Mark Haynes
 Douglas Johnson</participant> A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness. </blurb></event>
 <time>7 PM</time>
@@ -1635,7 +1632,7 @@ Douglas Johnson</participant> A lean, visual, Just-In-Time software scheduling s
 <time>11 AM</time>
 <event><title>IPv6: So Fetch, It Hurts</title>
 <topic>Tech</topic>
-<room>Windover</room>
+<room>Charlevoix C</room>
 <blurb><participant>Mark E Doner</participant> IPv6 adoption has been slow, abysmally slow. Hundreds, if not thousands of blogs exist that proclaim IPv6 is ready for the world, and yet, 99%+ of all Internet traffic is still the legacy IPv4 protocol. Why? Existing IPv6 advocacy has focused on technical users leading the charge, and adoption of deployment methodologies that were obsolete before IPv4 address exhaustion was even considered a major issue. Another approach is needed. Ask the ISP network engineer your questions! </blurb></event>
 <time>5 PM</time>
 <event><title>Juju: Automate Your Cloud or Home Infrastructure</title>
@@ -1715,7 +1712,6 @@ Jorge Castro</participant> This workshop will get into some of the nitty gritty 
 <topic>Tech, Videogaming</topic>
 <room>Nicolet</room>
 <blurb><participant>Melanie Castle, Chris Castle</participant> Mahjong House was the first commercial video game from DisjointedImages. Come listen to how we developed the game, how it was a success (and failure), and get some tips on venturing into the world of indie game development yourself. </blurb></event>
-<time>12 PM</time>
 <event><title>Pack-a-thon</title>
 <topic>Tech</topic>
 <room>Charlevoix C</room>
@@ -1725,12 +1721,11 @@ Jorge Castro</participant> This workshop will get into some of the nitty gritty 
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Tony Bemus</participant> It is becoming common these days for people to have a home network. But doing it with open software is even better. Come and learn from the host of Sunday Morning Linux Review. </blurb></event>
-<time>11 AM</time>
+<time>12 PM</time>
 <event><title>RPM Packaging Workshop</title>
 <topic>Tech</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Rick Houser</participant> Wonder how RPM packages are put together?  Want to learn how to do it yourself?  This session will be a mix of presentation, and a workshop where everyone follows along with packaging a few simple, pre-selected source tarballs.  A notebook running an RPM distribution (or remote access) is strongly preferred, but not required. Stick around for the Pack-a-thon, and you can put your skills to use with your own software. </blurb></event>
-<time>12 PM</time>
 <event><title>Scheduling: The First Academic Paper About Penguicon</title>
 <topic>Tech</topic>
 <room>Charlevoix B</room>
@@ -1778,10 +1773,10 @@ Jorge Castro</participant> This workshop will get into some of the nitty gritty 
 <topic>Tech</topic>
 <room>Algonquin B</room>
 <blurb><participant>Stephen Cavaliere, Douglas Johnson, Clay Dowling, Scott Favre</participant> Learn how to use test driven development and other agile principles to write less code and bring a more reliable product to market faster. Test Driven Developers write a test, and then write the code to make the test pass. This counter intuitive process ultimately results in writing less code that is more reliable and easier to extend. Intended for someone with a little programming experience, or somebody with a lot who wants to stretch themselves in new areas. </blurb></event>
-<time>9 AM</time>
+<time>2 PM</time>
 <event><title>The Cloud is Your Free Hobby Computer</title>
 <topic>Tech</topic>
-<room>Portage Auditorium</room>
+<room>Charlevoix C</room>
 <blurb><participant>Les Orchard</participant> Thanks to Moore's Law and weird business models on the Internet, a lot of computing power can be had free-of-charge. GitHub will keep &amp; share your code; Cloud9 will let you edit it; Travis CI will test it; Heroku &amp; Amazon will run it. This talk aims to describe ways to take advantage of services like these for fun and learning, as well as answering the question "What's the catch?" </blurb></event>
 <time>3 PM</time>
 <event><title>The Electric Library: Libraries in the 21st Century</title>
@@ -1915,6 +1910,7 @@ Sarah Elkins</participant> What do medical diagnoses and fixing build breaks hav
 <topic>Webcomics</topic>
 <room>Charlevoix B</room>
 <blurb><participant>BluRaven Houvener, Laura Cascos, Erika Wagner</participant> Do you like Webcomics? Do you read webcomics? Have you ever wanted to start one of your own? Join Laura Cascos and her partners from the 7+ year running webcomic Sidekick Girl and BluRaven C. Houvener, writer and illustrator of the 3+ year running webcomic It's Just Another Day as they take you through tales of how they started up, got out there, and kept it going....and more importantly, how you can too! </blurb></event>
+<time>9 AM</time>
 <event><title>Learn to Draw a Dragon</title>
 <topic>Webcomics</topic>
 <room>Board of Trustees</room>
@@ -1967,11 +1963,12 @@ Sarah Elkins</participant> What do medical diagnoses and fixing build breaks hav
 <topic>Videogaming</topic>
 <room>Board of Regents</room>
 <blurb><participant></participant> What are the most amazing stories in video games? Let's discuss how gaming is moving toward legitimate art and away from tropes. Some stories can only be told through interaction, and current games about depression, bureaucracy, novel writing, and even being famous on Twitter have to be played to be understood. Stick around for our "most awful stories in gaming". <duration>1 hour</duration></blurb></event>
-<time>11 AM</time>
+<time>3 PM</time>
 <event><title>BoF: XBox One vs. Playstation 4 -- Who "Won" the Next Gen Console War?</title>
 <topic>Videogaming</topic>
-<room>Board of Trustees</room>
+<room>Hamilin</room>
 <blurb><participant></participant> Now that there's been time to experience both the XBox One and the Playstation 4, which system has come out on top? <duration>1 hour</duration></blurb></event>
+<time>11 AM</time>
 <event><title>Demon Lobster Presents "Super Smash Bros. Community Let's Play!"</title>
 <topic>Videograming</topic>
 <room>Montcalm</room>
@@ -2017,7 +2014,7 @@ Sarah Elkins</participant> What do medical diagnoses and fixing build breaks hav
 <topic>Videogaming</topic>
 <room>Board of Trustees</room>
 <blurb><participant>Angie Rush, Brittany Burke, Chris Roland</participant> Come relive your youth as you play away the hours on a collection of retro gaming systems, including Atari 2600, NES, SNES and many others.  <duration>6 hours</duration></blurb></event>
-<time>9 PM</time>
+<time>7 PM</time>
 <event><title>The Augmented Gamer</title>
 <topic>Videogaming</topic>
 <room>Board of Governors</room>
