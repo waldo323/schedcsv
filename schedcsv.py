@@ -392,7 +392,7 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
 #      print y
       if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
-            myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"><document>\n")
+            myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">")
         #print y
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
@@ -407,7 +407,7 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
         else: 
             myoutput.write(programbook_template % y)
 
-    myoutput.write('</document></events>\n')
+    myoutput.write('</events>\n')
 myoutput.close()
 #"""
 
