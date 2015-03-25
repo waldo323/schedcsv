@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><document>
-<time>All Weekend</time>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><time>All Weekend</time>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <room></room>
@@ -2075,4 +2074,4 @@ Sarah Elkins</participant> What do medical diagnoses and fixing build breaks hav
 <topic>Videogaming</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Derek Parrott, Saker Alexander, Richard Villarruel </participant> Which made you feel more in control, Kingdom Hearts or Madden 2015? Which had a better soundtrack, Jet Set Radio or Chrono Trigger? Our panelists will be given specific questions, and using a limited pool of games they must construct and present an argument answering that question. A panel of judges will weigh in on the arguments presented and decide a winner. After our pros go head-to-head, the audience will be given the chance to challenge the panelists and each other! <duration>1 hour</duration></blurb></event>
-</document></events>
+</events>
