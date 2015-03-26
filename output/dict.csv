@@ -451,51 +451,6 @@ minutes,00
 allday,TRUE
 event_type,Mayhem
 All Day Event,TRUE
-event_end,16:00
-event_type_list,['Mayhem']
-private,PUBLIC
-endtimeampm,4 PM
-Location,
-duration,48 hours
-description,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
-index,10
-speakers,
-bookdescrip,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
-Track,Mayhem
-startday,4/24/2015
-Title,Where in the World?
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:00
-tracknosp,['Mayhem']
-endday,4/26/2015
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Where in the World?', '', 'Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!', '', '', 'TRUE', 'PUBLIC']"
-End Date,4/26/2015
-calspeakers,
-avneeds,none
-speakerlist,['']
-hours,48
-totalminutes,2880
-speakernosplist,['']
-caldescrip,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
-endtime,16:00
-AV Needs,
-name,Where in the World?
-Private,PUBLIC
-bookname,Where in the World?
-venue,
-Book Description,"Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!"
-Presenters,
-csvsafedescrip,Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World- US or Michigan map!
-speakernosp,
-starttime,16:00
-roomnosp,
-Start Date,4/24/2015
-minutes,00
-allday,TRUE
-event_type,Mayhem
-All Day Event,TRUE
 event_end,13:00
 event_type_list,['Mayhem']
 private,PUBLIC
@@ -503,7 +458,7 @@ endtimeampm,1 PM
 Location,Lobby [Near Elevators}
 duration,00 minutes
 description,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
-index,11
+index,10
 speakers,Mat Roll
 bookdescrip,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
 Track,Mayhem
@@ -549,7 +504,7 @@ endtimeampm,6 PM
 Location,Lobby [Near Elevators}
 duration,1 hour and 50 minutes
 description,"A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."
-index,12
+index,11
 speakers,Linda Besh
 bookdescrip,"A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."
 Track,Mayhem
@@ -585,6 +540,51 @@ starttime,17:00
 roomnosp,Lobby[NearElevators}
 Start Date,4/25/2015
 minutes,50
+allday,TRUE
+event_type,Mayhem
+All Day Event,TRUE
+event_end,16:00
+event_type_list,['Mayhem']
+private,PUBLIC
+endtimeampm,4 PM
+Location,
+duration,48 hours
+description,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
+index,12
+speakers,
+bookdescrip,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
+Track,Mayhem
+startday,4/24/2015
+Title,Where in the World?
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:00
+tracknosp,['Mayhem']
+endday,4/26/2015
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Where in the World?', '', 'Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!', '', '', 'TRUE', 'PUBLIC']"
+End Date,4/26/2015
+calspeakers,
+avneeds,none
+speakerlist,['']
+hours,48
+totalminutes,2880
+speakernosplist,['']
+caldescrip,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
+endtime,16:00
+AV Needs,
+name,Where in the World?
+Private,PUBLIC
+bookname,Where in the World?
+venue,
+Book Description,"Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!"
+Presenters,
+csvsafedescrip,Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World- US or Michigan map!
+speakernosp,
+starttime,16:00
+roomnosp,
+Start Date,4/24/2015
+minutes,00
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE

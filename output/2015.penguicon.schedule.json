@@ -140,20 +140,6 @@
         "end_time": "16:00"
     },
     {
-        "book_description": "Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!",
-        "end_date": "4/26/2015",
-        "title": "Where in the World?",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
         "book_description": "Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday",
         "end_date": "4/25/2015",
         "title": "Scavenger Hunt",
@@ -180,6 +166,20 @@
         "minutes": 110,
         "start_date": "4/25/2015",
         "end_time": "18:50"
+    },
+    {
+        "book_description": "Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!",
+        "end_date": "4/26/2015",
+        "title": "Where in the World?",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
     },
     {
         "book_description": "It is becoming common these days for people to have a home network. But doing it with open software is even better. Come and learn from the host of Sunday Morning Linux Review.",
