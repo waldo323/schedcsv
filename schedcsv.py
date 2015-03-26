@@ -408,7 +408,7 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
         elif ""  == y['venue']:
-            myoutput.writeprogrambook_template_no_room % y)
+            myoutput.write(programbook_template_no_room % y)
         else: 
             myoutput.write(programbook_template % y)
 
