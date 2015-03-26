@@ -10956,20 +10956,20 @@ private,PUBLIC
 endtimeampm,1 AM
 Location,Charlevoix A
 duration,1 hour and 50 minutes
-description,"Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint."
+description,"Armed with a crate full of records, Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint."
 index,242
 speakers,Walk in Circles
-bookdescrip,"Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint."
+bookdescrip,"Armed with a crate full of records, Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint."
 Track,Music
 startday,4/25/2015
-Title,DJ Set: Walk In Circles 
+Title,DJ Set: Walk in Circles 
 Start Time,0:00
 event_start,0:00
 starttimeampm,12 AM
 End Time,1:50
 tracknosp,['Music']
 endday,4/25/2015
-input,"['4/25/2015', '0:00', '4/25/2015', '1:50', 'Charlevoix A', 'Music', 'DJ Set: Walk In Circles ', 'Walk in Circles', 'Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint.', '01hr:50min', 'Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '0:00', '4/25/2015', '1:50', 'Charlevoix A', 'Music', 'DJ Set: Walk in Circles ', 'Walk in Circles', 'Armed with a crate full of records, Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint.', '01hr:50min', 'Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Walk in Circles
 avneeds,Sound System
@@ -10977,16 +10977,16 @@ speakerlist,['Walk in Circles']
 hours,1
 totalminutes,110
 speakernosplist,['WalkinCircles']
-caldescrip,"Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint."
+caldescrip,"Armed with a crate full of records, Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint."
 endtime,1:50
 AV Needs,Sound System
-name,DJ Set: Walk In Circles 
+name,DJ Set: Walk in Circles 
 Private,PUBLIC
-bookname,DJ Set: Walk In Circles 
+bookname,DJ Set: Walk in Circles 
 venue,Charlevoix A
-Book Description,"Armed with a crate full of records, Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint."
+Book Description,"Armed with a crate full of records, Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint."
 Presenters,Walk in Circles
-csvsafedescrip,Armed with a crate full of records- Walk In Circles is gonna make it sound like a 2000s UK rave up in this joint.
+csvsafedescrip,Armed with a crate full of records- Walk in Circles is gonna make it sound like a 2000s UK rave up in this joint.
 speakernosp,WalkinCircles
 starttime,0:00
 roomnosp,CharlevoixA
@@ -11455,7 +11455,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
 index,253
-speakers,"DJ Seanni B, Walk In Circles"
+speakers,"DJ Seanni B, Walk in Circles"
 bookdescrip,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
 Track,Music
 startday,4/24/2015
@@ -11466,14 +11466,14 @@ starttimeampm,7 PM
 End Time,19:50
 tracknosp,['Music']
 endday,4/24/2015
-input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Charlevoix A', 'Music', 'Vinyl Mixing 101', 'DJ Seanni B, Walk In Circles', 'Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Charlevoix A', 'Music', 'Vinyl Mixing 101', 'DJ Seanni B, Walk in Circles', 'Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"DJ Seanni B, Walk In Circles"
+calspeakers,"DJ Seanni B, Walk in Circles"
 avneeds,none
-speakerlist,"['DJ Seanni B', 'Walk In Circles']"
+speakerlist,"['DJ Seanni B', 'Walk in Circles']"
 hours,0
 totalminutes,50
-speakernosplist,"['DJSeanniB', 'WalkInCircles']"
+speakernosplist,"['DJSeanniB', 'WalkinCircles']"
 caldescrip,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
 endtime,19:50
 AV Needs,
@@ -11482,9 +11482,9 @@ Private,PUBLIC
 bookname,Vinyl Mixing 101
 venue,Charlevoix A
 Book Description,"Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases, and hey they might even give you your very own DJ name!"
-Presenters,"DJ Seanni B, Walk In Circles"
+Presenters,"DJ Seanni B, Walk in Circles"
 csvsafedescrip,Drop in with the #teamswoop crew and get a rundown on basic vinyl mixing. Get a feel for concepts like beatmatching and counting phrases- and hey they might even give you your very own DJ name!
-speakernosp,"DJSeanniB,WalkInCircles"
+speakernosp,"DJSeanniB,WalkinCircles"
 starttime,19:00
 roomnosp,CharlevoixA
 Start Date,4/24/2015
@@ -11729,8 +11729,7 @@ Location,Restaurant
 duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,259
-speakers,"
-Aral Balkan, Annalee Newitz, Albert Manero, 
+speakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen 
 "
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
@@ -11743,14 +11742,13 @@ starttimeampm,9 PM
 End Time,21:50
 tracknosp,['PenguiconEvents']
 endday,4/24/2015
-input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', '\nAral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen \n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen \n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"
-Aral Balkan, Annalee Newitz, Albert Manero, 
+calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen 
 "
 avneeds,none
-speakerlist,"['\nAral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen \n']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen \n']"
 hours,0
 totalminutes,50
 speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
@@ -11762,7 +11760,7 @@ Private,PUBLIC
 bookname,Guest of Honor Social Hour
 venue,Restaurant
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-Presenters," Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
+Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
 starttime,21:00
