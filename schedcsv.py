@@ -20,6 +20,10 @@ programbook_template ="""<event><title>%(bookname)s</title><topic>%(event_type)s
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
 """took out \n"""
+programbook_template_no_room ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
+<blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
+"""took out \n"""
+
 hourtemplate ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>"""
