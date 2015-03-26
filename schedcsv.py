@@ -18,11 +18,12 @@ else:
 # quick and simple template for the output for the schedule book
 programbook_template ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
 <room>%(venue)s</room>
-<blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>\n"""
-
+<blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
+"""took out \n"""
 hourtemplate ="""<event><title>%(bookname)s</title><topic>%(event_type)s</topic>
 <room>%(venue)s</room>
-<blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>\n"""
+<blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>"""
+"""took out \n"""
 
 extrainfo= """
 <startday>%(startday)s</startday>
