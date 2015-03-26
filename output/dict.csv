@@ -11545,8 +11545,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 index,255
-speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 Track,Penguicon Events
 startday,4/26/2015
@@ -11557,12 +11556,11 @@ starttimeampm,4 PM
 End Time,16:50
 tracknosp,['PenguiconEvents']
 endday,4/26/2015
-input,"['4/26/2015', '16:00', '4/26/2015', '16:50', 'Algonquin B/C', 'Penguicon Events', 'Closing Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen', ""As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."", '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '16:00', '4/26/2015', '16:50', 'Algonquin B/C', 'Penguicon Events', 'Closing Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen', ""As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."", '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
-calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,"Microphone, Sound System"
-speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
 speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
