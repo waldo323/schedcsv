@@ -549,6 +549,7 @@ for row in inputfile:
                 lastday = row
         else:
             outputfile.write(row)
+            firstday = False
     else: # If this is not a time row
         outputfile.write(row)
 
