@@ -8,6 +8,12 @@ usage:
    * download the repository
    * update variables which are different in the current year if needed in schedcsv.py, getsched.sh
    * until sorting is done in the script, make sure that the spreadsheet is sorted the way you would like
+     * with this suggested sort order the schedule be sorted into whether it is an all day event, then for each day the times will be in order with the rooms in alphabetical order 
+       * name
+       * room
+       * start time
+       * startday
+       * all day
    * make sure the spreadsheet link is correct in getsched.sh
    * run getsched.sh to get the spreadsheet and process it
    * if you have access to the git repo you can run getrunpush.sh, otherwise you'll want to comment out the git push
