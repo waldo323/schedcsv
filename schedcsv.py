@@ -407,7 +407,7 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("<day>All Weekend</day>\n")
             else:
-                temptext =  "<day>%(startday)s</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
+                temptext =  "<day>"+ y['Start Date'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
             tempstart = y['event_start']
 
