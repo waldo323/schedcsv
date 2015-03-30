@@ -1623,11 +1623,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 index,35
-speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 Track,Penguicon Events
 startday,4/24/2015
@@ -1644,10 +1640,10 @@ End Date,4/24/2015
 calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,"Microphone, Sound System"
-speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
-speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'THEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERECharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
 caldescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 endtime,18:50
 AV Needs,"Microphone, Sound System"
@@ -1658,7 +1654,7 @@ venue,Algonquin B/C
 Book Description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 csvsafedescrip,Join our con chair- Nuri Gocay- the Con Committee- and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!
-speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,THEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERECharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
 starttime,18:00
 roomnosp,AlgonquinBC
 Start Date,4/24/2015
@@ -1932,11 +1928,7 @@ AV Needs,
 name,Flavored Popcorn!
 Private,PUBLIC
 bookname,Flavored Popcorn!
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
 Presenters,Marcus Hauser
 csvsafedescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!
@@ -2672,11 +2664,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Friday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Friday)
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
@@ -4086,11 +4074,7 @@ Location,Restaurant
 duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,88
-speakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon Events
 startday,4/24/2015
@@ -4107,10 +4091,10 @@ End Date,4/24/2015
 calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,none
-speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
-speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'THEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERECharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
 caldescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 endtime,21:50
 AV Needs,
@@ -4121,7 +4105,7 @@ venue,Restaurant
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,THEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERECharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
 starttime,21:00
 roomnosp,Restaurant
 Start Date,4/24/2015
@@ -5411,11 +5395,7 @@ AV Needs,
 name,Penguicon Coffee Ritual
 Private,PUBLIC
 bookname,Penguicon Coffee Ritual
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,A solemn celebration of caffeination in our time-honored Penguicon tradition.
 Presenters,Matt Arnold
 csvsafedescrip,A solemn celebration of caffeination in our time-honored Penguicon tradition.
@@ -5507,11 +5487,7 @@ AV Needs,
 name,Archery Lessons!
 Private,PUBLIC
 bookname,Archery Lessons!
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required, applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available."
 Presenters,Devon Boling
 csvsafedescrip,Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required- applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available.
@@ -6247,11 +6223,7 @@ AV Needs,
 name,Deconstructing Banana Bread
 Private,PUBLIC
 bookname,Deconstructing Banana Bread
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."
 Presenters,Leigh Mileur
 csvsafedescrip,A talk about how varying different ingredients changes different aspects of the final product- as demonstrated using Grandma's banana bread recipe as a baseline.
@@ -6941,11 +6913,7 @@ AV Needs,
 name,PenguiPasta With Some Sauce Bosses
 Private,PUBLIC
 bookname,PenguiPasta With Some Sauce Bosses
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"Fresh pasta, tomato and alfredo sauce, all made from scratch. Simple ingredients, easy to do, etc etc etc."
 Presenters,"Andy Amsdill, Alyssa Trimmer, Matt Steiner, Kattni Rembor"
 csvsafedescrip,Fresh pasta- tomato and alfredo sauce- all made from scratch. Simple ingredients- easy to do- etc etc etc.
@@ -7333,11 +7301,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 index,158
-speakers,"Mark Haynes
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Douglas Johnson"
+speakers,"Mark Haynes, Douglas Johnson"
 bookdescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Track,"Tech, Life"
 startday,4/25/2015
@@ -7354,10 +7318,10 @@ End Date,4/25/2015
 calspeakers,"Mark Haynes
 Douglas Johnson"
 avneeds,Projector
-speakerlist,['Mark Haynes\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Douglas Johnson']
+speakerlist,"['Mark Haynes', 'Douglas Johnson']"
 hours,0
 totalminutes,50
-speakernosplist,['MarkHaynesTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREDouglasJohnson']
+speakernosplist,"['MarkHaynes', 'DouglasJohnson']"
 caldescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 endtime,12:50
 AV Needs,Projector
@@ -7368,7 +7332,7 @@ venue,Algonquin D
 Book Description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Presenters,Mark Haynes Douglas Johnson
 csvsafedescrip,What does it take to become an IT Road Warrior? What are the gadgets- luggage- and contract requirements for living life on the road?
-speakernosp,MarkHaynesTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREDouglasJohnson
+speakernosp,"MarkHaynes,DouglasJohnson"
 starttime,12:00
 roomnosp,AlgonquinD
 Start Date,4/25/2015
@@ -7522,11 +7486,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 index,162
-speakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- "
+speakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel, "
 bookdescrip,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 Track,Life
 startday,4/25/2015
@@ -7543,10 +7503,10 @@ End Date,4/25/2015
 calspeakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel
 "
 avneeds,none
-speakerlist,"['Roni Neal', 'Dan Eakin', 'Hanna Christiansen', 'Phil Chase', 'Jerry Ginzel\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n ']"
+speakerlist,"['Roni Neal', 'Dan Eakin', 'Hanna Christiansen', 'Phil Chase', 'Jerry Ginzel', '']"
 hours,0
 totalminutes,50
-speakernosplist,"['RoniNeal', 'DanEakin', 'HannaChristiansen', 'PhilChase', 'JerryGinzelTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERE']"
+speakernosplist,"['RoniNeal', 'DanEakin', 'HannaChristiansen', 'PhilChase', 'JerryGinzel', '']"
 caldescrip,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 endtime,12:50
 AV Needs,
@@ -7557,7 +7517,7 @@ venue,Charlevoix A
 Book Description,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 Presenters,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel "
 csvsafedescrip,Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability- recreational interests- or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments- now let’s capitalize on them.
-speakernosp,"RoniNeal,DanEakin,HannaChristiansen,PhilChase,JerryGinzelTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERE"
+speakernosp,"RoniNeal,DanEakin,HannaChristiansen,PhilChase,JerryGinzel,"
 starttime,12:00
 roomnosp,CharlevoixA
 Start Date,4/25/2015
@@ -7783,11 +7743,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Saturday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Saturday)
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
@@ -8037,19 +7993,7 @@ Location,Windover
 duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,173
-speakers,"Dawn Kuczwara
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Nuri Gocay
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Mike Yanok
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- "
+speakers,"Dawn Kuczwara, Nuri Gocay, Mike Yanok, "
 bookdescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Track,"Tech, Life"
 startday,4/25/2015
@@ -8068,10 +8012,10 @@ Nuri Gocay
 Mike Yanok
 "
 avneeds,none
-speakerlist,['Dawn Kuczwara\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Nuri Gocay\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Mike Yanok\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n ']
+speakerlist,"['Dawn Kuczwara', 'Nuri Gocay', 'Mike Yanok', '']"
 hours,0
 totalminutes,50
-speakernosplist,['DawnKuczwaraTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERENuriGocayTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMikeYanokTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERE']
+speakernosplist,"['DawnKuczwara', 'NuriGocay', 'MikeYanok', '']"
 caldescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 endtime,12:50
 AV Needs,
@@ -8082,7 +8026,7 @@ venue,Windover
 Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Presenters,Dawn Kuczwara Nuri Gocay Mike Yanok 
 csvsafedescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,DawnKuczwaraTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERENuriGocayTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMikeYanokTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERE
+speakernosp,"DawnKuczwara,NuriGocay,MikeYanok,"
 starttime,12:00
 roomnosp,Windover
 Start Date,4/25/2015
@@ -8099,11 +8043,7 @@ duration,50 minutes
 description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 index,174
-speakers,"Colin Charles
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Jorge Castro"
+speakers,"Colin Charles, Jorge Castro"
 bookdescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 Track,Tech
 startday,4/25/2015
@@ -8120,10 +8060,10 @@ End Date,4/25/2015
 calspeakers,"Colin Charles
 Jorge Castro"
 avneeds,Projector
-speakerlist,['Colin Charles\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Jorge Castro']
+speakerlist,"['Colin Charles', 'Jorge Castro']"
 hours,0
 totalminutes,50
-speakernosplist,['ColinCharlesTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREJorgeCastro']
+speakernosplist,"['ColinCharles', 'JorgeCastro']"
 caldescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 endtime,13:50
@@ -8135,7 +8075,7 @@ venue,Algonquin B
 Book Description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 Presenters,Colin Charles Jorge Castro
 csvsafedescrip,This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations- including load balanced master/slave clusters with monitoring.
-speakernosp,ColinCharlesTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREJorgeCastro
+speakernosp,"ColinCharles,JorgeCastro"
 starttime,13:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -8501,11 +8441,7 @@ AV Needs,
 name,Intro to Homebrewing Beer
 Private,PUBLIC
 bookname,Intro to Homebrewing Beer
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"In this panel, we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods, ingredients and equipment they can use to brew their own beer, gearing up for May 3rd - National Homebrew Day! 21+ please"
 Presenters,Joe Rapp
 csvsafedescrip,In this panel- we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods- ingredients and equipment they can use to brew their own beer- gearing up for May 3rd - National Homebrew Day! 21+ please
@@ -8597,11 +8533,7 @@ AV Needs,
 name,Scavenger Hunt
 Private,PUBLIC
 bookname,Scavenger Hunt
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
 Presenters,Mat Roll
 csvsafedescrip,Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin- find Mat in the Maker Market between 1 and 6 pm on Saturday
@@ -9199,11 +9131,7 @@ AV Needs,
 name,You'll Roux The Day!
 Private,PUBLIC
 bookname,You'll Roux The Day!
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,Many dishes in traditional French cuisine start with a roux- learn how to build this base and see some of the fantastic directions it can go. Things like gumbo and French onion soup!
 Presenters,"Alyssa Trimmer, Matt Steiner, Michael McAtee"
 csvsafedescrip,Many dishes in traditional French cuisine start with a roux- learn how to build this base and see some of the fantastic directions it can go. Things like gumbo and French onion soup!
@@ -9893,11 +9821,7 @@ AV Needs,
 name,Opening Up Retro-Style Video Cabinets
 Private,PUBLIC
 bookname,Opening Up Retro-Style Video Cabinets
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
 Presenters,David Gazdowicz
 csvsafedescrip,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
@@ -10357,11 +10281,7 @@ AV Needs,
 name,Cooking With the Con Chair: Sushi!
 Private,PUBLIC
 bookname,Cooking With the Con Chair: Sushi!
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!
 Presenters,"Janet Gocay, Nuri Gocay"
 csvsafedescrip,Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!
@@ -10565,11 +10485,7 @@ Location,Algonquin B
 duration,50 minutes
 description,
 index,227
-speakers,"Jorge Castro
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Mark Ramm"
+speakers,"Jorge Castro, Mark Ramm"
 bookdescrip,
 Track,Tech
 startday,4/25/2015
@@ -10586,10 +10502,10 @@ End Date,4/25/2015
 calspeakers,"Jorge Castro
 Mark Ramm"
 avneeds,Projector
-speakerlist,['Jorge Castro\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Mark Ramm']
+speakerlist,"['Jorge Castro', 'Mark Ramm']"
 hours,0
 totalminutes,50
-speakernosplist,['JorgeCastroTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMarkRamm']
+speakernosplist,"['JorgeCastro', 'MarkRamm']"
 caldescrip,
 endtime,17:50
 AV Needs,Projector
@@ -10600,7 +10516,7 @@ venue,Algonquin B
 Book Description,
 Presenters,Jorge Castro Mark Ramm
 csvsafedescrip,
-speakernosp,JorgeCastroTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMarkRamm
+speakernosp,"JorgeCastro,MarkRamm"
 starttime,17:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -10966,11 +10882,7 @@ AV Needs,
 name,The Brown Liquors
 Private,PUBLIC
 bookname,The Brown Liquors
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 Presenters,"Dawn Kuczwara, Greg Williams"
 csvsafedescrip,What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different 'Brown Liquors' are made- and what makes them unique from one another. And while your at it- find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!
@@ -11062,11 +10974,7 @@ AV Needs,
 name,The World Around You Is Not What It Seems…
 Private,PUBLIC
 bookname,The World Around You Is Not What It Seems…
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction. If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."
 Presenters,Linda Besh
 csvsafedescrip,A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog- or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool- meet at the fountain in the lobby at 4:45. If you drive over- meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00.
@@ -11436,11 +11344,7 @@ AV Needs,
 name,"Cheese, Glorious Cheese"
 Private,PUBLIC
 bookname,"Cheese, Glorious Cheese"
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.
 Presenters,"Shannon Marshall, Maggie Maiville"
 csvsafedescrip,Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.
@@ -12178,11 +12082,7 @@ AV Needs,
 name,Mixology
 Private,PUBLIC
 bookname,Mixology
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"Cocktails in bars can be overly sweet, insipid, and not very interesting. But a well-made classic cocktail is a revelation. Learn about craft cocktails, including how to mix your own drinks at home and how to order a drink you’ll really like in a bar. 21+ only"
 Presenters,Tammy Coxen
 csvsafedescrip,Cocktails in bars can be overly sweet- insipid- and not very interesting. But a well-made classic cocktail is a revelation. Learn about craft cocktails- including how to mix your own drinks at home and how to order a drink you’ll really like in a bar. 21+ only
@@ -14230,15 +14130,7 @@ Location,Charlevoix A
 duration,1 hour and 50 minutes
 description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 index,306
-speakers,"Tony Bemus
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Mary Tomich
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Mat Enders"
+speakers,"Tony Bemus, Mary Tomich, Mat Enders"
 bookdescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Track,Tech
 startday,4/26/2015
@@ -14256,10 +14148,10 @@ calspeakers,"Tony Bemus
 Mary Tomich
 Mat Enders"
 avneeds,none
-speakerlist,['Tony Bemus\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Mary Tomich\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Mat Enders']
+speakerlist,"['Tony Bemus', 'Mary Tomich', 'Mat Enders']"
 hours,1
 totalminutes,110
-speakernosplist,['TonyBemusTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMaryTomichTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMatEnders']
+speakernosplist,"['TonyBemus', 'MaryTomich', 'MatEnders']"
 caldescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 endtime,9:50
 AV Needs,
@@ -14270,7 +14162,7 @@ venue,Charlevoix A
 Book Description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Presenters,Tony Bemus Mary Tomich Mat Enders
 csvsafedescrip,Tony- Mat- and Mary record an episode of their popular Linux podcast- the Sunday Morning Linux Review
-speakernosp,TonyBemusTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMaryTomichTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHEREMatEnders
+speakernosp,"TonyBemus,MaryTomich,MatEnders"
 starttime,8:00
 roomnosp,CharlevoixA
 Start Date,4/26/2015
@@ -14728,11 +14620,7 @@ AV Needs,
 name,What the Heck is Switchel?
 Private,PUBLIC
 bookname,What the Heck is Switchel?
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"Switchel is also called swizzle, ginger-water, and haymaker's punch, a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century, this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling."
 Presenters,Hanna Christiansen
 csvsafedescrip,Switchel is also called swizzle- ginger-water- and haymaker's punch- a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century- this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling.
@@ -15562,11 +15450,7 @@ AV Needs,
 name,"Homemade Herbal Butters, Oils, and Vinegars"
 Private,PUBLIC
 bookname,"Homemade Herbal Butters, Oils, and Vinegars"
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet, savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later."
 Presenters,Hanna Christiansen
 csvsafedescrip,One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet- savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later.
@@ -16213,11 +16097,7 @@ AV Needs,
 name,DIY Infusions and Liqueurs
 Private,PUBLIC
 bookname,DIY Infusions and Liqueurs
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit, herbs and spices, alcohol bases, and sweeteners will be included. Must be 21+ to participate."
 Presenters,"Heather Fish, Nuri Gocay"
 csvsafedescrip,Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit- herbs and spices- alcohol bases- and sweeteners will be included. Must be 21+ to participate.
@@ -16821,11 +16701,7 @@ AV Needs,
 name,Dark Chocolate Around The World
 Private,PUBLIC
 bookname,Dark Chocolate Around The World
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world, and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian."
 Presenters,"Cathy Raymond, Eric Raymond"
 csvsafedescrip,What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world- and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian.
@@ -16917,11 +16793,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Sunday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Sunday)
-venue,"Lobby  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Near Elevators}"
+venue,"Lobby , [Near Elevators}"
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
@@ -17519,11 +17391,7 @@ AV Needs,
 name,Silicone Casting for Cheap Bastards
 Private,PUBLIC
 bookname,Silicone Casting for Cheap Bastards
-venue,"Food  
-
-THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE
-
- [Room 517]"
+venue,"Food , [Room 517]"
 Book Description,"Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops!"
 Presenters,Gnora Ford-Lepthien 
 csvsafedescrip,Have you wanted to make stuff out of silicone- but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster- then cast in silicone. Spots are limited - please sign up at Ops!
@@ -18011,11 +17879,7 @@ Location,Board of Governors
 duration,50 minutes
 description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 index,387
-speakers,"Heather Fish
-
-THERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE
-
- Roni Jean Neal"
+speakers,"Heather Fish, Roni Jean Neal"
 bookdescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 Track,Life
 startday,4/26/2015
@@ -18032,10 +17896,10 @@ End Date,4/26/2015
 calspeakers,"Heather Fish
 Roni Jean Neal"
 avneeds,none
-speakerlist,['Heather Fish\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n Roni Jean Neal']
+speakerlist,"['Heather Fish', 'Roni Jean Neal']"
 hours,0
 totalminutes,50
-speakernosplist,['HeatherFishTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERERoniJeanNeal']
+speakernosplist,"['HeatherFish', 'RoniJeanNeal']"
 caldescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 endtime,14:50
 AV Needs,
@@ -18046,7 +17910,7 @@ venue,Board of Governors
 Book Description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population. Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 Presenters,Heather Fish Roni Jean Neal
 csvsafedescrip,The fastest growing religious category in the US is “unaffiliated-” which comprises approximately 16-20% of the population.  Including spiritual atheists- agnostics- and those whose spiritual practices and beliefs don’t conform to any particular religion- individuals in this group use their own sense of awe- wonder- and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition- science- and the natural world to develop relevance and purpose in modern life. 
-speakernosp,HeatherFishTHEREISANENDLINEINTHISPRESENTERSFIELDINTHESPEADSHEETHERERoniJeanNeal
+speakernosp,"HeatherFish,RoniJeanNeal"
 starttime,14:00
 roomnosp,BoardofGovernors
 Start Date,4/26/2015
