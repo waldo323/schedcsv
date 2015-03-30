@@ -11,7 +11,6 @@ usage:
    * make sure the spreadsheet link is correct in getsched.sh
    * run getsched.sh to get the spreadsheet and process it
    * if you have access to the git repo you can run getrunpush.sh, otherwise you'll want to comment out the git push
-   * 
 
 current output:
    * custom xml for program book
