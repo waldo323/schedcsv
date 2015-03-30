@@ -16627,8 +16627,7 @@ Location,Algonquin B
 duration,50 minutes
 description,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 index,367
-speakers,"Jen Hamilton
-Sarah Elkins"
+speakers,"Jen Hamilton, Sarah Elkins"
 bookdescrip,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 Track,"Tech, Life"
 startday,4/25/2015
@@ -16639,15 +16638,14 @@ starttimeampm,9 AM
 End Time,9:50
 tracknosp,"['Tech', 'Life']"
 endday,4/25/2015
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin B', 'Tech, Life', 'Troubleshooting in Tech, Health, and Beyond', 'Jen Hamilton\nSarah Elkins', ""What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Algonquin B', 'Tech, Life', 'Troubleshooting in Tech, Health, and Beyond', 'Jen Hamilton, Sarah Elkins', ""What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Jen Hamilton
-Sarah Elkins"
+calspeakers,"Jen Hamilton, Sarah Elkins"
 avneeds,Projector
-speakerlist,['Jen Hamilton\nSarah Elkins']
+speakerlist,"['Jen Hamilton', 'Sarah Elkins']"
 hours,0
 totalminutes,50
-speakernosplist,['JenHamiltonSarahElkins']
+speakernosplist,"['JenHamilton', 'SarahElkins']"
 caldescrip,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
 endtime,9:50
 AV Needs,Projector
@@ -16656,9 +16654,9 @@ Private,PUBLIC
 bookname,"Troubleshooting in Tech, Health, and Beyond"
 venue,Algonquin B
 Book Description,"What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong, what is wrong, and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)"
-Presenters,Jen Hamilton Sarah Elkins
+Presenters,"Jen Hamilton, Sarah Elkins"
 csvsafedescrip,What do medical diagnoses and fixing build breaks have in common? Sarah (configuration management specialist) and Jennifer (medical doctor) will talk about approaches for figuring out whether something's wrong- what is wrong- and possible fixes/treatments. Bonus: how to ask for help (in a way that will help people help you!)
-speakernosp,JenHamiltonSarahElkins
+speakernosp,"JenHamilton,SarahElkins"
 starttime,9:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
