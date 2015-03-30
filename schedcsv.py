@@ -47,7 +47,10 @@ schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(du
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 speaker_calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
-
+all_weekend_header = "ALL WEEKEND"
+friday_header = "FRIDAY, APRIL 24"
+saturday_header = "SATURDAY, APRIL 25"
+sunday_header = "SUNDAY, APRIL 26"
 # replace all function to help with the clean up
 def replace_all(text, dic):
     for i, j in dic.iteritems():
