@@ -2,7 +2,7 @@
 ## git add . for adding all changes
 SCHEDDATE=`date`
 echo staging to local repo
-git add .
+git add -A
 ## git commit for committing those changes to the local repo
 echo committing to local repo
 git commit -a -m "updated schedule to the lastest downloaded version as of $SCHEDDATE"
