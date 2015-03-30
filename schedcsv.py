@@ -223,6 +223,8 @@ for index, x in enumerate(pconsched.schedule):
             temproom = re.sub(r'\(','', temproom)
             temproom = re.sub(r'\)','', temproom)
             temproom = re.sub(r'/','', temproom)
+            if temproom == '':
+                temproom = "Hotel"
             session['roomnosp'] = temproom
             if fieldtext not in rooms:
               rooms.append(fieldtext)
