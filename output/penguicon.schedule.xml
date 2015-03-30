@@ -230,7 +230,7 @@
 <room>Food 
 [Room 517]</room>
 <blurb><participant>Gnora Ford-Lepthien </participant> Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops! <duration>1 hour and 50 minutes</duration></blurb></event><time>11 AM</time>
-<event><title>Special Effects Makup: Jello edition</title>
+<event><title>Special Effects Makup: Jello Edition</title>
 <topic>Costuming</topic>
 <room>Board of Regents</room>
 <blurb><participant>Kat McConnell, Jeannie Arquette</participant> Come find out about the cool effects you can pull off using unflavored gelatin as a base. </blurb></event><time>10 AM</time>
@@ -1186,7 +1186,7 @@ Charlie Jane Anders, Ivan Owen, Jen Owen</participant> Join our con chair, Nuri 
 <topic>Tech, Science</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek</participant> A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things! <duration>1 hour and 50 minutes</duration></blurb></event><time>11 AM</time>
-<event><title>BIOS hacking with the Raspberry Pi</title>
+<event><title>BIOS Hacking with the Raspberry Pi</title>
 <topic>Tech</topic>
 <room>Portage Auditorium</room>
 <blurb><participant>Stephen Gualdoni</participant> Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS. </blurb></event><time>8 PM</time>
@@ -1272,8 +1272,7 @@ Mike Yanok
 <event><title>Getting Involved in the Open Source Community</title>
 <topic>Tech</topic>
 <room>Algonquin C</room>
-<blurb><participant>Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
-William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like "How do I find them? What can I do to introduce myself? How can I help?" </blurb></event><time>7 PM</time>
+<blurb><participant>Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like "How do I find them? What can I do to introduce myself? How can I help?" </blurb></event><time>7 PM</time>
 <event><title>Getting Started with BeagleBone (Saturday)</title>
 <topic>Tech, DIY</topic>
 <room>Board of Trustees</room>
@@ -1321,8 +1320,7 @@ William A. Rowe Jr.</participant> Whether you are into circuitry, soda, 3d print
 <event><title>Introduction to Kanban Boards</title>
 <topic>Tech</topic>
 <room>Charlevoix C</room>
-<blurb><participant>Mark Haynes
-Douglas Johnson</participant> A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness. </blurb></event><time>7 PM</time>
+<blurb><participant>Mark Haynes, Douglas Johnson</participant> A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness. </blurb></event><time>7 PM</time>
 <event><title>Introduction to Machine Learning with Python</title>
 <topic>Tech</topic>
 <room>Algonquin B</room>

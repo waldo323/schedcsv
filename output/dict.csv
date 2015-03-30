@@ -2717,14 +2717,14 @@ speakers,"Kat McConnell, Jeannie Arquette"
 bookdescrip,Come find out about the cool effects you can pull off using unflavored gelatin as a base.
 Track,Costuming
 startday,4/25/2015
-Title,Special Effects Makup: Jello edition
+Title,Special Effects Makup: Jello Edition
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,['Costuming']
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Board of Regents', 'Costuming', 'Special Effects Makup: Jello edition', 'Kat McConnell, Jeannie Arquette', 'Come find out about the cool effects you can pull off using unflavored gelatin as a base.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Board of Regents', 'Costuming', 'Special Effects Makup: Jello Edition', 'Kat McConnell, Jeannie Arquette', 'Come find out about the cool effects you can pull off using unflavored gelatin as a base.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Kat McConnell, Jeannie Arquette"
 avneeds,none
@@ -2735,9 +2735,9 @@ speakernosplist,"['KatMcConnell', 'JeannieArquette']"
 caldescrip,Come find out about the cool effects you can pull off using unflavored gelatin as a base.
 endtime,11:50
 AV Needs,
-name,Special Effects Makup: Jello edition
+name,Special Effects Makup: Jello Edition
 Private,PUBLIC
-bookname,Special Effects Makup: Jello edition
+bookname,Special Effects Makup: Jello Edition
 venue,Board of Regents
 Book Description,Come find out about the cool effects you can pull off using unflavored gelatin as a base.
 Presenters,"Kat McConnell, Jeannie Arquette"
@@ -13312,14 +13312,14 @@ speakers,Stephen Gualdoni
 bookdescrip,Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS.
 Track,Tech
 startday,4/25/2015
-Title,BIOS hacking with the Raspberry Pi
+Title,BIOS Hacking with the Raspberry Pi
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Portage Auditorium', 'Tech', 'BIOS hacking with the Raspberry Pi', 'Stephen Gualdoni', ""Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '11:50', 'Portage Auditorium', 'Tech', 'BIOS Hacking with the Raspberry Pi', 'Stephen Gualdoni', ""Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Stephen Gualdoni
 avneeds,Projector
@@ -13330,9 +13330,9 @@ speakernosplist,['StephenGualdoni']
 caldescrip,Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS.
 endtime,11:50
 AV Needs,Projector
-name,BIOS hacking with the Raspberry Pi
+name,BIOS Hacking with the Raspberry Pi
 Private,PUBLIC
-bookname,BIOS hacking with the Raspberry Pi
+bookname,BIOS Hacking with the Raspberry Pi
 venue,Portage Auditorium
 Book Description,Using the Raspberry Pi as an inexpensive eeprom programmer to hack a Macbook's BIOS.
 Presenters,Stephen Gualdoni
@@ -14214,8 +14214,7 @@ Location,Algonquin C
 duration,50 minutes
 description,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
 index,314
-speakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
-William A. Rowe Jr."
+speakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr."
 bookdescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
 Track,Tech
 startday,4/25/2015
@@ -14226,15 +14225,14 @@ starttimeampm,10 AM
 End Time,10:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer\nWilliam A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Algonquin C', 'Tech', 'Getting Involved in the Open Source Community', ""Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr."", 'Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?""', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer
-William A. Rowe Jr."
+calspeakers,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr."
 avneeds,none
-speakerlist,"[""Kevin O'Brien"", 'Tom Callaway', 'Ruth Suehle', 'Emily Gonyer\nWilliam A. Rowe Jr.']"
+speakerlist,"[""Kevin O'Brien"", 'Tom Callaway', 'Ruth Suehle', 'Emily Gonyer', 'William A. Rowe Jr.']"
 hours,0
 totalminutes,50
-speakernosplist,"[""KevinO'Brien"", 'TomCallaway', 'RuthSuehle', 'EmilyGonyerWilliamA.RoweJr.']"
+speakernosplist,"[""KevinO'Brien"", 'TomCallaway', 'RuthSuehle', 'EmilyGonyer', 'WilliamA.RoweJr.']"
 caldescrip,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'"
 endtime,10:50
 AV Needs,
@@ -14243,9 +14241,9 @@ Private,PUBLIC
 bookname,Getting Involved in the Open Source Community
 venue,Algonquin C
 Book Description,"Whether you are into circuitry, soda, 3d printing, DIY furniture, or software, there is an open source community for you. This panel answers questions like ""How do I find them? What can I do to introduce myself? How can I help?"""
-Presenters,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer William A. Rowe Jr."
+Presenters,"Kevin O'Brien, Tom Callaway, Ruth Suehle, Emily Gonyer, William A. Rowe Jr."
 csvsafedescrip,Whether you are into circuitry- soda- 3d printing- DIY furniture- or software- there is an open source community for you. This panel answers questions like 'How do I find them? What can I do to introduce myself? How can I help?'
-speakernosp,"KevinO'Brien,TomCallaway,RuthSuehle,EmilyGonyerWilliamA.RoweJr."
+speakernosp,"KevinO'Brien,TomCallaway,RuthSuehle,EmilyGonyer,WilliamA.RoweJr."
 starttime,10:00
 roomnosp,AlgonquinC
 Start Date,4/25/2015
@@ -14764,8 +14762,7 @@ Location,Charlevoix C
 duration,50 minutes
 description,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 index,326
-speakers,"Mark Haynes
-Douglas Johnson"
+speakers,"Mark Haynes, Douglas Johnson"
 bookdescrip,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 Track,Tech
 startday,4/25/2015
@@ -14776,15 +14773,14 @@ starttimeampm,10 AM
 End Time,10:50
 tracknosp,['Tech']
 endday,4/25/2015
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Charlevoix C', 'Tech', 'Introduction to Kanban Boards', 'Mark Haynes\nDouglas Johnson', 'A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Charlevoix C', 'Tech', 'Introduction to Kanban Boards', 'Mark Haynes, Douglas Johnson', 'A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Mark Haynes
-Douglas Johnson"
+calspeakers,"Mark Haynes, Douglas Johnson"
 avneeds,Projector
-speakerlist,['Mark Haynes\nDouglas Johnson']
+speakerlist,"['Mark Haynes', 'Douglas Johnson']"
 hours,0
 totalminutes,50
-speakernosplist,['MarkHaynesDouglasJohnson']
+speakernosplist,"['MarkHaynes', 'DouglasJohnson']"
 caldescrip,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
 endtime,10:50
 AV Needs,Projector
@@ -14793,9 +14789,9 @@ Private,PUBLIC
 bookname,Introduction to Kanban Boards
 venue,Charlevoix C
 Book Description,"A lean, visual, Just-In-Time software scheduling system. Visual scheduling system, which uses pre-defined units of work as input and displays them in various states of completeness."
-Presenters,Mark Haynes Douglas Johnson
+Presenters,"Mark Haynes, Douglas Johnson"
 csvsafedescrip,A lean- visual- Just-In-Time software scheduling system. Visual scheduling system- which uses pre-defined units of work as input and displays them in various states of completeness.
-speakernosp,MarkHaynesDouglasJohnson
+speakernosp,"MarkHaynes,DouglasJohnson"
 starttime,10:00
 roomnosp,CharlevoixC
 Start Date,4/25/2015
