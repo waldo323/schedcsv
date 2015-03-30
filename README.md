@@ -4,6 +4,14 @@ schedcsv
 simple project with the goal of parsing a csv file from an export
 from the head of programming and generating output files which are particularly useful to Penguicon 2015 (on the master branch).
 
+usage:
+   * download the repository
+   * update variables which are different in the current year if needed in schedcsv.py, getsched.sh
+   * until sorting is done in the script, make sure that the spreadsheet is sorted the way you would like
+   * make sure the spreadsheet link is correct in getsched.sh
+   * run getsched.sh to get the spreadsheet and process it
+   * if you have access to the git repo you can run getrunpush.sh, otherwise you'll want to comment out the git push
+   * 
 
 current output:
    * custom xml for program book
