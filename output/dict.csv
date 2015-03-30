@@ -8478,12 +8478,12 @@ minutes,50
 allday,FALSE
 event_type,Mayhem
 All Day Event,FALSE
-event_end,18:00
+event_end,13:00
 event_type_list,['Mayhem']
 private,PUBLIC
-endtimeampm,6 PM
+endtimeampm,1 PM
 Location,Lobby [Near Elevators}
-duration,5 hours
+duration,00 minutes
 description,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
 index,184
 speakers,Mat Roll
@@ -8494,20 +8494,20 @@ Title,Scavenger Hunt
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
-End Time,18:00
+End Time,13:00
 tracknosp,['Mayhem']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '13:00', '4/25/2015', '18:00', 'Lobby \n[Near Elevators}', 'Mayhem', 'Scavenger Hunt', 'Mat Roll', 'Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday', '', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:00', 'Lobby \n[Near Elevators}', 'Mayhem', 'Scavenger Hunt', 'Mat Roll', 'Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday', '', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Mat Roll
 avneeds,none
 speakerlist,['Mat Roll']
-hours,5
-totalminutes,300
+hours,0
+totalminutes,0
 speakernosplist,['MatRoll']
 caldescrip,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
-endtime,18:00
+endtime,13:00
 AV Needs,
 name,Scavenger Hunt
 Private,PUBLIC
