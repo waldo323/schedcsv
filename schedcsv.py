@@ -180,7 +180,7 @@ for index, x in enumerate(pconsched.schedule):
             if (fieldtext == friday_date):
                 session['dayheader'] = friday_header
             if (fieldtext == saturday_date):
-                session['dayheader'] = sunday_header
+                session['dayheader'] = saturday_header
             if (fieldtext == sunday_date):
                 session['dayheader'] = sunday_header
                 
