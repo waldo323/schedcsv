@@ -405,9 +405,9 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
         #print y
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
-                myoutput.write("<time>All Weekend</time>\n")
+                myoutput.write("<day>All Weekend</day>\n")
             else:
-                temptext =  "<time>"+ y['starttimeampm'] + "</time>\n"
+                temptext =  "<day>%(startday)s</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
             tempstart = y['event_start']
 
@@ -519,7 +519,7 @@ currenttime = '<time>4 PM</time>'
 # which are typically listed in the beginning
 # before any other events in the program book
 # then the variable is reused in the loop
-lasttime = '<time>All Weekend</time>'
+lasttime = '<day>All Weekend</day>'
 
 for row in inputfile:
     if '<time>' in row:
