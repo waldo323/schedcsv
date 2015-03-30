@@ -40,17 +40,23 @@ extrainfo= """
 <hours>%(hours)s</hours>
 <minutes>%(minutes)s</minutes>
 """
+### configure these variables each year ###
+hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
+friday_header = "FRIDAY, APRIL 24"
+friday_date = "4/24/2015"
+saturday_header = "SATURDAY, APRIL 25"
+saturday_date = "4/25/2015"
+sunday_header = "SUNDAY, APRIL 26"
+friday_date = "4/26/2015"
 
+###
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header= """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
 schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s",%(event_type)s,"%(name)s","%(speakers)s",'%(csvsafedescrip)s',%(allday)s,%(private)s,%(avneeds)s\n"""
-hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
 speaker_calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
 all_weekend_header = "ALL WEEKEND"
-friday_header = "FRIDAY, APRIL 24"
-saturday_header = "SATURDAY, APRIL 25"
-sunday_header = "SUNDAY, APRIL 26"
+
 # replace all function to help with the clean up
 def replace_all(text, dic):
     for i, j in dic.iteritems():
@@ -171,6 +177,13 @@ for index, x in enumerate(pconsched.schedule):
         ##start day and time assignments
         if  (field == "Start Date"):
             session['startday'] = fieldtext
+            if (fieldtext == friday_date):
+                session['dayheader'] = friday_header
+            if (fieldtext == saturday_date):
+                session['dayheader'] = sunday_header
+            if (fieldtext == sunday_date):
+                session['dayheader'] = sunday_header
+                
             #print fieldtext
 
         if  (field == "Start Time"):
@@ -359,9 +372,9 @@ sessions.sort(key=itemgetter('index'))
 ##sessions.sort(key=itemgetter('starttime'))
 ##sessions.sort(key=itemgetter('startday'))
 ##sessions.sort(key=itemgetter('allday'), reverse=True)
-#sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue']) ## thanks Walter!
+sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue'] + thing['name']) ## thanks Walter!
 
-sessions.sort(key=itemgetter('allday'), reverse=True)
+#sessions.sort(key=itemgetter('allday'), reverse=True)
 
 speakers.sort()
 tempstart = "test"
@@ -407,7 +420,7 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("<day>All Weekend</day>\n")
             else:
-                temptext =  "<day>"+ y['Start Date'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
+                temptext =  "<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
             tempstart = y['event_start']
 
