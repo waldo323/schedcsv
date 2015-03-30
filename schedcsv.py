@@ -228,7 +228,7 @@ for index, x in enumerate(pconsched.schedule):
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
         if  (field == "Presenters"):
-            session['speakers'] = fieldtext
+            session['speakers'] = re.sub(r'\n','\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n ', fieldtext)
         if  (field == "Title"):
             session['name'] = fieldtext
             temptext = replace_all(fieldtext, addamps)         
