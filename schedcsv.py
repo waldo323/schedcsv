@@ -533,13 +533,22 @@ currenttime = '<time>4 PM</time>'
 # before any other events in the program book
 # then the variable is reused in the loop
 lasttime = '<day>All Weekend</day>'
-
+lastday = '<day>All Weekend</day>'
+firstday = True
 for row in inputfile:
     if '<time>' in row:
         currenttime = row
         if currenttime != lasttime:
             outputfile.write(row)
             lasttime = row
+    if '<day>' in row:
+        currentday = row:
+        if firstday == False:
+            if currentday != lastday:
+                outputfile.write(row)
+                lastday = row
+        else:
+            outputfile.write(row)
     else: # If this is not a time row
         outputfile.write(row)
 
