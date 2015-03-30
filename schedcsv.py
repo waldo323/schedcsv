@@ -543,13 +543,13 @@ for row in inputfile:
             lasttime = row
     elif '<day>' in row:
         currentday = row
-        if firstday == False:
-            if currentday != lastday:
-                outputfile.write(row)
-                lastday = row
-        else:
+        #if firstday == False:
+        if currentday != lastday:
             outputfile.write(row)
-            firstday = False
+            lastday = row
+        #else:
+        #    outputfile.write(row)
+        #    firstday = False
     else: # If this is not a time row
         outputfile.write(row)
 
