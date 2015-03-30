@@ -1635,8 +1635,7 @@ endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
 input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Algonquin B/C', 'Penguicon Events', 'Opening Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen', 'Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!', '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,"Microphone, Sound System"
 speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
@@ -4080,8 +4079,7 @@ endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
 input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,none
 speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
@@ -7304,8 +7302,7 @@ endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
 input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Algonquin D', 'Tech, Life', 'The IT Road Warrior', 'Mark Haynes\nDouglas Johnson', 'What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Mark Haynes
-Douglas Johnson"
+calspeakers,"Mark Haynes,Douglas Johnson"
 avneeds,Projector
 speakerlist,"['Mark Haynes', 'Douglas Johnson']"
 hours,0
@@ -7489,8 +7486,7 @@ endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
 input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Charlevoix A', 'Life', 'Cross Sections of Community: Better Living through Networking', 'Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel\n', 'Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those \xe2\x80\x9cit\xe2\x80\x99s a small world\xe2\x80\x9d moments, now let\xe2\x80\x99s capitalize on them.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel
-"
+calspeakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel,"
 avneeds,none
 speakerlist,"['Roni Neal', 'Dan Eakin', 'Hanna Christiansen', 'Phil Chase', 'Jerry Ginzel', '']"
 hours,0
@@ -7996,10 +7992,7 @@ endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
 input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Windover', 'Tech, Life', 'Building a Career in IT', 'Dawn Kuczwara\nNuri Gocay\nMike Yanok\n', 'Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Dawn Kuczwara
-Nuri Gocay
-Mike Yanok
-"
+calspeakers,"Dawn Kuczwara,Nuri Gocay,Mike Yanok,"
 avneeds,none
 speakerlist,"['Dawn Kuczwara', 'Nuri Gocay', 'Mike Yanok', '']"
 hours,0
@@ -8045,8 +8038,7 @@ endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
 input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin B', 'Tech', 'Maria DB and Ubuntu Cloud', 'Colin Charles\nJorge Castro', ""This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be\ndeploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Colin Charles
-Jorge Castro"
+calspeakers,"Colin Charles,Jorge Castro"
 avneeds,Projector
 speakerlist,"['Colin Charles', 'Jorge Castro']"
 hours,0
@@ -10486,8 +10478,7 @@ endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
 input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Algonquin B', 'Tech', 'Juju: Automate Your Cloud or Home Infrastructure', 'Jorge Castro\nMark Ramm', '', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Jorge Castro
-Mark Ramm"
+calspeakers,"Jorge Castro,Mark Ramm"
 avneeds,Projector
 speakerlist,"['Jorge Castro', 'Mark Ramm']"
 hours,0
@@ -14126,9 +14117,7 @@ endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
 input,"['4/26/2015', '8:00', '4/26/2015', '9:50', 'Charlevoix A', 'Tech', 'LIVE PODCAST: Sunday Morning Linux Review', 'Tony Bemus\nMary Tomich\nMat Enders', 'Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
-calspeakers,"Tony Bemus
-Mary Tomich
-Mat Enders"
+calspeakers,"Tony Bemus,Mary Tomich,Mat Enders"
 avneeds,none
 speakerlist,"['Tony Bemus', 'Mary Tomich', 'Mat Enders']"
 hours,1
@@ -17864,8 +17853,7 @@ endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
 input,"['4/26/2015', '14:00', '4/26/2015', '14:50', 'Board of Governors', 'Life', 'Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion', 'Heather Fish\nRoni Jean Neal', 'The fastest growing religious category in the US is \xe2\x80\x9cunaffiliated,\xe2\x80\x9d which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don\xe2\x80\x99t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
-calspeakers,"Heather Fish
-Roni Jean Neal"
+calspeakers,"Heather Fish,Roni Jean Neal"
 avneeds,none
 speakerlist,"['Heather Fish', 'Roni Jean Neal']"
 hours,0
