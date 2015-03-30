@@ -216,7 +216,7 @@ for index, x in enumerate(pconsched.schedule):
                 session['endtimeampm'] = "endtime am/pm"
 
         if  (field == "Book Description"): 
-                    session['description'] = fieldtext
+                    session['description'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext)))
         if  (field == "Location"):
             session['venue'] = re.sub(r'\n',', ', fieldtext)
             temproom = re.sub(r'\s','', fieldtext)
@@ -230,8 +230,9 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Presenters"):
             session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext)))
         if  (field == "Title"):
-            session['name'] = fieldtext
-            temptext = replace_all(fieldtext, addamps)         
+            session['name'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext)))
+            temptext = replace_all(fieldtext, addamps)
+            temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext)))
             session['bookname'] = temptext
 
         if  (field == "Track"):
