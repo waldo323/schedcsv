@@ -532,7 +532,7 @@
             "Aral Balkan",
             "Annalee Newitz",
             "Albert Manero",
-            "\nCharlie Jane Anders",
+            "\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Charlie Jane Anders",
             "Ivan Owen",
             "Jen Owen"
         ],
@@ -1322,7 +1322,7 @@
             "Aral Balkan",
             "Annalee Newitz",
             "Albert Manero",
-            "\nCharlie Jane Anders",
+            "\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Charlie Jane Anders",
             "Ivan Owen",
             "Jen Owen"
         ],
@@ -2353,7 +2353,7 @@
         "track": "Tech, Life",
         "start_time": "12:00",
         "presenters": [
-            "Mark Haynes\nDouglas Johnson"
+            "Mark Haynes\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Douglas Johnson"
         ],
         "location": "Algonquin D",
         "minutes": 50,
@@ -2416,7 +2416,7 @@
             "Dan Eakin",
             "Hanna Christiansen",
             "Phil Chase",
-            "Jerry Ginzel\n"
+            "Jerry Ginzel\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n "
         ],
         "location": "Charlevoix A",
         "minutes": 50,
@@ -2580,7 +2580,7 @@
         "track": "Tech, Life",
         "start_time": "12:00",
         "presenters": [
-            "Dawn Kuczwara\nNuri Gocay\nMike Yanok\n"
+            "Dawn Kuczwara\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Nuri Gocay\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mike Yanok\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n "
         ],
         "location": "Windover",
         "minutes": 50,
@@ -2594,7 +2594,7 @@
         "track": "Tech",
         "start_time": "13:00",
         "presenters": [
-            "Colin Charles\nJorge Castro"
+            "Colin Charles\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Jorge Castro"
         ],
         "location": "Algonquin B",
         "minutes": 50,
@@ -3402,7 +3402,7 @@
         "track": "Tech",
         "start_time": "17:00",
         "presenters": [
-            "Jorge Castro\nMark Ramm"
+            "Jorge Castro\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mark Ramm"
         ],
         "location": "Algonquin B",
         "minutes": 50,
@@ -4597,7 +4597,7 @@
         "track": "Tech",
         "start_time": "8:00",
         "presenters": [
-            "Tony Bemus\nMary Tomich\nMat Enders"
+            "Tony Bemus\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mary Tomich\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mat Enders"
         ],
         "location": "Charlevoix A",
         "minutes": 110,
@@ -5800,7 +5800,7 @@
         "track": "Life",
         "start_time": "14:00",
         "presenters": [
-            "Heather Fish\nRoni Jean Neal"
+            "Heather Fish\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Roni Jean Neal"
         ],
         "location": "Board of Governors",
         "minutes": 50,

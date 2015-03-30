@@ -1624,7 +1624,10 @@ duration,50 minutes
 description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 index,35
 speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 Track,Penguicon Events
 startday,4/24/2015
@@ -1641,10 +1644,10 @@ End Date,4/24/2015
 calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,"Microphone, Sound System"
-speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
-speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'THEREISANENDLINEINTHESPEADSHEETHERECharlieJaneAnders', 'IvanOwen', 'JenOwen']"
 caldescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 endtime,18:50
 AV Needs,"Microphone, Sound System"
@@ -1655,7 +1658,7 @@ venue,Algonquin B/C
 Book Description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 csvsafedescrip,Join our con chair- Nuri Gocay- the Con Committee- and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!
-speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,THEREISANENDLINEINTHESPEADSHEETHERECharlieJaneAnders,IvanOwen,JenOwen"
 starttime,18:00
 roomnosp,AlgonquinBC
 Start Date,4/24/2015
@@ -4076,7 +4079,10 @@ duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,88
 speakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon Events
 startday,4/24/2015
@@ -4093,10 +4099,10 @@ End Date,4/24/2015
 calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
 Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,none
-speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
-speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'THEREISANENDLINEINTHESPEADSHEETHERECharlieJaneAnders', 'IvanOwen', 'JenOwen']"
 caldescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 endtime,21:50
 AV Needs,
@@ -4107,7 +4113,7 @@ venue,Restaurant
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,THEREISANENDLINEINTHESPEADSHEETHERECharlieJaneAnders,IvanOwen,JenOwen"
 starttime,21:00
 roomnosp,Restaurant
 Start Date,4/24/2015
@@ -7304,7 +7310,10 @@ duration,50 minutes
 description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 index,158
 speakers,"Mark Haynes
-Douglas Johnson"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Douglas Johnson"
 bookdescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Track,"Tech, Life"
 startday,4/25/2015
@@ -7321,10 +7330,10 @@ End Date,4/25/2015
 calspeakers,"Mark Haynes
 Douglas Johnson"
 avneeds,Projector
-speakerlist,['Mark Haynes\nDouglas Johnson']
+speakerlist,['Mark Haynes\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Douglas Johnson']
 hours,0
 totalminutes,50
-speakernosplist,['MarkHaynesDouglasJohnson']
+speakernosplist,['MarkHaynesTHEREISANENDLINEINTHESPEADSHEETHEREDouglasJohnson']
 caldescrip,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 endtime,12:50
 AV Needs,Projector
@@ -7335,7 +7344,7 @@ venue,Algonquin D
 Book Description,"What does it take to become an IT Road Warrior? What are the gadgets, luggage, and contract requirements for living life on the road?"
 Presenters,Mark Haynes Douglas Johnson
 csvsafedescrip,What does it take to become an IT Road Warrior? What are the gadgets- luggage- and contract requirements for living life on the road?
-speakernosp,MarkHaynesDouglasJohnson
+speakernosp,MarkHaynesTHEREISANENDLINEINTHESPEADSHEETHEREDouglasJohnson
 starttime,12:00
 roomnosp,AlgonquinD
 Start Date,4/25/2015
@@ -7490,7 +7499,10 @@ duration,50 minutes
 description,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 index,162
 speakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel
-"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ "
 bookdescrip,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 Track,Life
 startday,4/25/2015
@@ -7507,10 +7519,10 @@ End Date,4/25/2015
 calspeakers,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel
 "
 avneeds,none
-speakerlist,"['Roni Neal', 'Dan Eakin', 'Hanna Christiansen', 'Phil Chase', 'Jerry Ginzel\n']"
+speakerlist,"['Roni Neal', 'Dan Eakin', 'Hanna Christiansen', 'Phil Chase', 'Jerry Ginzel\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n ']"
 hours,0
 totalminutes,50
-speakernosplist,"['RoniNeal', 'DanEakin', 'HannaChristiansen', 'PhilChase', 'JerryGinzel']"
+speakernosplist,"['RoniNeal', 'DanEakin', 'HannaChristiansen', 'PhilChase', 'JerryGinzelTHEREISANENDLINEINTHESPEADSHEETHERE']"
 caldescrip,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 endtime,12:50
 AV Needs,
@@ -7521,7 +7533,7 @@ venue,Charlevoix A
 Book Description,"Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability, recreational interests, or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments, now let’s capitalize on them."
 Presenters,"Roni Neal, Dan Eakin, Hanna Christiansen, Phil Chase, Jerry Ginzel "
 csvsafedescrip,Realizing we have the solution at hand can alter the course of a day or change our current existence. All around us communities are emerging: centered on sustainability- recreational interests- or philosophical commonalities - people are choosing to work cooperatively. Limited knowledge of the people with whom we interact leaves us missing out on mutually beneficial opportunities. We all have those “it’s a small world” moments- now let’s capitalize on them.
-speakernosp,"RoniNeal,DanEakin,HannaChristiansen,PhilChase,JerryGinzel"
+speakernosp,"RoniNeal,DanEakin,HannaChristiansen,PhilChase,JerryGinzelTHEREISANENDLINEINTHESPEADSHEETHERE"
 starttime,12:00
 roomnosp,CharlevoixA
 Start Date,4/25/2015
@@ -7998,9 +8010,18 @@ duration,50 minutes
 description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 index,173
 speakers,"Dawn Kuczwara
-Nuri Gocay
-Mike Yanok
-"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Nuri Gocay
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Mike Yanok
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ "
 bookdescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Track,"Tech, Life"
 startday,4/25/2015
@@ -8019,10 +8040,10 @@ Nuri Gocay
 Mike Yanok
 "
 avneeds,none
-speakerlist,['Dawn Kuczwara\nNuri Gocay\nMike Yanok\n']
+speakerlist,['Dawn Kuczwara\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Nuri Gocay\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mike Yanok\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n ']
 hours,0
 totalminutes,50
-speakernosplist,['DawnKuczwaraNuriGocayMikeYanok']
+speakernosplist,['DawnKuczwaraTHEREISANENDLINEINTHESPEADSHEETHERENuriGocayTHEREISANENDLINEINTHESPEADSHEETHEREMikeYanokTHEREISANENDLINEINTHESPEADSHEETHERE']
 caldescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 endtime,12:50
 AV Needs,
@@ -8033,7 +8054,7 @@ venue,Windover
 Book Description,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
 Presenters,Dawn Kuczwara Nuri Gocay Mike Yanok 
 csvsafedescrip,Considering a career in IT or looking to advance your existing career? Technical professionals at the top of their field tell you how they got there and how to avoid the pitfalls on your way to the top.
-speakernosp,DawnKuczwaraNuriGocayMikeYanok
+speakernosp,DawnKuczwaraTHEREISANENDLINEINTHESPEADSHEETHERENuriGocayTHEREISANENDLINEINTHESPEADSHEETHEREMikeYanokTHEREISANENDLINEINTHESPEADSHEETHERE
 starttime,12:00
 roomnosp,Windover
 Start Date,4/25/2015
@@ -8051,7 +8072,10 @@ description,"This workshop will get into some of the nitty gritty details of dep
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 index,174
 speakers,"Colin Charles
-Jorge Castro"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Jorge Castro"
 bookdescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 Track,Tech
 startday,4/25/2015
@@ -8068,10 +8092,10 @@ End Date,4/25/2015
 calspeakers,"Colin Charles
 Jorge Castro"
 avneeds,Projector
-speakerlist,['Colin Charles\nJorge Castro']
+speakerlist,['Colin Charles\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Jorge Castro']
 hours,0
 totalminutes,50
-speakernosplist,['ColinCharlesJorgeCastro']
+speakernosplist,['ColinCharlesTHEREISANENDLINEINTHESPEADSHEETHEREJorgeCastro']
 caldescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
 deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 endtime,13:50
@@ -8083,7 +8107,7 @@ venue,Algonquin B
 Book Description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 Presenters,Colin Charles Jorge Castro
 csvsafedescrip,This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations- including load balanced master/slave clusters with monitoring.
-speakernosp,ColinCharlesJorgeCastro
+speakernosp,ColinCharlesTHEREISANENDLINEINTHESPEADSHEETHEREJorgeCastro
 starttime,13:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -10494,7 +10518,10 @@ duration,50 minutes
 description,
 index,227
 speakers,"Jorge Castro
-Mark Ramm"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Mark Ramm"
 bookdescrip,
 Track,Tech
 startday,4/25/2015
@@ -10511,10 +10538,10 @@ End Date,4/25/2015
 calspeakers,"Jorge Castro
 Mark Ramm"
 avneeds,Projector
-speakerlist,['Jorge Castro\nMark Ramm']
+speakerlist,['Jorge Castro\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mark Ramm']
 hours,0
 totalminutes,50
-speakernosplist,['JorgeCastroMarkRamm']
+speakernosplist,['JorgeCastroTHEREISANENDLINEINTHESPEADSHEETHEREMarkRamm']
 caldescrip,
 endtime,17:50
 AV Needs,Projector
@@ -10525,7 +10552,7 @@ venue,Algonquin B
 Book Description,
 Presenters,Jorge Castro Mark Ramm
 csvsafedescrip,
-speakernosp,JorgeCastroMarkRamm
+speakernosp,JorgeCastroTHEREISANENDLINEINTHESPEADSHEETHEREMarkRamm
 starttime,17:00
 roomnosp,AlgonquinB
 Start Date,4/25/2015
@@ -14140,8 +14167,14 @@ duration,1 hour and 50 minutes
 description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 index,306
 speakers,"Tony Bemus
-Mary Tomich
-Mat Enders"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Mary Tomich
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Mat Enders"
 bookdescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Track,Tech
 startday,4/26/2015
@@ -14159,10 +14192,10 @@ calspeakers,"Tony Bemus
 Mary Tomich
 Mat Enders"
 avneeds,none
-speakerlist,['Tony Bemus\nMary Tomich\nMat Enders']
+speakerlist,['Tony Bemus\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mary Tomich\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Mat Enders']
 hours,1
 totalminutes,110
-speakernosplist,['TonyBemusMaryTomichMatEnders']
+speakernosplist,['TonyBemusTHEREISANENDLINEINTHESPEADSHEETHEREMaryTomichTHEREISANENDLINEINTHESPEADSHEETHEREMatEnders']
 caldescrip,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 endtime,9:50
 AV Needs,
@@ -14173,7 +14206,7 @@ venue,Charlevoix A
 Book Description,"Tony, Mat, and Mary record an episode of their popular Linux podcast, the Sunday Morning Linux Review"
 Presenters,Tony Bemus Mary Tomich Mat Enders
 csvsafedescrip,Tony- Mat- and Mary record an episode of their popular Linux podcast- the Sunday Morning Linux Review
-speakernosp,TonyBemusMaryTomichMatEnders
+speakernosp,TonyBemusTHEREISANENDLINEINTHESPEADSHEETHEREMaryTomichTHEREISANENDLINEINTHESPEADSHEETHEREMatEnders
 starttime,8:00
 roomnosp,CharlevoixA
 Start Date,4/26/2015
@@ -17891,7 +17924,10 @@ duration,50 minutes
 description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 index,387
 speakers,"Heather Fish
-Roni Jean Neal"
+
+THERE IS AN END LINE IN THE SPEADSHEET HERE
+
+ Roni Jean Neal"
 bookdescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 Track,Life
 startday,4/26/2015
@@ -17908,10 +17944,10 @@ End Date,4/26/2015
 calspeakers,"Heather Fish
 Roni Jean Neal"
 avneeds,none
-speakerlist,['Heather Fish\nRoni Jean Neal']
+speakerlist,['Heather Fish\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n Roni Jean Neal']
 hours,0
 totalminutes,50
-speakernosplist,['HeatherFishRoniJeanNeal']
+speakernosplist,['HeatherFishTHEREISANENDLINEINTHESPEADSHEETHERERoniJeanNeal']
 caldescrip,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population.  Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 endtime,14:50
 AV Needs,
@@ -17922,7 +17958,7 @@ venue,Board of Governors
 Book Description,"The fastest growing religious category in the US is “unaffiliated,” which comprises approximately 16-20% of the population. Including spiritual atheists, agnostics, and those whose spiritual practices and beliefs don’t conform to any particular religion, individuals in this group use their own sense of awe, wonder, and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition, science, and the natural world to develop relevance and purpose in modern life. "
 Presenters,Heather Fish Roni Jean Neal
 csvsafedescrip,The fastest growing religious category in the US is “unaffiliated-” which comprises approximately 16-20% of the population.  Including spiritual atheists- agnostics- and those whose spiritual practices and beliefs don’t conform to any particular religion- individuals in this group use their own sense of awe- wonder- and connection rather than dogma to address existential questions and create meaning in their lives. This panel will examine techniques drawing on a myriad of sources including personal tradition- science- and the natural world to develop relevance and purpose in modern life. 
-speakernosp,HeatherFishRoniJeanNeal
+speakernosp,HeatherFishTHEREISANENDLINEINTHESPEADSHEETHERERoniJeanNeal
 starttime,14:00
 roomnosp,BoardofGovernors
 Start Date,4/26/2015
