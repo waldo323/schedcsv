@@ -218,7 +218,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Book Description"): 
                     session['description'] = fieldtext
         if  (field == "Location"):
-            session['venue'] = re.sub(r'\n',' ', fieldtext)
+            session['venue'] = re.sub(r'\n',' THERE IS AN END LINE IN THIS VENUE FIELD IN THE SPEADSHEET HERE ', fieldtext)
             temproom = re.sub(r'\s','', fieldtext)
             temproom = re.sub(r'\(','', temproom)
             temproom = re.sub(r'\)','', temproom)
@@ -228,7 +228,7 @@ for index, x in enumerate(pconsched.schedule):
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
         if  (field == "Presenters"):
-            session['speakers'] = re.sub(r'\n','\n\nTHERE IS AN END LINE IN THE SPEADSHEET HERE\n\n ', fieldtext)
+            session['speakers'] = re.sub(r'\n','\n\nTHERE IS AN END LINE IN THIS PRESENTERS FIELD IN THE SPEADSHEET HERE\n\n ', fieldtext)
         if  (field == "Title"):
             session['name'] = fieldtext
             temptext = replace_all(fieldtext, addamps)         
