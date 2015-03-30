@@ -542,7 +542,7 @@ for row in inputfile:
             outputfile.write(row)
             lasttime = row
     if '<day>' in row:
-        currentday = row:
+        currentday = row
         if firstday == False:
             if currentday != lastday:
                 outputfile.write(row)
