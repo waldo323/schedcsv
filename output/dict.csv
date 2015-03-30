@@ -9784,8 +9784,7 @@ Location,Hamilin
 duration,50 minutes
 description,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 index,205
-speakers,"Jeannie Szarama
-Ferrett Steinmetz"
+speakers,"Jeannie Szarama, Ferrett Steinmetz"
 bookdescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 Track,"Literature, Film"
 startday,4/24/2015
@@ -9796,15 +9795,14 @@ starttimeampm,6 PM
 End Time,18:50
 tracknosp,"['Literature', 'Film']"
 endday,4/24/2015
-input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Hamilin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama\nFerrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Hamilin', 'Literature, Film', 'How is Game of Thrones Breaking the Rules of Story Telling?', 'Jeannie Szarama, Ferrett Steinmetz', 'Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Jeannie Szarama
-Ferrett Steinmetz"
+calspeakers,"Jeannie Szarama, Ferrett Steinmetz"
 avneeds,none
-speakerlist,['Jeannie Szarama\nFerrett Steinmetz']
+speakerlist,"['Jeannie Szarama', 'Ferrett Steinmetz']"
 hours,0
 totalminutes,50
-speakernosplist,['JeannieSzaramaFerrettSteinmetz']
+speakernosplist,"['JeannieSzarama', 'FerrettSteinmetz']"
 caldescrip,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
 endtime,18:50
 AV Needs,
@@ -9813,9 +9811,9 @@ Private,PUBLIC
 bookname,How is Game of Thrones Breaking the Rules of Story Telling?
 venue,Hamilin
 Book Description,"Main characters die, the popular characters never win, and our expectations are thwarted at every turn. How has it become so popular? "
-Presenters,Jeannie Szarama Ferrett Steinmetz
+Presenters,"Jeannie Szarama, Ferrett Steinmetz"
 csvsafedescrip,Main characters die- the popular characters never win- and our expectations are thwarted at every turn. How has it become so popular? 
-speakernosp,JeannieSzaramaFerrettSteinmetz
+speakernosp,"JeannieSzarama,FerrettSteinmetz"
 starttime,18:00
 roomnosp,Hamilin
 Start Date,4/24/2015
@@ -11728,8 +11726,7 @@ duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,259
 speakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen 
-"
+Charlie Jane Anders, Ivan Owen, Jen Owen"
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon Events
 startday,4/24/2015
@@ -11740,13 +11737,12 @@ starttimeampm,9 PM
 End Time,21:50
 tracknosp,['PenguiconEvents']
 endday,4/24/2015
-input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen \n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, 
-Charlie Jane Anders, Ivan Owen, Jen Owen 
-"
+Charlie Jane Anders, Ivan Owen, Jen Owen"
 avneeds,none
-speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen \n']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', '\nCharlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
 hours,0
 totalminutes,50
 speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
@@ -11758,7 +11754,7 @@ Private,PUBLIC
 bookname,Guest of Honor Social Hour
 venue,Restaurant
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
+Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
 starttime,21:00
