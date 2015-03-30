@@ -47,7 +47,7 @@ friday_date = "4/24/2015"
 saturday_header = "SATURDAY, APRIL 25"
 saturday_date = "4/25/2015"
 sunday_header = "SUNDAY, APRIL 26"
-friday_date = "4/26/2015"
+sunday_date = "4/26/2015"
 
 ###
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
