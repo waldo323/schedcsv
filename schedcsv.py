@@ -293,7 +293,7 @@ for index, x in enumerate(pconsched.schedule):
             session['bookdescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
-            session['calspeakers'] = re.sub(r'\n',','. temptext)
+            session['calspeakers'] = re.sub(r'\n',',', temptext)
 #        if field == "speakers":
         if field == "Presenters":
             testtext = fieldtext.split(', ')
