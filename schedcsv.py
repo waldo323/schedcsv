@@ -541,7 +541,7 @@ for row in inputfile:
         if currenttime != lasttime:
             outputfile.write(row)
             lasttime = row
-    if '<day>' in row:
+    elif '<day>' in row:
         currentday = row
         if firstday == False:
             if currentday != lastday:
