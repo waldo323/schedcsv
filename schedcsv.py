@@ -446,10 +446,11 @@ with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
             temproomsched.close()
     for index, y in enumerate(sessions):
       for speakernosp in y['speakernosplist']:
-        with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
-        #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
-            tempspeakersched.write(calendar_header)
-            tempspeakersched.close()
+        if speakernosp != '':
+            with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
+            #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
+                tempspeakersched.write(calendar_header)
+                tempspeakersched.close()
     for index, y in enumerate(sessions):
         #if not y['All Day Event'] == 'All Day Event':
             fullschedule.write(schedule_csv_template % y)
