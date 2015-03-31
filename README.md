@@ -2,7 +2,7 @@ schedcsv
 ========
 
 simple project with the goal of parsing a csv file from an export
-from the head of programming and generating output files which are particularly useful to Penguicon 2015 (on the master branch).
+from the head of programming and generating output files which are particularly useful to the upcoming Penguicon (on the master branch). typically the previous years will be made into a branch named the same as the Penguicon main event was held
 
 usage:
    * download the repository
