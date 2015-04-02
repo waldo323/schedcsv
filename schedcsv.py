@@ -461,7 +461,7 @@ with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
             temproomsched.close()
             for speaker in y['speakernosplist']:
                 if speaker != '':
-                    print speaker
+                    #print speaker
                     with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
                         tempspeakersched.write(speaker_calendar_template % y)
                 tempspeakersched.close()
