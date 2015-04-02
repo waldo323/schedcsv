@@ -2646,7 +2646,7 @@ End Time,19:50
 tracknosp,['Tech']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Lobby \n[Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Friday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '19:00', '4/24/2015', '19:50', 'Lobby [Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Friday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Ed Mason
 avneeds,none
@@ -2660,7 +2660,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Friday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Friday)
-venue,"Lobby , [Near Elevators]"
+venue,Lobby [Near Elevators]
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
@@ -5460,7 +5460,7 @@ End Time,12:50
 tracknosp,['ActionAdventure']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '9:00', '4/25/2015', '12:50', 'Lobby \n[Near Elevators]', 'Action Adventure', 'Archery Lessons!', 'Devon Boling', 'Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required, applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available.', '03hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '12:50', 'Lobby [Near Elevators]', 'Action Adventure', 'Archery Lessons!', 'Devon Boling', 'Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required, applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available.', '03hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Devon Boling
 avneeds,none
@@ -5474,7 +5474,7 @@ AV Needs,
 name,Archery Lessons!
 Private,PUBLIC
 bookname,Archery Lessons!
-venue,"Lobby , [Near Elevators]"
+venue,Lobby [Near Elevators]
 Book Description,"Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required, applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available."
 Presenters,Devon Boling
 csvsafedescrip,Want to live out the experience of your favorite archers? Receive professional instruction from a level 3 certified JOAD (Junior Olympic Archery Development) coach at nearby archery range. All ages welcome. USA Archery membership required- applications will be available before the event for all who sign up. A range fee is required and equipment rentals are available.
@@ -7714,7 +7714,7 @@ End Time,12:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Lobby \n[Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Saturday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '12:00', '4/25/2015', '12:50', 'Lobby [Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Saturday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Ed Mason
 avneeds,none
@@ -7728,7 +7728,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Saturday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Saturday)
-venue,"Lobby , [Near Elevators]"
+venue,Lobby [Near Elevators]
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
@@ -9786,7 +9786,7 @@ End Time,16:00
 tracknosp,['Videogaming']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '15:00', '4/25/2015', '16:00', 'Lobby \n[Near Elevators]', 'Videogaming', 'Opening Up Retro-Style Video Cabinets', 'David Gazdowicz', 'David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!', '01hr:00min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '15:00', '4/25/2015', '16:00', 'Lobby [Near Elevators]', 'Videogaming', 'Opening Up Retro-Style Video Cabinets', 'David Gazdowicz', 'David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!', '01hr:00min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,David Gazdowicz
 avneeds,none
@@ -9800,7 +9800,7 @@ AV Needs,
 name,Opening Up Retro-Style Video Cabinets
 Private,PUBLIC
 bookname,Opening Up Retro-Style Video Cabinets
-venue,"Lobby , [Near Elevators]"
+venue,Lobby [Near Elevators]
 Book Description,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
 Presenters,David Gazdowicz
 csvsafedescrip,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
@@ -16743,7 +16743,7 @@ End Time,12:50
 tracknosp,['Tech']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Lobby \n[Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Sunday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Lobby [Near Elevators]', 'Tech', 'Virtual Reality Headset Demo with Game Face Labs (Sunday)', 'Ed Mason', 'Come try Game Face Labs\xe2\x80\x99 newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Ed Mason
 avneeds,none
@@ -16757,7 +16757,7 @@ AV Needs,
 name,Virtual Reality Headset Demo with Game Face Labs (Sunday)
 Private,PUBLIC
 bookname,Virtual Reality Headset Demo with Game Face Labs (Sunday)
-venue,"Lobby , [Near Elevators]"
+venue,Lobby [Near Elevators]
 Book Description,"Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek."
 Presenters,Ed Mason
 csvsafedescrip,Come try Game Face Labs’ newest 3D printed- Android based- wireless virtual reality headset. It has a 2.5k pixel display- it runs native 3D movies- and does 2D to 3D conversion on the fly- all on Android! You know you want to take a peek.
