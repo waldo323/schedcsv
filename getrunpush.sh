@@ -23,5 +23,5 @@ cd ./output/schedbyspeaker && zip -j ../schedsbyspeaker.zip ./* && cd ../../
 echo time and date of task  
 date
 # push the schedule and output files to github ./pushsched.sh
-#git status|awk '/Changes/&&/not/&&/staged/{system("./pushsched.sh")}'
+git status|awk '/Changes/&&/not/&&/staged/{system("./pushsched.sh")}'
 ./pushsched.sh
