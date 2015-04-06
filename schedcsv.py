@@ -32,6 +32,20 @@ hourtemplate ="""<event><title>%(bookname)s</title>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>"""
 """took out \n"""
 
+schedule_by_room="""<events>
+<room>%(venue)s</room>
+<event><title>%(bookname)s</title>
+<topic>%(event_type)s</topic>
+<time>%(startday)s %(starttimeampm)s</time>
+<blurb><participant>%(speakers)s</participant>  %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
+
+schedule_by_room_hour_template="""<events>
+<room>%(venue)s</room>
+<event><title>%(bookname)s</title>
+<topic>%(event_type)s</topic>
+<time>%(startday)s %(starttimeampm)s</time>
+<blurb><participant>%(speakers)s</participant>  %(bookdescrip)s </blurb></event>"""
+
 extrainfo= """
 <startday>%(startday)s</startday>
 <starttime>%(starttimeampm)s</starttime>
@@ -413,11 +427,14 @@ with open(rp + "2015.penguicon.schedule.json",'w') as myoutput:
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
+  with open(rp + "2015.penguicon.schedule.allrooms.xml",'w') as schedbyroom:
     for index, y in enumerate(sessions):
 #      print y
       if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
-            myoutput.write( "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">")
+            heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
+            myoutput.write(heading)
+            schedbyroom.write(heading)
         #print y
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
@@ -429,10 +446,13 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
 
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
+            schedbyroom.write(schedule_by_room_hour_template % y)
         elif ""  == y['venue']:
             myoutput.write(programbook_template_no_room % y)
+            schedbyroom.write(schedule_by_room % y)
         else: 
             myoutput.write(programbook_template % y)
+            schedbyroom.write(schedule_by_room % y)
 
     myoutput.write('</events>\n')
 myoutput.close()
