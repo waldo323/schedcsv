@@ -36,15 +36,13 @@ schedule_by_room="""<event>
 <room>%(venue)s</room>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
-<time>%(startday)s %(starttimeampm)s</time>
-<blurb><participant>%(speakers)s</participant>  %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
+<time>%(startday)s %(starttimeampm)s</time></event>"""
 
 schedule_by_room_hour_template="""<event>
 <room>%(venue)s</room>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
-<time>%(startday)s %(starttimeampm)s</time>
-<blurb><participant>%(speakers)s</participant>  %(bookdescrip)s </blurb></event>"""
+<time>%(startday)s %(starttimeampm)s</time></event>"""
 
 extrainfo= """
 <startday>%(startday)s</startday>
@@ -562,9 +560,11 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
+                schedbyroom.write("\n<day>All Weekend</day>\n")
             else:
                 temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
+                schedbyroom.write("\n<day>"+ y['dayheader'] + "</day>\n")
             tempstart = y['event_start']
 
         if "50 minutes" == y['duration']:
@@ -650,6 +650,8 @@ currentroom = '<room>Algonquin A</room>'
 # then the variable is reused in the loop
 lastroom = '<room></room>'
 last = '<room></room>'
+lasttime = '<day>All Weekend</day>'
+lastday = '<day>All Weekend</day>'
 firstroom = True
 for row in inputfile:
     if '<room>' in row:
@@ -657,12 +659,12 @@ for row in inputfile:
         if currentroom != lastroom:
             outputfile.write(row)
             lastroom = row
-  #  elif '<day>' in row:
-  #      currentday = row
-  #      #if firstday == False:
-  #      if currentday != lastday:
-  #          outputfile.write(row)
-  #          lastday = row
+    elif '<day>' in row:
+        currentday = row
+        #if firstday == False:
+        if currentday != lastday:
+            outputfile.write(row)
+            lastday = row
         #else:
         #    print "made it here"
         #    print row
