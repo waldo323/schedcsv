@@ -673,9 +673,9 @@ for row in inputfile:
         if currentday != lastday:
             outputfile.write(row)
             lastday = row
-        if firstday == True:
-            outputfile.write(row)
-            firstday = False
+        #if firstday == True:
+        #    outputfile.write(row)
+        #    firstday = False
         #else:
         #    print "made it here"
         #    print row
