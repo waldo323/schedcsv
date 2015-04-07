@@ -553,6 +553,7 @@ schedule by room
 """
 """ reset the tempstart variable so that the heading is added to the top of the files """
 tempstart = "test" 
+printallday = True
 
 sessions.sort(key=itemgetter('venue'))
 with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
@@ -566,20 +567,20 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
             schedbyroom.write(heading)
         #print y
         if not y['All Day Event'] == tempstart:
-            if y['All Day Event'] == "TRUE" :
+            if y['All Day Event'] == "TRUE" and printallday:
                 myoutput.write("\n<day>All Weekend</day>\n")
                 schedbyroom.write("\n<day>All Weekend</day>\n") #schedule_by_room_allweekend_template
-                printallday = True
+                printallday = False
             else:
                 temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
-                printallday = False
+                
             tempstart = y['event_start']
 
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
             schedbyroom.write(schedule_by_room_hour_template % y)
-        elif printallday:
+        elif y['All Day Event'] == "TRUE:
             myoutput.write(programbook_template_no_room % y)
             schedbyroom.write(schedule_by_room_allweekend_template % y)
         else: 
