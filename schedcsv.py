@@ -33,7 +33,7 @@ hourtemplate ="""<event><title>%(bookname)s</title>
 """took out \n"""
 
 schedule_by_room="""<event>
-<room>%(venue)s</room>
+<room>%(venue)s</room><day>%(dayheader)s</day>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time></event>"""
@@ -564,7 +564,6 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
             else:
                 temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
-                schedbyroom.write("\n<day>"+ y['dayheader'] + "</day>\n")
             tempstart = y['event_start']
 
         if "50 minutes" == y['duration']:
