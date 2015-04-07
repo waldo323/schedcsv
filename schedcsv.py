@@ -666,7 +666,7 @@ for row in inputfile:
         if currentroom != lastroom:
             outputfile.write(row)
             lastroom = row
-            lastday = <day>All Weekend</day>
+            lastday = "<day>All Weekend</day>"
     elif '<day>' in row:
         currentday = row
         #if firstday == False:
