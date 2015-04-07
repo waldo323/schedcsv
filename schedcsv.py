@@ -33,13 +33,21 @@ hourtemplate ="""<event><title>%(bookname)s</title>
 """took out \n"""
 
 schedule_by_room="""<event>
-<room>%(venue)s</room><day>%(dayheader)s</day>
+<room>%(venue)s</room>
+<day>%(dayheader)s</day>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time></event>"""
 
 schedule_by_room_hour_template="""<event>
-<room>%(venue)s</room><day>%(dayheader)s</day>
+<room>%(venue)s</room>
+<day>%(dayheader)s</day>
+<title>%(bookname)s</title>
+<topic>%(event_type)s</topic>
+<time>%(startday)s %(starttimeampm)s</time></event>"""
+
+schedule_by_room_allweekend_template="""<event>
+<room>%(venue)s</room>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time></event>"""
@@ -560,7 +568,7 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
-                schedbyroom.write("\n<day>All Weekend</day>\n")
+                schedbyroom.write("\n<day>All Weekend</day>\n") #schedule_by_room_allweekend_template
             else:
                 temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
@@ -658,6 +666,7 @@ for row in inputfile:
         if currentroom != lastroom:
             outputfile.write(row)
             lastroom = row
+            lastday = <day>All Weekend</day>
     elif '<day>' in row:
         currentday = row
         #if firstday == False:
