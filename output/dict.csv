@@ -13909,10 +13909,10 @@ roomnosp,AlgonquinB
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
-event_type,"Life, After-Dark"
+event_type,"Life, After Dark"
 All Day Event,FALSE
 event_end,23:50
-event_type_list,"['Life', 'After-Dark']"
+event_type_list,"['Life', 'After Dark']"
 private,PUBLIC
 endtimeampm,11 PM
 Location,Windover
@@ -13921,17 +13921,17 @@ description,"A dashing tale of gallantry and bawdiness, The Taking of the HMS Vi
 index,302
 speakers,"Jennifer Reisbig, Katherine Hatfield-Nix, Mitchell Peters"
 bookdescrip,"A dashing tale of gallantry and bawdiness, The Taking of the HMS Virginity is the story of two rival captains. The good and glorious Gloria Hymen, who's never been broken, and the evil pirate Captain Richard Cranium... Come see who wins out in this adult oriented pirate themed renaissance festival style show!"
-Track,"Life, After-Dark"
+Track,"Life, After Dark"
 startday,4/25/2015
 Title,Taking of the HMS Vigrinity
 Start Time,23:00
 event_start,23:00
 starttimeampm,11 PM
 End Time,23:50
-tracknosp,"['Life', 'After-Dark']"
+tracknosp,"['Life', 'AfterDark']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '23:00', '4/25/2015', '23:50', 'Windover', 'Life, After-Dark', 'Taking of the HMS Vigrinity', 'Jennifer Reisbig, Katherine Hatfield-Nix, Mitchell Peters', ""A dashing tale of gallantry and bawdiness, The Taking of the HMS Virginity is the story of two rival captains. The good and glorious Gloria Hymen, who's never been broken, and the evil pirate Captain Richard Cranium... Come see who wins out in this adult oriented pirate themed renaissance festival style show!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '23:00', '4/25/2015', '23:50', 'Windover', 'Life, After Dark', 'Taking of the HMS Vigrinity', 'Jennifer Reisbig, Katherine Hatfield-Nix, Mitchell Peters', ""A dashing tale of gallantry and bawdiness, The Taking of the HMS Virginity is the story of two rival captains. The good and glorious Gloria Hymen, who's never been broken, and the evil pirate Captain Richard Cranium... Come see who wins out in this adult oriented pirate themed renaissance festival style show!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Jennifer Reisbig, Katherine Hatfield-Nix, Mitchell Peters"
 avneeds,none
