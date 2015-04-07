@@ -39,7 +39,7 @@ schedule_by_room="""<event>
 <time>%(startday)s %(starttimeampm)s</time></event>"""
 
 schedule_by_room_hour_template="""<event>
-<room>%(venue)s</room>
+<room>%(venue)s</room><day>%(dayheader)s</day>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time></event>"""
