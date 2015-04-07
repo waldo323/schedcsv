@@ -1910,7 +1910,7 @@ End Time,20:50
 tracknosp,['Food']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food \n[Room 517]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food [Room 517]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Marcus Hauser
 avneeds,none
@@ -1924,7 +1924,7 @@ AV Needs,
 name,Flavored Popcorn!
 Private,PUBLIC
 bookname,Flavored Popcorn!
-venue,"Food , [Room 517]"
+venue,Food [Room 517]
 Book Description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
 Presenters,Marcus Hauser
 csvsafedescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!
@@ -5368,7 +5368,7 @@ End Time,9:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Food \n[Room 517]', 'Food', 'Penguicon Coffee Ritual', 'Matt Arnold', 'A solemn celebration of caffeination in our time-honored Penguicon tradition.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Food [Room 517]', 'Food', 'Penguicon Coffee Ritual', 'Matt Arnold', 'A solemn celebration of caffeination in our time-honored Penguicon tradition.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Matt Arnold
 avneeds,none
@@ -5382,7 +5382,7 @@ AV Needs,
 name,Penguicon Coffee Ritual
 Private,PUBLIC
 bookname,Penguicon Coffee Ritual
-venue,"Food , [Room 517]"
+venue,Food [Room 517]
 Book Description,A solemn celebration of caffeination in our time-honored Penguicon tradition.
 Presenters,Matt Arnold
 csvsafedescrip,A solemn celebration of caffeination in our time-honored Penguicon tradition.
@@ -6196,7 +6196,7 @@ End Time,10:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Food \n[Room 517]', 'Food', 'Deconstructing Banana Bread', 'Leigh Mileur', ""A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Food [Room 517]', 'Food', 'Deconstructing Banana Bread', 'Leigh Mileur', ""A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Leigh Mileur
 avneeds,none
@@ -6210,7 +6210,7 @@ AV Needs,
 name,Deconstructing Banana Bread
 Private,PUBLIC
 bookname,Deconstructing Banana Bread
-venue,"Food , [Room 517]"
+venue,Food [Room 517]
 Book Description,"A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."
 Presenters,Leigh Mileur
 csvsafedescrip,A talk about how varying different ingredients changes different aspects of the final product- as demonstrated using Grandma's banana bread recipe as a baseline.
