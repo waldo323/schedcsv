@@ -646,7 +646,7 @@ currentroom = '<room>Algonquin A</room>'
 # before any other events in the program book
 # then the variable is reused in the loop
 lastroom = '<room></room>'
-lastday = '<room></room>'
+last = '<room></room>'
 firstroom = True
 for row in inputfile:
     if '<room>' in row:
@@ -660,11 +660,11 @@ for row in inputfile:
   #      if currentday != lastday:
   #          outputfile.write(row)
   #          lastday = row
-        else:
-            print "made it here"
-            print row
-            outputfile.write(row)
-            firstroom = False
+        #else:
+        #    print "made it here"
+        #    print row
+        #    outputfile.write(row)
+        #    firstroom = False
     else: # If this is not a time row
         outputfile.write(row)
 
