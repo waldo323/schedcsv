@@ -664,7 +664,7 @@ firstday = True
 for row in inputfile:
     if '<room>' in row:
         currentroom = row
-        if currentroom != lastroom && :
+        if currentroom != lastroom:
             outputfile.write(row)
             lastroom = row
             lastday = "<day>All Weekend</day>"
@@ -672,6 +672,7 @@ for row in inputfile:
         currentday = row
         if row == "<day>All Weekend</day>":
             outputfile.write("got here")
+            outputfile.write(lastday)
         if currentday != lastday:
             outputfile.write(row)
             lastday = row
