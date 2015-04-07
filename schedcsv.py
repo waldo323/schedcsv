@@ -661,6 +661,8 @@ for row in inputfile:
   #          outputfile.write(row)
   #          lastday = row
         else:
+            print "made it here"
+            print row
             outputfile.write(row)
             firstroom = False
     else: # If this is not a time row
