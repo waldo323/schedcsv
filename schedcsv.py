@@ -569,15 +569,17 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
                 schedbyroom.write("\n<day>All Weekend</day>\n") #schedule_by_room_allweekend_template
+                printallday = True
             else:
                 temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
+                printallday = False
             tempstart = y['event_start']
 
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
             schedbyroom.write(schedule_by_room_hour_template % y)
-        elif y['All Day Event'] == "TRUE":
+        elif printallday:
             myoutput.write(programbook_template_no_room % y)
             schedbyroom.write(schedule_by_room_allweekend_template % y)
         else: 
