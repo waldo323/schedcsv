@@ -631,6 +631,41 @@ for row in inputfile:
 inputfile.close()
 outputfile.close()
 
+"""
+2015.penguicon.schedule.allrooms.xml
+"""
+# Fix the multiple entries of the current room issue  (thanks Matt)
+inputfile = open(rp + '2015.penguicon.schedule.allrooms.xml', 'r')
+outputfile = open('penguicon.schedules.per.room.xml', 'w')
 
+# current room is set to the initial room which is currently no room... this could change year to year
+currentroom = '<room>Algonquin A</room>'
 
+# this line is used for 'all weekend events' 
+# which are typically listed in the beginning
+# before any other events in the program book
+# then the variable is reused in the loop
+lastroom = '<room></room>'
+lastday = '<room></room>'
+firstroom = True
+for row in inputfile:
+    if '<room>' in row:
+        currentroom = row
+        if currentroom != lastroom:
+            outputfile.write(row)
+            lastroom = row
+  #  elif '<day>' in row:
+  #      currentday = row
+  #      #if firstday == False:
+  #      if currentday != lastday:
+  #          outputfile.write(row)
+  #          lastday = row
+        else:
+            outputfile.write(row)
+            firstroom = False
+    else: # If this is not a time row
+        outputfile.write(row)
+
+inputfile.close()
+outputfile.close()
 print "probable success processing csv and exporting to various formats"
