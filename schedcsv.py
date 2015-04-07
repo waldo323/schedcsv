@@ -34,14 +34,14 @@ hourtemplate ="""<event><title>%(bookname)s</title>
 
 schedule_by_room="""<event>
 <room>%(venue)s</room>
-<event><title>%(bookname)s</title>
+<title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time>
 <blurb><participant>%(speakers)s</participant>  %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
 
 schedule_by_room_hour_template="""<event>
 <room>%(venue)s</room>
-<event><title>%(bookname)s</title>
+<title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time>
 <blurb><participant>%(speakers)s</participant>  %(bookdescrip)s </blurb></event>"""
