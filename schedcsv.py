@@ -32,14 +32,14 @@ hourtemplate ="""<event><title>%(bookname)s</title>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>"""
 """took out \n"""
 
-schedule_by_room="""<events>
+schedule_by_room="""<event>
 <room>%(venue)s</room>
 <event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(startday)s %(starttimeampm)s</time>
 <blurb><participant>%(speakers)s</participant>  %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
 
-schedule_by_room_hour_template="""<events>
+schedule_by_room_hour_template="""<event>
 <room>%(venue)s</room>
 <event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
@@ -427,7 +427,7 @@ with open(rp + "2015.penguicon.schedule.json",'w') as myoutput:
 ## for each session in the list of sessions 
 #"""
 with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
-  with open(rp + "2015.penguicon.schedule.allrooms.xml",'w') as schedbyroom:
+  with open(rp + "2015.penguicon.schedule.allrooms.mixedin.xml",'w') as schedbyroom:
     for index, y in enumerate(sessions):
 #      print y
       if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
@@ -455,8 +455,11 @@ with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
             schedbyroom.write(schedule_by_room % y)
 
     myoutput.write('</events>\n')
+    schedbyroom.write('</events>\n')
 myoutput.close()
 #"""
+
+
 
 # schedule by room and by speaker output
 
@@ -537,6 +540,52 @@ writer = csv.writer(open(rp + 'dict.csv', 'wb'))
 for index, y in enumerate(sessions):
     for key, value in y.items():
         writer.writerow([key, value])
+
+
+"""
+schedule by room
+"""
+sessions.sort(key=itemgetter('venue'))
+with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
+  with open(rp + "2015.penguicon.schedule.allrooms.xml",'w') as schedbyroom:
+    for index, y in enumerate(sessions):
+#      print y
+      if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
+        if tempstart == "test":
+            heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
+            myoutput.write(heading)
+            schedbyroom.write(heading)
+        #print y
+        if not y['All Day Event'] == tempstart:
+            if y['All Day Event'] == "TRUE" :
+                myoutput.write("\n<day>All Weekend</day>\n")
+            else:
+                temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
+                myoutput.write(temptext)
+            tempstart = y['event_start']
+
+        if "50 minutes" == y['duration']:
+            myoutput.write(hourtemplate % y)
+            schedbyroom.write(schedule_by_room_hour_template % y)
+        elif ""  == y['venue']:
+            myoutput.write(programbook_template_no_room % y)
+            schedbyroom.write(schedule_by_room % y)
+        else: 
+            myoutput.write(programbook_template % y)
+            schedbyroom.write(schedule_by_room % y)
+
+    myoutput.write('</events>\n')
+    schedbyroom.write('</events>\n')
+myoutput.close()
+
+
+
+
+"""
+end schedule by room
+"""
+
+
 
 # write out the speakers and their events ...this doesn't work yet
 #speaker_events_dict
