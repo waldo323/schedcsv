@@ -580,7 +580,7 @@ with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
             schedbyroom.write(schedule_by_room_hour_template % y)
-        elif y['All Day Event'] == "TRUE:
+        elif y['All Day Event'] == "TRUE":
             myoutput.write(programbook_template_no_room % y)
             schedbyroom.write(schedule_by_room_allweekend_template % y)
         else: 
