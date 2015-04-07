@@ -672,8 +672,6 @@ for row in inputfile:
         currentday = row
         if currentday != lastday:
             outputfile.write(row)
-            if row == "<day>All Weekend</day>":
-                outputfile.write("got here")
             lastday = row
         #if firstday == True:
         #    outputfile.write(row)
@@ -684,6 +682,8 @@ for row in inputfile:
         #    outputfile.write(row)
         #    firstroom = False
     else: # If this is not a time row
+        if row == "<day>All Weekend</day>":
+            outputfile.write("got here")
         outputfile.write(row)
 
 inputfile.close()
