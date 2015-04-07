@@ -2001,10 +2001,10 @@
         "endtimeampm": "5 PM",
         "Location": "Charlevoix A",
         "duration": "50 minutes",
-        "description": "A guided meditation where attendees get to work with with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards., ",
+        "description": "A guided meditation where attendees get to work with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards., ",
         "index": 28,
         "speakers": "Shetan Noir ",
-        "bookdescrip": "A guided meditation where attendees get to work with with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
+        "bookdescrip": "A guided meditation where attendees get to work with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
         "Track": "Life",
         "startday": "4/24/2015",
         "Title": "Thought Experiments: Guided Meditation",
@@ -2026,7 +2026,7 @@
             "Life",
             "Thought Experiments: Guided Meditation",
             "Shetan Noir ",
-            "A guided meditation where attendees get to work with with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards.\n",
+            "A guided meditation where attendees get to work with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards.\n",
             "00hr:50min",
             "Sound System",
             "FALSE",
@@ -2043,16 +2043,16 @@
         "speakernosplist": [
             "ShetanNoir"
         ],
-        "caldescrip": "A guided meditation where attendees get to work with with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards.\n",
+        "caldescrip": "A guided meditation where attendees get to work with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards.\n",
         "endtime": "17:50",
         "AV Needs": "Sound System",
         "name": "Thought Experiments: Guided Meditation",
         "Private": "PUBLIC",
         "bookname": "Thought Experiments: Guided Meditation",
         "venue": "Charlevoix A",
-        "Book Description": "A guided meditation where attendees get to work with with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
+        "Book Description": "A guided meditation where attendees get to work with mind mapping, goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
         "Presenters": "Shetan Noir ",
-        "csvsafedescrip": "A guided meditation where attendees get to work with with mind mapping- goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
+        "csvsafedescrip": "A guided meditation where attendees get to work with mind mapping- goal setting and thought experiments. Attendees will have a chance to write down and draw out what comes to their mind afterwards. ",
         "speakernosp": "ShetanNoir",
         "starttime": "17:00",
         "roomnosp": "CharlevoixA",
@@ -2669,11 +2669,11 @@
     },
     {
         "allday": "FALSE",
-        "event_type": "Videograming",
+        "event_type": "Videogaming",
         "All Day Event": "FALSE",
         "event_end": "22:00",
         "event_type_list": [
-            "Videograming"
+            "Videogaming"
         ],
         "private": "PUBLIC",
         "endtimeampm": "10 PM",
@@ -2683,7 +2683,7 @@
         "index": 37,
         "speakers": "Joe Greene",
         "bookdescrip": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
-        "Track": "Videograming",
+        "Track": "Videogaming",
         "startday": "4/24/2015",
         "Title": "Artemis: The Starship Bridge Simulator (Friday)",
         "Start Time": "18:00",
@@ -2691,7 +2691,7 @@
         "starttimeampm": "6 PM",
         "End Time": "22:00",
         "tracknosp": [
-            "Videograming"
+            "Videogaming"
         ],
         "endday": "4/24/2015",
         "dayheader": "FRIDAY, APRIL 24",
@@ -2701,7 +2701,7 @@
             "4/24/2015",
             "22:00",
             "Baldwin Board Room",
-            "Videograming",
+            "Videogaming",
             "Artemis: The Starship Bridge Simulator (Friday)",
             "Joe Greene",
             "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
@@ -2879,11 +2879,11 @@
     },
     {
         "allday": "FALSE",
-        "event_type": "Videograming, Life",
+        "event_type": "Videogaming, Life",
         "All Day Event": "FALSE",
         "event_end": "19:00",
         "event_type_list": [
-            "Videograming",
+            "Videogaming",
             "Life"
         ],
         "private": "PUBLIC",
@@ -2894,7 +2894,7 @@
         "index": 40,
         "speakers": "Craig Hibbard",
         "bookdescrip": "From helping others level up to coping with differing personalities, we'll discuss some of the life lessons we can take away from being in a gaming guild. There's a lot more than most people realize.",
-        "Track": "Videograming, Life",
+        "Track": "Videogaming, Life",
         "startday": "4/24/2015",
         "Title": "Learning from your Guild Experiences",
         "Start Time": "18:00",
@@ -2902,7 +2902,7 @@
         "starttimeampm": "6 PM",
         "End Time": "19:00",
         "tracknosp": [
-            "Videograming",
+            "Videogaming",
             "Life"
         ],
         "endday": "4/24/2015",
@@ -2913,7 +2913,7 @@
             "4/24/2015",
             "19:00",
             "Charlevoix C",
-            "Videograming, Life",
+            "Videogaming, Life",
             "Learning from your Guild Experiences",
             "Craig Hibbard",
             "From helping others level up to coping with differing personalities, we'll discuss some of the life lessons we can take away from being in a gaming guild. There's a lot more than most people realize.",
@@ -4247,7 +4247,7 @@
         "duration": "50 minutes",
         "description": "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game, either new or from your childhood, is welcome.",
         "index": 59,
-        "speakers": "Jessica Roland",
+        "speakers": "Jessica Roland, Phil Chase",
         "bookdescrip": "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game, either new or from your childhood, is welcome.",
         "Track": "Gaming",
         "startday": "4/24/2015",
@@ -4269,7 +4269,7 @@
             "Nicolet",
             "Gaming",
             "Board Games for Young Kids that are Actually Fun",
-            "Jessica Roland",
+            "Jessica Roland, Phil Chase",
             "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game, either new or from your childhood, is welcome.",
             "00hr:50min",
             "",
@@ -4277,15 +4277,17 @@
             "PUBLIC"
         ],
         "End Date": "4/24/2015",
-        "calspeakers": "Jessica Roland",
+        "calspeakers": "Jessica Roland, Phil Chase",
         "avneeds": "none",
         "speakerlist": [
-            "Jessica Roland"
+            "Jessica Roland",
+            "Phil Chase"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
-            "JessicaRoland"
+            "JessicaRoland",
+            "PhilChase"
         ],
         "caldescrip": "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game, either new or from your childhood, is welcome.",
         "endtime": "19:50",
@@ -4295,9 +4297,9 @@
         "bookname": "Board Games for Young Kids that are Actually Fun",
         "venue": "Nicolet",
         "Book Description": "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game, either new or from your childhood, is welcome.",
-        "Presenters": "Jessica Roland",
+        "Presenters": "Jessica Roland, Phil Chase",
         "csvsafedescrip": "Let's face it... board games for the younger geeklings in our life can leave a lot to be desired. Come and join us for an intro to some of the better games on the market right now that won't make you want to watch paint dry. Demos will be on hand with a focus on games for those 10 and under. Sharing of your favorite game- either new or from your childhood- is welcome.",
-        "speakernosp": "JessicaRoland",
+        "speakernosp": "JessicaRoland,PhilChase",
         "starttime": "19:00",
         "roomnosp": "Nicolet",
         "Start Date": "4/24/2015",
@@ -9129,11 +9131,11 @@
     },
     {
         "allday": "FALSE",
-        "event_type": "Videograming",
+        "event_type": "Videogaming",
         "All Day Event": "FALSE",
         "event_end": "18:00",
         "event_type_list": [
-            "Videograming"
+            "Videogaming"
         ],
         "private": "PUBLIC",
         "endtimeampm": "6 PM",
@@ -9143,7 +9145,7 @@
         "index": 127,
         "speakers": "Joe Greene",
         "bookdescrip": "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
-        "Track": "Videograming",
+        "Track": "Videogaming",
         "startday": "4/25/2015",
         "Title": "Artemis: The Starship Bridge Simulator (Saturday)",
         "Start Time": "10:00",
@@ -9151,7 +9153,7 @@
         "starttimeampm": "10 AM",
         "End Time": "18:00",
         "tracknosp": [
-            "Videograming"
+            "Videogaming"
         ],
         "endday": "4/25/2015",
         "dayheader": "SATURDAY, APRIL 25",
@@ -9161,7 +9163,7 @@
             "4/25/2015",
             "18:00",
             "Baldwin Board Room",
-            "Videograming",
+            "Videogaming",
             "Artemis: The Starship Bridge Simulator (Saturday)",
             "Joe Greene",
             "Come be a member of the bridge crew in Artemis, the Starship Bridge Simulator. One hour sessions throughout the weekend.",
@@ -15741,7 +15743,7 @@
         "duration": "50 minutes",
         "description": "You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!",
         "index": 218,
-        "speakers": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd",
+        "speakers": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd, Amanda Long-Adams, James Hice",
         "bookdescrip": "You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!",
         "Track": "Penguicon Events",
         "startday": "4/25/2015",
@@ -15763,7 +15765,7 @@
             "Board of Regents",
             "Penguicon Events",
             "Penguicon Board Meeting ",
-            "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd",
+            "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd, Amanda Long-Adams, James Hice",
             "You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!",
             "00hr:50min",
             "",
@@ -15771,14 +15773,16 @@
             "PUBLIC"
         ],
         "End Date": "4/25/2015",
-        "calspeakers": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd",
+        "calspeakers": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd, Amanda Long-Adams, James Hice",
         "avneeds": "none",
         "speakerlist": [
             "Steve Gutterman",
             "Randy Bradakis",
             "Matt Arnold",
             "Jer Lance",
-            "Gini Judd"
+            "Gini Judd",
+            "Amanda Long-Adams",
+            "James Hice"
         ],
         "hours": 0,
         "totalminutes": 50,
@@ -15787,7 +15791,9 @@
             "RandyBradakis",
             "MattArnold",
             "JerLance",
-            "GiniJudd"
+            "GiniJudd",
+            "AmandaLong-Adams",
+            "JamesHice"
         ],
         "caldescrip": "You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!",
         "endtime": "16:50",
@@ -15797,9 +15803,9 @@
         "bookname": "Penguicon Board Meeting ",
         "venue": "Board of Regents",
         "Book Description": "You've done the convention, you've met the staff, and you've even socialized with the ConCom. But what about those *other* Penguicon people? Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke? Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon? Come to the Board of Directors meeting and see!",
-        "Presenters": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd",
+        "Presenters": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd, Amanda Long-Adams, James Hice",
         "csvsafedescrip": "You've done the convention- you've met the staff- and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules- have their fingers on the money- and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum- and where they are taking Penguicon?  Come to the Board of Directors meeting and see!",
-        "speakernosp": "SteveGutterman,RandyBradakis,MattArnold,JerLance,GiniJudd",
+        "speakernosp": "SteveGutterman,RandyBradakis,MattArnold,JerLance,GiniJudd,AmandaLong-Adams,JamesHice",
         "starttime": "16:00",
         "roomnosp": "BoardofRegents",
         "Start Date": "4/25/2015",
