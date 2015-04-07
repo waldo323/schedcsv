@@ -1,51 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <day>All Weekend</day>
 <event>
-<room></room><day>FRIDAY, APRIL 24</day>
+<room></room>
+<day>FRIDAY, APRIL 24</day>
 <title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Find Tux</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Find Waldo</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Free Fates Fortune Telling Booth</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Giant Jenga</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Google Ingress Dead Drop </title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>NUET Scouts</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Retro-style Video Games</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Ribbon Fairy</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event>
+<day>All Weekend</day>
 <event>
+<day>FRIDAY, APRIL 24</day>
 <title>Where in the World?</title>
 <topic>Mayhem</topic>
 <time>4/24/2015 4 PM</time></event><event>
-<room>Algonquin A</room><day>FRIDAY, APRIL 24</day>
+<room>Algonquin A</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Combat Mindset</title>
 <topic>Action Adventure</topic>
 <time>4/24/2015 5 PM</time></event><event>
@@ -61,7 +83,7 @@
 <title>Qigong: How to Breathe Like a Steampunk Robot</title>
 <topic>Life</topic>
 <time>4/24/2015 11 PM</time></event><event>
-<room>Algonquin A</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Close Quarters Combat Martial Arts Demo &amp; Seminar</title>
 <topic>Action Adventure</topic>
 <time>4/25/2015 8 AM</time></event><event>
@@ -89,7 +111,7 @@
 <title>Beginning Kali</title>
 <topic>Action Adventure</topic>
 <time>4/25/2015 9 PM</time></event><event>
-<room>Algonquin A</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Fitness Boot Camp</title>
 <topic>Life</topic>
 <time>4/26/2015 8 AM</time></event><event>
@@ -105,7 +127,8 @@
 <title>SCA Fencing Demo</title>
 <topic>Action Adventure</topic>
 <time>4/26/2015 2 PM</time></event><event>
-<room>Algonquin B</room><day>SATURDAY, APRIL 25</day>
+<room>Algonquin B</room>
+<day>SATURDAY, APRIL 25</day>
 <title>Troubleshooting in Tech, Health, and Beyond</title>
 <topic>Tech, Life</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -151,7 +174,7 @@
 <title>Performance: Mikey Mason</title>
 <topic>Music</topic>
 <time>4/25/2015 11 PM</time></event><event>
-<room>Algonquin B</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Chip Rave w/ #teamswoop</title>
 <topic>Music</topic>
 <time>4/26/2015 12 AM</time></event><event>
@@ -176,7 +199,8 @@
 <title>How to Get (and Keep) a Tech Job</title>
 <topic>Tech, Life</topic>
 <time>4/26/2015 2 PM</time></event><event>
-<room>Algonquin B/C</room><day>FRIDAY, APRIL 24</day>
+<room>Algonquin B/C</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Opening Ceremonies</title>
 <topic>Penguicon Events</topic>
 <time>4/24/2015 6 PM</time></event><event>
@@ -186,11 +210,12 @@
 <title>KEYNOTE: Data and Goliath</title>
 <topic>Tech</topic>
 <time>4/24/2015 8 PM</time></event><event>
-<room>Algonquin B/C</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Closing Ceremonies</title>
 <topic>Penguicon Events</topic>
 <time>4/26/2015 4 PM</time></event><event>
-<room>Algonquin C</room><day>SATURDAY, APRIL 25</day>
+<room>Algonquin C</room>
+<day>SATURDAY, APRIL 25</day>
 <title>Living in the Eye of the Storm: Neurodiversity in Relationships</title>
 <topic>Life</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -221,7 +246,7 @@
 <title>Sports Fandom in the Geek Community</title>
 <topic>Life</topic>
 <time>4/25/2015 7 PM</time></event><event>
-<room>Algonquin C</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>How to Survive in the Corporate World When You’re Different</title>
 <topic>Life</topic>
 <time>4/26/2015 10 AM</time></event><event>
@@ -231,7 +256,8 @@
 <title>Polyphasic Sleep How-To</title>
 <topic>Life</topic>
 <time>4/26/2015 12 PM</time></event><event>
-<room>Algonquin D</room><day>FRIDAY, APRIL 24</day>
+<room>Algonquin D</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Practical Home Networking Using a Linux Router</title>
 <topic>Tech</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -253,7 +279,7 @@
 <title>Advancements in 3D Printed Firearm Technology</title>
 <topic>Tech, Action Adventure</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Algonquin D</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>TOR: Layers of Anonymity</title>
 <topic>Tech</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -293,7 +319,7 @@
 <title>Independent SW/HW: Bucking Big Industry for Fun and Profit</title>
 <topic>Tech</topic>
 <time>4/25/2015 9 PM</time></event><event>
-<room>Algonquin D</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Social Network Analysis: NetworkX and Gephi</title>
 <topic>Tech</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -315,22 +341,24 @@
 <title>Eric S. Raymond: Ask Me Anything</title>
 <topic>Tech</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Baldwin Board Room</room><day>FRIDAY, APRIL 24</day>
+<room>Baldwin Board Room</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Artemis: The Starship Bridge Simulator (Friday)</title>
 <topic>Videogaming</topic>
 <time>4/24/2015 6 PM</time></event><event>
-<room>Baldwin Board Room</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Artemis: The Starship Bridge Simulator (Saturday)</title>
 <topic>Videogaming</topic>
 <time>4/25/2015 10 AM</time></event><event>
-<room>Baldwin Board Room</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Artemis: The Starship Bridge Simulator (Sunday)</title>
 <topic>Videogaming</topic>
 <time>4/26/2015 10 AM</time></event><event>
 <title>LIVE PODCAST: Snake Oil Comics</title>
 <topic>Webcomics</topic>
 <time>4/26/2015 2 PM</time></event><event>
-<room>Board of Governors</room><day>FRIDAY, APRIL 24</day>
+<room>Board of Governors</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Beginning Cosplay</title>
 <topic>Costuming</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -355,7 +383,7 @@
 <title>Open Kink</title>
 <topic>After Dark</topic>
 <time>4/24/2015 11 PM</time></event><event>
-<room>Board of Governors</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Game Like a Pirate</title>
 <topic>Gaming</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -398,7 +426,7 @@
 <title>Sex Toys with S&amp;M</title>
 <topic>After Dark</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Board of Governors</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Scriptwriting Tips</title>
 <topic>Film</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -420,7 +448,8 @@
 <title>The Modern Agoras or Where Do We Meet?</title>
 <topic>Life</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Board of Regents</room><day>FRIDAY, APRIL 24</day>
+<room>Board of Regents</room>
+<day>FRIDAY, APRIL 24</day>
 <title>BoF: Storytelling in Video Games</title>
 <topic>Videogaming</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -442,7 +471,7 @@
 <title>BoF: But is it Horror?</title>
 <topic>Literature, Film</topic>
 <time>4/24/2015 11 PM</time></event><event>
-<room>Board of Regents</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>BoF: But Is It Fantasy?</title>
 <topic>Literature</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -470,7 +499,7 @@
 <title>BoF: Sherlocked!</title>
 <topic>Film</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Board of Regents</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>BoF: Compliments Confidence </title>
 <topic>Life</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -492,7 +521,8 @@
 <title>BoF: Homesteading</title>
 <topic>Eco</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Board of Trustees</room><day>FRIDAY, APRIL 24</day>
+<room>Board of Trustees</room>
+<day>FRIDAY, APRIL 24</day>
 <title>BoF: Research vs. Faking It</title>
 <topic>Literature</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -505,7 +535,7 @@
 <title>BoF: Polyamory</title>
 <topic>Life</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Board of Trustees</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>BoF: Christians in Fandom </title>
 <topic>Life</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -527,7 +557,7 @@
 <title>BoF: Nerdy Tatoos</title>
 <topic>Life</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Board of Trustees</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Learn to Draw a Dragon</title>
 <topic>Webcomics</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -543,7 +573,8 @@
 <title>Hearthstone Fireside Gathering</title>
 <topic>Videogaming</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Charlevoix A</room><day>FRIDAY, APRIL 24</day>
+<room>Charlevoix A</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Thought Experiments: Guided Meditation</title>
 <topic>Life</topic>
 <time>4/24/2015 5 PM</time></event><event>
@@ -562,7 +593,7 @@
 <title>DJ Set: DJ Seanni B </title>
 <topic>Music</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Charlevoix A</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>DJ Set: Walk in Circles </title>
 <topic>Music</topic>
 <time>4/25/2015 12 AM</time></event><event>
@@ -599,7 +630,7 @@
 <title>Costume Contest</title>
 <topic>Penguicon Events</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Charlevoix A</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>LIVE PODCAST: Sunday Morning Linux Review</title>
 <topic>Tech</topic>
 <time>4/26/2015 8 AM</time></event><event>
@@ -615,14 +646,15 @@
 <title>E-Books: An Examination of the Current State of Digital Publishing</title>
 <topic>Literature</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Charlevoix B</room><day>FRIDAY, APRIL 24</day>
+<room>Charlevoix B</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Bash Scripting 201</title>
 <topic>Tech</topic>
 <time>4/24/2015 4 PM</time></event><event>
 <title>Introduction to Python</title>
 <topic>Tech</topic>
 <time>4/24/2015 5 PM</time></event><event>
-<room>Charlevoix B</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Engineer's Guide to Self Defense</title>
 <topic>Life</topic>
 <time>4/25/2015 8 AM</time></event><event>
@@ -662,7 +694,7 @@
 <title>Mark Reads Smut</title>
 <topic></topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Charlevoix B</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Tcl on Raspberry Pi</title>
 <topic>Tech</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -684,7 +716,8 @@
 <title>Misconceptions of Scienctific Work</title>
 <topic>Science, Life</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Charlevoix C</room><day>FRIDAY, APRIL 24</day>
+<room>Charlevoix C</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Marketing Online Content with Social Media</title>
 <topic>Literature</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -709,7 +742,7 @@
 <title>Cryptozoolgy and the Paranormal in the Great Lakes Area</title>
 <topic>After Dark</topic>
 <time>4/24/2015 11 PM</time></event><event>
-<room>Charlevoix C</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>So You Want to Run a Race</title>
 <topic>Life, Action Adventure</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -749,7 +782,7 @@
 <title>Why Can't Ashley Sing</title>
 <topic>Tech, Music</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Charlevoix C</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Teaching Open Source in Schools</title>
 <topic>Tech</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -771,14 +804,15 @@
 <title>Cutting Edge Neuroscience or Science Fiction</title>
 <topic>Science</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>ConSuite</room><day>FRIDAY, APRIL 24</day>
+<room>ConSuite</room>
+<day>FRIDAY, APRIL 24</day>
 <title>LN2 Volunteer Training</title>
 <topic></topic>
 <time>4/24/2015 7 PM</time></event><event>
 <title>LN2 Fantasy and Science Fiction Ice Cream</title>
 <topic>Food</topic>
 <time>4/24/2015 8 PM</time></event><event>
-<room>ConSuite</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Open Soda Demo</title>
 <topic>Food</topic>
 <time>4/25/2015 11 AM</time></event><event>
@@ -788,25 +822,27 @@
 <title>LN2 Improvisational Ice Cream</title>
 <topic>Food</topic>
 <time>4/25/2015 2 PM</time></event><event>
-<room>ConSuite</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Rethinking Your Food Plate</title>
 <topic>Food</topic>
 <time>4/26/2015 8 AM</time></event><event>
 <title>LN2 Sunday Brunch Ice Cream</title>
 <topic>Food</topic>
 <time>4/26/2015 10 AM</time></event><event>
-<room>Food , [Room 517]</room><day>FRIDAY, APRIL 24</day>
+<room>Food , [Room 517]</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Flavored Popcorn!</title>
 <topic>Food</topic>
 <time>4/24/2015 6 PM</time></event><event>
-<room>Food , [Room 517]</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Penguicon Coffee Ritual</title>
 <topic>Food</topic>
 <time>4/25/2015 9 AM</time></event><event>
 <title>Deconstructing Banana Bread</title>
 <topic>Food</topic>
 <time>4/25/2015 10 AM</time></event><event>
-<room>Food [Room 517]</room><day>SATURDAY, APRIL 25</day>
+<room>Food [Room 517]</room>
+<day>SATURDAY, APRIL 25</day>
 <title>PenguiPasta With Some Sauce Bosses</title>
 <topic>Food</topic>
 <time>4/25/2015 11 AM</time></event><event>
@@ -828,7 +864,7 @@
 <title>Mixology</title>
 <topic>Food</topic>
 <time>4/25/2015 7 PM</time></event><event>
-<room>Food [Room 517]</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>What the Heck is Switchel?</title>
 <topic>Food</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -844,7 +880,8 @@
 <title>Silicone Casting for Cheap Bastards</title>
 <topic>Costuming, DIY</topic>
 <time>4/26/2015 1 PM</time></event><event>
-<room>Gaming [Lobby]</room><day>FRIDAY, APRIL 24</day>
+<room>Gaming [Lobby]</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Halaster's Tea Party: A D&amp;D/Pathfinder Dungeon Crawl (Friday)</title>
 <topic>Gaming</topic>
 <time>4/24/2015 6 PM</time></event><event>
@@ -860,7 +897,7 @@
 <title>Lords of Waterdeep</title>
 <topic>Gaming</topic>
 <time>4/24/2015 9 PM</time></event><event>
-<room>Gaming [Lobby]</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Hanafuda Koi Koi</title>
 <topic>Gaming</topic>
 <time>4/25/2015 10 AM</time></event><event>
@@ -882,14 +919,15 @@
 <title>Tzolkin</title>
 <topic>Gaming</topic>
 <time>4/25/2015 6 PM</time></event><event>
-<room>Gaming [Lobby]</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Village</title>
 <topic>Gaming</topic>
 <time>4/26/2015 9 AM</time></event><event>
 <title>Carabande (aka PitchCar)</title>
 <topic>Gaming</topic>
 <time>4/26/2015 1 PM</time></event><event>
-<room>Hamlin</room><day>FRIDAY, APRIL 24</day>
+<room>Hamlin</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Beta Readers' Importance</title>
 <topic>Literature</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -908,7 +946,7 @@
 <title>Speculative Fiction Poetry</title>
 <topic>Literature</topic>
 <time>4/24/2015 9 PM</time></event><event>
-<room>Hamlin</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>DIY GoPro Mounts</title>
 <topic>DIY</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -951,7 +989,7 @@
 <title>Sci Fi Vehicle Showdown</title>
 <topic>Life</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Hamlin</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Polytheist Religions for Writers</title>
 <topic>Literature</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -973,11 +1011,12 @@
 <title>BoF: XBox One vs. Playstation 4 -- Who "Won" the Next Gen Console War?</title>
 <topic>Videogaming</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Lobby [Near Elevators]</room><day>FRIDAY, APRIL 24</day>
+<room>Lobby [Near Elevators]</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Virtual Reality Headset Demo with Game Face Labs (Friday)</title>
 <topic>Tech</topic>
 <time>4/24/2015 7 PM</time></event><event>
-<room>Lobby [Near Elevators]</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Archery Lessons!</title>
 <topic>Action Adventure</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -993,15 +1032,17 @@
 <title>The World Around You Is Not What It Seems…</title>
 <topic>Mayhem</topic>
 <time>4/25/2015 5 PM</time></event><event>
-<room>Lobby [Near Elevators]</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Virtual Reality Headset Demo with Game Face Labs (Sunday)</title>
 <topic>Tech</topic>
 <time>4/26/2015 12 PM</time></event><event>
-<room>Maker Space [Board of Directors]</room><day>SATURDAY, APRIL 25</day>
+<room>Maker Space [Board of Directors]</room>
+<day>SATURDAY, APRIL 25</day>
 <title>Penguicon Robot Build</title>
 <topic>DIY, Costuming</topic>
 <time>4/25/2015 12 PM</time></event><event>
-<room>Montcalm</room><day>FRIDAY, APRIL 24</day>
+<room>Montcalm</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Comic and Graphic Novel Writing</title>
 <topic>Webcomics, Literature</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -1020,7 +1061,7 @@
 <title>BDSM: Defining your D/s Dynamic</title>
 <topic>After Dark</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Montcalm</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Level up with HabitRPG </title>
 <topic>Life, Gaming</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -1045,7 +1086,7 @@
 <title>BDSM: Violet Wands</title>
 <topic>After Dark</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Montcalm</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Getting Things Done (GTD) under Linux</title>
 <topic>Tech, Life</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -1061,7 +1102,8 @@
 <title>Steampunk Guns in the Real World</title>
 <topic>Literature, Costuming</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Nicolet</room><day>FRIDAY, APRIL 24</day>
+<room>Nicolet</room>
+<day>FRIDAY, APRIL 24</day>
 <title>How to Improve Your Con Experience as an Introvert</title>
 <topic>Life</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -1077,7 +1119,7 @@
 <title>LIVE PODCAST: Demon Lobster Presents "Sanity Claws Radio!"</title>
 <topic>Life</topic>
 <time>4/24/2015 9 PM</time></event><event>
-<room>Nicolet</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Learn to Play to Win at Hanafuda Koi Koi</title>
 <topic>Gaming</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -1108,7 +1150,7 @@
 <title>LIVE PODCAST: IT in the D</title>
 <topic>Tech</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Nicolet</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Creature Costumes</title>
 <topic>Costuming</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -1127,22 +1169,24 @@
 <title>More Fun with High-Voltage Toys</title>
 <topic>DIY</topic>
 <time>4/26/2015 2 PM</time></event><event>
-<room>Outside</room><day>FRIDAY, APRIL 24</day>
+<room>Outside</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Telescope Observing: The Moon (Friday)</title>
 <topic>Science</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Outside</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Telescope Observing: The Sun (Saturday)</title>
 <topic>Science</topic>
 <time>4/25/2015 12 PM</time></event><event>
 <title>Telescope Observing: The Moon (Saturday)</title>
 <topic>Science</topic>
 <time>4/25/2015 10 PM</time></event><event>
-<room>Outside</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Telescope Observing: The Sun (Sunday)</title>
 <topic>Science</topic>
 <time>4/26/2015 12 PM</time></event><event>
-<room>Portage Auditorium</room><day>FRIDAY, APRIL 24</day>
+<room>Portage Auditorium</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Game Bangers, the D&amp;D Parody Webseries Episodes 1-3</title>
 <topic>Film</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -1161,7 +1205,7 @@
 <title>Dawn and Greg's Film Roast</title>
 <topic>Film</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Portage Auditorium</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>DIY Stop Action Movie Making with OpenShot</title>
 <topic>Tech</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -1183,7 +1227,7 @@
 <title>The Smithee Awards</title>
 <topic>Film, After Dark</topic>
 <time>4/25/2015 8 PM</time></event><event>
-<room>Portage Auditorium</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>The Trials and Tribulations of the Artist's Lifestyle</title>
 <topic>Life, Webcomics, Film</topic>
 <time>4/26/2015 9 AM</time></event><event>
@@ -1199,7 +1243,8 @@
 <title>Mystery Spatula Theater</title>
 <topic>Film</topic>
 <time>4/26/2015 3 PM</time></event><event>
-<room>Restaurant</room><day>FRIDAY, APRIL 24</day>
+<room>Restaurant</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Miniatures Paint and Take (Friday)</title>
 <topic>DIY</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -1209,7 +1254,7 @@
 <title>Guest of Honor Social Hour</title>
 <topic>Penguicon Events</topic>
 <time>4/24/2015 9 PM</time></event><event>
-<room>Restaurant</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>Miniatures Paint and Take (Saturday)</title>
 <topic>DIY</topic>
 <time>4/25/2015 1 PM</time></event><event>
@@ -1219,11 +1264,12 @@
 <title>LIVE PODCAST: Getting Drunk with Shannon &amp; Maggie</title>
 <topic>Life</topic>
 <time>4/25/2015 9 PM</time></event><event>
-<room>Restaurant</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Miniatures Paint and Take (Sunday)</title>
 <topic>DIY</topic>
 <time>4/26/2015 1 PM</time></event><event>
-<room>Windover</room><day>FRIDAY, APRIL 24</day>
+<room>Windover</room>
+<day>FRIDAY, APRIL 24</day>
 <title>Larval Writers Panel</title>
 <topic>Literature</topic>
 <time>4/24/2015 4 PM</time></event><event>
@@ -1245,7 +1291,7 @@
 <title>Piratical Romeo and Juliet</title>
 <topic>Life</topic>
 <time>4/24/2015 10 PM</time></event><event>
-<room>Windover</room><day>SATURDAY, APRIL 25</day>
+<day>SATURDAY, APRIL 25</day>
 <title>The Ethics of AI</title>
 <topic>Science, Tech</topic>
 <time>4/25/2015 9 AM</time></event><event>
@@ -1285,7 +1331,7 @@
 <title>Taking of the HMS Vigrinity</title>
 <topic>Life, After Dark</topic>
 <time>4/25/2015 11 PM</time></event><event>
-<room>Windover</room><day>SUNDAY, APRIL 26</day>
+<day>SUNDAY, APRIL 26</day>
 <title>Doing What you Love: Turning Passions into a Business</title>
 <topic>Life</topic>
 <time>4/26/2015 9 AM</time></event><event>
