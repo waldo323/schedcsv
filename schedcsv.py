@@ -545,6 +545,8 @@ for index, y in enumerate(sessions):
 """
 schedule by room
 """
+
+tempstart = "test" """ reset the tempstart variable so that the heading is added to the top of the files """
 sessions.sort(key=itemgetter('venue'))
 with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
   with open(rp + "2015.penguicon.schedule.allrooms.xml",'w') as schedbyroom:
