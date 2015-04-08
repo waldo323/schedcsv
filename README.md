@@ -19,20 +19,21 @@ usage:
    * if you have access to the git repo you can run getrunpush.sh, otherwise you'll want to comment out the git push
 
 current output:
-   * custom xml for program book
-   * list of speakers
-   * list of speakers giving 3+ "hours" of talks ( an hour in this case is defined as 50 minutes...I think)
-   * full schedule output into a csv which google calendar is be able to import (difficult to use as so many events are at the same time)
-   * schedule by track  in a (google or other ical) calendar importable csv format
-   * schedule by speaker in a (google or other ical) calendar importable csv format
-   * zip of all speakers calender importable csv files
-   * schedule by room for dubugging 
+   * custom xml for program book (currentyear.penguicon.final.schedule.xml, penguicon.schedule.xml)
+   * list of speakers (./output/2015.penguicon.speakers.txt)
+   * list of speakers giving 3+ "hours" of talks ( an hour in this case is defined as 50 minutes...I think) (./output/2015.penguicon.speakers.3plus.txt)
+   * full schedule output into a csv which google calendar is be able to import (difficult to use as so many events are at the same time) (./output/calendars/currentyear.penguicon.fullcalendar.csv)
+   * schedule by track  in a (google or other ical) calendar importable csv format  (./output/calendars/)
+   * schedule by speaker in a (google or other ical) calendar importable csv format (./output/schedbyspeaker/)
+   * zip of all speakers calender importable csv files (./output/schedsbyspeaker.zip)
+   * schedules by room for dubugging (./output/schedbyroom/)
+   * schedules by room for use in making signs for each room (./penguicon.schedules.per.room.xml)
+ 
 
 
 
    
 Running wish list:
-   * add output for calendar by room in calendar importable csv
    * work with tuxtrax https://github.com/MattArnold/tuxtrax 
    * split code into separately functioning bits
      *  bring in the schedule (or use the parts needed from the db)
