@@ -311,11 +311,11 @@ for index, x in enumerate(pconsched.schedule):
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            temptext = replace_all(fieldtext, addamps)         
+            temptext = replace_all(fieldtext, addamps).strip(', \t\n\r')         
             session['bookdescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
-            session['calspeakers'] = re.sub(r'\n',',', temptext)
+            session['calspeakers'] = re.sub(r'\n',',', temptext).strip(', \t\n\r')
 #        if field == "speakers":
         if field == "Presenters":
             testtext = fieldtext.split(', ')
