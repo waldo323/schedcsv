@@ -498,11 +498,13 @@ with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
 fullschedule.close()
 
 with open(rp + "2015.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open(rp + "2015.penguicon.speakers.txt",'w') as fullspeaker:
-    for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
-      if value >= 150:
-          discountedspeaker.write("%s\n" % (key))
-      fullspeaker.write("%s, %s\n" % (key,value))
+  with open(rp + "2015.penguicon.speakers.txt",'w') as fullspeakerlist:
+      with open(rp + "2015.penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
+        for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
+          if value >= 150:
+              discountedspeaker.write("%s\n" % (key))
+          fullspeaker.write("%s, %s\n" % (key,value))
+          fullspeakerlist.write("%s\n" % (key))
 
 fullspeaker.close()
 discountedspeaker.close()
