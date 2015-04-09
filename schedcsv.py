@@ -236,9 +236,9 @@ for index, x in enumerate(pconsched.schedule):
                 session['endtimeampm'] = "endtime am/pm"
 
         if  (field == "Book Description"): 
-                    session['description'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(' \t\n\r')
+                    session['description'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
         if  (field == "Location"):
-            session['venue'] = re.sub(r'\n',', ', fieldtext).strip(' \t\n\r')
+            session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
             temproom = re.sub(r'\s','', fieldtext)
             temproom = re.sub(r'\(','', temproom)
             temproom = re.sub(r'\)','', temproom)
@@ -250,15 +250,15 @@ for index, x in enumerate(pconsched.schedule):
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
         if  (field == "Presenters"):
-            session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(' \t\n\r')
+            session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
         if  (field == "Title"):
             session['name'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext)))
             temptext = replace_all(fieldtext, addamps)
-            temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext))).strip(' \t\n\r')
+            temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext))).strip(', \t\n\r')
             session['bookname'] = temptext
 
         if  (field == "Track"):
-            session['event_type'] = fieldtext.strip(' \t\n\r')
+            session['event_type'] = fieldtext.strip(', \t\n\r')
             session['event_type_list'] = fieldtext.split(", ")
             session['tracknosp'] = []
             for eventtype in session['event_type_list']:
