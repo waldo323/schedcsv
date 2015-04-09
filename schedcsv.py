@@ -68,6 +68,8 @@ saturday_header = "SATURDAY, APRIL 25"
 saturday_date = "4/25/2015"
 sunday_header = "SUNDAY, APRIL 26"
 sunday_date = "4/26/2015"
+conyear = "2015"
+constart = "2015-04-24 14:00:00"
 
 ###
 calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
@@ -416,9 +418,9 @@ if not os.path.exists(schedulebyroomdir):
 if not os.path.exists(speakerdir):
     os.makedirs(speakerdir)  
 ## dump to a json file
-with open(rp + "2015.penguicon.schedule.alldata.json",'w') as myoutput:
+with open(rp + conyear + ".penguicon.schedule.alldata.json",'w') as myoutput:
     json.dump(sessions, myoutput, indent=4, separators=(',', ': '))
-with open(rp + "2015.penguicon.schedule.json",'w') as myoutput:
+with open(rp + conyear + ".penguicon.schedule.json",'w') as myoutput:
     fields = {"location":"Location", "book_description":"Book Description", \
               "title":"Title", "track":"Track", "minutes":"totalminutes", \
               "start_date":"Start Date", "end_date":"End Date", \
@@ -432,11 +434,11 @@ with open(rp + "2015.penguicon.schedule.json",'w') as myoutput:
     json.dump(json_output, myoutput, indent=4, separators=(',', ': '))
 ## for each session in the list of sessions 
 #"""
-with open(rp + "2015.penguicon.schedule.alltimes.xml",'w') as myoutput:
-  with open(rp + "2015.penguicon.schedule.allrooms.mixedin.xml",'w') as schedbyroom:
+with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
+  with open(rp + conyear + ".penguicon.schedule.allrooms.mixedin.xml",'w') as schedbyroom:
     for index, y in enumerate(sessions):
 #      print y
-      if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
+      if constart != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
             myoutput.write(heading)
@@ -469,7 +471,7 @@ myoutput.close()
 
 # schedule by room and by speaker output
 
-with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
+with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
     for room in roomsdict:
         with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
@@ -497,9 +499,9 @@ with open( rp + "2015.penguicon.fullschedule.csv",'w') as fullschedule:
 
 fullschedule.close()
 
-with open(rp + "2015.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open(rp + "2015.penguicon.speakers.txt",'w') as fullspeakerlist:
-      with open(rp + "2015.penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
+with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeaker:
+  with open(rp + conyear + ".penguicon.speakers.txt",'w') as fullspeakerlist:
+      with open(rp + conyear + ".penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
         for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
           if value >= 150:
               discountedspeaker.write("%s\n" % (key))
@@ -509,8 +511,8 @@ with open(rp + "2015.penguicon.speakers.3plus.txt",'w') as discountedspeaker:
 fullspeaker.close()
 discountedspeaker.close()
 fullspkrlist = []
-with open(rp + "2015.penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
-  with open(rp + "2015.penguicon.spkrs.bylast.txt",'w') as fullspkr:
+with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
+  with open(rp + conyear + ".penguicon.spkrs.bylast.txt",'w') as fullspkr:
     for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
       if value >= 150:
           dscountedspkr.write("%s\n" % (key))
@@ -524,8 +526,8 @@ dscountedspkr.close()
 
 # one calendar per track/type of programming
 #  also output the full calendar
-with open( caldir + "2015.penguicon.fullcalendar.csv",'w') as fullcalendar:
-  #with open(caldir + "2015.penguicon.speakers.txt",'w') as fullspeaker:
+with open( caldir + conyear + ".penguicon.fullcalendar.csv",'w') as fullcalendar:
+  #with open(caldir + conyear + ".penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
     for track in tracks:
         with open(caldir + tracksdict[track] + ".csv",'w') as tempcal:
@@ -558,11 +560,11 @@ tempstart = "test"
 printallday = True
 
 sessions.sort(key=itemgetter('venue'))
-with open(rp + "2015.penguicon.schedule.roomorder.xml",'w') as myoutput:
-  with open(rp + "2015.penguicon.schedule.allrooms.xml",'w') as schedbyroom:
+with open(rp + conyear + ".penguicon.schedule.roomorder.xml",'w') as myoutput:
+  with open(rp + conyear + ".penguicon.schedule.allrooms.xml",'w') as schedbyroom:
     for index, y in enumerate(sessions):
 #      print y
-      if "2015-04-24 14:00:00" != y['event_start'] and "duration" != y['duration']:
+      if constart != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
             heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
             myoutput.write(heading)
@@ -612,7 +614,7 @@ end schedule by room
 
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open(rp + '2015.penguicon.schedule.alltimes.xml', 'r')
+inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')
 outputfile = open('penguicon.schedule.xml', 'w')
 
 # current time is set to the initial start time of 4 pm for the 2015 year... this could change year to year
@@ -647,10 +649,10 @@ inputfile.close()
 outputfile.close()
 
 """
-2015.penguicon.schedule.allrooms.xml
+ conyear.penguicon.schedule.allrooms.xml
 """
 # Fix the multiple entries of the current room issue  (thanks Matt)
-inputfile = open(rp + '2015.penguicon.schedule.allrooms.xml', 'r')
+inputfile = open(rp +  conyear + '.penguicon.schedule.allrooms.xml', 'r')
 outputfile = open('penguicon.schedules.per.room.xml', 'w')
 
 # current room is set to the initial room which is currently no room... this could change year to year
