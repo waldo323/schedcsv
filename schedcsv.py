@@ -704,5 +704,8 @@ inputfile.close()
 outputfile.close()
 print "probable success processing csv and exporting to various formats"
 
+linetoprint = []
 for x in rooms:
-    print x
+    linetoprint.append(x)
+linetoprint = ",".join(linetoprint)
+print linetoprint
