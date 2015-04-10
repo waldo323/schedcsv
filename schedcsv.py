@@ -704,5 +704,5 @@ inputfile.close()
 outputfile.close()
 print "probable success processing csv and exporting to various formats"
 
-for x in roomsdict:
+for x in rooms:
     print x
