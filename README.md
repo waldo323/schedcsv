@@ -29,7 +29,9 @@ current output:
    * schedules by room for dubugging (./output/schedbyroom/)
    * schedules by room for use in making signs for each room (./penguicon.schedules.per.room.xml)
  
-
+soon to be output:
+  * trifold grid csv 
+    * need to add addressing or a map of somesort so that I can pull each item into the csv without a computationally expensive loop setup....there are already way too many loops in this script
 
 
    
