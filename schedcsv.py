@@ -405,7 +405,7 @@ speakers.sort()
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
-    alphatetical_rooms[room]= {'Friday':{},'Saturday':{},'Sunday':{}}
+    alphabetical_rooms[room]= {'Friday':{},'Saturday':{},'Sunday':{}}
 
 
 rp = "./output/"
