@@ -706,6 +706,8 @@ print "probable success processing csv and exporting to various formats"
 
 linetoprint = []
 for x in rooms:
+    if x == '':
+        x = "''"
     linetoprint.append(x)
 linetoprint = ",".join(linetoprint)
 print linetoprint
