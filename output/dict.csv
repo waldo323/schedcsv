@@ -2810,10 +2810,10 @@ roomnosp,Windover
 Start Date,4/24/2015
 minutes,50
 allday,FALSE
-event_type,life
+event_type,Life
 All Day Event,FALSE
 event_end,20:50
-event_type_list,['life']
+event_type_list,['Life']
 private,PUBLIC
 endtimeampm,8 PM
 Location,Algonquin A
@@ -2822,17 +2822,17 @@ description,Race to compete to finish various geeky and fitness tasks such as do
 index,61
 speakers,William Bowen
 bookdescrip,Race to compete to finish various geeky and fitness tasks such as doing pushups and answering geek culture quiz questions. The winner is the individual who can complete all tasks the quickest!
-Track,life
+Track,Life
 startday,4/24/2015
 Title,G33K Biathlon
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
 End Time,20:50
-tracknosp,['life']
+tracknosp,['Life']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Algonquin A', 'life', 'G33K Biathlon', 'William Bowen', 'Race to compete to finish various geeky and fitness tasks such as doing pushups and answering geek culture quiz questions. The winner is the individual who can complete all tasks the quickest!\n ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Algonquin A', 'Life', 'G33K Biathlon', 'William Bowen', 'Race to compete to finish various geeky and fitness tasks such as doing pushups and answering geek culture quiz questions. The winner is the individual who can complete all tasks the quickest!\n ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,William Bowen
 avneeds,none
@@ -10178,10 +10178,10 @@ roomnosp,CharlevoixA
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
-event_type,science | life
+event_type,"Science, Life"
 All Day Event,FALSE
 event_end,16:50
-event_type_list,['science | life']
+event_type_list,"['Science', 'Life']"
 private,PUBLIC
 endtimeampm,4 PM
 Location,Charlevoix B
@@ -10190,17 +10190,17 @@ description,"A look into the science of radiation protection including atomic th
 index,221
 speakers,"David Newland, Annalee Newitz"
 bookdescrip,"A look into the science of radiation protection including atomic theory, physics, radiation detection instrumentation, radiobiology, and, most importantly, applying the knowledge gained in practical exercises. Learn how you can survive and maybe prosper in the short and long term after a nuclear event."
-Track,science | life
+Track,"Science, Life"
 startday,4/25/2015
 Title,Surviving a Nuclear Holocaust
 Start Time,16:00
 event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
-tracknosp,['science|life']
+tracknosp,"['Science', 'Life']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Charlevoix B', 'science | life', 'Surviving a Nuclear Holocaust', 'David Newland, Annalee Newitz', 'A look into the science of radiation protection including atomic theory, physics, radiation detection instrumentation, radiobiology, and, most importantly, applying the knowledge gained in practical exercises. Learn how you can survive and maybe prosper in the short and long term after a nuclear event.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Charlevoix B', 'Science, Life', 'Surviving a Nuclear Holocaust', 'David Newland, Annalee Newitz', 'A look into the science of radiation protection including atomic theory, physics, radiation detection instrumentation, radiobiology, and, most importantly, applying the knowledge gained in practical exercises. Learn how you can survive and maybe prosper in the short and long term after a nuclear event.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"David Newland, Annalee Newitz"
 avneeds,none
