@@ -405,7 +405,7 @@ sessions.sort(key=itemgetter('index'))
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
-    alphabetical_rooms[room]= {'Friday':{},'Saturday':{},'Sunday':{}}
+    alphabetical_rooms[room]= {'name':room,'Friday':{},'Saturday':{},'Sunday':{}}
     
 speakers.sort()    
 tempstart="test"
