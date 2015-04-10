@@ -32,6 +32,7 @@ current output:
 soon to be output:
   * trifold grid csv 
     * need to add addressing or a map of somesort so that I can pull each item into the csv without a computationally expensive loop setup....there are already way too many loops in this script
+    * probably something where the script could call room.time and it would get the title of the entries in that slot
 
 
    
