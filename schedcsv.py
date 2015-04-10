@@ -402,7 +402,10 @@ sessions.sort(key=itemgetter('index'))
 #sessions.sort(key=itemgetter('allday'), reverse=True)
 
 speakers.sort()
-tempstart = "test"
+rooms.sort()
+alphabetical_rooms = {}
+for room in rooms:
+    alphatetical_rooms[room]= {'Friday':{},'Saturday':{},'Sunday':{}}
 
 
 rp = "./output/"
