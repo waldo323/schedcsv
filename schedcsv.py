@@ -697,6 +697,6 @@ for row in inputfile:
 inputfile.close()
 outputfile.close()
 print "probable success processing csv and exporting to various formats"
-roomsdict.sort()
+
 for x in roomsdict:
     print x
