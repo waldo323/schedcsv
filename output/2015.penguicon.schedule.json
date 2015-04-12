@@ -1,5 +1,159 @@
 [
     {
+        "book_description": "The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!",
+        "end_date": "4/26/2015",
+        "title": "Chaos Machine",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it!",
+        "end_date": "4/26/2015",
+        "title": "Find Tux",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!",
+        "end_date": "4/26/2015",
+        "title": "Find Waldo",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.",
+        "end_date": "4/26/2015",
+        "title": "Free Fates Fortune Telling Booth",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination.",
+        "end_date": "4/26/2015",
+        "title": "Giant Jenga",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!",
+        "end_date": "4/26/2015",
+        "title": "Google Ingress Dead Drop ",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.",
+        "end_date": "4/26/2015",
+        "title": "NUET Scouts",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!",
+        "end_date": "4/26/2015",
+        "title": "Pengicon Picture Bingo",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Find David Gazdowicz's awesome games in the lobby... and play them!",
+        "end_date": "4/26/2015",
+        "title": "Retro-style Video Games",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!",
+        "end_date": "4/26/2015",
+        "title": "Ribbon Fairy",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!",
+        "end_date": "4/26/2015",
+        "title": "Where in the World?",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2880,
+        "start_date": "4/24/2015",
+        "end_time": "16:00"
+    },
+    {
         "book_description": "It is becoming common these days for people to have a home network. But doing it with open software is even better. Come and learn from the host of Sunday Morning Linux Review.",
         "end_date": "4/24/2015",
         "title": "Practical Home Networking Using a Linux Router",
@@ -161,160 +315,6 @@
         "minutes": 50,
         "start_date": "4/24/2015",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!",
-        "end_date": "4/26/2015",
-        "title": "Chaos Machine",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it!",
-        "end_date": "4/26/2015",
-        "title": "Find Tux",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!",
-        "end_date": "4/26/2015",
-        "title": "Find Waldo",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.",
-        "end_date": "4/26/2015",
-        "title": "Free Fates Fortune Telling Booth",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination.",
-        "end_date": "4/26/2015",
-        "title": "Giant Jenga",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!",
-        "end_date": "4/26/2015",
-        "title": "Google Ingress Dead Drop ",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.",
-        "end_date": "4/26/2015",
-        "title": "NUET Scouts",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!",
-        "end_date": "4/26/2015",
-        "title": "Pengicon Picture Bingo",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Find David Gazdowicz's awesome games in the lobby... and play them!",
-        "end_date": "4/26/2015",
-        "title": "Retro-style Video Games",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!",
-        "end_date": "4/26/2015",
-        "title": "Ribbon Fairy",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
-    },
-    {
-        "book_description": "Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!",
-        "end_date": "4/26/2015",
-        "title": "Where in the World?",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 2880,
-        "start_date": "4/24/2015",
-        "end_time": "16:00"
     },
     {
         "book_description": "Ever wonder what goes through the mind of a person when they're in a fight? What do they think about, and what are they doing when the fight starts? How does one prepare for a fight, any sort of fight? What does the phrase \"stay in the fight\" mean? Come learn from a martial artist and veteran of Afghanistan and Iraq all about what goes on inside the brains and minds of people who find themselves in some sort of combat.",
