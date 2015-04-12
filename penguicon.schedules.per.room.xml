@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<day>All Weekend</day>
+<event>
+<room></room>
+<title>Chaos Machine</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Find Tux</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Find Waldo</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Free Fates Fortune Telling Booth</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Giant Jenga</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Google Ingress Dead Drop</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Pengicon Picture Bingo</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Retro-style Video Games</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Ribbon Fairy</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<title>Where in the World?</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Action Photography</title>
@@ -73,94 +109,101 @@
 <title>Qigong: How to Breathe Like a Steampunk Robot</title>
 <topic>Life</topic>
 <time>11 PM</time></event><event>
-<day>SATURDAY, APRIL 25</day>
-<title>Freerunning Academy</title>
-<topic>Action Adventure</topic>
-<time>3 PM</time></event><event>
-<title>Shillelagh: Irish Stick Fighting</title>
-<topic>Action Adventure</topic>
-<time>4 PM</time></event><event>
-<title>Open Source Martial Arts</title>
-<topic>Action Adventure</topic>
-<time>5 PM</time></event><event>
-<title>Combat Taiji Class</title>
-<topic>Action Adventure</topic>
-<time>7 PM</time></event><event>
-<title>Beginning Silat</title>
-<topic>Action Adventure</topic>
-<time>8 PM</time></event><event>
-<title>Beginning Kali</title>
-<topic>Action Adventure</topic>
-<time>9 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>Fitness Boot Camp</title>
-<topic>Life</topic>
-<time>8 AM</time></event><event>
-<title>Introduction to Blues Dancing</title>
-<topic>Life, Music</topic>
-<time>9 AM</time></event><event>
-<title>Throwing Spears</title>
-<topic>Action Adventure</topic>
-<time>11 AM</time></event><event>
-<title>Historical Shields</title>
-<topic>Action Adventure</topic>
-<time>12 PM</time></event><event>
-<title>SCA Fencing Demo</title>
-<topic>Action Adventure</topic>
-<time>2 PM</time></event><event>
 <room>Algonquin B</room>
+<day>SUNDAY, APRIL 26</day>
+<title>Chip Music Open Mic</title>
+<topic>Music</topic>
+<time>3 AM</time></event><event>
+<title>Chip Rave w/ #teamswoop</title>
+<topic>Music</topic>
+<time>1 AM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Learn to Program in One Hour!</title>
-<topic>Tech</topic>
-<time>3 PM</time></event><event>
-<title>Neal Stephenson’s Metaverse - Science Fiction, or near Reality?</title>
-<topic>Tech</topic>
-<time>4 PM</time></event><event>
-<title>Security Onion</title>
-<topic>Tech</topic>
-<time>6 PM</time></event><event>
-<title>Introduction to Machine Learning with Python</title>
-<topic>Tech</topic>
-<time>7 PM</time></event><event>
-<title>Performance: Derwood Bowen + 2d6</title>
+<title>Performance: Derwood Bowen</title>
 <topic>Music</topic>
 <time>8 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Performance: Mikey Mason</title>
+<topic>Music</topic>
+<time>12 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Performance: My Parents Favorite Music</title>
 <topic>Music</topic>
-<time>9 PM</time></event><event>
-<title>Performance: StarF</title>
-<topic>Music</topic>
 <time>10 PM</time></event><event>
-<title>Performance: Mikey Mason</title>
+<title>Performance: StarF</title>
 <topic>Music</topic>
 <time>11 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
-<title>Chip Rave w/ #teamswoop</title>
-<topic>Music</topic>
-<time>12 AM</time></event><event>
-<title>Chip Music Open Mic</title>
-<topic>Music</topic>
-<time>2 AM</time></event><event>
-<title>Notes from "DHS Industrial Control Systems Cybersecurity 301"</title>
-<topic>Tech</topic>
-<time>9 AM</time></event><event>
-<title>The Other Singularity: Why We Will and Won’t be Wearing Computers</title>
-<topic>Tech</topic>
-<time>10 AM</time></event><event>
-<title>The Junior Developer Survival Guide</title>
-<topic>Tech, Life</topic>
-<time>11 AM</time></event><event>
 <title>Aerospace Engineering for Beginners</title>
 <topic>Science</topic>
 <time>12 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Cloud + Open Source + Microsoft = Azure</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
+<title>Droid tk</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>How to Get (and Keep) a Tech Job</title>
 <topic>Tech, Life</topic>
 <time>1 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Intro to Zenoss</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
+<title>Introduction to Machine Learning with Python</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
+<title>Learn to Program in One Hour!</title>
+<topic>Tech</topic>
+<time>3 PM</time></event><event>
+<title>Maria DB and Ubuntu Cloud</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<title>MariaDB: The New MySQL in your LAMP Stack</title>
+<topic>Tech</topic>
+<time>12 PM</time></event><event>
+<title>Neal Stephenson’s Metaverse - Science Fiction, or near Reality?</title>
+<topic>Tech</topic>
+<time>4 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Notes from "DHS Industrial Control Systems Cybersecurity 301"</title>
+<topic>Tech</topic>
+<time>9 AM</time></event><event>
+<title>The Junior Developer Survival Guide</title>
+<topic>Tech, Life</topic>
+<time>11 AM</time></event><event>
+<title>The Other Singularity: Why We Will and Won’t be Wearing Computers</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Security Onion</title>
+<topic>Tech</topic>
+<time>6 PM</time></event><event>
+<title>Troubleshooting in Tech, Health, and Beyond</title>
+<topic>Tech, Life</topic>
+<time>9 AM</time></event><event>
+<title>Zombie Preparedness 101</title>
+<topic>Life</topic>
+<time>5 PM</time></event><event>
+<title>Performance: 2d6</title>
+<topic>Music</topic>
+<time>9 PM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SUNDAY, APRIL 26</day>
 <title>Closing Ceremonies</title>
 <topic>Penguicon Events</topic>
 <time>4 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Opening Ceremonies</title>
+<topic>Penguicon Events</topic>
+<time>6 PM</time></event><event>
+<title>KEYNOTE: Data and Goliath</title>
+<topic>Tech</topic>
+<time>8 PM</time></event><event>
+<title>KEYNOTE: The Camera Panopticon</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <room>Algonquin C</room>
 <day>SATURDAY, APRIL 25</day>
 <title>BoF: Cosplay Model Figure Illustration</title>
@@ -198,46 +241,21 @@
 <title>E-Books: An Examination of the Current State of Digital Publishing</title>
 <topic>Literature</topic>
 <time>9 AM</time></event><event>
-<day>SATURDAY, APRIL 25</day>
-<title>BoF: Cosplay Model Figure Illustration</title>
-<topic>Costuming</topic>
-<time>3 PM</time></event><event>
-<title>Rathbone's Pirate Magic Show</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
-<title>SciComm: Communicating Science to the Public</title>
-<topic>Science</topic>
-<time>6 PM</time></event><event>
-<title>Sports Fandom in the Geek Community</title>
-<topic>Life</topic>
-<time>7 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>E-Books: An Examination of the Current State of Digital Publishing</title>
-<topic>Literature</topic>
-<time>9 AM</time></event><event>
-<title>How to Survive in the Corporate World When You’re Different</title>
-<topic>Life</topic>
-<time>10 AM</time></event><event>
 <title>You got your SCIFI in my...</title>
 <topic>Literature</topic>
 <time>11 AM</time></event><event>
-<title>Polyphasic Sleep How-To</title>
-<topic>Life</topic>
+<day>SATURDAY, APRIL 25</day>
+<title>SciComm: Communicating Science to the Public</title>
+<topic>Science</topic>
+<time>6 PM</time></event><event>
+<title>Getting Involved in the Open Source Community</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<title>Surveillance Can Be Fun: The Future of Civil Liberties in Tech</title>
+<topic>Tech, Science</topic>
 <time>12 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SATURDAY, APRIL 25</day>
-<title>How To Turn Imposter Syndrome Into A Superpower</title>
-<topic>Life</topic>
-<time>6 PM</time></event><event>
-<title>Small Bodies in the Solar System: Beyond the Asteroids</title>
-<topic>Science</topic>
-<time>3 PM</time></event><event>
-<title>Weaponized Malware: The Future of Cyber Warfare</title>
-<topic>Tech</topic>
-<time>4 PM</time></event><event>
-<title>Building the "Great Beast of Malvern"</title>
-<topic>Tech, DIY</topic>
-<time>5 PM</time></event><event>
 <title>How To Turn Imposter Syndrome Into A Superpower</title>
 <topic>Life</topic>
 <time>6 PM</time></event><event>
@@ -247,32 +265,103 @@
 <title>Asteroids, Near-Earth Objects, and Meteorites</title>
 <topic>Science</topic>
 <time>8 PM</time></event><event>
+<title>Better Living Through Neuroprosthetics</title>
+<topic>Science</topic>
+<time>1 PM</time></event><event>
+<title>Help Cure Cancer with Citizen Science</title>
+<topic>Science</topic>
+<time>11 AM</time></event><event>
+<title>Small Bodies in the Solar System: Beyond the Asteroids</title>
+<topic>Science</topic>
+<time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>The Dawn Mission at Dwarf Planet Ceres</title>
+<topic>Science</topic>
+<time>7 PM</time></event><event>
+<title>The Future of Bionics</title>
+<topic>Science</topic>
+<time>8 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>The Science Behind Superheroes</title>
+<topic>Science</topic>
+<time>10 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Advancements in 3D Printed Firearm Technology</title>
+<topic>Tech, Action Adventure</topic>
+<time>10 PM</time></event><event>
+<title>An Introduction to Docker: What are Linux Containers?</title>
+<topic>Tech</topic>
+<time>5 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Building the "Great Beast of Malvern"</title>
+<topic>Tech, DIY</topic>
+<time>5 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Continuous Delivery: Make Software Config and Deployment Quick and Painless</title>
+<topic>Tech</topic>
+<time>9 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Designing Industrial Control Systems to Resist Cyberattack</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Eric S. Raymond: Ask Me Anything</title>
+<topic>Tech</topic>
+<time>3 PM</time></event><event>
+<title>Getting Apps Working on Wine</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>I2P Invisible Internet Project</title>
+<topic>Tech</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Independent SW/HW: Bucking Big Industry for Fun and Profit</title>
 <topic>Tech</topic>
 <time>9 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Practical Home Networking Using a Linux Router</title>
+<topic>Tech</topic>
+<time>4 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Social Network Analysis: NetworkX and Gephi</title>
 <topic>Tech</topic>
 <time>9 AM</time></event><event>
-<title>The Science Behind Superheroes</title>
-<topic>Science</topic>
-<time>10 AM</time></event><event>
-<title>Tips and Tricks using ASP MVC 5</title>
-<topic>Tech</topic>
-<time>11 AM</time></event><event>
 <title>Swimming with Dolphin, the File Manager</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
-<title>Getting Apps Working on Wine</title>
+<day>SATURDAY, APRIL 25</day>
+<title>The IT Road Warrior</title>
+<topic>Tech, Life</topic>
+<time>12 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Tips and Tricks using ASP MVC 5</title>
 <topic>Tech</topic>
-<time>1 PM</time></event><event>
+<time>11 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>TOR: Layers of Anonymity</title>
+<topic>Tech</topic>
+<time>9 AM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>Understanding and Protecting Your Privacy Online</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<title>Eric S. Raymond: Ask Me Anything</title>
+<day>SATURDAY, APRIL 25</day>
+<title>Weaponized Malware: The Future of Cyber Warfare</title>
 <topic>Tech</topic>
-<time>3 PM</time></event><event>
+<time>4 PM</time></event><event>
+<title>What Do Your Users Really Think?</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
 <room>Baldwin Board Room</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Artemis: The Starship Bridge Simulator</title>
+<topic>Videogaming</topic>
+<time>10 AM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Artemis: The Starship Bridge Simulator</title>
 <topic>Videogaming</topic>
@@ -347,49 +436,41 @@
 <topic>Literature</topic>
 <time>8 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Rad Women in Music</title>
-<topic>Music</topic>
-<time>3 PM</time></event><event>
-<title>How to Stay Fit on the Road</title>
-<topic>Life</topic>
-<time>4 PM</time></event><event>
 <title>Rejection: Dealing with the Dark Side of a Creative Life</title>
 <topic>Literature, Life, Music, Film</topic>
 <time>5 PM</time></event><event>
-<title>Turning Your Hobby Into Your Profession</title>
-<topic>Music</topic>
-<time>6 PM</time></event><event>
-<title>The Augmented Gamer</title>
-<topic>Videogaming</topic>
-<time>7 PM</time></event><event>
-<title>The Challenges of Gifted Children, Grown Up</title>
-<topic>Life</topic>
-<time>8 PM</time></event><event>
 <title>You Can't Kill The Undead</title>
 <topic>Literature</topic>
 <time>9 PM</time></event><event>
-<title>Sex Toys with S&amp;M</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
-<title>Pattern Alterations for All Body Types</title>
-<topic>Costuming</topic>
-<time>10 AM</time></event><event>
-<title>Scriptwriting Tips</title>
-<topic>Film</topic>
-<time>11 AM</time></event><event>
 <title>Chip Music: Not Just Bleeps and Bloops</title>
 <topic>Music</topic>
 <time>12 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Rad Women in Music</title>
+<topic>Music</topic>
+<time>3 PM</time></event><event>
+<title>Turning Your Hobby Into Your Profession</title>
+<topic>Music</topic>
+<time>6 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>So This is Your First Penguicon?</title>
+<topic>Penguicon Events</topic>
+<time>5 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>Become a Greybeard Sysadmin</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<title>Spiritual Atheism and Personal Spirituality: Creating Meaning Outside Religion</title>
-<topic>Life</topic>
-<time>2 PM</time></event><event>
-<title>The Modern Agoras or Where Do We Meet?</title>
-<topic>Life</topic>
-<time>3 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Community Organizing Tech Roundtable</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<title>Leading FLOSS Projects</title>
+<topic>Tech</topic>
+<time>12 PM</time></event><event>
+<title>The Augmented Gamer</title>
+<topic>Videogaming</topic>
+<time>7 PM</time></event><event>
 <room>Board of Regents</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Live Body Paint</title>
@@ -454,41 +535,29 @@
 <title>BoF: Steampunk</title>
 <topic>Literature, Costuming</topic>
 <time>2 PM</time></event><event>
+<title>Penguicon 2016 Planning Meeting</title>
+<topic>Penguicon Events</topic>
+<time>1 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
 <title>Penguicon Board Meeting</title>
 <topic>Penguicon Events</topic>
 <time>4 PM</time></event><event>
-<title>Live Body Paint</title>
-<topic>After Dark</topic>
-<time>5 PM</time></event><event>
-<title>BoF: NaNoWriMo Meet-Up</title>
-<topic>Literature</topic>
-<time>9 PM</time></event><event>
-<title>BoF: Sherlocked!</title>
-<topic>Film</topic>
-<time>10 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>BoF: Compliments Confidence</title>
-<topic>Life</topic>
-<time>9 AM</time></event><event>
-<title>BoF: Why Are There So Few Adult American Animated TV Series?</title>
-<topic>Anime</topic>
-<time>10 AM</time></event><event>
-<title>How to Apply a Foam Latex Prosthetic</title>
-<topic>Costuming</topic>
-<time>11 AM</time></event><event>
-<title>Balloon Workshop</title>
-<topic>DIY</topic>
-<time>12 PM</time></event><event>
-<title>Penguicon 2016 Planning Meeting</title>
-<topic>Penguicon Events</topic>
-<time>1 PM</time></event><event>
-<title>BoF: Steampunk</title>
-<topic>Literature, Costuming</topic>
+<title>Building Hands for Our Charity</title>
+<topic>Tech</topic>
 <time>2 PM</time></event><event>
-<title>BoF: Homesteading</title>
-<topic>Eco</topic>
-<time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>BoF: Homestuck</title>
+<topic>Webcomics</topic>
+<time>7 PM</time></event><event>
+<title>BoF: GamerGate -- What have we learned?</title>
+<topic>Videogaming</topic>
+<time>8 PM</time></event><event>
+<title>BoF: Storytelling in Video Games</title>
+<topic>Videogaming</topic>
+<time>4 PM</time></event><event>
+<title>Open Source and Homebrew Arcade</title>
+<topic>Videogaming</topic>
+<time>5 PM</time></event><event>
 <room>Board of Trustees</room>
 <day>SATURDAY, APRIL 25</day>
 <title>BoF: Closet Cosplay</title>
@@ -528,34 +597,26 @@
 <topic>Literature</topic>
 <time>4 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Getting Started with BeagleBone</title>
-<topic>Tech, DIY</topic>
-<time>7 PM</time></event><event>
 <title>BoF: Python</title>
 <topic>Tech</topic>
 <time>8 PM</time></event><event>
-<title>BoF: Closet Cosplay</title>
-<topic>Costuming</topic>
-<time>9 PM</time></event><event>
-<title>BoF: Nerdy Tatoos</title>
-<topic>Life</topic>
-<time>10 PM</time></event><event>
+<title>Getting Started with BeagleBone</title>
+<topic>Tech, DIY</topic>
+<time>7 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
-<title>Learn to Draw a Dragon</title>
-<topic>Webcomics</topic>
-<time>9 AM</time></event><event>
-<title>Tarot as a Gaming Tool</title>
-<topic>Gaming</topic>
-<time>10 AM</time></event><event>
 <title>Getting Started with BeagleBone</title>
 <topic>Tech, DIY</topic>
 <time>12 PM</time></event><event>
-<title>Corset Making 101</title>
-<topic>Costuming, DIY</topic>
-<time>1 PM</time></event><event>
+<title>Learn to Draw a Dragon</title>
+<topic>Webcomics</topic>
+<time>9 AM</time></event><event>
 <title>Hearthstone Fireside Gathering</title>
 <topic>Videogaming</topic>
 <time>3 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Retro Gaming: Come Play!</title>
+<topic>Videogaming</topic>
+<time>12 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Adventure As A Way Of Life</title>
@@ -589,37 +650,52 @@
 <title>Acts of Shameless Self-Promotion</title>
 <topic>Literature</topic>
 <time>9 AM</time></event><event>
-<title>The 10 Commandments of Networking</title>
-<topic>Life</topic>
-<time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>DJ Set: DJ Seanni B</title>
+<topic>Music</topic>
+<time>10 PM</time></event><event>
+<title>DJ Set: Justin Alex</title>
+<topic>Music</topic>
+<time>9 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>DJ Set: Walk in Circles</title>
+<topic>Music</topic>
+<time>12 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Hand Drumming for Beginners</title>
+<topic>Music</topic>
+<time>8 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Performance: Tom Smith</title>
 <topic>Music</topic>
 <time>4 PM</time></event><event>
-<title>12 Uses for a 5-Gallon Bucket in the Garden</title>
-<topic>Eco</topic>
-<time>5 PM</time></event><event>
-<title>Biohacking: Upgrading the Human Body</title>
-<topic>Tech, Science</topic>
+<day>FRIDAY, APRIL 24</day>
+<title>Pirate Rock by Rathbone and the Blades of Fortune</title>
+<topic>Music</topic>
 <time>6 PM</time></event><event>
-<title>Geek Prom</title>
-<topic>Penguicon Events</topic>
-<time>9 PM</time></event><event>
+<title>Vinyl Mixing 101</title>
+<topic>Music</topic>
+<time>7 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Costume Contest</title>
 <topic>Penguicon Events</topic>
 <time>10 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>LIVE PODCAST: Sunday Morning Linux Review</title>
+<title>Geek Prom</title>
+<topic>Penguicon Events</topic>
+<time>9 PM</time></event><event>
+<title>Biohacking: Upgrading the Human Body</title>
+<topic>Tech, Science</topic>
+<time>6 PM</time></event><event>
+<title>Contributing to OSS - Navigating Community</title>
 <topic>Tech</topic>
-<time>8 AM</time></event><event>
+<time>2 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>Key Signing Party</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
-<title>Gender Inclusion in Physical Activities</title>
-<topic>Action Adventure</topic>
-<time>1 PM</time></event><event>
-<title>Loving Your Cosplay Body</title>
-<topic>Costuming</topic>
-<time>2 PM</time></event><event>
+<title>LIVE PODCAST: Sunday Morning Linux Review</title>
+<topic>Tech</topic>
+<time>8 AM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Mark Reads Smut</title>
@@ -640,52 +716,64 @@
 <title>Using Your Geek for Good Instead of Evil</title>
 <topic>Life</topic>
 <time>5 PM</time></event><event>
-<title>The Electric Library: Libraries in the 21st Century</title>
-<topic>Tech</topic>
-<time>3 PM</time></event><event>
-<title>Surviving a Nuclear Holocaust</title>
-<topic>Life, Science</topic>
-<time>4 PM</time></event><event>
-<title>Using Your Geek for Good Instead of Evil</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
-<title>Everything You Ever Wanted to Know About Traditional Printmaking</title>
-<topic>DIY</topic>
-<time>6 PM</time></event><event>
+<title>How To Be A Critic: Writing Reviews for Fun and Profit</title>
+<topic>Literature, Music, Film, Life</topic>
+<time>12 PM</time></event><event>
 <title>Story Structure: What Is It, and Can It Make Your Writing Zoom?</title>
 <topic>Literature</topic>
 <time>7 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Misconceptions of Scienctific Work</title>
+<topic>Science, Life</topic>
+<time>3 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Neuroscience of Dream Engineering</title>
+<topic>Science</topic>
+<time>11 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Bash Scripting for Beginners</title>
+<topic>Tech</topic>
+<time>4 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>DIY Bionics with 3D Printers</title>
 <topic>Tech, Science</topic>
 <time>8 PM</time></event><event>
-<title>The Walking Dead: A User Friendly Guide to the Zombie Apocalypse</title>
-<topic>Film</topic>
-<time>9 PM</time></event><event>
-<title>Mark Reads Smut</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
-<title>Tcl on Raspberry Pi</title>
+<title>Firewalls with pfSense</title>
 <topic>Tech</topic>
-<time>9 AM</time></event><event>
-<title>Comics vs. Manga? Is There Really a Difference?</title>
-<topic>Webcomics</topic>
-<time>10 AM</time></event><event>
-<title>Test Driven Development to Write Less Code</title>
+<time>2 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Introduction to Python</title>
 <topic>Tech</topic>
-<time>11 AM</time></event><event>
+<time>5 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>Scheduling: The First Academic Paper About Penguicon</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
 <title>Securing Back-Office Business Processes with OpenVPN</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<title>Firewalls with pfSense</title>
+<title>Tcl on Raspberry Pi</title>
 <topic>Tech</topic>
-<time>2 PM</time></event><event>
-<title>Misconceptions of Scienctific Work</title>
-<topic>Science, Life</topic>
+<time>9 AM</time></event><event>
+<title>Test Driven Development to Write Less Code</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>The Electric Library: Libraries in the 21st Century</title>
+<topic>Tech</topic>
 <time>3 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Comics vs. Manga? Is There Really a Difference?</title>
+<topic>Webcomics</topic>
+<time>10 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>How to Start Up....and Keep Your Webcomic Going!</title>
+<topic>Webcomics</topic>
+<time>10 AM</time></event><event>
+<title>If I Can Make a Video Game, So Can You!</title>
+<topic>Videogaming</topic>
+<time>1 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Cryptozoology and the Paranormal in the Great Lakes Area</title>
@@ -719,46 +807,74 @@
 <title>Creative Destruction</title>
 <topic>Science, Tech</topic>
 <time>3 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Cutting Edge Neuroscience or Science Fiction</title>
+<topic>Science</topic>
+<time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Bash Scripting 201</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>DIY Non-Profit: How to Structure a Non-Profit Using Open Source Technology</title>
+<topic>Tech, Eco</topic>
+<time>11 AM</time></event><event>
+<title>Free Geek in the Motor City or How to Recycle for Fun and Profit</title>
+<topic>Tech, Eco</topic>
+<time>2 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>How To Be A Real Developer In Two Easy Steps</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Introduction to Kanban Boards</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
 <title>IPv6: So Fetch, It Hurts</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
-<title>Science Fiction Spelling Bee</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
-<title>DIY Mad Science</title>
-<topic>DIY, Science</topic>
-<time>7 PM</time></event><event>
-<title>2014: The Year in Review for Comics and Movies</title>
-<topic>Film</topic>
-<time>8 PM</time></event><event>
-<title>Webcomic Underdogs Meet and Greet</title>
-<topic>Webcomics</topic>
-<time>9 PM</time></event><event>
-<title>Why Can't Ashley Sing</title>
-<topic>Tech, Music</topic>
-<time>10 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>OpenBSD Tour</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Pack-a-thon</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<title>RPM Packaging Workshop</title>
+<topic>Tech</topic>
+<time>12 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Teaching Open Source in Schools</title>
 <topic>Tech</topic>
 <time>9 AM</time></event><event>
-<title>Crappy Floors: Turning Lemons into Lemonade</title>
-<topic>DIY</topic>
-<time>10 AM</time></event><event>
-<title>How To Be A Real Developer In Two Easy Steps</title>
-<topic>Tech</topic>
-<time>11 AM</time></event><event>
-<title>Minecraft 101: More than Tree Punching</title>
-<topic>Videogaming</topic>
-<time>12 PM</time></event><event>
-<title>OpenBSD Tour</title>
-<topic>Tech</topic>
-<time>1 PM</time></event><event>
 <title>The Cloud is Your Free Hobby Computer</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<title>Cutting Edge Neuroscience or Science Fiction</title>
-<topic>Science</topic>
-<time>3 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Why Can't Ashley Sing</title>
+<topic>Tech, Music</topic>
+<time>10 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Getting Started with the Michigan Comics Collective</title>
+<topic>Webcomics</topic>
+<time>5 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Webcomic Underdogs Meet and Greet</title>
+<topic>Webcomics</topic>
+<time>9 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Learning from your Guild Experiences</title>
+<topic>Videogaming, Life</topic>
+<time>6 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Minecraft 101: More than Tree Punching</title>
+<topic>Videogaming</topic>
+<time>12 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>The Metagame: Video Game Debate</title>
+<topic>Videogaming</topic>
+<time>10 PM</time></event><event>
 <room>ConSuite</room>
 <day>FRIDAY, APRIL 24</day>
 <title>LN2 Fantasy and Science Fiction Ice Cream</title>
@@ -783,10 +899,6 @@
 <title>Open Soda Demo</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>LN2 Sunday Brunch Ice Cream</title>
-<topic>Food</topic>
-<time>10 AM</time></event><event>
 <room>Food [Room 517]</room>
 <day>SUNDAY, APRIL 26</day>
 <title>Silicone Casting for Cheap Bastards</title>
@@ -839,35 +951,6 @@
 <title>What the Heck is Switchel?</title>
 <topic>Food</topic>
 <time>9 AM</time></event><event>
-<day>SATURDAY, APRIL 25</day>
-<title>Cooking With the Con Chair: Sushi!</title>
-<topic>Food</topic>
-<time>3 PM</time></event><event>
-<title>Rethinking Your Food Plate</title>
-<topic>Food</topic>
-<time>4 PM</time></event><event>
-<title>The Brown Liquors</title>
-<topic>Food</topic>
-<time>5 PM</time></event><event>
-<title>Cheese, Glorious Cheese</title>
-<topic>Food</topic>
-<time>6 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>What the Heck is Switchel?</title>
-<topic>Food</topic>
-<time>9 AM</time></event><event>
-<title>Homemade Herbal Butters, Oils, and Vinegars</title>
-<topic>Food</topic>
-<time>10 AM</time></event><event>
-<title>DIY Infusions and Liqueurs</title>
-<topic>Food</topic>
-<time>11 AM</time></event><event>
-<title>Dark Chocolate Around The World</title>
-<topic>Food</topic>
-<time>12 PM</time></event><event>
-<title>Silicone Casting for Cheap Bastards</title>
-<topic>Costuming, DIY</topic>
-<time>1 PM</time></event><event>
 <room>Gaming [Lobby]</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Bug House (Chess) Tournament</title>
@@ -920,26 +1003,6 @@
 <title>Village</title>
 <topic>Gaming</topic>
 <time>9 AM</time></event><event>
-<day>SATURDAY, APRIL 25</day>
-<title>Bug House (Chess) Tournament</title>
-<topic>Gaming</topic>
-<time>3 PM</time></event><event>
-<title>Halaster's Tea Party: A D&amp;D/Pathfinder Dungeon Crawl</title>
-<topic>Gaming</topic>
-<time>6 PM</time></event><event>
-<title>Tzolkin</title>
-<topic>Gaming</topic>
-<time>6 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>Village</title>
-<topic>Gaming</topic>
-<time>9 AM</time></event><event>
-<title>Lords of Waterdeep</title>
-<topic>Gaming</topic>
-<time>10 AM</time></event><event>
-<title>Carabande (aka PitchCar)</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Philosophy in Anime</title>
@@ -992,67 +1055,79 @@
 <topic>Literature</topic>
 <time>4 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Live RFID Implantation!</title>
-<topic>Tech</topic>
-<time>3 PM</time></event><event>
-<title>Traditional Publishing vs. Self-Publishing</title>
+<title>Editing for the Uninitiated</title>
 <topic>Literature</topic>
-<time>4 PM</time></event><event>
-<title>Intro to Finger Knitting</title>
-<topic>DIY</topic>
-<time>5 PM</time></event><event>
+<time>2 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>How is Game of Thrones Breaking the Rules of Story Telling?</title>
+<topic>Literature, Film</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>How to do Dystopia</title>
+<topic>Literature, Film</topic>
+<time>10 AM</time></event><event>
+<title>Making the Fantastic Believable</title>
+<topic>Literature</topic>
+<time>1 PM</time></event><event>
 <title>Plotting vs Pantsing - An Author's Dilemma</title>
 <topic>Literature</topic>
 <time>6 PM</time></event><event>
 <title>Poetry Slam</title>
 <topic>Literature</topic>
 <time>7 PM</time></event><event>
-<title>50 Years of Serling's 'Twilight Zone': Still As Relevant as Ever</title>
-<topic>Literature, Film</topic>
-<time>8 PM</time></event><event>
-<title>Intro to Arm Knitting</title>
-<topic>DIY, Life</topic>
+<day>FRIDAY, APRIL 24</day>
+<title>Speculative Fiction Poetry</title>
+<topic>Literature</topic>
 <time>9 PM</time></event><event>
-<title>Sci Fi Vehicle Showdown</title>
-<topic>Life</topic>
-<time>10 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>Polytheist Religions for Writers</title>
+<day>SATURDAY, APRIL 25</day>
+<title>Traditional Publishing vs. Self-Publishing</title>
 <topic>Literature</topic>
-<time>9 AM</time></event><event>
-<title>Author Reading: Matt Betts and Ferrett Steinmetz</title>
-<topic>Literature</topic>
-<time>10 AM</time></event><event>
-<title>Author Reading: Jen Haeger and Sarah Hans</title>
+<time>4 PM</time></event><event>
+<title>What Is NaNoWriMo?</title>
 <topic>Literature</topic>
 <time>11 AM</time></event><event>
-<title>Author Reading: Nicole Castle and Ken MacGregor</title>
-<topic>Literature</topic>
-<time>12 PM</time></event><event>
-<title>Author Reading: Steven Saus and Sean M. Davis</title>
-<topic>Literature</topic>
-<time>1 PM</time></event><event>
-<title>How to Get Kids to Fall in Love with Gardening</title>
-<topic>Eco</topic>
-<time>2 PM</time></event><event>
+<title>Live RFID Implantation!</title>
+<topic>Tech</topic>
+<time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>LIVE PODCAST: Snake Oil Comics</title>
+<topic>Webcomics</topic>
+<time>10 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>BoF: XBox One vs. Playstation 4 -- Who "Won" the Next Gen Console War?</title>
 <topic>Videogaming</topic>
 <time>3 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Retro Games: Better than New</title>
+<topic>Videogaming</topic>
+<time>7 PM</time></event><event>
 <room>Lobby [Near Elevators]</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Archery Lessons!</title>
 <topic>Action Adventure</topic>
 <time>9 AM</time></event><event>
-<title>Opening Up Retro-Style Video Cabinets</title>
-<topic>Videogaming</topic>
-<time>3 PM</time></event><event>
+<title>Scavenger Hunt</title>
+<topic>Mayhem</topic>
+<time>1 PM</time></event><event>
 <title>The World Around You Is Not What It Seems…</title>
 <topic>Mayhem</topic>
 <time>5 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Virtual Reality Headset Demo with Game Face Labs</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Virtual Reality Headset Demo with Game Face Labs</title>
+<topic>Tech</topic>
+<time>12 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Virtual Reality Headset Demo with Game Face Labs</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Opening Up Retro-Style Video Cabinets</title>
+<topic>Videogaming</topic>
+<time>3 PM</time></event><event>
 <room>Maker Space [Board of Directors]</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Penguicon Robot Build</title>
@@ -1084,15 +1159,33 @@
 <title>Level up with HabitRPG</title>
 <topic>Life, Gaming</topic>
 <time>9 AM</time></event><event>
-<title>Rethinking Urban Spaces</title>
-<topic>Eco</topic>
+<title>From Batgirl to Buffy &amp; Beyond: Librarians in Pop Culture &amp; Real Life</title>
+<topic>Literature</topic>
+<time>1 PM</time></event><event>
+<title>Marketing Online Content with Social Media</title>
+<topic>Literature</topic>
+<time>11 AM</time></event><event>
+<title>Pros and Cons of Writing for Examiner.com &amp; Yahoo's Associated Content</title>
+<topic>Literature</topic>
+<time>2 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Steampunk Guns in the Real World</title>
+<topic>Literature, Costuming</topic>
 <time>3 PM</time></event><event>
+<title>#teamswoop Q&amp;A</title>
+<topic>Music</topic>
+<time>2 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Everything You Thought You Knew About Genetics is A Lie</title>
+<topic>Science</topic>
+<time>7 PM</time></event><event>
+<title>A Tale of Two Sinclairs</title>
+<topic>Tech</topic>
+<time>5 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Cryptoparty, Penguicon Edition</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
-<title>BDSM: Violet Wands</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Getting Things Done (GTD) under Linux</title>
 <topic>Tech, Life</topic>
@@ -1100,15 +1193,17 @@
 <title>What's New in KDE 5</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Comic and Graphic Novel Writing</title>
+<topic>Webcomics, Literature</topic>
+<time>4 PM</time></event><event>
+<title>The Rise of the Michigan Comics Collective</title>
+<topic>Webcomics</topic>
+<time>8 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
 <title>Demon Lobster Presents "Super Smash Bros. Community Let's Play!"</title>
 <topic>Videogaming</topic>
 <time>11 AM</time></event><event>
-<title>#teamswoop Q&amp;A</title>
-<topic>Music</topic>
-<time>2 PM</time></event><event>
-<title>Steampunk Guns in the Real World</title>
-<topic>Literature, Costuming</topic>
-<time>3 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Teaching Martial Arts to Vulnerable Populations</title>
@@ -1157,48 +1252,52 @@
 <topic>Life</topic>
 <time>9 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Retro Roots Anime: Perfect Overload Lovely Superbash!</title>
-<topic>Anime</topic>
-<time>2 PM</time></event><event>
-<title>You...You Don't Like My Webcomic?</title>
-<topic>Webcomics</topic>
-<time>6 PM</time></event><event>
+<title>Polytheist Religions for Writers</title>
+<topic>Literature</topic>
+<time>5 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Surviving As an Independent Musician</title>
+<topic>Music</topic>
+<time>5 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Advanced Python</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Artemis &amp; Wine: Space Travel on a Budget</title>
 <topic>Tech, Videogaming</topic>
 <time>7 PM</time></event><event>
-<title>PowerPoint Improv</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<title>Best Fighting Scenes in Anime!</title>
-<topic>Anime, Action Adventure</topic>
-<time>9 PM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Hacking Your Writing and Editing Toolbox</title>
+<topic>Tech, Literature</topic>
+<time>10 AM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>LIVE PODCAST: IT in the D</title>
 <topic>Tech</topic>
 <time>10 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
-<title>Creature Costumes</title>
-<topic>Costuming</topic>
-<time>9 AM</time></event><event>
-<title>Hacking Your Writing and Editing Toolbox</title>
-<topic>Tech, Literature</topic>
-<time>10 AM</time></event><event>
-<title>Advanced Python</title>
-<topic>Tech</topic>
-<time>11 AM</time></event><event>
-<title>Webcomic Reading</title>
-<topic>Webcomics</topic>
-<time>12 PM</time></event><event>
 <title>Our Adventures into Indie Games</title>
 <topic>Tech, Videogaming</topic>
 <time>1 PM</time></event><event>
-<title>More Fun with High-Voltage Toys</title>
-<topic>DIY</topic>
-<time>2 PM</time></event><event>
+<title>Webcomic Reading</title>
+<topic>Webcomics</topic>
+<time>12 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>You...You Don't Like My Webcomic?</title>
+<topic>Webcomics</topic>
+<time>6 PM</time></event><event>
 <room>Outside</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Telescope Observing: The Moon</title>
+<topic>Science</topic>
+<time>10 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
 <title>Telescope Observing: The Moon</title>
 <topic>Science</topic>
 <time>10 PM</time></event><event>
+<title>Telescope Observing: The Sun</title>
+<topic>Science</topic>
+<time>12 PM</time></event><event>
 <day>SUNDAY, APRIL 26</day>
 <title>Telescope Observing: The Sun</title>
 <topic>Science</topic>
@@ -1254,31 +1353,23 @@
 <topic>Life, Webcomics, Film</topic>
 <time>9 AM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
-<title>Game Bangers, the D&amp;D Parody Webseries Episodes 4-6</title>
-<topic>Film</topic>
-<time>4 PM</time></event><event>
+<title>The CSI Phenomenon</title>
+<topic>Science</topic>
+<time>10 AM</time></event><event>
+<title>BIOS Hacking with the Raspberry Pi</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
+<title>DIY Movie Making with OpenShot</title>
+<topic>Tech</topic>
+<time>9 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>The State of Fedora</title>
+<topic>Tech</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Using RegEx in grep</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
-<title>The Smithee Awards</title>
-<topic>Film, After Dark</topic>
-<time>8 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>The Trials and Tribulations of the Artist's Lifestyle</title>
-<topic>Life, Webcomics, Film</topic>
-<time>9 AM</time></event><event>
-<title>Zombie Orpheus presents:  The Gamers: Natural One, Humans &amp; Households and  Dark Dungeons</title>
-<topic>Film</topic>
-<time>10 AM</time></event><event>
-<title>Genre Silent Movies</title>
-<topic>Film</topic>
-<time>12 PM</time></event><event>
-<title>Dr. Horrible Once More has Feelings</title>
-<topic>Film</topic>
-<time>1 PM</time></event><event>
-<title>Mystery Spatula Theater</title>
-<topic>Film</topic>
-<time>3 PM</time></event><event>
 <room>Restaurant</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Miniatures Paint and Take</title>
@@ -1296,16 +1387,17 @@
 <title>LIVE PODCAST: Getting Drunk with Shannon &amp; Maggie</title>
 <topic>Life</topic>
 <time>9 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Guest of Honor Social Hour</title>
+<topic>Penguicon Events</topic>
+<time>9 PM</time></event><event>
+<title>Ubuntu Release Party</title>
+<topic>Tech</topic>
+<time>8 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
 <title>Women in STEM meetup</title>
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
-<title>LIVE PODCAST: Getting Drunk with Shannon &amp; Maggie</title>
-<topic>Life</topic>
-<time>9 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>Miniatures Paint and Take</title>
-<topic>DIY</topic>
-<time>1 PM</time></event><event>
 <room>Windover</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Dating Safety for the 21st Century</title>
@@ -1361,44 +1453,41 @@
 <title>Crowdfunding Your Way to Success</title>
 <topic>Literature, Videogaming, Gaming, Webcomics</topic>
 <time>2 PM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Larval Writers Panel</title>
+<topic>Literature</topic>
+<time>4 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Creating Safe Spaces</title>
+<topic>Penguicon Events</topic>
+<time>11 AM</time></event><event>
+<day>SUNDAY, APRIL 26</day>
+<title>Science Fiction is Now Science Reality</title>
+<topic>Science, Literature</topic>
+<time>1 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>The Ethics of AI</title>
+<topic>Science, Tech</topic>
+<time>9 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>BoF: Ingress</title>
+<topic>Tech</topic>
+<time>8 PM</time></event><event>
+<day>SATURDAY, APRIL 25</day>
+<title>Building a Career in IT</title>
+<topic>Tech, Life</topic>
+<time>12 PM</time></event><event>
+<title>Hacking Outside the Box: Internet of Things</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
+<day>FRIDAY, APRIL 24</day>
+<title>Google Niantic Lab’s Ingress Game</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <day>SATURDAY, APRIL 25</day>
 <title>So You Want to Yell at the Internet... Do it Through a Podcast!</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<title>Watching TV That Looks Like Me</title>
-<topic>Life</topic>
-<time>4 PM</time></event><event>
-<title>Winter Is Coming</title>
-<topic>Life, Film, Literature</topic>
-<time>5 PM</time></event><event>
 <title>Social Engineering for Fun and Profit</title>
 <topic>Tech</topic>
-<time>6 PM</time></event><event>
-<title>Flirting for Geeks</title>
-<topic>After Dark</topic>
-<time>8 PM</time></event><event>
-<title>Dating Safety for the 21st Century</title>
-<topic>After Dark</topic>
-<time>9 PM</time></event><event>
-<title>Whose Geek Are You Anyway</title>
-<topic>Life</topic>
-<time>10 PM</time></event><event>
-<title>Taking of the HMS Vigrinity</title>
-<topic>Life, After Dark</topic>
-<time>11 PM</time></event><event>
-<day>SUNDAY, APRIL 26</day>
-<title>Doing What you Love: Turning Passions into a Business</title>
-<topic>Life</topic>
-<time>9 AM</time></event><event>
-<title>Polyamory: Communication is Key</title>
-<topic>Life</topic>
-<time>10 AM</time></event><event>
-<title>War on Cooties: Bringing Nerd Men and Women to the Same Game Board</title>
-<topic>Life</topic>
-<time>12 PM</time></event><event>
-<title>Science Fiction is Now Science Reality</title>
-<topic>Science, Literature</topic>
-<time>1 PM</time></event><event>
-<title>Crowdfunding Your Way to Success</title>
-<topic>Literature, Videogaming, Gaming, Webcomics</topic>
-<time>2 PM</time></event></events>
+<time>6 PM</time></event></events>
