@@ -135,30 +135,30 @@ def calcduration(startday, starttime, endday, endtime, minutes):
 
 ### taken from http://www.codigomanso.com/en/2011/05/trucomanso-transformar-el-tiempo-en-formato-24h-a-formato-12h-python/ then edited
 def ampmformat (hhmmss):
-    """
+  """
     This method converts time in 24h format to 12h format
     Example:   "00:32" is "12:32 AM"
                "13:33" is "1:33 PM"
-    """
-    ampm = hhmmss.split (":")
-    if (len(ampm) == 0) or (len(ampm) > 3):
-        return hhmmss
+  """
+  ampm = hhmmss.split (":")
+  if (len(ampm) == 0) or (len(ampm) > 3):
+    return hhmmss
 
-    # is AM? from [00:00, 12:00]
-    #  print "ampm " + ampm[0]
-    hour = int(ampm[0]) % 24
-    isam = (hour >= 0) and (hour < 12)
+  # is AM? from [00:00, 12:00]
+#  print "ampm " + ampm[0]
+  hour = int(ampm[0]) % 24
+  isam = (hour >= 0) and (hour < 12)
 
-    # 00:32 should be 12:32 AM not 00:32
-    if isam:
-        ampm[0] = ('12' if (hour == 0) else "%02d" % (hour))
-    else:
-        ampm[0] = ('12' if (hour == 12) else "%02d" % (hour-12))
-    ret = ':'.join (ampm)[:-3] + (' AM' if isam else ' PM')
-    if ret[0] == "0":
-        return ret[1:]
-    else:
-        return ret
+  # 00:32 should be 12:32 AM not 00:32
+  if isam:
+    ampm[0] = ('12' if (hour == 0) else "%02d" % (hour))
+  else:
+    ampm[0] = ('12' if (hour == 12) else "%02d" % (hour-12))
+  ret = ':'.join (ampm)[:-3] + (' AM' if isam else ' PM')
+  if ret[0] == "0":
+      return ret[1:]
+  else:
+      return ret
 ###
 
 ## eventually it would be good to use another class and then send the data to a templating engine to render it
@@ -271,23 +271,23 @@ for index, x in enumerate(pconsched.schedule):
                 #print temptrack
                 session['tracknosp'].append(temptrack)
                 if eventtype not in tracks:
-                    tracks.append(eventtype)
-                    tracksdict[eventtype] = temptrack
+                  tracks.append(eventtype)
+                  tracksdict[eventtype] = temptrack
         if  (field == "All Day Event"):
             if  (fieldtext == ""):
-                session['allday'] = "FALSE"
+              session['allday'] = "FALSE"
             else:
-                session['allday'] = fieldtext 
+              session['allday'] = fieldtext 
         if  (field == "Private"):
             if  (fieldtext == ""):
-                session['private'] = "DEFAULT"
+              session['private'] = "DEFAULT"
             else:
-                session['private'] = fieldtext
+              session['private'] = fieldtext
         if (field == "AV Needs"):
             if  (fieldtext == ""):
-                session['avneeds'] = "none"
+              session['avneeds'] = "none"
             else:
-                session['avneeds'] = fieldtext
+              session['avneeds'] = fieldtext
         ## remove the beginning portion of http and mail links 
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
@@ -358,25 +358,25 @@ for index, x in enumerate(pconsched.schedule):
                 session['speakernosp'] = session['speakernosp'] + "," + tempspeaker
     session['speakernosplist'] = session['speakernosp'].split(",")
     for speaker in session['speakerlist']:
-        if speaker != "":
-            if speaker not in speakers:
-                speakers.append(speaker)
-                speakerdict[speaker] = session['totalminutes']
-                #speaker_events_dict[speaker].append(session['name'])
-                #print speaker, session['name']
+      if speaker != "":
+        if speaker not in speakers:
+            speakers.append(speaker)
+            speakerdict[speaker] = session['totalminutes']
+            #speaker_events_dict[speaker].append(session['name'])
+            #print speaker, session['name']
             
-            else:
-                speakerdict[speaker] += session['totalminutes']
-                #speaker_events_dict[speaker].append(session['name'])
-                #print speaker, session['name']
+        else:
+            speakerdict[speaker] += session['totalminutes']
+            #speaker_events_dict[speaker].append(session['name'])
+            #print speaker, session['name']
     for speakernosp in session['speakernosplist']:
-        if (speakernosp != ""):
-            if speakernosp not in speakernosplist:
-                #speakers.append(speaker)
-                #speakerdict[speaker] = session['totalminutes']
-                speaker_events_dict[speakernosp] = []
-                speaker_events_dict[speakernosp].append(session['name'])
-                #print speaker, session['name']
+      if (speakernosp != ""):
+        if speakernosp not in speakernosplist:
+            #speakers.append(speaker)
+            #speakerdict[speaker] = session['totalminutes']
+            speaker_events_dict[speakernosp] = []
+            speaker_events_dict[speakernosp].append(session['name'])
+            #print speaker, session['name']
             
         else:
             #speakerdict[speaker] += session['totalminutes']
