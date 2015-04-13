@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 import csv, json, sys, re, os
-from operator import itemgetter, attrgetter
+from operator import itemgetter#, attrgetter
 #from git import *
 #from bs4 import BeautifulSoup  ## I had hoped to use BeautifulSoup to help clean up the output
 
