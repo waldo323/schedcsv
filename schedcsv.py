@@ -94,17 +94,17 @@ def replace_all(text, dic):
 ### from http://love-python.blogspot.com/2008/02/read-csv-file-in-python.html then edited 
 #read in the csv file and 
 class readInCSV:
-     def __init__(self,fileName):
-         self.fileName = fileName
-         self.fileReader = csv.reader(open(self.fileName, "rb"), delimiter = ',')
-         self.schedule = []
-         for data in self.fileReader:
-             self.schedule.append(data)
-         self.headers = self.schedule[0]
-         self.headerdict = {}
-         for index, header in enumerate(self.headers):
-              self.headerdict[header] = index
-         self.schedule.pop(0)   # remove header line from data
+    def __init__(self,fileName):
+        self.fileName = fileName
+        self.fileReader = csv.reader(open(self.fileName, "rb"), delimiter = ',')
+        self.schedule = []
+        for data in self.fileReader:
+            self.schedule.append(data)
+        self.headers = self.schedule[0]
+        self.headerdict = {}
+        for index, header in enumerate(self.headers):
+            self.headerdict[header] = index
+        self.schedule.pop(0)   # remove header line from data
 
 def calcduration(startday, starttime, endday, endtime, minutes):
     #print "in calc duration start day ", startday
@@ -506,26 +506,26 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
 fullschedule.close()
 
 with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-  with open(rp + conyear + ".penguicon.speakers.txt",'w') as fullspeakerlist:
-      with open(rp + conyear + ".penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
-        for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
-          if value >= 150:
-              discountedspeaker.write("%s\n" % (key))
-          fullspeaker.write("%s, %s\n" % (key,value))
-          fullspeakerlist.write("%s\n" % (key))
+    with open(rp + conyear + ".penguicon.speakers.txt",'w') as fullspeakerlist:
+        with open(rp + conyear + ".penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
+            for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k, v)):
+                if value >= 150:
+                    discountedspeaker.write("%s\n" % (key))
+                fullspeaker.write("%s, %s\n" % (key, value))
+                fullspeakerlist.write("%s\n" % (key))
 
 fullspeaker.close()
 discountedspeaker.close()
 fullspkrlist = []
 with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
   with open(rp + conyear + ".penguicon.spkrs.bylast.txt",'w') as fullspkr:
-    for key, value in sorted(speakerdict.iteritems(), key=lambda (k,v): (k,v)):
-      if value >= 150:
-          dscountedspkr.write("%s\n" % (key))
-      fullspkrlist.append( str(value)+ " "+ key)
-      #fullspkr.write("%s\n" % (key, value))
+    for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k,v)):
+        if value >= 150:
+            dscountedspkr.write("%s\n" % (key))
+        fullspkrlist.append( str(value)+ " "+ key)
+        #fullspkr.write("%s\n" % (key, value))
     for x in sorted(fullspkrlist):
-      fullspkr.write("%s\n" % (x) )
+        fullspkr.write("%s\n" % (x) )
 
 fullspkr.close()
 dscountedspkr.close()
