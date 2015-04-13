@@ -604,9 +604,8 @@ myoutput.close()
 
 
 
-"""
-end schedule by room
-"""
+### end schedule by room ###
+
 
 
 
@@ -654,9 +653,9 @@ for row in inputfile:
 inputfile.close()
 outputfile.close()
 
-"""
- conyear.penguicon.schedule.allrooms.xml
-"""
+
+### conyear.penguicon.schedule.allrooms.xml ###
+
 # Fix the multiple entries of the current room issue  (thanks Matt)
 inputfile = open(rp + conyear + '.penguicon.schedule.allrooms.xml', 'r')
 outputfile = open('penguicon.schedules.per.room.xml', 'w')
