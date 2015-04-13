@@ -9,7 +9,7 @@ from operator import itemgetter, attrgetter
 class trifoldsched:
     pass
 # is the file being listed in the command line?
-if len(sys.argv)>1:
+if len(sys.argv) > 1:
     filename = sys.argv[1]
     
 else:
@@ -17,43 +17,43 @@ else:
     filename = "sched.csv"
 
 # quick and simple template for the output for the schedule book
-programbook_template ="""<event><title>%(bookname)s</title>
+programbook_template = """<event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
 """took out \n"""
-programbook_template_no_room ="""<event><title>%(bookname)s</title>
+programbook_template_no_room = """<event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s <duration>%(duration)s</duration></blurb></event>"""
 """took out \n"""
 
-hourtemplate ="""<event><title>%(bookname)s</title>
+hourtemplate = """<event><title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <room>%(venue)s</room>
 <blurb><participant>%(speakers)s</participant> %(bookdescrip)s </blurb></event>"""
 """took out \n"""
 
-schedule_by_room="""<event>
+schedule_by_room = """<event>
 <room>%(venue)s</room>
 <day>%(dayheader)s</day>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(starttimeampm)s</time></event>"""
 
-schedule_by_room_hour_template="""<event>
+schedule_by_room_hour_template = """<event>
 <room>%(venue)s</room>
 <day>%(dayheader)s</day>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(starttimeampm)s</time></event>"""
 
-schedule_by_room_allweekend_template="""<event>
+schedule_by_room_allweekend_template = """<event>
 <room>%(venue)s</room>
 <title>%(bookname)s</title>
 <topic>%(event_type)s</topic>
 <time>%(starttimeampm)s</time></event>"""
 
-extrainfo= """
+extrainfo = """
 <startday>%(startday)s</startday>
 <starttime>%(starttimeampm)s</starttime>
 <endday>%(endday)s</endday>
@@ -73,11 +73,11 @@ conyear = "2015"
 constart = "2015-04-24 14:00:00"
 
 ###
-calendar_header= """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
-schedule_header= """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
-schedule_csv_template= """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
-calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
-speaker_calendar_template=""""%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
+calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
+schedule_header = """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
+schedule_csv_template = """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
+calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
+speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
 all_weekend_header = "ALL WEEKEND"
 
 # replace all function to help with the clean up
@@ -406,10 +406,10 @@ sessions.sort(key=itemgetter('index'))
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
-    alphabetical_rooms[room]= {'name':room,'Friday':{},'Saturday':{},'Sunday':{}}
+    alphabetical_rooms[room] = {'name':room,'Friday':{},'Saturday':{},'Sunday':{}}
     
 speakers.sort()    
-tempstart="test"
+tempstart = "test"
 
 
 rp = "./output/"
@@ -447,7 +447,7 @@ with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
 #      print y
       if constart != y['event_start'] and "duration" != y['duration']:
         if tempstart == "test":
-            heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
+            heading = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
             myoutput.write(heading)
             schedbyroom.write(heading)
         #print y
@@ -455,14 +455,14 @@ with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
             else:
-                temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
+                temptext = "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
                 myoutput.write(temptext)
             tempstart = y['event_start']
 
         if "50 minutes" == y['duration']:
             myoutput.write(hourtemplate % y)
             schedbyroom.write(schedule_by_room_hour_template % y)
-        elif ""  == y['venue']:
+        elif "" == y['venue']:
             myoutput.write(programbook_template_no_room % y)
             schedbyroom.write(schedule_by_room % y)
         else: 
@@ -659,7 +659,7 @@ outputfile.close()
  conyear.penguicon.schedule.allrooms.xml
 """
 # Fix the multiple entries of the current room issue  (thanks Matt)
-inputfile = open(rp +  conyear + '.penguicon.schedule.allrooms.xml', 'r')
+inputfile = open(rp + conyear + '.penguicon.schedule.allrooms.xml', 'r')
 outputfile = open('penguicon.schedules.per.room.xml', 'w')
 
 # current room is set to the initial room which is currently no room... this could change year to year
