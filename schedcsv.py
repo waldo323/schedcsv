@@ -6,7 +6,10 @@ from operator import itemgetter#, attrgetter
 
 ### the purpose of this script is to parse a csv file from a sched.org event,
 ### output the relevent information into useful output files that can be use for a convention.
-class trifoldsched:
+
+"""TrifoldSched is a class to be used to help organize the schedule for use
+in the trifold schedule"""
+class TrifoldSched:
     pass
 # is the file being listed in the command line?
 if len(sys.argv) > 1:
@@ -711,5 +714,5 @@ for x in rooms:
         x = "''"
     linetoprint.append(x)
 linetoprint = ",".join(linetoprint)
-trifoldsched.firstline=linetoprint 
+TrifoldSched.firstline=linetoprint 
 #print linetoprint
