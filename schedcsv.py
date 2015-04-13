@@ -2,7 +2,9 @@
 import csv, json, sys, re, os
 from operator import itemgetter#, attrgetter
 #from git import *
-#from bs4 import BeautifulSoup  ## I had hoped to use BeautifulSoup to help clean up the output
+
+#from bs4 import BeautifulSoup  
+## I had hoped to use BeautifulSoup to help clean up the output
 
 ### the purpose of this script is to parse a csv file from a sched.org event,
 ### output the relevent information into useful output files that can be use for a convention.
@@ -165,14 +167,8 @@ def ampmformat (hhmmss):
 
 pconsched = readInCSV(filename)
 
-## 2012 fields
-#fields =  ["event_start", "event_end", "name", "event_type", "venue", "speakers", "description"]
-
-## 2013 fields
-#fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters", "Book Description", "All Day Event","Private"]
-
 ## 2015 fields
-fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track","Title", "Presenters", "Book Description", "All Day Event","Private","AV Needs"]
+fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track", "Title", "Presenters", "Book Description", "All Day Event", "Private", "AV Needs"]
 ## fields needed for google calendar
 calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
 
@@ -302,7 +298,7 @@ for index, x in enumerate(pconsched.schedule):
         ## included some html symbols and tags which would not have looked
         ## good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
-        reps = {"&nbsp;":" ","<br />":"","&":" and ","&amp;":" and ", "<p>":"", "</p>":"","</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-","\n":" ", "  ":" ", "\r":" "}
+        reps = {"&nbsp;":" ", "<br />":"", "&":" and ", "&amp;":" and ", "<p>":"", "</p>":"", "</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-", "\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
         addamps = {"&":"&amp;", "\n":" "}
@@ -620,7 +616,7 @@ end schedule by room
 #for x,y in enumerate(speaker_events_dict):
 #for key, value in speaker_events_dict.items():
 #    writer.writerow([key, ', '.join(value)] )
-#    print key, "is in",len(value)," event(s) which is/are", ', '.join(value)
+#    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
 
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
