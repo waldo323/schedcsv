@@ -3983,7 +3983,7 @@ End Time,21:50
 tracknosp,['Life']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Windover', 'Life', 'Night Vale Community Radio Hour', 'Kat McConnell ', ""We are all the same color in the inside, screaming.  Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already. \n\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Windover', 'Life', 'Night Vale Community Radio Hour', 'Kat McConnell ', ""We are all the same color in the inside, screaming.  Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Kat McConnell
 avneeds,none
@@ -3991,18 +3991,16 @@ speakerlist,['Kat McConnell']
 hours,0
 totalminutes,50
 speakernosplist,['KatMcConnell']
-caldescrip,"We are all the same color in the inside, screaming.  Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already. 
-
-"
+caldescrip,"We are all the same color in the inside, screaming.  Welcome to Night Vale.  We'll discuss characters, theories, the weather, and NOT the dog park.  A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already."
 endtime,21:50
 AV Needs,
 name,Night Vale Community Radio Hour
 Private,PUBLIC
 bookname,Night Vale Community Radio Hour
 venue,Windover
-Book Description,"We are all the same color in the inside, screaming. Welcome to Night Vale. We'll discuss characters, theories, the weather, and NOT the dog park. A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already. "
+Book Description,"We are all the same color in the inside, screaming. Welcome to Night Vale. We'll discuss characters, theories, the weather, and NOT the dog park. A Vague, Yet Menacing, Government Agency will record the proceedings, but you knew that already."
 Presenters,Kat McConnell 
-csvsafedescrip,We are all the same color in the inside- screaming.  Welcome to Night Vale.  We'll discuss characters- theories- the weather- and NOT the dog park.  A Vague- Yet Menacing- Government Agency will record the proceedings- but you knew that already.   
+csvsafedescrip,We are all the same color in the inside- screaming.  Welcome to Night Vale.  We'll discuss characters- theories- the weather- and NOT the dog park.  A Vague- Yet Menacing- Government Agency will record the proceedings- but you knew that already.
 speakernosp,KatMcConnell
 starttime,21:00
 roomnosp,Windover
@@ -4523,10 +4521,10 @@ private,PUBLIC
 endtimeampm,11 PM
 Location,Portage Auditorium
 duration,1 hour and 50 minutes
-description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.   , WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
+description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 index,98
 speakers,"Greg Williams, Dawn Kuczwara"
-bookdescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.    WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
+bookdescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 Track,Film
 startday,4/24/2015
 Title,Dawn and Greg's Film Roast
@@ -4537,7 +4535,7 @@ End Time,23:50
 tracknosp,['Film']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '22:00', '4/24/2015', '23:50', 'Portage Auditorium', 'Film', ""Dawn and Greg's Film Roast"", 'Greg Williams, Dawn Kuczwara ', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.   \nWARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."", '01hr:50min', 'Microphone, Projector, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '22:00', '4/24/2015', '23:50', 'Portage Auditorium', 'Film', ""Dawn and Greg's Film Roast"", 'Greg Williams, Dawn Kuczwara ', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."", '01hr:50min', 'Microphone, Projector, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,"Greg Williams, Dawn Kuczwara"
 avneeds,"Microphone, Projector, Sound System"
@@ -4545,8 +4543,7 @@ speakerlist,"['Greg Williams', 'Dawn Kuczwara']"
 hours,1
 totalminutes,110
 speakernosplist,"['GregWilliams', 'DawnKuczwara']"
-caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.   
-WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
+caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 endtime,23:50
 AV Needs,"Microphone, Projector, Sound System"
 name,Dawn and Greg's Film Roast
@@ -4555,7 +4552,7 @@ bookname,Dawn and Greg's Film Roast
 venue,Portage Auditorium
 Book Description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes. Not appropriate for young children or those who are easily offended, Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 Presenters,"Greg Williams, Dawn Kuczwara "
-csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.    WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex - if it's not- it probably won't get you through one of our shows- either.
+csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex - if it's not- it probably won't get you through one of our shows- either.
 speakernosp,"GregWilliams,DawnKuczwara"
 starttime,22:00
 roomnosp,PortageAuditorium
@@ -8020,7 +8017,7 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Algonquin B
 duration,50 minutes
-description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be, deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
+description,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 index,174
 speakers,"Colin Charles, Jorge Castro"
 bookdescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
@@ -8034,7 +8031,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin B', 'Tech', 'Maria DB and Ubuntu Cloud', 'Colin Charles\nJorge Castro', ""This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be\ndeploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin B', 'Tech', 'Maria DB and Ubuntu Cloud', 'Colin Charles\nJorge Castro', ""This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Colin Charles,Jorge Castro"
 avneeds,Projector
@@ -8042,8 +8039,7 @@ speakerlist,"['Colin Charles', 'Jorge Castro']"
 hours,0
 totalminutes,50
 speakernosplist,"['ColinCharles', 'JorgeCastro']"
-caldescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be
-deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
+caldescrip,"This workshop will get into some of the nitty gritty details of deploying MariaDB in a cloud. We'll be deploying to Amazon Web Services and Azure with multiple node configurations, including load balanced master/slave clusters with monitoring."
 endtime,13:50
 AV Needs,Projector
 name,Maria DB and Ubuntu Cloud
@@ -8081,7 +8077,7 @@ End Time,13:50
 tracknosp,['Life']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin C', 'Life', 'LGBT Alphabet Soup', 'Mari Brighe, Cassy Sinke, April Nance, Mark Oshiro', 'The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Algonquin C', 'Life', 'LGBT Alphabet Soup', 'Mari Brighe, Cassy Sinke, April Nance, Mark Oshiro', 'The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Mari Brighe, Cassy Sinke, April Nance, Mark Oshiro"
 avneeds,none
@@ -8089,16 +8085,16 @@ speakerlist,"['Mari Brighe', 'Cassy Sinke', 'April Nance', 'Mark Oshiro']"
 hours,0
 totalminutes,50
 speakernosplist,"['MariBrighe', 'CassySinke', 'AprilNance', 'MarkOshiro']"
-caldescrip,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean. 
+caldescrip,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean.
 endtime,13:50
 AV Needs,
 name,LGBT Alphabet Soup
 Private,PUBLIC
 bookname,LGBT Alphabet Soup
 venue,Algonquin C
-Book Description,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean. 
+Book Description,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean.
 Presenters,"Mari Brighe, Cassy Sinke, April Nance, Mark Oshiro"
-csvsafedescrip,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean. 
+csvsafedescrip,The words we use to describe ourselves are an important part of our identiy. This panel will examine the many different terms used within the LGBT Community and what they mean.
 speakernosp,"MariBrighe,CassySinke,AprilNance,MarkOshiro"
 starttime,13:00
 roomnosp,AlgonquinC
