@@ -2,17 +2,17 @@ How to import a csv into Google Calendar
 ========
 
 Instructions summary: 
-   * download/save your csv
-   * create a new calendar
-   * import csv into new calendar
+   * Download/save your csv
+   * Create a new calendar
+   * Import csv into new calendar
 
 
 Detailed instructions:
 ========
 
 Download/save your csv
-   * this could be included in the zip file if this was sent to you
-   * know where this file is you will need to know that later
+   * This could be included in the zip file if this was sent to you
+   * Know where this file is you will need to know that later
 
  
 Create a new calendar (for these instructions I am assuming you are using google calendar)
@@ -20,7 +20,7 @@ Create a new calendar (for these instructions I am assuming you are using google
    * Next to My calendars, click the drop down arrow > Create new calendar.
    * Enter information about your new calendar.
    * Click Create calendar.
-   * give your calendar a name.
+   * Give your calendar a name.
    * ( adapted from: https://support.google.com/calendar/answer/37095?hl=en )
 
 
