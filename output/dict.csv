@@ -17384,7 +17384,7 @@ End Time,14:50
 tracknosp,['Gaming']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '13:00', '4/26/2015', '14:50', 'Gaming [Lobby]', 'Gaming', 'Carabande (aka PitchCar)', 'Mark Geary', ""A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.\n"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '13:00', '4/26/2015', '14:50', 'Gaming [Lobby]', 'Gaming', 'Carabande (aka PitchCar)', 'Mark Geary', ""A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Mark Geary
 avneeds,none
@@ -17392,17 +17392,16 @@ speakerlist,['Mark Geary']
 hours,1
 totalminutes,110
 speakernosplist,['MarkGeary']
-caldescrip,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers.
-"
+caldescrip,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers."
 endtime,14:50
 AV Needs,
 name,Carabande (aka PitchCar)
 Private,PUBLIC
 bookname,Carabande (aka PitchCar)
 venue,Gaming [Lobby]
-Book Description,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers. "
+Book Description,"A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch, they fly over the track, zipping around corners, and sweep between opponents' cars in daring maneuvers."
 Presenters,Mark Geary
-csvsafedescrip,A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch- they fly over the track- zipping around corners- and sweep between opponents' cars in daring maneuvers. 
+csvsafedescrip,A skill-packed automobile race requiring intuition and dexterity. The cars are colored wooden disks which are flicked over the race course. With the right touch- they fly over the track- zipping around corners- and sweep between opponents' cars in daring maneuvers.
 speakernosp,MarkGeary
 starttime,13:00
 roomnosp,Gaming[Lobby]
@@ -17431,7 +17430,7 @@ End Time,13:50
 tracknosp,['Literature']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '13:00', '4/26/2015', '13:50', 'Hamlin', 'Literature', 'Author Reading: Steven Saus and Sean M. Davis', 'Steven Saus, Sean M. Davis', ' \n\nCome and listen to two authors voted most likely to become mad scientists read and discuss their latest works.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '13:00', '4/26/2015', '13:50', 'Hamlin', 'Literature', 'Author Reading: Steven Saus and Sean M. Davis', 'Steven Saus, Sean M. Davis', 'Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Steven Saus, Sean M. Davis"
 avneeds,none
@@ -17439,18 +17438,16 @@ speakerlist,"['Steven Saus', 'Sean M. Davis']"
 hours,0
 totalminutes,50
 speakernosplist,"['StevenSaus', 'SeanM.Davis']"
-caldescrip," 
-
-Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works."
+caldescrip,Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.
 endtime,13:50
 AV Needs,
 name,Author Reading: Steven Saus and Sean M. Davis
 Private,PUBLIC
 bookname,Author Reading: Steven Saus and Sean M. Davis
 venue,Hamlin
-Book Description, Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.
+Book Description,Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.
 Presenters,"Steven Saus, Sean M. Davis"
-csvsafedescrip,   Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.
+csvsafedescrip,Come and listen to two authors voted most likely to become mad scientists read and discuss their latest works.
 speakernosp,"StevenSaus,SeanM.Davis"
 starttime,13:00
 roomnosp,Hamlin
