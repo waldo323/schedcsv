@@ -15431,7 +15431,7 @@ End Time,10:50
 tracknosp,['Literature']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Hamlin', 'Literature', 'Author Reading: Matt Betts and Ferrett Steinmetz', 'Ferrett Steinmetz, Matt Betts', ""\nJoin two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.  "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Hamlin', 'Literature', 'Author Reading: Matt Betts and Ferrett Steinmetz', 'Ferrett Steinmetz, Matt Betts', ""Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Ferrett Steinmetz, Matt Betts"
 avneeds,none
@@ -15439,17 +15439,16 @@ speakerlist,"['Ferrett Steinmetz', 'Matt Betts']"
 hours,0
 totalminutes,50
 speakernosplist,"['FerrettSteinmetz', 'MattBetts']"
-caldescrip,"
-Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.  "
+caldescrip,Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.
 endtime,10:50
 AV Needs,
 name,Author Reading: Matt Betts and Ferrett Steinmetz
 Private,PUBLIC
 bookname,Author Reading: Matt Betts and Ferrett Steinmetz
 venue,Hamlin
-Book Description, Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works. 
+Book Description,Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.
 Presenters,"Ferrett Steinmetz, Matt Betts"
-csvsafedescrip, Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.  
+csvsafedescrip,Join two of Penguicon's favorite authors as they take the stage to read and discuss their latest works.
 speakernosp,"FerrettSteinmetz,MattBetts"
 starttime,10:00
 roomnosp,Hamlin
