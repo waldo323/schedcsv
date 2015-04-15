@@ -282,7 +282,7 @@ for index, x in enumerate(pconsched.schedule):
             if  (fieldtext == ""):
               session['private'] = "DEFAULT"
             else:
-              session['private'] = fieldtext
+              session['private'] = "PUBLIC"#fieldtext
         if (field == "AV Needs"):
             if  (fieldtext == ""):
               session['avneeds'] = "none"
@@ -313,7 +313,7 @@ for index, x in enumerate(pconsched.schedule):
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            temptext = replace_all(fieldtext, addamps).strip(', \t\n\r')         
+            temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')         
             session['bookdescrip'] = temptext
         if field == "Presenters":
             temptext = replace_all(fieldtext, quoterep)         
