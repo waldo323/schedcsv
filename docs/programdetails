@@ -1,0 +1,20 @@
+schedcsv
+
+rewrite needed to clean up, have a data model, enable packaging, add tests, use templates,
+easier to add functionality and output in different ways, debug the schedule
+
+receives program schedule data
+1. csv spreadsheet format
+    - cleans data (right now it misses a lot of unicode characters that cause new lines or extra spaces
+        and the code is messy)
+    - sorts the data at one point but currently the program relies on the schedule being ordered correctly initially
+2. database (not yet)
+
+3. other programs python, maybe javascript?
+
+outputs in several formats and parts (by room, by track, by presenter, 
+in the future it'd be helpful to output to trifold program format as well)
+
+
+
+
