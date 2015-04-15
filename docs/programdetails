@@ -15,6 +15,10 @@ receives program schedule data
 outputs in several formats and parts (by room, by track, by presenter, 
 in the future it'd be helpful to output to trifold program format as well)
 
+it would be nice to be able to rewrite a google calendar so that once a
+calendar has been created for a person or track it is easy to run the program 
+and have the calendar updated with only the changes from the calendars current state
+
 
 
 
