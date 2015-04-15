@@ -16092,7 +16092,7 @@ End Time,11:50
 tracknosp,['Literature']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Hamlin', 'Literature', 'Author Reading: Jen Haeger and Sarah Hans', 'Jen Haeger, Sarah Hans', '\n\n\nJoin author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Hamlin', 'Literature', 'Author Reading: Jen Haeger and Sarah Hans', 'Jen Haeger, Sarah Hans', 'Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Jen Haeger, Sarah Hans"
 avneeds,none
@@ -16100,19 +16100,16 @@ speakerlist,"['Jen Haeger', 'Sarah Hans']"
 hours,0
 totalminutes,50
 speakernosplist,"['JenHaeger', 'SarahHans']"
-caldescrip,"
-
-
-Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. "
+caldescrip,Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. 
 endtime,11:50
 AV Needs,
 name,Author Reading: Jen Haeger and Sarah Hans
 Private,PUBLIC
 bookname,Author Reading: Jen Haeger and Sarah Hans
 venue,Hamlin
-Book Description, Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. 
+Book Description,Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. 
 Presenters,"Jen Haeger, Sarah Hans"
-csvsafedescrip,   Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. 
+csvsafedescrip,Join author and veterinarian Jen Haeger and author/editor Sarah Hans while they read and discuss their latest works. 
 speakernosp,"JenHaeger,SarahHans"
 starttime,11:00
 roomnosp,Hamlin
@@ -16969,7 +16966,7 @@ End Time,13:50
 tracknosp,"['Tech', 'Life']"
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '13:00', '4/26/2015', '13:50', 'Algonquin B', 'Tech, Life', 'How to Get (and Keep) a Tech Job', 'Mark Haynes, Douglas Johnson', ""\nTo get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '13:00', '4/26/2015', '13:50', 'Algonquin B', 'Tech, Life', 'How to Get (and Keep) a Tech Job', 'Mark Haynes, Douglas Johnson', ""To get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Mark Haynes, Douglas Johnson"
 avneeds,Projector
@@ -16977,17 +16974,16 @@ speakerlist,"['Mark Haynes', 'Douglas Johnson']"
 hours,0
 totalminutes,50
 speakernosplist,"['MarkHaynes', 'DouglasJohnson']"
-caldescrip,"
-To get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"
+caldescrip,"To get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"
 endtime,13:50
 AV Needs,Projector
 name,How to Get (and Keep) a Tech Job
 Private,PUBLIC
 bookname,How to Get (and Keep) a Tech Job
 venue,Algonquin B
-Book Description," To get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"
+Book Description,"To get a professional job, you must be adept at phone and Skype screening interviews. Once you get a job, you might be expected to program for 3 browsers plus Android and IOS devices, flawlessly. Or as a tester, you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this, and more!"
 Presenters,"Mark Haynes, Douglas Johnson"
-csvsafedescrip, To get a professional job- you must be adept at phone and Skype screening interviews. Once you get a job- you might be expected to program for 3 browsers plus Android and IOS devices- flawlessly. Or as a tester- you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this- and more!
+csvsafedescrip,To get a professional job- you must be adept at phone and Skype screening interviews. Once you get a job- you might be expected to program for 3 browsers plus Android and IOS devices- flawlessly. Or as a tester- you'll want to know mobile testing tools plus the Agile environment. We'll talk about all this- and more!
 speakernosp,"MarkHaynes,DouglasJohnson"
 starttime,13:00
 roomnosp,AlgonquinB
