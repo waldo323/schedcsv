@@ -254,7 +254,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Presenters"):
             session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
         if  (field == "Title"):
-            session['name'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext)))
+            session['name'] = re.sub(r'"','\'' ,re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))))
             temptext = replace_all(fieldtext, addamps)
             temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext))).strip(', \t\n\r')
             session['bookname'] = temptext
