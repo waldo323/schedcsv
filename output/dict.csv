@@ -10795,7 +10795,7 @@ End Time,18:50
 tracknosp,['Life']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '17:00', '4/25/2015', '18:50', 'Charlevoix C', 'Life', 'Science Fiction Spelling Bee', 'Julie Winningham, Merrie Haskell, Lucy Kennedy', 'Come test your genre knowledge in the most fantastically fictitious spelling bee ever! \xc2\xa0From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we\xe2\x80\x99ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm.\n', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '18:50', 'Charlevoix C', 'Life', 'Science Fiction Spelling Bee', 'Julie Winningham, Merrie Haskell, Lucy Kennedy', 'Come test your genre knowledge in the most fantastically fictitious spelling bee ever! \xc2\xa0From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we\xe2\x80\x99ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Julie Winningham, Merrie Haskell, Lucy Kennedy"
 avneeds,none
@@ -10803,17 +10803,16 @@ speakerlist,"['Julie Winningham', 'Merrie Haskell', 'Lucy Kennedy']"
 hours,1
 totalminutes,110
 speakernosplist,"['JulieWinningham', 'MerrieHaskell', 'LucyKennedy']"
-caldescrip,"Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm.
-"
+caldescrip,"Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm."
 endtime,18:50
 AV Needs,
 name,Science Fiction Spelling Bee
 Private,PUBLIC
 bookname,Science Fiction Spelling Bee
 venue,Charlevoix C
-Book Description,"Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm. "
+Book Description,"Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri, TANSTAAFL to gafiate, Arrakis to Raxacoricofallapatorius, we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm."
 Presenters,"Julie Winningham, Merrie Haskell, Lucy Kennedy"
-csvsafedescrip,Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri- TANSTAAFL to gafiate- Arrakis to Raxacoricofallapatorius- we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm. 
+csvsafedescrip,Come test your genre knowledge in the most fantastically fictitious spelling bee ever!  From Prydain to Arameri- TANSTAAFL to gafiate- Arrakis to Raxacoricofallapatorius- we’ll be waiting to see who can claim our prizes and the title (and the tiara) of Penguicon spelling champ of 2015! The top 15 will also receive a Penguicon spelling bee badge charm.
 speakernosp,"JulieWinningham,MerrieHaskell,LucyKennedy"
 starttime,17:00
 roomnosp,CharlevoixC
@@ -11164,7 +11163,7 @@ End Time,18:50
 tracknosp,['Life']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Algonquin D', 'Life', 'How To Turn Imposter Syndrome Into A Superpower', 'Charlie Jane Anders', '\nWe all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don\'t deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing ""make believe,"" too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Algonquin D', 'Life', 'How To Turn Imposter Syndrome Into A Superpower', 'Charlie Jane Anders', 'We all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don\'t deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing ""make believe,"" too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Charlie Jane Anders
 avneeds,none
@@ -11172,17 +11171,16 @@ speakerlist,['Charlie Jane Anders']
 hours,0
 totalminutes,50
 speakernosplist,['CharlieJaneAnders']
-caldescrip,"
-We all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don't deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing 'make believe,' too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky."
+caldescrip,"We all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don't deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing 'make believe,' too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky."
 endtime,18:50
 AV Needs,
 name,How To Turn Imposter Syndrome Into A Superpower
 Private,PUBLIC
 bookname,How To Turn Imposter Syndrome Into A Superpower
 venue,Algonquin D
-Book Description," We all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don't deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing ""make believe,"" too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky."
+Book Description,"We all feel imposter syndrome, especially in the worlds of tech, science and geek entertainment. We feel like we don't deserve to be here, or to speak up. But maybe imposter syndrome makes us better at playing ""make believe,"" too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this, and also read a bit of her upcoming novel, All the Birds in the Sky."
 Presenters,Charlie Jane Anders
-csvsafedescrip, We all feel imposter syndrome- especially in the worlds of tech- science and geek entertainment. We feel like we don't deserve to be here- or to speak up. But maybe imposter syndrome makes us better at playing 'make believe-' too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this- and also read a bit of her upcoming novel- All the Birds in the Sky.
+csvsafedescrip,We all feel imposter syndrome- especially in the worlds of tech- science and geek entertainment. We feel like we don't deserve to be here- or to speak up. But maybe imposter syndrome makes us better at playing 'make believe-' too. Can you use imposter syndrome to become more imaginative and creative? And to communicate better? Charlie Jane Anders will give a short talk about this- and also read a bit of her upcoming novel- All the Birds in the Sky.
 speakernosp,CharlieJaneAnders
 starttime,18:00
 roomnosp,AlgonquinD
@@ -11625,7 +11623,7 @@ End Time,18:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Portage Auditorium', 'Tech', 'Using RegEx in grep', 'Mat Enders', '\nThis presentation will cover the regex available to you with the -E flag in grep. Prerequisite \xe2\x80\x93 have used grep to search files.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Portage Auditorium', 'Tech', 'Using RegEx in grep', 'Mat Enders', 'This presentation will cover the regex available to you with the -E flag in grep. Prerequisite \xe2\x80\x93 have used grep to search files.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Mat Enders
 avneeds,Projector
@@ -11633,17 +11631,16 @@ speakerlist,['Mat Enders']
 hours,0
 totalminutes,50
 speakernosplist,['MatEnders']
-caldescrip,"
-This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files."
+caldescrip,This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files.
 endtime,18:50
 AV Needs,Projector
 name,Using RegEx in grep
 Private,PUBLIC
 bookname,Using RegEx in grep
 venue,Portage Auditorium
-Book Description, This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files.
+Book Description,This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files.
 Presenters,Mat Enders
-csvsafedescrip, This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files.
+csvsafedescrip,This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files.
 speakernosp,MatEnders
 starttime,18:00
 roomnosp,PortageAuditorium
@@ -13512,7 +13509,7 @@ End Time,22:50
 tracknosp,['PenguiconEvents']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '22:00', '4/25/2015', '22:50', 'Charlevoix A', 'Penguicon Events', 'Costume Contest', 'Alex Drummer, Justin Coluzzi, Kevin McLeod, Albert Manero, Ruth Suehle, Alex Page', 'This year we are making the costume contest a little more informal.  This means no Muster, Paperwork, or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!\n', '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '22:00', '4/25/2015', '22:50', 'Charlevoix A', 'Penguicon Events', 'Costume Contest', 'Alex Drummer, Justin Coluzzi, Kevin McLeod, Albert Manero, Ruth Suehle, Alex Page', 'This year we are making the costume contest a little more informal.  This means no Muster, Paperwork, or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!', '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Alex Drummer, Justin Coluzzi, Kevin McLeod, Albert Manero, Ruth Suehle, Alex Page"
 avneeds,"Microphone, Sound System"
@@ -13520,17 +13517,16 @@ speakerlist,"['Alex Drummer', 'Justin Coluzzi', 'Kevin McLeod', 'Albert Manero',
 hours,0
 totalminutes,50
 speakernosplist,"['AlexDrummer', 'JustinColuzzi', 'KevinMcLeod', 'AlbertManero', 'RuthSuehle', 'AlexPage']"
-caldescrip,"This year we are making the costume contest a little more informal.  This means no Muster, Paperwork, or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!
-"
+caldescrip,"This year we are making the costume contest a little more informal.  This means no Muster, Paperwork, or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!"
 endtime,22:50
 AV Needs,"Microphone, Sound System"
 name,Costume Contest
 Private,PUBLIC
 bookname,Costume Contest
 venue,Charlevoix A
-Book Description,"This year we are making the costume contest a little more informal. This means no Muster, Paperwork, or Registration. You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter. From there it is in the hands of our MC and N.U.E.T.! Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes. Best of Show will receive a free badge to Penguicon 2016! "
+Book Description,"This year we are making the costume contest a little more informal. This means no Muster, Paperwork, or Registration. You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter. From there it is in the hands of our MC and N.U.E.T.! Come down for some fun and awesome costumes, and maybe enter for a chance to win some cool prizes. Best of Show will receive a free badge to Penguicon 2016!"
 Presenters,"Alex Drummer, Justin Coluzzi, Kevin McLeod, Albert Manero, Ruth Suehle, Alex Page"
-csvsafedescrip,This year we are making the costume contest a little more informal.  This means no Muster- Paperwork- or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes- and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016! 
+csvsafedescrip,This year we are making the costume contest a little more informal.  This means no Muster- Paperwork- or Registration.  You simply show up at the Geek Prom at the right time (9:45!) and say you want to enter.  From there it is in the hands of our MC and N.U.E.T.!  Come down for some fun and awesome costumes- and maybe enter for a chance to win some cool prizes.  Best of Show will receive a free badge to Penguicon 2016!
 speakernosp,"AlexDrummer,JustinColuzzi,KevinMcLeod,AlbertManero,RuthSuehle,AlexPage"
 starttime,22:00
 roomnosp,CharlevoixA
@@ -14249,7 +14245,7 @@ End Time,9:50
 tracknosp,['Tech']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Algonquin B', 'Tech', 'Notes from ""DHS Industrial Control Systems Cybersecurity 301""', 'Phil Salkie, Susan Sons', ""The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense!\n"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Algonquin B', 'Tech', 'Notes from ""DHS Industrial Control Systems Cybersecurity 301""', 'Phil Salkie, Susan Sons', ""The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense!"", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Phil Salkie, Susan Sons"
 avneeds,Projector
@@ -14257,17 +14253,16 @@ speakerlist,"['Phil Salkie', 'Susan Sons']"
 hours,0
 totalminutes,50
 speakernosplist,"['PhilSalkie', 'SusanSons']"
-caldescrip,"The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense!
-"
+caldescrip,"The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense!"
 endtime,9:50
 AV Needs,Projector
 name,"Notes from ""DHS Industrial Control Systems Cybersecurity 301"""
 Private,PUBLIC
 bookname,"Notes from ""DHS Industrial Control Systems Cybersecurity 301"""
 venue,Algonquin B
-Book Description,"The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks. The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario. The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon. If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense! "
+Book Description,"The Department of Homeland Security offers a free, week-long training class in protecting and securing industrial control systems form cyber attacks. The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario. The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon. If you are involved with industrial automation in any way, this session will let you know what the training class provides, and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth, both presenters were on the winning team - Go, Defense!"
 Presenters,"Phil Salkie, Susan Sons"
-csvsafedescrip,The Department of Homeland Security offers a free- week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way- this session will let you know what the training class provides- and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth- both presenters were on the winning team - Go- Defense! 
+csvsafedescrip,The Department of Homeland Security offers a free- week-long training class in protecting and securing industrial control systems form cyber attacks.  The classes are held monthly at a DHS facility in Idaho Falls and consist of classroom time and a ten-hour red-team/blue-team attack/defense scenario.  The presenters attended the course in February 2015 - now they would like to share their notes and impressions with Penguicon.  If you are involved with industrial automation in any way- this session will let you know what the training class provides- and help you decide whether a trip to Idaho Falls should be in your future. For what it's worth- both presenters were on the winning team - Go- Defense!
 speakernosp,"PhilSalkie,SusanSons"
 starttime,9:00
 roomnosp,AlgonquinB
@@ -14848,7 +14843,7 @@ End Time,10:50
 tracknosp,['Tech']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Algonquin B', 'Tech', 'The Other Singularity: Why We Will and Won\xe2\x80\x99t be Wearing Computers', 'Jared Ficklin', '\nAfter 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle \xe2\x80\x93 even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Algonquin B', 'Tech', 'The Other Singularity: Why We Will and Won\xe2\x80\x99t be Wearing Computers', 'Jared Ficklin', 'After 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle \xe2\x80\x93 even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Jared Ficklin
 avneeds,none
@@ -14856,17 +14851,16 @@ speakerlist,['Jared Ficklin']
 hours,0
 totalminutes,50
 speakernosplist,['JaredFicklin']
-caldescrip,"
-After 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future."
+caldescrip,"After 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future."
 endtime,10:50
 AV Needs,
 name,The Other Singularity: Why We Will and Won’t be Wearing Computers
 Private,PUBLIC
 bookname,The Other Singularity: Why We Will and Won’t be Wearing Computers
 venue,Algonquin B
-Book Description," After 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future."
+Book Description,"After 30-some-odd years of personal computing, the current master of our digital selves, the smart phone, falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere, setting the stage for the next pattern of computing. In this fun and energetic session, we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future."
 Presenters,Jared Ficklin
-csvsafedescrip, After 30-some-odd years of personal computing- the current master of our digital selves- the smart phone- falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere- setting the stage for the next pattern of computing. In this fun and energetic session- we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future.
+csvsafedescrip,After 30-some-odd years of personal computing- the current master of our digital selves- the smart phone- falls totally short; yet it offers us a way to live a digital lifestyle – even if it is a little awkward when it testifies against us in court. Our desire to live in two worlds means we take our computers everywhere- setting the stage for the next pattern of computing. In this fun and energetic session- we will look to the future to see a vision for the next patterns of computing and discuss how the coming changes will create new classes of products and how they are already impacting the way we design for the future.
 speakernosp,JaredFicklin
 starttime,10:00
 roomnosp,AlgonquinB
