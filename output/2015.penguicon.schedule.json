@@ -6047,5 +6047,75 @@
         "minutes": 50,
         "start_date": "4/26/2015",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Soldering is the process of using heat to fuse metal with metal. We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code. Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game!",
+        "end_date": "4/24/2015",
+        "title": "Learn to Solder (and Upgrade Your Badge!)",
+        "track": "DIY",
+        "start_time": "16:00",
+        "presenters": [
+            "Nate Yost"
+        ],
+        "location": "Maker Space [Board of Directors]",
+        "minutes": 170,
+        "start_date": "4/24/2015",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Soldering is the process of using heat to fuse metal with metal. We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code. Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game!",
+        "end_date": "4/25/2015",
+        "title": "Learn to Solder (and Upgrade Your Badge!)",
+        "track": "DIY",
+        "start_time": "17:00",
+        "presenters": [
+            "Nate Yost"
+        ],
+        "location": "Maker Space [Board of Directors]",
+        "minutes": 110,
+        "start_date": "4/25/2015",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Soldering is the process of using heat to fuse metal with metal. We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code. Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game!",
+        "end_date": "4/25/2015",
+        "title": "Learn to Solder (and Upgrade Your Badge!)",
+        "track": "DIY",
+        "start_time": "21:00",
+        "presenters": [
+            "Nate Yost"
+        ],
+        "location": "Maker Space [Board of Directors]",
+        "minutes": 50,
+        "start_date": "4/25/2015",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "Soldering is the process of using heat to fuse metal with metal. We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code. Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game!",
+        "end_date": "4/26/2015",
+        "title": "Learn to Solder (and Upgrade Your Badge!)",
+        "track": "DIY",
+        "start_time": "9:00",
+        "presenters": [
+            "Nate Yost"
+        ],
+        "location": "Maker Space [Board of Directors]",
+        "minutes": 50,
+        "start_date": "4/26/2015",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Soldering is the process of using heat to fuse metal with metal. We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code. Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game!",
+        "end_date": "4/26/2015",
+        "title": "Learn to Solder (and Upgrade Your Badge!)",
+        "track": "DIY",
+        "start_time": "12:00",
+        "presenters": [
+            "Nate Yost"
+        ],
+        "location": "Maker Space [Board of Directors]",
+        "minutes": 110,
+        "start_date": "4/26/2015",
+        "end_time": "13:50"
     }
 ]
