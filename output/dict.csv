@@ -51,7 +51,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,mystery location
+Location,Mystery Location
 duration,48 hours
 description,Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!
 index,1
@@ -67,7 +67,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Find Tux', '', 'Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Find Tux', '', 'Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -81,13 +81,13 @@ AV Needs,
 name,Find Tux
 Private,PUBLIC
 bookname,Find Tux
-venue,mystery location
+venue,Mystery Location
 Book Description,Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it!
 Presenters,
 csvsafedescrip,Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!
 speakernosp,
 starttime,16:00
-roomnosp,mysterylocation
+roomnosp,MysteryLocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -97,7 +97,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,mystery location
+Location,Mystery Location
 duration,48 hours
 description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
 index,2
@@ -113,7 +113,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -127,13 +127,13 @@ AV Needs,
 name,Find Waldo
 Private,PUBLIC
 bookname,Find Waldo
-venue,mystery location
+venue,Mystery Location
 Book Description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
 Presenters,
 csvsafedescrip,Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them- you will be rewarded!
 speakernosp,
 starttime,16:00
-roomnosp,mysterylocation
+roomnosp,MysteryLocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -235,7 +235,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,mystery location
+Location,Mystery Location
 duration,48 hours
 description,"Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!"
 index,5
@@ -251,7 +251,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Google Ingress Dead Drop ', '', 'Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Google Ingress Dead Drop ', '', 'Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -265,13 +265,13 @@ AV Needs,
 name,Google Ingress Dead Drop 
 Private,PUBLIC
 bookname,Google Ingress Dead Drop
-venue,mystery location
+venue,Mystery Location
 Book Description,"Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!"
 Presenters,
 csvsafedescrip,Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it- you can keep it!
 speakernosp,
 starttime,16:00
-roomnosp,mysterylocation
+roomnosp,MysteryLocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -281,7 +281,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,wandering
+Location,Wandering
 duration,48 hours
 description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 index,6
@@ -297,7 +297,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'wandering', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Wandering', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -311,13 +311,13 @@ AV Needs,
 name,NUET Scouts
 Private,PUBLIC
 bookname,NUET Scouts
-venue,wandering
+venue,Wandering
 Book Description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 Presenters,
 csvsafedescrip,The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon- bringing you fun- mayhem- and shenanigans. Find us wandering the con to see what we have planned this year.
 speakernosp,
 starttime,16:00
-roomnosp,wandering
+roomnosp,Wandering
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -419,7 +419,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,mystery location
+Location,Mystery Location
 duration,48 hours
 description,"Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!"
 index,9
@@ -435,7 +435,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Ribbon Fairy', '', 'Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Ribbon Fairy', '', 'Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -449,13 +449,13 @@ AV Needs,
 name,Ribbon Fairy
 Private,PUBLIC
 bookname,Ribbon Fairy
-venue,mystery location
+venue,Mystery Location
 Book Description,"Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!"
 Presenters,
 csvsafedescrip,Look out for the Ribbon Fairy! If you find her- you can trade her a ribbon for a ribbon!
 speakernosp,
 starttime,16:00
-roomnosp,mysterylocation
+roomnosp,MysteryLocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -4517,7 +4517,7 @@ Location,Portage Auditorium
 duration,1 hour and 50 minutes
 description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 index,98
-speakers,Greg Williams
+speakers,"Greg Williams, Jer Lance"
 bookdescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 Track,Film
 startday,4/24/2015
@@ -4529,14 +4529,14 @@ End Time,23:50
 tracknosp,['Film']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '22:00', '4/24/2015', '23:50', 'Portage Auditorium', 'Film', ""Dawn and Greg's Film Roast"", 'Greg Williams', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."", '01hr:50min', 'Microphone, Projector, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '22:00', '4/24/2015', '23:50', 'Portage Auditorium', 'Film', ""Dawn and Greg's Film Roast"", 'Greg Williams, Jer Lance', ""Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."", '01hr:50min', 'Microphone, Projector, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,Greg Williams
+calspeakers,"Greg Williams, Jer Lance"
 avneeds,"Microphone, Projector, Sound System"
-speakerlist,['Greg Williams']
+speakerlist,"['Greg Williams', 'Jer Lance']"
 hours,1
 totalminutes,110
-speakernosplist,['GregWilliams']
+speakernosplist,"['GregWilliams', 'JerLance']"
 caldescrip,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes.  Not appropriate for young children or those who are easily offended,  Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
 endtime,23:50
 AV Needs,"Microphone, Projector, Sound System"
@@ -4545,9 +4545,9 @@ Private,PUBLIC
 bookname,Dawn and Greg's Film Roast
 venue,Portage Auditorium
 Book Description,"Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh. WARNING: May (OK, WILL) include severe laughter, adult language and off-color jokes. Not appropriate for young children or those who are easily offended, Ask your doctor if your heart is healthy enough for sex - if it's not, it probably won't get you through one of our shows, either."
-Presenters,Greg Williams
+Presenters,"Greg Williams, Jer Lance"
 csvsafedescrip,Go to the movies with Dawn and Greg as they add their own special brand of color commentary (a la MST3K) to make a bad movie into a good laugh.  WARNING: May (OK- WILL) include severe laughter- adult language and off-color jokes.  Not appropriate for young children or those who are easily offended-  Ask your doctor if your heart is healthy enough for sex - if it's not- it probably won't get you through one of our shows- either.
-speakernosp,GregWilliams
+speakernosp,"GregWilliams,JerLance"
 starttime,22:00
 roomnosp,PortageAuditorium
 Start Date,4/24/2015
@@ -10819,7 +10819,7 @@ Location,Food [Room 517]
 duration,50 minutes
 description,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 index,235
-speakers,Greg Williams
+speakers,"Greg Williams, Karen Corbeill, James Gamble"
 bookdescrip,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 Track,Food
 startday,4/25/2015
@@ -10831,14 +10831,14 @@ End Time,17:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Food [Room 517]', 'Food', 'The Brown Liquors', 'Greg Williams', 'What\'s the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Food [Room 517]', 'Food', 'The Brown Liquors', 'Greg Williams, Karen Corbeill, James Gamble', 'What\'s the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,Greg Williams
+calspeakers,"Greg Williams, Karen Corbeill, James Gamble"
 avneeds,none
-speakerlist,['Greg Williams']
+speakerlist,"['Greg Williams', 'Karen Corbeill', 'James Gamble']"
 hours,0
 totalminutes,50
-speakernosplist,['GregWilliams']
+speakernosplist,"['GregWilliams', 'KarenCorbeill', 'JamesGamble']"
 caldescrip,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different 'Brown Liquors' are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 endtime,17:50
 AV Needs,
@@ -10847,9 +10847,9 @@ Private,PUBLIC
 bookname,The Brown Liquors
 venue,Food [Room 517]
 Book Description,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
-Presenters,Greg Williams
+Presenters,"Greg Williams, Karen Corbeill, James Gamble"
 csvsafedescrip,What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different 'Brown Liquors' are made- and what makes them unique from one another. And while your at it- find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!
-speakernosp,GregWilliams
+speakernosp,"GregWilliams,KarenCorbeill,JamesGamble"
 starttime,17:00
 roomnosp,Food[Room517]
 Start Date,4/25/2015

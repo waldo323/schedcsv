@@ -22,7 +22,7 @@
         "presenters": [
             ""
         ],
-        "location": "mystery location",
+        "location": "Mystery Location",
         "minutes": 2880,
         "start_date": "4/24/2015",
         "end_time": "16:00"
@@ -36,7 +36,7 @@
         "presenters": [
             ""
         ],
-        "location": "mystery location",
+        "location": "Mystery Location",
         "minutes": 2880,
         "start_date": "4/24/2015",
         "end_time": "16:00"
@@ -78,7 +78,7 @@
         "presenters": [
             ""
         ],
-        "location": "mystery location",
+        "location": "Mystery Location",
         "minutes": 2880,
         "start_date": "4/24/2015",
         "end_time": "16:00"
@@ -92,7 +92,7 @@
         "presenters": [
             ""
         ],
-        "location": "wandering",
+        "location": "Wandering",
         "minutes": 2880,
         "start_date": "4/24/2015",
         "end_time": "16:00"
@@ -134,7 +134,7 @@
         "presenters": [
             ""
         ],
-        "location": "mystery location",
+        "location": "Mystery Location",
         "minutes": 2880,
         "start_date": "4/24/2015",
         "end_time": "16:00"
@@ -1466,7 +1466,8 @@
         "track": "Film",
         "start_time": "22:00",
         "presenters": [
-            "Greg Williams"
+            "Greg Williams",
+            "Jer Lance"
         ],
         "location": "Portage Auditorium",
         "minutes": 110,
@@ -3530,7 +3531,9 @@
         "track": "Food",
         "start_time": "17:00",
         "presenters": [
-            "Greg Williams"
+            "Greg Williams",
+            "Karen Corbeill",
+            "James Gamble"
         ],
         "location": "Food [Room 517]",
         "minutes": 50,
