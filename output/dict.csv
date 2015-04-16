@@ -99,10 +99,10 @@ private,PUBLIC
 endtimeampm,4 PM
 Location,Mystery Location
 duration,48 hours
-description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
+description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you may be rewarded!"
 index,2
 speakers,
-bookdescrip,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
+bookdescrip,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you may be rewarded!"
 Track,Mayhem
 startday,4/24/2015
 Title,Find Waldo
@@ -113,7 +113,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Mystery Location', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you may be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -121,16 +121,16 @@ speakerlist,['']
 hours,48
 totalminutes,2880
 speakernosplist,['']
-caldescrip,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
+caldescrip,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you may be rewarded!"
 endtime,16:00
 AV Needs,
 name,Find Waldo
 Private,PUBLIC
 bookname,Find Waldo
 venue,Mystery Location
-Book Description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
+Book Description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you may be rewarded!"
 Presenters,
-csvsafedescrip,Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them- you will be rewarded!
+csvsafedescrip,Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them- you may be rewarded!
 speakernosp,
 starttime,16:00
 roomnosp,MysteryLocation
