@@ -11229,7 +11229,7 @@ event_end,19:50
 event_type_list,"['Tech', 'Science']"
 private,PUBLIC
 endtimeampm,7 PM
-Location,Charlevoix A
+Location,Windover
 duration,1 hour and 50 minutes
 description,"A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things!"
 index,244
@@ -11245,7 +11245,7 @@ End Time,19:50
 tracknosp,"['Tech', 'Science']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Charlevoix A', 'Tech, Science', 'Biohacking: Upgrading the Human Body', 'Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek', 'A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things!', '01hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Windover', 'Tech, Science', 'Biohacking: Upgrading the Human Body', 'Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek', 'A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things!', '01hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek"
 avneeds,"Microphone, Sound System"
@@ -11259,13 +11259,13 @@ AV Needs,"Microphone, Sound System"
 name,Biohacking: Upgrading the Human Body
 Private,PUBLIC
 bookname,Biohacking: Upgrading the Human Body
-venue,Charlevoix A
+venue,Windover
 Book Description,"A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things!"
 Presenters,"Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek"
 csvsafedescrip,A mix of technology- DIY- and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body- the potential for humanity- the impact of h+ on society- and more! Please join us for a panel discussion- and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things!
 speakernosp,"AmalGraafstra,DrewBuglione,AnitaFowler,TimCannon,CynthiaChestek"
 starttime,18:00
-roomnosp,CharlevoixA
+roomnosp,Windover
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -11643,7 +11643,7 @@ event_end,19:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,7 PM
-Location,Windover
+Location,Charlevoix A
 duration,1 hour and 50 minutes
 description,"Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
 index,253
@@ -11659,7 +11659,7 @@ End Time,19:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Windover', 'Tech', 'Social Engineering for Fun and Profit', 'Nick Farr and Friends', ""Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Charlevoix A', 'Tech', 'Social Engineering for Fun and Profit', 'Nick Farr and Friends', ""Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Nick Farr and Friends
 avneeds,none
@@ -11673,13 +11673,13 @@ AV Needs,
 name,Social Engineering for Fun and Profit
 Private,PUBLIC
 bookname,Social Engineering for Fun and Profit
-venue,Windover
+venue,Charlevoix A
 Book Description,"Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
 Presenters,Nick Farr and Friends
 csvsafedescrip,Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out- right? Wait- there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack- right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!
 speakernosp,NickFarrandFriends
 starttime,18:00
-roomnosp,Windover
+roomnosp,CharlevoixA
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
