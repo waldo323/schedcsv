@@ -12,7 +12,8 @@ Detailed instructions:
 
 Download/save your csv
    * This could be included in the zip file if this was sent to you
-   * Know where this file is you will need to know that later
+   * Extract the zip file to a new folder or copy the file with your name to a folder of your choosing
+   * Know where the file with your name is, you will need to know that later
 
  
 Create a new calendar (for these instructions I am assuming you are using google calendar)
