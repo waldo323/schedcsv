@@ -1845,7 +1845,7 @@ event_end,20:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,8 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,2 hours and 50 minutes
 description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!
 index,40
@@ -1861,7 +1861,7 @@ End Time,20:50
 tracknosp,['Food']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food [Room 517]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food [Room 1017]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Marcus Hauser
 avneeds,none
@@ -1875,13 +1875,13 @@ AV Needs,
 name,Flavored Popcorn!
 Private,PUBLIC
 bookname,Flavored Popcorn!
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
 Presenters,Marcus Hauser
 csvsafedescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar!  Come learn some tips and tricks and enjoy some tasty popcorn!
 speakernosp,MarcusHauser
 starttime,18:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/24/2015
 minutes,50
 allday,FALSE
@@ -5295,7 +5295,7 @@ event_end,9:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 AM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,A solemn celebration of caffeination in our time-honored Penguicon tradition.
 index,115
@@ -5311,7 +5311,7 @@ End Time,9:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Food [Room 517]', 'Food', 'Penguicon Coffee Ritual', 'Matt Arnold', 'A solemn celebration of caffeination in our time-honored Penguicon tradition.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Food [Room 1017]', 'Food', 'Penguicon Coffee Ritual', 'Matt Arnold', 'A solemn celebration of caffeination in our time-honored Penguicon tradition.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Matt Arnold
 avneeds,none
@@ -5325,13 +5325,13 @@ AV Needs,
 name,Penguicon Coffee Ritual
 Private,PUBLIC
 bookname,Penguicon Coffee Ritual
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,A solemn celebration of caffeination in our time-honored Penguicon tradition.
 Presenters,Matt Arnold
 csvsafedescrip,A solemn celebration of caffeination in our time-honored Penguicon tradition.
 speakernosp,MattArnold
 starttime,9:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -6123,7 +6123,7 @@ event_end,10:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,10 AM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."
 index,133
@@ -6139,7 +6139,7 @@ End Time,10:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Food [Room 517]', 'Food', 'Deconstructing Banana Bread', 'Leigh Mileur', ""A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Food [Room 1017]', 'Food', 'Deconstructing Banana Bread', 'Leigh Mileur', ""A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Leigh Mileur
 avneeds,none
@@ -6153,13 +6153,13 @@ AV Needs,
 name,Deconstructing Banana Bread
 Private,PUBLIC
 bookname,Deconstructing Banana Bread
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"A talk about how varying different ingredients changes different aspects of the final product, as demonstrated using Grandma's banana bread recipe as a baseline."
 Presenters,Leigh Mileur
 csvsafedescrip,A talk about how varying different ingredients changes different aspects of the final product- as demonstrated using Grandma's banana bread recipe as a baseline.
 speakernosp,LeighMileur
 starttime,10:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -6813,7 +6813,7 @@ event_end,12:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,1 hour and 50 minutes
 description,"Fresh pasta, tomato and alfredo sauce, all made from scratch. Simple ingredients, easy to do, etc etc etc."
 index,148
@@ -6829,7 +6829,7 @@ End Time,12:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '11:00', '4/25/2015', '12:50', 'Food [Room 517]', 'Food', 'PenguiPasta With Some Sauce Bosses', 'Andy Amsdill, Kattni Rembor', 'Fresh pasta, tomato and alfredo sauce, all made from scratch. Simple ingredients, easy to do, etc etc etc.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '11:00', '4/25/2015', '12:50', 'Food [Room 1017]', 'Food', 'PenguiPasta With Some Sauce Bosses', 'Andy Amsdill, Kattni Rembor', 'Fresh pasta, tomato and alfredo sauce, all made from scratch. Simple ingredients, easy to do, etc etc etc.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Andy Amsdill, Kattni Rembor"
 avneeds,none
@@ -6843,13 +6843,13 @@ AV Needs,
 name,PenguiPasta With Some Sauce Bosses
 Private,PUBLIC
 bookname,PenguiPasta With Some Sauce Bosses
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"Fresh pasta, tomato and alfredo sauce, all made from scratch. Simple ingredients, easy to do, etc etc etc."
 Presenters,"Andy Amsdill, Kattni Rembor"
 csvsafedescrip,Fresh pasta- tomato and alfredo sauce- all made from scratch. Simple ingredients- easy to do- etc etc etc.
 speakernosp,"AndyAmsdill,KattniRembor"
 starttime,11:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -8377,7 +8377,7 @@ event_end,13:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,1 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"In this panel, we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods, ingredients and equipment they can use to brew their own beer, gearing up for May 3rd - National Homebrew Day! 21+ please"
 index,182
@@ -8393,7 +8393,7 @@ End Time,13:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Food [Room 517]', 'Food', 'Intro to Homebrewing Beer', 'Joe Rapp', ""In this panel, we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods, ingredients and equipment they can use to brew their own beer, gearing up for May 3rd - National Homebrew Day! 21+ please"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '13:50', 'Food [Room 1017]', 'Food', 'Intro to Homebrewing Beer', 'Joe Rapp', ""In this panel, we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods, ingredients and equipment they can use to brew their own beer, gearing up for May 3rd - National Homebrew Day! 21+ please"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Joe Rapp
 avneeds,none
@@ -8407,13 +8407,13 @@ AV Needs,
 name,Intro to Homebrewing Beer
 Private,PUBLIC
 bookname,Intro to Homebrewing Beer
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"In this panel, we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods, ingredients and equipment they can use to brew their own beer, gearing up for May 3rd - National Homebrew Day! 21+ please"
 Presenters,Joe Rapp
 csvsafedescrip,In this panel- we'll share various styles of homebrewed beer with the participants while briefly going over the science behind brewing. Participants will then learn of the various methods- ingredients and equipment they can use to brew their own beer- gearing up for May 3rd - National Homebrew Day! 21+ please
 speakernosp,JoeRapp
 starttime,13:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -8469,7 +8469,7 @@ event_end,18:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,6 PM
-Location,Lobby [Near Elevators]
+Location,Lobby
 duration,5 hours
 description,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
 index,184
@@ -8485,7 +8485,7 @@ End Time,18:00
 tracknosp,['Mayhem']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '13:00', '4/25/2015', '18:00', 'Lobby [Near Elevators]', 'Mayhem', 'Scavenger Hunt', 'Mat Roll', 'Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday', '04hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '13:00', '4/25/2015', '18:00', 'Lobby', 'Mayhem', 'Scavenger Hunt', 'Mat Roll', 'Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday', '04hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Mat Roll
 avneeds,none
@@ -8499,13 +8499,13 @@ AV Needs,
 name,Scavenger Hunt
 Private,PUBLIC
 bookname,Scavenger Hunt
-venue,Lobby [Near Elevators]
+venue,Lobby
 Book Description,"Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin, find Mat in the Maker Market between 1 and 6 pm on Saturday"
 Presenters,Mat Roll
 csvsafedescrip,Go on a fun hunt around the con! The first 25 people to complete the tasks will win a 3D printed object! Other prizes too! To begin- find Mat in the Maker Market between 1 and 6 pm on Saturday
 speakernosp,MatRoll
 starttime,13:00
-roomnosp,Lobby[NearElevators]
+roomnosp,Lobby
 Start Date,4/25/2015
 minutes,00
 allday,FALSE
@@ -9619,7 +9619,7 @@ event_end,15:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!
 index,209
@@ -9635,7 +9635,7 @@ End Time,15:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '15:00', '4/25/2015', '15:50', 'Food [Room 517]', 'Food', 'Cooking With the Con Chair: Sushi!', 'Janet Gocay, Nuri Gocay', 'Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '15:00', '4/25/2015', '15:50', 'Food [Room 1017]', 'Food', 'Cooking With the Con Chair: Sushi!', 'Janet Gocay, Nuri Gocay', 'Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Janet Gocay, Nuri Gocay"
 avneeds,none
@@ -9649,13 +9649,13 @@ AV Needs,
 name,Cooking With the Con Chair: Sushi!
 Private,PUBLIC
 bookname,Cooking With the Con Chair: Sushi!
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!
 Presenters,"Janet Gocay, Nuri Gocay"
 csvsafedescrip,Our illustrious Con Char and indefatigable Head of Programming take an hour out from their real passions (Con - duh!) to share one of their other passions - sushi!
 speakernosp,"JanetGocay,NuriGocay"
 starttime,15:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -9757,7 +9757,7 @@ event_end,15:50
 event_type_list,['Videogaming']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Lobby [Near Elevators]
+Location,Lobby
 duration,50 minutes
 description,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
 index,212
@@ -9773,7 +9773,7 @@ End Time,15:50
 tracknosp,['Videogaming']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '15:00', '4/25/2015', '15:50', 'Lobby [Near Elevators]', 'Videogaming', 'Opening Up Retro-Style Video Cabinets', 'David Gazdowicz', 'David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '15:00', '4/25/2015', '15:50', 'Lobby', 'Videogaming', 'Opening Up Retro-Style Video Cabinets', 'David Gazdowicz', 'David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,David Gazdowicz
 avneeds,none
@@ -9787,13 +9787,13 @@ AV Needs,
 name,Opening Up Retro-Style Video Cabinets
 Private,PUBLIC
 bookname,Opening Up Retro-Style Video Cabinets
-venue,Lobby [Near Elevators]
+venue,Lobby
 Book Description,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
 Presenters,David Gazdowicz
 csvsafedescrip,David Gazdowicz created modern retro-style video games from the ground up. Join David in the lobby as he opens up the cabinets so you can poke around a bit at the inner workings!
 speakernosp,DavidGazdowicz
 starttime,15:00
-roomnosp,Lobby[NearElevators]
+roomnosp,Lobby
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -10217,7 +10217,7 @@ event_end,16:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,4 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"A meal doesn't have to have meat to be tasty. Learn how to reduce your carbon footprint, cook for your annoying vegetarian friend, season with more than just salt, and participate in meatless Mondays."
 index,222
@@ -10233,7 +10233,7 @@ End Time,16:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Food [Room 517]', 'Food', 'Rethinking Your Food Plate', 'Maggie Maiville, Shannon Marshall', ""A meal doesn't have to have meat to be tasty. Learn how to reduce your carbon footprint, cook for your annoying vegetarian friend, season with more than just salt, and participate in meatless Mondays."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Food [Room 1017]', 'Food', 'Rethinking Your Food Plate', 'Maggie Maiville, Shannon Marshall', ""A meal doesn't have to have meat to be tasty. Learn how to reduce your carbon footprint, cook for your annoying vegetarian friend, season with more than just salt, and participate in meatless Mondays."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Maggie Maiville, Shannon Marshall"
 avneeds,none
@@ -10247,13 +10247,13 @@ AV Needs,
 name,Rethinking Your Food Plate
 Private,PUBLIC
 bookname,Rethinking Your Food Plate
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"A meal doesn't have to have meat to be tasty. Learn how to reduce your carbon footprint, cook for your annoying vegetarian friend, season with more than just salt, and participate in meatless Mondays."
 Presenters,"Maggie Maiville, Shannon Marshall"
 csvsafedescrip,A meal doesn't have to have meat to be tasty. Learn how to reduce your carbon footprint- cook for your annoying vegetarian friend- season with more than just salt- and participate in meatless Mondays.
 speakernosp,"MaggieMaiville,ShannonMarshall"
 starttime,16:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -10815,7 +10815,7 @@ event_end,17:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,5 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 index,235
@@ -10831,7 +10831,7 @@ End Time,17:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Food [Room 517]', 'Food', 'The Brown Liquors', 'Greg Williams, Karen Corbeill, James Gamble', 'What\'s the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Food [Room 1017]', 'Food', 'The Brown Liquors', 'Greg Williams, Karen Corbeill, James Gamble', 'What\'s the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Greg Williams, Karen Corbeill, James Gamble"
 avneeds,none
@@ -10845,13 +10845,13 @@ AV Needs,
 name,The Brown Liquors
 Private,PUBLIC
 bookname,The Brown Liquors
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different ""Brown Liquors"" are made, and what makes them unique from one another. And while your at it, find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!"
 Presenters,"Greg Williams, Karen Corbeill, James Gamble"
 csvsafedescrip,What's the difference between Bourbon and Scotch? Is Tennessee whiskey any different from Irish? How? Why? Come hear how these different 'Brown Liquors' are made- and what makes them unique from one another. And while your at it- find out for yourself by sampling a little of each.Must be 21+ to participate. Spots are limited - please sign up at Ops!
 speakernosp,"GregWilliams,KarenCorbeill,JamesGamble"
 starttime,17:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -10907,7 +10907,7 @@ event_end,18:50
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,6 PM
-Location,Lobby [Near Elevators]
+Location,Lobby
 duration,1 hour and 50 minutes
 description,"A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."
 index,237
@@ -10923,7 +10923,7 @@ End Time,18:50
 tracknosp,['Mayhem']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '17:00', '4/25/2015', '18:50', 'Lobby [Near Elevators]', 'Mayhem', 'The World Around You Is Not What It Seems\xe2\x80\xa6', 'Linda Besh', ""A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '18:50', 'Lobby', 'Mayhem', 'The World Around You Is Not What It Seems\xe2\x80\xa6', 'Linda Besh', ""A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,Linda Besh
 avneeds,none
@@ -10937,13 +10937,13 @@ AV Needs,
 name,The World Around You Is Not What It Seems…
 Private,PUBLIC
 bookname,The World Around You Is Not What It Seems…
-venue,Lobby [Near Elevators]
+venue,Lobby
 Book Description,"A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction. If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00."
 Presenters,Linda Besh
 csvsafedescrip,A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog- or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction.  If you want to carpool- meet at the fountain in the lobby at 4:45. If you drive over- meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00.
 speakernosp,LindaBesh
 starttime,17:00
-roomnosp,Lobby[NearElevators]
+roomnosp,Lobby
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -11321,7 +11321,7 @@ event_end,18:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,6 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.
 index,246
@@ -11337,7 +11337,7 @@ End Time,18:50
 tracknosp,['Food']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Food [Room 517]', 'Food', 'Cheese, Glorious Cheese', 'Shannon Marshall, Maggie Maiville', 'Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '18:50', 'Food [Room 1017]', 'Food', 'Cheese, Glorious Cheese', 'Shannon Marshall, Maggie Maiville', 'Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
 calspeakers,"Shannon Marshall, Maggie Maiville"
 avneeds,none
@@ -11351,13 +11351,13 @@ AV Needs,
 name,"Cheese, Glorious Cheese"
 Private,PUBLIC
 bookname,"Cheese, Glorious Cheese"
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.
 Presenters,"Shannon Marshall, Maggie Maiville"
 csvsafedescrip,Shannon and Maggie have based their entire relationship on cheese. Come sample their favorites and learn how to pair the stinkiest of Gorgonzolas to the sharpest of Cheddars.
 speakernosp,"ShannonMarshall,MaggieMaiville"
 starttime,18:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/25/2015
 minutes,50
 allday,FALSE
@@ -14541,7 +14541,7 @@ event_end,9:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 AM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"Switchel is also called swizzle, ginger-water, and haymaker's punch, a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century, this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling."
 index,316
@@ -14557,7 +14557,7 @@ End Time,9:50
 tracknosp,['Food']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Food [Room 517]', 'Food', 'What the Heck is Switchel?', 'Hanna Christiansen', ""Switchel is also called swizzle, ginger-water, and haymaker's punch, a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century, this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Food [Room 1017]', 'Food', 'What the Heck is Switchel?', 'Hanna Christiansen', ""Switchel is also called swizzle, ginger-water, and haymaker's punch, a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century, this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Hanna Christiansen
 avneeds,none
@@ -14571,13 +14571,13 @@ AV Needs,
 name,What the Heck is Switchel?
 Private,PUBLIC
 bookname,What the Heck is Switchel?
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"Switchel is also called swizzle, ginger-water, and haymaker's punch, a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century, this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling."
 Presenters,Hanna Christiansen
 csvsafedescrip,Switchel is also called swizzle- ginger-water- and haymaker's punch- a ginger infused sweet and sour drink (think spiced lemonade). Since the 16th century- this drink has been used by farm hands and travelers to combat thirst. It is currently experiencing a renaissance at farmers markets as a nutrient dense alternative to sports drinks. At this class we will walk through making a batch of one recipe and several other regional variants will be available for sampling.
 speakernosp,HannaChristiansen
 starttime,9:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -15323,7 +15323,7 @@ event_end,10:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,10 AM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet, savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later."
 index,333
@@ -15339,7 +15339,7 @@ End Time,10:50
 tracknosp,['Food']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Food [Room 517]', 'Food', 'Homemade Herbal Butters, Oils, and Vinegars', 'Hanna Christiansen', 'One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet, savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '10:00', '4/26/2015', '10:50', 'Food [Room 1017]', 'Food', 'Homemade Herbal Butters, Oils, and Vinegars', 'Hanna Christiansen', 'One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet, savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Hanna Christiansen
 avneeds,none
@@ -15353,13 +15353,13 @@ AV Needs,
 name,"Homemade Herbal Butters, Oils, and Vinegars"
 Private,PUBLIC
 bookname,"Homemade Herbal Butters, Oils, and Vinegars"
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet, savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later."
 Presenters,Hanna Christiansen
 csvsafedescrip,One fast way to add big flavor to food is by using herb infused ingredients. Come learn a few simple techniques for making your own delicious concoctions; sample sweet- savory and spicy combinations while you are here; leave with ideas and several recipes to experiment with later.
 speakernosp,HannaChristiansen
 starttime,10:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -16013,7 +16013,7 @@ event_end,11:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,11 AM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit, herbs and spices, alcohol bases, and sweeteners will be included. Must be 21+ to participate."
 index,348
@@ -16029,7 +16029,7 @@ End Time,11:50
 tracknosp,['Food']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Food [Room 517]', 'Food', 'DIY Infusions and Liqueurs', 'Heather Fish, Nuri Gocay', 'Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit, herbs and spices, alcohol bases, and sweeteners will be included. Must be 21+ to participate.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '11:00', '4/26/2015', '11:50', 'Food [Room 1017]', 'Food', 'DIY Infusions and Liqueurs', 'Heather Fish, Nuri Gocay', 'Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit, herbs and spices, alcohol bases, and sweeteners will be included. Must be 21+ to participate.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Heather Fish, Nuri Gocay"
 avneeds,none
@@ -16043,13 +16043,13 @@ AV Needs,
 name,DIY Infusions and Liqueurs
 Private,PUBLIC
 bookname,DIY Infusions and Liqueurs
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit, herbs and spices, alcohol bases, and sweeteners will be included. Must be 21+ to participate."
 Presenters,"Heather Fish, Nuri Gocay"
 csvsafedescrip,Come see techniques for making homemade infusions and liqueurs! Techniques involving fruit- herbs and spices- alcohol bases- and sweeteners will be included. Must be 21+ to participate.
 speakernosp,"HeatherFish,NuriGocay"
 starttime,11:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -16611,7 +16611,7 @@ event_end,12:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,50 minutes
 description,"What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world, and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian."
 index,361
@@ -16627,7 +16627,7 @@ End Time,12:50
 tracknosp,['Food']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Food [Room 517]', 'Food', 'Dark Chocolate Around The World', 'Cathy Raymond, Eric Raymond', ""What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world, and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '12:00', '4/26/2015', '12:50', 'Food [Room 1017]', 'Food', 'Dark Chocolate Around The World', 'Cathy Raymond, Eric Raymond', ""What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world, and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Cathy Raymond, Eric Raymond"
 avneeds,none
@@ -16641,13 +16641,13 @@ AV Needs,
 name,Dark Chocolate Around The World
 Private,PUBLIC
 bookname,Dark Chocolate Around The World
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world, and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian."
 Presenters,"Cathy Raymond, Eric Raymond"
 csvsafedescrip,What makes one chocolate different from others? It's not just how much cocoa or sugar it contains or how it's processed. Different varieties of are grown in different parts of the world- and sometimes it's the type of beans make for different flavor qualities. Join Cathy and Eric Raymond for a tasting session designed to show you how to tell West African chocolate from Ecuadorian.
 speakernosp,"CathyRaymond,EricRaymond"
 starttime,12:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
@@ -17301,7 +17301,7 @@ event_end,14:50
 event_type_list,"['Costuming', 'DIY']"
 private,PUBLIC
 endtimeampm,2 PM
-Location,Food [Room 517]
+Location,Food [Room 1017]
 duration,1 hour and 50 minutes
 description,"Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops!"
 index,376
@@ -17317,7 +17317,7 @@ End Time,14:50
 tracknosp,"['Costuming', 'DIY']"
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '13:00', '4/26/2015', '14:50', 'Food [Room 517]', 'Costuming, DIY', 'Silicone Casting for Cheap Bastards', 'Gnora Ford-Lepthien ', ""Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '13:00', '4/26/2015', '14:50', 'Food [Room 1017]', 'Costuming, DIY', 'Silicone Casting for Cheap Bastards', 'Gnora Ford-Lepthien ', ""Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,Gnora Ford-Lepthien
 avneeds,none
@@ -17331,13 +17331,13 @@ AV Needs,
 name,Silicone Casting for Cheap Bastards
 Private,PUBLIC
 bookname,Silicone Casting for Cheap Bastards
-venue,Food [Room 517]
+venue,Food [Room 1017]
 Book Description,"Have you wanted to make stuff out of silicone, but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster, then cast in silicone. Spots are limited - please sign up at Ops!"
 Presenters,Gnora Ford-Lepthien 
 csvsafedescrip,Have you wanted to make stuff out of silicone- but don't want to buy the expensive stuff? In this panel you will learn how to mold silicone things out of cheap and easily obtainable silicone caulk and cornstarch. We will cover the entire process from plaster casting to the silicone mixture and casting. Limited amounts of casting materials will be available. Bring small items to mold in plaster- then cast in silicone. Spots are limited - please sign up at Ops!
 speakernosp,GnoraFord-Lepthien
 starttime,13:00
-roomnosp,Food[Room517]
+roomnosp,Food[Room1017]
 Start Date,4/26/2015
 minutes,50
 allday,FALSE
