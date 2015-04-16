@@ -1,50 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<day>All Weekend</day>
-<event>
-<room></room>
-<title>Chaos Machine</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Find Tux</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Find Waldo</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Free Fates Fortune Telling Booth</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Giant Jenga</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Google Ingress Dead Drop</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>NUET Scouts</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Pengicon Picture Bingo</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Retro-style Video Games</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Ribbon Fairy</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<title>Where in the World?</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Combat Mindset</title>
@@ -1489,7 +1443,33 @@
 <day>SUNDAY, APRIL 26</day>
 <title>BoF: XBox One vs. Playstation 4 -- Who "Won" the Next Gen Console War?</title>
 <topic>Videogaming</topic>
-<time>3 PM</time></event><event>
+<time>3 PM</time></event>
+<day>All Weekend</day>
+<event>
+<room>Lobby</room>
+<title>Chaos Machine</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<title>Free Fates Fortune Telling Booth</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<title>Giant Jenga</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<title>Pengicon Picture Bingo</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<title>Retro-style Video Games</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<title>Where in the World?</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
 <room>Lobby [Near Elevators]</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Virtual Reality Headset Demo with Game Face Labs</title>
@@ -2009,4 +1989,24 @@
 <day>SUNDAY, APRIL 26</day>
 <title>Crowdfunding Your Way to Success</title>
 <topic>Literature, Videogaming, Gaming, Webcomics</topic>
-<time>2 PM</time></event></events>
+<time>2 PM</time></event><event>
+<room>mystery location</room>
+<title>Find Tux</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>mystery location</room>
+<title>Find Waldo</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>mystery location</room>
+<title>Google Ingress Dead Drop</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>mystery location</room>
+<title>Ribbon Fairy</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>wandering</room>
+<title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event></events>

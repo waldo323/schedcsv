@@ -5,7 +5,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!
 index,0
@@ -21,7 +21,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Chaos Machine', '', 'The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Chaos Machine', '', 'The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -35,13 +35,13 @@ AV Needs,
 name,Chaos Machine
 Private,PUBLIC
 bookname,Chaos Machine
-venue,
+venue,Lobby
 Book Description,The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!
 Presenters,
 csvsafedescrip,The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -51,7 +51,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,mystery location
 duration,48 hours
 description,Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!
 index,1
@@ -67,7 +67,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Find Tux', '', 'Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Find Tux', '', 'Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -81,13 +81,13 @@ AV Needs,
 name,Find Tux
 Private,PUBLIC
 bookname,Find Tux
-venue,
+venue,mystery location
 Book Description,Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it!
 Presenters,
 csvsafedescrip,Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,mysterylocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -97,7 +97,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,mystery location
 duration,48 hours
 description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
 index,2
@@ -113,7 +113,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Find Waldo', '', ""Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"", '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -127,13 +127,13 @@ AV Needs,
 name,Find Waldo
 Private,PUBLIC
 bookname,Find Waldo
-venue,
+venue,mystery location
 Book Description,"Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded!"
 Presenters,
 csvsafedescrip,Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them- you will be rewarded!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,mysterylocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -143,7 +143,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 index,3
@@ -159,7 +159,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Free Fates Fortune Telling Booth', '', 'Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Free Fates Fortune Telling Booth', '', 'Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -173,13 +173,13 @@ AV Needs,
 name,Free Fates Fortune Telling Booth
 Private,PUBLIC
 bookname,Free Fates Fortune Telling Booth
-venue,
+venue,Lobby
 Book Description,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 Presenters,
 csvsafedescrip,Find a token- bring it to the booth in the lobby- and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -189,7 +189,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,"Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."
 index,4
@@ -205,7 +205,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Giant Jenga', '', ""Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Giant Jenga', '', ""Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."", '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -219,13 +219,13 @@ AV Needs,
 name,Giant Jenga
 Private,PUBLIC
 bookname,Giant Jenga
-venue,
+venue,Lobby
 Book Description,"Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."
 Presenters,
 csvsafedescrip,Stop by and play some (enormous) Jenga with your friends- or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination.
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -235,7 +235,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,mystery location
 duration,48 hours
 description,"Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!"
 index,5
@@ -251,7 +251,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Google Ingress Dead Drop ', '', 'Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Google Ingress Dead Drop ', '', 'Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -265,13 +265,13 @@ AV Needs,
 name,Google Ingress Dead Drop 
 Private,PUBLIC
 bookname,Google Ingress Dead Drop
-venue,
+venue,mystery location
 Book Description,"Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it!"
 Presenters,
 csvsafedescrip,Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it- you can keep it!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,mysterylocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -281,7 +281,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,wandering
 duration,48 hours
 description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 index,6
@@ -297,7 +297,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'wandering', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -311,13 +311,13 @@ AV Needs,
 name,NUET Scouts
 Private,PUBLIC
 bookname,NUET Scouts
-venue,
+venue,wandering
 Book Description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 Presenters,
 csvsafedescrip,The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon- bringing you fun- mayhem- and shenanigans. Find us wandering the con to see what we have planned this year.
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,wandering
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -327,7 +327,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,"Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!"
 index,7
@@ -343,7 +343,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Pengicon Picture Bingo', '', 'Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Pengicon Picture Bingo', '', 'Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -357,13 +357,13 @@ AV Needs,
 name,Pengicon Picture Bingo
 Private,PUBLIC
 bookname,Pengicon Picture Bingo
-venue,
+venue,Lobby
 Book Description,"Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!"
 Presenters,
 csvsafedescrip,Snap a picture of each clue and you will be rewarded! Go to Registration- Ops- or the Greeter table to get started!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -373,7 +373,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,Find David Gazdowicz's awesome games in the lobby... and play them!
 index,8
@@ -389,7 +389,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Retro-style Video Games', '', ""Find David Gazdowicz's awesome games in the lobby... and play them!"", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Retro-style Video Games', '', ""Find David Gazdowicz's awesome games in the lobby... and play them!"", '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -403,13 +403,13 @@ AV Needs,
 name,Retro-style Video Games
 Private,PUBLIC
 bookname,Retro-style Video Games
-venue,
+venue,Lobby
 Book Description,Find David Gazdowicz's awesome games in the lobby... and play them!
 Presenters,
 csvsafedescrip,Find David Gazdowicz's awesome games in the lobby... and play them!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -419,7 +419,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,mystery location
 duration,48 hours
 description,"Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!"
 index,9
@@ -435,7 +435,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Ribbon Fairy', '', 'Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'mystery location', 'Mayhem', 'Ribbon Fairy', '', 'Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -449,13 +449,13 @@ AV Needs,
 name,Ribbon Fairy
 Private,PUBLIC
 bookname,Ribbon Fairy
-venue,
+venue,mystery location
 Book Description,"Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon!"
 Presenters,
 csvsafedescrip,Look out for the Ribbon Fairy! If you find her- you can trade her a ribbon for a ribbon!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,mysterylocation
 Start Date,4/24/2015
 minutes,00
 allday,TRUE
@@ -465,7 +465,7 @@ event_end,16:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Lobby
 duration,48 hours
 description,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
 index,10
@@ -481,7 +481,7 @@ End Time,16:00
 tracknosp,['Mayhem']
 endday,4/26/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '16:00', '4/26/2015', '16:00', '', 'Mayhem', 'Where in the World?', '', 'Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/24/2015', '16:00', '4/26/2015', '16:00', 'Lobby', 'Mayhem', 'Where in the World?', '', 'Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!', '', '', 'TRUE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,
 avneeds,none
@@ -495,13 +495,13 @@ AV Needs,
 name,Where in the World?
 Private,PUBLIC
 bookname,Where in the World?
-venue,
+venue,Lobby
 Book Description,"Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map!"
 Presenters,
 csvsafedescrip,Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World- US or Michigan map!
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,Lobby
 Start Date,4/24/2015
 minutes,00
 allday,FALSE
@@ -6403,7 +6403,7 @@ Location,Windover
 duration,50 minutes
 description,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?"
 index,139
-speakers,"Nick Farr, Jeff Goeke-Smith, Jason Kridner"
+speakers,"Nick Farr, Jason Kridner"
 bookdescrip,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?"
 Track,Tech
 startday,4/25/2015
@@ -6415,14 +6415,14 @@ End Time,10:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Windover', 'Tech', 'Hacking Outside the Box: Internet of Things', 'Nick Farr, Jeff Goeke-Smith, Jason Kridner', 'With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '10:00', '4/25/2015', '10:50', 'Windover', 'Tech', 'Hacking Outside the Box: Internet of Things', 'Nick Farr, Jason Kridner', 'With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Nick Farr, Jeff Goeke-Smith, Jason Kridner"
+calspeakers,"Nick Farr, Jason Kridner"
 avneeds,none
-speakerlist,"['Nick Farr', 'Jeff Goeke-Smith', 'Jason Kridner']"
+speakerlist,"['Nick Farr', 'Jason Kridner']"
 hours,0
 totalminutes,50
-speakernosplist,"['NickFarr', 'JeffGoeke-Smith', 'JasonKridner']"
+speakernosplist,"['NickFarr', 'JasonKridner']"
 caldescrip,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?"
 endtime,10:50
 AV Needs,
@@ -6431,9 +6431,9 @@ Private,PUBLIC
 bookname,Hacking Outside the Box: Internet of Things
 venue,Windover
 Book Description,"With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack. Are manufacturers of these non-typical computing devices using good security methodology? Can you fool a car into unlocking itself with a simple setup? What other fun devices have computers that can be fiddled with for fun or profit?"
-Presenters,"Nick Farr, Jeff Goeke-Smith, Jason Kridner"
+Presenters,"Nick Farr, Jason Kridner"
 csvsafedescrip,With the emergence of the Internet of Things- pretty much everything you use on a daily basis -- from your car- to your thermometer- to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit?
-speakernosp,"NickFarr,JeffGoeke-Smith,JasonKridner"
+speakernosp,"NickFarr,JasonKridner"
 starttime,10:00
 roomnosp,Windover
 Start Date,4/25/2015
@@ -9945,7 +9945,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."
 index,216
-speakers,"Nick Farr, Jeff Goeke-Smith"
+speakers,Nick Farr
 bookdescrip,"You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."
 Track,Tech
 startday,4/25/2015
@@ -9957,14 +9957,14 @@ End Time,16:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Algonquin D', 'Tech', 'Weaponized Malware: The Future of Cyber Warfare', 'Nick Farr, Jeff Goeke-Smith', ""You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '16:00', '4/25/2015', '16:50', 'Algonquin D', 'Tech', 'Weaponized Malware: The Future of Cyber Warfare', 'Nick Farr', ""You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Nick Farr, Jeff Goeke-Smith"
+calspeakers,Nick Farr
 avneeds,none
-speakerlist,"['Nick Farr', 'Jeff Goeke-Smith']"
+speakerlist,['Nick Farr']
 hours,0
 totalminutes,50
-speakernosplist,"['NickFarr', 'JeffGoeke-Smith']"
+speakernosplist,['NickFarr']
 caldescrip,"You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."
 endtime,16:50
 AV Needs,
@@ -9973,9 +9973,9 @@ Private,PUBLIC
 bookname,Weaponized Malware: The Future of Cyber Warfare
 venue,Algonquin D
 Book Description,"You've probably heard of -- or helped your parents remove -- all sorts of malware. It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption. What happens, though, when malware is industrialized by state sponsored groups? You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware. We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future."
-Presenters,"Nick Farr, Jeff Goeke-Smith"
+Presenters,Nick Farr
 csvsafedescrip,You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens- though- when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons- who is using them- what advanced features these programs have- and what it means for the future.
-speakernosp,"NickFarr,JeffGoeke-Smith"
+speakernosp,NickFarr
 starttime,16:00
 roomnosp,AlgonquinD
 Start Date,4/25/2015
@@ -11647,7 +11647,7 @@ Location,Windover
 duration,1 hour and 50 minutes
 description,"Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
 index,253
-speakers,"Nick Farr, Jeff Goeke-Smith"
+speakers,Nick Farr
 bookdescrip,"Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
 Track,Tech
 startday,4/25/2015
@@ -11659,14 +11659,14 @@ End Time,19:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Windover', 'Tech', 'Social Engineering for Fun and Profit', 'Nick Farr, Jeff Goeke-Smith', ""Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '18:00', '4/25/2015', '19:50', 'Windover', 'Tech', 'Social Engineering for Fun and Profit', 'Nick Farr', ""Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Nick Farr, Jeff Goeke-Smith"
+calspeakers,Nick Farr
 avneeds,none
-speakerlist,"['Nick Farr', 'Jeff Goeke-Smith']"
+speakerlist,['Nick Farr']
 hours,1
 totalminutes,110
-speakernosplist,"['NickFarr', 'JeffGoeke-Smith']"
+speakernosplist,['NickFarr']
 caldescrip,"Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
 endtime,19:50
 AV Needs,
@@ -11675,9 +11675,9 @@ Private,PUBLIC
 bookname,Social Engineering for Fun and Profit
 venue,Windover
 Book Description,"Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!"
-Presenters,"Nick Farr, Jeff Goeke-Smith"
+Presenters,Nick Farr
 csvsafedescrip,Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out- right?  Wait- there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack- right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes!
-speakernosp,"NickFarr,JeffGoeke-Smith"
+speakernosp,NickFarr
 starttime,18:00
 roomnosp,Windover
 Start Date,4/25/2015

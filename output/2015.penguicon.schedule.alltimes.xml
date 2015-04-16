@@ -2,46 +2,57 @@
 <day>All Weekend</day>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Find Tux</title>
 <topic>Mayhem</topic>
+<room>mystery location</room>
 <blurb><participant></participant> Can you find Tux at Penguicon?  Look for the Penguin Plushie and you can keep it! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Find Waldo</title>
 <topic>Mayhem</topic>
+<room>mystery location</room>
 <blurb><participant></participant> Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Free Fates Fortune Telling Booth</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth. <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Giant Jenga</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination. <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Google Ingress Dead Drop</title>
 <topic>Mayhem</topic>
+<room>mystery location</room>
 <blurb><participant></participant> Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>NUET Scouts</title>
 <topic>Mayhem</topic>
+<room>wandering</room>
 <blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Retro-style Video Games</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> Find David Gazdowicz's awesome games in the lobby... and play them! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Ribbon Fairy</title>
 <topic>Mayhem</topic>
+<room>mystery location</room>
 <blurb><participant></participant> Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon! <duration>48 hours</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Where in the World?</title>
 <topic>Mayhem</topic>
+<room>Lobby</room>
 <blurb><participant></participant> Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map! <duration>48 hours</duration></blurb></event>
 <day>FRIDAY, APRIL 24</day>
 <time>4 PM</time>
@@ -816,7 +827,7 @@
 <event><title>Hacking Outside the Box: Internet of Things</title>
 <topic>Tech</topic>
 <room>Windover</room>
-<blurb><participant>Nick Farr, Jeff Goeke-Smith, Jason Kridner</participant> With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit? </blurb></event>
+<blurb><participant>Nick Farr, Jason Kridner</participant> With the emergence of the Internet of Things, pretty much everything you use on a daily basis -- from your car, to your thermometer, to your pacemaker -- are vulnerable to attack.  Are manufacturers of these non-typical computing devices using good security methodology?  Can you fool a car into unlocking itself with a simple setup?  What other fun devices have computers that can be fiddled with for fun or profit? </blurb></event>
 <day>SATURDAY, APRIL 25</day>
 <time>11 AM</time>
 <event><title>Intro to Zenoss</title>
@@ -1278,7 +1289,7 @@
 <event><title>Weaponized Malware: The Future of Cyber Warfare</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
-<blurb><participant>Nick Farr, Jeff Goeke-Smith</participant> You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future. </blurb></event>
+<blurb><participant>Nick Farr</participant> You've probably heard of -- or helped your parents remove -- all sorts of malware.  It ranges from simple stuff like popups and redirects all the way to encrypting your data and demanding bitcoin for safe decryption.  What happens, though, when malware is industrialized by state sponsored groups?  You may have read about the Equation Group -- a shadowy group of State Sponsored hackers and coders -- who have created malware that keeps persistence by rewriting your hard drive's firmware.  We'll talk about recent examples of discovered cyber weapons, who is using them, what advanced features these programs have, and what it means for the future. </blurb></event>
 <day>SATURDAY, APRIL 25</day>
 <time>4 PM</time>
 <event><title>How to Stay Fit on the Road</title>
@@ -1500,7 +1511,7 @@
 <event><title>Social Engineering for Fun and Profit</title>
 <topic>Tech</topic>
 <room>Windover</room>
-<blurb><participant>Nick Farr, Jeff Goeke-Smith</participant> Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Nick Farr</participant> Oh no! Tragedy!  You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately!  You want to help him out, right?  Wait, there's something fishy about this guy on the phone!  You probably wouldn't fall for this social engineering attack, right?  Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 25</day>
 <time>7 PM</time>
 <event><title>Combat Taiji Class</title>
