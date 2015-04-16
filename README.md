@@ -9,8 +9,8 @@ usage:
    * update variables which are different in the current year if needed in schedcsv.py, getsched.sh
    * until sorting is done in the script, make sure that the spreadsheet is sorted the way you would like
      * with this suggested sort order the schedule be sorted into whether it is an all day event, then for each day the times will be in order with the rooms in alphabetical order 
-       * name (A->Z)
-       * room (A->Z)
+       * name(Title) (A->Z)
+       * room(Location) (A->Z)
        * start time (A->Z)
        * startday (A->Z)
        * all day (Z->A, since True means all day event)
