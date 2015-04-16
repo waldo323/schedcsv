@@ -5575,7 +5575,7 @@ Location,Windover
 duration,50 minutes
 description,"If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?"
 index,121
-speakers,"Samuel Hansen, Jennifer Marsman"
+speakers,"Samuel Hansen, Jennifer Marsman, Karl Schroeder"
 bookdescrip,"If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?"
 Track,"Science, Tech"
 startday,4/25/2015
@@ -5587,14 +5587,14 @@ End Time,9:50
 tracknosp,"['Science', 'Tech']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Windover', 'Science, Tech', 'The Ethics of AI', 'Samuel Hansen, Jennifer Marsman', 'If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '9:00', '4/25/2015', '9:50', 'Windover', 'Science, Tech', 'The Ethics of AI', 'Samuel Hansen, Jennifer Marsman, Karl Schroeder', 'If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Samuel Hansen, Jennifer Marsman"
+calspeakers,"Samuel Hansen, Jennifer Marsman, Karl Schroeder"
 avneeds,none
-speakerlist,"['Samuel Hansen', 'Jennifer Marsman']"
+speakerlist,"['Samuel Hansen', 'Jennifer Marsman', 'Karl Schroeder']"
 hours,0
 totalminutes,50
-speakernosplist,"['SamuelHansen', 'JenniferMarsman']"
+speakernosplist,"['SamuelHansen', 'JenniferMarsman', 'KarlSchroeder']"
 caldescrip,"If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?"
 endtime,9:50
 AV Needs,
@@ -5603,9 +5603,9 @@ Private,PUBLIC
 bookname,The Ethics of AI
 venue,Windover
 Book Description,"If we develop an artificial intelligence that talks like a human, thinks like a human, and acts like a human, it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?"
-Presenters,"Samuel Hansen, Jennifer Marsman"
+Presenters,"Samuel Hansen, Jennifer Marsman, Karl Schroeder"
 csvsafedescrip,If we develop an artificial intelligence that talks like a human- thinks like a human- and acts like a human- it will be fair to expect it to abide by the same social contract as a human. The problem is that if Artificial Intelligence comes to pass it is very unlikely that it will be anything like a human. This brings us to the very hazy area of the ethics surrounding AI. What rules do we have a right to enforce on a living entity that is nothing like us? How dangerous is it to develop something that we will not be able to fully understand and will be able to think a lot faster than us? What if AI is actually kind of dumb?
-speakernosp,"SamuelHansen,JenniferMarsman"
+speakernosp,"SamuelHansen,JenniferMarsman,KarlSchroeder"
 starttime,9:00
 roomnosp,Windover
 Start Date,4/25/2015
@@ -14281,7 +14281,7 @@ End Time,9:50
 tracknosp,['Literature']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Algonquin C', 'Literature', 'E-Books: An Examination of the Current State of Digital Publishing', 'Mary Lynne Gibbs, Sean M. Davis ', 'Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\xe2\x80\x99s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '9:00', '4/26/2015', '9:50', 'Algonquin C', 'Literature', 'E-Books: An Examination of the Current State of Digital Publishing', 'Mary Lynne Gibbs, Sean M. Davis, ', 'Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\xe2\x80\x99s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Mary Lynne Gibbs, Sean M. Davis"
 avneeds,none
@@ -14297,7 +14297,7 @@ Private,PUBLIC
 bookname,E-Books: An Examination of the Current State of Digital Publishing
 venue,Algonquin C
 Book Description,"Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It’s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides."
-Presenters,"Mary Lynne Gibbs, Sean M. Davis "
+Presenters,"Mary Lynne Gibbs, Sean M. Davis, "
 csvsafedescrip,Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It’s safe to say that digital reading is not going to be a passing fad- but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors- readers- and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate- it will be in terms of how it has affected things- not taking sides.
 speakernosp,"MaryLynneGibbs,SeanM.Davis"
 starttime,9:00
