@@ -1619,7 +1619,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 index,35
-speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 bookdescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 Track,Penguicon Events
 startday,4/24/2015
@@ -1631,14 +1631,14 @@ End Time,18:50
 tracknosp,['PenguiconEvents']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Algonquin B/C', 'Penguicon Events', 'Opening Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen', 'Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!', '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '18:50', 'Algonquin B/C', 'Penguicon Events', 'Opening Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Aaron Brown', 'Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!', '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Aaron Brown"
 avneeds,"Microphone, Sound System"
-speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'AaronBrown']"
 caldescrip,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
 endtime,18:50
 AV Needs,"Microphone, Sound System"
@@ -1647,9 +1647,9 @@ Private,PUBLIC
 bookname,Opening Ceremonies
 venue,Algonquin B/C
 Book Description,"Join our con chair, Nuri Gocay, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!"
-Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 csvsafedescrip,Join our con chair- Nuri Gocay- the Con Committee- and our Guests of Honor as we open this bad boy up for the weekend. You never know what surprises might be in store!
-speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,AaronBrown"
 starttime,18:00
 roomnosp,AlgonquinBC
 Start Date,4/24/2015
@@ -3965,7 +3965,7 @@ Location,Restaurant
 duration,50 minutes
 description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 index,86
-speakers,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 bookdescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon Events
 startday,4/24/2015
@@ -3977,14 +3977,14 @@ End Time,21:50
 tracknosp,['PenguiconEvents']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Jen Owen \n', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '21:00', '4/24/2015', '21:50', 'Restaurant', 'Penguicon Events', 'Guest of Honor Social Hour', 'Aral Balkan, Annalee Newitz, Albert Manero, \nCharlie Jane Anders, Ivan Owen, Aaron Brown', 'Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Aral Balkan, Annalee Newitz, Albert Manero, ,Charlie Jane Anders, Ivan Owen, Aaron Brown"
 avneeds,none
-speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'AaronBrown']"
 caldescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
 endtime,21:50
 AV Needs,
@@ -3993,9 +3993,9 @@ Private,PUBLIC
 bookname,Guest of Honor Social Hour
 venue,Restaurant
 Book Description,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen "
+Presenters,"Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 csvsafedescrip,Get to know our Guests of Honor as we all get together for some cocktails. Meet us in the bar!
-speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,AaronBrown"
 starttime,21:00
 roomnosp,Restaurant
 Start Date,4/24/2015
@@ -12107,7 +12107,7 @@ Location,Charlevoix C
 duration,50 minutes
 description,"If you’ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn’t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!"
 index,263
-speakers,"Jen Owen, Ivan Owen"
+speakers,"Ivan Owen, Aaron Brown"
 bookdescrip,"If you’ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn’t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!"
 Track,"DIY, Science"
 startday,4/25/2015
@@ -12119,14 +12119,14 @@ End Time,19:50
 tracknosp,"['DIY', 'Science']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '19:00', '4/25/2015', '19:50', 'Charlevoix C', 'DIY, Science', 'DIY Mad Science', 'Jen Owen, Ivan Owen', 'If you\xe2\x80\x99ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn\xe2\x80\x99t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '19:00', '4/25/2015', '19:50', 'Charlevoix C', 'DIY, Science', 'DIY Mad Science', 'Ivan Owen, Aaron Brown', 'If you\xe2\x80\x99ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn\xe2\x80\x99t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Jen Owen, Ivan Owen"
+calspeakers,"Ivan Owen, Aaron Brown"
 avneeds,none
-speakerlist,"['Jen Owen', 'Ivan Owen']"
+speakerlist,"['Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['JenOwen', 'IvanOwen']"
+speakernosplist,"['IvanOwen', 'AaronBrown']"
 caldescrip,"If you’ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn’t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!"
 endtime,19:50
 AV Needs,
@@ -12135,9 +12135,9 @@ Private,PUBLIC
 bookname,DIY Mad Science
 venue,Charlevoix C
 Book Description,"If you’ve ever seen the Southpark Episode where Butters, er, we mean Professor Chaos, tries to destroy the world by leaving the water faucet on overnight, you know that to be a true mad scientist, you need much cooler tools and designs. We think the world is pretty nifty as it is, but wouldn’t it be a better world with propeller driven cars, corn starch flamethrowers, and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!"
-Presenters,"Jen Owen, Ivan Owen"
+Presenters,"Ivan Owen, Aaron Brown"
 csvsafedescrip,If you’ve ever seen the Southpark Episode where Butters- er- we mean Professor Chaos- tries to destroy the world by leaving the water faucet on overnight- you know that to be a true mad scientist- you need much cooler tools and designs. We think the world is pretty nifty as it is- but wouldn’t it be a better world with propeller driven cars- corn starch flamethrowers- and steampunk organ backpacks? Come learn how to turn ordinary objects into awesome objects from our mad scientist Guests of Honor!
-speakernosp,"JenOwen,IvanOwen"
+speakernosp,"IvanOwen,AaronBrown"
 starttime,19:00
 roomnosp,CharlevoixC
 Start Date,4/25/2015
@@ -12521,7 +12521,7 @@ Location,Charlevoix B
 duration,50 minutes
 description,"A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250."
 index,272
-speakers,"Albert Manero, Jen Owen, Ivan Owen"
+speakers,"Albert Manero, Ivan Owen, Aaron Brown"
 bookdescrip,"A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250."
 Track,"Tech, Science"
 startday,4/25/2015
@@ -12533,14 +12533,14 @@ End Time,20:50
 tracknosp,"['Tech', 'Science']"
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '20:00', '4/25/2015', '20:50', 'Charlevoix B', 'Tech, Science', 'DIY Bionics with 3D Printers ', 'Albert Manero, Jen Owen, Ivan Owen', 'A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '20:00', '4/25/2015', '20:50', 'Charlevoix B', 'Tech, Science', 'DIY Bionics with 3D Printers ', 'Albert Manero, Ivan Owen, Aaron Brown', 'A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Albert Manero, Jen Owen, Ivan Owen"
+calspeakers,"Albert Manero, Ivan Owen, Aaron Brown"
 avneeds,none
-speakerlist,"['Albert Manero', 'Jen Owen', 'Ivan Owen']"
+speakerlist,"['Albert Manero', 'Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['AlbertManero', 'JenOwen', 'IvanOwen']"
+speakernosplist,"['AlbertManero', 'IvanOwen', 'AaronBrown']"
 caldescrip,"A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250. "
 endtime,20:50
 AV Needs,
@@ -12549,9 +12549,9 @@ Private,PUBLIC
 bookname,DIY Bionics with 3D Printers
 venue,Charlevoix B
 Book Description,"A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5,000 to $50,000. An upper extremity device (arm) can range from $3,000 to $30,000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250. "
-Presenters,"Albert Manero, Jen Owen, Ivan Owen"
+Presenters,"Albert Manero, Ivan Owen, Aaron Brown"
 csvsafedescrip,A Prosthetic resource reports that a lower extremity prosthesis (leg) can range in cost from $5-000 to $50-000. An upper extremity device (arm) can range from $3-000 to $30-000. Why pay an arm and a leg for an arm and a leg? Learn how you can use your 3D printer to produce prosthetics from open source designs for $30 in materials. Take it a step further and add biological sensing electronics for less than $250. 
-speakernosp,"AlbertManero,JenOwen,IvanOwen"
+speakernosp,"AlbertManero,IvanOwen,AaronBrown"
 starttime,20:00
 roomnosp,CharlevoixB
 Start Date,4/25/2015
@@ -18777,7 +18777,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 index,408
-speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+speakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 bookdescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 Track,Penguicon Events
 startday,4/26/2015
@@ -18789,14 +18789,14 @@ End Time,16:50
 tracknosp,['PenguiconEvents']
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '16:00', '4/26/2015', '16:50', 'Algonquin B/C', 'Penguicon Events', 'Closing Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen', ""As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."", '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '16:00', '4/26/2015', '16:50', 'Algonquin B/C', 'Penguicon Events', 'Closing Ceremonies', 'Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown', ""As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."", '00hr:50min', 'Microphone, Sound System', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
-calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+calspeakers,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 avneeds,"Microphone, Sound System"
-speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Jen Owen']"
+speakerlist,"['Janet Gocay', 'Scott Kennedy', 'Lucy Kennedy', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Christine Bender', 'Aral Balkan', 'Annalee Newitz', 'Albert Manero', 'Charlie Jane Anders', 'Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'JenOwen']"
+speakernosplist,"['JanetGocay', 'ScottKennedy', 'LucyKennedy', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'ChristineBender', 'AralBalkan', 'AnnaleeNewitz', 'AlbertManero', 'CharlieJaneAnders', 'IvanOwen', 'AaronBrown']"
 caldescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 endtime,16:50
 AV Needs,"Microphone, Sound System"
@@ -18805,9 +18805,9 @@ Private,PUBLIC
 bookname,Closing Ceremonies
 venue,Algonquin B/C
 Book Description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
-Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen"
+Presenters,"Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Aaron Brown"
 csvsafedescrip,As we officially shut down another amazing- exciting year for Penguicon- come hear about how it went- and what we've got our eye on for next year.
-speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,JenOwen"
+speakernosp,"JanetGocay,ScottKennedy,LucyKennedy,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,ChristineBender,AralBalkan,AnnaleeNewitz,AlbertManero,CharlieJaneAnders,IvanOwen,AaronBrown"
 starttime,16:00
 roomnosp,AlgonquinBC
 Start Date,4/26/2015
