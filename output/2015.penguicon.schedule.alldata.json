@@ -13191,7 +13191,7 @@
         "duration": "50 minutes",
         "description": "Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
         "index": 183,
-        "speakers": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver",
+        "speakers": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver, Karl Schroeder",
         "bookdescrip": "Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
         "Track": "Literature",
         "startday": "4/25/2015",
@@ -13213,7 +13213,7 @@
             "Hamlin",
             "Literature",
             "Making the Fantastic Believable",
-            "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver",
+            "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver, Karl Schroeder",
             "Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
             "00hr:50min",
             "",
@@ -13221,14 +13221,15 @@
             "PUBLIC"
         ],
         "End Date": "4/25/2015",
-        "calspeakers": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver",
+        "calspeakers": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver, Karl Schroeder",
         "avneeds": "none",
         "speakerlist": [
             "Michael Cieslak",
             "Sarah Hans",
             "Steven Saus",
             "Skeeter Enright",
-            "Christian Klaver"
+            "Christian Klaver",
+            "Karl Schroeder"
         ],
         "hours": 0,
         "totalminutes": 50,
@@ -13237,7 +13238,8 @@
             "SarahHans",
             "StevenSaus",
             "SkeeterEnright",
-            "ChristianKlaver"
+            "ChristianKlaver",
+            "KarlSchroeder"
         ],
         "caldescrip": "Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
         "endtime": "13:50",
@@ -13247,9 +13249,9 @@
         "bookname": "Making the Fantastic Believable",
         "venue": "Hamlin",
         "Book Description": "Ghosts, lycanthropes, robots, elves, even vampires that sparkle in the sunlight, what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
-        "Presenters": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver",
+        "Presenters": "Michael Cieslak, Sarah Hans, Steven Saus, Skeeter Enright, Christian Klaver, Karl Schroeder",
         "csvsafedescrip": "Ghosts- lycanthropes- robots- elves- even vampires that sparkle in the sunlight- what does it take to make the utterly fantastic believable to your readers? The panel will discuss the research and decision process which goes into making good (or in some cases ridiculous) characters.",
-        "speakernosp": "MichaelCieslak,SarahHans,StevenSaus,SkeeterEnright,ChristianKlaver",
+        "speakernosp": "MichaelCieslak,SarahHans,StevenSaus,SkeeterEnright,ChristianKlaver,KarlSchroeder",
         "starttime": "13:00",
         "roomnosp": "Hamlin",
         "Start Date": "4/25/2015",
@@ -22423,7 +22425,7 @@
         "duration": "50 minutes",
         "description": "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.",
         "index": 310,
-        "speakers": "Mary Lynne Gibbs, Sean M. Davis",
+        "speakers": "Mary Lynne Gibbs, Sean M. Davis, Karl Schroeder",
         "bookdescrip": "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.",
         "Track": "Literature",
         "startday": "4/26/2015",
@@ -22445,7 +22447,7 @@
             "Algonquin C",
             "Literature",
             "E-Books: An Examination of the Current State of Digital Publishing",
-            "Mary Lynne Gibbs, Sean M. Davis, ",
+            "Mary Lynne Gibbs, Sean M. Davis, Karl Schroeder",
             "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.",
             "00hr:50min",
             "",
@@ -22453,17 +22455,19 @@
             "PUBLIC"
         ],
         "End Date": "4/26/2015",
-        "calspeakers": "Mary Lynne Gibbs, Sean M. Davis",
+        "calspeakers": "Mary Lynne Gibbs, Sean M. Davis, Karl Schroeder",
         "avneeds": "none",
         "speakerlist": [
             "Mary Lynne Gibbs",
-            "Sean M. Davis"
+            "Sean M. Davis",
+            "Karl Schroeder"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "MaryLynneGibbs",
-            "SeanM.Davis"
+            "SeanM.Davis",
+            "KarlSchroeder"
         ],
         "caldescrip": "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.",
         "endtime": "9:50",
@@ -22473,9 +22477,9 @@
         "bookname": "E-Books: An Examination of the Current State of Digital Publishing",
         "venue": "Algonquin C",
         "Book Description": "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad, but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors, readers, and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate, it will be in terms of how it has affected things, not taking sides.",
-        "Presenters": "Mary Lynne Gibbs, Sean M. Davis, ",
+        "Presenters": "Mary Lynne Gibbs, Sean M. Davis, Karl Schroeder",
         "csvsafedescrip": "Years ago there was a panel at Penguicon about the rise of the e-reader and what it meant for the world of publishing. It\u2019s safe to say that digital reading is not going to be a passing fad- but it does not appear to be the death of paper publishing that it was once seen to be. The panel will examine how things have changed for authors- readers- and publishers and how things have stayed the same. While we may examine the Hatchette vs Amazon debate- it will be in terms of how it has affected things- not taking sides.",
-        "speakernosp": "MaryLynneGibbs,SeanM.Davis",
+        "speakernosp": "MaryLynneGibbs,SeanM.Davis,KarlSchroeder",
         "starttime": "9:00",
         "roomnosp": "AlgonquinC",
         "Start Date": "4/26/2015",
