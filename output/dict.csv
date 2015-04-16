@@ -2953,7 +2953,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"
 index,64
-speakers,"Cynthia Chestek, Albert Manero, Jen Owen, Ivan Owen"
+speakers,"Cynthia Chestek, Albert Manero, Ivan Owen, Aaron Brown"
 bookdescrip,"In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"
 Track,Science
 startday,4/24/2015
@@ -2965,14 +2965,14 @@ End Time,20:50
 tracknosp,['Science']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Algonquin D', 'Science', 'The Future of Bionics', 'Cynthia Chestek, Albert Manero, Jen Owen, Ivan Owen', ""In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '20:00', '4/24/2015', '20:50', 'Algonquin D', 'Science', 'The Future of Bionics', 'Cynthia Chestek, Albert Manero, Ivan Owen, Aaron Brown', ""In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
-calspeakers,"Cynthia Chestek, Albert Manero, Jen Owen, Ivan Owen"
+calspeakers,"Cynthia Chestek, Albert Manero, Ivan Owen, Aaron Brown"
 avneeds,none
-speakerlist,"['Cynthia Chestek', 'Albert Manero', 'Jen Owen', 'Ivan Owen']"
+speakerlist,"['Cynthia Chestek', 'Albert Manero', 'Ivan Owen', 'Aaron Brown']"
 hours,0
 totalminutes,50
-speakernosplist,"['CynthiaChestek', 'AlbertManero', 'JenOwen', 'IvanOwen']"
+speakernosplist,"['CynthiaChestek', 'AlbertManero', 'IvanOwen', 'AaronBrown']"
 caldescrip,"In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"
 endtime,20:50
 AV Needs,
@@ -2981,9 +2981,9 @@ Private,PUBLIC
 bookname,The Future of Bionics
 venue,Algonquin D
 Book Description,"In the beginning, bionics were expensive things sold by large companies. Now, we're 3D printing them for less than a fancy dinner, and soon, we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?"
-Presenters,"Cynthia Chestek, Albert Manero, Jen Owen, Ivan Owen"
+Presenters,"Cynthia Chestek, Albert Manero, Ivan Owen, Aaron Brown"
 csvsafedescrip,In the beginning- bionics were expensive things sold by large companies. Now- we're 3D printing them for less than a fancy dinner- and soon- we're going to be controlling them with our minds! What will the future hold for people who use these devices to make their lives richer? Will we be bionic people? Will we be better...stronger...faster?
-speakernosp,"CynthiaChestek,AlbertManero,JenOwen,IvanOwen"
+speakernosp,"CynthiaChestek,AlbertManero,IvanOwen,AaronBrown"
 starttime,20:00
 roomnosp,AlgonquinD
 Start Date,4/24/2015
@@ -8931,10 +8931,10 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Board of Regents
 duration,1 hour and 50 minutes
-description,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Jen, Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
+description,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
 index,194
-speakers,"Jen Owen, Ivan Owen, Albert Manero, Aaron Brown"
-bookdescrip,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Jen, Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
+speakers,"Ivan Owen, Albert Manero, Aaron Brown"
+bookdescrip,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
 Track,Tech
 startday,4/25/2015
 Title,Building Hands for Our Charity
@@ -8945,25 +8945,25 @@ End Time,15:50
 tracknosp,['Tech']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '14:00', '4/25/2015', '15:50', 'Board of Regents', 'Tech', 'Building Hands for Our Charity', 'Jen Owen, Ivan Owen, Albert Manero, Aaron Brown', 'Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Jen, Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '14:00', '4/25/2015', '15:50', 'Board of Regents', 'Tech', 'Building Hands for Our Charity', 'Ivan Owen, Albert Manero, Aaron Brown', 'Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Jen Owen, Ivan Owen, Albert Manero, Aaron Brown"
+calspeakers,"Ivan Owen, Albert Manero, Aaron Brown"
 avneeds,none
-speakerlist,"['Jen Owen', 'Ivan Owen', 'Albert Manero', 'Aaron Brown']"
+speakerlist,"['Ivan Owen', 'Albert Manero', 'Aaron Brown']"
 hours,1
 totalminutes,110
-speakernosplist,"['JenOwen', 'IvanOwen', 'AlbertManero', 'AaronBrown']"
-caldescrip,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Jen, Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
+speakernosplist,"['IvanOwen', 'AlbertManero', 'AaronBrown']"
+caldescrip,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
 endtime,15:50
 AV Needs,
 name,Building Hands for Our Charity
 Private,PUBLIC
 bookname,Building Hands for Our Charity
 venue,Board of Regents
-Book Description,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Jen, Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
-Presenters,"Jen Owen, Ivan Owen, Albert Manero, Aaron Brown"
-csvsafedescrip,Come help our charity assemble hands- fresh off the 3D printers- which we will teach you to assemble! Join Jen- Ivan- Albert- our local e-Nable volunteer Aaron- and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands- at home- for those helped by Enabling the Future!
-speakernosp,"JenOwen,IvanOwen,AlbertManero,AaronBrown"
+Book Description,"Come help our charity assemble hands, fresh off the 3D printers, which we will teach you to assemble! Join Ivan, Albert, our local e-Nable volunteer Aaron, and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands, at home, for those helped by Enabling the Future!"
+Presenters,"Ivan Owen, Albert Manero, Aaron Brown"
+csvsafedescrip,Come help our charity assemble hands- fresh off the 3D printers- which we will teach you to assemble! Join Ivan- Albert- our local e-Nable volunteer Aaron- and some of the Penguicon Con Committee as we thread cables and melt plastic. Also learn how you can print and assemble hands- at home- for those helped by Enabling the Future!
+speakernosp,"IvanOwen,AlbertManero,AaronBrown"
 starttime,14:00
 roomnosp,BoardofRegents
 Start Date,4/25/2015
@@ -10773,7 +10773,7 @@ Location,Charlevoix B
 duration,50 minutes
 description,"You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others."
 index,234
-speakers,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Jen Owen, Ivan Owen"
+speakers,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Aaron Brown, Ivan Owen"
 bookdescrip,"You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others."
 Track,Life
 startday,4/25/2015
@@ -10785,14 +10785,14 @@ End Time,17:50
 tracknosp,['Life']
 endday,4/25/2015
 dayheader,"SATURDAY, APRIL 25"
-input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Charlevoix B', 'Life', 'Using Your Geek for Good Instead of Evil', 'Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Jen Owen, Ivan Owen', ""You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/25/2015', '17:00', '4/25/2015', '17:50', 'Charlevoix B', 'Life', 'Using Your Geek for Good Instead of Evil', 'Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Aaron Brown, Ivan Owen', ""You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/25/2015
-calspeakers,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Jen Owen, Ivan Owen"
+calspeakers,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Aaron Brown, Ivan Owen"
 avneeds,none
-speakerlist,"['Nancy Bright', 'Erika Carlson', 'Emily Gonyer', 'Ken Grundberg', 'Albert Manero', 'Jen Owen', 'Ivan Owen']"
+speakerlist,"['Nancy Bright', 'Erika Carlson', 'Emily Gonyer', 'Ken Grundberg', 'Albert Manero', 'Aaron Brown', 'Ivan Owen']"
 hours,0
 totalminutes,50
-speakernosplist,"['NancyBright', 'ErikaCarlson', 'EmilyGonyer', 'KenGrundberg', 'AlbertManero', 'JenOwen', 'IvanOwen']"
+speakernosplist,"['NancyBright', 'ErikaCarlson', 'EmilyGonyer', 'KenGrundberg', 'AlbertManero', 'AaronBrown', 'IvanOwen']"
 caldescrip,"You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others. "
 endtime,17:50
 AV Needs,
@@ -10801,9 +10801,9 @@ Private,PUBLIC
 bookname,Using Your Geek for Good Instead of Evil
 venue,Charlevoix B
 Book Description,"You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware, what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others. "
-Presenters,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Jen Owen, Ivan Owen"
+Presenters,"Nancy Bright, Erika Carlson, Emily Gonyer, Ken Grundberg, Albert Manero, Aaron Brown, Ivan Owen"
 csvsafedescrip,You're the leetest of leet. You dream in code. Instead of helping prolong the problems of corporations for fun and money or creating state sponsored malware- what kind of good can you do with your skills? Why bother? Come listen to some people who are changing the world by sharing their technical abilities with others. 
-speakernosp,"NancyBright,ErikaCarlson,EmilyGonyer,KenGrundberg,AlbertManero,JenOwen,IvanOwen"
+speakernosp,"NancyBright,ErikaCarlson,EmilyGonyer,KenGrundberg,AlbertManero,AaronBrown,IvanOwen"
 starttime,17:00
 roomnosp,CharlevoixB
 Start Date,4/25/2015
