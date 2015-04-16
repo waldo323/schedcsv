@@ -4,14 +4,6 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up! <duration>48 hours</duration></blurb></event>
-<event><title>Find Tux</title>
-<topic>Mayhem</topic>
-<room>Mystery Location</room>
-<blurb><participant></participant> Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it! <duration>48 hours</duration></blurb></event>
-<event><title>Find Waldo</title>
-<topic>Mayhem</topic>
-<room>Mystery Location</room>
-<blurb><participant></participant> Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded! <duration>48 hours</duration></blurb></event>
 <event><title>Free Fates Fortune Telling Booth</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -20,14 +12,6 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination. <duration>48 hours</duration></blurb></event>
-<event><title>Google Ingress Dead Drop</title>
-<topic>Mayhem</topic>
-<room>Mystery Location</room>
-<blurb><participant></participant> Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it! <duration>48 hours</duration></blurb></event>
-<event><title>NUET Scouts</title>
-<topic>Mayhem</topic>
-<room>Wandering</room>
-<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. <duration>48 hours</duration></blurb></event>
 <event><title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -36,14 +20,30 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Find David Gazdowicz's awesome games in the lobby... and play them! <duration>48 hours</duration></blurb></event>
-<event><title>Ribbon Fairy</title>
-<topic>Mayhem</topic>
-<room>Mystery Location</room>
-<blurb><participant></participant> Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon! <duration>48 hours</duration></blurb></event>
 <event><title>Where in the World?</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Wondering where people are coming from to go to Penguicon? Stop by and tag the city you came from on the World, US or Michigan map! <duration>48 hours</duration></blurb></event>
+<event><title>Find Tux</title>
+<topic>Mayhem</topic>
+<room>Mystery Location</room>
+<blurb><participant></participant> Can you find Tux at Penguicon? Look for the Penguin Plushie and you can keep it! <duration>48 hours</duration></blurb></event>
+<event><title>Find Waldo</title>
+<topic>Mayhem</topic>
+<room>Mystery Location</room>
+<blurb><participant></participant> Where's Waldo? He's somewhere amidst the rest of the hordes of awesome Penguicon attendees. Look for Waldo and his friend the Wizard anywhere in plain sight. If you find them, you will be rewarded! <duration>48 hours</duration></blurb></event>
+<event><title>Google Ingress Dead Drop</title>
+<topic>Mayhem</topic>
+<room>Mystery Location</room>
+<blurb><participant></participant> Something special will be hidden in the con area Friday evening. A picture and clue will be posted. If you find it, you can keep it! <duration>48 hours</duration></blurb></event>
+<event><title>Ribbon Fairy</title>
+<topic>Mayhem</topic>
+<room>Mystery Location</room>
+<blurb><participant></participant> Look out for the Ribbon Fairy! If you find her, you can trade her a ribbon for a ribbon! <duration>48 hours</duration></blurb></event>
+<event><title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<room>Wandering</room>
+<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. <duration>48 hours</duration></blurb></event>
 <day>FRIDAY, APRIL 24</day>
 <time>4 PM</time>
 <event><title>Practical Home Networking Using a Linux Router</title>
@@ -70,6 +70,10 @@
 <topic>Literature</topic>
 <room>Hamlin</room>
 <blurb><participant>Anne Zanoni</participant> It made perfect sense when you wrote it, and when you read it. But then someone else says "Why didn't you look that up?" or "That's not how that works!" to your chagrin. This is why authors need beta readers. To catch things you miss, to know things you don't -- to see that blind spot. </blurb></event>
+<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<room>Maker Space [Board of Directors]</room>
+<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>2 hours and 50 minutes</duration></blurb></event>
 <event><title>Comic and Graphic Novel Writing</title>
 <topic>Webcomics, Literature</topic>
 <room>Montcalm</room>
@@ -973,6 +977,10 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant>Linda Besh</participant> A WAR is being fought right HERE right NOW. The fate of all humanity is in your hands. You look up from your phone: is that guy on the corner just walking his dog, or is he an Ingress Agent from the other side about to attack your neighborhood? Meet at Lawrence University courtyard to learn new skills and gain experience playing ingress for your faction. If you want to carpool, meet at the fountain in the lobby at 4:45. If you drive over, meet at Ockham's Wedge sculpture in the enter of the quad area near the Taubman Student Services Center at 5:00. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<room>Maker Space [Board of Directors]</room>
+<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Polytheist Religions for Writers</title>
 <topic>Literature</topic>
 <room>Nicolet</room>
@@ -998,10 +1006,10 @@
 <topic>Music</topic>
 <room>Board of Governors</room>
 <blurb><participant>Mikey Mason</participant> Nationally touring comedian and geek rock musician Mikey Mason discusses the process that allowed him to turn comedy into his full-time profession, and how using these ideals and principles might help you do the same. The conversation will not be limited to comedy, music, or performing, but can touch on many, if not most creative hobbies. If you dream of doing what you love for a living, this is the panel for you. </blurb></event>
-<event><title>Biohacking: Upgrading the Human Body</title>
-<topic>Tech, Science</topic>
-<room>Windover</room>
-<blurb><participant>Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek</participant> A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Social Engineering for Fun and Profit</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Nick Farr and Friends</participant> Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes! <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Everything You Ever Wanted to Know About Traditional Printmaking</title>
 <topic>DIY</topic>
 <room>Charlevoix B</room>
@@ -1034,10 +1042,10 @@
 <topic>Tech</topic>
 <room>Portage Auditorium</room>
 <blurb><participant>Mat Enders</participant> This presentation will cover the regex available to you with the -E flag in grep. Prerequisite – have used grep to search files. </blurb></event>
-<event><title>Social Engineering for Fun and Profit</title>
-<topic>Tech</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Nick Farr and Friends</participant> Oh no! Tragedy! You get a phone call from your IT person in on a Monday morning saying that the rotator splint in your corporate Active Directory environment has crashed and that they need your password and VPN token numbers to restore your account immediately! You want to help him out, right? Wait, there's something fishy about this guy on the phone! You probably wouldn't fall for this social engineering attack, right? Come learn some of the best tricks of the trade of social engineering for fun and profit ^H^H^H^H^H to be sure you don't fall victim to these wily schemes! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Biohacking: Upgrading the Human Body</title>
+<topic>Tech, Science</topic>
+<room>Windover</room>
+<blurb><participant>Amal Graafstra, Drew Buglione, Anita Fowler, Tim Cannon, Cynthia Chestek</participant> A mix of technology, DIY, and mayhem - biohacking is a particularly interesting offshoot of the maker renaissance. We will be discussing the physical and psychological process of upgrading the human body, the potential for humanity, the impact of h+ on society, and more! Please join us for a panel discussion, and maybe volunteer to get yourself upgraded live on stage with an xNT NFC implant from Dangerous Things! <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>7 PM</time>
 <event><title>Combat Taiji Class</title>
 <topic>Action Adventure</topic>
@@ -1169,6 +1177,10 @@
 <topic>DIY, Life</topic>
 <room>Hamlin</room>
 <blurb><participant>Bagel Garrison</participant> Do you have 2 arms or similar appendages? Then all you need is some yarn, and you can knit! You can complete an entire scarf in the course of this session, and be introduced to the basics of knitting with no actual supplies required! Bring your own yarn, if you want specific colors, or feel free to use the yarn on hand. The chunkier the yarn, the better. Once you know the basics, you can make scarves, cowls, blankets, bags, or even a camouflage cover to hide your zombie-proof forest camp. </blurb></event>
+<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<room>Maker Space [Board of Directors]</room>
+<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! </blurb></event>
 <event><title>Best Fighting Scenes in Anime!</title>
 <topic>Anime, Action Adventure</topic>
 <room>Nicolet</room>
@@ -1305,6 +1317,10 @@
 <topic>Gaming</topic>
 <room>Gaming [Lobby]</room>
 <blurb><participant>Mark Haynes</participant> Each player will take the reins of a family and have them find fame and glory in many different ways. There is one thing you must not forget, however: Time will not stop for anyone and with time people will vanish. Those who will find themselves immortalized in the village chronicles will bring honor to their family and be one step closer to victory. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<room>Maker Space [Board of Directors]</room>
+<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! </blurb></event>
 <event><title>Getting Things Done (GTD) under Linux</title>
 <topic>Tech, Life</topic>
 <room>Montcalm</room>
@@ -1492,6 +1508,10 @@
 <topic>Tech</topic>
 <room>Lobby [Near Elevators]</room>
 <blurb><participant>Ed Mason</participant> Come try Game Face Labs’ newest 3D printed, Android based, wireless virtual reality headset. It has a 2.5k pixel display, it runs native 3D movies, and does 2D to 3D conversion on the fly, all on Android! You know you want to take a peek. </blurb></event>
+<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<room>Maker Space [Board of Directors]</room>
+<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Webcomic Reading</title>
 <topic>Webcomics</topic>
 <room>Nicolet</room>
@@ -1655,31 +1675,4 @@
 <event><title>Closing Ceremonies</title>
 <topic>Penguicon Events</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen</participant> As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year. </blurb></event>
-<day>FRIDAY, APRIL 24</day>
-<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<room>Maker Space [Board of Directors]</room>
-<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>2 hours and 50 minutes</duration></blurb></event>
-<day>SATURDAY, APRIL 25</day>
-<time>5 PM</time>
-<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<room>Maker Space [Board of Directors]</room>
-<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>9 PM</time>
-<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<room>Maker Space [Board of Directors]</room>
-<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! </blurb></event>
-<day>SUNDAY, APRIL 26</day>
-<time>9 AM</time>
-<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<room>Maker Space [Board of Directors]</room>
-<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! </blurb></event>
-<time>12 PM</time>
-<event><title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<room>Maker Space [Board of Directors]</room>
-<blurb><participant>Nate Yost</participant> Soldering is the process of using heat to fuse metal with metal.  We will teach you how to use this skill to create (or repair) your own electronics projects, and you will get a fancy Penguicon LED badge to prove it! Already have a fancy LED badge? Make it better! We will provide microcontroller programmers for those who wish to change their badge's microcontroller code.  Write programs in AVR C to fashion new blinky badge sequences, or create a simple badge-based game! <duration>1 hour and 50 minutes</duration></blurb></event></events>
+<blurb><participant>Janet Gocay, Scott Kennedy, Lucy Kennedy, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Christine Bender, Aral Balkan, Annalee Newitz, Albert Manero, Charlie Jane Anders, Ivan Owen, Jen Owen</participant> As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year. </blurb></event></events>

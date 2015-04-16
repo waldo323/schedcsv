@@ -4,16 +4,6 @@
 <title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
-<room>Mystery Location</room>
-<day>FRIDAY, APRIL 24</day>
-<title>Find Tux</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room>Mystery Location</room>
-<day>FRIDAY, APRIL 24</day>
-<title>Find Waldo</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Free Fates Fortune Telling Booth</title>
@@ -22,16 +12,6 @@
 <room>Lobby</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Giant Jenga</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room>Mystery Location</room>
-<day>FRIDAY, APRIL 24</day>
-<title>Google Ingress Dead Drop</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room>Wandering</room>
-<day>FRIDAY, APRIL 24</day>
-<title>NUET Scouts</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
@@ -44,14 +24,34 @@
 <title>Retro-style Video Games</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Where in the World?</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Mystery Location</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Find Tux</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Mystery Location</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Find Waldo</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Mystery Location</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Google Ingress Dead Drop</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
 <room>Mystery Location</room>
 <day>FRIDAY, APRIL 24</day>
 <title>Ribbon Fairy</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
-<room>Lobby</room>
+<room>Wandering</room>
 <day>FRIDAY, APRIL 24</day>
-<title>Where in the World?</title>
+<title>NUET Scouts</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Algonquin D</room>
@@ -83,6 +83,11 @@
 <day>FRIDAY, APRIL 24</day>
 <title>Beta Readers' Importance</title>
 <topic>Literature</topic>
+<time>4 PM</time></event><event>
+<room>Maker Space [Board of Directors]</room>
+<day>FRIDAY, APRIL 24</day>
+<title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
 <time>4 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 24</day>
@@ -1189,6 +1194,11 @@
 <title>The World Around You Is Not What It Seems…</title>
 <topic>Mayhem</topic>
 <time>5 PM</time></event><event>
+<room>Maker Space [Board of Directors]</room>
+<day>SATURDAY, APRIL 25</day>
+<title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<time>5 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Polytheist Religions for Writers</title>
@@ -1219,10 +1229,10 @@
 <title>Turning Your Hobby Into Your Profession</title>
 <topic>Music</topic>
 <time>6 PM</time></event><event>
-<room>Windover</room>
+<room>Charlevoix A</room>
 <day>SATURDAY, APRIL 25</day>
-<title>Biohacking: Upgrading the Human Body</title>
-<topic>Tech, Science</topic>
+<title>Social Engineering for Fun and Profit</title>
+<topic>Tech</topic>
 <time>6 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 25</day>
@@ -1264,10 +1274,10 @@
 <title>Using RegEx in grep</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
-<room>Charlevoix A</room>
+<room>Windover</room>
 <day>SATURDAY, APRIL 25</day>
-<title>Social Engineering for Fun and Profit</title>
-<topic>Tech</topic>
+<title>Biohacking: Upgrading the Human Body</title>
+<topic>Tech, Science</topic>
 <time>6 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 25</day>
@@ -1429,6 +1439,11 @@
 <title>Intro to Arm Knitting</title>
 <topic>DIY, Life</topic>
 <time>9 PM</time></event><event>
+<room>Maker Space [Board of Directors]</room>
+<day>SATURDAY, APRIL 25</day>
+<title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<time>9 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 25</day>
 <title>Best Fighting Scenes in Anime!</title>
@@ -1588,6 +1603,11 @@
 <day>SUNDAY, APRIL 26</day>
 <title>Village</title>
 <topic>Gaming</topic>
+<time>9 AM</time></event><event>
+<room>Maker Space [Board of Directors]</room>
+<day>SUNDAY, APRIL 26</day>
+<title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
 <time>9 AM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, APRIL 26</day>
@@ -1819,6 +1839,11 @@
 <title>Virtual Reality Headset Demo with Game Face Labs</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
+<room>Maker Space [Board of Directors]</room>
+<day>SUNDAY, APRIL 26</day>
+<title>Learn to Solder (and Upgrade Your Badge!)</title>
+<topic>DIY</topic>
+<time>12 PM</time></event><event>
 <room>Nicolet</room>
 <day>SUNDAY, APRIL 26</day>
 <title>Webcomic Reading</title>
@@ -2018,29 +2043,4 @@
 <day>SUNDAY, APRIL 26</day>
 <title>Closing Ceremonies</title>
 <topic>Penguicon Events</topic>
-<time>4 PM</time></event><event>
-<room>Maker Space [Board of Directors]</room>
-<day>FRIDAY, APRIL 24</day>
-<title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<time>4 PM</time></event><event>
-<room>Maker Space [Board of Directors]</room>
-<day>SATURDAY, APRIL 25</day>
-<title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<time>5 PM</time></event><event>
-<room>Maker Space [Board of Directors]</room>
-<day>SATURDAY, APRIL 25</day>
-<title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<time>9 PM</time></event><event>
-<room>Maker Space [Board of Directors]</room>
-<day>SUNDAY, APRIL 26</day>
-<title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<time>9 AM</time></event><event>
-<room>Maker Space [Board of Directors]</room>
-<day>SUNDAY, APRIL 26</day>
-<title>Learn to Solder (and Upgrade Your Badge!)</title>
-<topic>DIY</topic>
-<time>12 PM</time></event></events>
+<time>4 PM</time></event></events>
