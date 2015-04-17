@@ -1341,10 +1341,10 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Charlevoix B
 duration,50 minutes
-description,This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners.
+description,This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.
 index,29
 speakers,Mike Bernson
-bookdescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners.
+bookdescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.
 Track,Tech
 startday,4/24/2015
 Title,Introduction to Python
@@ -1355,7 +1355,7 @@ End Time,17:50
 tracknosp,['Tech']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '17:00', '4/24/2015', '17:50', 'Charlevoix B', 'Tech', 'Introduction to Python', 'Mike Bernson', ""This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners."", '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '17:00', '4/24/2015', '17:50', 'Charlevoix B', 'Tech', 'Introduction to Python', 'Mike Bernson', 'This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.', '00hr:50min', 'Projector', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Mike Bernson
 avneeds,Projector
@@ -1363,16 +1363,16 @@ speakerlist,['Mike Bernson']
 hours,0
 totalminutes,50
 speakernosplist,['MikeBernson']
-caldescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners.
+caldescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.
 endtime,17:50
 AV Needs,Projector
 name,Introduction to Python
 Private,PUBLIC
 bookname,Introduction to Python
 venue,Charlevoix B
-Book Description,This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners.
+Book Description,This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.
 Presenters,Mike Bernson
-csvsafedescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from it's history to hidden tips and tricks about Python. This talk is for beginners.
+csvsafedescrip,This talk is all about introducing people to the powerful programming language called Python. It will include everything from its history to hidden tips and tricks about Python. This talk is for beginners.
 speakernosp,MikeBernson
 starttime,17:00
 roomnosp,CharlevoixB
@@ -1893,10 +1893,10 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Food [Room 1017]
 duration,2 hours and 50 minutes
-description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
+description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!
 index,41
 speakers,Marcus Hauser
-bookdescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
+bookdescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!
 Track,Food
 startday,4/24/2015
 Title,Flavored Popcorn!
@@ -1907,7 +1907,7 @@ End Time,20:50
 tracknosp,['Food']
 endday,4/24/2015
 dayheader,"FRIDAY, APRIL 24"
-input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food [Room 1017]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/24/2015', '18:00', '4/24/2015', '20:50', 'Food [Room 1017]', 'Food', 'Flavored Popcorn!', 'Marcus Hauser', 'Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!', '02hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/24/2015
 calspeakers,Marcus Hauser
 avneeds,none
@@ -1915,16 +1915,16 @@ speakerlist,['Marcus Hauser']
 hours,2
 totalminutes,170
 speakernosplist,['MarcusHauser']
-caldescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
+caldescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!
 endtime,20:50
 AV Needs,
 name,Flavored Popcorn!
 Private,PUBLIC
 bookname,Flavored Popcorn!
 venue,Food [Room 1017]
-Book Description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
+Book Description,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!
 Presenters,Marcus Hauser
-csvsafedescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual- salt-and-butter and carmel corn - to the more adventurous- chili garlic and sea salt and vinegar! Come learn some tips and tricks and enjoy some tasty popcorn!
+csvsafedescrip,Learn how to mix ingredients and seasonings to make various flavors of popcorn in this three-hour drop-in demo. Flavors can range from the usual (salt-and-butter and carmel corn) to the more adventurous (chili garlic and sea salt and vinegar)! Come learn some tips and tricks and enjoy some tasty popcorn!
 speakernosp,MarcusHauser
 starttime,18:00
 roomnosp,Food[Room1017]
