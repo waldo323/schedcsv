@@ -18545,10 +18545,10 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Charlevoix B
 duration,50 minutes
-description,"Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture, and the most interesting, and try to set the record straight as to what our scientists are actually doing all day."
+description,
 index,403
 speakers,"Samuel Hansen, Mari Brighe"
-bookdescrip,"Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture, and the most interesting, and try to set the record straight as to what our scientists are actually doing all day."
+bookdescrip,
 Track,"Science, Life"
 startday,4/26/2015
 Title,Misconceptions of Scientific Work
@@ -18559,7 +18559,7 @@ End Time,15:50
 tracknosp,"['Science', 'Life']"
 endday,4/26/2015
 dayheader,"SUNDAY, APRIL 26"
-input,"['4/26/2015', '15:00', '4/26/2015', '15:50', 'Charlevoix B', 'Science, Life', 'Misconceptions of Scientific Work', 'Samuel Hansen, Mari Brighe', 'Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture, and the most interesting, and try to set the record straight as to what our scientists are actually doing all day.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/26/2015', '15:00', '4/26/2015', '15:50', 'Charlevoix B', 'Science, Life', 'Misconceptions of Scientific Work', 'Samuel Hansen, Mari Brighe', '', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/26/2015
 calspeakers,"Samuel Hansen, Mari Brighe"
 avneeds,none
@@ -18567,16 +18567,16 @@ speakerlist,"['Samuel Hansen', 'Mari Brighe']"
 hours,0
 totalminutes,50
 speakernosplist,"['SamuelHansen', 'MariBrighe']"
-caldescrip,"Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture, and the most interesting, and try to set the record straight as to what our scientists are actually doing all day."
+caldescrip,
 endtime,15:50
 AV Needs,
 name,Misconceptions of Scientific Work
 Private,PUBLIC
 bookname,Misconceptions of Scientific Work
 venue,Charlevoix B
-Book Description,"Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture, and the most interesting, and try to set the record straight as to what our scientists are actually doing all day."
+Book Description,
 Presenters,"Samuel Hansen, Mari Brighe"
-csvsafedescrip,Mathematicians are crazy loners that slave in front of chalkboards every second of every day in a singular pursuit of the next great theorem. Chemists pace their labs full of brightly colored chemicals and glass tubing that could have only been designed by Rube Goldberg trying to get their reactions correct. This panel will visit some of the most incorrect misconceptions in modern culture- and the most interesting- and try to set the record straight as to what our scientists are actually doing all day.
+csvsafedescrip,
 speakernosp,"SamuelHansen,MariBrighe"
 starttime,15:00
 roomnosp,CharlevoixB
