@@ -260,7 +260,8 @@
         "start_time": "16:00",
         "presenters": [
             "BluRaven Houvener",
-            "Trico Lutkins"
+            "Trico Lutkins",
+            "Chris Thomasma"
         ],
         "location": "Montcalm",
         "minutes": 50,
@@ -459,20 +460,6 @@
         "minutes": 50,
         "start_date": "4/24/2015",
         "end_time": "17:50"
-    },
-    {
-        "book_description": "The early \u201cpersonal computer revolution\u201d in the UK was influenced by two models of personal computers, the ZX-81 / Timex-Sinclair 1000 (mentioned in context with the ZX-80) and the QL. Gaming was profoundly influenced by the ZX Spectrum, the important successor to the ZX-81. We\u2019ll talk about their general architecture, software and hardware, as they provide insights into the history of Sinclair Computers (a major UK computer company of the 1980\u2019s), and how both the computer industry and it\u2019s market were rapidly changing in that era \u2013 with lessons for today. Both computers will be discussed in technical detail and put into historic context.",
-        "end_date": "4/24/2015",
-        "title": "A Tale of Two Sinclairs",
-        "track": "Tech",
-        "start_time": "17:00",
-        "presenters": [
-            "Adam Trent Phillips"
-        ],
-        "location": "Montcalm",
-        "minutes": 110,
-        "start_date": "4/24/2015",
-        "end_time": "18:50"
     },
     {
         "book_description": "It's hard out there on the streets. Are you a musician trying to get noticed? Or a fan wondering how musicians keep up with work/school/life while still having time and energy for creativity? Come snag some advice from some of the hardest working folks in the area.",
