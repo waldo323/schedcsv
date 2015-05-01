@@ -29,14 +29,6 @@ current output:
    * schedules by room for dubugging (./output/schedbyroom/)
    * schedules by room for use in making signs for each room (./penguicon.schedules.per.room.xml)
  
-soon to be output:
-  * trifold grid csv 
-    * need to add addressing or a map of somesort so that I can pull each item into the csv without a computationally expensive loop setup....there are already way too many loops in this script
-    * probably something where the script could call room.time and it would get the title of the entries in that slot
-    * ....maybe not for this year since there is a spreadsheet with schedule in a very similar format...so exporting that as csv might work better for now
-
-
-   
 Running wish list:
   * work with tuxtrax https://github.com/MattArnold/tuxtrax 
   * split code into separately functioning bits
@@ -51,4 +43,7 @@ Running wish list:
   * output of a file with each event with special characters which should be cleaned up in the source document and note or hi-light which characters
     * this is helpful even when the program cleans the entries 
        since some of those characters make it harder to fix the source spreadsheet
-
+  * trifold grid csv 
+    * need to add addressing or a map of somesort so that I can pull each item into the csv without a computationally expensive loop setup....there are already way too many loops in this script
+    * probably something where the script could call room.time and it would get the title of the entries in that slot
+    * ....maybe not for this year since there is a spreadsheet with schedule in a very similar format...so exporting that as csv might work better for now
