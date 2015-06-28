@@ -4,6 +4,8 @@ schedcsv
 seemingly simple project with the goal of parsing a csv file from an export
 from the head of programming and generating output files which are particularly useful to the upcoming Penguicon (on the master branch). typically the previous years will be made into a branch named the same as the Penguicon main event was held
 
+I have started re-writing the app with the csv_reader.py as my start
+
 usage:
    * download the repository
    * update variables which are different in the current year if needed in schedcsv.py, getsched.sh
