@@ -1,0 +1,12 @@
+
+track
+speakers
+rooms
+events
+  one or more track
+  zero to many speakers
+  one or more rooms
+  start (start date time)
+  end (end date time)
+  
+
