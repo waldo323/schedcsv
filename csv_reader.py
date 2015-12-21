@@ -13,7 +13,8 @@ If this is imported it will use the default sched.csv file
 .. _Google Python Style Guide:
    http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
 """
-import csv, sys
+import sys
+import  unicodecsv as csv
 import pprint
 
 # replace all function to help with the clean up
@@ -94,10 +95,10 @@ if __name__ == '__main__':
         """set the default file name to sched.scv
         """
 
-    pp = pprint.PrettyPrinter(indent=4)
+    #pp = pprint.PrettyPrinter(indent=4)
     SCHEDULEFILE = Readincsv(FILENAME)
     #print [eventData + "\n" for eventData in SCHEDULEFILE.schedule]
-    pp.pprint(SCHEDULEFILE.dbsched)
-    print SCHEDULEFILE.laststring
+    #pp.pprint(SCHEDULEFILE.dbsched)
+    #print SCHEDULEFILE.laststring
 
 

@@ -26,19 +26,19 @@ for events in SCHEDULEFILE.dbsched:
     #add_event = models.spreadsheetdb(name='ed', fullname='Ed Jones', password='edspassword' for k,i in events.iteritems())
 
 
-    add_event = models.spreadsheetdb(end_date=str(events.get("end_date")),
-        all_day_event=str(events.get("all_day_event")),
-        title=str(events.get("title")),
-        track=str(events.get("track")),
-        private=str(events.get("private")),
-        start_time=str(events.get("start_time")),
-        book_description=str(events.get("book_description")),
-        presenters=str(events.get("presenters")),
-        end_time=str(events.get("end_time")),
-        location=str(events.get("location")),
-        duration=str(events.get("duration")),
-        start_date=str(events.get("start_date")),
-        av_needs=str(events.get("av_needs")),)
+    add_event = models.spreadsheetdb(end_date=events.get("end_date"),
+        all_day_event=events.get("all_day_event"),
+        title=events.get("title"),
+        track=events.get("track"),
+        private=events.get("private"),
+        start_time=events.get("start_time"),
+        book_description=events.get("book_description"),
+        presenters=events.get("presenters"),
+        end_time=events.get("end_time"),
+        location=events.get("location"),
+        duration=events.get("duration"),
+        start_date=events.get("start_date"),
+        av_needs=events.get("av_needs"),)
     print session.dirty
     session.add(add_event)
     #print events.get("av_needs")
