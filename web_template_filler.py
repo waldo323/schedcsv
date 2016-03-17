@@ -36,7 +36,7 @@ oldtrackinfo = [
 ]
 
 
-with open('simple.csv', 'rb') as infile:
+with open('schedforwebsite.csv', 'rb') as infile:
   reader = csv.reader(infile)
   build = list(reader)
 
@@ -45,13 +45,13 @@ with open('simple.csv', 'rb') as infile:
 trackdict = {}
 #print build
 
-
+#print(s.decode('unicode_escape').encode('ascii','ignore'))
 
 for line in build:
-    if line[0] not in trackdict.keys():
-         trackdict[line[0]] = [[line[1],line[2]]]
+    if line[1] not in trackdict.keys():
+         trackdict[line[1]] = [[line[0].decode('unicode_escape').encode('ascii','ignore'),line[2].decode('unicode_escape').encode('ascii','ignore')]]
     else:
-         trackdict[line[0]].append([line[1],line[2]])
+         trackdict[line[1]].append([line[0].decode('unicode_escape').encode('ascii','ignore'),line[2].decode('unicode_escape').encode('ascii','ignore')])
 #print trackdict
 
 for track in trackdict:
