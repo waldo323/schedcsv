@@ -550,21 +550,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Friendship is magic, so come talk with other fans about the MLP show and fandom!",
-        "end_date": "5/1/2016",
-        "title": "My Little Pony: Friendship Is Magic",
-        "track": "Anime",
-        "start_time": "13:00",
-        "presenters": [
-            "Christina June",
-            "Galen Nelson"
-        ],
-        "location": "EMC I",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
         "end_date": "4/29/2016",
         "title": "Comic vs. Manga",
@@ -591,6 +576,21 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
+    },
+    {
+        "book_description": "Friendship is magic, so come talk with other fans about the MLP show and fandom!",
+        "end_date": "5/1/2016",
+        "title": "My Little Pony: Friendship Is Magic",
+        "track": "Anime",
+        "start_time": "13:00",
+        "presenters": [
+            "Christina June",
+            "Galen Nelson"
+        ],
+        "location": "EMC I",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
     },
     {
         "book_description": "In this panel we'll have an open discussion with lots of audience participation concerning the different philosophical and ethical questions Anime can bring to light. This will include discussions about Death Note, FMA (Full Metal Alchemist), GITS (Ghost in the Shell), and more. Bring an open mind and your thinking caps.",
@@ -939,20 +939,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Filker Tom Smith talks about how to start your own home music studio.",
-        "end_date": "4/30/2016",
-        "title": "Beginning Your Home Music Studio",
-        "track": "DIY, Media",
-        "start_time": "11:00",
-        "presenters": [
-            "Tom Smith"
-        ],
-        "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "11:50"
-    },
-    {
         "book_description": "Have a sewing machine, but have no idea how to activate the magic that powers it? Don't have a sewing machine, but are thinking about getting one? This panel will be an absolute from-the-ground-up explanation of how to use, set up, and care for a sewing machine. Bring your own if you'd like, for a more personalized explanation. If time allows, you can do a test-sew on one of my machines, or I'll help you with your own.",
         "end_date": "4/29/2016",
         "title": "Anatomy of a Sewing Machine",
@@ -969,7 +955,7 @@
     {
         "book_description": "Whether you have never even seen a needle and thread, or have been sewing since you were three, come join me as I teach the basics. In this hands-on activity we will create and embellish a pillow. I will teach how to attach buttons, appliqu\u00e9s, ribbon and decorative trim. I will also teach how to do a basic hand stitch as well as a decorative blanket stitch. The end result will be a decorative pillow for you to take home. No experience necessary. ",
         "end_date": "4/29/2016",
-        "title": "Basic sewing: Make a pillow",
+        "title": "Basic Sewing: Make a pillow",
         "track": "DIY",
         "start_time": "18:00",
         "presenters": [
@@ -983,7 +969,7 @@
     {
         "book_description": "Come learn how to crochet! Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.",
         "end_date": "4/30/2016",
-        "title": "Crocheting 101 DIY ",
+        "title": "Crocheting 101 DIY",
         "track": "DIY",
         "start_time": "13:00",
         "presenters": [
@@ -1025,7 +1011,7 @@
     {
         "book_description": "Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided.",
         "end_date": "4/30/2016",
-        "title": "Intro to needle felting",
+        "title": "Intro to Needle Felting",
         "track": "DIY",
         "start_time": "10:00",
         "presenters": [
@@ -1096,9 +1082,9 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Come play with wire and beads as we create a pair of earrings! Whether you have created jewelry before or this is your first time, I will guide you step by step in this creative process. Learn how to string beads, and bend wire to create a unique accessory. I will have pierced as well as clips available. ",
+        "book_description": "Come play with wire and beads as we create a pair of earrings! Whether you have created jewelry before or this is your first time, I will guide you step by step in this creative process. Learn how to string beads, and bend wire to create a unique accessory. While anyone is welcome to attend, a limited number of materials will be provided. Sign up in advance at Ops. ",
         "end_date": "4/30/2016",
-        "title": "Make a set of earrings ",
+        "title": "Make a Set of Earrings",
         "track": "DIY",
         "start_time": "21:00",
         "presenters": [
@@ -1123,6 +1109,20 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
+    },
+    {
+        "book_description": "Filker Tom Smith talks about how to start your own home music studio.",
+        "end_date": "4/30/2016",
+        "title": "Beginning Your Home Music Studio",
+        "track": "DIY, Media",
+        "start_time": "11:00",
+        "presenters": [
+            "Tom Smith"
+        ],
+        "location": "Nicolet",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "11:50"
     },
     {
         "book_description": "This presentation will cover the very very basics of DC circuit theory and the skills needed to cut and prep wire and then solder it together or to a component.",
@@ -1211,9 +1211,9 @@
         "end_time": "10:50"
     },
     {
-        "book_description": "Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. The hook is that the LED is a UV light (blacklight) led and it is encased by a chip of uranium glass which glows sickly nuke yellow under blacklight. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with and a selection of kits for sale at dramatically reduced prices compared to retail.",
+        "book_description": "Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers. Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. The hook is that the LED is a UV light (blacklight) led and it is encased by a chip of uranium glass which glows sickly nuke yellow under blacklight. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with and a selection of kits for sale at dramatically reduced prices compared to retail.",
         "end_date": "4/29/2016",
-        "title": "Microprocessor magic: Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers.",
+        "title": "Microprocessor Magic",
         "track": "DIY, Tech",
         "start_time": "19:00",
         "presenters": [
@@ -1972,6 +1972,20 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "14:50"
+    },
+    {
+        "book_description": "Join the 2017 ConFusion concom for a sneak peek at what might be in store for next January at out sister con!",
+        "end_date": "4/30/2016",
+        "title": "ConFusion ConCom Meeting",
+        "track": "Life",
+        "start_time": "17:00",
+        "presenters": [
+            "ConFusion ConCom"
+        ],
+        "location": "EMC V",
+        "minutes": 120,
+        "start_date": "4/30/2016",
+        "end_time": "19:00"
     },
     {
         "book_description": "Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project.",
@@ -3131,21 +3145,6 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "A panel where Mark Oshiro (Mark Does Stuff) and Tanya DePass (I Need Diverse Games) speak about the performative aspects of their work, including the need to entertain while doing blind reads and reactions to media and for Tanya; while streaming on Twitch/YT Gaming.",
-        "end_date": "4/29/2016",
-        "title": " When being 'on' is part and parcel of what people expect",
-        "track": "Media, Life",
-        "start_time": "19:00",
-        "presenters": [
-            "Tanya DePass",
-            "Mark Oshiro"
-        ],
-        "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
         "book_description": "Join fans of Doctor Who for an open discussion about all things timey-whimey. Birds of a Feather events are unmoderated.",
         "end_date": "4/30/2016",
         "title": "B.O.F. Dro Who",
@@ -3477,6 +3476,21 @@
         "end_time": "21:50"
     },
     {
+        "book_description": "A panel where Mark Oshiro (Mark Does Stuff) and Tanya DePass (I Need Diverse Games) speak about the performative aspects of their work, including the need to entertain while doing blind reads and reactions to media and for Tanya; while streaming on Twitch/YT Gaming.",
+        "end_date": "4/29/2016",
+        "title": " When being 'on' is part and parcel of what people expect",
+        "track": "Media, Life",
+        "start_time": "19:00",
+        "presenters": [
+            "Tanya DePass",
+            "Mark Oshiro"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
         "book_description": "Temporary description",
         "end_date": "4/29/2016",
         "title": "All Hands Active Keynote",
@@ -3522,20 +3536,6 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Join the 2017 ConFusion concom for a sneak peek at what might be in store for next January at out sister con!",
-        "end_date": "4/30/2016",
-        "title": "ConFusion ConCom Meeting",
-        "track": "Life",
-        "start_time": "17:00",
-        "presenters": [
-            "ConFusion ConCom"
-        ],
-        "location": "EMC V",
-        "minutes": 120,
-        "start_date": "4/30/2016",
-        "end_time": "19:00"
     },
     {
         "book_description": "Temporary description",

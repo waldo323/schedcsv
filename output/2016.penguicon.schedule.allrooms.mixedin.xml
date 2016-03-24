@@ -189,11 +189,6 @@
 <title>BoF: Manga 2 Anime</title>
 <topic>Anime</topic>
 <time>2 PM</time></event><event>
-<room>EMC I</room>
-<day>SUNDAY, May 1</day>
-<title>My Little Pony: Friendship Is Magic</title>
-<topic>Anime</topic>
-<time>1 PM</time></event><event>
 <room>EMC II</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Comic vs. Manga</title>
@@ -204,6 +199,11 @@
 <title>Influence of Anime in Media</title>
 <topic>Anime</topic>
 <time>8 PM</time></event><event>
+<room>EMC I</room>
+<day>SUNDAY, May 1</day>
+<title>My Little Pony: Friendship Is Magic</title>
+<topic>Anime</topic>
+<time>1 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
 <title>The Different Philosophies of Anime</title>
@@ -319,11 +319,6 @@
 <title>Silicone Casting for Cheap Bastards</title>
 <topic>Costuming</topic>
 <time>11 AM</time></event><event>
-<room>Nicolet</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Beginning Your Home Music Studio</title>
-<topic>DIY, Media</topic>
-<time>11 AM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Anatomy of a Sewing Machine</title>
@@ -331,7 +326,7 @@
 <time>9 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Basic sewing: Make a pillow</title>
+<title>Basic Sewing: Make a pillow</title>
 <topic>DIY</topic>
 <time>6 PM</time></event><event>
 <room>EMC I</room>
@@ -351,7 +346,7 @@
 <time>7 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Intro to needle felting</title>
+<title>Intro to Needle Felting</title>
 <topic>DIY</topic>
 <time>10 AM</time></event><event>
 <room>EMC V</room>
@@ -376,7 +371,7 @@
 <time>3 PM</time></event><event>
 <room>Baldwin</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Make a set of earrings</title>
+<title>Make a Set of Earrings</title>
 <topic>DIY</topic>
 <time>9 PM</time></event><event>
 <room>FOOD</room>
@@ -384,6 +379,11 @@
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
 <time>8 PM</time></event><event>
+<room>Nicolet</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Beginning Your Home Music Studio</title>
+<topic>DIY, Media</topic>
+<time>11 AM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Basic Skills for working with electronics.</title>
@@ -416,7 +416,7 @@
 <time>10 AM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Microprocessor magic: Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers.</title>
+<title>Microprocessor Magic</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
 <room>Hackerspace (317)</room>
@@ -679,6 +679,11 @@
 <title>Conclave 40 Feedback and Announcements</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
+<room>EMC V</room>
+<day>SATURDAY, APRIL 30</day>
+<title>ConFusion ConCom Meeting</title>
+<topic>Life</topic>
+<time>5 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
 <title>Crowdfunding careers</title>
@@ -1049,11 +1054,6 @@
 <title>Where in the World?</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
-<room>Montcalm</room>
-<day>FRIDAY, APRIL 29</day>
-<title>When being 'on' is part and parcel of what people expect</title>
-<topic>Media, Life</topic>
-<time>7 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>B.O.F. Dro Who</title>
@@ -1159,6 +1159,11 @@
 <title>Wesley and the Crushers</title>
 <topic>Media</topic>
 <time>9 PM</time></event><event>
+<room>Montcalm</room>
+<day>FRIDAY, APRIL 29</day>
+<title>When being 'on' is part and parcel of what people expect</title>
+<topic>Media, Life</topic>
+<time>7 PM</time></event><event>
 <room>Algonquin B/C</room>
 <day>FRIDAY, APRIL 29</day>
 <title>All Hands Active Keynote</title>
@@ -1174,11 +1179,6 @@
 <title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <time>4 PM</time></event><event>
-<room>EMC V</room>
-<day>SATURDAY, APRIL 30</day>
-<title>ConFusion ConCom Meeting</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Costume Contest</title>
