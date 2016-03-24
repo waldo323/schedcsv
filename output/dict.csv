@@ -10868,7 +10868,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,Temporary description
 index,236
-speakers,"Crazy Mark, NUET"
+speakers,"Crazy Mark, Alex Drummer"
 bookdescrip,Temporary description
 Track,Penguicon
 startday,4/30/2016
@@ -10880,14 +10880,14 @@ End Time,17:50
 tracknosp,['Penguicon']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '17:00', '4/30/2016', '17:50', 'Charlevoix A', 'Penguicon', 'Costume Contest', 'Crazy Mark, NUET', 'Temporary description', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '17:00', '4/30/2016', '17:50', 'Charlevoix A', 'Penguicon', 'Costume Contest', 'Crazy Mark, Alex Drummer', 'Temporary description', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Crazy Mark, NUET"
+calspeakers,"Crazy Mark, Alex Drummer"
 avneeds,none
-speakerlist,"['Crazy Mark', 'NUET']"
+speakerlist,"['Crazy Mark', 'Alex Drummer']"
 hours,0
 totalminutes,50
-speakernosplist,"['CrazyMark', 'NUET']"
+speakernosplist,"['CrazyMark', 'AlexDrummer']"
 caldescrip,Temporary description
 endtime,17:50
 AV Needs,
@@ -10896,9 +10896,9 @@ Private,PUBLIC
 bookname,Costume Contest
 venue,Charlevoix A
 Book Description,Temporary description
-Presenters,"Crazy Mark, NUET"
+Presenters,"Crazy Mark, Alex Drummer"
 csvsafedescrip,Temporary description
-speakernosp,"CrazyMark,NUET"
+speakernosp,"CrazyMark,AlexDrummer"
 starttime,17:00
 roomnosp,CharlevoixA
 Start Date,4/30/2016
@@ -10914,7 +10914,7 @@ Location,Charlevoix B
 duration,50 minutes
 description,Temporary description
 index,237
-speakers,"Crazy Mark, NUET"
+speakers,"Crazy Mark, Alex Drummer"
 bookdescrip,Temporary description
 Track,Penguicon
 startday,4/30/2016
@@ -10926,14 +10926,14 @@ End Time,16:50
 tracknosp,['Penguicon']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix B', 'Penguicon', 'Costume Contest Muster', 'Crazy Mark, NUET', 'Temporary description', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix B', 'Penguicon', 'Costume Contest Muster', 'Crazy Mark, Alex Drummer', 'Temporary description', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Crazy Mark, NUET"
+calspeakers,"Crazy Mark, Alex Drummer"
 avneeds,none
-speakerlist,"['Crazy Mark', 'NUET']"
+speakerlist,"['Crazy Mark', 'Alex Drummer']"
 hours,0
 totalminutes,50
-speakernosplist,"['CrazyMark', 'NUET']"
+speakernosplist,"['CrazyMark', 'AlexDrummer']"
 caldescrip,Temporary description
 endtime,16:50
 AV Needs,
@@ -10942,9 +10942,9 @@ Private,PUBLIC
 bookname,Costume Contest Muster
 venue,Charlevoix B
 Book Description,Temporary description
-Presenters,"Crazy Mark, NUET"
+Presenters,"Crazy Mark, Alex Drummer"
 csvsafedescrip,Temporary description
-speakernosp,"CrazyMark,NUET"
+speakernosp,"CrazyMark,AlexDrummer"
 starttime,16:00
 roomnosp,CharlevoixB
 Start Date,4/30/2016
