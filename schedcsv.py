@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import csv, json, sys, re, os
 from operator import itemgetter#, attrgetter
+from jinja2 import Environment, Template
 #from git import *
 
 #from bs4 import BeautifulSoup  
@@ -68,14 +69,14 @@ extrainfo = """
 """
 ### configure these variables each year ###
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
-friday_header = "FRIDAY, APRIL 24"
-friday_date = "4/24/2015"
-saturday_header = "SATURDAY, APRIL 25"
-saturday_date = "4/25/2015"
-sunday_header = "SUNDAY, APRIL 26"
-sunday_date = "4/26/2015"
-conyear = "2015"
-constart = "2015-04-24 14:00:00"
+friday_header = "FRIDAY, APRIL 29"
+friday_date = "4/29/2016"
+saturday_header = "SATURDAY, APRIL 30"
+saturday_date = "4/30/2016"
+sunday_header = "SUNDAY, May 1"
+sunday_date = "5/1/2016"
+conyear = "2016"
+constart = "2016-04-29 14:00:00"
 
 ###
 calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
