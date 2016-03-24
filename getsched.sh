@@ -28,7 +28,7 @@ echo process the data
 python schedcsv.py sched.csv && echo looks good!
 
 echo post process the speakerlists
-awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2016.penguicon.speakers.3plus.txt |sort > ./output/2015.penguicon.spkrs.bylast.3plus.txt 
+awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2016.penguicon.speakers.3plus.txt |sort > ./output/2016.penguicon.spkrs.bylast.3plus.txt 
 
 awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2016.penguicon.speakers.txt |sort> ./output/2016.penguicon.spkrs.bylast.txt 
 
