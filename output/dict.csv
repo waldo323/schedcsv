@@ -7,10 +7,10 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Algonquin A
 duration,50 minutes
-description,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.  Check us out at http://www.eryndor.com/ about costuming, rules, weapons building, etc.  (Not to be included yet I am making us a new updated one that will replace it within a month)"
+description,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.
 index,0
 speakers,Adrienne Johnson (Kalika)
-bookdescrip,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.  Check us out at http://www.eryndor.com/ about costuming, rules, weapons building, etc.  (Not to be included yet I am making us a new updated one that will replace it within a month)"
+bookdescrip,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.
 Track,Action Adventure
 startday,5/1/2016
 Title,Eryndor Dagorhir
@@ -21,7 +21,7 @@ End Time,15:50
 tracknosp,['ActionAdventure']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '15:00', '5/1/2016', '15:50', 'Algonquin A', 'Action Adventure', 'Eryndor Dagorhir', 'Adrienne Johnson (Kalika)', 'Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.  Check us out at http://www.eryndor.com/ about costuming, rules, weapons building, etc.  (Not to be included yet I am making us a new updated one that will replace it within a month)', '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '15:00', '5/1/2016', '15:50', 'Algonquin A', 'Action Adventure', 'Eryndor Dagorhir', 'Adrienne Johnson (Kalika)', 'Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Adrienne Johnson (Kalika)
 avneeds,none
@@ -29,16 +29,16 @@ speakerlist,['Adrienne Johnson (Kalika)']
 hours,0
 totalminutes,50
 speakernosplist,['AdrienneJohnsonKalika']
-caldescrip,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.  Check us out at http://www.eryndor.com/ about costuming, rules, weapons building, etc.  (Not to be included yet I am making us a new updated one that will replace it within a month)"
+caldescrip,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.
 endtime,15:50
 AV Needs,
 name,Eryndor Dagorhir
 Private,PUBLIC
 bookname,Eryndor Dagorhir
 venue,Algonquin A
-Book Description,"Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon! Several people from the local realm of Eryndor will be on hand to spar and answer questions. Check us out at http://www.eryndor.com/ about costuming, rules, weapons building, etc. (Not to be included yet I am making us a new updated one that will replace it within a month)"
+Book Description,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon! Several people from the local realm of Eryndor will be on hand to spar and answer questions.
 Presenters,Adrienne Johnson (Kalika)
-csvsafedescrip,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.  Check us out at http://www.eryndor.com/ about costuming- rules- weapons building- etc.  (Not to be included yet I am making us a new updated one that will replace it within a month)
+csvsafedescrip,Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions.
 speakernosp,AdrienneJohnsonKalika
 starttime,15:00
 roomnosp,AlgonquinA
@@ -329,10 +329,10 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
-description,"There are a great many martial artists here at PenguiCon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
+description,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 index,7
 speakers,Kent Newland
-bookdescrip,"There are a great many martial artists here at PenguiCon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
+bookdescrip,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 Track,Action Adventure
 startday,4/29/2016
 Title,Open Source Martial Arts
@@ -343,7 +343,7 @@ End Time,20:50
 tracknosp,['ActionAdventure']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '20:50', 'Algonquin A', 'Action Adventure', 'Open Source Martial Arts', 'Kent Newland', 'There are a great many martial artists here at PenguiCon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!', '01hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '19:00', '4/29/2016', '20:50', 'Algonquin A', 'Action Adventure', 'Open Source Martial Arts', 'Kent Newland', 'There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!', '01hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Kent Newland
 avneeds,none
@@ -351,16 +351,16 @@ speakerlist,['Kent Newland']
 hours,1
 totalminutes,110
 speakernosplist,['KentNewland']
-caldescrip,"There are a great many martial artists here at PenguiCon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
+caldescrip,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 endtime,20:50
 AV Needs,
 name,Open Source Martial Arts
 Private,PUBLIC
 bookname,Open Source Martial Arts
 venue,Algonquin A
-Book Description,"There are a great many martial artists here at PenguiCon! Come on down and work on some problem solving together! Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles! Traditional, non-traditional, all are welcome here!"
+Book Description,"There are a great many martial artists here at Penguicon! Come on down and work on some problem solving together! Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles! Traditional, non-traditional, all are welcome here!"
 Presenters,Kent Newland
-csvsafedescrip,There are a great many martial artists here at PenguiCon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European- Chinese- Japanese- Filipino- Indonesian- Malaysian- and all other martial arts styles!  Traditional- non-traditional- all are welcome here!
+csvsafedescrip,There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European- Chinese- Japanese- Filipino- Indonesian- Malaysian- and all other martial arts styles!  Traditional- non-traditional- all are welcome here!
 speakernosp,KentNewland
 starttime,19:00
 roomnosp,AlgonquinA
