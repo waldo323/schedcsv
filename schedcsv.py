@@ -345,12 +345,12 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        print session['name']
-        print "start day " + session['startday'][2:-5] 
-        print "start time " + session['starttime'][:-3]
-        print "end day " + session['endday'][2:-5]
-        print "end time " + session['endtime'][-5:-3]
-        print "end minutes " + session['endtime'][-2:]
+        #print session['name']
+        #print "start day " + session['startday'][2:-5] 
+        #print "start time " + session['starttime'][:-3]
+        #print "end day " + session['endday'][2:-5]
+        #print "end time " + session['endtime'][-5:-3]
+        #print "end minutes " + session['endtime'][-2:]
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
         

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% for event in events%}
+{% if fistday %}
+<day>{{ day_header }}</day>{% endif %}{% if day_header == day %}{% if firsttime  %}
+<time>{{y['starttimeampm']}}</time>
+{% endif %}<event><title>{{ bookname }}</title>
+<topic>{{ event_type }}</topic>{% if venue != '' %}
+<room>{{ venue }}</room>
+{% endif %}<blurb><participant>{{ speakers }}</participant> {{ bookdescrip }} {% if duration != "50 minutes" %}<duration>{{ duration }}</duration>{% endif %}</blurb></event>
+{% endif %}{% endfor %}
