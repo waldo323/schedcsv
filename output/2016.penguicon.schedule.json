@@ -4155,7 +4155,7 @@
     {
         "book_description": "Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.",
         "end_date": "5/1/2016",
-        "title": "Continuous Delivery: Fast, painless software deployment",
+        "title": "Continuous Delivery: Fast, Painless Software Deployment",
         "track": "Tech",
         "start_time": "12:00",
         "presenters": [
@@ -4167,9 +4167,9 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment.",
+        "book_description": "Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. ",
         "end_date": "4/30/2016",
-        "title": "Data Analysis using Python",
+        "title": "Data Analysis Using Python",
         "track": "Tech",
         "start_time": "19:00",
         "presenters": [
@@ -4198,7 +4198,7 @@
     {
         "book_description": "Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your \"Windows\" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss!",
         "end_date": "4/30/2016",
-        "title": "Emulators and Emulation: Emulating a trip through Craig's childhood; one machine at a time ",
+        "title": "Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time",
         "track": "Tech",
         "start_time": "12:00",
         "presenters": [
@@ -4268,7 +4268,7 @@
     {
         "book_description": "In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking.",
         "end_date": "4/30/2016",
-        "title": "Freenet: A social approach to privacy",
+        "title": "Freenet: A Social Approach to Privacy",
         "track": "Tech",
         "start_time": "13:00",
         "presenters": [
@@ -4281,9 +4281,9 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to \u201cread minds\u201d (well, EEG waves!). Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions. I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying. In this session, I will share my results on this \u201clie detector\u201d experiment. I will show my machine learning models, data cleaning process, results, and next steps/resources. This session will be a fun look inside your brain waves along with demonstrations of data processing and predictive analytics.",
+        "book_description": "Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to \u201cread minds\u201d (well, EEG waves!). Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions. I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying. In this session, I will share my results on this \u201clie detector\u201d experiment. I will show my machine learning models, data cleaning process, results, and next steps/resources. ",
         "end_date": "4/30/2016",
-        "title": "Fun with Mind Reading: Using EEG and Azure Machine Learning to Perform Lie Detection",
+        "title": "Fun with Mind Reading",
         "track": "Tech",
         "start_time": "15:00",
         "presenters": [
@@ -4355,7 +4355,7 @@
     {
         "book_description": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
         "end_date": "4/30/2016",
-        "title": "How will technology change society",
+        "title": "How Will Technology Change Society?",
         "track": "Tech",
         "start_time": "16:00",
         "presenters": [
@@ -4385,7 +4385,7 @@
     {
         "book_description": "Do you sometimes feel like people who advocate security are speaking a foreign language? Would you like some practical advice you can use even if you are not an IT Professional? Then come hear Tony Bemus from the Sunday Morning Linux Review as he explains in layman's terms how to be more secure with your Internet-connected computer.",
         "end_date": "4/30/2016",
-        "title": "Internet security for the lay geek",
+        "title": "Internet Security for the Lay Geek",
         "track": "Tech",
         "start_time": "17:00",
         "presenters": [
@@ -4440,9 +4440,9 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "What does it mean to be Agile? Is it all marketing and hype or does this represent the future of software development? We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework. We will discuss things like the element of Scrum, it\u2019s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts.",
+        "book_description": "What does it mean to be Agile? Is it all marketing and hype or does this represent the future of software development? We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework. We will discuss things like the element of Scrum, it\u2019s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. ",
         "end_date": "4/30/2016",
-        "title": "Introduction to Agile/Scrum",
+        "title": "Intro to Agile/Scrum",
         "track": "Tech",
         "start_time": "13:00",
         "presenters": [
@@ -4457,7 +4457,7 @@
     {
         "book_description": "We'll cover the free, open source tools required to create an automated analytics pipeline for whatever data you may be interested in. Specifically, we'll talk about ETL and Analysis with Spark, Hadoop as a data store, and Relational databases. Students will be provided an example pipeline as well as a fully configured VM to play with.",
         "end_date": "4/29/2016",
-        "title": "Introduction to Big Data Tools",
+        "title": "Intro to Big Data Tools",
         "track": "Tech",
         "start_time": "21:00",
         "presenters": [
@@ -4469,9 +4469,9 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Presentation based on the books \"Building Microservices\" by Sam Newman and \"Release It! Design and Deploy Production Ready Software\" by Michael T. Nygard.",
+        "book_description": "Presentation based on the books \"Building Microservices\" by Sam Newman and \"Release It! Design and Deploy Production Ready Software\" by Michael T. Nygard. ",
         "end_date": "4/30/2016",
-        "title": "Introduction to Microservices",
+        "title": "Intro to Microservices",
         "track": "Tech",
         "start_time": "15:00",
         "presenters": [
@@ -4485,7 +4485,7 @@
     {
         "book_description": "An Introduction to Network Monitoring utilizing the Open Source Zenoss Monitoring System. Topics covered will include configuration, managing monitored hosts via SNMP, SSH, and basic remediation.",
         "end_date": "4/30/2016",
-        "title": "Introduction to Zenoss",
+        "title": "Intro to Zenoss",
         "track": "Tech",
         "start_time": "10:00",
         "presenters": [
@@ -4499,7 +4499,7 @@
     {
         "book_description": "Explore how to become mobile in your work. This presentation will focus on issues facing the remote IT worker. We will discuss contracts and negotiations, travel (what exactly is the importance of luggage in a global economy), accommodations, some techno-geek concerns and a few standard mobile apps to think about.",
         "end_date": "5/1/2016",
-        "title": "IT Road Warrior \u2013 The art of being mobile",
+        "title": "IT Road Warrior: The Art of Being Mobile",
         "track": "Tech",
         "start_time": "11:00",
         "presenters": [
@@ -4527,7 +4527,7 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "In this hands-on event, participants will learn how the web of trust model works and perform identify verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID \u2014 at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in.",
+        "book_description": "In this hands-on event, participants will learn how the web of trust model works and perform identity verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID \u2014 at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in.",
         "end_date": "4/30/2016",
         "title": "Keysigning Party",
         "track": "Tech",
@@ -4557,7 +4557,7 @@
     {
         "book_description": "Moodle is an open source learning management system. It is used by tens of thousands of educational institutions from K12 to higher education and by corporations looking for better training tools. Moodle is supported by a huge international open source community which is growing every year. But how does Moodle (the project) manage itself? Meant mainly for teachers, sys admins, and web developers, this talk will focus on what Moodle is, how it is managed, and how to become a part of the Moodle community. If you use Moodle or are interested in how a large open source project is actually managed, this talk is for you.",
         "end_date": "5/1/2016",
-        "title": "Making Moodle: from community to code.",
+        "title": "Making Moodle: From Community to Code",
         "track": "Tech",
         "start_time": "14:00",
         "presenters": [
@@ -4827,7 +4827,7 @@
     {
         "book_description": "Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things offer a demo of an RFID Implant and answer your questions about biohacking and how it can work for you.",
         "end_date": "4/30/2016",
-        "title": "RFID Implant Demo with Q and A",
+        "title": "Biohacking 101",
         "track": "Tech",
         "start_time": "18:00",
         "presenters": [
@@ -4885,7 +4885,7 @@
     {
         "book_description": "Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. ",
         "end_date": "4/30/2016",
-        "title": "setup and run your own personal assistant",
+        "title": "Set-up and Run Your Own Intelligent Personal Assistant",
         "track": "Tech",
         "start_time": "14:00",
         "presenters": [
@@ -4912,9 +4912,9 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Why would Craig be searching UK auction sites for a machine that was never released in the USA? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received.",
+        "book_description": "Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received.",
         "end_date": "4/30/2016",
-        "title": "Sinclair ZX Computers: Why a machine I never owned is one of my favorite retro computers",
+        "title": "Sinclair ZX Computers",
         "track": "Tech",
         "start_time": "20:00",
         "presenters": [
@@ -4928,7 +4928,7 @@
     {
         "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
         "end_date": "4/30/2016",
-        "title": "Sirius (Lucida) talk",
+        "title": "Sirius: The Open Source Intelligent Personal Assistant",
         "track": "Tech",
         "start_time": "19:00",
         "presenters": [
@@ -5015,7 +5015,7 @@
     {
         "book_description": "Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available.",
         "end_date": "4/29/2016",
-        "title": "The dark web big three",
+        "title": "The Dark Web Big Three",
         "track": "Tech",
         "start_time": "21:00",
         "presenters": [
@@ -5061,7 +5061,7 @@
     {
         "book_description": "Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids.",
         "end_date": "4/30/2016",
-        "title": "The Tech behind Asteroid Mining",
+        "title": "The Tech Behind Asteroid Mining",
         "track": "Tech",
         "start_time": "16:00",
         "presenters": [
@@ -5103,7 +5103,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "TopicHero (http://TopicHero.com) allows users to create and share multiple Topics across different devices and browsers. Topic elements include Search Engines, RSS Feeds, and Links, in addition to typical web page elements. This is a different way of slicing web information, where the focus is on Topics as opposed to a focus on a Search Engine, device, browser, or RSS Feed. TopicHero arises from a philosophy that it is the topic that is critical and that users need effective tools to bring as many resources to bare on specific topics as possible. This is particularly true in business where many users are dedicated to working on specific topics for long periods of time.",
+        "book_description": "TopicHero (http://TopicHero.com) allows users to create and share multiple Topics across different devices and browsers. Topic elements include Search Engines, RSS Feeds, and Links, in addition to typical web page elements. This is a different way of slicing web information, where the focus is on Topics as opposed to a focus on a Search Engine, device, browser, or RSS Feed. TopicHero arises from a philosophy that it is the topic that is critical and that users need effective tools to bring as many resources to bare on specific topics as possible. This is particularly true in business where many users are dedicated to working on specific topics for long periods of time. ",
         "end_date": "4/30/2016",
         "title": "TopicHero for Topic Heroes",
         "track": "Tech",
@@ -5147,7 +5147,7 @@
     {
         "book_description": "Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online. Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure.",
         "end_date": "4/30/2016",
-        "title": "Understanding and Protecting your Privacy Online",
+        "title": "Understanding and Protecting Your Privacy Online",
         "track": "Tech",
         "start_time": "14:00",
         "presenters": [
@@ -5193,7 +5193,8 @@
         "track": "Tech, Life, DIY",
         "start_time": "16:20",
         "presenters": [
-            ""
+            "Amal Graafstra",
+            "Anita Fowler"
         ],
         "location": "HackerSpace (317)",
         "minutes": 42,

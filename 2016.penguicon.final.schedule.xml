@@ -1465,13 +1465,13 @@
 <blurb><participant>Gibson Nichols</participant> Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. <duration>42 minutes</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>12 PM</time>
-<event><title>Continuous Delivery: Fast, painless software deployment</title>
+<event><title>Continuous Delivery: Fast, Painless Software Deployment</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Mark Henke</participant> Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
-<event><title>Data Analysis using Python</title>
+<event><title>Data Analysis Using Python</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Richard Herrell</participant> Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. </blurb></event>
@@ -1483,7 +1483,7 @@
 <blurb><participant>Daniel Dugan, Maria Dugan</participant> A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
-<event><title>Emulators and Emulation: Emulating a trip through Craig's childhood; one machine at a time</title>
+<event><title>Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time</title>
 <topic>Tech</topic>
 <room>Hamlin</room>
 <blurb><participant>Craig Maloney</participant> Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your "Windows" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss! </blurb></event>
@@ -1510,15 +1510,15 @@
 <blurb><participant>Edward L. Platt</participant> Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.) </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
-<event><title>Freenet: A social approach to privacy</title>
+<event><title>Freenet: A Social Approach to Privacy</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Michael Grube, Steve Dougherty</participant> In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking. </blurb></event>
 <time>3 PM</time>
-<event><title>Fun with Mind Reading: Using EEG and Azure Machine Learning to Perform Lie Detection</title>
+<event><title>Fun with Mind Reading</title>
 <topic>Tech</topic>
 <room>Windover</room>
-<blurb><participant>Jennifer Marsman</participant> Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to “read minds” (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this “lie detector” experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources.  This session will be a fun look inside your brain waves along with demonstrations of data processing and predictive analytics. </blurb></event>
+<blurb><participant>Jennifer Marsman</participant> Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to “read minds” (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this “lie detector” experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>6 PM</time>
 <event><title>Getting Hands on With Linux</title>
@@ -1543,7 +1543,7 @@
 <blurb><participant>Daniel Franke</participant> Those who are unfamiliar with NTP, the Network Time Protocol which keeps your computer's clock in sync with the rest of the world, tend to assume it must be trivial. Those with slightly more familiarity are aware of its reputation for being deeply arcane and full of scary math. Daniel Franke, of the NTPsec project, thinks that both these perceptions are mistaken and that NTP's apparent impenetrability is entirely a consequence of bad pedagogy. In this talk, he aims to fix that. While some background in statistics will make this talk go down a bit more smoothly, a solid grasp of high school algebra should be entirely sufficient for following along. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>4 PM</time>
-<event><title>How will technology change society</title>
+<event><title>How Will Technology Change Society?</title>
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Deb Nicholson, Jason Mars, Lingjia Tang</participant> How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it? <duration>1 hour</duration></blurb></event>
@@ -1555,7 +1555,7 @@
 <blurb><participant>Dr. Justin Coven</participant> Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel). </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
-<event><title>Internet security for the lay geek</title>
+<event><title>Internet Security for the Lay Geek</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Tony Bemus</participant> Do you sometimes feel like people who advocate security are speaking a foreign language? Would you like some practical advice you can use even if you are not an IT Professional? Then come hear Tony Bemus from the Sunday Morning Linux Review as he explains in layman's terms how to be more secure with your Internet-connected computer. </blurb></event>
@@ -1577,30 +1577,30 @@
 <room>Montcalm</room>
 <blurb><participant>Mike Bernson</participant> Python is one of the most used programming languages on the Web, so come and get your feet wet with this tool, then stay for the Python Code Walk-Through that follows </blurb></event>
 <time>1 PM</time>
-<event><title>Introduction to Agile/Scrum</title>
+<event><title>Intro to Agile/Scrum</title>
 <topic>Tech</topic>
 <room>Hamlin</room>
 <blurb><participant>Donald Mark Haynes, Douglas Johnson</participant> What does it mean to be Agile?  Is it all marketing and hype or does this represent the future of software development?  We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework.  We will discuss things like the element of Scrum, it’s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
-<event><title>Introduction to Big Data Tools</title>
+<event><title>Intro to Big Data Tools</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Michael Grube</participant> We'll cover the free, open source tools required to create an automated analytics pipeline for whatever data you may be interested in. Specifically, we'll talk about ETL and Analysis with Spark, Hadoop as a data store, and Relational databases.  Students will be provided an example pipeline as well as a fully configured VM to play with. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
-<event><title>Introduction to Microservices</title>
+<event><title>Intro to Microservices</title>
 <topic>Tech</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Richard Herrell</participant> Presentation based on the books "Building Microservices" by Sam Newman and "Release It! Design and Deploy Production Ready Software" by Michael T. Nygard. </blurb></event>
 <time>10 AM</time>
-<event><title>Introduction to Zenoss</title>
+<event><title>Intro to Zenoss</title>
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Andrew D Kirch</participant> An Introduction to Network Monitoring utilizing the Open Source Zenoss Monitoring System.  Topics covered will include configuration, managing monitored hosts via SNMP, SSH, and basic remediation. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>11 AM</time>
-<event><title>IT Road Warrior – The art of being mobile</title>
+<event><title>IT Road Warrior: The Art of Being Mobile</title>
 <topic>Tech</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Donald Mark Haynes, Douglas Johnson</participant> Explore how to become mobile in your work. This presentation will focus on issues facing the remote IT worker. We will discuss contracts and negotiations, travel (what exactly is the importance of luggage in a global economy), accommodations, some techno-geek concerns and a few standard mobile apps to think about. </blurb></event>
@@ -1612,7 +1612,7 @@
 <event><title>Keysigning Party</title>
 <topic>Tech</topic>
 <room>EMC IV</room>
-<blurb><participant>Richard Houser</participant> In this hands-on event, participants will learn how the web of trust model works and perform identify verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID — at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in. <duration>2 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Richard Houser</participant> In this hands-on event, participants will learn how the web of trust model works and perform identity verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID — at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in. <duration>2 hours and 50 minutes</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>4 PM</time>
 <event><title>Last Call for Linux</title>
@@ -1620,7 +1620,7 @@
 <room>Computer Lab (EMC III)</room>
 <blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
 <time>2 PM</time>
-<event><title>Making Moodle: from community to code.</title>
+<event><title>Making Moodle: From Community to Code</title>
 <topic>Tech</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Matthew G. Switlik</participant> Moodle is an open source learning management system. It is used by tens of thousands of educational institutions from K12 to higher education and by corporations looking for better training tools.  Moodle is supported by a huge international open source community which is growing every year. But how does Moodle (the project) manage itself? Meant mainly for teachers, sys admins, and web developers, this talk will focus on what Moodle is, how it is managed, and how to become a part of the Moodle community. If you use Moodle or are interested in how a large open source project is actually managed, this talk is for you. </blurb></event>
@@ -1721,7 +1721,7 @@
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>Tom Callahan</participant> Red Hat has brought great content to Penguicon once again!  Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This event will provide an opportunity for both novices and experts to brush up on their skills and compete for prizes. Noteworthy Addendum! There will be 20 laptops available in the lab. First come, first served. <duration>2 hours and 50 minutes</duration></blurb></event>
 <time>6 PM</time>
-<event><title>RFID Implant Demo with Q&amp;A</title>
+<event><title>Biohacking 101</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Amal Graafstra, Anita Fowler</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things offer a demo of an RFID Implant and answer your questions about biohacking and how it can work for you. </blurb></event>
@@ -1742,7 +1742,7 @@
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas, Autumn Mahoney</participant> Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<event><title>setup and run your own personal assistant</title>
+<event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Jason Mars, Lingjia Tang</participant> Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. </blurb></event>
@@ -1753,12 +1753,12 @@
 <blurb><participant>Mike Birdsall</participant> Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
-<event><title>Sinclair ZX Computers: Why a machine I never owned is one of my favorite retro computers</title>
+<event><title>Sinclair ZX Computers</title>
 <topic>Tech</topic>
 <room>Nicolet</room>
-<blurb><participant>Craig Maloney</participant> Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Why would Craig be searching UK auction sites for a machine that was never released in the USA? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received. </blurb></event>
+<blurb><participant>Craig Maloney</participant> Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received. </blurb></event>
 <time>7 PM</time>
-<event><title>Sirius (Lucida) talk</title>
+<event><title>Sirius: The Open Source Intelligent Personal Assistant</title>
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Jason Mars</participant> Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan. </blurb></event>
@@ -1790,7 +1790,7 @@
 <blurb><participant>Sam Boyer</participant> Software is terrible. If you work in software, you know this almost rises to the level of truism. There's a long, strong tradition of prognosticating doom among software folks. This talk is about why software is so awful (spoiler: humans are bad at it), how we software folk cope with that awfulness, and most importantly, the implications that the *particular* nature of the awfulness has for modern and future society. It should be interesting for engineers and non-engineers alike. My hope is that attendees will leave with a stronger sense of what realistic risks are posed by the terribleness of software. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
-<event><title>The dark web big three</title>
+<event><title>The Dark Web Big Three</title>
 <topic>Tech</topic>
 <room>Portage Auditorium</room>
 <blurb><participant>Pat Baker</participant> Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available. </blurb></event>
@@ -1806,7 +1806,7 @@
 <room>Algonquin D</room>
 <blurb><participant>Ann Leckie, Jason Mars, Lingjia Tang, Jennifer Marsman</participant> Artificial intelligences have been a staple of science fiction forever.  But where does the reality of AI end, and the fiction begin? </blurb></event>
 <time>4 PM</time>
-<event><title>The Tech behind Asteroid Mining</title>
+<event><title>The Tech Behind Asteroid Mining</title>
 <topic>Tech</topic>
 <room>EMC IV</room>
 <blurb><participant>Krunal Desai</participant> Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids. </blurb></event>
@@ -1840,7 +1840,7 @@
 <blurb><participant>Craig Maloney</participant> Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>2 PM</time>
-<event><title>Understanding &amp; Protecting your Privacy Online</title>
+<event><title>Understanding &amp; Protecting Your Privacy Online</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Ryan Kather</participant> Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure. </blurb></event>
@@ -1861,4 +1861,4 @@
 <event><title>Dangeous Things</title>
 <topic>Tech, Life, DIY</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant></participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. <duration>42 minutes</duration></blurb></event></events>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. <duration>42 minutes</duration></blurb></event></events>
