@@ -2026,7 +2026,7 @@
         "track": "Life",
         "start_time": "20:00",
         "presenters": [
-            "Ericka Kahler"
+            "Ericka S. Kahler"
         ],
         "location": "Baldwin",
         "minutes": 50,
@@ -2546,17 +2546,17 @@
     },
     {
         "book_description": "Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.",
-        "end_date": "4/30/2016",
+        "end_date": "5/1/2016",
         "title": "Cathrynne Valente reading",
         "track": "Literature",
-        "start_time": "14:00",
+        "start_time": "11:00",
         "presenters": [
             "Cathrynne Valente"
         ],
         "location": "Montcalm",
         "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
     },
     {
         "book_description": "A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?",
@@ -2645,6 +2645,24 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "21:50"
+    },
+    {
+        "book_description": "What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. ",
+        "end_date": "5/1/2016",
+        "title": "Tools for Outlines: M.I.C.E., The Three Act Structure",
+        "track": "Literature",
+        "start_time": "10:00",
+        "presenters": [
+            "Paul Kemner",
+            "Ericka Kahler",
+            "Eric S. Raymond",
+            "Michael K. Elliot",
+            "Angie Rush"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "10:50"
     },
     {
         "book_description": "Creating authentic characters who seem to experience a full range of believable emotions is only half the equation in character-building. How can we use character emotions to evoke real feelings in our readers? What other tricks are there?",
@@ -2841,7 +2859,7 @@
         "track": "Literature",
         "start_time": "12:00",
         "presenters": [
-            "John David",
+            "Jon David",
             "Ferrett Steinmetz",
             "Michael K. Elliot",
             "Sal Palland"
@@ -2874,7 +2892,7 @@
         "presenters": [
             "Emmy Jackson",
             "Jon David",
-            "Ericka Kahler",
+            "Ericka S. Kahler",
             "Janice Leach",
             "Angie Rush"
         ],
@@ -2929,7 +2947,7 @@
             "Alex Kourvo",
             "Jen Haeger",
             "Jim Leach",
-            "Catheryn Valente"
+            "Cathrynne Valente"
         ],
         "location": "Charlevoix C",
         "minutes": 50,
@@ -4317,7 +4335,7 @@
         "presenters": [
             "Dr. Justin Coven"
         ],
-        "location": "Charlevoix A",
+        "location": "Portage",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "19:50"

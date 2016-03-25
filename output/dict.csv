@@ -6407,7 +6407,7 @@ Location,Baldwin
 duration,50 minutes
 description,"As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future."
 index,139
-speakers,Ericka Kahler
+speakers,Ericka S. Kahler
 bookdescrip,"As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future."
 Track,Life
 startday,4/29/2016
@@ -6419,14 +6419,14 @@ End Time,20:50
 tracknosp,['Life']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Baldwin', 'Life', 'Financial Planning', 'Ericka Kahler', ""As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future."", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Baldwin', 'Life', 'Financial Planning', 'Ericka S. Kahler', ""As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Ericka Kahler
+calspeakers,Ericka S. Kahler
 avneeds,none
-speakerlist,['Ericka Kahler']
+speakerlist,['Ericka S. Kahler']
 hours,0
 totalminutes,50
-speakernosplist,['ErickaKahler']
+speakernosplist,['ErickaS.Kahler']
 caldescrip,"As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future."
 endtime,20:50
 AV Needs,
@@ -6435,9 +6435,9 @@ Private,PUBLIC
 bookname,Financial Planning
 venue,Baldwin
 Book Description,"As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites. We can all use advice on money management and planning for our future."
-Presenters,Ericka Kahler
+Presenters,Ericka S. Kahler
 csvsafedescrip,As much as we might want to avoid it- we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future.
-speakernosp,ErickaKahler
+speakernosp,ErickaS.Kahler
 starttime,20:00
 roomnosp,Baldwin
 Start Date,4/29/2016
@@ -8009,10 +8009,10 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,
-event_end,14:50
+event_end,11:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,2 PM
+endtimeampm,11 AM
 Location,Montcalm
 duration,50 minutes
 description,Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.
@@ -8020,17 +8020,17 @@ index,174
 speakers,Cathrynne Valente
 bookdescrip,Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.
 Track,Literature
-startday,4/30/2016
+startday,5/1/2016
 Title,Cathrynne Valente reading
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
 tracknosp,['Literature']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Montcalm', 'Literature', 'Cathrynne Valente reading', 'Cathrynne Valente', 'Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.', '00hr:50min', '', '', 'PUBLIC']"
-End Date,4/30/2016
+endday,5/1/2016
+dayheader,"SUNDAY, May 1"
+input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Montcalm', 'Literature', 'Cathrynne Valente reading', 'Cathrynne Valente', 'Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.', '00hr:50min', '', '', 'PUBLIC']"
+End Date,5/1/2016
 calspeakers,Cathrynne Valente
 avneeds,none
 speakerlist,['Cathrynne Valente']
@@ -8038,7 +8038,7 @@ hours,0
 totalminutes,50
 speakernosplist,['CathrynneValente']
 caldescrip,Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.
-endtime,14:50
+endtime,11:50
 AV Needs,
 name,Cathrynne Valente reading
 Private,PUBLIC
@@ -8048,9 +8048,9 @@ Book Description,Join Guest of Honor Cathrynne Valente for a reading and a chanc
 Presenters,Cathrynne Valente
 csvsafedescrip,Join Guest of Honor Cathrynne Valente for a reading and a chance to have your books signed.
 speakernosp,CathrynneValente
-starttime,14:00
+starttime,11:00
 roomnosp,Montcalm
-Start Date,4/30/2016
+Start Date,5/1/2016
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -8286,6 +8286,52 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,
+event_end,10:50
+event_type_list,['Literature']
+private,DEFAULT
+endtimeampm,10 AM
+Location,Algonquin B/C
+duration,50 minutes
+description,"What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end."
+index,180
+speakers,"Paul Kemner, Ericka Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush"
+bookdescrip,"What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end."
+Track,Literature
+startday,5/1/2016
+Title,"Tools for Outlines: M.I.C.E., The Three Act Structure"
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
+tracknosp,['Literature']
+endday,5/1/2016
+dayheader,"SUNDAY, May 1"
+input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Algonquin B/C', 'Literature', 'Tools for Outlines: M.I.C.E., The Three Act Structure', 'Paul Kemner, Ericka Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush', ""What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. "", '', '', '', '']"
+End Date,5/1/2016
+calspeakers,"Paul Kemner, Ericka Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush"
+avneeds,none
+speakerlist,"['Paul Kemner', 'Ericka Kahler', 'Eric S. Raymond', 'Michael K. Elliot', 'Angie Rush']"
+hours,0
+totalminutes,50
+speakernosplist,"['PaulKemner', 'ErickaKahler', 'EricS.Raymond', 'MichaelK.Elliot', 'AngieRush']"
+caldescrip,"What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. "
+endtime,10:50
+AV Needs,
+name,"Tools for Outlines: M.I.C.E., The Three Act Structure"
+Private,
+bookname,"Tools for Outlines: M.I.C.E., The Three Act Structure"
+venue,Algonquin B/C
+Book Description,"What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. "
+Presenters,"Paul Kemner, Ericka Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush"
+csvsafedescrip,What tools are out there to help shape your plot? Figure out what sort of story you want to tell- and see which elements are most important- how you might want to structure the story- and how to tell if you've reached the end. 
+speakernosp,"PaulKemner,ErickaKahler,EricS.Raymond,MichaelK.Elliot,AngieRush"
+starttime,10:00
+roomnosp,AlgonquinBC
+Start Date,5/1/2016
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,
 event_end,12:50
 event_type_list,['Literature']
 private,PUBLIC
@@ -8293,7 +8339,7 @@ endtimeampm,12 PM
 Location,EMC I
 duration,50 minutes
 description,Creating authentic characters who seem to experience a full range of believable emotions is only half the equation in character-building.  How can we use character emotions to evoke real feelings in our readers? What other tricks are there?
-index,180
+index,181
 speakers,"Merrie Haskell, Cindy Spencer Pape, Ken MacGregor"
 bookdescrip,Creating authentic characters who seem to experience a full range of believable emotions is only half the equation in character-building.  How can we use character emotions to evoke real feelings in our readers? What other tricks are there?
 Track,Literature
@@ -8339,7 +8385,7 @@ endtimeampm,4 PM
 Location,Algonquin D
 duration,50 minutes
 description,What are the best methods for finding the best agent for you?
-index,181
+index,182
 speakers,"Merrie Haskell, Tobias Buckell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs"
 bookdescrip,What are the best methods for finding the best agent for you?
 Track,Literature
@@ -8385,7 +8431,7 @@ endtimeampm,10 AM
 Location,Windover
 duration,50 minutes
 description,"First Things First: Story Titles: Which comes first, a story or its title? What makes a good title? Who gets to decide what that title would be? Should a title hint at the story to come, or only make sense after the story is read? "
-index,182
+index,183
 speakers,"Jon David, Alex Kourvo, Christine Daigle, Michael Cieslak"
 bookdescrip,"First Things First: Story Titles: Which comes first, a story or its title? What makes a good title? Who gets to decide what that title would be? Should a title hint at the story to come, or only make sense after the story is read? "
 Track,Literature
@@ -8431,7 +8477,7 @@ endtimeampm,9 PM
 Location,EMC I
 duration,50 minutes
 description,The historical details can bring a story to life or bog it down. What's the right balance?
-index,183
+index,184
 speakers,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese"
 bookdescrip,The historical details can bring a story to life or bog it down. What's the right balance?
 Track,Literature
@@ -8477,7 +8523,7 @@ endtimeampm,8 PM
 Location,EMC IV
 duration,50 minutes
 description,"We are all made of stories and sharing them can be powerful and life changing. Come and share our version of an open mic night.  Bring your self-written poetry, personal manifesto, or short-short story."
-index,184
+index,185
 speakers,"Jim Leach, Matt Betts, Sean Davis, Jessica Roland"
 bookdescrip,"We are all made of stories and sharing them can be powerful and life changing. Come and share our version of an open mic night.  Bring your self-written poetry, personal manifesto, or short-short story."
 Track,Literature
@@ -8523,7 +8569,7 @@ endtimeampm,9 PM
 Location,EMC IV
 duration,50 minutes
 description,"Audience Participation Panel: Speculative Poetry Starter Kit: who to read, where to look and exactly what the heck IS speculative poetry."
-index,185
+index,186
 speakers,"Jim Leach, Sean Davis"
 bookdescrip,"Audience Participation Panel: Speculative Poetry Starter Kit: who to read, where to look and exactly what the heck IS speculative poetry."
 Track,Literature
@@ -8569,7 +8615,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"You've written a bit, you've published a bit, now what?"
-index,186
+index,187
 speakers,"Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach"
 bookdescrip,"You've written a bit, you've published a bit, now what?"
 Track,Literature
@@ -8615,7 +8661,7 @@ endtimeampm,12 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Before you expose your precious words to others, you want them to look their best. Clif will discuss a few of the off-the-shelf tools for grammar checking your work with emphasis on checkIt (potential name change), a tool written by a writer for writers to make their prose stronger."
-index,187
+index,188
 speakers,"Clif Flynt, Sean Davis"
 bookdescrip,"Before you expose your precious words to others, you want them to look their best. Clif will discuss a few of the off-the-shelf tools for grammar checking your work with emphasis on checkIt (potential name change), a tool written by a writer for writers to make their prose stronger."
 Track,Literature
@@ -8661,7 +8707,7 @@ endtimeampm,10 AM
 Location,EMC I
 duration,50 minutes
 description,"This panel discusses today's self-publishing options and business models. Our panelists include authors who are both self- and traditionally published, in fiction and nonfiction, including people who are making an income entirely by self-publishing. We'll discuss why we made the choice to self-publish, the pitfalls and lessons learned, and which business choices we've made on our respective self-publishing efforts."
-index,188
+index,189
 speakers,"Michael W. Lucas, Jen Haeger, Christopher Purrett, Alex Kourvo, Robert Kroese"
 bookdescrip,"This panel discusses today's self-publishing options and business models. Our panelists include authors who are both self- and traditionally published, in fiction and nonfiction, including people who are making an income entirely by self-publishing. We'll discuss why we made the choice to self-publish, the pitfalls and lessons learned, and which business choices we've made on our respective self-publishing efforts."
 Track,Literature
@@ -8707,7 +8753,7 @@ endtimeampm,9 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!"
-index,189
+index,190
 speakers,"Andrea Johnson, Ferrett Steinmetz, Jackie Morgan, Jen Haeger, Alex Kourvo"
 bookdescrip,"Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!"
 Track,Literature
@@ -8753,7 +8799,7 @@ endtimeampm,6 PM
 Location,Hamlin
 duration,50 minutes
 description,What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?
-index,190
+index,191
 speakers,"David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo"
 bookdescrip,What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?
 Track,Literature
@@ -8799,8 +8845,8 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?"
-index,191
-speakers,"John David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
+index,192
+speakers,"Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
 bookdescrip,"Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?"
 Track,Literature
 startday,5/1/2016
@@ -8812,14 +8858,14 @@ End Time,12:50
 tracknosp,['Literature']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix C', 'Literature', 'Star Wars: Bane or Boon?', 'John David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland', 'Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?', '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix C', 'Literature', 'Star Wars: Bane or Boon?', 'Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland', 'Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?', '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"John David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
+calspeakers,"Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
 avneeds,none
-speakerlist,"['John David', 'Ferrett Steinmetz', 'Michael K. Elliot', 'Sal Palland']"
+speakerlist,"['Jon David', 'Ferrett Steinmetz', 'Michael K. Elliot', 'Sal Palland']"
 hours,0
 totalminutes,50
-speakernosplist,"['JohnDavid', 'FerrettSteinmetz', 'MichaelK.Elliot', 'SalPalland']"
+speakernosplist,"['JonDavid', 'FerrettSteinmetz', 'MichaelK.Elliot', 'SalPalland']"
 caldescrip,"Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?"
 endtime,12:50
 AV Needs,
@@ -8828,9 +8874,9 @@ Private,PUBLIC
 bookname,Star Wars: Bane or Boon?
 venue,Charlevoix C
 Book Description,"Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?"
-Presenters,"John David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
+Presenters,"Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland"
 csvsafedescrip,Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey- Finn- Po- and Kylo Ren hold up to classic characters such as Luke- Leia- Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?
-speakernosp,"JohnDavid,FerrettSteinmetz,MichaelK.Elliot,SalPalland"
+speakernosp,"JonDavid,FerrettSteinmetz,MichaelK.Elliot,SalPalland"
 starttime,12:00
 roomnosp,CharlevoixC
 Start Date,5/1/2016
@@ -8845,7 +8891,7 @@ endtimeampm,9 PM
 Location,EMC II
 duration,50 minutes
 description,"Dynamic story exercise.Start with a simple plot and develop it around the table. Each person is given a chance to tell the next part in turn. Any change can be done by the story teller. Time travel, resurrection, talking cats are all fair play. Each turn is no more than two minutes. We join the story where our heroes are about to land on Saturn F-Ring station in search of whoever stole the E-nabling 3D printed thumb-drive. The smart drive will enable anyone who wears it to break the security codes used by banks and stock markets throughout the solar system. This session will be recorded and posted on YouTube."
-index,192
+index,193
 speakers,
 bookdescrip,"Dynamic story exercise.Start with a simple plot and develop it around the table. Each person is given a chance to tell the next part in turn. Any change can be done by the story teller. Time travel, resurrection, talking cats are all fair play. Each turn is no more than two minutes. We join the story where our heroes are about to land on Saturn F-Ring station in search of whoever stole the E-nabling 3D printed thumb-drive. The smart drive will enable anyone who wears it to break the security codes used by banks and stock markets throughout the solar system. This session will be recorded and posted on YouTube."
 Track,Literature
@@ -8891,8 +8937,8 @@ endtimeampm,2 PM
 Location,Baldwin
 duration,50 minutes
 description,"Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next?"
-index,193
-speakers,"Emmy Jackson, Jon David, Ericka Kahler, Janice Leach, Angie Rush"
+index,194
+speakers,"Emmy Jackson, Jon David, Ericka S. Kahler, Janice Leach, Angie Rush"
 bookdescrip,"Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next?"
 Track,Literature
 startday,5/1/2016
@@ -8904,14 +8950,14 @@ End Time,14:50
 tracknosp,['Literature']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '14:50', 'Baldwin', 'Literature', 'Teens of the Wasteland', 'Emmy Jackson, Jon David, Ericka Kahler, Janice Leach, Angie Rush', 'Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what\xe2\x80\x99s next?', '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '5/1/2016', '14:50', 'Baldwin', 'Literature', 'Teens of the Wasteland', 'Emmy Jackson, Jon David, Ericka S. Kahler, Janice Leach, Angie Rush', 'Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what\xe2\x80\x99s next?', '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Emmy Jackson, Jon David, Ericka Kahler, Janice Leach, Angie Rush"
+calspeakers,"Emmy Jackson, Jon David, Ericka S. Kahler, Janice Leach, Angie Rush"
 avneeds,none
-speakerlist,"['Emmy Jackson', 'Jon David', 'Ericka Kahler', 'Janice Leach', 'Angie Rush']"
+speakerlist,"['Emmy Jackson', 'Jon David', 'Ericka S. Kahler', 'Janice Leach', 'Angie Rush']"
 hours,0
 totalminutes,50
-speakernosplist,"['EmmyJackson', 'JonDavid', 'ErickaKahler', 'JaniceLeach', 'AngieRush']"
+speakernosplist,"['EmmyJackson', 'JonDavid', 'ErickaS.Kahler', 'JaniceLeach', 'AngieRush']"
 caldescrip,"Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next?"
 endtime,14:50
 AV Needs,
@@ -8920,9 +8966,9 @@ Private,PUBLIC
 bookname,Teens of the Wasteland
 venue,Baldwin
 Book Description,"Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next?"
-Presenters,"Emmy Jackson, Jon David, Ericka Kahler, Janice Leach, Angie Rush"
+Presenters,"Emmy Jackson, Jon David, Ericka S. Kahler, Janice Leach, Angie Rush"
 csvsafedescrip,Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill- and has the wave of their popularity already peaked? If so- what’s next?
-speakernosp,"EmmyJackson,JonDavid,ErickaKahler,JaniceLeach,AngieRush"
+speakernosp,"EmmyJackson,JonDavid,ErickaS.Kahler,JaniceLeach,AngieRush"
 starttime,14:00
 roomnosp,Baldwin
 Start Date,5/1/2016
@@ -8937,7 +8983,7 @@ endtimeampm,11 AM
 Location,Hamlin
 duration,50 minutes
 description,What's something amazing that you read recently that you want to tell the world about?
-index,194
+index,195
 speakers,"Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle"
 bookdescrip,What's something amazing that you read recently that you want to tell the world about?
 Track,Literature
@@ -8983,7 +9029,7 @@ endtimeampm,3 PM
 Location,Hamlin
 duration,50 minutes
 description,"Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately."
-index,195
+index,196
 speakers,"Jay Maynard, Eric S. Raymond, Jon Davis, Christine Daigle, Stewart Sternberg"
 bookdescrip,"Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately."
 Track,Literature
@@ -9029,8 +9075,8 @@ endtimeampm,4 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book?"
-index,196
-speakers,"Alex Kourvo, Jen Haeger, Jim Leach, Catheryn Valente"
+index,197
+speakers,"Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente"
 bookdescrip,"Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book?"
 Track,Literature
 startday,4/30/2016
@@ -9042,14 +9088,14 @@ End Time,16:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix C', 'Literature', 'Writing Fast and Slow', 'Alex Kourvo, Jen Haeger, Jim Leach, Catheryn Valente', 'Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today\xe2\x80\x99s publishing climate? How quickly do readers want\xe2\x80\x94or expect\xe2\x80\x94the next book?', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix C', 'Literature', 'Writing Fast and Slow', 'Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente', 'Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today\xe2\x80\x99s publishing climate? How quickly do readers want\xe2\x80\x94or expect\xe2\x80\x94the next book?', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Alex Kourvo, Jen Haeger, Jim Leach, Catheryn Valente"
+calspeakers,"Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente"
 avneeds,none
-speakerlist,"['Alex Kourvo', 'Jen Haeger', 'Jim Leach', 'Catheryn Valente']"
+speakerlist,"['Alex Kourvo', 'Jen Haeger', 'Jim Leach', 'Cathrynne Valente']"
 hours,0
 totalminutes,50
-speakernosplist,"['AlexKourvo', 'JenHaeger', 'JimLeach', 'CatherynValente']"
+speakernosplist,"['AlexKourvo', 'JenHaeger', 'JimLeach', 'CathrynneValente']"
 caldescrip,"Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book?"
 endtime,16:50
 AV Needs,
@@ -9058,9 +9104,9 @@ Private,PUBLIC
 bookname,Writing Fast and Slow
 venue,Charlevoix C
 Book Description,"Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book?"
-Presenters,"Alex Kourvo, Jen Haeger, Jim Leach, Catheryn Valente"
+Presenters,"Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente"
 csvsafedescrip,Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce- and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book?
-speakernosp,"AlexKourvo,JenHaeger,JimLeach,CatherynValente"
+speakernosp,"AlexKourvo,JenHaeger,JimLeach,CathrynneValente"
 starttime,16:00
 roomnosp,CharlevoixC
 Start Date,4/30/2016
@@ -9075,7 +9121,7 @@ endtimeampm,7 PM
 Location,Algonquin D
 duration,50 minutes
 description,How to Survive and Thrive in a Writing Group
-index,197
+index,198
 speakers,"Christian Klaver, David Erik Nelson, Cindy Spencer Pape"
 bookdescrip,How to Survive and Thrive in a Writing Group
 Track,Literature
@@ -9121,7 +9167,7 @@ endtimeampm,10 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
-index,198
+index,199
 speakers,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
 bookdescrip,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 Track,Literature
@@ -9167,7 +9213,7 @@ endtimeampm,3 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
-index,199
+index,200
 speakers,"Tobias Buckell, Ferrett Steinmetz, Ramses Alcaide"
 bookdescrip,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
 Track,Literature
@@ -9213,7 +9259,7 @@ endtimeampm,8 PM
 Location,Baldwin
 duration,1 hour and 50 minutes
 description,"Join us for a hands on workshop where writers bring their pens, pencils, notepads, laptops, etc. and participate in numerous writing exercises. Exercises would likely consist of writing prompts playing with different themes, styles, voices, perspectives. A prompt is given, a time limit is set, everyone writes as much as they can or want, and then people are encouraged to read what they've written aloud. This is a chance to  to collaborate with other folks."
-index,200
+index,201
 speakers,"Jen Haeger, Christine Daigle, Stewart Sternberg"
 bookdescrip,"Join us for a hands on workshop where writers bring their pens, pencils, notepads, laptops, etc. and participate in numerous writing exercises. Exercises would likely consist of writing prompts playing with different themes, styles, voices, perspectives. A prompt is given, a time limit is set, everyone writes as much as they can or want, and then people are encouraged to read what they've written aloud. This is a chance to  to collaborate with other folks."
 Track,Literature
@@ -9259,7 +9305,7 @@ endtimeampm,1 PM
 Location,Nicolet
 duration,50 minutes
 description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered"
-index,201
+index,202
 speakers,"Rathbone the Pirate, Mitch ""Duckman"" Peters"
 bookdescrip,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered"
 Track,Mayhem
@@ -9305,7 +9351,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!
-index,202
+index,203
 speakers,
 bookdescrip,The Chaos machine returns to shape your wildest engineering imagination into a functioning beacon of collective brilliance. Find some old friends or new acquaintances to help build the machine from the ground up!
 Track,Mayhem
@@ -9351,7 +9397,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
-index,203
+index,204
 speakers,Valerie Hibbard
 bookdescrip,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 Track,Mayhem
@@ -9397,7 +9443,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."
-index,204
+index,205
 speakers,
 bookdescrip,"Stop by and play some (enormous) Jenga with your friends, or meet new people. No writing dirty things on the blocks! You'll just have to use your imagination."
 Track,Mayhem
@@ -9443,7 +9489,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
-index,205
+index,206
 speakers,"Justin Coluzzi, Kevin McLeod, Alex Drummer"
 bookdescrip,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 Track,Mayhem
@@ -9489,7 +9535,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!"
-index,206
+index,207
 speakers,
 bookdescrip,"Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!"
 Track,Mayhem
@@ -9535,7 +9581,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,Temporary description
-index,207
+index,208
 speakers,Rathbone the Pirate
 bookdescrip,Temporary description
 Track,Mayhem
@@ -9581,7 +9627,7 @@ endtimeampm,3 PM
 Location,Mystery Location
 duration,00 minutes
 description,Temporary description
-index,208
+index,209
 speakers,Rathbone the Pirate
 bookdescrip,Temporary description
 Track,Mayhem
@@ -9627,7 +9673,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!"
-index,209
+index,210
 speakers,
 bookdescrip,"Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!"
 Track,Mayhem
@@ -9673,7 +9719,7 @@ endtimeampm,3 PM
 Location,Lobby
 duration,00 minutes
 description,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
-index,210
+index,211
 speakers,
 bookdescrip,"Wondering where people are coming from to go to Penguicon?  Stop by and tag the city you came from on the World, US or Michigan map!"
 Track,Mayhem
@@ -9719,7 +9765,7 @@ endtimeampm,3 PM
 Location,Hamlin
 duration,50 minutes
 description,Join fans of Doctor Who for an open discussion about all things timey-whimey. Birds of a Feather events are unmoderated.
-index,211
+index,212
 speakers,
 bookdescrip,Join fans of Doctor Who for an open discussion about all things timey-whimey. Birds of a Feather events are unmoderated.
 Track,Media
@@ -9765,7 +9811,7 @@ endtimeampm,4 PM
 Location,Hamlin
 duration,50 minutes
 description,Join fans for an open discussion of the BBC powerhouse Sherlock. Birds of a Feather events are unmoderated.
-index,212
+index,213
 speakers,
 bookdescrip,Join fans for an open discussion of the BBC powerhouse Sherlock. Birds of a Feather events are unmoderated.
 Track,Media
@@ -9811,7 +9857,7 @@ endtimeampm,5 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Join fans for an open discussion about the franchise, Epidode 7, and the changes the Star Wars universe has seen over the years. Birds of a Feather events are unmoderated."
-index,213
+index,214
 speakers,
 bookdescrip,"Join fans for an open discussion about the franchise, Epidode 7, and the changes the Star Wars universe has seen over the years. Birds of a Feather events are unmoderated."
 Track,Media
@@ -9857,7 +9903,7 @@ endtimeampm,1 PM
 Location,EMC II
 duration,50 minutes
 description,"Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated."
-index,214
+index,215
 speakers,
 bookdescrip,"Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated."
 Track,Media
@@ -9903,7 +9949,7 @@ endtimeampm,6 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"The push for more diversity has become a regular topic in the world of genre media and games, from calling out instances of white-washing and queer-baiting, to protesting the inevitable and often inexplicable deaths of queer characters and characters of color. It's an exhausting road, but is it actually leading to more diverse and inclusive media?"
-index,215
+index,216
 speakers,"Tanya DePass, Ann Lemay, Lingjia Tang, Mark Oshiro"
 bookdescrip,"The push for more diversity has become a regular topic in the world of genre media and games, from calling out instances of white-washing and queer-baiting, to protesting the inevitable and often inexplicable deaths of queer characters and characters of color. It's an exhausting road, but is it actually leading to more diverse and inclusive media?"
 Track,Media
@@ -9949,7 +9995,7 @@ endtimeampm,1 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Finding the right social media platform to build your business is tricky. Should you use Facebook, Youtube, Twitter, Instagram, the list goes on and on. This panel will explore what options that can work for you."
-index,216
+index,217
 speakers,Kass Lawrence
 bookdescrip,"Finding the right social media platform to build your business is tricky. Should you use Facebook, Youtube, Twitter, Instagram, the list goes on and on. This panel will explore what options that can work for you."
 Track,Media
@@ -9995,7 +10041,7 @@ endtimeampm,8 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Every few years it seems there's a rash of discussion, usually shocked, that women create and consume all the things long considered the domain of men: science, technology, science fiction, comics, games and more.  But women have always been there, from the earliest Worldcons to the Save Star Trek campaign, from fan ficton and fanvids, from Ada Lovelace to Shirley Ann Jackson, from Frankenstein to our awesome slate of Guests of Honor.  Will we be stuck having this conversation forever?"
-index,217
+index,218
 speakers,"Tanya DePass, Ann Lemay, Jen Talley, Lingjia Tang"
 bookdescrip,"Every few years it seems there's a rash of discussion, usually shocked, that women create and consume all the things long considered the domain of men: science, technology, science fiction, comics, games and more.  But women have always been there, from the earliest Worldcons to the Save Star Trek campaign, from fan ficton and fanvids, from Ada Lovelace to Shirley Ann Jackson, from Frankenstein to our awesome slate of Guests of Honor.  Will we be stuck having this conversation forever?"
 Track,Media
@@ -10041,7 +10087,7 @@ endtimeampm,7 PM
 Location,Portage
 duration,50 minutes
 description,"Discussion between fans of Hamilton the musical, those who've been to see it, those who want to see it, and those who just love the cast album.  Geek about history and sing along to some of the songs!"
-index,218
+index,219
 speakers,Jen Talley
 bookdescrip,"Discussion between fans of Hamilton the musical, those who've been to see it, those who want to see it, and those who just love the cast album.  Geek about history and sing along to some of the songs!"
 Track,Media
@@ -10087,7 +10133,7 @@ endtimeampm,11 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"All the cool kids are doing it...and more importantly, even more of the not so cool kids are doing it - podcasting. So what do you need to know to get started? Go live or record and syndicate only? What kind of mics? What should you know before getting started? In your basement or a studio somewhere? Learn from local podcasters with lots of experience and known throughout the podcasting community."
-index,219
+index,220
 speakers,"Dave Phillips, Bob Waltenspiel, Nuri Gocay, Karen Hubbard, Shannon Marshall, Maggie Maiville, Jonathan Hickey, Scott Markwart"
 bookdescrip,"All the cool kids are doing it...and more importantly, even more of the not so cool kids are doing it - podcasting. So what do you need to know to get started? Go live or record and syndicate only? What kind of mics? What should you know before getting started? In your basement or a studio somewhere? Learn from local podcasters with lots of experience and known throughout the podcasting community."
 Track,Media
@@ -10133,7 +10179,7 @@ endtimeampm,10 AM
 Location,Portage
 duration,50 minutes
 description,Wanting to start a YouTube channel or adding video to your website/social pages?  This panel will provide tips and tricks to help creating videos for new or already established channels.
-index,220
+index,221
 speakers,"Scott (Toaden) Maiale, Christina Baade, Crazy Mark"
 bookdescrip,Wanting to start a YouTube channel or adding video to your website/social pages?  This panel will provide tips and tricks to help creating videos for new or already established channels.
 Track,Media
@@ -10179,7 +10225,7 @@ endtimeampm,3 PM
 Location,Charlevoix C
 duration,50 minutes
 description,Are Independent websites taking over media magazine audiences? Where should new journalists start and how is Traditional Journalism changing?  Join Junkhead Josh Jankiewicz (Hardcore Gaming 101) Ay-hole Andy (blahblahmusic .com) and veteran journalists Erica McClain and Dave Herndon as they share their experiences and tips about Journalism.
-index,221
+index,222
 speakers,"""Ay-hole"" Andrew Zelasko, ""Junkhead"" Joshua Jankiewicz, David Herndon, Erica McClain"
 bookdescrip,Are Independent websites taking over media magazine audiences? Where should new journalists start and how is Traditional Journalism changing?  Join Junkhead Josh Jankiewicz (Hardcore Gaming 101) Ay-hole Andy (blahblahmusic .com) and veteran journalists Erica McClain and Dave Herndon as they share their experiences and tips about Journalism.
 Track,Media
@@ -10225,7 +10271,7 @@ endtimeampm,10 PM
 Location,Hamlin
 duration,50 minutes
 description,"Shannon and Maggie are BFF’s and they (used to) drink, a lot. Join us for our 3rd time at Penguicon. Hilarity will ensue, we will drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @BrainOfMaggie"
-index,222
+index,223
 speakers,"Shannon Marshall, Maggie Maiville"
 bookdescrip,"Shannon and Maggie are BFF’s and they (used to) drink, a lot. Join us for our 3rd time at Penguicon. Hilarity will ensue, we will drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @BrainOfMaggie"
 Track,Media
@@ -10271,7 +10317,7 @@ endtimeampm,10 PM
 Location,Portage
 duration,50 minutes
 description,"Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement.  If you're in need of a good laugh, this is the place to go for it!"
-index,223
+index,224
 speakers,Derwood Bowen
 bookdescrip,"Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement.  If you're in need of a good laugh, this is the place to go for it!"
 Track,Media
@@ -10317,7 +10363,7 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,1 hour and 50 minutes
 description,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
-index,224
+index,225
 speakers,"James Fernandez, Mary Lynn Gibbs, Dave Kilgore"
 bookdescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 Track,Media
@@ -10363,7 +10409,7 @@ endtimeampm,2 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Entertainers from different aspects of social media (YouTube, Podcasting, Music, Public Television, and others) discuss aspects of working on-line and sharing their experiences."
-index,225
+index,226
 speakers,"Kass Lawrence, Crazy Mark, Dave Phillips, Bob Waltenspiel, Nuri Gocay, Karen Hubbard, Scott (Toaden) Maiale, BluRaven C. Houvener, Trooper Isomorph, Trooper Mindtrick"
 bookdescrip,"Entertainers from different aspects of social media (YouTube, Podcasting, Music, Public Television, and others) discuss aspects of working on-line and sharing their experiences."
 Track,Media
@@ -10409,7 +10455,7 @@ endtimeampm,4 PM
 Location,Portage
 duration,1 hour and 50 minutes
 description,"Screening of a series of locally-produced found footage short films called ""Haunt Hunters"" that deal with an investigative team on the hunt for ghosts, zombies and the supernatural. A total of three films about 10 minutes each. Q and A with creators following screening."
-index,226
+index,227
 speakers,"Mike Madigan, Matthew Peach"
 bookdescrip,"Screening of a series of locally-produced found footage short films called ""Haunt Hunters"" that deal with an investigative team on the hunt for ghosts, zombies and the supernatural. A total of three films about 10 minutes each. Q and A with creators following screening."
 Track,Media
@@ -10455,7 +10501,7 @@ endtimeampm,11 AM
 Location,Charlevoix C
 duration,50 minutes
 description,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
-index,227
+index,228
 speakers,"Mike Madigan, Matthew Peach"
 bookdescrip,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
 Track,Media
@@ -10501,7 +10547,7 @@ endtimeampm,11 AM
 Location,Montcalm
 duration,50 minutes
 description,"The concept of the Mary Sue is back with the criticisms of Star Wars Episode VII's Rey as an unrealistic hero. How does this critique of female characters impact our perceptions of competent women?  Why do men get unrealistic idealized male characters as heroes as the norm in SFF media, but female characters with the same traits are ridiculed?"
-index,228
+index,229
 speakers,"Ann Lemay, Ann Leckie, Merrie Haskell"
 bookdescrip,"The concept of the Mary Sue is back with the criticisms of Star Wars Episode VII's Rey as an unrealistic hero. How does this critique of female characters impact our perceptions of competent women?  Why do men get unrealistic idealized male characters as heroes as the norm in SFF media, but female characters with the same traits are ridiculed?"
 Track,Media
@@ -10547,7 +10593,7 @@ endtimeampm,7 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"So your short or feature film is finally complete and ready to screen to audiences- now what? Learn the secrets of submitting correctly to film festivals, what film festivals look for in your film, and which film festivals to target/which ones to avoid depending on your project."
-index,229
+index,230
 speakers,"Mike Madigan, Matthew Peach"
 bookdescrip,"So your short or feature film is finally complete and ready to screen to audiences- now what? Learn the secrets of submitting correctly to film festivals, what film festivals look for in your film, and which film festivals to target/which ones to avoid depending on your project."
 Track,Media
@@ -10593,7 +10639,7 @@ endtimeampm,2 PM
 Location,Portage
 duration,1 hour and 50 minutes
 description,"Come watch some short films by local filmakers, on topics ranging from music videos and comedy to suspense drama and zombie sci-fi!  Dave Kilgore: Percipient (9:35); I got no Talent (2:30); When the Lord Comes to Drown Us All Again (2:35). Gabrielle Gamache-Nettles: Crosscurrent (7:22), Squisher's Atonement (14:00).  Scott (Toaden) Maiale: Win the Cure (3:00), Single White Vlogger (20:00).  Please note some of these contain adult language and situations."
-index,230
+index,231
 speakers,"Scott (Toaden) Maiale, Gabrielle Gamache-Nettles, Dave Kilgore"
 bookdescrip,"Come watch some short films by local filmakers, on topics ranging from music videos and comedy to suspense drama and zombie sci-fi!  Dave Kilgore: Percipient (9:35); I got no Talent (2:30); When the Lord Comes to Drown Us All Again (2:35). Gabrielle Gamache-Nettles: Crosscurrent (7:22), Squisher's Atonement (14:00).  Scott (Toaden) Maiale: Win the Cure (3:00), Single White Vlogger (20:00).  Please note some of these contain adult language and situations."
 Track,Media
@@ -10639,7 +10685,7 @@ endtimeampm,9 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Wesley and the Crushers is a modern, one-of-a-kind musical exploration that is both ""geeky"" and passionate -- passionate in their admiration and love for all things ""geeky"" -- and completely geeked-out in their approach to their number-one passion, which is music."
-index,231
+index,232
 speakers,
 bookdescrip,"Wesley and the Crushers is a modern, one-of-a-kind musical exploration that is both ""geeky"" and passionate -- passionate in their admiration and love for all things ""geeky"" -- and completely geeked-out in their approach to their number-one passion, which is music."
 Track,Media
@@ -10685,7 +10731,7 @@ endtimeampm,7 PM
 Location,Montcalm
 duration,50 minutes
 description,"A panel where Mark Oshiro (Mark Does Stuff) and Tanya DePass (I Need Diverse Games) speak about the performative aspects of their work, including the need to entertain while doing blind reads and reactions to media and for Tanya; while streaming on Twitch/YT Gaming."
-index,232
+index,233
 speakers,"Tanya DePass, Mark Oshiro"
 bookdescrip,"A panel where Mark Oshiro (Mark Does Stuff) and Tanya DePass (I Need Diverse Games) speak about the performative aspects of their work, including the need to entertain while doing blind reads and reactions to media and for Tanya; while streaming on Twitch/YT Gaming."
 Track,"Media, Life"
@@ -10731,7 +10777,7 @@ endtimeampm,7 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,Temporary description
-index,233
+index,234
 speakers,Greg Gage
 bookdescrip,Temporary description
 Track,Penguicon
@@ -10777,7 +10823,7 @@ endtimeampm,3 PM
 Location,321
 duration,50 minutes
 description,Temporary description
-index,234
+index,235
 speakers,Lansing Maker Network
 bookdescrip,Temporary description
 Track,Penguicon
@@ -10823,7 +10869,7 @@ endtimeampm,4 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
-index,235
+index,236
 speakers,"Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang"
 bookdescrip,"As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year."
 Track,Penguicon
@@ -10869,7 +10915,7 @@ endtimeampm,5 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Temporary description
-index,236
+index,237
 speakers,"Crazy Mark, Alex Drummer"
 bookdescrip,Temporary description
 Track,Penguicon
@@ -10915,7 +10961,7 @@ endtimeampm,4 PM
 Location,Charlevoix B
 duration,50 minutes
 description,Temporary description
-index,237
+index,238
 speakers,"Crazy Mark, Alex Drummer"
 bookdescrip,Temporary description
 Track,Penguicon
@@ -10961,7 +11007,7 @@ endtimeampm,3 PM
 Location,Montcalm
 duration,50 minutes
 description,Temporary description
-index,238
+index,239
 speakers,"Mark Oshiro, Tanya DePass, Mari Brighe, Scott Kennedy, Sal Palland"
 bookdescrip,Temporary description
 Track,Penguicon
@@ -11007,7 +11053,7 @@ endtimeampm,12 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,Temporary description
-index,239
+index,240
 speakers,
 bookdescrip,Temporary description
 Track,Penguicon
@@ -11053,7 +11099,7 @@ endtimeampm,12 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,Temporary description
-index,240
+index,241
 speakers,John D. Bell
 bookdescrip,Temporary description
 Track,Penguicon
@@ -11099,7 +11145,7 @@ endtimeampm,6 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Join our con chair, Scott Kennedy, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
-index,241
+index,242
 speakers,"Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang"
 bookdescrip,"Join our con chair, Scott Kennedy, the Con Committee, and our Guests of Honor as we open this bad boy up for the weekend.  You never know what surprises might be in store!"
 Track,Penguicon
@@ -11145,7 +11191,7 @@ endtimeampm,11 AM
 Location,Hamlin
 duration,50 minutes
 description,"Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
-index,242
+index,243
 speakers,
 bookdescrip,"Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
 Track,Penguicon
@@ -11191,7 +11237,7 @@ endtimeampm,2 PM
 Location,EMC V
 duration,1 hour and 50 minutes
 description,"You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!"
-index,243
+index,244
 speakers,"Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance, Gini Judd"
 bookdescrip,"You've done the convention, you've met the staff, and you've even socialized with the ConCom.  But what about those *other* Penguicon people?  Those shadowy figures that create the multi-year rules, have their fingers on the money, and cause a ConChair to mysteriously appear every year in a puff of penguin-scented smoke?  Ever wonder what the Penguicon Board of Directors does in their secret sanctum, and where they are taking Penguicon?  Come to the Board of Directors meeting and see!"
 Track,Penguicon
@@ -11237,7 +11283,7 @@ endtimeampm,5 PM
 Location,Baldwin
 duration,5 hours and 50 minutes
 description,Temporary description
-index,244
+index,245
 speakers,Angie Rush
 bookdescrip,Temporary description
 Track,Penguicon
@@ -11283,7 +11329,7 @@ endtimeampm,5 PM
 Location,Montcalm
 duration,50 minutes
 description,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
-index,245
+index,246
 speakers,Scott Kennedy
 bookdescrip,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
 Track,Penguicon
@@ -11329,7 +11375,7 @@ endtimeampm,9 PM
 Location,Restaurant
 duration,50 minutes
 description,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
-index,246
+index,247
 speakers,
 bookdescrip,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon
@@ -11375,7 +11421,7 @@ endtimeampm,1 PM
 Location,Portage
 duration,50 minutes
 description,Temporary description
-index,247
+index,248
 speakers,Tom Smith
 bookdescrip,Temporary description
 Track,Penguicon
@@ -11421,7 +11467,7 @@ endtimeampm,3 PM
 Location,EMC IV
 duration,50 minutes
 description,"Bob Trembley and Krunal Desai talk all things asteroids, and what we need to know about them."
-index,248
+index,249
 speakers,"Bob Trembley, Krunal Desai"
 bookdescrip,"Bob Trembley and Krunal Desai talk all things asteroids, and what we need to know about them."
 Track,Science
@@ -11467,7 +11513,7 @@ endtimeampm,7 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Explore the act of destruction as a creative influence, drawing sources from economic theory, philosophy, theology, cosmology, ecology and technology.  Is the nature of creativity in reality a destructive force? Progress is not necessarily a linear, geometric progression but rather destructive stimulus often precede creativity and explosive growth."
-index,249
+index,250
 speakers,"Mark Haynes (m), Jennifer Hamilton, Ramses Alcaide"
 bookdescrip,"Explore the act of destruction as a creative influence, drawing sources from economic theory, philosophy, theology, cosmology, ecology and technology.  Is the nature of creativity in reality a destructive force? Progress is not necessarily a linear, geometric progression but rather destructive stimulus often precede creativity and explosive growth."
 Track,Science
@@ -11513,7 +11559,7 @@ endtimeampm,2 PM
 Location,EMC II
 duration,50 minutes
 description,"Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets.  Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP."
-index,250
+index,251
 speakers,Jason Rutherford
 bookdescrip,"Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets.  Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP."
 Track,Science
@@ -11560,7 +11606,7 @@ endtimeampm,7 PM
 Location,EMC II
 duration,50 minutes
 description,"Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets.  Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP."
-index,251
+index,252
 speakers,Jason Rutherford
 bookdescrip,"Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets.  Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP."
 Track,Science
@@ -11607,7 +11653,7 @@ endtimeampm,7 PM
 Location,Windover
 duration,50 minutes
 description,"Kerbal Space Program (KSP) has taken computer gaming and brought it crashing into the realm of a true space simulator. In KSP, you build rockets, launch them, get them into space, do SCIENCE! there, build space stations and moon bases... do SCIENCE! there, and travel to other worlds... and do more SCIENCE!  Kerbal Space Program is like being a kid in a candy store the size of the solar system!"
-index,252
+index,253
 speakers,Bob Trembley
 bookdescrip,"Kerbal Space Program (KSP) has taken computer gaming and brought it crashing into the realm of a true space simulator. In KSP, you build rockets, launch them, get them into space, do SCIENCE! there, build space stations and moon bases... do SCIENCE! there, and travel to other worlds... and do more SCIENCE!  Kerbal Space Program is like being a kid in a candy store the size of the solar system!"
 Track,Science
@@ -11653,7 +11699,7 @@ endtimeampm,7 PM
 Location,Windover
 duration,50 minutes
 description,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
-index,253
+index,254
 speakers,Bob Trembley
 bookdescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Track,Science
@@ -11699,7 +11745,7 @@ endtimeampm,12 PM
 Location,EMC II
 duration,1 hour and 50 minutes
 description,"Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics."
-index,254
+index,255
 speakers,Dr. Justin Coven
 bookdescrip,"Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics."
 Track,Science
@@ -11746,7 +11792,7 @@ endtimeampm,10 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,Join Bob Trembley to observe what the late spring night sky has to offer!
-index,255
+index,256
 speakers,Bob Trembley
 bookdescrip,Join Bob Trembley to observe what the late spring night sky has to offer!
 Track,Science
@@ -11792,7 +11838,7 @@ endtimeampm,10 PM
 Location,Outside
 duration,1 hour and 50 minutes
 description,TBA
-index,256
+index,257
 speakers,Ramses Alcaide
 bookdescrip,TBA
 Track,Science
@@ -11838,7 +11884,7 @@ endtimeampm,8 PM
 Location,EMC I
 duration,50 minutes
 description,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
-index,257
+index,258
 speakers,Jennifer Hamilton
 bookdescrip,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
 Track,Science
@@ -11884,7 +11930,7 @@ endtimeampm,8 PM
 Location,EMC I
 duration,50 minutes
 description,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
-index,258
+index,259
 speakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 bookdescrip,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
 Track,Science
@@ -11930,7 +11976,7 @@ endtimeampm,12 PM
 Location,Outside
 duration,50 minutes
 description,"Join Bob Trembley to observe the closest star, the Sun!"
-index,259
+index,260
 speakers,Bob Trembley
 bookdescrip,"Join Bob Trembley to observe the closest star, the Sun!"
 Track,Science
@@ -11976,7 +12022,7 @@ endtimeampm,12 PM
 Location,Outside
 duration,50 minutes
 description,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
-index,260
+index,261
 speakers,
 bookdescrip,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
 Track,Science
@@ -12022,7 +12068,7 @@ endtimeampm,10 AM
 Location,Charlevoix B
 duration,50 minutes
 description,We will take a look at what LibreOffice Base can do by reviewing and talking about selected screen shots from a free video tutorial series about LibreOffice Base.   By then end of the lecture attendees will know whether or not the free and open source software LibreOffice Base is a viable option for their database needs. Presenter is the creator of the LibreOffice Base Video Tutorial series.
-index,261
+index,262
 speakers,Michael Rometty
 bookdescrip,We will take a look at what LibreOffice Base can do by reviewing and talking about selected screen shots from a free video tutorial series about LibreOffice Base.   By then end of the lecture attendees will know whether or not the free and open source software LibreOffice Base is a viable option for their database needs. Presenter is the creator of the LibreOffice Base Video Tutorial series.
 Track,Tech
@@ -12068,7 +12114,7 @@ endtimeampm,1 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Have you ever looked at your code and realized that a certain design pattern was charging in like a romantic hero, sweeping away the confusion and bringing order to chaos? Or perhaps you've encountered a pattern that you utterly hated...until it's virtues slowly grew on you as you realized that the alternative was a complete disaster? Let's imagine Ada Lovelace reading Jane Austen, and compare some of my favorite design patterns with some of my favorite Jane Austen heroes (neither knowledge of Swift nor Jane Austen are required)."
-index,262
+index,263
 speakers,Anne Cahalan
 bookdescrip,"Have you ever looked at your code and realized that a certain design pattern was charging in like a romantic hero, sweeping away the confusion and bringing order to chaos? Or perhaps you've encountered a pattern that you utterly hated...until it's virtues slowly grew on you as you realized that the alternative was a complete disaster? Let's imagine Ada Lovelace reading Jane Austen, and compare some of my favorite design patterns with some of my favorite Jane Austen heroes (neither knowledge of Swift nor Jane Austen are required)."
 Track,Tech
@@ -12114,7 +12160,7 @@ endtimeampm,2 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"One focus of Penguicon has been using technology to make people's lives better. Last year we partnered with Enable to create hands for kids, and now we have a couple of people experienced with software interface design who will discuss how to make software more accessible. Because that Internet-connected computer is no good to you if you can't understand it and work with it."
-index,263
+index,264
 speakers,"Christina York, Scott Favre"
 bookdescrip,"One focus of Penguicon has been using technology to make people's lives better. Last year we partnered with Enable to create hands for kids, and now we have a couple of people experienced with software interface design who will discuss how to make software more accessible. Because that Internet-connected computer is no good to you if you can't understand it and work with it."
 Track,Tech
@@ -12160,7 +12206,7 @@ endtimeampm,3 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Our 2016 Charity, All Hands Active, will talk about the development of the Penguicon Uber Badge. They will demonstrate PCB Board Development with open source tools and demonstrate arduino programming from the ground up. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
-index,264
+index,265
 speakers,"Nick Ristow, Nathan Yost"
 bookdescrip,"Our 2016 Charity, All Hands Active, will talk about the development of the Penguicon Uber Badge. They will demonstrate PCB Board Development with open source tools and demonstrate arduino programming from the ground up. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
 Track,Tech
@@ -12206,7 +12252,7 @@ endtimeampm,1 PM
 Location,EMC IV
 duration,50 minutes
 description,"This talk will teach the basics of engineering structural parts to be fabricated using extruded plastic from a 3D printer nozzle.  Simple design concepts such as tensile strength, Poisson's ratio, and stress risers will be explained and used to demonstrate how to make optimal material, shape, and functional choices.  Particular attention will be paid to the peculiarities of parts made with layers of extruded plastic and destined for the high-stresses imparted on parts destined for use in 3D-printed firearms."
-index,265
+index,266
 speakers,Zhuang Zi
 bookdescrip,"This talk will teach the basics of engineering structural parts to be fabricated using extruded plastic from a 3D printer nozzle.  Simple design concepts such as tensile strength, Poisson's ratio, and stress risers will be explained and used to demonstrate how to make optimal material, shape, and functional choices.  Particular attention will be paid to the peculiarities of parts made with layers of extruded plastic and destined for the high-stresses imparted on parts destined for use in 3D-printed firearms."
 Track,Tech
@@ -12252,7 +12298,7 @@ endtimeampm,1 PM
 Location,EMC IV
 duration,50 minutes
 description,"A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."
-index,266
+index,267
 speakers,Matt Atkins
 bookdescrip,"A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."
 Track,Tech
@@ -12298,7 +12344,7 @@ endtimeampm,12 PM
 Location,EMC IV
 duration,50 minutes
 description,"Better FS, Butter FS, B-Tree FS?  What is it called, and why should you care about a new filesystem for Linux?  Come learn about the advanced features, design, and use of one of Linux's most exciting new features.  We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache."
-index,267
+index,268
 speakers,Ryan Kather
 bookdescrip,"Better FS, Butter FS, B-Tree FS?  What is it called, and why should you care about a new filesystem for Linux?  Come learn about the advanced features, design, and use of one of Linux's most exciting new features.  We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache."
 Track,Tech
@@ -12344,7 +12390,7 @@ endtimeampm,11 AM
 Location,EMC I 
 duration,50 minutes
 description,Come share your experiences in deploying and testing software at this Birds of a Feather (unmoderated event).
-index,268
+index,269
 speakers,Mark Henke
 bookdescrip,Come share your experiences in deploying and testing software at this Birds of a Feather (unmoderated event).
 Track,Tech
@@ -12390,7 +12436,7 @@ endtimeampm,6 PM
 Location,EMC IV
 duration,50 minutes
 description,"This is a Birds of a Feather event for people who write or want to learn to write infrastructure code, and boring but necessary tools of the trade for programmers and sysadmins.  It is not for game programmers or web designers or anybody who makes anything pretty.  We're all about making things work."
-index,269
+index,270
 speakers,Susan Sons
 bookdescrip,"This is a Birds of a Feather event for people who write or want to learn to write infrastructure code, and boring but necessary tools of the trade for programmers and sysadmins.  It is not for game programmers or web designers or anybody who makes anything pretty.  We're all about making things work."
 Track,Tech
@@ -12436,7 +12482,7 @@ endtimeampm,12 PM
 Location,Windover
 duration,50 minutes
 description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
-index,270
+index,271
 speakers,Michael W. Lucas
 bookdescrip,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 Track,Tech
@@ -12482,7 +12528,7 @@ endtimeampm,12 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!"
-index,271
+index,272
 speakers,"Steven Ostrowski, Tom Lawrence, Britain Woodman"
 bookdescrip,"Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!"
 Track,Tech
@@ -12528,7 +12574,7 @@ endtimeampm,2 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"This presentation on networking on a home budget will cover DDWRT, pFsense and UniFi wireless routers"
-index,272
+index,273
 speakers,Tom Lawrence
 bookdescrip,"This presentation on networking on a home budget will cover DDWRT, pFsense and UniFi wireless routers"
 Track,Tech
@@ -12574,7 +12620,7 @@ endtimeampm,2 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help.
-index,273
+index,274
 speakers,Gibson Nichols
 bookdescrip,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help.
 Track,Tech
@@ -12620,7 +12666,7 @@ endtimeampm,12 PM
 Location,Charlevoix A
 duration,50 minutes
 description,Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.
-index,274
+index,275
 speakers,Mark Henke
 bookdescrip,Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.
 Track,Tech
@@ -12666,7 +12712,7 @@ endtimeampm,7 PM
 Location,Montcalm
 duration,50 minutes
 description,"Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment."
-index,275
+index,276
 speakers,Richard Herrell
 bookdescrip,"Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment."
 Track,Tech
@@ -12713,7 +12759,7 @@ endtimeampm,1 PM
 Location,Montcalm
 duration,50 minutes
 description,"A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas!"
-index,276
+index,277
 speakers,"Daniel Dugan, Maria Dugan"
 bookdescrip,"A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas!"
 Track,Tech
@@ -12759,7 +12805,7 @@ endtimeampm,12 PM
 Location,Hamlin
 duration,50 minutes
 description,"Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your ""Windows"" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss!"
-index,277
+index,278
 speakers,Craig Maloney
 bookdescrip,"Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your ""Windows"" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss!"
 Track,Tech
@@ -12805,7 +12851,7 @@ endtimeampm,4 PM
 Location,Windover
 duration,50 minutes
 description,"Online backup is incredibly useful, but has many privacy and integrity risks. Tarsnap is an online backup service that only handles your data in encrypted form. It's inexpensive and reliable. Plus you don't need to trust the Tarsnap service--they can't access your backups even if they want to. And Tarsnap's built-in deduplication saves space, letting you store terabytes of backups in mere gigabytes of disk. This talk takes you through using Tarsnap, from backing up a system to customizing and rotating backups, to fully restoring them."
-index,278
+index,279
 speakers,Michael W. Lucas
 bookdescrip,"Online backup is incredibly useful, but has many privacy and integrity risks. Tarsnap is an online backup service that only handles your data in encrypted form. It's inexpensive and reliable. Plus you don't need to trust the Tarsnap service--they can't access your backups even if they want to. And Tarsnap's built-in deduplication saves space, letting you store terabytes of backups in mere gigabytes of disk. This talk takes you through using Tarsnap, from backing up a system to customizing and rotating backups, to fully restoring them."
 Track,Tech
@@ -12851,7 +12897,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,Take a look at one of the premiere Linux distributions which serves as the testing ground for Red Hat Linux.
-index,279
+index,280
 speakers,Tom Callaway
 bookdescrip,Take a look at one of the premiere Linux distributions which serves as the testing ground for Red Hat Linux.
 Track,Tech
@@ -12897,7 +12943,7 @@ endtimeampm,5 PM
 Location,EMC I
 duration,50 minutes
 description,"With the increasing number of single board computers such as the Beaglebone Black, The Chip, Raspberry Pi, Orange Pi, and Banana Pi along with numerous Linux and other alternative operating systems to run on them is it still that important to have an x86 processor in your next computer.  This panel will include an open discussion on the numerous platforms in existence along with the homebrew and open source support for older computer chip sets such as the PowerPC."
-index,280
+index,281
 speakers,William E. Bowen
 bookdescrip,"With the increasing number of single board computers such as the Beaglebone Black, The Chip, Raspberry Pi, Orange Pi, and Banana Pi along with numerous Linux and other alternative operating systems to run on them is it still that important to have an x86 processor in your next computer.  This panel will include an open discussion on the numerous platforms in existence along with the homebrew and open source support for older computer chip sets such as the PowerPC."
 Track,Tech
@@ -12943,7 +12989,7 @@ endtimeampm,3 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"
-index,281
+index,282
 speakers,Edward L. Platt
 bookdescrip,"Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"
 Track,Tech
@@ -12989,7 +13035,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking."
-index,282
+index,283
 speakers,"Michael Grube, Steve Dougherty"
 bookdescrip,"In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking."
 Track,Tech
@@ -13035,7 +13081,7 @@ endtimeampm,3 PM
 Location,Windover
 duration,50 minutes
 description,"Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to “read minds” (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this “lie detector” experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources.  This session will be a fun look inside your brain waves along with demonstrations of data processing and predictive analytics."
-index,283
+index,284
 speakers,Jennifer Marsman
 bookdescrip,"Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to “read minds” (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this “lie detector” experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources.  This session will be a fun look inside your brain waves along with demonstrations of data processing and predictive analytics."
 Track,Tech
@@ -13081,7 +13127,7 @@ endtimeampm,7 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Who put the penguin in Penguicon? You did! Come get hands on with Linux with one of our favorite presenters. Tom Lawrence will guide attendees through the ins and outs of Linux for home and office use. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
-index,284
+index,285
 speakers,Tom Lawrence
 bookdescrip,"Who put the penguin in Penguicon? You did! Come get hands on with Linux with one of our favorite presenters. Tom Lawrence will guide attendees through the ins and outs of Linux for home and office use. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
 Track,Tech
@@ -13127,7 +13173,7 @@ endtimeampm,6 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-index,285
+index,286
 speakers,"Chioke Mose-Telesford, Kim Driscoll"
 bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
 Track,Tech
@@ -13173,7 +13219,7 @@ endtimeampm,11 AM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Join MDLUG and friends to walk through an introductory course on building small useful scripts in Python. Get your hands dirty in the fertile soil that is sprouting some of the most interesting developments in machine learning, server scripting and automation! Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
-index,286
+index,287
 speakers,"Gibson Nichols, Daniel Dugan"
 bookdescrip,"Join MDLUG and friends to walk through an introductory course on building small useful scripts in Python. Get your hands dirty in the fertile soil that is sprouting some of the most interesting developments in machine learning, server scripting and automation! Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served."
 Track,Tech
@@ -13219,7 +13265,7 @@ endtimeampm,10 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"Those who are unfamiliar with NTP, the Network Time Protocol which keeps your computer's clock in sync with the rest of the world, tend to assume it must be trivial. Those with slightly more familiarity are aware of its reputation for being deeply arcane and full of scary math. Daniel Franke, of the NTPsec project, thinks that both these perceptions are mistaken and that NTP's apparent impenetrability is entirely a consequence of bad pedagogy. In this talk, he aims to fix that. While some background in statistics will make this talk go down a bit more smoothly, a solid grasp of high school algebra should be entirely sufficient for following along."
-index,287
+index,288
 speakers,Daniel Franke
 bookdescrip,"Those who are unfamiliar with NTP, the Network Time Protocol which keeps your computer's clock in sync with the rest of the world, tend to assume it must be trivial. Those with slightly more familiarity are aware of its reputation for being deeply arcane and full of scary math. Daniel Franke, of the NTPsec project, thinks that both these perceptions are mistaken and that NTP's apparent impenetrability is entirely a consequence of bad pedagogy. In this talk, he aims to fix that. While some background in statistics will make this talk go down a bit more smoothly, a solid grasp of high school algebra should be entirely sufficient for following along."
 Track,Tech
@@ -13265,7 +13311,7 @@ endtimeampm,5 PM
 Location,Algonquin B/C
 duration,1 hour
 description,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
-index,288
+index,289
 speakers,"Deb Nicholson, Jason Mars, Lingjia Tang"
 bookdescrip,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
 Track,Tech
@@ -13308,10 +13354,10 @@ event_end,19:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,7 PM
-Location,Charlevoix A
+Location,Portage
 duration,50 minutes
 description,"Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel)."
-index,289
+index,290
 speakers,Dr. Justin Coven
 bookdescrip,"Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel)."
 Track,Tech
@@ -13324,7 +13370,7 @@ End Time,19:50
 tracknosp,['Tech']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Charlevoix A', 'Tech', 'Improving Leadership with IT', 'Dr. Justin Coven', 'Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel).', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Portage', 'Tech', 'Improving Leadership with IT', 'Dr. Justin Coven', 'Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel).', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Dr. Justin Coven
 avneeds,none
@@ -13338,13 +13384,13 @@ AV Needs,
 name,Improving Leadership with IT
 Private,PUBLIC
 bookname,Improving Leadership with IT
-venue,Charlevoix A
+venue,Portage
 Book Description,"Exceptional leadership is the ability to methodically and continually create heroes! From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity. IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision. IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel)."
 Presenters,Dr. Justin Coven
 csvsafedescrip,Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective- most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations- orchestrating how other entities interact with each other- to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management- Organization (structure)- Extent (of activities)- Culture- and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel).
 speakernosp,Dr.JustinCoven
 starttime,19:00
-roomnosp,CharlevoixA
+roomnosp,Portage
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -13357,7 +13403,7 @@ endtimeampm,5 PM
 Location,Algonquin D
 duration,50 minutes
 description,Do you sometimes feel like people who advocate security are speaking a foreign language? Would you like some practical advice you can use even if you are not an IT Professional? Then come hear Tony Bemus from the Sunday Morning Linux Review as he explains in layman's terms how to be more secure with your Internet-connected computer.
-index,290
+index,291
 speakers,Tony Bemus
 bookdescrip,Do you sometimes feel like people who advocate security are speaking a foreign language? Would you like some practical advice you can use even if you are not an IT Professional? Then come hear Tony Bemus from the Sunday Morning Linux Review as he explains in layman's terms how to be more secure with your Internet-connected computer.
 Track,Tech
@@ -13403,7 +13449,7 @@ endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
 description,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. I’ll demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You’ll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
-index,291
+index,292
 speakers,Jennifer Marsman
 bookdescrip,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. I’ll demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You’ll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
 Track,Tech
@@ -13449,7 +13495,7 @@ endtimeampm,10 AM
 Location,Montcalm
 duration,50 minutes
 description,"OpenBSD is a variety of Unix that is similar to Linux, but with perhaps a stronger security focus. It is a project run by volunteers, and is a free software program. Come and learn more about this alternative operating system."
-index,292
+index,293
 speakers,"STeve Andre', Marcus Watts"
 bookdescrip,"OpenBSD is a variety of Unix that is similar to Linux, but with perhaps a stronger security focus. It is a project run by volunteers, and is a free software program. Come and learn more about this alternative operating system."
 Track,Tech
@@ -13495,7 +13541,7 @@ endtimeampm,12 PM
 Location,Montcalm
 duration,50 minutes
 description,"Python is one of the most used programming languages on the Web, so come and get your feet wet with this tool, then stay for the Python Code Walk-Through that follows"
-index,293
+index,294
 speakers,Mike Bernson
 bookdescrip,"Python is one of the most used programming languages on the Web, so come and get your feet wet with this tool, then stay for the Python Code Walk-Through that follows"
 Track,Tech
@@ -13541,7 +13587,7 @@ endtimeampm,2 PM
 Location,Hamlin
 duration,1 hour and 50 minutes
 description,"What does it mean to be Agile?  Is it all marketing and hype or does this represent the future of software development?  We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework.  We will discuss things like the element of Scrum, it’s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts."
-index,294
+index,295
 speakers,"Donald Mark Haynes, Douglas Johnson"
 bookdescrip,"What does it mean to be Agile?  Is it all marketing and hype or does this represent the future of software development?  We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework.  We will discuss things like the element of Scrum, it’s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts."
 Track,Tech
@@ -13588,7 +13634,7 @@ endtimeampm,9 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"We'll cover the free, open source tools required to create an automated analytics pipeline for whatever data you may be interested in. Specifically, we'll talk about ETL and Analysis with Spark, Hadoop as a data store, and Relational databases.  Students will be provided an example pipeline as well as a fully configured VM to play with."
-index,295
+index,296
 speakers,Michael Grube
 bookdescrip,"We'll cover the free, open source tools required to create an automated analytics pipeline for whatever data you may be interested in. Specifically, we'll talk about ETL and Analysis with Spark, Hadoop as a data store, and Relational databases.  Students will be provided an example pipeline as well as a fully configured VM to play with."
 Track,Tech
@@ -13634,7 +13680,7 @@ endtimeampm,3 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Presentation based on the books ""Building Microservices"" by Sam Newman and ""Release It! Design and Deploy Production Ready Software"" by Michael T. Nygard."
-index,296
+index,297
 speakers,Richard Herrell
 bookdescrip,"Presentation based on the books ""Building Microservices"" by Sam Newman and ""Release It! Design and Deploy Production Ready Software"" by Michael T. Nygard."
 Track,Tech
@@ -13681,7 +13727,7 @@ endtimeampm,10 AM
 Location,Nicolet
 duration,50 minutes
 description,"An Introduction to Network Monitoring utilizing the Open Source Zenoss Monitoring System.  Topics covered will include configuration, managing monitored hosts via SNMP, SSH, and basic remediation."
-index,297
+index,298
 speakers,Andrew D Kirch
 bookdescrip,"An Introduction to Network Monitoring utilizing the Open Source Zenoss Monitoring System.  Topics covered will include configuration, managing monitored hosts via SNMP, SSH, and basic remediation."
 Track,Tech
@@ -13728,7 +13774,7 @@ endtimeampm,11 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"Explore how to become mobile in your work. This presentation will focus on issues facing the remote IT worker. We will discuss contracts and negotiations, travel (what exactly is the importance of luggage in a global economy), accommodations, some techno-geek concerns and a few standard mobile apps to think about."
-index,298
+index,299
 speakers,"Donald Mark Haynes, Douglas Johnson"
 bookdescrip,"Explore how to become mobile in your work. This presentation will focus on issues facing the remote IT worker. We will discuss contracts and negotiations, travel (what exactly is the importance of luggage in a global economy), accommodations, some techno-geek concerns and a few standard mobile apps to think about."
 Track,Tech
@@ -13774,7 +13820,7 @@ endtimeampm,12 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
-index,299
+index,300
 speakers,"Bob Trembley, Daniel Dugan"
 bookdescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Track,Tech
@@ -13820,7 +13866,7 @@ endtimeampm,1 PM
 Location,EMC IV
 duration,2 hours and 50 minutes
 description,"In this hands-on event, participants will learn how the web of trust model works and perform identify verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID — at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in."
-index,300
+index,301
 speakers,Richard Houser
 bookdescrip,"In this hands-on event, participants will learn how the web of trust model works and perform identify verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID — at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in."
 Track,Tech
@@ -13866,7 +13912,7 @@ endtimeampm,4 PM
 Location,Computer Lab (EMC III)
 duration,50 minutes
 description,Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017!
-index,301
+index,302
 speakers,
 bookdescrip,Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017!
 Track,Tech
@@ -13912,7 +13958,7 @@ endtimeampm,2 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"Moodle is an open source learning management system. It is used by tens of thousands of educational institutions from K12 to higher education and by corporations looking for better training tools.  Moodle is supported by a huge international open source community which is growing every year. But how does Moodle (the project) manage itself? Meant mainly for teachers, sys admins, and web developers, this talk will focus on what Moodle is, how it is managed, and how to become a part of the Moodle community. If you use Moodle or are interested in how a large open source project is actually managed, this talk is for you."
-index,302
+index,303
 speakers,Matthew G. Switlik
 bookdescrip,"Moodle is an open source learning management system. It is used by tens of thousands of educational institutions from K12 to higher education and by corporations looking for better training tools.  Moodle is supported by a huge international open source community which is growing every year. But how does Moodle (the project) manage itself? Meant mainly for teachers, sys admins, and web developers, this talk will focus on what Moodle is, how it is managed, and how to become a part of the Moodle community. If you use Moodle or are interested in how a large open source project is actually managed, this talk is for you."
 Track,Tech
@@ -13958,7 +14004,7 @@ endtimeampm,10 AM
 Location,Algonquin D
 duration,50 minutes
 description,"Are you currently supervising a technical team? Maybe you're considering taking the plunge? Come hear a few voices ""from the trenches"" talk about what it's really like to lead a team: the good, the bad, the horrible, and the horribly funny. Topics will include: the differences between a manager and a leader, leading from the front, why your manager isn't out to get you, managing up, ethical communication, and more"
-index,303
+index,304
 speakers,"Jer Lance, Dawn Kuczwara"
 bookdescrip,"Are you currently supervising a technical team? Maybe you're considering taking the plunge? Come hear a few voices ""from the trenches"" talk about what it's really like to lead a team: the good, the bad, the horrible, and the horribly funny. Topics will include: the differences between a manager and a leader, leading from the front, why your manager isn't out to get you, managing up, ethical communication, and more"
 Track,Tech
@@ -14004,7 +14050,7 @@ endtimeampm,10 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples."
-index,304
+index,305
 speakers,"Donald Mark Haynes, Douglas Johnson"
 bookdescrip,"Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples."
 Track,Tech
@@ -14050,7 +14096,7 @@ endtimeampm,2 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
-index,305
+index,306
 speakers,"Chioke Mose-Telesford, Kim Driscoll"
 bookdescrip,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 Track,Tech
@@ -14096,7 +14142,7 @@ endtimeampm,11 AM
 Location,Windover
 duration,50 minutes
 description,"Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix."
-index,306
+index,307
 speakers,Michael W. Lucas
 bookdescrip,"Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix."
 Track,Tech
@@ -14142,7 +14188,7 @@ endtimeampm,4 PM
 Location,Computer Lab (EMC III)
 duration,50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,307
+index,308
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14188,7 +14234,7 @@ endtimeampm,9 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,308
+index,309
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14234,7 +14280,7 @@ endtimeampm,9 AM
 Location,Computer Lab (EMC III)
 duration,50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,309
+index,310
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14280,7 +14326,7 @@ endtimeampm,1 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,310
+index,311
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14326,7 +14372,7 @@ endtimeampm,10 AM
 Location,Computer Lab (EMC III)
 duration,50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,311
+index,312
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14372,7 +14418,7 @@ endtimeampm,1 PM
 Location,Computer Lab (EMC III)
 duration,50 minutes
 description,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
-index,312
+index,313
 speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philopsophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also puruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
@@ -14418,7 +14464,7 @@ endtimeampm,11 AM
 Location,EMC IV
 duration,50 minutes
 description,"The maker movement has been making headlines, in particular the 3D printer space.  Something that is often overlooked is the state of the software.  Many manufacturers ship closed source software, which is against the spirit of the movement.  We'll go through a quick overview of one 3D printer toolchain (FreeCAD, Slic3r, OctoPrint), and discuss possible alternatives at each stage.  Other participants are strongly encouraged to bring a laptop running their maker software of choice (OSS only, please!) to share in a 2-5minute show and tell fashion.  Other maker toolchain applications would be particularly welcome (PCB design/circuit simulation, CNC tooling, laser cutters, etc)."
-index,313
+index,314
 speakers,Richard Houser
 bookdescrip,"The maker movement has been making headlines, in particular the 3D printer space.  Something that is often overlooked is the state of the software.  Many manufacturers ship closed source software, which is against the spirit of the movement.  We'll go through a quick overview of one 3D printer toolchain (FreeCAD, Slic3r, OctoPrint), and discuss possible alternatives at each stage.  Other participants are strongly encouraged to bring a laptop running their maker software of choice (OSS only, please!) to share in a 2-5minute show and tell fashion.  Other maker toolchain applications would be particularly welcome (PCB design/circuit simulation, CNC tooling, laser cutters, etc)."
 Track,Tech
@@ -14464,7 +14510,7 @@ endtimeampm,11 AM
 Location,Algonquin D
 duration,50 minutes
 description,Think your snazzy new UI is fantastic? Did you test it with color-blind users? No? Then you're probably in for a surprise for how much information you are trying to convey in a way that is not accessible to your users who have colorblindness or color sight deficiencies. We will discuss the details of what it means to be color blind and what you can do as a programmer or designer to improve the usability of your software for the 1 in 12 of your users who are color blind.
-index,314
+index,315
 speakers,Scott Favre
 bookdescrip,Think your snazzy new UI is fantastic? Did you test it with color-blind users? No? Then you're probably in for a surprise for how much information you are trying to convey in a way that is not accessible to your users who have colorblindness or color sight deficiencies. We will discuss the details of what it means to be color blind and what you can do as a programmer or designer to improve the usability of your software for the 1 in 12 of your users who are color blind.
 Track,Tech
@@ -14510,7 +14556,7 @@ endtimeampm,8 PM
 Location,Windover
 duration,50 minutes
 description,"PAM, or Pluggable Authentication Modules, is one of the most occult parts of managing Unixish systems. The unique configuration syntax and idiosyncratic rule processing drives many sysadmins to copy working configurations from other people and random blog posts. This talk takes you through the essentials of PAM configuration, You'll learn the components of PAM, how PAM processes rules, how to use multi-factor authentication, and get an overview of some useful PAM modules you probably haven't used, based on my book ""PAM Mastery."""
-index,315
+index,316
 speakers,Michael W. Lucas
 bookdescrip,"PAM, or Pluggable Authentication Modules, is one of the most occult parts of managing Unixish systems. The unique configuration syntax and idiosyncratic rule processing drives many sysadmins to copy working configurations from other people and random blog posts. This talk takes you through the essentials of PAM configuration, You'll learn the components of PAM, how PAM processes rules, how to use multi-factor authentication, and get an overview of some useful PAM modules you probably haven't used, based on my book ""PAM Mastery."""
 Track,Tech
@@ -14556,7 +14602,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,"2015 was the year companies started realizing that IT security is no longer a suggestion, but mandatory to stay in business. All of the antivirus, firewalls, IDS, man traps, video cameras, and policies won't protect you from your biggest vulnerability - your employees. Anti-phishing education can be fun, and you can do it too with a little know-how and a cheap server. This is a technical discussion on how to be the bad guy for a minute to demonstrate how real the threat of social engineering is."
-index,316
+index,317
 speakers,Kristoffer Marshall
 bookdescrip,"2015 was the year companies started realizing that IT security is no longer a suggestion, but mandatory to stay in business. All of the antivirus, firewalls, IDS, man traps, video cameras, and policies won't protect you from your biggest vulnerability - your employees. Anti-phishing education can be fun, and you can do it too with a little know-how and a cheap server. This is a technical discussion on how to be the bad guy for a minute to demonstrate how real the threat of social engineering is."
 Track,Tech
@@ -14602,7 +14648,7 @@ endtimeampm,4 PM
 Location,Montcalm
 duration,50 minutes
 description,"Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code."
-index,317
+index,318
 speakers,Mike Bernson
 bookdescrip,"Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code."
 Track,Tech
@@ -14648,7 +14694,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
-index,318
+index,319
 speakers,Clif Flynt
 bookdescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
 Track,Tech
@@ -14694,7 +14740,7 @@ endtimeampm,2 PM
 Location,Windover
 duration,50 minutes
 description,"Ruth Suehle and Tom Callaway will talk about the $35 mini-computer, how it works, and give lots of ideas and inspirations on what you can do with it. They are the co-authors of the O'Reilly book ""Raspberry Pi Hacks"", and generally do all sorts of things with the credit-card sized computer that are fun and warranty voiding."
-index,319
+index,320
 speakers,"Tom Callaway, Ruth Suehle"
 bookdescrip,"Ruth Suehle and Tom Callaway will talk about the $35 mini-computer, how it works, and give lots of ideas and inspirations on what you can do with it. They are the co-authors of the O'Reilly book ""Raspberry Pi Hacks"", and generally do all sorts of things with the credit-card sized computer that are fun and warranty voiding."
 Track,Tech
@@ -14740,7 +14786,7 @@ endtimeampm,9 PM
 Location,Computer Lab (EMC III)
 duration,2 hours and 50 minutes
 description,"Red Hat has brought great content to Penguicon once again!  Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This event will provide an opportunity for both novices and experts to brush up on their skills and compete for prizes. Noteworthy Addendum! There will be 20 laptops available in the lab. First come, first served."
-index,320
+index,321
 speakers,Tom Callahan
 bookdescrip,"Red Hat has brought great content to Penguicon once again!  Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This event will provide an opportunity for both novices and experts to brush up on their skills and compete for prizes. Noteworthy Addendum! There will be 20 laptops available in the lab. First come, first served."
 Track,Tech
@@ -14786,7 +14832,7 @@ endtimeampm,6 PM
 Location,Algonquin D
 duration,50 minutes
 description,Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things offer a demo of an RFID Implant and answer your questions about biohacking and how it can work for you.
-index,321
+index,322
 speakers,"Amal Graafstra, Anita Fowler"
 bookdescrip,Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things offer a demo of an RFID Implant and answer your questions about biohacking and how it can work for you.
 Track,Tech
@@ -14832,7 +14878,7 @@ endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
 description,A Senior Systems Analyst from the Center for Applied Cybersecurity Research will present a few basic information security principles and demonstrate how to apply them to programming of any kind.  Make your code less exploitable.
-index,322
+index,323
 speakers,Susan Sons
 bookdescrip,A Senior Systems Analyst from the Center for Applied Cybersecurity Research will present a few basic information security principles and demonstrate how to apply them to programming of any kind.  Make your code less exploitable.
 Track,Tech
@@ -14878,7 +14924,7 @@ endtimeampm,12 PM
 Location,Baldwin
 duration,50 minutes
 description,"A Senior Systems Analyst from the Center for Applied Cybersecurity Research will introduce a few principles that form the basis for most information security decisions, and demonstrate how they apply to everyday systems administration as well as system and network architecture decisions.  Make your environment less exploitable."
-index,323
+index,324
 speakers,Susan Sons
 bookdescrip,"A Senior Systems Analyst from the Center for Applied Cybersecurity Research will introduce a few principles that form the basis for most information security decisions, and demonstrate how they apply to everyday systems administration as well as system and network architecture decisions.  Make your environment less exploitable."
 Track,Tech
@@ -14924,7 +14970,7 @@ endtimeampm,2 PM
 Location,Windover
 duration,50 minutes
 description,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
-index,324
+index,325
 speakers,"Michael W. Lucas, Autumn Mahoney"
 bookdescrip,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
 Track,Tech
@@ -14970,7 +15016,7 @@ endtimeampm,4 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant."
-index,325
+index,326
 speakers,"Jason Mars, Lingjia Tang"
 bookdescrip,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant."
 Track,Tech
@@ -15016,7 +15062,7 @@ endtimeampm,2 PM
 Location,Montcalm
 duration,50 minutes
 description,"Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping."
-index,326
+index,327
 speakers,Mike Birdsall
 bookdescrip,"Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping."
 Track,Tech
@@ -15062,7 +15108,7 @@ endtimeampm,8 PM
 Location,Nicolet
 duration,50 minutes
 description,"Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Why would Craig be searching UK auction sites for a machine that was never released in the USA? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received."
-index,327
+index,328
 speakers,Craig Maloney
 bookdescrip,"Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Radionics / Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdon, they were inexpensive, someone unreliable, and underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Why would Craig be searching UK auction sites for a machine that was never released in the USA? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received."
 Track,Tech
@@ -15108,7 +15154,7 @@ endtimeampm,7 PM
 Location,Nicolet
 duration,50 minutes
 description,"Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan."
-index,328
+index,329
 speakers,Jason Mars
 bookdescrip,"Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan."
 Track,Tech
@@ -15154,7 +15200,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
-index,329
+index,330
 speakers,Deb Nicholson
 bookdescrip,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
 Track,Tech
@@ -15200,7 +15246,7 @@ endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon."
-index,330
+index,331
 speakers,"Tony Bemus, Mary Tomich, Tom Lawrence"
 bookdescrip,"This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon."
 Track,Tech
@@ -15246,7 +15292,7 @@ endtimeampm,12 PM
 Location,Windover
 duration,50 minutes
 description,"Technology offers many new possibilities for education, including the flipped classroom and the ability to design more adaptable tests, so that students are assessed on questions appropriate to their ability levels. What are the various ways that technology and computer advancements can improve education?"
-index,331
+index,332
 speakers,Andrew Zimmerman Jones
 bookdescrip,"Technology offers many new possibilities for education, including the flipped classroom and the ability to design more adaptable tests, so that students are assessed on questions appropriate to their ability levels. What are the various ways that technology and computer advancements can improve education?"
 Track,Tech
@@ -15292,7 +15338,7 @@ endtimeampm,12 PM
 Location,Charlevoix B
 duration,50 minutes
 description,"We're extremely close to having fully autonomous vehicles available for sale, and what does that mean for the average consumer?  We hear a lot about Google and Apple's efforts, but Ford, Volvo, Mercedes, Nissan, Toyota/Lexus and Audi are all in this game up to their elbows as well.  Which of them is likely to get to the market first?  Who are self-driving cars going to be marketed to?  What's the state of the technology?  Is this a technological revolution, or a tempest in a teacup?  And are they going to take over the world and kill us all?"
-index,332
+index,333
 speakers,"Emmy Jackson, Krunal Desai"
 bookdescrip,"We're extremely close to having fully autonomous vehicles available for sale, and what does that mean for the average consumer?  We hear a lot about Google and Apple's efforts, but Ford, Volvo, Mercedes, Nissan, Toyota/Lexus and Audi are all in this game up to their elbows as well.  Which of them is likely to get to the market first?  Who are self-driving cars going to be marketed to?  What's the state of the technology?  Is this a technological revolution, or a tempest in a teacup?  And are they going to take over the world and kill us all?"
 Track,Tech
@@ -15338,7 +15384,7 @@ endtimeampm,3 PM
 Location,Nicolet
 duration,50 minutes
 description,"Software is terrible. If you work in software, you know this almost rises to the level of truism. There's a long, strong tradition of prognosticating doom among software folks. This talk is about why software is so awful (spoiler: humans are bad at it), how we software folk cope with that awfulness, and most importantly, the implications that the *particular* nature of the awfulness has for modern and future society. It should be interesting for engineers and non-engineers alike. My hope is that attendees will leave with a stronger sense of what realistic risks are posed by the terribleness of software."
-index,333
+index,334
 speakers,Sam Boyer
 bookdescrip,"Software is terrible. If you work in software, you know this almost rises to the level of truism. There's a long, strong tradition of prognosticating doom among software folks. This talk is about why software is so awful (spoiler: humans are bad at it), how we software folk cope with that awfulness, and most importantly, the implications that the *particular* nature of the awfulness has for modern and future society. It should be interesting for engineers and non-engineers alike. My hope is that attendees will leave with a stronger sense of what realistic risks are posed by the terribleness of software."
 Track,Tech
@@ -15384,7 +15430,7 @@ endtimeampm,9 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available."
-index,334
+index,335
 speakers,Pat Baker
 bookdescrip,"Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available."
 Track,Tech
@@ -15430,7 +15476,7 @@ endtimeampm,11 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Featured Guests Dangerous Things look into the future to discuss how we could incorporate new technology into our bodies. Biohacks, nootropics, and nutrition will be explored in this discussion."
-index,335
+index,336
 speakers,"Amal Graafstra, Anita Fowler"
 bookdescrip,"Featured Guests Dangerous Things look into the future to discuss how we could incorporate new technology into our bodies. Biohacks, nootropics, and nutrition will be explored in this discussion."
 Track,Tech
@@ -15476,7 +15522,7 @@ endtimeampm,12 PM
 Location,Algonquin D
 duration,50 minutes
 description,"Artificial intelligences have been a staple of science fiction forever.  But where does the reality of AI end, and the fiction begin?"
-index,336
+index,337
 speakers,"Ann Leckie, Jason Mars, Lingjia Tang, Jennifer Marsman"
 bookdescrip,"Artificial intelligences have been a staple of science fiction forever.  But where does the reality of AI end, and the fiction begin?"
 Track,Tech
@@ -15522,7 +15568,7 @@ endtimeampm,4 PM
 Location,EMC IV
 duration,50 minutes
 description,"Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids."
-index,337
+index,338
 speakers,Krunal Desai
 bookdescrip,"Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids."
 Track,Tech
@@ -15568,7 +15614,7 @@ endtimeampm,4 PM
 Location,EMC IV
 duration,50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-index,338
+index,339
 speakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
 bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
 Track,Tech
@@ -15614,7 +15660,7 @@ endtimeampm,10 PM
 Location,Windover
 duration,50 minutes
 description,"ZFS, the Zettabyte File System, is one of the most full-featured filesystems available today and gives almost unlimited storage flexibility. Originally created by Sun Microsystems, the independent entity OpenZFS now develops ZFS as deployed in illumos, Linux, and FreeBSD.  This talk takes you through ZFS' features, including: data self-healing, deduplication and compression, clones and snapshots, copy-on-write, boot environments, replication, and more. Once you use ZFS, you'll never understand how you lived without it."
-index,339
+index,340
 speakers,Michael W. Lucas
 bookdescrip,"ZFS, the Zettabyte File System, is one of the most full-featured filesystems available today and gives almost unlimited storage flexibility. Originally created by Sun Microsystems, the independent entity OpenZFS now develops ZFS as deployed in illumos, Linux, and FreeBSD.  This talk takes you through ZFS' features, including: data self-healing, deduplication and compression, clones and snapshots, copy-on-write, boot environments, replication, and more. Once you use ZFS, you'll never understand how you lived without it."
 Track,Tech
@@ -15660,7 +15706,7 @@ endtimeampm,10 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"TopicHero (http://TopicHero.com) allows users to create and share multiple Topics across different devices and browsers. Topic elements include Search Engines, RSS Feeds, and Links, in addition to typical web page elements. This is a different way of slicing web information, where the focus is on Topics as opposed to a focus on a Search Engine, device, browser, or RSS Feed. TopicHero arises from a philosophy that it is the topic that is critical and that users need effective tools to bring as many resources to bare on specific topics as possible. This is particularly true in business where many users are dedicated to working on specific topics for long periods of time."
-index,340
+index,341
 speakers,Dr. Justin Coven
 bookdescrip,"TopicHero (http://TopicHero.com) allows users to create and share multiple Topics across different devices and browsers. Topic elements include Search Engines, RSS Feeds, and Links, in addition to typical web page elements. This is a different way of slicing web information, where the focus is on Topics as opposed to a focus on a Search Engine, device, browser, or RSS Feed. TopicHero arises from a philosophy that it is the topic that is critical and that users need effective tools to bring as many resources to bare on specific topics as possible. This is particularly true in business where many users are dedicated to working on specific topics for long periods of time."
 Track,Tech
@@ -15706,7 +15752,7 @@ endtimeampm,2 PM
 Location,Portage Auditorium
 duration,50 minutes
 description,"A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites."
-index,341
+index,342
 speakers,Pat Baker
 bookdescrip,"A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites."
 Track,Tech
@@ -15752,7 +15798,7 @@ endtimeampm,3 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-index,342
+index,343
 speakers,"Chioke Mose-Telesford, Kim Driscoll"
 bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
 Track,Tech
@@ -15798,7 +15844,7 @@ endtimeampm,10 PM
 Location,Restaurant
 duration,50 minutes
 description,Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there!
-index,343
+index,344
 speakers,Craig Maloney
 bookdescrip,Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there!
 Track,Tech
@@ -15844,7 +15890,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure."
-index,344
+index,345
 speakers,Ryan Kather
 bookdescrip,"Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure."
 Track,Tech
@@ -15890,7 +15936,7 @@ endtimeampm,7 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Convention Resource Event Management (CREM) is an open-source web app. It catches conflicts between rooms, times, and presenters. It is flexible enough to track the necessary data about everything from LN2 Ice Cream to board games, and prevent a loud concert from being on the other side of an airwall from a quiet panel discussion. Get involved, or just satisfy your curiosity about the languages and frameworks: Javascript with Angular, and Python with Flask."
-index,345
+index,346
 speakers,Matt Arnold
 bookdescrip,"Convention Resource Event Management (CREM) is an open-source web app. It catches conflicts between rooms, times, and presenters. It is flexible enough to track the necessary data about everything from LN2 Ice Cream to board games, and prevent a loud concert from being on the other side of an airwall from a quiet panel discussion. Get involved, or just satisfy your curiosity about the languages and frameworks: Javascript with Angular, and Python with Flask."
 Track,Tech
@@ -15936,7 +15982,7 @@ endtimeampm,1 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Featured Guest Christina York talks about science fiction in our everyday lives, and how it inspires us."
-index,346
+index,347
 speakers,Christina York
 bookdescrip,"Featured Guest Christina York talks about science fiction in our everyday lives, and how it inspires us."
 Track,"Tech, Life"

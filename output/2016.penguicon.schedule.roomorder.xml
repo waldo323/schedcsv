@@ -191,6 +191,12 @@
 <topic>Gaming</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Ann Lemay, Scott Kennedy</participant> How does your family game? </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>10 AM</time>
+<event><title>Tools for Outlines: M.I.C.E., The Three Act Structure</title>
+<topic>Literature</topic>
+<room>Algonquin B/C</room>
+<blurb><participant>Paul Kemner, Ericka Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush</participant> What tools are out there to help shape your plot? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Writing the Alien</title>
@@ -406,13 +412,13 @@
 <event><title>Financial Planning</title>
 <topic>Life</topic>
 <room>Baldwin</room>
-<blurb><participant>Ericka Kahler</participant> As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future. </blurb></event>
+<blurb><participant>Ericka S. Kahler</participant> As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites.  We can all use advice on money management and planning for our future. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
 <event><title>Teens of the Wasteland</title>
 <topic>Literature</topic>
 <room>Baldwin</room>
-<blurb><participant>Emmy Jackson, Jon David, Ericka Kahler, Janice Leach, Angie Rush</participant> Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next? </blurb></event>
+<blurb><participant>Emmy Jackson, Jon David, Ericka S. Kahler, Janice Leach, Angie Rush</participant> Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, what’s next? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>Writing Workshop</title>
@@ -515,12 +521,6 @@
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Daniel Franke</participant> Those who are unfamiliar with NTP, the Network Time Protocol which keeps your computer's clock in sync with the rest of the world, tend to assume it must be trivial. Those with slightly more familiarity are aware of its reputation for being deeply arcane and full of scary math. Daniel Franke, of the NTPsec project, thinks that both these perceptions are mistaken and that NTP's apparent impenetrability is entirely a consequence of bad pedagogy. In this talk, he aims to fix that. While some background in statistics will make this talk go down a bit more smoothly, a solid grasp of high school algebra should be entirely sufficient for following along. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>Improving Leadership with IT</title>
-<topic>Tech</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Dr. Justin Coven</participant> Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel). </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>Introduction to Big Data Tools</title>
@@ -712,13 +712,13 @@
 <event><title>Star Wars: Bane or Boon?</title>
 <topic>Literature</topic>
 <room>Charlevoix C</room>
-<blurb><participant>John David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland</participant> Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations? </blurb></event>
+<blurb><participant>Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland</participant> Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>4 PM</time>
 <event><title>Writing Fast and Slow</title>
 <topic>Literature</topic>
 <room>Charlevoix C</room>
-<blurb><participant>Alex Kourvo, Jen Haeger, Jim Leach, Catheryn Valente</participant> Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book? </blurb></event>
+<blurb><participant>Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente</participant> Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
 <event><title>Finding the Right Social Media</title>
@@ -1679,8 +1679,8 @@
 <topic>Literature</topic>
 <room>Montcalm</room>
 <blurb><participant>Ann Leckie</participant> Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
+<day>SUNDAY, May 1</day>
+<time>11 AM</time>
 <event><title>Cathrynne Valente reading</title>
 <topic>Literature</topic>
 <room>Montcalm</room>
@@ -1955,6 +1955,12 @@
 <topic>Penguicon</topic>
 <room>Portage</room>
 <blurb><participant>Tom Smith</participant> Temporary description </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>Improving Leadership with IT</title>
+<topic>Tech</topic>
+<room>Portage</room>
+<blurb><participant>Dr. Justin Coven</participant> Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel). </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>The dark web big three</title>
