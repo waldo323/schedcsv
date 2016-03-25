@@ -83,6 +83,30 @@
 <topic>Food</topic>
 <room></room>
 <blurb><participant>Amy Alice Wright</participant> Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home. </blurb></event>
+<day>NoDay, April 1</day>
+<time>4 PM</time>
+<event><title>Kerbal Space Program LAB</title>
+<topic>Science</topic>
+<room></room>
+<blurb><participant>Bob Trembley</participant> Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator. <duration>42 minutes</duration></blurb></event>
+<day>NoDay, April 1</day>
+<time>4 PM</time>
+<event><title>Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future</title>
+<topic>Science</topic>
+<room></room>
+<blurb><participant>Jonathan Ivar Weyhrauch, Mikhail Shikhmanov</participant> ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning. <duration>42 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>12 PM</time>
+<event><title>Walk the Solar System</title>
+<topic>Science</topic>
+<room></room>
+<blurb><participant></participant> Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body. </blurb></event>
+<day>NoDay, April 1</day>
+<time>4 PM</time>
+<event><title>Containers, Pivotal activity - build an environment</title>
+<topic>Tech</topic>
+<room></room>
+<blurb><participant>Gibson Nichols</participant> Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. <duration>42 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>5 PM</time>
 <event><title>Artemis</title>
@@ -102,7 +126,7 @@
 <room>Algonquin A</room>
 <blurb><participant>Stuart Chisholm, Rob Reed</participant> Love to shoot handguns but can't make it to our live fire event before the con?  Or want to learn how to shoot but without the noise, recoil and potential danger?  OR just want to have a great time?  Then the Virtual Range is a must visit!  The only things flying downrange are photons.  Our Laser pistols have the look and feel of a real Glock 17, but emit only light.  Newbies will get actual instruction from certified professionals free of charge!  This time out, we have added more reactive targets to the mix -- things that jump, fall or light up – for even more fun!  Get your "Geek Militia" ribbon ONLY at the GwG Virtual Range! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
-<time>6 PM</time>
+<time>4 PM</time>
 <event><title>I know Kung Fu</title>
 <topic>Action Adventure</topic>
 <room>Algonquin A</room>
@@ -149,18 +173,12 @@
 <topic>After Dark</topic>
 <room>Algonquin A</room>
 <blurb><participant>(Rabbit) Michael McPeek</participant> Want to learn about impact play? Then come in and play!  This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>8 PM</time>
-<event><title>Literary Filk</title>
-<topic>After Dark</topic>
-<room>Algonquin A</room>
-<blurb><participant>Clif Flynt, Mark Bernstein, Tom Smith</participant> Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>11 PM</time>
 <event><title>S&amp;M AMA</title>
 <topic>After Dark</topic>
 <room>Algonquin A</room>
-<blurb><participant>kernelbrandon</participant> Join Shannon and Maggie for an "ask me anything." You have been to "Sex Toys w/ S&amp;M", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience. </blurb></event>
+<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Join Shannon and Maggie for an "ask me anything." You have been to "Sex Toys w/ S&amp;M", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
 <event><title>G33K Atho10n 2.0</title>
@@ -257,12 +275,6 @@
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Tom Lawrence</participant> This presentation on networking on a home budget will cover DDWRT, pFsense and UniFi wireless routers </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
-<event><title>Containers, Pivotal activity - build an environment</title>
-<topic>Tech</topic>
-<room>Algonquin B/C</room>
-<blurb><participant>Gibson Nichols</participant> Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>3 PM</time>
 <event><title>Free/Open Democracy</title>
@@ -293,6 +305,12 @@
 <topic>Tech, Life</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Christina York</participant> Featured Guest Christina York talks about science fiction in our everyday lives, and how it inspires us. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>8 PM</time>
+<event><title>Literary Filk</title>
+<topic>After Dark</topic>
+<room>Algonquin D</room>
+<blurb><participant>Clif Flynt, Mark Bernstein, Tom Smith</participant> Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Crowdfunding careers</title>
@@ -335,6 +353,12 @@
 <topic>Science</topic>
 <room>Algonquin D</room>
 <blurb><participant>Mark Haynes (m), Jennifer Hamilton, Ramses Alcaide</participant> Explore the act of destruction as a creative influence, drawing sources from economic theory, philosophy, theology, cosmology, ecology and technology.  Is the nature of creativity in reality a destructive force? Progress is not necessarily a linear, geometric progression but rather destructive stimulus often precede creativity and explosive growth. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>1 PM</time>
+<event><title>Being scene - Lighting for small presentations and events</title>
+<topic>Tech</topic>
+<room>Algonquin D</room>
+<blurb><participant>Matt Atkins</participant> A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>Internet security for the lay geek</title>
@@ -382,7 +406,7 @@
 <event><title>Queer Poly Speed Dating</title>
 <topic>After Dark</topic>
 <room>Baldwin</room>
-<blurb><participant>George Allen</participant> Come join us for a speed dating event especially for queer poly people! </blurb></event>
+<blurb><participant>Nicole Rohr</participant> Come join us for a speed dating event especially for queer poly people! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Comic Jam</title>
@@ -480,18 +504,6 @@
 <room>Charlevoix A</room>
 <blurb><participant>Ken MacGregor, Jay Maynard, Nicole Castle, Dave Klecha</participant> Description TBA </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
-<event><title>Pupal Writers Panel</title>
-<topic>Literature</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach</participant> You've written a bit, you've published a bit, now what? </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>10 AM</time>
-<event><title>Writing Risks</title>
-<topic>Literature</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland</participant> Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>Costume Contest</title>
 <topic>Penguicon</topic>
@@ -534,13 +546,13 @@
 <room>Charlevoix A</room>
 <blurb><participant>Kristoffer Marshall</participant> 2015 was the year companies started realizing that IT security is no longer a suggestion, but mandatory to stay in business. All of the antivirus, firewalls, IDS, man traps, video cameras, and policies won't protect you from your biggest vulnerability - your employees. Anti-phishing education can be fun, and you can do it too with a little know-how and a cheap server. This is a technical discussion on how to be the bad guy for a minute to demonstrate how real the threat of social engineering is. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
+<time>10 AM</time>
 <event><title>Rapid Prototyping on the Android with Tcl/Tk</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Clif Flynt</participant> Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>4 PM</time>
+<time>2 PM</time>
 <event><title>setup and run your own personal assistant</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
@@ -568,19 +580,19 @@
 <event><title>Primal: Understanding Yourself &amp; Your Role in the Kink Community.</title>
 <topic>After Dark</topic>
 <room>Charlevoix B</room>
-<blurb><participant>Nicole Rohr</participant> An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal. <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>George Allen</participant> An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal. <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>Rope Basics: The Bedroom &amp; Beyond</title>
 <topic>After Dark</topic>
 <room>Charlevoix B</room>
-<blurb><participant>Nicole Rohr</participant> This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. <duration>1 hour and 30 minutes</duration></blurb></event>
+<blurb><participant>kernelbrandon</participant> This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. <duration>1 hour and 30 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>10 PM</time>
 <event><title>Sexual Safety</title>
 <topic>After Dark</topic>
 <room>Charlevoix B</room>
-<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy! </blurb></event>
+<blurb><participant>Jen Schwartz, Matt Sweet, Max Issac</participant> Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>The Different Philosophies of Anime</title>
@@ -606,6 +618,12 @@
 <room>Charlevoix B</room>
 <blurb><participant>Ann Leckie, Michael K. Elliot, Steven Saus, Tobias Buckell, Stacy Bender</participant> Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These "rules" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
+<time>2 PM</time>
+<event><title>Pupal Writers Panel</title>
+<topic>Literature</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach</participant> You've written a bit, you've published a bit, now what? </blurb></event>
+<day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>B.O.F. Star Wars</title>
 <topic>Media</topic>
@@ -629,6 +647,12 @@
 <topic>Penguicon</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Crazy Mark, Alex Drummer</participant> Temporary description </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>9 PM</time>
+<event><title>Ramses Alcaide Talk</title>
+<topic>Science</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Ramses Alcaide</participant> TBA <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>10 AM</time>
 <event><title>A look at LibreOffice Base</title>
@@ -688,7 +712,7 @@
 <event><title>The Art of Negotiating</title>
 <topic>After Dark</topic>
 <room>Charlevoix C</room>
-<blurb><participant>RainbowRavenX</participant> From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation. </blurb></event>
+<blurb><participant>Jen Schwartz</participant> From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>PowerPoint Improv</title>
@@ -719,6 +743,12 @@
 <topic>Literature</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Alex Kourvo, Jen Haeger, Jim Leach, Cathrynne Valente</participant> Are you a hack if you write quickly? Are you an amateur if you write slowly? How many books a year should a working writer produce, and how has that expectation changed in today’s publishing climate? How quickly do readers want—or expect—the next book? </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>10 AM</time>
+<event><title>Writing Risks</title>
+<topic>Literature</topic>
+<room>Charlevoix C</room>
+<blurb><participant>Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland</participant> Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
 <event><title>Finding the Right Social Media</title>
@@ -845,12 +875,12 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>Tom Callahan</participant> Red Hat has brought great content to Penguicon once again!  Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This event will provide an opportunity for both novices and experts to brush up on their skills and compete for prizes. Noteworthy Addendum! There will be 20 laptops available in the lab. First come, first served. <duration>2 hours and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
+<day>SATURDAY, APRIL 30</day>
 <time>2 PM</time>
-<event><title>Traveling Circus Javascript</title>
+<event><title>The Traveling Circus: Intro to Coding Workshop</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>Chioke Mose-Telesford, Kim Driscoll</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Chioke Mose-Telesford, Aaron Wolff, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>11 PM</time>
 <event><title>LN2 After Hours I Ice Cream</title>
@@ -892,7 +922,7 @@
 <event><title>Poly Speed Dating</title>
 <topic>After Dark</topic>
 <room>EMC I</room>
-<blurb><participant>Jen Schwartz</participant> Polyamory speed dating will help polamorous people of all types get to know each other! </blurb></event>
+<blurb><participant>Nicole Rohr</participant> Polyamory speed dating will help polamorous people of all types get to know each other! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>My Little Pony: Friendship Is Magic</title>
@@ -995,12 +1025,6 @@
 <topic>Science</topic>
 <room>EMC I</room>
 <blurb><participant>Jennifer Hamilton</participant> Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>8 PM</time>
-<event><title>Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future</title>
-<topic>Science</topic>
-<room>EMC I</room>
-<blurb><participant>Jonathan Ivar Weyhrauch, Mikhail Shikhmanov</participant> ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>11 AM</time>
 <event><title>BOF: Deployment and Testing</title>
@@ -1144,7 +1168,7 @@
 <event><title>So, What's This "Age Play" Thing Anyway ?</title>
 <topic>After Dark</topic>
 <room>EMC IV</room>
-<blurb><participant>Jen Schwartz, Matt Sweet, Max Issac</participant> With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called "age play." As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please). </blurb></event>
+<blurb><participant>RainbowRavenX</participant> With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called "age play." As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please). </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>9 PM</time>
 <event><title>Flash Comics!</title>
@@ -1194,12 +1218,6 @@
 <room>EMC IV</room>
 <blurb><participant>Zhuang Zi</participant> This talk will teach the basics of engineering structural parts to be fabricated using extruded plastic from a 3D printer nozzle.  Simple design concepts such as tensile strength, Poisson's ratio, and stress risers will be explained and used to demonstrate how to make optimal material, shape, and functional choices.  Particular attention will be paid to the peculiarities of parts made with layers of extruded plastic and destined for the high-stresses imparted on parts destined for use in 3D-printed firearms. </blurb></event>
 <day>SUNDAY, May 1</day>
-<time>1 PM</time>
-<event><title>Being scene - Lighting for small presentations and events</title>
-<topic>Tech</topic>
-<room>EMC IV</room>
-<blurb><participant>Matt Atkins</participant> A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work. </blurb></event>
-<day>SUNDAY, May 1</day>
 <time>12 PM</time>
 <event><title>Better Filesystems with Btrfs</title>
 <topic>Tech</topic>
@@ -1229,12 +1247,6 @@
 <topic>Tech</topic>
 <room>EMC IV</room>
 <blurb><participant>Krunal Desai</participant> Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>4 PM</time>
-<event><title>The Traveling Circus: Intro to Coding Workshop</title>
-<topic>Tech</topic>
-<room>EMC IV</room>
-<blurb><participant>Chioke Mose-Telesford, Aaron Wolff, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own! </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>Influence of Anime in Media</title>
@@ -1313,12 +1325,18 @@
 <topic>DIY</topic>
 <room>FOOD</room>
 <blurb><participant>Jonathan Ivar Weyhrauch, Mikhail Shikhmanov</participant> Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean. </blurb></event>
+<day>NoDay, April 1</day>
+<time>4 PM</time>
+<event><title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant></participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. <duration>42 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
-<time>5 PM</time>
+<time>4 PM</time>
 <event><title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
 <topic>DIY, Tech</topic>
 <room>Hackerspace (317)</room>
-<blurb><participant>Jason Kridner, Christine Kridner</participant> Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace! </blurb></event>
+<blurb><participant>Jason Kridner, Christine Kridner</participant> Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace! <duration>42 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Demo Build of the Single-Chip Space Invader Synth</title>
@@ -1409,7 +1427,7 @@
 <topic>Literature</topic>
 <room>Hamlin</room>
 <blurb><participant>Scott Favre, Clif Flynt, Janice Leach, Jim Leach</participant> "Can you read this and tell me what you think?" is a question to test any relationship.  We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
+<day>FRIDAY, APRIL 29</day>
 <time>6 PM</time>
 <event><title>Social media for writers</title>
 <topic>Literature</topic>
@@ -1450,7 +1468,7 @@
 <event><title>Penguicon 2017 Planning Meeting</title>
 <topic>Penguicon</topic>
 <room>Hamlin</room>
-<blurb><participant></participant> Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us! </blurb></event>
+<blurb><participant>Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie, Winningham</participant> Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Emulators and Emulation: Emulating a trip through Craig's childhood; one machine at a time</title>
@@ -1860,23 +1878,11 @@
 <room>Outside</room>
 <blurb><participant>Bob Trembley</participant> Join Bob Trembley to observe what the late spring night sky has to offer! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>9 PM</time>
-<event><title>Ramses Alcaide Talk</title>
-<topic>Science</topic>
-<room>Outside</room>
-<blurb><participant>Ramses Alcaide</participant> TBA <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Solar Observing</title>
 <topic>Science</topic>
 <room>Outside</room>
 <blurb><participant>Bob Trembley</participant> Join Bob Trembley to observe the closest star, the Sun! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>12 PM</time>
-<event><title>Walk the Solar System</title>
-<topic>Science</topic>
-<room>Outside</room>
-<blurb><participant></participant> Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
 <event><title>RPG: Roleplay Podcast Game</title>
@@ -2015,12 +2021,6 @@
 <topic>Science</topic>
 <room>Windover</room>
 <blurb><participant>Bob Trembley</participant> Kerbal Space Program (KSP) has taken computer gaming and brought it crashing into the realm of a true space simulator. In KSP, you build rockets, launch them, get them into space, do SCIENCE! there, build space stations and moon bases... do SCIENCE! there, and travel to other worlds... and do more SCIENCE!  Kerbal Space Program is like being a kid in a candy store the size of the solar system! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>Kerbal Space Program LAB</title>
-<topic>Science</topic>
-<room>Windover</room>
-<blurb><participant>Bob Trembley</participant> Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>12 PM</time>
 <event><title>BSD Operating Systems in 2016</title>

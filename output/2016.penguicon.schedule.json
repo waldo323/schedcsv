@@ -47,14 +47,14 @@
         "end_date": "4/29/2016",
         "title": "I know Kung Fu",
         "track": "Action Adventure",
-        "start_time": "18:00",
+        "start_time": "16:00",
         "presenters": [
             "Mike SanDiego"
         ],
         "location": "Algonquin A",
         "minutes": 110,
         "start_date": "4/29/2016",
-        "end_time": "19:50"
+        "end_time": "17:50"
     },
     {
         "book_description": "Have you always wanted to do partner dancing, but find keeping yourself within a set pattern constraining? Blues dance is an American idiom of partner dance that is freeform with limitless possibilities for creativity, including throwing out the partner bit and going solo. While blues dance gave rise to hip hop dancing, it also survives in modern culture as the awkward high school slow dance. Except real blues dance has more, well, pizzazz and a lot less awkwardness. No need for special shoes or a partner, comes as you are and we\u2019ll help you learn to groove.",
@@ -281,7 +281,7 @@
             "Mark Bernstein",
             "Tom Smith"
         ],
-        "location": "Algonquin A",
+        "location": "Algonquin D",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "20:50"
@@ -321,7 +321,7 @@
         "track": "After Dark",
         "start_time": "21:00",
         "presenters": [
-            "Jen Schwartz"
+            "Nicole Rohr"
         ],
         "location": "EMC I",
         "minutes": 50,
@@ -352,7 +352,7 @@
         "track": "After Dark",
         "start_time": "22:30",
         "presenters": [
-            "Nicole Rohr"
+            "George Allen"
         ],
         "location": "Charlevoix B",
         "minutes": 110,
@@ -366,7 +366,7 @@
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
-            "George Allen"
+            "Nicole Rohr"
         ],
         "location": "Baldwin",
         "minutes": 50,
@@ -380,7 +380,7 @@
         "track": "After Dark",
         "start_time": "21:00",
         "presenters": [
-            "Nicole Rohr"
+            "kernelbrandon"
         ],
         "location": "Charlevoix B",
         "minutes": 90,
@@ -408,7 +408,8 @@
         "track": "After Dark",
         "start_time": "23:00",
         "presenters": [
-            "kernelbrandon"
+            "Shannon Marshall",
+            "Maggie Maiville"
         ],
         "location": "Algonquin A",
         "minutes": 50,
@@ -422,8 +423,9 @@
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
-            "Shannon Marshall",
-            "Maggie Maiville"
+            "Jen Schwartz",
+            "Matt Sweet",
+            "Max Issac"
         ],
         "location": "Charlevoix B",
         "minutes": 50,
@@ -437,9 +439,7 @@
         "track": "After Dark",
         "start_time": "19:00",
         "presenters": [
-            "Jen Schwartz",
-            "Matt Sweet",
-            "Max Issac"
+            "RainbowRavenX"
         ],
         "location": "EMC IV",
         "minutes": 50,
@@ -453,7 +453,7 @@
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
-            "RainbowRavenX"
+            "Jen Schwartz"
         ],
         "location": "Charlevoix C",
         "minutes": 50,
@@ -1143,15 +1143,15 @@
         "end_date": "4/29/2016",
         "title": "BeagleBone Build-A-Bot hosted by BeagleBoard.org",
         "track": "DIY, Tech",
-        "start_time": "17:00",
+        "start_time": "16:20",
         "presenters": [
             "Jason Kridner",
             "Christine Kridner"
         ],
         "location": "Hackerspace (317)",
-        "minutes": 50,
+        "minutes": 42,
         "start_date": "4/29/2016",
-        "end_time": "17:50"
+        "end_time": "16:42"
     },
     {
         "book_description": "The i3Detroit Makerspace has started the design process to build what is likely the first Makerspace-based CubeSat-sized satellite. We will discuss its development so far, design considerations and steps going forward.",
@@ -2778,7 +2778,7 @@
             "Christopher Purrett",
             "Janice Leach"
         ],
-        "location": "Charlevoix A",
+        "location": "Charlevoix B",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2836,7 +2836,7 @@
     },
     {
         "book_description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
-        "end_date": "4/30/2016",
+        "end_date": "4/29/2016",
         "title": "Social media for writers",
         "track": "Literature",
         "start_time": "18:00",
@@ -2849,7 +2849,7 @@
         ],
         "location": "Hamlin",
         "minutes": 50,
-        "start_date": "4/30/2016",
+        "start_date": "4/29/2016",
         "end_time": "18:50"
     },
     {
@@ -2982,7 +2982,7 @@
             "Christian Klaver",
             "Sal Palland"
         ],
-        "location": "Charlevoix A",
+        "location": "Charlevoix C",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "10:50"
@@ -3677,7 +3677,16 @@
         "track": "Penguicon",
         "start_time": "11:00",
         "presenters": [
-            ""
+            "Scott Kennedy",
+            "Daniel Dugan",
+            "Nuri Gocay",
+            "Cylithria Dubois",
+            "Amanda Long-Adams",
+            "Amanda Robinson",
+            "Miranda Webster",
+            "Jessica Roland",
+            "Julie",
+            "Winningham"
         ],
         "location": "Hamlin",
         "minutes": 50,
@@ -3833,17 +3842,17 @@
     },
     {
         "book_description": "Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.",
-        "end_date": "4/29/2016",
+        "end_date": "",
         "title": "Kerbal Space Program LAB",
         "track": "Science",
-        "start_time": "19:00",
+        "start_time": "16:20",
         "presenters": [
             "Bob Trembley"
         ],
-        "location": "Windover",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     },
     {
         "book_description": "Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics. ",
@@ -3882,7 +3891,7 @@
         "presenters": [
             "Ramses Alcaide"
         ],
-        "location": "Outside",
+        "location": "Charlevoix B",
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "22:50"
@@ -3903,18 +3912,18 @@
     },
     {
         "book_description": "ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists, gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning.",
-        "end_date": "4/29/2016",
+        "end_date": "",
         "title": "Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future",
         "track": "Science",
-        "start_time": "20:00",
+        "start_time": "16:20",
         "presenters": [
             "Jonathan Ivar Weyhrauch",
             "Mikhail Shikhmanov"
         ],
-        "location": "EMC I",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "20:50"
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     },
     {
         "book_description": "Join Bob Trembley to observe the closest star, the Sun!",
@@ -3939,7 +3948,7 @@
         "presenters": [
             ""
         ],
-        "location": "Outside",
+        "location": "",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "12:50"
@@ -4025,7 +4034,7 @@
         "presenters": [
             "Matt Atkins"
         ],
-        "location": "EMC IV",
+        "location": "Algonquin D",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
@@ -4118,17 +4127,17 @@
     },
     {
         "book_description": "Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. ",
-        "end_date": "4/30/2016",
+        "end_date": "",
         "title": "Containers, Pivotal activity - build an environment",
         "track": "Tech",
-        "start_time": "14:00",
+        "start_time": "16:20",
         "presenters": [
             "Gibson Nichols"
         ],
-        "location": "Algonquin B/C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     },
     {
         "book_description": "Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.",
@@ -4764,14 +4773,14 @@
         "end_date": "4/30/2016",
         "title": "Rapid Prototyping on the Android with Tcl/Tk",
         "track": "Tech",
-        "start_time": "11:00",
+        "start_time": "10:00",
         "presenters": [
             "Clif Flynt"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "11:50"
+        "end_time": "10:50"
     },
     {
         "book_description": "Ruth Suehle and Tom Callaway will talk about the $35 mini-computer, how it works, and give lots of ideas and inspirations on what you can do with it. They are the co-authors of the O'Reilly book \"Raspberry Pi Hacks\", and generally do all sorts of things with the credit-card sized computer that are fun and warranty voiding.",
@@ -4865,7 +4874,7 @@
         "end_date": "4/30/2016",
         "title": "setup and run your own personal assistant",
         "track": "Tech",
-        "start_time": "16:00",
+        "start_time": "14:00",
         "presenters": [
             "Jason Mars",
             "Lingjia Tang"
@@ -4873,7 +4882,7 @@
         "location": "Charlevoix A",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "16:50"
+        "end_time": "14:50"
     },
     {
         "book_description": "Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping. ",
@@ -5055,16 +5064,16 @@
         "end_date": "4/30/2016",
         "title": "The Traveling Circus: Intro to Coding Workshop",
         "track": "Tech",
-        "start_time": "16:00",
+        "start_time": "14:00",
         "presenters": [
             "Chioke Mose-Telesford",
             "Aaron Wolff",
             "Aisha Blake"
         ],
-        "location": "EMC IV",
-        "minutes": 50,
+        "location": "Computer Lab (EMC III)",
+        "minutes": 110,
         "start_date": "4/30/2016",
-        "end_time": "16:50"
+        "end_time": "15:50"
     },
     {
         "book_description": "ZFS, the Zettabyte File System, is one of the most full-featured filesystems available today and gives almost unlimited storage flexibility. Originally created by Sun Microsystems, the independent entity OpenZFS now develops ZFS as deployed in illumos, Linux, and FreeBSD. This talk takes you through ZFS' features, including: data self-healing, deduplication and compression, clones and snapshots, copy-on-write, boot environments, replication, and more. Once you use ZFS, you'll never understand how you lived without it.",
@@ -5107,21 +5116,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
-    },
-    {
-        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \u201cThe Traveling Circus,\u201d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!",
-        "end_date": "5/1/2016",
-        "title": "Traveling Circus Javascript",
-        "track": "Tech",
-        "start_time": "14:00",
-        "presenters": [
-            "Chioke Mose-Telesford",
-            "Kim Driscoll"
-        ],
-        "location": "Computer Lab (EMC III)",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "15:50"
     },
     {
         "book_description": "Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there!",
@@ -5178,5 +5172,19 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "13:50"
+    },
+    {
+        "book_description": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
+        "end_date": "",
+        "title": "Dangeous Things",
+        "track": "Tech, Life, DIY",
+        "start_time": "16:20",
+        "presenters": [
+            ""
+        ],
+        "location": "HackerSpace (317)",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     }
 ]

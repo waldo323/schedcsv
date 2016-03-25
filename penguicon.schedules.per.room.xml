@@ -51,6 +51,21 @@
 <title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
 <topic>Food</topic>
 <time>2 PM</time></event><event>
+<day>NoDay, April 1</day>
+<title>Kerbal Space Program LAB</title>
+<topic>Science</topic>
+<time>4 PM</time></event><event>
+<title>Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future</title>
+<topic>Science</topic>
+<time>4 PM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
+<title>Walk the Solar System</title>
+<topic>Science</topic>
+<time>12 PM</time></event><event>
+<day>NoDay, April 1</day>
+<title>Containers, Pivotal activity - build an environment</title>
+<topic>Tech</topic>
+<time>4 PM</time></event><event>
 <room>321</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Artemis</title>
@@ -68,7 +83,7 @@
 <day>FRIDAY, APRIL 29</day>
 <title>I know Kung Fu</title>
 <topic>Action Adventure</topic>
-<time>6 PM</time></event><event>
+<time>4 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>Introduction to Blues Dancing</title>
 <topic>Action Adventure</topic>
@@ -95,11 +110,6 @@
 <title>Impact Play for Beginners</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<day>SATURDAY, APRIL 30</day>
-<title>Literary Filk</title>
-<topic>After Dark</topic>
-<time>8 PM</time></event><event>
-<day>FRIDAY, APRIL 29</day>
 <title>S&amp;M AMA</title>
 <topic>After Dark</topic>
 <time>11 PM</time></event><event>
@@ -164,9 +174,6 @@
 <title>Business class networking on a home budget</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<title>Containers, Pivotal activity - build an environment</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>Free/Open Democracy</title>
 <topic>Tech</topic>
@@ -185,6 +192,10 @@
 <topic>Tech, Life</topic>
 <time>1 PM</time></event><event>
 <room>Algonquin D</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Literary Filk</title>
+<topic>After Dark</topic>
+<time>8 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>Crowdfunding careers</title>
 <topic>Life</topic>
@@ -211,6 +222,11 @@
 <title>Creative Destruction</title>
 <topic>Science</topic>
 <time>7 PM</time></event><event>
+<day>SUNDAY, May 1</day>
+<title>Being scene - Lighting for small presentations and events</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
 <title>Internet security for the lay geek</title>
 <topic>Tech</topic>
 <time>5 PM</time></event><event>
@@ -300,14 +316,6 @@
 <title>Erotica in Speculative Fiction</title>
 <topic>Literature</topic>
 <time>9 PM</time></event><event>
-<title>Pupal Writers Panel</title>
-<topic>Literature</topic>
-<time>2 PM</time></event><event>
-<day>SUNDAY, May 1</day>
-<title>Writing Risks</title>
-<topic>Literature</topic>
-<time>10 AM</time></event><event>
-<day>SATURDAY, APRIL 30</day>
 <title>Costume Contest</title>
 <topic>Penguicon</topic>
 <time>5 PM</time></event><event>
@@ -337,10 +345,10 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Rapid Prototyping on the Android with Tcl/Tk</title>
 <topic>Tech</topic>
-<time>11 AM</time></event><event>
+<time>10 AM</time></event><event>
 <title>setup and run your own personal assistant</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
+<time>2 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>Software Patents</title>
 <topic>Tech</topic>
@@ -380,6 +388,9 @@
 <topic>Literature</topic>
 <time>5 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
+<title>Pupal Writers Panel</title>
+<topic>Literature</topic>
+<time>2 PM</time></event><event>
 <title>B.O.F. Star Wars</title>
 <topic>Media</topic>
 <time>5 PM</time></event><event>
@@ -392,6 +403,9 @@
 <title>Costume Contest Muster</title>
 <topic>Penguicon</topic>
 <time>4 PM</time></event><event>
+<title>Ramses Alcaide Talk</title>
+<topic>Science</topic>
+<time>9 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>A look at LibreOffice Base</title>
 <topic>Tech</topic>
@@ -449,6 +463,11 @@
 <title>Writing Fast and Slow</title>
 <topic>Literature</topic>
 <time>4 PM</time></event><event>
+<day>SUNDAY, May 1</day>
+<title>Writing Risks</title>
+<topic>Literature</topic>
+<time>10 AM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
 <title>Finding the Right Social Media</title>
 <topic>Media</topic>
 <time>1 PM</time></event><event>
@@ -523,8 +542,7 @@
 <title>Red Hat Ethical Hacking Competition</title>
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
-<day>SUNDAY, May 1</day>
-<title>Traveling Circus Javascript</title>
+<title>The Traveling Circus: Intro to Coding Workshop</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
 <room>Consuite</room>
@@ -616,9 +634,6 @@
 <time>10 AM</time></event><event>
 <day>FRIDAY, APRIL 29</day>
 <title>Real-world Pandemic and deliberate extinctions: ending polio and Guinea worm</title>
-<topic>Science</topic>
-<time>8 PM</time></event><event>
-<title>Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future</title>
 <topic>Science</topic>
 <time>8 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
@@ -742,9 +757,6 @@
 <title>Basic Design Criteria for 3D-Printed Firearms</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<title>Being scene - Lighting for small presentations and events</title>
-<topic>Tech</topic>
-<time>1 PM</time></event><event>
 <title>Better Filesystems with Btrfs</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
@@ -761,9 +773,6 @@
 <time>11 AM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>The Tech behind Asteroid Mining</title>
-<topic>Tech</topic>
-<time>4 PM</time></event><event>
-<title>The Traveling Circus: Intro to Coding Workshop</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
 <room>EMC V</room>
@@ -816,11 +825,16 @@
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
 <time>8 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>NoDay, April 1</day>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
+<time>4 PM</time></event><event>
 <room>Hackerspace (317)</room>
 <day>FRIDAY, APRIL 29</day>
 <title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
 <topic>DIY, Tech</topic>
-<time>5 PM</time></event><event>
+<time>4 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>Demo Build of the Single-Chip Space Invader Synth</title>
 <topic>DIY, Tech</topic>
@@ -880,10 +894,10 @@
 <title>Editing for your /Spouse|Partner|BFF|Pet/i</title>
 <topic>Literature</topic>
 <time>7 PM</time></event><event>
-<day>SATURDAY, APRIL 30</day>
 <title>Social media for writers</title>
 <topic>Literature</topic>
 <time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
 <title>What Have You Read Lately?</title>
 <topic>Literature</topic>
 <time>11 AM</time></event><event>
@@ -1145,13 +1159,7 @@
 <title>Night Sky Observing</title>
 <topic>Science</topic>
 <time>9 PM</time></event><event>
-<title>Ramses Alcaide Talk</title>
-<topic>Science</topic>
-<time>9 PM</time></event><event>
 <title>Solar Observing</title>
-<topic>Science</topic>
-<time>12 PM</time></event><event>
-<title>Walk the Solar System</title>
 <topic>Science</topic>
 <time>12 PM</time></event><event>
 <room>Podcast Suite</room>
@@ -1245,9 +1253,6 @@
 <time>10 AM</time></event><event>
 <day>FRIDAY, APRIL 29</day>
 <title>Kerbal Space Program</title>
-<topic>Science</topic>
-<time>7 PM</time></event><event>
-<title>Kerbal Space Program LAB</title>
 <topic>Science</topic>
 <time>7 PM</time></event><event>
 <day>SUNDAY, May 1</day>

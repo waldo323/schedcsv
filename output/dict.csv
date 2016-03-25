@@ -139,10 +139,10 @@ minutes,50
 allday,FALSE
 event_type,Action Adventure
 All Day Event,
-event_end,19:50
+event_end,17:50
 event_type_list,['Action Adventure']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,5 PM
 Location,Algonquin A
 duration,1 hour and 50 minutes
 description,""" I know Kung Fu."" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk."
@@ -152,14 +152,14 @@ bookdescrip,""" I know Kung Fu."" Sound familiar? Thanks to movies like the Matr
 Track,Action Adventure
 startday,4/29/2016
 Title,I know Kung Fu
-Start Time,18:00
-event_start,18:00
-starttimeampm,6 PM
-End Time,19:50
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,17:50
 tracknosp,['ActionAdventure']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '18:00', '4/29/2016', '19:50', 'Algonquin A', 'Action Adventure', 'I know Kung Fu', 'Mike SanDiego', '"" I know Kung Fu."" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.', '01hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '4/29/2016', '17:50', 'Algonquin A', 'Action Adventure', 'I know Kung Fu', 'Mike SanDiego', '"" I know Kung Fu."" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.', '01hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Mike SanDiego
 avneeds,none
@@ -168,7 +168,7 @@ hours,1
 totalminutes,110
 speakernosplist,['MikeSanDiego']
 caldescrip,"' I know Kung Fu.' Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk."
-endtime,19:50
+endtime,17:50
 AV Needs,
 name,I know Kung Fu
 Private,PUBLIC
@@ -178,7 +178,7 @@ Book Description,""" I know Kung Fu."" Sound familiar? Thanks to movies like the
 Presenters,Mike SanDiego
 csvsafedescrip,' I know Kung Fu.' Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda- this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out- come and learn some basics of this ancient art form that is thousands of years old- and get a taste of what real Kung fu is like!  This workshop will be active- so dress comfortably! Workout pants and sneakers would be ideal- dress clothes- costumes- or restrictive clothing should be avoided. For safety reasons- this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.
 speakernosp,MikeSanDiego
-starttime,18:00
+starttime,16:00
 roomnosp,AlgonquinA
 Start Date,4/29/2016
 minutes,50
@@ -881,7 +881,7 @@ event_end,20:50
 event_type_list,['After Dark']
 private,PUBLIC
 endtimeampm,8 PM
-Location,Algonquin A
+Location,Algonquin D
 duration,50 minutes
 description,"Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books."
 index,19
@@ -897,7 +897,7 @@ End Time,20:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '20:00', '4/30/2016', '20:50', 'Algonquin A', 'After Dark', 'Literary Filk', 'Clif Flynt, Mark Bernstein, Tom Smith', 'Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '20:00', '4/30/2016', '20:50', 'Algonquin D', 'After Dark', 'Literary Filk', 'Clif Flynt, Mark Bernstein, Tom Smith', 'Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Clif Flynt, Mark Bernstein, Tom Smith"
 avneeds,none
@@ -911,13 +911,13 @@ AV Needs,
 name,Literary Filk
 Private,PUBLIC
 bookname,Literary Filk
-venue,Algonquin A
+venue,Algonquin D
 Book Description,"Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books."
 Presenters,"Clif Flynt, Mark Bernstein, Tom Smith"
 csvsafedescrip,Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction- and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.
 speakernosp,"ClifFlynt,MarkBernstein,TomSmith"
 starttime,20:00
-roomnosp,AlgonquinA
+roomnosp,AlgonquinD
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -1023,7 +1023,7 @@ Location,EMC I
 duration,50 minutes
 description,Polyamory speed dating will help polamorous people of all types get to know each other!
 index,22
-speakers,Jen Schwartz
+speakers,Nicole Rohr
 bookdescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
 Track,After Dark
 startday,4/30/2016
@@ -1035,14 +1035,14 @@ End Time,21:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'EMC I', 'After Dark', 'Poly Speed Dating', 'Jen Schwartz', 'Polyamory speed dating will help polamorous people of all types get to know each other!', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'EMC I', 'After Dark', 'Poly Speed Dating', 'Nicole Rohr', 'Polyamory speed dating will help polamorous people of all types get to know each other!', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,Jen Schwartz
+calspeakers,Nicole Rohr
 avneeds,none
-speakerlist,['Jen Schwartz']
+speakerlist,['Nicole Rohr']
 hours,0
 totalminutes,50
-speakernosplist,['JenSchwartz']
+speakernosplist,['NicoleRohr']
 caldescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
 endtime,21:50
 AV Needs,
@@ -1051,9 +1051,9 @@ Private,PUBLIC
 bookname,Poly Speed Dating
 venue,EMC I
 Book Description,Polyamory speed dating will help polamorous people of all types get to know each other!
-Presenters,Jen Schwartz
+Presenters,Nicole Rohr
 csvsafedescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
-speakernosp,JenSchwartz
+speakernosp,NicoleRohr
 starttime,21:00
 roomnosp,EMCI
 Start Date,4/30/2016
@@ -1115,7 +1115,7 @@ Location,Charlevoix B
 duration,1 hour and 50 minutes
 description,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
 index,24
-speakers,Nicole Rohr
+speakers,George Allen
 bookdescrip,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
 Track,After Dark
 startday,4/29/2016
@@ -1127,14 +1127,14 @@ End Time,23:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:30', '4/29/2016', '23:50', 'Charlevoix B', 'After Dark', 'Primal: Understanding Yourself & Your Role in the Kink Community.', 'Nicole Rohr', 'An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal.', '01hr:30min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '22:30', '4/29/2016', '23:50', 'Charlevoix B', 'After Dark', 'Primal: Understanding Yourself & Your Role in the Kink Community.', 'George Allen', 'An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal.', '01hr:30min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Nicole Rohr
+calspeakers,George Allen
 avneeds,none
-speakerlist,['Nicole Rohr']
+speakerlist,['George Allen']
 hours,1
 totalminutes,110
-speakernosplist,['NicoleRohr']
+speakernosplist,['GeorgeAllen']
 caldescrip,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
 endtime,23:50
 AV Needs,
@@ -1143,9 +1143,9 @@ Private,PUBLIC
 bookname,Primal: Understanding Yourself &amp; Your Role in the Kink Community.
 venue,Charlevoix B
 Book Description,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
-Presenters,Nicole Rohr
+Presenters,George Allen
 csvsafedescrip,An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals- share information about primal scenes- and learn techniques to manage the inner animal.
-speakernosp,NicoleRohr
+speakernosp,GeorgeAllen
 starttime,22:30
 roomnosp,CharlevoixB
 Start Date,4/29/2016
@@ -1161,7 +1161,7 @@ Location,Baldwin
 duration,50 minutes
 description,Come join us for a speed dating event especially for queer poly people!
 index,25
-speakers,George Allen
+speakers,Nicole Rohr
 bookdescrip,Come join us for a speed dating event especially for queer poly people!
 Track,After Dark
 startday,4/29/2016
@@ -1173,14 +1173,14 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Baldwin', 'After Dark', 'Queer Poly Speed Dating', 'George Allen', 'Come join us for a speed dating event especially for queer poly people!', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Baldwin', 'After Dark', 'Queer Poly Speed Dating', 'Nicole Rohr', 'Come join us for a speed dating event especially for queer poly people!', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,George Allen
+calspeakers,Nicole Rohr
 avneeds,none
-speakerlist,['George Allen']
+speakerlist,['Nicole Rohr']
 hours,0
 totalminutes,50
-speakernosplist,['GeorgeAllen']
+speakernosplist,['NicoleRohr']
 caldescrip,Come join us for a speed dating event especially for queer poly people!
 endtime,22:50
 AV Needs,
@@ -1189,9 +1189,9 @@ Private,PUBLIC
 bookname,Queer Poly Speed Dating
 venue,Baldwin
 Book Description,Come join us for a speed dating event especially for queer poly people!
-Presenters,George Allen
+Presenters,Nicole Rohr
 csvsafedescrip,Come join us for a speed dating event especially for queer poly people!
-speakernosp,GeorgeAllen
+speakernosp,NicoleRohr
 starttime,22:00
 roomnosp,Baldwin
 Start Date,4/29/2016
@@ -1207,7 +1207,7 @@ Location,Charlevoix B
 duration,1 hour and 30 minutes
 description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 index,26
-speakers,Nicole Rohr
+speakers,kernelbrandon
 bookdescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 Track,After Dark
 startday,4/29/2016
@@ -1219,14 +1219,14 @@ End Time,22:30
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'Nicole Rohr', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.', '01hr:30min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'kernelbrandon', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.', '01hr:30min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Nicole Rohr
+calspeakers,kernelbrandon
 avneeds,none
-speakerlist,['Nicole Rohr']
+speakerlist,['kernelbrandon']
 hours,1
 totalminutes,90
-speakernosplist,['NicoleRohr']
+speakernosplist,['kernelbrandon']
 caldescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 endtime,22:30
 AV Needs,
@@ -1235,9 +1235,9 @@ Private,PUBLIC
 bookname,Rope Basics: The Bedroom &amp; Beyond
 venue,Charlevoix B
 Book Description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
-Presenters,Nicole Rohr
+Presenters,kernelbrandon
 csvsafedescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
-speakernosp,NicoleRohr
+speakernosp,kernelbrandon
 starttime,21:00
 roomnosp,CharlevoixB
 Start Date,4/29/2016
@@ -1299,7 +1299,7 @@ Location,Algonquin A
 duration,50 minutes
 description,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
 index,28
-speakers,kernelbrandon
+speakers,"Shannon Marshall, Maggie Maiville"
 bookdescrip,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&amp;M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
 Track,After Dark
 startday,4/29/2016
@@ -1311,14 +1311,14 @@ End Time,23:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '23:00', '4/29/2016', '23:50', 'Algonquin A', 'After Dark', 'S&M AMA', 'kernelbrandon', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '23:00', '4/29/2016', '23:50', 'Algonquin A', 'After Dark', 'S&M AMA', 'Shannon Marshall, Maggie Maiville', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,kernelbrandon
+calspeakers,"Shannon Marshall, Maggie Maiville"
 avneeds,none
-speakerlist,['kernelbrandon']
+speakerlist,"['Shannon Marshall', 'Maggie Maiville']"
 hours,0
 totalminutes,50
-speakernosplist,['kernelbrandon']
+speakernosplist,"['ShannonMarshall', 'MaggieMaiville']"
 caldescrip,"Join Shannon and Maggie for an 'ask me anything.' You have been to 'Sex Toys w/ S&M', now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
 endtime,23:50
 AV Needs,
@@ -1327,9 +1327,9 @@ Private,PUBLIC
 bookname,S&amp;M AMA
 venue,Algonquin A
 Book Description,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S and M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
-Presenters,kernelbrandon
+Presenters,"Shannon Marshall, Maggie Maiville"
 csvsafedescrip,Join Shannon and Maggie for an 'ask me anything.' You have been to 'Sex Toys w/ S&M'- now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.
-speakernosp,kernelbrandon
+speakernosp,"ShannonMarshall,MaggieMaiville"
 starttime,23:00
 roomnosp,AlgonquinA
 Start Date,4/29/2016
@@ -1345,7 +1345,7 @@ Location,Charlevoix B
 duration,50 minutes
 description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
 index,29
-speakers,"Shannon Marshall, Maggie Maiville"
+speakers,"Jen Schwartz, Matt Sweet, Max Issac"
 bookdescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
 Track,After Dark
 startday,4/30/2016
@@ -1357,14 +1357,14 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', 'After Dark', 'Sexual Safety', 'Shannon Marshall, Maggie Maiville', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', 'After Dark', 'Sexual Safety', 'Jen Schwartz, Matt Sweet, Max Issac', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Shannon Marshall, Maggie Maiville"
+calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
 avneeds,none
-speakerlist,"['Shannon Marshall', 'Maggie Maiville']"
+speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac']"
 hours,0
 totalminutes,50
-speakernosplist,"['ShannonMarshall', 'MaggieMaiville']"
+speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
 caldescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
 endtime,22:50
 AV Needs,
@@ -1373,9 +1373,9 @@ Private,PUBLIC
 bookname,Sexual Safety
 venue,Charlevoix B
 Book Description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-Presenters,"Shannon Marshall, Maggie Maiville"
+Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
 csvsafedescrip,Come with all your questions about sex and safety- and we'll talk about how to keep safe and stay healthy!
-speakernosp,"ShannonMarshall,MaggieMaiville"
+speakernosp,"JenSchwartz,MattSweet,MaxIssac"
 starttime,22:00
 roomnosp,CharlevoixB
 Start Date,4/30/2016
@@ -1391,7 +1391,7 @@ Location,EMC IV
 duration,50 minutes
 description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 index,30
-speakers,"Jen Schwartz, Matt Sweet, Max Issac"
+speakers,RainbowRavenX
 bookdescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 Track,After Dark
 startday,4/30/2016
@@ -1403,14 +1403,14 @@ End Time,19:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway ?', 'Jen Schwartz, Matt Sweet, Max Issac', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway ?', 'RainbowRavenX', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
+calspeakers,RainbowRavenX
 avneeds,none
-speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac']"
+speakerlist,['RainbowRavenX']
 hours,0
 totalminutes,50
-speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
+speakernosplist,['RainbowRavenX']
 caldescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 endtime,19:50
 AV Needs,
@@ -1419,9 +1419,9 @@ Private,PUBLIC
 bookname,"So, What's This ""Age Play"" Thing Anyway ?"
 venue,EMC IV
 Book Description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
-Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
+Presenters,RainbowRavenX
 csvsafedescrip,With adult coloring books on the rise- and as it becomes more acceptable for adults to enjoy traditionally 'kid' things- light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight- there are a lot of misconceptions. In this panel and discussion- we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene- you know that one guy that does this- or you have no idea- come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).
-speakernosp,"JenSchwartz,MattSweet,MaxIssac"
+speakernosp,RainbowRavenX
 starttime,19:00
 roomnosp,EMCIV
 Start Date,4/30/2016
@@ -1437,7 +1437,7 @@ Location,Charlevoix C
 duration,50 minutes
 description,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
 index,31
-speakers,RainbowRavenX
+speakers,Jen Schwartz
 bookdescrip,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
 Track,After Dark
 startday,4/30/2016
@@ -1449,14 +1449,14 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'The Art of Negotiating', 'RainbowRavenX', 'From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'The Art of Negotiating', 'Jen Schwartz', 'From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,RainbowRavenX
+calspeakers,Jen Schwartz
 avneeds,none
-speakerlist,['RainbowRavenX']
+speakerlist,['Jen Schwartz']
 hours,0
 totalminutes,50
-speakernosplist,['RainbowRavenX']
+speakernosplist,['JenSchwartz']
 caldescrip,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
 endtime,22:50
 AV Needs,
@@ -1465,9 +1465,9 @@ Private,PUBLIC
 bookname,The Art of Negotiating
 venue,Charlevoix C
 Book Description,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
-Presenters,RainbowRavenX
+Presenters,Jen Schwartz
 csvsafedescrip,From negotiating a scene to negotiating a relationship- come learn some great lessons in the art of negotiation.
-speakernosp,RainbowRavenX
+speakernosp,JenSchwartz
 starttime,22:00
 roomnosp,CharlevoixC
 Start Date,4/30/2016
@@ -3591,12 +3591,12 @@ minutes,50
 allday,FALSE
 event_type,"DIY, Tech"
 All Day Event,
-event_end,17:50
+event_end,16:42
 event_type_list,"['DIY', 'Tech']"
 private,PUBLIC
-endtimeampm,5 PM
+endtimeampm,4 PM
 Location,Hackerspace (317)
-duration,50 minutes
+duration,42 minutes
 description,"Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace!"
 index,78
 speakers,"Jason Kridner, Christine Kridner"
@@ -3604,23 +3604,23 @@ bookdescrip,"Want to create your own phone controlled robot? BeagleBones, motors
 Track,"DIY, Tech"
 startday,4/29/2016
 Title,BeagleBone Build-A-Bot hosted by BeagleBoard.org
-Start Time,17:00
-event_start,17:00
-starttimeampm,5 PM
-End Time,17:50
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
 tracknosp,"['DIY', 'Tech']"
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '17:00', '4/29/2016', '17:50', 'Hackerspace (317)', 'DIY, Tech', 'BeagleBone Build-A-Bot hosted by BeagleBoard.org', 'Jason Kridner, Christine Kridner', 'Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace!', '', '', '', 'PUBLIC']"
+input,"['4/29/2016', '', '4/29/2016', '', 'Hackerspace (317)', 'DIY, Tech', 'BeagleBone Build-A-Bot hosted by BeagleBoard.org', 'Jason Kridner, Christine Kridner', 'Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace!', '', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,"Jason Kridner, Christine Kridner"
 avneeds,none
 speakerlist,"['Jason Kridner', 'Christine Kridner']"
 hours,0
-totalminutes,50
+totalminutes,42
 speakernosplist,"['JasonKridner', 'ChristineKridner']"
 caldescrip,"Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace!"
-endtime,17:50
+endtime,16:42
 AV Needs,
 name,BeagleBone Build-A-Bot hosted by BeagleBoard.org
 Private,PUBLIC
@@ -3630,10 +3630,10 @@ Book Description,"Want to create your own phone controlled robot? BeagleBones, m
 Presenters,"Jason Kridner, Christine Kridner"
 csvsafedescrip,Want to create your own phone controlled robot? BeagleBones- motors- wifi adapters- USB cameras- chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace!
 speakernosp,"JasonKridner,ChristineKridner"
-starttime,17:00
+starttime,16:20
 roomnosp,Hackerspace317
 Start Date,4/29/2016
-minutes,50
+minutes,42
 allday,FALSE
 event_type,"DIY, Tech"
 All Day Event,
@@ -8612,7 +8612,7 @@ event_end,14:50
 event_type_list,['Literature']
 private,PUBLIC
 endtimeampm,2 PM
-Location,Charlevoix A
+Location,Charlevoix B
 duration,50 minutes
 description,"You've written a bit, you've published a bit, now what?"
 index,187
@@ -8628,7 +8628,7 @@ End Time,14:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Charlevoix A', 'Literature', 'Pupal Writers Panel', 'Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach', ""You've written a bit, you've published a bit, now what?"", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Charlevoix B', 'Literature', 'Pupal Writers Panel', 'Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach', ""You've written a bit, you've published a bit, now what?"", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach"
 avneeds,none
@@ -8642,13 +8642,13 @@ AV Needs,
 name,Pupal Writers Panel
 Private,PUBLIC
 bookname,Pupal Writers Panel
-venue,Charlevoix A
+venue,Charlevoix B
 Book Description,"You've written a bit, you've published a bit, now what?"
 Presenters,"Jen Haeger, Christian Klaver, Ferrett Steinmetz, Ken MacGregor, Christopher Purrett, Janice Leach"
 csvsafedescrip,You've written a bit- you've published a bit- now what?
 speakernosp,"JenHaeger,ChristianKlaver,FerrettSteinmetz,KenMacGregor,ChristopherPurrett,JaniceLeach"
 starttime,14:00
-roomnosp,CharlevoixA
+roomnosp,CharlevoixB
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -8803,17 +8803,17 @@ index,191
 speakers,"David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo"
 bookdescrip,What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?
 Track,Literature
-startday,4/30/2016
+startday,4/29/2016
 Title,Social media for writers
 Start Time,18:00
 event_start,18:00
 starttimeampm,6 PM
 End Time,18:50
 tracknosp,['Literature']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '18:00', '4/30/2016', '18:50', 'Hamlin', 'Literature', 'Social media for writers', 'David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo', ""What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?"", '00hr:50min', '', '', 'PUBLIC']"
-End Date,4/30/2016
+endday,4/29/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '18:00', '4/29/2016', '18:50', 'Hamlin', 'Literature', 'Social media for writers', 'David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo', ""What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?"", '00hr:50min', '', '', 'PUBLIC']"
+End Date,4/29/2016
 calspeakers,"David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo"
 avneeds,none
 speakerlist,"['David Erik Nelson', 'Andrea Johnson', 'Michael W. Lucas', 'Christopher Purrett', 'Alex Kourvo']"
@@ -8833,7 +8833,7 @@ csvsafedescrip,What social media trends does a writer building their web footpri
 speakernosp,"DavidErikNelson,AndreaJohnson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo"
 starttime,18:00
 roomnosp,Hamlin
-Start Date,4/30/2016
+Start Date,4/29/2016
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -9164,7 +9164,7 @@ event_end,10:50
 event_type_list,['Literature']
 private,PUBLIC
 endtimeampm,10 AM
-Location,Charlevoix A
+Location,Charlevoix C
 duration,50 minutes
 description,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 index,199
@@ -9180,7 +9180,7 @@ End Time,10:50
 tracknosp,['Literature']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Charlevoix A', 'Literature', 'Writing Risks', 'Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland', ""Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."", '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Charlevoix C', 'Literature', 'Writing Risks', 'Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland', ""Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
 avneeds,none
@@ -9194,13 +9194,13 @@ AV Needs,
 name,Writing Risks
 Private,PUBLIC
 bookname,Writing Risks
-venue,Charlevoix A
+venue,Charlevoix C
 Book Description,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 Presenters,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
 csvsafedescrip,Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing- at the cost of originality and diversity. Are diverse characters- genre mashups- and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors- agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject.
 speakernosp,"AnnLeckie,TobiasBuckell,ChristianKlaver,SalPalland"
 starttime,10:00
-roomnosp,CharlevoixA
+roomnosp,CharlevoixC
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
@@ -11192,7 +11192,7 @@ Location,Hamlin
 duration,50 minutes
 description,"Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
 index,243
-speakers,
+speakers,"Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie, Winningham"
 bookdescrip,"Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
 Track,Penguicon
 startday,5/1/2016
@@ -11204,14 +11204,14 @@ End Time,11:50
 tracknosp,['Penguicon']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Hamlin', 'Penguicon', 'Penguicon 2017 Planning Meeting', '', 'Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!', '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Hamlin', 'Penguicon', 'Penguicon 2017 Planning Meeting', 'Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie\nWinningham', 'Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!', '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,
+calspeakers,"Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie,Winningham"
 avneeds,none
-speakerlist,['']
+speakerlist,"['Scott Kennedy', 'Daniel Dugan', 'Nuri Gocay', 'Cylithria Dubois', 'Amanda Long-Adams', 'Amanda Robinson', 'Miranda Webster', 'Jessica Roland', 'Julie', 'Winningham']"
 hours,0
 totalminutes,50
-speakernosplist,['']
+speakernosplist,"['ScottKennedy', 'DanielDugan', 'NuriGocay', 'CylithriaDubois', 'AmandaLong-Adams', 'AmandaRobinson', 'MirandaWebster', 'JessicaRoland', 'Julie', 'Winningham']"
 caldescrip,"Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
 endtime,11:50
 AV Needs,
@@ -11220,9 +11220,9 @@ Private,PUBLIC
 bookname,Penguicon 2017 Planning Meeting
 venue,Hamlin
 Book Description,"Making a successful Penguicon requires at least a year of organizing, planning, and partying. Do not skip the partying! Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us!"
-Presenters,
+Presenters,"Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie Winningham"
 csvsafedescrip,Making a successful Penguicon requires at least a year of organizing- planning- and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair- Cylithria DuBois- and her selected Con Committee. If you want to contribute to Penguicon next year- or you just want to see how we make it happen- join us!
-speakernosp,
+speakernosp,"ScottKennedy,DanielDugan,NuriGocay,CylithriaDubois,AmandaLong-Adams,AmandaRobinson,MirandaWebster,JessicaRoland,Julie,Winningham"
 starttime,11:00
 roomnosp,Hamlin
 Start Date,5/1/2016
@@ -11692,49 +11692,49 @@ minutes,50
 allday,FALSE
 event_type,Science
 All Day Event,
-event_end,19:50
+event_end,16:42
 event_type_list,['Science']
 private,PUBLIC
-endtimeampm,7 PM
-Location,Windover
-duration,50 minutes
+endtimeampm,4 PM
+Location,
+duration,42 minutes
 description,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 index,254
 speakers,Bob Trembley
 bookdescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Track,Science
-startday,4/29/2016
+startday,4/1/2016
 Title,Kerbal Space Program LAB
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
 tracknosp,['Science']
-endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Windover', 'Science', 'Kerbal Space Program LAB', 'Bob Trembley', 'Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.', '', '', '', 'PUBLIC']"
-End Date,4/29/2016
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '', '', '', '', 'Science', 'Kerbal Space Program LAB', 'Bob Trembley', 'Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.', '', '', '', 'PUBLIC']"
+End Date,
 calspeakers,Bob Trembley
 avneeds,none
 speakerlist,['Bob Trembley']
 hours,0
-totalminutes,50
+totalminutes,42
 speakernosplist,['BobTrembley']
 caldescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
-endtime,19:50
+endtime,16:42
 AV Needs,
 name,Kerbal Space Program LAB
 Private,PUBLIC
 bookname,Kerbal Space Program LAB
-venue,Windover
+venue,
 Book Description,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Presenters,Bob Trembley
 csvsafedescrip,Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself- and learn about its amazing potential as both a game and educational space simulator.
 speakernosp,BobTrembley
-starttime,19:00
-roomnosp,Windover
-Start Date,4/29/2016
-minutes,50
+starttime,16:20
+roomnosp,Hotel
+Start Date,
+minutes,42
 allday,FALSE
 event_type,Science
 All Day Event,
@@ -11835,7 +11835,7 @@ event_end,22:50
 event_type_list,['Science']
 private,PUBLIC
 endtimeampm,10 PM
-Location,Outside
+Location,Charlevoix B
 duration,1 hour and 50 minutes
 description,TBA
 index,257
@@ -11851,7 +11851,7 @@ End Time,22:50
 tracknosp,['Science']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '22:50', 'Outside', 'Science', 'Ramses Alcaide Talk', 'Ramses Alcaide', 'TBA', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '21:00', '4/30/2016', '22:50', 'Charlevoix B', 'Science', 'Ramses Alcaide Talk', 'Ramses Alcaide', 'TBA', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Ramses Alcaide
 avneeds,none
@@ -11865,13 +11865,13 @@ AV Needs,
 name,Ramses Alcaide Talk
 Private,PUBLIC
 bookname,Ramses Alcaide Talk
-venue,Outside
+venue,Charlevoix B
 Book Description,TBA
 Presenters,Ramses Alcaide
 csvsafedescrip,TBA
 speakernosp,RamsesAlcaide
 starttime,21:00
-roomnosp,Outside
+roomnosp,CharlevoixB
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -11923,49 +11923,49 @@ minutes,50
 allday,FALSE
 event_type,Science
 All Day Event,
-event_end,20:50
+event_end,16:42
 event_type_list,['Science']
 private,PUBLIC
-endtimeampm,8 PM
-Location,EMC I
-duration,50 minutes
+endtimeampm,4 PM
+Location,
+duration,42 minutes
 description,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
 index,259
 speakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 bookdescrip,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
 Track,Science
-startday,4/29/2016
+startday,4/1/2016
 Title,"Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future"
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
-End Time,20:50
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
 tracknosp,['Science']
-endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC I', 'Science', 'Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', 'ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning.', '00hr:50min', '', '', 'PUBLIC']"
-End Date,4/29/2016
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '', '', '', '', 'Science', 'Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', 'ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning.', '00hr:50min', '', '', 'PUBLIC']"
+End Date,
 calspeakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 avneeds,none
 speakerlist,"['Jonathan Ivar Weyhrauch', 'Mikhail Shikhmanov']"
 hours,0
-totalminutes,50
+totalminutes,42
 speakernosplist,"['JonathanIvarWeyhrauch', 'MikhailShikhmanov']"
 caldescrip,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists,  gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
-endtime,20:50
+endtime,16:42
 AV Needs,
 name,"Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future"
 Private,PUBLIC
 bookname,"Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future"
-venue,EMC I
+venue,
 Book Description,"ReRoot Pontiac, a newly founded non-profit located in Pontiac, MI would like to share its mission. We are a group of students, scientists, gardeners and entrepreneurs focused on developing interest in science, technology, engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning."
 Presenters,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 csvsafedescrip,ReRoot Pontiac- a newly founded non-profit located in Pontiac- MI would like to share its mission. We are a group of students- scientists-  gardeners and entrepreneurs focused on developing interest in science- technology- engineering and mathematics. To achieve this we are designing and building interactive spaces containing examples of sustainable energies and natural systems to promote experiential learning.
 speakernosp,"JonathanIvarWeyhrauch,MikhailShikhmanov"
-starttime,20:00
-roomnosp,EMCI
-Start Date,4/29/2016
-minutes,50
+starttime,16:20
+roomnosp,Hotel
+Start Date,
+minutes,42
 allday,FALSE
 event_type,Science
 All Day Event,
@@ -12019,7 +12019,7 @@ event_end,12:50
 event_type_list,['Science']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Outside
+Location,
 duration,50 minutes
 description,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
 index,261
@@ -12035,7 +12035,7 @@ End Time,12:50
 tracknosp,['Science']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', 'Outside', 'Science', 'Walk the Solar System', '', 'Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '', 'Science', 'Walk the Solar System', '', 'Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,
 avneeds,none
@@ -12049,13 +12049,13 @@ AV Needs,
 name,Walk the Solar System
 Private,PUBLIC
 bookname,Walk the Solar System
-venue,Outside
+venue,
 Book Description,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
 Presenters,
 csvsafedescrip,Stretched down the longest hall of the hotel- is a scale-model of the solar system. At the position of the Sun and orbits of the planets- you will find a plaque (with a QR code) with more information on that body.
 speakernosp,
 starttime,12:00
-roomnosp,Outside
+roomnosp,Hotel
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -12295,7 +12295,7 @@ event_end,13:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,1 PM
-Location,EMC IV
+Location,Algonquin D
 duration,50 minutes
 description,"A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."
 index,267
@@ -12311,7 +12311,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'EMC IV', 'Tech', 'Being scene - Lighting for small presentations and events', 'Matt Atkins', ""A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."", '00hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Algonquin D', 'Tech', 'Being scene - Lighting for small presentations and events', 'Matt Atkins', ""A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Matt Atkins
 avneeds,none
@@ -12325,13 +12325,13 @@ AV Needs,
 name,Being scene - Lighting for small presentations and events
 Private,PUBLIC
 bookname,Being scene - Lighting for small presentations and events
-venue,EMC IV
+venue,Algonquin D
 Book Description,"A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work."
 Presenters,Matt Atkins
 csvsafedescrip,A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512- Artnet- etc...)- have a quick brush with the mechanicals (placement and cabling for venues/locations- power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work.
 speakernosp,MattAtkins
 starttime,13:00
-roomnosp,EMCIV
+roomnosp,AlgonquinD
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
@@ -12613,49 +12613,49 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,14:50
+event_end,16:42
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,2 PM
-Location,Algonquin B/C
-duration,50 minutes
+endtimeampm,4 PM
+Location,
+duration,42 minutes
 description,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help.
 index,274
 speakers,Gibson Nichols
 bookdescrip,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help.
 Track,Tech
-startday,4/30/2016
+startday,4/1/2016
 Title,"Containers, Pivotal activity - build an environment"
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
 tracknosp,['Tech']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Algonquin B/C', 'Tech', 'Containers, Pivotal activity - build an environment', 'Gibson Nichols', ""Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. "", '', '', '', 'PUBLIC']"
-End Date,4/30/2016
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '', '', '', '', 'Tech', 'Containers, Pivotal activity - build an environment', 'Gibson Nichols', ""Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. "", '', '', '', 'PUBLIC']"
+End Date,
 calspeakers,Gibson Nichols
 avneeds,none
 speakerlist,['Gibson Nichols']
 hours,0
-totalminutes,50
+totalminutes,42
 speakernosplist,['GibsonNichols']
 caldescrip,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. 
-endtime,14:50
+endtime,16:42
 AV Needs,
 name,"Containers, Pivotal activity - build an environment"
 Private,PUBLIC
 bookname,"Containers, Pivotal activity - build an environment"
-venue,Algonquin B/C
+venue,
 Book Description,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. 
 Presenters,Gibson Nichols
 csvsafedescrip,Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. 
 speakernosp,GibsonNichols
-starttime,14:00
-roomnosp,AlgonquinBC
-Start Date,4/30/2016
-minutes,50
+starttime,16:20
+roomnosp,Hotel
+Start Date,
+minutes,42
 allday,FALSE
 event_type,Tech
 All Day Event,
@@ -14687,10 +14687,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,11:50
+event_end,10:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,11 AM
+endtimeampm,10 AM
 Location,Charlevoix A
 duration,50 minutes
 description,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
@@ -14700,14 +14700,14 @@ bookdescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean
 Track,Tech
 startday,4/30/2016
 Title,Rapid Prototyping on the Android with Tcl/Tk
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Charlevoix A', 'Tech', 'Rapid Prototyping on the Android with Tcl/Tk', 'Clif Flynt', ""Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code."", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix A', 'Tech', 'Rapid Prototyping on the Android with Tcl/Tk', 'Clif Flynt', ""Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Clif Flynt
 avneeds,none
@@ -14716,7 +14716,7 @@ hours,0
 totalminutes,50
 speakernosplist,['ClifFlynt']
 caldescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
-endtime,11:50
+endtime,10:50
 AV Needs,
 name,Rapid Prototyping on the Android with Tcl/Tk
 Private,PUBLIC
@@ -14726,7 +14726,7 @@ Book Description,Tcl/Tk applications run on the Android. The AndroWish SDK is a 
 Presenters,Clif Flynt
 csvsafedescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
 speakernosp,ClifFlynt
-starttime,11:00
+starttime,10:00
 roomnosp,CharlevoixA
 Start Date,4/30/2016
 minutes,50
@@ -15009,10 +15009,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,16:50
+event_end,14:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
+endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant."
@@ -15022,14 +15022,14 @@ bookdescrip,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands 
 Track,Tech
 startday,4/30/2016
 Title,setup and run your own personal assistant
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix A', 'Tech', 'setup and run your own personal assistant', 'Jason Mars, Lingjia Tang', ""Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Charlevoix A', 'Tech', 'setup and run your own personal assistant', 'Jason Mars, Lingjia Tang', ""Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Jason Mars, Lingjia Tang"
 avneeds,none
@@ -15038,7 +15038,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['JasonMars', 'LingjiaTang']"
 caldescrip,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "
-endtime,16:50
+endtime,14:50
 AV Needs,
 name,setup and run your own personal assistant
 Private,PUBLIC
@@ -15048,7 +15048,7 @@ Book Description,"Hack of Honor guests Jason Mars and Lingjia Tang will give a h
 Presenters,"Jason Mars, Lingjia Tang"
 csvsafedescrip,Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri- or Sirius- their open-source personal assistant. 
 speakernosp,"JasonMars,LingjiaTang"
-starttime,16:00
+starttime,14:00
 roomnosp,CharlevoixA
 Start Date,4/30/2016
 minutes,50
@@ -15607,12 +15607,12 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,16:50
+event_end,15:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
-Location,EMC IV
-duration,50 minutes
+endtimeampm,3 PM
+Location,Computer Lab (EMC III)
+duration,1 hour and 50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
 index,339
 speakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
@@ -15620,34 +15620,34 @@ bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbl
 Track,Tech
 startday,4/30/2016
 Title,The Traveling Circus: Intro to Coding Workshop
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,15:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'EMC IV', 'Tech', 'The Traveling Circus: Intro to Coding Workshop', 'Chioke Mose-Telesford, Aaron Wolff, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"", '01hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', 'The Traveling Circus: Intro to Coding Workshop', 'Chioke Mose-Telesford, Aaron Wolff, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"", '01hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
 avneeds,none
 speakerlist,"['Chioke Mose-Telesford', 'Aaron Wolff', 'Aisha Blake']"
-hours,0
-totalminutes,50
+hours,1
+totalminutes,110
 speakernosplist,"['ChiokeMose-Telesford', 'AaronWolff', 'AishaBlake']"
 caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-endtime,16:50
+endtime,15:50
 AV Needs,
 name,The Traveling Circus: Intro to Coding Workshop
 Private,PUBLIC
 bookname,The Traveling Circus: Intro to Coding Workshop
-venue,EMC IV
+venue,Computer Lab (EMC III)
 Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
 Presenters,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
 csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!
 speakernosp,"ChiokeMose-Telesford,AaronWolff,AishaBlake"
-starttime,16:00
-roomnosp,EMCIV
+starttime,14:00
+roomnosp,ComputerLabEMCIII
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -15791,52 +15791,6 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,15:50
-event_type_list,['Tech']
-private,PUBLIC
-endtimeampm,3 PM
-Location,Computer Lab (EMC III)
-duration,1 hour and 50 minutes
-description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-index,343
-speakers,"Chioke Mose-Telesford, Kim Driscoll"
-bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-Track,Tech
-startday,5/1/2016
-Title,Traveling Circus Javascript
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,15:50
-tracknosp,['Tech']
-endday,5/1/2016
-dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', 'Traveling Circus Javascript', 'Chioke Mose-Telesford, Kim Driscoll', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"", '01hr:50min', '', '', 'PUBLIC']"
-End Date,5/1/2016
-calspeakers,"Chioke Mose-Telesford, Kim Driscoll"
-avneeds,none
-speakerlist,"['Chioke Mose-Telesford', 'Kim Driscoll']"
-hours,1
-totalminutes,110
-speakernosplist,"['ChiokeMose-Telesford', 'KimDriscoll']"
-caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-endtime,15:50
-AV Needs,
-name,Traveling Circus Javascript
-Private,PUBLIC
-bookname,Traveling Circus Javascript
-venue,Computer Lab (EMC III)
-Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
-Presenters,"Chioke Mose-Telesford, Kim Driscoll"
-csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!
-speakernosp,"ChiokeMose-Telesford,KimDriscoll"
-starttime,14:00
-roomnosp,ComputerLabEMCIII
-Start Date,5/1/2016
-minutes,50
-allday,FALSE
-event_type,Tech
-All Day Event,
 event_end,22:50
 event_type_list,['Tech']
 private,PUBLIC
@@ -15844,7 +15798,7 @@ endtimeampm,10 PM
 Location,Restaurant
 duration,50 minutes
 description,Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there!
-index,344
+index,343
 speakers,Craig Maloney
 bookdescrip,Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there!
 Track,Tech
@@ -15890,7 +15844,7 @@ endtimeampm,2 PM
 Location,Charlevoix A
 duration,50 minutes
 description,"Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure."
-index,345
+index,344
 speakers,Ryan Kather
 bookdescrip,"Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure."
 Track,Tech
@@ -15936,7 +15890,7 @@ endtimeampm,7 PM
 Location,Charlevoix C
 duration,50 minutes
 description,"Convention Resource Event Management (CREM) is an open-source web app. It catches conflicts between rooms, times, and presenters. It is flexible enough to track the necessary data about everything from LN2 Ice Cream to board games, and prevent a loud concert from being on the other side of an airwall from a quiet panel discussion. Get involved, or just satisfy your curiosity about the languages and frameworks: Javascript with Angular, and Python with Flask."
-index,346
+index,345
 speakers,Matt Arnold
 bookdescrip,"Convention Resource Event Management (CREM) is an open-source web app. It catches conflicts between rooms, times, and presenters. It is flexible enough to track the necessary data about everything from LN2 Ice Cream to board games, and prevent a loud concert from being on the other side of an airwall from a quiet panel discussion. Get involved, or just satisfy your curiosity about the languages and frameworks: Javascript with Angular, and Python with Flask."
 Track,Tech
@@ -15982,7 +15936,7 @@ endtimeampm,1 PM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Featured Guest Christina York talks about science fiction in our everyday lives, and how it inspires us."
-index,347
+index,346
 speakers,Christina York
 bookdescrip,"Featured Guest Christina York talks about science fiction in our everyday lives, and how it inspires us."
 Track,"Tech, Life"
@@ -16018,3 +15972,49 @@ starttime,13:00
 roomnosp,AlgonquinBC
 Start Date,4/30/2016
 minutes,50
+allday,FALSE
+event_type,"Tech, Life, DIY"
+All Day Event,
+event_end,16:42
+event_type_list,"['Tech', 'Life', 'DIY']"
+private,DEFAULT
+endtimeampm,4 PM
+Location,HackerSpace (317)
+duration,42 minutes
+description,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
+index,347
+speakers,
+bookdescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
+Track,"Tech, Life, DIY"
+startday,4/1/2016
+Title,Dangeous Things
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
+tracknosp,"['Tech', 'Life', 'DIY']"
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '', '', '', 'HackerSpace (317)', 'Tech, Life, DIY', 'Dangeous Things', '', 'Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.', '', '', '', '']"
+End Date,
+calspeakers,
+avneeds,none
+speakerlist,['']
+hours,0
+totalminutes,42
+speakernosplist,['']
+caldescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
+endtime,16:42
+AV Needs,
+name,Dangeous Things
+Private,
+bookname,Dangeous Things
+venue,HackerSpace (317)
+Book Description,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
+Presenters,
+csvsafedescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
+speakernosp,
+starttime,16:20
+roomnosp,HackerSpace317
+Start Date,
+minutes,42

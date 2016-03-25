@@ -18,7 +18,7 @@
 <day>FRIDAY, APRIL 29</day>
 <title>I know Kung Fu</title>
 <topic>Action Adventure</topic>
-<time>6 PM</time></event><event>
+<time>4 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Introduction to Blues Dancing</title>
@@ -94,7 +94,7 @@
 <title>Impact Play for Beginners</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<room>Algonquin A</room>
+<room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Literary Filk</title>
 <topic>After Dark</topic>
@@ -393,7 +393,7 @@
 <day>FRIDAY, APRIL 29</day>
 <title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
 <topic>DIY, Tech</topic>
-<time>5 PM</time></event><event>
+<time>4 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Build Your Own Satellite!</title>
@@ -934,7 +934,7 @@
 <title>Poetry Starter Kit</title>
 <topic>Literature</topic>
 <time>9 PM</time></event><event>
-<room>Charlevoix A</room>
+<room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Pupal Writers Panel</title>
 <topic>Literature</topic>
@@ -955,7 +955,7 @@
 <topic>Literature</topic>
 <time>9 PM</time></event><event>
 <room>Hamlin</room>
-<day>SATURDAY, APRIL 30</day>
+<day>FRIDAY, APRIL 29</day>
 <title>Social media for writers</title>
 <topic>Literature</topic>
 <time>6 PM</time></event><event>
@@ -994,7 +994,7 @@
 <title>Writing Group 101</title>
 <topic>Literature</topic>
 <time>7 PM</time></event><event>
-<room>Charlevoix A</room>
+<room>Charlevoix C</room>
 <day>SUNDAY, May 1</day>
 <title>Writing Risks</title>
 <topic>Literature</topic>
@@ -1269,11 +1269,11 @@
 <title>Kerbal Space Program</title>
 <topic>Science</topic>
 <time>7 PM</time></event><event>
-<room>Windover</room>
-<day>FRIDAY, APRIL 29</day>
+<room></room>
+<day>NoDay, April 1</day>
 <title>Kerbal Space Program LAB</title>
 <topic>Science</topic>
-<time>7 PM</time></event><event>
+<time>4 PM</time></event><event>
 <room>EMC II</room>
 <day>SUNDAY, May 1</day>
 <title>Meta-Level Science</title>
@@ -1284,7 +1284,7 @@
 <title>Night Sky Observing</title>
 <topic>Science</topic>
 <time>9 PM</time></event><event>
-<room>Outside</room>
+<room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Ramses Alcaide Talk</title>
 <topic>Science</topic>
@@ -1294,17 +1294,17 @@
 <title>Real-world Pandemic and deliberate extinctions: ending polio and Guinea worm</title>
 <topic>Science</topic>
 <time>8 PM</time></event><event>
-<room>EMC I</room>
-<day>FRIDAY, APRIL 29</day>
+<room></room>
+<day>NoDay, April 1</day>
 <title>Reroot Pontiac: Developing Interest in Awesome, an Investment in our Future</title>
 <topic>Science</topic>
-<time>8 PM</time></event><event>
+<time>4 PM</time></event><event>
 <room>Outside</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Solar Observing</title>
 <topic>Science</topic>
 <time>12 PM</time></event><event>
-<room>Outside</room>
+<room></room>
 <day>SATURDAY, APRIL 30</day>
 <title>Walk the Solar System</title>
 <topic>Science</topic>
@@ -1334,7 +1334,7 @@
 <title>Basic Design Criteria for 3D-Printed Firearms</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<room>EMC IV</room>
+<room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
 <title>Being scene - Lighting for small presentations and events</title>
 <topic>Tech</topic>
@@ -1369,11 +1369,11 @@
 <title>Business class networking on a home budget</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<room>Algonquin B/C</room>
-<day>SATURDAY, APRIL 30</day>
+<room></room>
+<day>NoDay, April 1</day>
 <title>Containers, Pivotal activity - build an environment</title>
 <topic>Tech</topic>
-<time>2 PM</time></event><event>
+<time>4 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SUNDAY, May 1</day>
 <title>Continuous Delivery: Fast, painless software deployment</title>
@@ -1598,7 +1598,7 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Rapid Prototyping on the Android with Tcl/Tk</title>
 <topic>Tech</topic>
-<time>11 AM</time></event><event>
+<time>10 AM</time></event><event>
 <room>Windover</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Raspberry Pi Hacks</title>
@@ -1633,7 +1633,7 @@
 <day>SATURDAY, APRIL 30</day>
 <title>setup and run your own personal assistant</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
+<time>2 PM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>Simple Python Mobile Web App</title>
@@ -1694,11 +1694,11 @@
 <title>The Tech behind Asteroid Mining</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
-<room>EMC IV</room>
+<room>Computer Lab (EMC III)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>The Traveling Circus: Intro to Coding Workshop</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
+<time>2 PM</time></event><event>
 <room>Windover</room>
 <day>FRIDAY, APRIL 29</day>
 <title>The ZFS File System</title>
@@ -1712,11 +1712,6 @@
 <room>Portage Auditorium</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Tor: what is it and is it an onion?</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
-<room>Computer Lab (EMC III)</room>
-<day>SUNDAY, May 1</day>
-<title>Traveling Circus Javascript</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
 <room>Restaurant</room>
@@ -1738,4 +1733,9 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Bringing Sci-Fi Into The Everyday</title>
 <topic>Tech, Life</topic>
-<time>1 PM</time></event></events>
+<time>1 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>NoDay, April 1</day>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
+<time>4 PM</time></event></events>
