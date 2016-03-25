@@ -71,8 +71,8 @@
 <time>2 PM</time></event><event>
 <room></room>
 <day>NoDay, April 1</day>
-<title>Mechanics of Magic in Fantasy &amp; SF</title>
-<topic></topic>
+<title>Geeks With Guns</title>
+<topic>Penguicon</topic>
 <time>4 PM</time></event><event>
 <room></room>
 <day>NoDay, April 1</day>
@@ -93,7 +93,9 @@
 <day>NoDay, April 1</day>
 <title>Build an Environment with Containers and Pivotal</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
+<time>4 PM</time></event>
+<day>All Weekend</day>
+<event>
 <room>321</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Artemis</title>
@@ -210,11 +212,6 @@
 <topic>Penguicon</topic>
 <time>9 PM</time></event><event>
 <room>Algonquin B/C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Geeks With Guns</title>
-<topic>Penguicon</topic>
-<time>9 PM</time></event><event>
-<room>Algonquin B/C</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Opening Ceremonies</title>
 <topic>Penguicon</topic>
@@ -284,6 +281,11 @@
 <title>Finding an Agent</title>
 <topic>Literature</topic>
 <time>4 PM</time></event><event>
+<room>Algonquin D</room>
+<day>SUNDAY, May 1</day>
+<title>Mechanics of Magic in Fantasy &amp; SF</title>
+<topic>Literature</topic>
+<time>2 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
 <title>Self Editing Tools</title>
@@ -1108,9 +1110,7 @@
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
-<time>8 PM</time></event>
-<day>All Weekend</day>
-<event>
+<time>8 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <title>Dangeous Things</title>
 <topic>Tech, Life, DIY</topic>
