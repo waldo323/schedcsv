@@ -1,23 +1,22 @@
 #!/usr/bin/env python
-import csv, json, sys, re, os
-from operator import itemgetter#, attrgetter
-from jinja2 import Environment, FileSystemLoader, Template
-#from git import *
+import os
+import csv
+import json
+import sys
+import re
+import logging
+from operator import itemgetter
 
-#from bs4 import BeautifulSoup  
-## I had hoped to use BeautifulSoup to help clean up the output
+logging.basicConfig(level=logging.DEBUG)
 
-### the purpose of this script is to parse a csv file from a sched.org event,
-### output the relevent information into useful output files that can be use for a convention.
+# the purpose of this script is to parse a csv file from a sched.org event,
+# output the relevent information into useful output files that can be use for
+# a convention.
 
-"""TrifoldSched is a class to be used to help organize the schedule for use
-in the trifold schedule"""
-class TrifoldSched:
-    pass
 # is the file being listed in the command line?
 if len(sys.argv) > 1:
     filename = sys.argv[1]
-    
+
 else:
     # if not then use penguicon.csv as a default
     filename = "sched.csv"
@@ -59,15 +58,7 @@ schedule_by_room_allweekend_template = """<event>
 <topic>%(event_type)s</topic>
 <time>%(starttimeampm)s</time></event>"""
 
-extrainfo = """
-<startday>%(startday)s</startday>
-<starttime>%(starttimeampm)s</starttime>
-<endday>%(endday)s</endday>
-<endtime>%(endtimeampm)s</<endtime>
-<hours>%(hours)s</hours>
-<minutes>%(minutes)s</minutes>
-"""
-### configure these variables each year ###
+# configure these variables each year
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 noday_header = "NoDay, April 1"
 friday_header = "FRIDAY, APRIL 29"
@@ -79,7 +70,6 @@ sunday_date = "5/1/2016"
 conyear = "2016"
 constart = "2016-04-29 14:00:00"
 
-###
 calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header = """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
 schedule_csv_template = """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
@@ -93,8 +83,8 @@ def replace_all(text, dic):
         text = text.replace(i, j)
     return text
 
-### from http://love-python.blogspot.com/2008/02/read-csv-file-in-python.html then edited 
-#read in the csv file and 
+# from http://love-python.blogspot.com/2008/02/read-csv-file-in-python.html then edited 
+# read in the csv file and
 class readInCSV:
     def __init__(self,fileName):
         self.fileName = fileName
@@ -108,16 +98,17 @@ class readInCSV:
             self.headerdict[header] = index
         self.schedule.pop(0)   # remove header line from data
 
+
 def calcduration(startday, starttime, endday, endtime, minutes):
-    #print "in calc duration start day ", startday
-    #print "in calc duration start time", starttime
-    #print "in cacl duration end day ", endday
-    #print "in calc duration end time ", endtime
-    #print "in calc duration end minutes", minutes
+    logging.debug("in calc duration start day: %s ", startday)
+    logging.debug("in calc duration start time %s", starttime)
+    logging.debug("in cacl duration end day %s", endday)
+    logging.debug("in calc duration end time %s", endtime)
+    logging.debug("in calc duration end minutes %s", minutes)
     day = endday - startday
-    #print "day diff ", day
+    logging.debug("day diff %s", day)
     hour = endtime - starttime
-    #print "hour diff ", hour
+    logging.debug("hour diff %s", hour)
     hours = (24 * day) + hour
     #print "hours + 24 * days", hours
     if hours == 1:
@@ -339,24 +330,22 @@ for index, x in enumerate(pconsched.schedule):
 # this first one is a for the first entry which is intentionally dummy data
     if (session['starttime'] ==  "event_start") or (session['startday'] ==  "Start Day"):
         session['duration'] = "duration"
-        #print "duration"
         session['hours'] = 0
         session['minutes'] = 0
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        #print session['name']
-        #print "start day " + session['startday'][2:-5] 
-        #print "start time " + session['starttime'][:-3]
-        #print "end day " + session['endday'][2:-5]
-        #print "end time " + session['endtime'][-5:-3]
-        #print "end minutes " + session['endtime'][-2:]
-        #print "event_start " + session['event_start']
-        #print "event_end " + session['event_end']
-        
+        logging.debug("Session: %s", session['name'])
+        logging.debug("start day %s",  session['startday'][2:-5])
+        logging.debug("start time %s", session['starttime'][:-3])
+        logging.debug("end day %s", session['endday'][2:-5])
+        logging.debug("end time %s", session['endtime'][-5:-3])
+        logging.debug("end minutes %s", session['endtime'][-2:])
+        logging.debug("event_start %s", session['event_start'])
+        logging.debug("event_end %s", session['event_end'])
+
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
-   
-    
+
     session['speakerlist'] = session['speakers'].split(", ")
     session['speakernosp'] = ""
     for speaker in session['speakerlist']:
@@ -722,5 +711,3 @@ for x in rooms:
         x = "''"
     linetoprint.append(x)
 linetoprint = ",".join(linetoprint)
-TrifoldSched.firstline=linetoprint 
-#print linetoprint
