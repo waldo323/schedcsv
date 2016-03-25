@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import csv, json, sys, re, os
 from operator import itemgetter#, attrgetter
-from jinja2 import Environment, Template
+from jinja2 import Environment, FileSystemLoader, Template
 #from git import *
 
 #from bs4 import BeautifulSoup  
@@ -69,6 +69,7 @@ extrainfo = """
 """
 ### configure these variables each year ###
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
+noday_header = "NoDay, April 1"
 friday_header = "FRIDAY, APRIL 29"
 friday_date = "4/29/2016"
 saturday_header = "SATURDAY, APRIL 30"
@@ -144,7 +145,9 @@ def ampmformat (hhmmss):
   ampm = hhmmss.split (":")
   if (len(ampm) == 0) or (len(ampm) > 3):
     return hhmmss
-
+  if ampm == ['']:
+    print ampm
+    ampm = ['16','00']
   # is AM? from [00:00, 12:00]
 #  print "ampm " + ampm[0]
   hour = int(ampm[0]) % 24
@@ -206,11 +209,16 @@ for index, x in enumerate(pconsched.schedule):
                 session['dayheader'] = saturday_header
             if (fieldtext == sunday_date):
                 session['dayheader'] = sunday_header
+            if (fieldtext == ''):
+                session['dayheader'] = noday_header
+                session['startday'] = "4/1/2016"
                 
             #print fieldtext
 
         if  (field == "Start Time"):
             if fieldtext != "Start Time":
+                if fieldtext == '':
+                    fieldtext = "16:20"
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
                 #print fieldtext
@@ -225,9 +233,13 @@ for index, x in enumerate(pconsched.schedule):
 
         if  (field == "End Date"):
             session['endday'] = fieldtext
+            if (fieldtext == ''):
+                session['endday'] = "4/1/2016"
 
         if  (field == "End Time"):
             if fieldtext != "End Time":
+                if fieldtext == '':
+                    fieldtext = "16:42"
                 session['endtime'] = fieldtext
                 #print "setting endtime " + fieldtext
                 session['event_end'] = fieldtext            
@@ -333,15 +345,15 @@ for index, x in enumerate(pconsched.schedule):
         session['totalminutes'] = 0
         session['avneeds'] = "none"
     else:
-        ##print session['name']
-        #print "start day " + session['startday'][2:-5] 
-        #print "start time " + session['starttime'][:-3]
-        #print "end day " + session['endday'][2:-5]
-        ##print "end time " + session['endtime'][-5:-3]
-        #print "end minutes " + session['endtime'][3:]
+        print session['name']
+        print "start day " + session['startday'][2:-5] 
+        print "start time " + session['starttime'][:-3]
+        print "end day " + session['endday'][2:-5]
+        print "end time " + session['endtime'][-5:-3]
+        print "end minutes " + session['endtime'][-2:]
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
-
+        
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
    
     
