@@ -1067,7 +1067,7 @@ Location,Hamlin
 duration,50 minutes
 description,Come and find out how how poly can be different with a D/s dynamic.
 index,23
-speakers,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans Ash Sexton, David Chase"
+speakers,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase"
 bookdescrip,Come and find out how how poly can be different with a D/s dynamic.
 Track,After Dark
 startday,4/30/2016
@@ -1079,14 +1079,14 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Hamlin', 'After Dark', 'Polyamory and Kink', 'Jillian Hawkins, Darek Hawkins, Ciaran Kingans Ash Sexton, David Chase', 'Come and find out how how poly can be different with a D/s dynamic.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Hamlin', 'After Dark', 'Polyamory and Kink', 'Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase', 'Come and find out how how poly can be different with a D/s dynamic.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans Ash Sexton, David Chase"
+calspeakers,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase"
 avneeds,none
-speakerlist,"['Jillian Hawkins', 'Darek Hawkins', 'Ciaran Kingans Ash Sexton', 'David Chase']"
+speakerlist,"['Jillian Hawkins', 'Darek Hawkins', 'Ciaran Kingans', 'Ash Sexton', 'David Chase']"
 hours,0
 totalminutes,50
-speakernosplist,"['JillianHawkins', 'DarekHawkins', 'CiaranKingansAshSexton', 'DavidChase']"
+speakernosplist,"['JillianHawkins', 'DarekHawkins', 'CiaranKingans', 'AshSexton', 'DavidChase']"
 caldescrip,Come and find out how how poly can be different with a D/s dynamic.
 endtime,22:50
 AV Needs,
@@ -1095,9 +1095,9 @@ Private,PUBLIC
 bookname,Polyamory and Kink
 venue,Hamlin
 Book Description,Come and find out how how poly can be different with a D/s dynamic.
-Presenters,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans Ash Sexton, David Chase"
+Presenters,"Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase"
 csvsafedescrip,Come and find out how how poly can be different with a D/s dynamic.
-speakernosp,"JillianHawkins,DarekHawkins,CiaranKingansAshSexton,DavidChase"
+speakernosp,"JillianHawkins,DarekHawkins,CiaranKingans,AshSexton,DavidChase"
 starttime,22:00
 roomnosp,Hamlin
 Start Date,4/30/2016
@@ -12066,10 +12066,10 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,
 duration,50 minutes
-description,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
+description,"Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 index,262
 speakers,
-bookdescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
+bookdescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 Track,Science
 startday,4/30/2016
 Title,Walk the Solar System
@@ -12080,7 +12080,7 @@ End Time,12:50
 tracknosp,['Science']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '', 'Science', 'Walk the Solar System', '', 'Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '', 'Science', 'Walk the Solar System', '', 'Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,
 avneeds,none
@@ -12088,16 +12088,16 @@ speakerlist,['']
 hours,0
 totalminutes,50
 speakernosplist,['']
-caldescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
+caldescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 endtime,12:50
 AV Needs,
 name,Walk the Solar System
 Private,PUBLIC
 bookname,Walk the Solar System
 venue,
-Book Description,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
+Book Description,"Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 Presenters,
-csvsafedescrip,Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets- you will find a poster(with a QR code) with more information on that body.
+csvsafedescrip,Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets- you will find a poster(with a QR code) with more information on that body.
 speakernosp,
 starttime,12:00
 roomnosp,Hotel
