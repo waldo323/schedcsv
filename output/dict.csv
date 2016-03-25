@@ -1013,48 +1013,48 @@ minutes,50
 allday,FALSE
 event_type,After Dark
 All Day Event,
-event_end,21:50
+event_end,23:50
 event_type_list,['After Dark']
 private,PUBLIC
-endtimeampm,9 PM
-Location,EMC I
-duration,50 minutes
+endtimeampm,11 PM
+Location,Charlevoix B
+duration,25 hours and 50 minutes
 description,Polyamory speed dating will help polamorous people of all types get to know each other!
 index,22
 speakers,Nicole Rohr
 bookdescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
 Track,After Dark
-startday,4/30/2016
+startday,4/29/2016
 Title,Poly Speed Dating
-Start Time,21:00
-event_start,21:00
-starttimeampm,9 PM
-End Time,21:50
+Start Time,22:30
+event_start,22:30
+starttimeampm,10 PM
+End Time,23:50
 tracknosp,['AfterDark']
 endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'EMC I', 'After Dark', 'Poly Speed Dating', 'Nicole Rohr', 'Polyamory speed dating will help polamorous people of all types get to know each other!', '00hr:50min', '', '', 'PUBLIC']"
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '22:30', '4/30/2016', '23:50', 'Charlevoix B', 'After Dark', 'Poly Speed Dating', 'Nicole Rohr', 'Polyamory speed dating will help polamorous people of all types get to know each other!', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Nicole Rohr
 avneeds,none
 speakerlist,['Nicole Rohr']
-hours,0
-totalminutes,50
+hours,25
+totalminutes,1550
 speakernosplist,['NicoleRohr']
 caldescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
-endtime,21:50
+endtime,23:50
 AV Needs,
 name,Poly Speed Dating
 Private,PUBLIC
 bookname,Poly Speed Dating
-venue,EMC I
+venue,Charlevoix B
 Book Description,Polyamory speed dating will help polamorous people of all types get to know each other!
 Presenters,Nicole Rohr
 csvsafedescrip,Polyamory speed dating will help polamorous people of all types get to know each other!
 speakernosp,NicoleRohr
-starttime,21:00
-roomnosp,EMCI
-Start Date,4/30/2016
+starttime,22:30
+roomnosp,CharlevoixB
+Start Date,4/29/2016
 minutes,50
 allday,FALSE
 event_type,After Dark
@@ -1105,12 +1105,12 @@ minutes,50
 allday,FALSE
 event_type,After Dark
 All Day Event,
-event_end,23:50
+event_end,22:50
 event_type_list,['After Dark']
 private,PUBLIC
-endtimeampm,11 PM
-Location,Charlevoix B
-duration,1 hour and 50 minutes
+endtimeampm,10 PM
+Location,Baldwin
+duration,50 minutes
 description,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
 index,24
 speakers,George Allen
@@ -1118,52 +1118,6 @@ bookdescrip,"An informational talk for those who identify as primal or who wish 
 Track,After Dark
 startday,4/29/2016
 Title,Primal: Understanding Yourself and Your Role in the Kink Community.
-Start Time,22:30
-event_start,22:30
-starttimeampm,10 PM
-End Time,23:50
-tracknosp,['AfterDark']
-endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:30', '4/29/2016', '23:50', 'Charlevoix B', 'After Dark', 'Primal: Understanding Yourself & Your Role in the Kink Community.', 'George Allen', 'An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal.', '01hr:30min', '', '', 'PUBLIC']"
-End Date,4/29/2016
-calspeakers,George Allen
-avneeds,none
-speakerlist,['George Allen']
-hours,1
-totalminutes,110
-speakernosplist,['GeorgeAllen']
-caldescrip,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
-endtime,23:50
-AV Needs,
-name,Primal: Understanding Yourself & Your Role in the Kink Community.
-Private,PUBLIC
-bookname,Primal: Understanding Yourself &amp; Your Role in the Kink Community.
-venue,Charlevoix B
-Book Description,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
-Presenters,George Allen
-csvsafedescrip,An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals- share information about primal scenes- and learn techniques to manage the inner animal.
-speakernosp,GeorgeAllen
-starttime,22:30
-roomnosp,CharlevoixB
-Start Date,4/29/2016
-minutes,50
-allday,FALSE
-event_type,After Dark
-All Day Event,
-event_end,22:50
-event_type_list,['After Dark']
-private,PUBLIC
-endtimeampm,10 PM
-Location,Baldwin
-duration,50 minutes
-description,Come join us for a speed dating event especially for queer poly people!
-index,25
-speakers,Nicole Rohr
-bookdescrip,Come join us for a speed dating event especially for queer poly people!
-Track,After Dark
-startday,4/29/2016
-Title,Queer Poly Speed Dating
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
@@ -1171,25 +1125,25 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Baldwin', 'After Dark', 'Queer Poly Speed Dating', 'Nicole Rohr', 'Come join us for a speed dating event especially for queer poly people!', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Baldwin', 'After Dark', 'Primal: Understanding Yourself & Your Role in the Kink Community.', 'George Allen', 'An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal.', '01hr:30min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Nicole Rohr
+calspeakers,George Allen
 avneeds,none
-speakerlist,['Nicole Rohr']
+speakerlist,['George Allen']
 hours,0
 totalminutes,50
-speakernosplist,['NicoleRohr']
-caldescrip,Come join us for a speed dating event especially for queer poly people!
+speakernosplist,['GeorgeAllen']
+caldescrip,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
 endtime,22:50
 AV Needs,
-name,Queer Poly Speed Dating
+name,Primal: Understanding Yourself & Your Role in the Kink Community.
 Private,PUBLIC
-bookname,Queer Poly Speed Dating
+bookname,Primal: Understanding Yourself &amp; Your Role in the Kink Community.
 venue,Baldwin
-Book Description,Come join us for a speed dating event especially for queer poly people!
-Presenters,Nicole Rohr
-csvsafedescrip,Come join us for a speed dating event especially for queer poly people!
-speakernosp,NicoleRohr
+Book Description,"An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal."
+Presenters,George Allen
+csvsafedescrip,An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals- share information about primal scenes- and learn techniques to manage the inner animal.
+speakernosp,GeorgeAllen
 starttime,22:00
 roomnosp,Baldwin
 Start Date,4/29/2016
@@ -1203,13 +1157,13 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Charlevoix B
 duration,1 hour and 30 minutes
-description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
-index,26
-speakers,kernelbrandon
-bookdescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
+description,Come join us for a speed dating event especially for queer poly people!
+index,25
+speakers,Nicole Rohr
+bookdescrip,Come join us for a speed dating event especially for queer poly people!
 Track,After Dark
 startday,4/29/2016
-Title,Rope Basics: The Bedroom and Beyond
+Title,Queer Poly Speed Dating
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
@@ -1217,25 +1171,25 @@ End Time,22:30
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'kernelbrandon', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.', '01hr:30min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Queer Poly Speed Dating', 'Nicole Rohr', 'Come join us for a speed dating event especially for queer poly people!', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,kernelbrandon
+calspeakers,Nicole Rohr
 avneeds,none
-speakerlist,['kernelbrandon']
+speakerlist,['Nicole Rohr']
 hours,1
 totalminutes,90
-speakernosplist,['kernelbrandon']
-caldescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
+speakernosplist,['NicoleRohr']
+caldescrip,Come join us for a speed dating event especially for queer poly people!
 endtime,22:30
 AV Needs,
-name,Rope Basics: The Bedroom & Beyond
+name,Queer Poly Speed Dating
 Private,PUBLIC
-bookname,Rope Basics: The Bedroom &amp; Beyond
+bookname,Queer Poly Speed Dating
 venue,Charlevoix B
-Book Description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
-Presenters,kernelbrandon
-csvsafedescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
-speakernosp,kernelbrandon
+Book Description,Come join us for a speed dating event especially for queer poly people!
+Presenters,Nicole Rohr
+csvsafedescrip,Come join us for a speed dating event especially for queer poly people!
+speakernosp,NicoleRohr
 starttime,21:00
 roomnosp,CharlevoixB
 Start Date,4/29/2016
@@ -1249,13 +1203,13 @@ private,PUBLIC
 endtimeampm,9 PM
 Location,Charlevoix C
 duration,50 minutes
-description,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
-index,27
+description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
+index,26
 speakers,kernelbrandon
-bookdescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+bookdescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 Track,After Dark
 startday,4/29/2016
-Title,Rope for Decoration and Restraint
+Title,Rope Basics: The Bedroom and Beyond
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
@@ -1263,7 +1217,7 @@ End Time,21:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Charlevoix C', 'After Dark', 'Rope for Decoration and Restraint', 'kernelbrandon', 'Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Charlevoix C', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'kernelbrandon', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.', '01hr:30min', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,kernelbrandon
 avneeds,none
@@ -1271,16 +1225,16 @@ speakerlist,['kernelbrandon']
 hours,0
 totalminutes,50
 speakernosplist,['kernelbrandon']
-caldescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+caldescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 endtime,21:50
 AV Needs,
-name,Rope for Decoration and Restraint
+name,Rope Basics: The Bedroom & Beyond
 Private,PUBLIC
-bookname,Rope for Decoration and Restraint
+bookname,Rope Basics: The Bedroom &amp; Beyond
 venue,Charlevoix C
-Book Description,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+Book Description,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 Presenters,kernelbrandon
-csvsafedescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+csvsafedescrip,This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.
 speakernosp,kernelbrandon
 starttime,21:00
 roomnosp,CharlevoixC
@@ -1295,13 +1249,13 @@ private,PUBLIC
 endtimeampm,11 PM
 Location,Algonquin A
 duration,50 minutes
-description,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
-index,28
-speakers,"Shannon Marshall, Maggie Maiville"
-bookdescrip,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&amp;M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
+description,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+index,27
+speakers,kernelbrandon
+bookdescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
 Track,After Dark
 startday,4/29/2016
-Title,S and M AMA
+Title,Rope for Decoration and Restraint
 Start Time,23:00
 event_start,23:00
 starttimeampm,11 PM
@@ -1309,8 +1263,54 @@ End Time,23:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '23:00', '4/29/2016', '23:50', 'Algonquin A', 'After Dark', 'S&M AMA', 'Shannon Marshall, Maggie Maiville', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '23:00', '4/29/2016', '23:50', 'Algonquin A', 'After Dark', 'Rope for Decoration and Restraint', 'kernelbrandon', 'Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
+calspeakers,kernelbrandon
+avneeds,none
+speakerlist,['kernelbrandon']
+hours,0
+totalminutes,50
+speakernosplist,['kernelbrandon']
+caldescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+endtime,23:50
+AV Needs,
+name,Rope for Decoration and Restraint
+Private,PUBLIC
+bookname,Rope for Decoration and Restraint
+venue,Algonquin A
+Book Description,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+Presenters,kernelbrandon
+csvsafedescrip,Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.
+speakernosp,kernelbrandon
+starttime,23:00
+roomnosp,AlgonquinA
+Start Date,4/29/2016
+minutes,50
+allday,FALSE
+event_type,
+All Day Event,
+event_end,22:50
+event_type_list,['']
+private,PUBLIC
+endtimeampm,10 PM
+Location,Charlevoix B
+duration,50 minutes
+description,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
+index,28
+speakers,"Shannon Marshall, Maggie Maiville"
+bookdescrip,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&amp;M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
+Track,
+startday,4/30/2016
+Title,S and M AMA
+Start Time,22:00
+event_start,22:00
+starttimeampm,10 PM
+End Time,22:50
+tracknosp,['']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', '', 'S&M AMA', 'Shannon Marshall, Maggie Maiville', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', '', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,"Shannon Marshall, Maggie Maiville"
 avneeds,none
 speakerlist,"['Shannon Marshall', 'Maggie Maiville']"
@@ -1318,62 +1318,16 @@ hours,0
 totalminutes,50
 speakernosplist,"['ShannonMarshall', 'MaggieMaiville']"
 caldescrip,"Join Shannon and Maggie for an 'ask me anything.' You have been to 'Sex Toys w/ S&M', now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
-endtime,23:50
+endtime,22:50
 AV Needs,
 name,S&M AMA
 Private,PUBLIC
 bookname,S&amp;M AMA
-venue,Algonquin A
+venue,Charlevoix B
 Book Description,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S and M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
 Presenters,"Shannon Marshall, Maggie Maiville"
 csvsafedescrip,Join Shannon and Maggie for an 'ask me anything.' You have been to 'Sex Toys w/ S&M'- now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.
 speakernosp,"ShannonMarshall,MaggieMaiville"
-starttime,23:00
-roomnosp,AlgonquinA
-Start Date,4/29/2016
-minutes,50
-allday,FALSE
-event_type,After Dark
-All Day Event,
-event_end,22:50
-event_type_list,['After Dark']
-private,PUBLIC
-endtimeampm,10 PM
-Location,Charlevoix B
-duration,50 minutes
-description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-index,29
-speakers,"Jen Schwartz, Matt Sweet, Max Issac"
-bookdescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-Track,After Dark
-startday,4/30/2016
-Title,Sexual Safety
-Start Time,22:00
-event_start,22:00
-starttimeampm,10 PM
-End Time,22:50
-tracknosp,['AfterDark']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', 'After Dark', 'Sexual Safety', 'Jen Schwartz, Matt Sweet, Max Issac', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', '', 'PUBLIC']"
-End Date,4/30/2016
-calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
-avneeds,none
-speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac']"
-hours,0
-totalminutes,50
-speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
-caldescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-endtime,22:50
-AV Needs,
-name,Sexual Safety
-Private,PUBLIC
-bookname,Sexual Safety
-venue,Charlevoix B
-Book Description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
-csvsafedescrip,Come with all your questions about sex and safety- and we'll talk about how to keep safe and stay healthy!
-speakernosp,"JenSchwartz,MattSweet,MaxIssac"
 starttime,22:00
 roomnosp,CharlevoixB
 Start Date,4/30/2016
@@ -1387,13 +1341,13 @@ private,PUBLIC
 endtimeampm,7 PM
 Location,EMC IV
 duration,50 minutes
-description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
-index,30
-speakers,RainbowRavenX
-bookdescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
+description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
+index,29
+speakers,"Jen Schwartz, Matt Sweet, Max Issac"
+bookdescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
 Track,After Dark
 startday,4/30/2016
-Title,"So, What's This ""Age Play"" Thing Anyway ?"
+Title,Sexual Safety
 Start Time,19:00
 event_start,19:00
 starttimeampm,7 PM
@@ -1401,25 +1355,25 @@ End Time,19:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway ?', 'RainbowRavenX', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'After Dark', 'Sexual Safety', 'Jen Schwartz, Matt Sweet, Max Issac', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,RainbowRavenX
+calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
 avneeds,none
-speakerlist,['RainbowRavenX']
+speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac']"
 hours,0
 totalminutes,50
-speakernosplist,['RainbowRavenX']
-caldescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
+speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
+caldescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
 endtime,19:50
 AV Needs,
-name,"So, What's This 'Age Play' Thing Anyway ?"
+name,Sexual Safety
 Private,PUBLIC
-bookname,"So, What's This ""Age Play"" Thing Anyway ?"
+bookname,Sexual Safety
 venue,EMC IV
-Book Description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
-Presenters,RainbowRavenX
-csvsafedescrip,With adult coloring books on the rise- and as it becomes more acceptable for adults to enjoy traditionally 'kid' things- light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight- there are a lot of misconceptions. In this panel and discussion- we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene- you know that one guy that does this- or you have no idea- come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).
-speakernosp,RainbowRavenX
+Book Description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
+Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
+csvsafedescrip,Come with all your questions about sex and safety- and we'll talk about how to keep safe and stay healthy!
+speakernosp,"JenSchwartz,MattSweet,MaxIssac"
 starttime,19:00
 roomnosp,EMCIV
 Start Date,4/30/2016
@@ -1433,13 +1387,13 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Charlevoix C
 duration,50 minutes
-description,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
-index,31
-speakers,Jen Schwartz
-bookdescrip,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
+description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
+index,30
+speakers,RainbowRavenX
+bookdescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 Track,After Dark
 startday,4/30/2016
-Title,The Art of Negotiating
+Title,"So, What's This ""Age Play"" Thing Anyway ?"
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
@@ -1447,7 +1401,53 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'The Art of Negotiating', 'Jen Schwartz', 'From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway ?', 'RainbowRavenX', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', '', 'PUBLIC']"
+End Date,4/30/2016
+calspeakers,RainbowRavenX
+avneeds,none
+speakerlist,['RainbowRavenX']
+hours,0
+totalminutes,50
+speakernosplist,['RainbowRavenX']
+caldescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
+endtime,22:50
+AV Needs,
+name,"So, What's This 'Age Play' Thing Anyway ?"
+Private,PUBLIC
+bookname,"So, What's This ""Age Play"" Thing Anyway ?"
+venue,Charlevoix C
+Book Description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
+Presenters,RainbowRavenX
+csvsafedescrip,With adult coloring books on the rise- and as it becomes more acceptable for adults to enjoy traditionally 'kid' things- light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight- there are a lot of misconceptions. In this panel and discussion- we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene- you know that one guy that does this- or you have no idea- come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).
+speakernosp,RainbowRavenX
+starttime,22:00
+roomnosp,CharlevoixC
+Start Date,4/30/2016
+minutes,50
+allday,FALSE
+event_type,After Dark
+All Day Event,
+event_end,21:50
+event_type_list,['After Dark']
+private,PUBLIC
+endtimeampm,9 PM
+Location,EMC I
+duration,50 minutes
+description,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
+index,31
+speakers,Jen Schwartz
+bookdescrip,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
+Track,After Dark
+startday,4/30/2016
+Title,The Art of Negotiating
+Start Time,21:00
+event_start,21:00
+starttimeampm,9 PM
+End Time,21:50
+tracknosp,['AfterDark']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'EMC I', 'After Dark', 'The Art of Negotiating', 'Jen Schwartz', 'From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Jen Schwartz
 avneeds,none
@@ -1456,18 +1456,18 @@ hours,0
 totalminutes,50
 speakernosplist,['JenSchwartz']
 caldescrip,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
-endtime,22:50
+endtime,21:50
 AV Needs,
 name,The Art of Negotiating
 Private,PUBLIC
 bookname,The Art of Negotiating
-venue,Charlevoix C
+venue,EMC I
 Book Description,"From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation."
 Presenters,Jen Schwartz
 csvsafedescrip,From negotiating a scene to negotiating a relationship- come learn some great lessons in the art of negotiation.
 speakernosp,JenSchwartz
-starttime,22:00
-roomnosp,CharlevoixC
+starttime,21:00
+roomnosp,EMCI
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -16017,39 +16017,39 @@ starttime,13:00
 roomnosp,AlgonquinBC
 Start Date,4/30/2016
 minutes,50
-allday,FALSE
+allday,TRUE
 event_type,"Tech, Life, DIY"
-All Day Event,
-event_end,16:42
+All Day Event,TRUE
+event_end,15:00
 event_type_list,"['Tech', 'Life', 'DIY']"
 private,DEFAULT
-endtimeampm,4 PM
+endtimeampm,3 PM
 Location,HackerSpace (317)
-duration,42 minutes
+duration,00 minutes
 description,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
 index,348
 speakers,"Amal Graafstra, Anita Fowler"
 bookdescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
 Track,"Tech, Life, DIY"
-startday,4/1/2016
+startday,4/29/2016
 Title,Dangeous Things
-Start Time,16:20
-event_start,16:20
-starttimeampm,4 PM
-End Time,16:42
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,15:00
 tracknosp,"['Tech', 'Life', 'DIY']"
-endday,4/1/2016
-dayheader,"NoDay, April 1"
-input,"['', '', '', '', 'HackerSpace (317)', 'Tech, Life, DIY', 'Dangeous Things', 'Amal Graafstra, Anita Fowler', 'Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.', '', '', '', '']"
-End Date,
+endday,5/1/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '19:00', '5/1/2016', '15:00', 'HackerSpace (317)', 'Tech, Life, DIY', 'Dangeous Things', 'Amal Graafstra, Anita Fowler', 'Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.', '', '', 'TRUE', '']"
+End Date,5/1/2016
 calspeakers,"Amal Graafstra, Anita Fowler"
 avneeds,none
 speakerlist,"['Amal Graafstra', 'Anita Fowler']"
-hours,0
-totalminutes,42
+hours,-676
+totalminutes,-40560
 speakernosplist,"['AmalGraafstra', 'AnitaFowler']"
 caldescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
-endtime,16:42
+endtime,15:00
 AV Needs,
 name,Dangeous Things
 Private,
@@ -16059,7 +16059,7 @@ Book Description,Featured Guests Dangerous Things will be set up in our Hacker S
 Presenters,"Amal Graafstra, Anita Fowler"
 csvsafedescrip,Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.
 speakernosp,"AmalGraafstra,AnitaFowler"
-starttime,16:20
+starttime,19:00
 roomnosp,HackerSpace317
-Start Date,
-minutes,42
+Start Date,4/29/2016
+minutes,00

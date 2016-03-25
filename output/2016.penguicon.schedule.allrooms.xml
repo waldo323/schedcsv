@@ -151,7 +151,7 @@
 <time>10 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 29</day>
-<title>S&amp;M AMA</title>
+<title>Rope for Decoration and Restraint</title>
 <topic>After Dark</topic>
 <time>11 PM</time></event><event>
 <room>Algonquin A</room>
@@ -341,7 +341,7 @@
 <time>9 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Queer Poly Speed Dating</title>
+<title>Primal: Understanding Yourself &amp; Your Role in the Kink Community.</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Baldwin</room>
@@ -486,18 +486,18 @@
 <time>2 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Primal: Understanding Yourself &amp; Your Role in the Kink Community.</title>
+<title>Poly Speed Dating</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Rope Basics: The Bedroom &amp; Beyond</title>
+<title>Queer Poly Speed Dating</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Sexual Safety</title>
-<topic>After Dark</topic>
+<title>S&amp;M AMA</title>
+<topic></topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
@@ -591,12 +591,12 @@
 <time>5 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Rope for Decoration and Restraint</title>
+<title>Rope Basics: The Bedroom &amp; Beyond</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>SATURDAY, APRIL 30</day>
-<title>The Art of Negotiating</title>
+<title>So, What's This "Age Play" Thing Anyway ?</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix C</room>
@@ -771,7 +771,7 @@
 <time>1 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Poly Speed Dating</title>
+<title>The Art of Negotiating</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
 <room>EMC I</room>
@@ -976,7 +976,7 @@
 <time>8 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
-<title>So, What's This "Age Play" Thing Anyway ?</title>
+<title>Sexual Safety</title>
 <topic>After Dark</topic>
 <time>7 PM</time></event><event>
 <room>EMC IV</room>
@@ -1108,12 +1108,13 @@
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
-<time>8 PM</time></event><event>
+<time>8 PM</time></event>
+<day>All Weekend</day>
+<event>
 <room>HackerSpace (317)</room>
-<day>NoDay, April 1</day>
 <title>Dangeous Things</title>
 <topic>Tech, Life, DIY</topic>
-<time>4 PM</time></event><event>
+<time>7 PM</time></event><event>
 <room>Hackerspace (317)</room>
 <day>FRIDAY, APRIL 29</day>
 <title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
