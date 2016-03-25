@@ -789,10 +789,10 @@ private,PUBLIC
 endtimeampm,10 PM
 Location,Montcalm
 duration,50 minutes
-description,
+description,Fire isn't just for warmth anymore.  Come watch some new ways to explore with it.
 index,17
 speakers,Dan Eakin
-bookdescrip,
+bookdescrip,Fire isn't just for warmth anymore.  Come watch some new ways to explore with it.
 Track,After Dark
 startday,4/30/2016
 Title,Fire Play and Massage
@@ -803,7 +803,7 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Montcalm', 'After Dark', 'Fire Play and Massage', 'Dan Eakin', '', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Montcalm', 'After Dark', 'Fire Play and Massage', 'Dan Eakin', ""Fire isn't just for warmth anymore.  Come watch some new ways to explore with it."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Dan Eakin
 avneeds,none
@@ -811,16 +811,16 @@ speakerlist,['Dan Eakin']
 hours,0
 totalminutes,50
 speakernosplist,['DanEakin']
-caldescrip,
+caldescrip,Fire isn't just for warmth anymore.  Come watch some new ways to explore with it.
 endtime,22:50
 AV Needs,
 name,Fire Play and Massage
 Private,PUBLIC
 bookname,Fire Play and Massage
 venue,Montcalm
-Book Description,
+Book Description,Fire isn't just for warmth anymore. Come watch some new ways to explore with it.
 Presenters,Dan Eakin
-csvsafedescrip,
+csvsafedescrip,Fire isn't just for warmth anymore.  Come watch some new ways to explore with it.
 speakernosp,DanEakin
 starttime,22:00
 roomnosp,Montcalm
@@ -11928,10 +11928,10 @@ private,PUBLIC
 endtimeampm,8 PM
 Location,EMC I
 duration,50 minutes
-description,
+description,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
 index,259
 speakers,Jennifer Hamilton
-bookdescrip,
+bookdescrip,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
 Track,Science
 startday,4/29/2016
 Title,Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm
@@ -11942,7 +11942,7 @@ End Time,20:50
 tracknosp,['Science']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC I', 'Science', 'Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm', 'Jennifer Hamilton', '', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC I', 'Science', 'Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm', 'Jennifer Hamilton', 'Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jennifer Hamilton
 avneeds,none
@@ -11950,16 +11950,16 @@ speakerlist,['Jennifer Hamilton']
 hours,0
 totalminutes,50
 speakernosplist,['JenniferHamilton']
-caldescrip,
+caldescrip,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
 endtime,20:50
 AV Needs,
 name,Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm
 Private,PUBLIC
 bookname,Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm
 venue,EMC I
-Book Description,
+Book Description,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic. Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries. Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
 Presenters,Jennifer Hamilton
-csvsafedescrip,
+csvsafedescrip,Thanks to sustained public-health measures and health advocates willing to risk their lives- humanity is on the verge of winning two real-world games of Pandemic.  Polio- which once paralyzed 1000 children around the world every day- is now endemic only in two countries.  Guinea worm- a 80-cm long parasite associated with stagnant water- has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases- the ongoing efforts to eradicate them- and policies that help support reduction of infectious diseases in general.
 speakernosp,JenniferHamilton
 starttime,20:00
 roomnosp,EMCI
@@ -11974,10 +11974,10 @@ private,PUBLIC
 endtimeampm,4 PM
 Location,
 duration,42 minutes
-description,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
+description,
 index,260
 speakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
-bookdescrip,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
+bookdescrip,
 Track,Science
 startday,4/1/2016
 Title,Reroot Pontiac: Developing Interest in Awesome Investment in Our Future
@@ -11988,7 +11988,7 @@ End Time,16:42
 tracknosp,['Science']
 endday,4/1/2016
 dayheader,"NoDay, April 1"
-input,"['', '', '', '', '', 'Science', 'Reroot Pontiac: Developing Interest in Awesome Investment in Our Future', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', 'Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['', '', '', '', '', 'Science', 'Reroot Pontiac: Developing Interest in Awesome Investment in Our Future', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', '', '00hr:50min', '', '', 'PUBLIC']"
 End Date,
 calspeakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 avneeds,none
@@ -11996,16 +11996,16 @@ speakerlist,"['Jonathan Ivar Weyhrauch', 'Mikhail Shikhmanov']"
 hours,0
 totalminutes,42
 speakernosplist,"['JonathanIvarWeyhrauch', 'MikhailShikhmanov']"
-caldescrip,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic.  Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries.  Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
+caldescrip,
 endtime,16:42
 AV Needs,
 name,Reroot Pontiac: Developing Interest in Awesome Investment in Our Future
 Private,PUBLIC
 bookname,Reroot Pontiac: Developing Interest in Awesome Investment in Our Future
 venue,
-Book Description,"Thanks to sustained public-health measures and health advocates willing to risk their lives, humanity is on the verge of winning two real-world games of Pandemic. Polio, which once paralyzed 1000 children around the world every day, is now endemic only in two countries. Guinea worm, a 80-cm long parasite associated with stagnant water, has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases, the ongoing efforts to eradicate them, and policies that help support reduction of infectious diseases in general."
+Book Description,
 Presenters,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
-csvsafedescrip,Thanks to sustained public-health measures and health advocates willing to risk their lives- humanity is on the verge of winning two real-world games of Pandemic.  Polio- which once paralyzed 1000 children around the world every day- is now endemic only in two countries.  Guinea worm- a 80-cm long parasite associated with stagnant water- has gone from 3.5 million cases annually in the mid-1980s to only 22 cases in 2015. Jennifer Hamilton MD will talk about the human suffering associated with these diseases- the ongoing efforts to eradicate them- and policies that help support reduction of infectious diseases in general.
+csvsafedescrip,
 speakernosp,"JonathanIvarWeyhrauch,MikhailShikhmanov"
 starttime,16:20
 roomnosp,Hotel
@@ -12066,10 +12066,10 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,
 duration,50 minutes
-description,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
+description,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 index,262
 speakers,
-bookdescrip,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
+bookdescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 Track,Science
 startday,4/30/2016
 Title,Walk the Solar System
@@ -12080,7 +12080,7 @@ End Time,12:50
 tracknosp,['Science']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '', 'Science', 'Walk the Solar System', '', 'Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '', 'Science', 'Walk the Solar System', '', 'Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.', '', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,
 avneeds,none
@@ -12088,16 +12088,16 @@ speakerlist,['']
 hours,0
 totalminutes,50
 speakernosplist,['']
-caldescrip,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
+caldescrip,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 endtime,12:50
 AV Needs,
 name,Walk the Solar System
 Private,PUBLIC
 bookname,Walk the Solar System
 venue,
-Book Description,"Stretched down the longest hall of the hotel, is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a plaque (with a QR code) with more information on that body."
+Book Description,"Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body."
 Presenters,
-csvsafedescrip,Stretched down the longest hall of the hotel- is a scale-model of the solar system. At the position of the Sun and orbits of the planets- you will find a plaque (with a QR code) with more information on that body.
+csvsafedescrip,Stretched down a long hall of the hotel is a scale-model of the solar system. At the position of the Sun and orbits of the planets- you will find a poster(with a QR code) with more information on that body.
 speakernosp,
 starttime,12:00
 roomnosp,Hotel
