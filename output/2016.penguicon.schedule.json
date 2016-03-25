@@ -2428,7 +2428,7 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "Birds of a feather: let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future.",
+        "book_description": "Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated.",
         "end_date": "5/1/2016",
         "title": "BoF: What Will Penguicon Look Like in 2020?",
         "track": "Life",
@@ -2733,9 +2733,23 @@
         "end_time": "21:50"
     },
     {
+        "book_description": "Does a magical system for a story need rules? Costs, unintended consequences, social factors? What about reliability issues? How can we avoid worn-out tropes. How should magic in an RPG and story differ? Is some of the tech in SF 'magic' and should the same considerations apply?",
+        "end_date": "",
+        "title": "Mechanics of Magic in Fantasy and SF",
+        "track": "",
+        "start_time": "16:20",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
+    },
+    {
         "book_description": "We are all made of stories and sharing them can be powerful and life changing. Come and share our version of an open mic night.\u00a0 Bring your self-written poetry, personal manifesto, or short-short story.",
         "end_date": "4/30/2016",
-        "title": "Poetry Open Mike",
+        "title": "Speak Your Words",
         "track": "Literature",
         "start_time": "20:00",
         "presenters": [
@@ -2837,7 +2851,7 @@
     {
         "book_description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "end_date": "4/29/2016",
-        "title": "Social media for writers",
+        "title": "Social Media for Writers",
         "track": "Literature",
         "start_time": "18:00",
         "presenters": [
@@ -2904,7 +2918,7 @@
     {
         "book_description": "What's something amazing that you read recently that you want to tell the world about?",
         "end_date": "4/30/2016",
-        "title": "What Have You Read Lately?",
+        "title": "What Have You Read?",
         "track": "Literature",
         "start_time": "11:00",
         "presenters": [
@@ -3020,7 +3034,7 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "This live recording of Rathbone the Pirate's \"Pieces of Eight\" webcast will give attendees a chance to have their pirate questions answered",
+        "book_description": "This live recording of Rathbone the Pirate's \"Pieces of Eight\" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters",
         "end_date": "4/30/2016",
         "title": "\"Pieces of Eight\" Live from Penguicon!",
         "track": "Mayhem",
@@ -3093,7 +3107,7 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter table to get started!",
+        "book_description": "Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter Table to get started!",
         "end_date": "5/1/2016",
         "title": "Pengicon Picture Bingo",
         "track": "Mayhem",
