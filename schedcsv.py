@@ -162,10 +162,31 @@ def ampmformat (hhmmss):
 
 pconsched = readInCSV(filename)
 
-## 2015 fields
-fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track", "Title", "Presenters", "Book Description", "All Day Event", "Private", "AV Needs"]
-## fields needed for google calendar
-calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
+# 2015 fields
+fields =  [
+    "Start Date",
+    "Start Time",
+    "End Date",
+    "End Time",
+    "Location",
+    "Track",
+    "Title",
+    "Presenters",
+    "Book Description",
+    "All Day Event",
+    "Private",
+    "AV Needs"]
+# fields needed for google calendar
+calfields = [
+    "Subject",
+    "Start Date",
+    "Start Time",
+    "End Date",
+    "End Time",
+    "All Day Event",
+    "Description",
+    "Location",
+    "Private"]
 
 sessions = [] # list of sessions...empty so far!
 speakers = [] # list of speakers...empty as well. imagine that
@@ -310,19 +331,17 @@ for index, x in enumerate(pconsched.schedule):
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
-#        temptext.replace(os.linesep, " ")
         session[field] = replace_all(temptext, amps)
         if field == "Book Description":
-            temptext = replace_all(fieldtext, quoterep)         
+            temptext = replace_all(fieldtext, quoterep)
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')         
+            temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')
             session['bookdescrip'] = temptext
         if field == "Presenters":
-            temptext = replace_all(fieldtext, quoterep)         
+            temptext = replace_all(fieldtext, quoterep)
             session['calspeakers'] = re.sub(r'\n',',', temptext).strip(', \t\n\r')
-#        if field == "speakers":
         if field == "Presenters":
             testtext = fieldtext.split(', ')
             #for x in testtext:
@@ -388,28 +407,17 @@ for index, x in enumerate(pconsched.schedule):
     # add the session to the list of sessions
     sessions.append(session)
 
-## sort the list of sessions here by day then by time.
+# sort the list of sessions here by day then by time.
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
 sessions.sort(key=itemgetter('index'))
-
-# old n busted sort 
-##sessions.sort(key=itemgetter('venue'))
-#sessions.sort(key=itemgetter('startday','starttime','venue'))
-##sessions.sort(key=itemgetter('starttime'))
-##sessions.sort(key=itemgetter('startday'))
-##sessions.sort(key=itemgetter('allday'), reverse=True)
-#sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue'] + thing['name']) ## thanks Walter!
-
-#sessions.sort(key=itemgetter('allday'), reverse=True)
-
 
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
     alphabetical_rooms[room] = {'name':room,'Friday':{},'Saturday':{},'Sunday':{}}
-    
-speakers.sort()    
+
+speakers.sort()
 tempstart = "test"
 
 
