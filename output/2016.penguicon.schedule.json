@@ -2331,9 +2331,9 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \u201cThe Traveling Circus,\u201d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!",
+        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \u201cThe Traveling Circus,\u201d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! ",
         "end_date": "5/1/2016",
-        "title": "Grand Circus' Traveling Circus: Hands on Javascript ",
+        "title": "Grand Circus' Traveling Circus: Intro to Coding ",
         "track": "Tech",
         "start_time": "14:00",
         "presenters": [
@@ -2971,9 +2971,9 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \u201cThe Traveling Circus,\u201d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!",
+        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \u201cThe Traveling Circus,\u201d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! This workshop will also be offered on Sunday!",
         "end_date": "4/30/2016",
-        "title": "Grand Circus' Traveling Circus: Hands on Javascript ",
+        "title": "Grand Circus' Traveling Circus: Intro to Coding ",
         "track": "Tech",
         "start_time": "17:00",
         "presenters": [
@@ -3589,7 +3589,7 @@
     {
         "book_description": "TBA",
         "end_date": "4/30/2016",
-        "title": "Ramses Alcaide Talk",
+        "title": "Neurable: The Next Evolution of Brain-Computer Interfaces",
         "track": "Science",
         "start_time": "21:00",
         "presenters": [

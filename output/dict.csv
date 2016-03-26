@@ -7234,13 +7234,13 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
-description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!"
 index,157
 speakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
-bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!"
 Track,Tech
 startday,5/1/2016
-Title,Grand Circus' Traveling Circus: Hands on Javascript 
+Title,Grand Circus' Traveling Circus: Intro to Coding 
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
@@ -7248,7 +7248,7 @@ End Time,15:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Hands on Javascript "", 'Chioke Mose-Telesford, Aaron Wolff, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"", '01hr:50min', '', '', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '5/1/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Aaron Wolff, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "", '01hr:50min', '', '', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
 avneeds,none
@@ -7256,16 +7256,16 @@ speakerlist,"['Chioke Mose-Telesford', 'Aaron Wolff', 'Aisha Blake']"
 hours,1
 totalminutes,110
 speakernosplist,"['ChiokeMose-Telesford', 'AaronWolff', 'AishaBlake']"
-caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "
 endtime,15:50
 AV Needs,
-name,Grand Circus' Traveling Circus: Hands on Javascript 
+name,Grand Circus' Traveling Circus: Intro to Coding 
 Private,PUBLIC
-bookname,Grand Circus' Traveling Circus: Hands on Javascript
+bookname,Grand Circus' Traveling Circus: Intro to Coding
 venue,Computer Lab (EMC III)
-Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "
 Presenters,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
-csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!
+csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! 
 speakernosp,"ChiokeMose-Telesford,AaronWolff,AishaBlake"
 starttime,14:00
 roomnosp,ComputerLabEMCIII
@@ -9214,13 +9214,13 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
-description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 index,200
 speakers,"Chioke Mose-Telesford, Kim Driscoll"
-bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 Track,Tech
 startday,4/30/2016
-Title,Grand Circus' Traveling Circus: Hands on Javascript 
+Title,Grand Circus' Traveling Circus: Intro to Coding 
 Start Time,17:00
 event_start,17:00
 starttimeampm,5 PM
@@ -9228,7 +9228,7 @@ End Time,18:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Hands on Javascript "", 'Chioke Mose-Telesford, Kim Driscoll', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"", '01hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Kim Driscoll', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"", '01hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Chioke Mose-Telesford, Kim Driscoll"
 avneeds,none
@@ -9236,16 +9236,16 @@ speakerlist,"['Chioke Mose-Telesford', 'Kim Driscoll']"
 hours,1
 totalminutes,110
 speakernosplist,"['ChiokeMose-Telesford', 'KimDriscoll']"
-caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 endtime,18:50
 AV Needs,
-name,Grand Circus' Traveling Circus: Hands on Javascript 
+name,Grand Circus' Traveling Circus: Intro to Coding 
 Private,PUBLIC
-bookname,Grand Circus' Traveling Circus: Hands on Javascript
+bookname,Grand Circus' Traveling Circus: Intro to Coding
 venue,Computer Lab (EMC III)
-Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!"
+Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! This workshop will also be offered on Sunday!"
 Presenters,"Chioke Mose-Telesford, Kim Driscoll"
-csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but ran into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some programming foundations to start learning on your own!
+csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  “The Traveling Circus-” comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!
 speakernosp,"ChiokeMose-Telesford,KimDriscoll"
 starttime,17:00
 roomnosp,ComputerLabEMCIII
@@ -11109,7 +11109,7 @@ speakers,Ramses Alcaide
 bookdescrip,TBA
 Track,Science
 startday,4/30/2016
-Title,Ramses Alcaide Talk
+Title,Neurable: The Next Evolution of Brain-Computer Interfaces
 Start Time,21:00
 event_start,21:00
 starttimeampm,9 PM
@@ -11117,7 +11117,7 @@ End Time,22:50
 tracknosp,['Science']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '22:50', 'Charlevoix B', 'Science', 'Ramses Alcaide Talk', 'Ramses Alcaide', 'TBA', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '21:00', '4/30/2016', '22:50', 'Charlevoix B', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'TBA', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Ramses Alcaide
 avneeds,none
@@ -11128,9 +11128,9 @@ speakernosplist,['RamsesAlcaide']
 caldescrip,TBA
 endtime,22:50
 AV Needs,
-name,Ramses Alcaide Talk
+name,Neurable: The Next Evolution of Brain-Computer Interfaces
 Private,PUBLIC
-bookname,Ramses Alcaide Talk
+bookname,Neurable: The Next Evolution of Brain-Computer Interfaces
 venue,Charlevoix B
 Book Description,TBA
 Presenters,Ramses Alcaide
