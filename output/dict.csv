@@ -4190,11 +4190,11 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,10:50
+event_end,14:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,10 AM
-Location,Charlevoix A
+endtimeampm,2 PM
+Location,Algonquin D
 duration,50 minutes
 description,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
 index,91
@@ -4203,14 +4203,14 @@ bookdescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean
 Track,Tech
 startday,4/30/2016
 Title,Rapid Prototyping on the Android with Tcl/Tk
-Start Time,10:00
-event_start,10:00
-starttimeampm,10 AM
-End Time,10:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix A', 'Tech', 'Rapid Prototyping on the Android with Tcl/Tk', 'Clif Flynt', ""Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code."", '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Algonquin D', 'Tech', 'Rapid Prototyping on the Android with Tcl/Tk', 'Clif Flynt', ""Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code."", '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Clif Flynt
 avneeds,none
@@ -4219,18 +4219,18 @@ hours,0
 totalminutes,50
 speakernosplist,['ClifFlynt']
 caldescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
-endtime,10:50
+endtime,14:50
 AV Needs,
 name,Rapid Prototyping on the Android with Tcl/Tk
 Private,PUBLIC
 bookname,Rapid Prototyping on the Android with Tcl/Tk
-venue,Charlevoix A
+venue,Algonquin D
 Book Description,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
 Presenters,Clif Flynt
 csvsafedescrip,Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code.
 speakernosp,ClifFlynt
-starttime,10:00
-roomnosp,CharlevoixA
+starttime,14:00
+roomnosp,AlgonquinD
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
