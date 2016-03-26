@@ -6952,11 +6952,11 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,
-event_end,14:50
+event_end,10:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,2 PM
-Location,Algonquin D
+endtimeampm,10 AM
+Location,Charlevoix A
 duration,50 minutes
 description,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 index,151
@@ -6965,14 +6965,14 @@ bookdescrip,"Ever find yourself at a networking event, unable to think of how to
 Track,Tech
 startday,4/30/2016
 Title,Networking for Awkward People
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Algonquin D', 'Tech', 'Networking for Awkward People', 'Chioke Mose-Telesford, Kim Driscoll', 'Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We\'ve got you covered. You\'ll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you\'ll actually be up and moving and trying this out on your fellow attendees. And make eye contact.', '00hr:50min', '', '', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix A', 'Tech', 'Networking for Awkward People', 'Chioke Mose-Telesford, Kim Driscoll', 'Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We\'ve got you covered. You\'ll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you\'ll actually be up and moving and trying this out on your fellow attendees. And make eye contact.', '00hr:50min', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Chioke Mose-Telesford, Kim Driscoll"
 avneeds,none
@@ -6981,18 +6981,18 @@ hours,0
 totalminutes,50
 speakernosplist,"['ChiokeMose-Telesford', 'KimDriscoll']"
 caldescrip,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, 'Hi, my name is Annalisa,' and then just blank? We've got you covered. You'll walk out with a full-proof 'elevator pitch' and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
-endtime,14:50
+endtime,10:50
 AV Needs,
 name,Networking for Awkward People
 Private,PUBLIC
 bookname,Networking for Awkward People
-venue,Algonquin D
+venue,Charlevoix A
 Book Description,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 Presenters,"Chioke Mose-Telesford, Kim Driscoll"
 csvsafedescrip,Ever find yourself at a networking event- unable to think of how to introduce yourself to the people around you? As sweat pours down your face- do you say- 'Hi- my name is Annalisa-' and then just blank? We've got you covered. You'll walk out with a full-proof 'elevator pitch' and tactics to conquer any nerves- small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact.
 speakernosp,"ChiokeMose-Telesford,KimDriscoll"
-starttime,14:00
-roomnosp,AlgonquinD
+starttime,10:00
+roomnosp,CharlevoixA
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
