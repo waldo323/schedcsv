@@ -90,9 +90,9 @@ starttime,19:00
 roomnosp,HackerSpace317
 Start Date,4/29/2016
 minutes,00
-allday,What's something amazing that you read recently that you want to tell the world about?
+allday,FALSE
 event_type,Literature
-All Day Event,What's something amazing that you read recently that you want to tell the world about?
+All Day Event,
 event_end,11:50
 event_type_list,['Literature']
 private,PUBLIC
@@ -113,17 +113,17 @@ End Time,11:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Hamlin', 'Literature', 'What Have You Read?', 'Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle', ""What's something amazing that you read recently that you want to tell the world about?"", '', 'Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle', ""What's something amazing that you read recently that you want to tell the world about?"", 'PUBLIC']"
+input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Hamlin', 'Literature', 'What Have You Read?', 'Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle', ""What's something amazing that you read recently that you want to tell the world about?"", '', '', '', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle"
-avneeds,"Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle"
+avneeds,none
 speakerlist,"['Jim Leach', 'Andrea Johnson', 'Christine Daigle', 'Stewart Sternberg', 'Nicole Castle']"
 hours,0
 totalminutes,50
 speakernosplist,"['JimLeach', 'AndreaJohnson', 'ChristineDaigle', 'StewartSternberg', 'NicoleCastle']"
 caldescrip,What's something amazing that you read recently that you want to tell the world about?
 endtime,11:50
-AV Needs,"Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle"
+AV Needs,
 name,What Have You Read?
 Private,PUBLIC
 bookname,What Have You Read?

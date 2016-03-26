@@ -146,9 +146,9 @@
         "minutes": "00"
     },
     {
-        "allday": "What's something amazing that you read recently that you want to tell the world about?",
+        "allday": "FALSE",
         "event_type": "Literature",
-        "All Day Event": "What's something amazing that you read recently that you want to tell the world about?",
+        "All Day Event": "",
         "event_end": "11:50",
         "event_type_list": [
             "Literature"
@@ -184,13 +184,13 @@
             "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
             "What's something amazing that you read recently that you want to tell the world about?",
             "",
-            "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
-            "What's something amazing that you read recently that you want to tell the world about?",
+            "",
+            "",
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
-        "avneeds": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+        "avneeds": "none",
         "speakerlist": [
             "Jim Leach",
             "Andrea Johnson",
@@ -209,7 +209,7 @@
         ],
         "caldescrip": "What's something amazing that you read recently that you want to tell the world about?",
         "endtime": "11:50",
-        "AV Needs": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+        "AV Needs": "",
         "name": "What Have You Read?",
         "Private": "PUBLIC",
         "bookname": "What Have You Read?",
