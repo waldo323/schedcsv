@@ -41,7 +41,7 @@
             "Stewart Sternberg",
             "Nicole Castle"
         ],
-        "location": "Hamlin",
+        "location": "Algonquin B/C",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "11:50"
@@ -5202,5 +5202,21 @@
         "minutes": 42,
         "start_date": "",
         "end_time": "16:42"
+    },
+    {
+        "book_description": "Cliches in fantasy and science fiction are a big no-no... except when they aren\u2019t. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre?",
+        "end_date": "5/1/2016",
+        "title": "The Most Useful Tropes",
+        "track": "Literature",
+        "start_time": "13:00",
+        "presenters": [
+            "Emmy Jackson",
+            "Jackie Morgan",
+            "Scott Favre"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
     }
 ]
