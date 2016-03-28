@@ -159,7 +159,7 @@
         "duration": "50 minutes",
         "description": "What's something amazing that you read recently that you want to tell the world about?",
         "index": 2,
-        "speakers": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+        "speakers": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "bookdescrip": "What's something amazing that you read recently that you want to tell the world about?",
         "Track": "Literature",
         "startday": "4/30/2016",
@@ -181,7 +181,7 @@
             "Algonquin B/C",
             "Literature",
             "What Have You Read?",
-            "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+            "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
             "What's something amazing that you read recently that you want to tell the world about?",
             "",
             "",
@@ -189,12 +189,11 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+        "calspeakers": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "avneeds": "none",
         "speakerlist": [
             "Jim Leach",
             "Andrea Johnson",
-            "Christine Daigle",
             "Stewart Sternberg",
             "Nicole Castle"
         ],
@@ -203,7 +202,6 @@
         "speakernosplist": [
             "JimLeach",
             "AndreaJohnson",
-            "ChristineDaigle",
             "StewartSternberg",
             "NicoleCastle"
         ],
@@ -215,9 +213,9 @@
         "bookname": "What Have You Read?",
         "venue": "Algonquin B/C",
         "Book Description": "What's something amazing that you read recently that you want to tell the world about?",
-        "Presenters": "Jim Leach, Andrea Johnson, Christine Daigle, Stewart Sternberg, Nicole Castle",
+        "Presenters": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "csvsafedescrip": "What's something amazing that you read recently that you want to tell the world about?",
-        "speakernosp": "JimLeach,AndreaJohnson,ChristineDaigle,StewartSternberg,NicoleCastle",
+        "speakernosp": "JimLeach,AndreaJohnson,StewartSternberg,NicoleCastle",
         "starttime": "11:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "4/30/2016",
