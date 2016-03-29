@@ -421,10 +421,10 @@ private,PUBLIC
 endtimeampm,2 PM
 Location,321
 duration,50 minutes
-description,"Welcome to the L.M.N. Artemis, Lansing Makers Network’s very own Starship Bridge simulator"
+description,"Space… the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ‘em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members."
 index,9
 speakers,Lansing Maker Network
-bookdescrip,"Welcome to the L.M.N. Artemis, Lansing Makers Network’s very own Starship Bridge simulator"
+bookdescrip,"Space… the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ‘em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members."
 Track,Penguicon
 startday,4/29/2016
 Title,Artemis
@@ -435,7 +435,7 @@ End Time,14:50
 tracknosp,['Penguicon']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '17:00', '5/1/2016', '14:50', '321', 'Penguicon', 'Artemis', 'Lansing Maker Network', 'Welcome to the L.M.N. Artemis, Lansing Makers Network\xe2\x80\x99s very own Starship Bridge simulator', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '17:00', '5/1/2016', '14:50', '321', 'Penguicon', 'Artemis', 'Lansing Maker Network', 'Space\xe2\x80\xa6 the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow \xe2\x80\x98em all to space-smithereens!\xc2\xa0 Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members.\n\n', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Lansing Maker Network
 avneeds,none
@@ -443,16 +443,18 @@ speakerlist,['Lansing Maker Network']
 hours,-675
 totalminutes,-40450
 speakernosplist,['LansingMakerNetwork']
-caldescrip,"Welcome to the L.M.N. Artemis, Lansing Makers Network’s very own Starship Bridge simulator"
+caldescrip,"Space… the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ‘em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members.
+
+"
 endtime,14:50
 AV Needs,
 name,Artemis
 Private,PUBLIC
 bookname,Artemis
 venue,321
-Book Description,"Welcome to the L.M.N. Artemis, Lansing Makers Network’s very own Starship Bridge simulator"
+Book Description,"Space… the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ‘em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. "
 Presenters,Lansing Maker Network
-csvsafedescrip,Welcome to the L.M.N. Artemis- Lansing Makers Network’s very own Starship Bridge simulator
+csvsafedescrip,Space… the ultimate target-rich environment. These are the voyages of the Starship Artemis- and its sister vessels- whose ongoing mission is seek out aggressive life forms- marauders and even each other- and blow ‘em all to space-smithereens!  Lansing Makers Network will be bringing their version- with lighting effects- of the popular starship bridge simulator game- Artemis! A co-op starship sim for up to six crew members.  
 speakernosp,LansingMakerNetwork
 starttime,17:00
 roomnosp,321
@@ -4202,7 +4204,7 @@ speakers,"Donald Mark Haynes, Douglas Johnson"
 bookdescrip,"Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples."
 Track,Tech
 startday,4/30/2016
-Title,Navigation strategies for a Career in IT
+Title,Navigation Strategies for a Career in IT
 Start Time,10:00
 event_start,10:00
 starttimeampm,10 AM
@@ -4210,7 +4212,7 @@ End Time,10:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix B', 'Tech', 'Navigation strategies for a Career in IT', 'Donald Mark Haynes, Douglas Johnson', 'Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix B', 'Tech', 'Navigation Strategies for a Career in IT', 'Donald Mark Haynes, Douglas Johnson', 'Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Donald Mark Haynes, Douglas Johnson"
 avneeds,none
@@ -4221,9 +4223,9 @@ speakernosplist,"['DonaldMarkHaynes', 'DouglasJohnson']"
 caldescrip,"Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job?  How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples. "
 endtime,10:50
 AV Needs,
-name,Navigation strategies for a Career in IT
+name,Navigation Strategies for a Career in IT
 Private,PUBLIC
-bookname,Navigation strategies for a Career in IT
+bookname,Navigation Strategies for a Career in IT
 venue,Charlevoix B
 Book Description,"Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job? How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples. "
 Presenters,"Donald Mark Haynes, Douglas Johnson"
@@ -11465,36 +11467,36 @@ minutes,50
 allday,FALSE
 event_type,Science
 All Day Event,FALSE
-event_end,22:50
+event_end,12:50
 event_type_list,['Science']
 private,PUBLIC
-endtimeampm,10 PM
+endtimeampm,12 PM
 Location,Charlevoix B
-duration,1 hour and 50 minutes
+duration,50 minutes
 description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 index,249
 speakers,Ramses Alcaide
 bookdescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments."
 Track,Science
-startday,4/30/2016
+startday,5/1/2016
 Title,Neurable: The Next Evolution of Brain-Computer Interfaces
-Start Time,21:00
-event_start,21:00
-starttimeampm,9 PM
-End Time,22:50
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,12:50
 tracknosp,['Science']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '22:50', 'Charlevoix B', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/30/2016
+endday,5/1/2016
+dayheader,"SUNDAY, May 1"
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix B', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,5/1/2016
 calspeakers,Ramses Alcaide
 avneeds,none
 speakerlist,['Ramses Alcaide']
-hours,1
-totalminutes,110
+hours,0
+totalminutes,50
 speakernosplist,['RamsesAlcaide']
 caldescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
-endtime,22:50
+endtime,12:50
 AV Needs,
 name,Neurable: The Next Evolution of Brain-Computer Interfaces
 Private,PUBLIC
@@ -11504,9 +11506,9 @@ Book Description,"One of the major human developments in the 21st century is the
 Presenters,Ramses Alcaide
 csvsafedescrip,One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However- current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications- creating new ways for people to interact with the world- enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.
 speakernosp,RamsesAlcaide
-starttime,21:00
+starttime,12:00
 roomnosp,CharlevoixB
-Start Date,4/30/2016
+Start Date,5/1/2016
 minutes,50
 allday,FALSE
 event_type,Literature
