@@ -904,12 +904,6 @@
 <topic>Food</topic>
 <room>Consuite</room>
 <blurb><participant>Sarah Elkins, Phil Salkie</participant> Ice cream made with liquid nitrogen, for a Sunday brunch!  Flavors will include orange, coffee, and Captain Crunch or some other sugary breakfast treat. Alternative ingredients available; we can make some non-dairy or sugar-free! <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>1 PM</time>
-<event><title>BoF: What Will Penguicon Look Like in 2020?</title>
-<topic>Life</topic>
-<room>EM IV</room>
-<blurb><participant></participant> Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>5 PM</time>
 <event><title>Basic Skills for Working with Electronics</title>
@@ -1234,6 +1228,12 @@
 <topic>Tech</topic>
 <room>EMC IV</room>
 <blurb><participant>Ryan Kather</participant> Better FS, Butter FS, B-Tree FS?  What is it called, and why should you care about a new filesystem for Linux?  Come learn about the advanced features, design, and use of one of Linux's most exciting new features.  We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>1 PM</time>
+<event><title>BoF: What Will Penguicon Look Like in 2020?</title>
+<topic>Life</topic>
+<room>EMC IV</room>
+<blurb><participant></participant> Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Basic Design Criteria for 3D-Printed Firearms</title>

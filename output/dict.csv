@@ -14600,7 +14600,7 @@ event_end,13:50
 event_type_list,['Life']
 private,PUBLIC
 endtimeampm,1 PM
-Location,EM IV
+Location,EMC IV
 duration,50 minutes
 description,"Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated."
 index,317
@@ -14616,7 +14616,7 @@ End Time,13:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'EM IV', 'Life', 'BoF: What Will Penguicon Look Like in 2020?', '', ""Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'EMC IV', 'Life', 'BoF: What Will Penguicon Look Like in 2020?', '', ""Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,
 avneeds,none
@@ -14630,13 +14630,13 @@ AV Needs,
 name,BoF: What Will Penguicon Look Like in 2020?
 Private,PUBLIC
 bookname,BoF: What Will Penguicon Look Like in 2020?
-venue,EM IV
+venue,EMC IV
 Book Description,"Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated."
 Presenters,
 csvsafedescrip,Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous- electric car drops you off at the convention and you are automatically registered- with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated.
 speakernosp,
 starttime,13:00
-roomnosp,EMIV
+roomnosp,EMCIV
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
