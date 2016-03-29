@@ -114,7 +114,7 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Temporary description",
+        "book_description": "Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!",
         "end_date": "5/1/2016",
         "title": "Pirate Treasure Hunt!",
         "track": "Mayhem",
@@ -2192,7 +2192,7 @@
         "book_description": "This live recording of Rathbone the Pirate's \"Pieces of Eight\" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters",
         "end_date": "4/30/2016",
         "title": "\"Pieces of Eight\" Live from Penguicon!",
-        "track": "Mayhem",
+        "track": "Mayhem, Media",
         "start_time": "13:00",
         "presenters": [
             "Rathbone the Pirate",
@@ -2221,7 +2221,7 @@
         "book_description": "Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns.",
         "end_date": "4/30/2016",
         "title": "Tom Smith Concert",
-        "track": "Penguicon",
+        "track": "Penguicon, Media",
         "start_time": "13:00",
         "presenters": [
             "Tom Smith"
@@ -3839,7 +3839,7 @@
         "book_description": "Join Shannon and Maggie for an \"ask me anything.\" You have been to \"Sex Toys w/ S and M\", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.",
         "end_date": "4/30/2016",
         "title": "S and M AMA",
-        "track": "",
+        "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
             "Shannon Marshall",

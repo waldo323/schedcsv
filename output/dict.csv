@@ -375,10 +375,10 @@ private,PUBLIC
 endtimeampm,3 PM
 Location,Mystery Location
 duration,00 minutes
-description,Temporary description
+description,Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!
 index,8
 speakers,Rathbone the Pirate
-bookdescrip,Temporary description
+bookdescrip,Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!
 Track,Mayhem
 startday,4/29/2016
 Title,Pirate Treasure Hunt!
@@ -389,7 +389,7 @@ End Time,15:00
 tracknosp,['Mayhem']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Mystery Location', 'Mayhem', 'Pirate Treasure Hunt!', 'Rathbone the Pirate', 'Temporary description', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Mystery Location', 'Mayhem', 'Pirate Treasure Hunt!', 'Rathbone the Pirate', 'Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Rathbone the Pirate
 avneeds,none
@@ -397,16 +397,16 @@ speakerlist,['Rathbone the Pirate']
 hours,-673
 totalminutes,-40380
 speakernosplist,['RathbonethePirate']
-caldescrip,Temporary description
+caldescrip,Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!
 endtime,15:00
 AV Needs,
 name,Pirate Treasure Hunt!
 Private,PUBLIC
 bookname,Pirate Treasure Hunt!
 venue,Mystery Location
-Book Description,Temporary description
+Book Description,Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!
 Presenters,Rathbone the Pirate
-csvsafedescrip,Temporary description
+csvsafedescrip,Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!
 speakernosp,RathbonethePirate
 starttime,16:00
 roomnosp,MysteryLocation
@@ -6813,10 +6813,10 @@ roomnosp,Montcalm
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
-event_type,Mayhem
+event_type,"Mayhem, Media"
 All Day Event,FALSE
 event_end,13:50
-event_type_list,['Mayhem']
+event_type_list,"['Mayhem', 'Media']"
 private,PUBLIC
 endtimeampm,1 PM
 Location,Nicolet
@@ -6825,17 +6825,17 @@ description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" we
 index,148
 speakers,"Rathbone the Pirate, Mitch ""Duckman"" Peters"
 bookdescrip,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters"
-Track,Mayhem
+Track,"Mayhem, Media"
 startday,4/30/2016
 Title,"""Pieces of Eight"" Live from Penguicon!"
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
-tracknosp,['Mayhem']
+tracknosp,"['Mayhem', 'Media']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Nicolet', 'Mayhem', '""Pieces of Eight"" Live from Penguicon!', 'Rathbone the Pirate, Mitch ""Duckman"" Peters', 'This live recording of Rathbone the Pirate\'s ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Nicolet', 'Mayhem, Media', '""Pieces of Eight"" Live from Penguicon!', 'Rathbone the Pirate, Mitch ""Duckman"" Peters', 'This live recording of Rathbone the Pirate\'s ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Rathbone the Pirate, Mitch 'Duckman' Peters"
 avneeds,none
@@ -6905,10 +6905,10 @@ roomnosp,PodcastSuite
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
-event_type,Penguicon
+event_type,"Penguicon, Media"
 All Day Event,FALSE
 event_end,13:50
-event_type_list,['Penguicon']
+event_type_list,"['Penguicon', 'Media']"
 private,PUBLIC
 endtimeampm,1 PM
 Location,Portage
@@ -6917,17 +6917,17 @@ description,"Apparent Nifty Guest In Perpetuity Tom Smith is back, with new song
 index,150
 speakers,Tom Smith
 bookdescrip,"Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns."
-Track,Penguicon
+Track,"Penguicon, Media"
 startday,4/30/2016
 Title,Tom Smith Concert
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
-tracknosp,['Penguicon']
+tracknosp,"['Penguicon', 'Media']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Portage', 'Penguicon', 'Tom Smith Concert', 'Tom Smith', ""Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Portage', 'Penguicon, Media', 'Tom Smith Concert', 'Tom Smith', ""Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Tom Smith
 avneeds,none
@@ -11879,10 +11879,10 @@ roomnosp,CharlevoixA
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
-event_type,
+event_type,After Dark
 All Day Event,FALSE
 event_end,22:50
-event_type_list,['']
+event_type_list,['After Dark']
 private,PUBLIC
 endtimeampm,10 PM
 Location,Charlevoix B
@@ -11891,17 +11891,17 @@ description,"Join Shannon and Maggie for an ""ask me anything."" You have been t
 index,258
 speakers,"Shannon Marshall, Maggie Maiville"
 bookdescrip,"Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&amp;M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience."
-Track,
+Track,After Dark
 startday,4/30/2016
 Title,S and M AMA
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
 End Time,22:50
-tracknosp,['']
+tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', '', 'S&M AMA', 'Shannon Marshall, Maggie Maiville', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix B', 'After Dark', 'S&M AMA', 'Shannon Marshall, Maggie Maiville', 'Join Shannon and Maggie for an ""ask me anything."" You have been to ""Sex Toys w/ S&M"", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Shannon Marshall, Maggie Maiville"
 avneeds,none
