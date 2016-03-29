@@ -5377,5 +5377,21 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "This is a judgment free zone... but have you ever looked at a comic and thought, \u201cWow that doesn't look right\u201d. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!",
+        "end_date": "4/30/2016",
+        "title": "How To Not Draw Comics",
+        "track": "Comics",
+        "start_time": "21:00",
+        "presenters": [
+            "Kayla Nelson",
+            "BluRaven C. Houvener",
+            "Jon David"
+        ],
+        "location": "EMC IV",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "21:50"
     }
 ]

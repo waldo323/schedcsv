@@ -16617,3 +16617,49 @@ starttime,16:00
 roomnosp,ComputerLabEMCIII
 Start Date,5/1/2016
 minutes,50
+allday,FALSE
+event_type,Comics
+All Day Event,
+event_end,21:50
+event_type_list,['Comics']
+private,DEFAULT
+endtimeampm,9 PM
+Location,EMC IV
+duration,50 minutes
+description,"This is a judgment free zone... but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!"
+index,361
+speakers,"Kayla Nelson, BluRaven C. Houvener, Jon David"
+bookdescrip,"This is a judgment free zone... but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!"
+Track,Comics
+startday,4/30/2016
+Title,How To Not Draw Comics
+Start Time,21:00
+event_start,21:00
+starttimeampm,9 PM
+End Time,21:50
+tracknosp,['Comics']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'EMC IV', 'Comics', 'How To Not Draw Comics', 'Kayla Nelson, BluRaven C. Houvener, Jon David ', ""This is a judgment free zone... but have you ever looked at a comic and thought, \xe2\x80\x9cWow that doesn't look right\xe2\x80\x9d. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!"", '', '', '', '']"
+End Date,4/30/2016
+calspeakers,"Kayla Nelson, BluRaven C. Houvener, Jon David"
+avneeds,none
+speakerlist,"['Kayla Nelson', 'BluRaven C. Houvener', 'Jon David']"
+hours,0
+totalminutes,50
+speakernosplist,"['KaylaNelson', 'BluRavenC.Houvener', 'JonDavid']"
+caldescrip,"This is a judgment free zone... but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!"
+endtime,21:50
+AV Needs,
+name,How To Not Draw Comics
+Private,
+bookname,How To Not Draw Comics
+venue,EMC IV
+Book Description,"This is a judgment free zone... but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups, humanly impossible poses, and ponder how it made it from the drawing table to the rack at your local comic book store!"
+Presenters,"Kayla Nelson, BluRaven C. Houvener, Jon David "
+csvsafedescrip,This is a judgment free zone... but have you ever looked at a comic and thought- “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made-up muscle groups- humanly impossible poses- and ponder how it made it from the drawing table to the rack at your local comic book store!
+speakernosp,"KaylaNelson,BluRavenC.Houvener,JonDavid"
+starttime,21:00
+roomnosp,EMCIV
+Start Date,4/30/2016
+minutes,50
