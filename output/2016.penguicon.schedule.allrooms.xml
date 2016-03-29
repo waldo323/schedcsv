@@ -873,11 +873,6 @@
 <time>6 PM</time></event><event>
 <room>EMC II</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Comic vs. Manga</title>
-<topic>Anime</topic>
-<time>7 PM</time></event><event>
-<room>EMC II</room>
-<day>FRIDAY, APRIL 29</day>
 <title>LGBTQ* Alphabet Soup</title>
 <topic>Life</topic>
 <time>8 PM</time></event><event>
@@ -1021,11 +1016,6 @@
 <title>Speak Your Words</title>
 <topic>Literature</topic>
 <time>8 PM</time></event><event>
-<room>EMC IV</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Flash Comics!</title>
-<topic>Comics</topic>
-<time>9 PM</time></event><event>
 <room>EMC IV</room>
 <day>SUNDAY, May 1</day>
 <title>Open Source Maker Apps</title>
@@ -1221,6 +1211,11 @@
 <topic>Literature</topic>
 <time>6 PM</time></event><event>
 <room>Hamlin</room>
+<day>SUNDAY, May 1</day>
+<title>Comic vs. Manga</title>
+<topic>Anime</topic>
+<time>12 PM</time></event><event>
+<room>Hamlin</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Editing for Your Spouse/Partner/BFF/Pet</title>
 <topic>Literature</topic>
@@ -1242,7 +1237,7 @@
 <time>10 AM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time</title>
+<title>Emulators and Emulation</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
 <room>Hamlin</room>
@@ -1275,6 +1270,11 @@
 <title>Webcomics 101: Logistics</title>
 <topic>Comics</topic>
 <time>8 PM</time></event><event>
+<room>Hamlin</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Flash Comics!</title>
+<topic>Comics</topic>
+<time>11 AM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Electrifying Sex: From Quack to Kink</title>

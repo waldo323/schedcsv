@@ -1043,12 +1043,6 @@
 <room>EMC II</room>
 <blurb><participant>Wendy Carson, John Belden</participant> Just because you are not an exact replica of the character you'd like to be doesn't mean you can't pull off a great cosplay of them. Size, sex, race, or physical abilities should not hold you back from being who you really want to be. We will discuss how to accept, cover, camouflage, and overcome your body issues and cosplay with confidence. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>Comic vs. Manga</title>
-<topic>Anime</topic>
-<room>EMC II</room>
-<blurb><participant></participant> This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>LGBTQ* Alphabet Soup</title>
 <topic>Life</topic>
@@ -1222,12 +1216,6 @@
 <topic>Literature</topic>
 <room>EMC IV</room>
 <blurb><participant>Jim Leach, Matt Betts, Sean Davis, Jessica Roland</participant> We are all made of stories and sharing them can be powerful and life changing. Come and share our version of an open mic night.  Bring your self-written poetry, personal manifesto, or short-short story. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>9 PM</time>
-<event><title>Flash Comics!</title>
-<topic>Comics</topic>
-<room>EMC IV</room>
-<blurb><participant>Noa Page</participant> No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>11 AM</time>
 <event><title>Open Source Maker Apps</title>
@@ -1461,6 +1449,12 @@
 <topic>Literature</topic>
 <room>Hamlin</room>
 <blurb><participant>David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo</participant> What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts? </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>12 PM</time>
+<event><title>Comic vs. Manga</title>
+<topic>Anime</topic>
+<room>Hamlin</room>
+<blurb><participant>BluRaven C. Houvener, Cassy Sinke</participant> This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged! </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
 <event><title>Editing for Your Spouse/Partner/BFF/Pet</title>
@@ -1487,7 +1481,7 @@
 <blurb><participant>Bagel Garrison</participant> Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
-<event><title>Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time</title>
+<event><title>Emulators and Emulation</title>
 <topic>Tech</topic>
 <room>Hamlin</room>
 <blurb><participant>Craig Maloney</participant> Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your "Windows" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss! </blurb></event>
@@ -1527,6 +1521,12 @@
 <topic>Comics</topic>
 <room>Hamlin</room>
 <blurb><participant>Erika Wagner, Laura Cascos</participant> Did you catch Part 1 (of 3) of the amazing Erika Wagner and Laura Cascos's Webcomics 101 panel? If you did...awesome! If you didn't...off to detention for you! Before you go to detention though, be sure to catch part 2 and learn about logistics and their importance in the Webcomic medium! </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>Flash Comics!</title>
+<topic>Comics</topic>
+<room>Hamlin</room>
+<blurb><participant>Noa Page</participant> No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics! <duration>30 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>9 PM</time>
 <event><title>Electrifying Sex: From Quack to Kink</title>

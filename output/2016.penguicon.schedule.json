@@ -513,17 +513,18 @@
     },
     {
         "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
-        "end_date": "4/29/2016",
+        "end_date": "5/1/2016",
         "title": "Comic vs. Manga",
         "track": "Anime",
-        "start_time": "19:00",
+        "start_time": "12:00",
         "presenters": [
-            ""
+            "BluRaven C. Houvener",
+            "Cassy Sinke"
         ],
-        "location": "EMC II",
+        "location": "Hamlin",
         "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
     },
     {
         "book_description": "Flirting, dating, making friends, influencing people, even simple conversation, all of these things tend to get harder in real life, even as our online inter-connectedness increases! We're here to talk about simple, fun and easy ways to help your IRL social interactions be more LOL and less STFU.",
@@ -1929,7 +1930,7 @@
     {
         "book_description": "Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your \"Windows\" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss!",
         "end_date": "4/30/2016",
-        "title": "Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time",
+        "title": "Emulators and Emulation",
         "track": "Tech",
         "start_time": "12:00",
         "presenters": [
@@ -3768,14 +3769,14 @@
         "end_date": "4/30/2016",
         "title": "Flash Comics!",
         "track": "Comics",
-        "start_time": "21:00",
+        "start_time": "11:00",
         "presenters": [
             "Noa Page"
         ],
-        "location": "EMC IV",
-        "minutes": 50,
+        "location": "Hamlin",
+        "minutes": 30,
         "start_date": "4/30/2016",
-        "end_time": "21:50"
+        "end_time": "11:30"
     },
     {
         "book_description": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
