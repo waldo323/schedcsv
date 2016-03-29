@@ -977,12 +977,6 @@
 <room>EMC I</room>
 <blurb><participant>William E. Bowen</participant> With the increasing number of single board computers such as the Beaglebone Black, The Chip, Raspberry Pi, Orange Pi, and Banana Pi along with numerous Linux and other alternative operating systems to run on them is it still that important to have an x86 processor in your next computer.  This panel will include an open discussion on the numerous platforms in existence along with the homebrew and open source support for older computer chip sets such as the PowerPC. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>6 PM</time>
-<event><title>Intro to Comics</title>
-<topic>Comics</topic>
-<room>EMC I</room>
-<blurb><participant>Kayla Nelson, BluRaven C. Houvener, Jon David</participant> We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
 <event><title>Geek Cred: How to Be a Better Geek</title>
 <topic>Life</topic>
@@ -1902,6 +1896,12 @@
 <topic>Life, Action Adventure</topic>
 <room>Nicolet</room>
 <blurb><participant>David J. Newland</participant> This presentation will focus on how to survive, and maybe even thrive, after a nuclear event, be it a nuclear plant accident, a "dirty bomb" or a nuclear attack, The presentation will involve practical applications of radiation detection instrumentation, contamination and radiation control measures, why the fear of radiation exposure is overblown, and long term strategies for thriving when others have failed. <duration>1 hour and 50 minutes</duration></blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>Intro to Comics</title>
+<topic>Comics</topic>
+<room>Nicolet</room>
+<blurb><participant>Noa Page, BluRaven C. Houvener, Jon David</participant> We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>Sirius: The Open Source Intelligent Personal Assistant</title>
