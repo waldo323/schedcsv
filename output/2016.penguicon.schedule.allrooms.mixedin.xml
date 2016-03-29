@@ -1,29 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
-<room>321</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Artemis</title>
-<topic>Penguicon</topic>
-<time>5 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Dangeous Things</title>
-<topic>Tech, Life, DIY</topic>
-<time>7 PM</time></event><event>
-<room>Algonquin B/C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>What Have You Read?</title>
-<topic>Literature</topic>
-<time>11 AM</time></event><event>
-<room>Algonquin A</room>
-<day>FRIDAY, APRIL 29</day>
-<title>I know Kung Fu</title>
-<topic>Action Adventure</topic>
-<time>4 PM</time></event><event>
-<room>Consuite</room>
-<day>FRIDAY, APRIL 29</day>
-<title>LN2 Welcome Back Ice Cream</title>
-<topic>Food</topic>
-<time>4 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Chaos Machine</title>
@@ -68,6 +43,26 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Pirate Treasure Hunt!</title>
 <topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>321</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Artemis</title>
+<topic>Penguicon</topic>
+<time>5 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
+<time>7 PM</time></event><event>
+<room>Algonquin A</room>
+<day>FRIDAY, APRIL 29</day>
+<title>I know Kung Fu</title>
+<topic>Action Adventure</topic>
+<time>4 PM</time></event><event>
+<room>Consuite</room>
+<day>FRIDAY, APRIL 29</day>
+<title>LN2 Welcome Back Ice Cream</title>
+<topic>Food</topic>
 <time>4 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>FRIDAY, APRIL 29</day>
@@ -189,9 +184,9 @@
 <title>Frankenstuffies</title>
 <topic>DIY</topic>
 <time>7 PM</time></event><event>
-<room>Hackerspace (317)</room>
+<room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
-<title>The Continuing Penguicon Robot Build</title>
+<title>Open Demos by BeagleBone, DangerousThings and AHA</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
 <room>Hamlin</room>
@@ -419,11 +414,6 @@
 <title>LN2 After Hours I Ice Cream</title>
 <topic>Food</topic>
 <time>11 PM</time></event><event>
-<room>Hackerspace (317)</room>
-<day>FRIDAY, APRIL 29</day>
-<title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
-<topic>DIY, Tech</topic>
-<time>4 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>JAC3D G33K Fitness Bootcamp</title>
@@ -433,6 +423,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Open Linux Computer Lab (Unconference)</title>
 <topic>Tech</topic>
+<time>9 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
 <time>9 AM</time></event><event>
 <room></room>
 <day>SATURDAY, APRIL 30</day>
@@ -454,11 +449,11 @@
 <title>Manager or Leader? Running a Technical Team</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
-<room>Algonquin D</room>
+<room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Rapid Prototyping on the Android with Tcl/Tk</title>
+<title>Networking for Awkward People</title>
 <topic>Tech</topic>
-<time>2 PM</time></event><event>
+<time>10 AM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Navigation strategies for a Career in IT</title>
@@ -489,6 +484,16 @@
 <title>Webcomics 101-Self Promotion</title>
 <topic>Comics</topic>
 <time>10 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Backyard Brains Demo #1</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Dangerous Things Does Implanations</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Needle Felting</title>
@@ -518,6 +523,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>The Future of Biohacking</title>
 <topic>Tech</topic>
+<time>11 AM</time></event><event>
+<room>Algonquin B/C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>What Have You Read?</title>
+<topic>Literature</topic>
 <time>11 AM</time></event><event>
 <room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
@@ -563,6 +573,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Knitting 101</title>
 <topic>DIY</topic>
+<time>11 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
 <time>11 AM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
@@ -628,6 +643,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Poly and Kids</title>
 <topic>Life</topic>
+<time>12 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>i3 Vinyl Tshirts</title>
+<topic>DIY, Tech</topic>
 <time>12 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
@@ -754,11 +774,11 @@
 <title>Business Class Networking on a Home Budget</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<room>Charlevoix A</room>
+<room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Networking for Awkward People</title>
+<title>Rapid Prototyping on the Android with Tcl/Tk</title>
 <topic>Tech</topic>
-<time>10 AM</time></event><event>
+<time>2 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Set-up and Run Your Own Intelligent Personal Assistant</title>
@@ -784,11 +804,6 @@
 <title>All Hands Active Embedded Software</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<room>Computer Lab (EMC III)</room>
-<day>SUNDAY, May 1</day>
-<title>Grand Circus' Traveling Circus: Intro to Coding</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
 <title>So You Want to Get a Degree in Comics?</title>
@@ -803,6 +818,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Queer: Identity, Sexuality and Beyond</title>
 <topic>Life</topic>
+<time>2 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
 <time>2 PM</time></event><event>
 <room>Lobby</room>
 <day>SATURDAY, APRIL 30</day>
@@ -887,6 +907,11 @@
 <room>Hackerspace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Demo Build of the Single-Chip Space Invader Synth</title>
+<topic>DIY, Tech</topic>
+<time>3 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>DIY Electronic Synth Equipment</title>
 <topic>DIY, Tech</topic>
 <time>3 PM</time></event><event>
 <room>Hamlin</room>
@@ -1014,6 +1039,11 @@
 <title>ConFusion ConCom Meeting</title>
 <topic>Life</topic>
 <time>5 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hackforge Demo</title>
+<topic>DIY, Tech</topic>
+<time>5 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
 <title>The Lighter Side of Poly</title>
@@ -1053,6 +1083,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>BoF: Unsexy Code</title>
 <topic>Tech</topic>
+<time>6 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Backyard Brains Demo #2</title>
+<topic>DIY, Tech</topic>
 <time>6 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1118,6 +1153,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Learn to Cross-Stitch</title>
 <topic>DIY</topic>
+<time>7 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1229,6 +1269,11 @@
 <title>Flash Comics!</title>
 <topic>Comics</topic>
 <time>9 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Everything and Anything with BeagleBone</title>
+<topic>DIY, Tech</topic>
+<time>9 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Electrifying Sex: From Quack to Kink</title>
@@ -1319,6 +1364,16 @@
 <title>Self-Publishing 2016</title>
 <topic>Literature</topic>
 <time>10 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>Dangerous Things RFID Implantations</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
 <room>Hamlin</room>
 <day>SUNDAY, May 1</day>
 <title>Gender and Geek Culture</title>
@@ -1393,6 +1448,11 @@
 <day>SUNDAY, May 1</day>
 <title>Life-ing Your Game</title>
 <topic>Life</topic>
+<time>11 AM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>The Continuing Penguicon Robot Build</title>
+<topic>DIY, Tech</topic>
 <time>11 AM</time></event><event>
 <room>Hamlin</room>
 <day>SUNDAY, May 1</day>
@@ -1479,6 +1539,11 @@
 <title>Preserving the Summer</title>
 <topic>Food</topic>
 <time>12 PM</time></event><event>
+<room>Algonquin B/C</room>
+<day>SUNDAY, May 1</day>
+<title>The Most Useful Tropes</title>
+<topic>Literature</topic>
+<time>1 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
 <title>Beginning "Scene": Lighting for Small Presentations and Events</title>
@@ -1599,6 +1664,11 @@
 <title>Making Moodle: From Community to Code</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
+<room>Computer Lab (EMC III)</room>
+<day>SUNDAY, May 1</day>
+<title>Grand Circus' Traveling Circus: Intro to Coding</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
 <room>EMC I</room>
 <day>SUNDAY, May 1</day>
 <title>Beyond the Binary</title>
@@ -1613,6 +1683,16 @@
 <day>SUNDAY, May 1</day>
 <title>Furries!</title>
 <topic>Life</topic>
+<time>2 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>Dangerous Things RFID Implantations</title>
+<topic>DIY, Tech</topic>
+<time>2 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
 <time>2 PM</time></event><event>
 <room>Hamlin</room>
 <day>SUNDAY, May 1</day>
@@ -1699,6 +1779,11 @@
 <title>The 10 Commandments of Job Search</title>
 <topic>Life</topic>
 <time>3 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SUNDAY, May 1</day>
+<title>Farewell to the Hackerspace</title>
+<topic>DIY, Tech</topic>
+<time>3 PM</time></event><event>
 <room>Hamlin</room>
 <day>SUNDAY, May 1</day>
 <title>Where Did the Heroes Go?</title>
@@ -1743,9 +1828,4 @@
 <day>NoDay, April 1</day>
 <title>Reroot Pontiac: Developing Interest in Awesome Investment in Our Future</title>
 <topic>Science</topic>
-<time>4 PM</time></event><event>
-<room>Algonquin B/C</room>
-<day>SUNDAY, May 1</day>
-<title>The Most Useful Tropes</title>
-<topic>Literature</topic>
-<time>1 PM</time></event></events>
+<time>4 PM</time></event></events>
