@@ -5032,7 +5032,7 @@ speakers,"James Fernandez, Mary Lynn Gibbs, Dave Kilgore"
 bookdescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 Track,Media
 startday,4/30/2016
-Title,ScreenWriting Tips
+Title,Screen Writing Tips
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
@@ -5040,7 +5040,7 @@ End Time,12:50
 tracknosp,['Media']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '12:50', 'Charlevoix C', 'Media', 'ScreenWriting Tips', 'James Fernandez, Mary Lynn Gibbs, Dave Kilgore', ""Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '11:00', '4/30/2016', '12:50', 'Charlevoix C', 'Media', 'Screen Writing Tips', 'James Fernandez, Mary Lynn Gibbs, Dave Kilgore', ""Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"James Fernandez, Mary Lynn Gibbs, Dave Kilgore"
 avneeds,none
@@ -5051,9 +5051,9 @@ speakernosplist,"['JamesFernandez', 'MaryLynnGibbs', 'DaveKilgore']"
 caldescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 endtime,12:50
 AV Needs,
-name,ScreenWriting Tips
+name,Screen Writing Tips
 Private,PUBLIC
-bookname,ScreenWriting Tips
+bookname,Screen Writing Tips
 venue,Charlevoix C
 Book Description,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 Presenters,"James Fernandez, Mary Lynn Gibbs, Dave Kilgore"
@@ -5066,10 +5066,10 @@ minutes,50
 allday,FALSE
 event_type,Media
 All Day Event,FALSE
-event_end,11:50
+event_end,10:50
 event_type_list,['Media']
 private,PUBLIC
-endtimeampm,11 AM
+endtimeampm,10 AM
 Location,Charlevoix C
 duration,50 minutes
 description,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
@@ -5078,15 +5078,15 @@ speakers,"Mike Madigan, Matthew Peach"
 bookdescrip,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
 Track,Media
 startday,4/30/2016
-Title,The Pre-Production Process for Films - Where It All Comes Together:
-Start Time,11:00
-event_start,11:00
-starttimeampm,11 AM
-End Time,11:50
+Title,The Pre-Production Process for Films: Where It All Comes Together
+Start Time,10:00
+event_start,10:00
+starttimeampm,10 AM
+End Time,10:50
 tracknosp,['Media']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Charlevoix C', 'Media', 'The Pre-Production Process for Films - Where It All Comes Together:', 'Mike Madigan, Matthew Peach', 'Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix C', 'Media', 'The Pre-Production Process for Films: Where It All Comes Together', 'Mike Madigan, Matthew Peach', 'Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Mike Madigan, Matthew Peach"
 avneeds,none
@@ -5095,17 +5095,17 @@ hours,0
 totalminutes,50
 speakernosplist,"['MikeMadigan', 'MatthewPeach']"
 caldescrip,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
-endtime,11:50
+endtime,10:50
 AV Needs,
-name,The Pre-Production Process for Films - Where It All Comes Together:
+name,The Pre-Production Process for Films: Where It All Comes Together
 Private,PUBLIC
-bookname,The Pre-Production Process for Films - Where It All Comes Together:
+bookname,The Pre-Production Process for Films: Where It All Comes Together
 venue,Charlevoix C
 Book Description,"Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together."
 Presenters,"Mike Madigan, Matthew Peach"
 csvsafedescrip,Learn more about the screenwriting process and getting your short or feature film ready for production- as well as the pre-production elements of casting- securing locations- choosing the right gear for your production- and getting your production team together.
 speakernosp,"MikeMadigan,MatthewPeach"
-starttime,11:00
+starttime,10:00
 roomnosp,CharlevoixC
 Start Date,4/30/2016
 minutes,50
@@ -11985,7 +11985,7 @@ speakers,RainbowRavenX
 bookdescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 Track,After Dark
 startday,4/30/2016
-Title,"So, What's This ""Age Play"" Thing Anyway ?"
+Title,"So, What's This ""Age Play"" Thing Anyway?"
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
@@ -11993,7 +11993,7 @@ End Time,22:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway ?', 'RainbowRavenX', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Charlevoix C', 'After Dark', 'So, What\'s This ""Age Play"" Thing Anyway?', 'RainbowRavenX', 'With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally \'kid\' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,RainbowRavenX
 avneeds,none
@@ -12004,9 +12004,9 @@ speakernosplist,['RainbowRavenX']
 caldescrip,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called 'age play.' As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 endtime,22:50
 AV Needs,
-name,"So, What's This 'Age Play' Thing Anyway ?"
+name,"So, What's This 'Age Play' Thing Anyway?"
 Private,PUBLIC
-bookname,"So, What's This ""Age Play"" Thing Anyway ?"
+bookname,"So, What's This ""Age Play"" Thing Anyway?"
 venue,Charlevoix C
 Book Description,"With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called ""age play."" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please)."
 Presenters,RainbowRavenX
