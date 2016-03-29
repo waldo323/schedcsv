@@ -208,12 +208,6 @@
 <topic>Action Adventure</topic>
 <room>Algonquin A</room>
 <blurb><participant>Adrienne Johnson (Kalika)</participant> Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon!  Several people from the local realm of Eryndor will be on hand to spar and answer questions. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
-<event><title>What Have You Read?</title>
-<topic>Literature</topic>
-<room>Algonquin B/C</room>
-<blurb><participant>Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle</participant> What's something amazing that you read recently that you want to tell the world about? </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>6 PM</time>
 <event><title>Opening Ceremonies</title>
@@ -243,7 +237,13 @@
 <event><title>The Future of Biohacking</title>
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Featured Guests Dangerous Things look into the future to discuss how we could incorporate new technology into our bodies. Biohacks, nootropics, and nutrition will be explored in this discussion. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>What Have You Read?</title>
+<topic>Literature</topic>
+<room>Algonquin B/C</room>
+<blurb><participant>Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle</participant> What's something amazing that you read recently that you want to tell the world about? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Build Your Own Router</title>
@@ -291,7 +291,13 @@
 <event><title>The Family That Games Together</title>
 <topic>Gaming</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>Ann Lemay, Scott Kennedy</participant> How does your family game? </blurb></event>
+<blurb><participant>Ann Lemay, Scott Kennedy</participant> How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both? </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>1 PM</time>
+<event><title>The Most Useful Tropes</title>
+<topic>Literature</topic>
+<room>Algonquin B/C</room>
+<blurb><participant>Emmy Jackson, Jackie Morgan, Scott Favre</participant> Cliches in fantasy and science fiction are a big no-no... except when they aren’t. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre? </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
 <event><title>Accessible UI/UX Design</title>
@@ -310,12 +316,6 @@
 <topic>Penguicon</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie Winningham, Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang</participant> As we officially shut down another amazing, exciting year for Penguicon, come hear about how it went, and what we've got our eye on for next year. </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>1 PM</time>
-<event><title>The Most Useful Tropes</title>
-<topic>Literature</topic>
-<room>Algonquin B/C</room>
-<blurb><participant>Emmy Jackson, Jackie Morgan, Scott Favre</participant> Cliches in fantasy and science fiction are a big no-no... except when they aren’t. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre? </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
 <event><title>Writing Group 101</title>
@@ -328,12 +328,6 @@
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Jer Lance, Dawn Kuczwara</participant> Are you currently supervising a technical team? Maybe you're considering taking the plunge? Come hear a few voices "from the trenches" talk about what it's really like to lead a team: the good, the bad, the horrible, and the horribly funny. Topics will include: the differences between a manager and a leader, leading from the front, why your manager isn't out to get you, managing up, ethical communication, and more </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
-<event><title>Rapid Prototyping on the Android with Tcl/Tk</title>
-<topic>Tech</topic>
-<room>Algonquin D</room>
-<blurb><participant>Clif Flynt</participant> Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>11 AM</time>
 <event><title>Overthrow the Trichromatocracy: Making Color-blind Friendly UIs</title>
@@ -352,6 +346,12 @@
 <topic>Literature</topic>
 <room>Algonquin D</room>
 <blurb><participant>Tobias Buckell, Ferrett Steinmetz, Cathrynne Valente</participant> How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>2 PM</time>
+<event><title>Rapid Prototyping on the Android with Tcl/Tk</title>
+<topic>Tech</topic>
+<room>Algonquin D</room>
+<blurb><participant>Clif Flynt</participant> Tcl/Tk applications run on the Android. The AndroWish SDK is a clean way to turn a Tcl script into an Android App. I'll demonstrate making a speech input to-do list in under 100 lines of code. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Character Problems – What's an Author to Do?</title>
@@ -375,7 +375,7 @@
 <event><title>Biohacking 101</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things offer a demo of an RFID Implant and answer your questions about biohacking and how it can work for you. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>Creative Destruction</title>
@@ -495,7 +495,13 @@
 <event><title>Flirting for Geeks</title>
 <topic>Life</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy</participant> Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable. </blurb></event>
+<blurb><participant>Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver</participant> Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>10 AM</time>
+<event><title>Networking for Awkward People</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Chioke Mose-Telesford, Kim Driscoll</participant> Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, "Hi, my name is Annalisa," and then just blank? We've got you covered. You'll walk out with a full-proof "elevator pitch" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>11 AM</time>
 <event><title>Fedora Roadmap</title>
@@ -514,12 +520,6 @@
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Michael Grube, Steve Dougherty</participant> In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>10 AM</time>
-<event><title>Networking for Awkward People</title>
-<topic>Tech</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Chioke Mose-Telesford, Kim Driscoll</participant> Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, "Hi, my name is Annalisa," and then just blank? We've got you covered. You'll walk out with a full-proof "elevator pitch" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>2 PM</time>
 <event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
@@ -850,12 +850,6 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>Nick Ristow, Nathan Yost</participant> Our 2016 Charity, All Hands Active, will talk about the development of the Penguicon Uber Badge. They will demonstrate PCB Board Development with open source tools and demonstrate arduino programming from the ground up. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>2 PM</time>
-<event><title>Grand Circus' Traveling Circus: Intro to Coding</title>
-<topic>Tech</topic>
-<room>Computer Lab (EMC III)</room>
-<blurb><participant>Chioke Mose-Telesford, Aaron Wolff, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>4 PM</time>
 <event><title>Open Computer Lab (Unconference)</title>
@@ -892,6 +886,12 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>2 PM</time>
+<event><title>Grand Circus' Traveling Circus: Intro to Coding</title>
+<topic>Tech</topic>
+<room>Computer Lab (EMC III)</room>
+<blurb><participant>Chioke Mose-Telesford, Aaron Wolff, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  “The Traveling Circus,” comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>4 PM</time>
 <event><title>Last Call for Linux</title>
@@ -1349,16 +1349,112 @@
 <blurb><participant>Amal Graafstra, Anita Fowler</participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
+<event><title>Open Demos by BeagleBone, DangerousThings and AHA</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant></participant> Live demos and highlights for of this weekends events as the Penguicon Hackerspace spins up for the weekend! <duration>3 hours and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>9 AM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>10 AM</time>
+<event><title>Backyard Brains Demo #1</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Greg Gage</participant> Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>10 AM</time>
+<event><title>Dangerous Things Does Implanations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>12 hours and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>12 PM</time>
+<event><title>i3 Vinyl Tshirts</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Yajie Wang</participant> i3's Vinyl cutter and Heat Press (shirt press &amp; Mug Press) is coming to Penguicon's Hackerspace!Transfer from a image to sticker, from a sticker to a awesome decoration in your shirt or mug! i3 will also demonstrate the basic functions in our new software “Sure Cuts A Lot”. It’s straightforward and interesting! <duration>1 hour and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>2 PM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>3 PM</time>
+<event><title>DIY Electronic Synth Equipment</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>David Erik Nelson</participant> The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>5 PM</time>
+<event><title>Hackforge Demo</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Sarah Morris</participant> Windsor Hackforge is a shared space where creative technological minds come together and make things happen. They are bringing a hands-on project to this side of the Detroit River. Watching is free, but attendees who want to build along will be asked for a donation to cover the costs of materials. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>6 PM</time>
+<event><title>Backyard Brains Demo #2</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Greg Gage</participant> Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>7 PM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. <duration>1 hour and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>9 PM</time>
+<event><title>Everything and Anything with BeagleBone</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Jason Kridner</participant> Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. <duration>1 hour and 50 minutes</duration></blurb></event>
+<day>SUNDAY, May 1</day>
+<time>10 AM</time>
+<event><title>Dangerous Things RFID Implantations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours and 50 minutes</duration></blurb></event>
+<day>SUNDAY, May 1</day>
+<time>10 AM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>11 AM</time>
 <event><title>The Continuing Penguicon Robot Build</title>
 <topic>DIY, Tech</topic>
-<room>Hackerspace (317)</room>
-<blurb><participant>James Hice, John D. Bell</participant> Come help design and build a robot during the convention. Donations may be accepted depending on the robot design. No skill necessary to help but prior experience would be useful. Useful skills include familiarity with micro-controllers, structural design, costume design, programming, graphic design, and logic! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>4 PM</time>
-<event><title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
+<room>HackerSpace (317)</room>
+<blurb><participant>James Hice, John D. Bell</participant> Come help design and build a robot during the convention. Donations may be accepted depending on the robot design. No skill necessary to help but prior experience would be useful. Useful skills include familiarity with micro-controllers, structural design, costume design, programming, graphic design, and logic! <duration>2 hours and 50 minutes</duration></blurb></event>
+<day>SUNDAY, May 1</day>
+<time>2 PM</time>
+<event><title>Dangerous Things RFID Implantations</title>
 <topic>DIY, Tech</topic>
-<room>Hackerspace (317)</room>
-<blurb><participant>Jason Kridner, Christine Kridner</participant> Want to create your own phone controlled robot? BeagleBones, motors, wifi adapters, USB cameras, chassises and more will be made available for building your own robot that acts as a wifi hotspot and a web server with page you can access by your phone to control the robot or see what it sees. Trained staff on hand will be there to ask your questions and tools will be available to purchase so you can take your creation home with you if you like it.  All weekend in the Hackerspace! <duration>42 minutes</duration></blurb></event>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! He’ll have kits for sale, too. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>2 PM</time>
+<event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>3 PM</time>
+<event><title>Farewell to the Hackerspace</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>All Hands Active</participant> Say goodbye to your favorite All Hands Active members as the Hackerspace closes up for Penguicon 2016. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Demo Build of the Single-Chip Space Invader Synth</title>
@@ -1520,7 +1616,7 @@
 <time>4 PM</time>
 <event><title>Pirate Sea Chanties!</title>
 <topic>Mayhem</topic>
-<blurb><participant>Rathbone the Pirate</participant> Temporary description <duration>00 minutes</duration></blurb></event>
+<blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with authentic sea chanties throughout the weekend! <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
 <event><title>Ribbon Fairies</title>

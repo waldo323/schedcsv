@@ -118,10 +118,6 @@
 <topic>Action Adventure</topic>
 <time>3 PM</time></event><event>
 <room>Algonquin B/C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>What Have You Read?</title>
-<topic>Literature</topic>
-<time>11 AM</time></event><event>
 <day>FRIDAY, APRIL 29</day>
 <title>Opening Ceremonies</title>
 <topic>Penguicon</topic>
@@ -138,6 +134,9 @@
 <time>10 AM</time></event><event>
 <title>The Future of Biohacking</title>
 <topic>Tech</topic>
+<time>11 AM</time></event><event>
+<title>What Have You Read?</title>
+<topic>Literature</topic>
 <time>11 AM</time></event><event>
 <title>Build Your Own Router</title>
 <topic>Tech</topic>
@@ -164,6 +163,9 @@
 <title>The Family That Games Together</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
+<title>The Most Useful Tropes</title>
+<topic>Literature</topic>
+<time>1 PM</time></event><event>
 <title>Accessible UI/UX Design</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
@@ -173,9 +175,6 @@
 <title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <time>4 PM</time></event><event>
-<title>The Most Useful Tropes</title>
-<topic>Literature</topic>
-<time>1 PM</time></event><event>
 <room>Algonquin D</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Writing Group 101</title>
@@ -185,9 +184,6 @@
 <title>Manager or Leader? Running a Technical Team</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
-<title>Rapid Prototyping on the Android with Tcl/Tk</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
 <title>Overthrow the Trichromatocracy: Making Color-blind Friendly UIs</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
@@ -197,6 +193,9 @@
 <title>A Writer's Life</title>
 <topic>Literature</topic>
 <time>1 PM</time></event><event>
+<title>Rapid Prototyping on the Android with Tcl/Tk</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
 <title>Character Problems – What's an Author to Do?</title>
 <topic>Literature</topic>
 <time>3 PM</time></event><event>
@@ -277,6 +276,9 @@
 <topic>Life</topic>
 <time>10 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
+<title>Networking for Awkward People</title>
+<topic>Tech</topic>
+<time>10 AM</time></event><event>
 <title>Fedora Roadmap</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
@@ -286,9 +288,6 @@
 <title>Freenet: A Social Approach to Privacy</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<title>Networking for Awkward People</title>
-<topic>Tech</topic>
-<time>10 AM</time></event><event>
 <title>Set-up and Run Your Own Intelligent Personal Assistant</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
@@ -466,11 +465,6 @@
 <title>All Hands Active Embedded Software</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<day>SUNDAY, May 1</day>
-<title>Grand Circus' Traveling Circus: Intro to Coding</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
-<day>SATURDAY, APRIL 30</day>
 <title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
@@ -490,6 +484,9 @@
 <title>Open Linux Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
+<title>Grand Circus' Traveling Circus: Intro to Coding</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
@@ -745,14 +742,64 @@
 <title>Dangeous Things</title>
 <topic>Tech, Life, DIY</topic>
 <time>7 PM</time></event><event>
-<room>Hackerspace (317)</room>
 <day>FRIDAY, APRIL 29</day>
-<title>The Continuing Penguicon Robot Build</title>
+<title>Open Demos by BeagleBone, DangerousThings and AHA</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
-<title>BeagleBone Build-A-Bot hosted by BeagleBoard.org</title>
+<day>SATURDAY, APRIL 30</day>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
-<time>4 PM</time></event><event>
+<time>9 AM</time></event><event>
+<title>Backyard Brains Demo #1</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<title>Dangerous Things Does Implanations</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>11 AM</time></event><event>
+<title>i3 Vinyl Tshirts</title>
+<topic>DIY, Tech</topic>
+<time>12 PM</time></event><event>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>2 PM</time></event><event>
+<title>DIY Electronic Synth Equipment</title>
+<topic>DIY, Tech</topic>
+<time>3 PM</time></event><event>
+<title>Hackforge Demo</title>
+<topic>DIY, Tech</topic>
+<time>5 PM</time></event><event>
+<title>Backyard Brains Demo #2</title>
+<topic>DIY, Tech</topic>
+<time>6 PM</time></event><event>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>7 PM</time></event><event>
+<title>Everything and Anything with BeagleBone</title>
+<topic>DIY, Tech</topic>
+<time>9 PM</time></event><event>
+<day>SUNDAY, May 1</day>
+<title>Dangerous Things RFID Implantations</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>10 AM</time></event><event>
+<title>The Continuing Penguicon Robot Build</title>
+<topic>DIY, Tech</topic>
+<time>11 AM</time></event><event>
+<title>Dangerous Things RFID Implantations</title>
+<topic>DIY, Tech</topic>
+<time>2 PM</time></event><event>
+<title>Hands on Soldering and Embedded Programming with All Hands Active</title>
+<topic>DIY, Tech</topic>
+<time>2 PM</time></event><event>
+<title>Farewell to the Hackerspace</title>
+<topic>DIY, Tech</topic>
+<time>3 PM</time></event><event>
+<room>Hackerspace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Demo Build of the Single-Chip Space Invader Synth</title>
 <topic>DIY, Tech</topic>
