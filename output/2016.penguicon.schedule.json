@@ -2857,7 +2857,9 @@
         "start_time": "16:00",
         "presenters": [
             "Crazy Mark",
-            "Alex Drummer"
+            "Alex Drummer",
+            "Justin Coluzzi",
+            "Kevin McLeod"
         ],
         "location": "Charlevoix B",
         "minutes": 50,
@@ -3018,7 +3020,9 @@
         "start_time": "17:00",
         "presenters": [
             "Crazy Mark",
-            "Alex Drummer"
+            "Alex Drummer",
+            "Justin Coluzzi",
+            "Kevin McLeod"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
@@ -5018,21 +5022,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! He\u2019ll have kits for sale, too.",
-        "end_date": "5/1/2016",
-        "title": "Dangerous Things RFID Implantations",
-        "track": "DIY, Tech",
-        "start_time": "14:00",
-        "presenters": [
-            "Amal Graafstra",
-            "Anita Fowler"
-        ],
-        "location": "HackerSpace (317)",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
         "end_date": "5/1/2016",
         "title": "Hands on Soldering and Embedded Programming with All Hands Active",
@@ -5388,62 +5377,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. ",
-        "end_date": "",
-        "title": "Build an Environment with Containers and Pivotal",
-        "track": "Tech",
-        "start_time": "16:20",
-        "presenters": [
-            "Gibson Nichols"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "Geeks with Guns is an off-site event held early on Friday afternoon, just prior to the official opening of the con. It involves going to a nearby range, and consuming copious quantities of ammunition while noisily punching holes in various paper targets for a couple of hours. It is a painless and fun way for newbies to learn the fundamentals of firearms safety, and for them (and experienced shooters) to have an opportunity to handle and shoot a variety of guns in the company of other Penguicon attendees.",
-        "end_date": "",
-        "title": "Geeks With Guns",
-        "track": "Penguicon",
-        "start_time": "16:20",
-        "presenters": [
-            "John D. Bell"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.",
-        "end_date": "",
-        "title": "Kerbal Space Program LAB",
-        "track": "Science",
-        "start_time": "16:20",
-        "presenters": [
-            "Bob Trembley"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "Reroot Pontiac: Developing Interest in Awesome Investment in Our Future",
-        "track": "Science",
-        "start_time": "16:20",
-        "presenters": [
-            "Jonathan Ivar Weyhrauch",
-            "Mikhail Shikhmanov"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
     }
 ]

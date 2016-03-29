@@ -1143,7 +1143,7 @@
 <event><title>Costume Contest Muster</title>
 <topic>Penguicon</topic>
 <room>Charlevoix B</room>
-<blurb><participant>Crazy Mark, Alex Drummer</participant> Each year there is a chance for people who love making costumes and cosplay to show off their creations and passion. Entrants should show up for the Muster at least 30 minutes before the contest for judging.  So come down for some fun and maybe enter for a chance to win prizes. Best of Show receives a free badge to Penguicon 2017! Plus, throughout the weekend, N.U.E.T, better known as the Con Scouts will be running around asking people to enter the Hall Favorite Contest. All it takes is allowing N.U.E.T. to take a photo of you in your costume and some basic contact information. Pictures will be posted at the Greeters’ Desk, where every attendee gets one vote for their favorite costume. </blurb></event>
+<blurb><participant>Crazy Mark, Alex Drummer, Justin Coluzzi, Kevin McLeod</participant> Each year there is a chance for people who love making costumes and cosplay to show off their creations and passion. Entrants should show up for the Muster at least 30 minutes before the contest for judging.  So come down for some fun and maybe enter for a chance to win prizes. Best of Show receives a free badge to Penguicon 2017! Plus, throughout the weekend, N.U.E.T, better known as the Con Scouts will be running around asking people to enter the Hall Favorite Contest. All it takes is allowing N.U.E.T. to take a photo of you in your costume and some basic contact information. Pictures will be posted at the Greeters’ Desk, where every attendee gets one vote for their favorite costume. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>4 PM</time>
 <event><title>Writing Fast and Slow</title>
@@ -1209,7 +1209,7 @@
 <event><title>Costume Contest</title>
 <topic>Penguicon</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Crazy Mark, Alex Drummer</participant> Each year there is a chance for people who love making costumes and cosplay to show off their creations and passion. Entrants should show up for the Muster at least 30 minutes before the contest for judging.  So come down for some fun and maybe enter for a chance to win prizes. Best of Show receives a free badge to Penguicon 2017! Plus, throughout the weekend, N.U.E.T, better known as the Con Scouts will be running around asking people to enter the Hall Favorite Contest. All it takes is allowing N.U.E.T. to take a photo of you in your costume and some basic contact information. Pictures will be posted at the Greeters’ Desk, where every attendee gets one vote for their favorite costume. </blurb></event>
+<blurb><participant>Crazy Mark, Alex Drummer, Justin Coluzzi, Kevin McLeod</participant> Each year there is a chance for people who love making costumes and cosplay to show off their creations and passion. Entrants should show up for the Muster at least 30 minutes before the contest for judging.  So come down for some fun and maybe enter for a chance to win prizes. Best of Show receives a free badge to Penguicon 2017! Plus, throughout the weekend, N.U.E.T, better known as the Con Scouts will be running around asking people to enter the Hall Favorite Contest. All it takes is allowing N.U.E.T. to take a photo of you in your costume and some basic contact information. Pictures will be posted at the Greeters’ Desk, where every attendee gets one vote for their favorite costume. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>BoF: Star Wars</title>
@@ -2007,12 +2007,6 @@
 <blurb><participant>Gnora Ford-Lepthien</participant> What is being a furry all about? Find out about your fuzzy friends. Anthropomorphic Characters, Art, &amp; Costumes </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
-<event><title>Dangerous Things RFID Implantations</title>
-<topic>DIY, Tech</topic>
-<room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! He’ll have kits for sale, too. </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>2 PM</time>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -2154,24 +2148,4 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
-<day>NoDay, April 1</day>
-<time>4 PM</time>
-<event><title>Build an Environment with Containers and Pivotal</title>
-<topic>Tech</topic>
-<blurb><participant>Gibson Nichols</participant> Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. <duration>42 minutes</duration></blurb></event>
-<day>NoDay, April 1</day>
-<time>4 PM</time>
-<event><title>Geeks With Guns</title>
-<topic>Penguicon</topic>
-<blurb><participant>John D. Bell</participant> Geeks with Guns is an off-site event held early on Friday afternoon, just prior to the official opening of the con. It involves going to a nearby range, and consuming copious quantities of ammunition while noisily punching holes in various paper targets for a couple of hours. It is a painless and fun way for newbies to learn the fundamentals of firearms safety, and for them (and experienced shooters) to have an opportunity to handle and shoot a variety of guns in the company of other Penguicon attendees. <duration>42 minutes</duration></blurb></event>
-<day>NoDay, April 1</day>
-<time>4 PM</time>
-<event><title>Kerbal Space Program LAB</title>
-<topic>Science</topic>
-<blurb><participant>Bob Trembley</participant> Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator. <duration>42 minutes</duration></blurb></event>
-<day>NoDay, April 1</day>
-<time>4 PM</time>
-<event><title>Reroot Pontiac: Developing Interest in Awesome Investment in Our Future</title>
-<topic>Science</topic>
-<blurb><participant>Jonathan Ivar Weyhrauch, Mikhail Shikhmanov</participant>  <duration>42 minutes</duration></blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>
