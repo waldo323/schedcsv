@@ -3090,7 +3090,7 @@ event_end,21:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,9 PM
-Location,Portage Auditorium
+Location,Portage
 duration,50 minutes
 description,"Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available."
 index,67
@@ -3106,7 +3106,7 @@ End Time,21:50
 tracknosp,['Tech']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Portage Auditorium', 'Tech', 'The Dark Web Big Three', 'Pat Baker', 'Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Portage', 'Tech', 'The Dark Web Big Three', 'Pat Baker', 'Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Pat Baker
 avneeds,none
@@ -3120,13 +3120,13 @@ AV Needs,
 name,The Dark Web Big Three
 Private,PUBLIC
 bookname,The Dark Web Big Three
-venue,Portage Auditorium
+venue,Portage
 Book Description,"Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available."
 Presenters,Pat Baker
 csvsafedescrip,Get and introduction to the big three in censorship-resistant communication- TOR- I2P and freenet and learn how they work and some of the options they have available.
 speakernosp,PatBaker
 starttime,21:00
-roomnosp,PortageAuditorium
+roomnosp,Portage
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -7787,7 +7787,7 @@ event_end,14:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,2 PM
-Location,Portage Auditorium
+Location,Portage
 duration,50 minutes
 description,"A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites."
 index,169
@@ -7803,7 +7803,7 @@ End Time,14:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Portage Auditorium', 'Tech', 'Tor: what is it and is it an onion?', 'Pat Baker', 'A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Portage', 'Tech', 'Tor: what is it and is it an onion?', 'Pat Baker', 'A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Pat Baker
 avneeds,none
@@ -7817,13 +7817,13 @@ AV Needs,
 name,Tor: what is it and is it an onion?
 Private,PUBLIC
 bookname,Tor: what is it and is it an onion?
-venue,Portage Auditorium
+venue,Portage
 Book Description,"A general background of TOR, the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites."
 Presenters,Pat Baker
 csvsafedescrip,A general background of TOR- the onion router. Includes discussion on how to install it and some of the options to create your own dark web sites.
 speakernosp,PatBaker
 starttime,14:00
-roomnosp,PortageAuditorium
+roomnosp,Portage
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
