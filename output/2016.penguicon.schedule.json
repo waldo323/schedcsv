@@ -2565,10 +2565,10 @@
     },
     {
         "book_description": "A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?",
-        "end_date": "4/30/2016",
+        "end_date": "4/29/2016",
         "title": "Character Problems \u2013 What's an Author to Do?",
         "track": "Literature",
-        "start_time": "15:00",
+        "start_time": "20:00",
         "presenters": [
             "Stacy Bender",
             "Mary Lynn Gibbs",
@@ -2576,10 +2576,10 @@
             "Emmy Jackson",
             "Cindy Spencer Pape"
         ],
-        "location": "Algonquin D",
+        "location": "Montcalm",
         "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
     },
     {
         "book_description": "Presentation based on the books \"Building Microservices\" by Sam Newman and \"Release It! Design and Deploy Production Ready Software\" by Michael T. Nygard. ",
@@ -2962,14 +2962,14 @@
         "end_date": "4/30/2016",
         "title": "Python Code Walk-Through",
         "track": "Tech",
-        "start_time": "16:00",
+        "start_time": "19:00",
         "presenters": [
             "Mike Bernson"
         ],
         "location": "Montcalm",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "16:50"
+        "end_time": "19:50"
     },
     {
         "book_description": "Online backup is incredibly useful, but has many privacy and integrity risks. Tarsnap is an online backup service that only handles your data in encrypted form. It's inexpensive and reliable. Plus you don't need to trust the Tarsnap service--they can't access your backups even if they want to. And Tarsnap's built-in deduplication saves space, letting you store terabytes of backups in mere gigabytes of disk. This talk takes you through using Tarsnap, from backing up a system to customizing and rotating backups, to fully restoring them.",
@@ -3473,14 +3473,14 @@
         "end_date": "4/30/2016",
         "title": "Data Analysis Using Python",
         "track": "Tech",
-        "start_time": "19:00",
+        "start_time": "16:00",
         "presenters": [
             "Richard Herrell"
         ],
         "location": "Montcalm",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "19:50"
+        "end_time": "16:50"
     },
     {
         "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
