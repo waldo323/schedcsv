@@ -1844,47 +1844,47 @@ minutes,50
 allday,FALSE
 event_type,Comics
 All Day Event,FALSE
-event_end,19:50
+event_end,14:50
 event_type_list,['Comics']
 private,PUBLIC
-endtimeampm,7 PM
-Location,Nicolet
+endtimeampm,2 PM
+Location,EMC I
 duration,50 minutes
 description,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
 index,40
-speakers,Noa Page
+speakers,"Elizabeth ""Biz"" Nidjam"
 bookdescrip,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
 Track,Comics
 startday,4/29/2016
 Title,Comics in the Classroom
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
 tracknosp,['Comics']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Nicolet', 'Comics', 'Comics in the Classroom', 'Noa Page', 'With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '14:00', '4/29/2016', '14:50', 'EMC I', 'Comics', 'Comics in the Classroom', 'Elizabeth ""Biz"" Nidjam', 'With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Noa Page
+calspeakers,Elizabeth 'Biz' Nidjam
 avneeds,none
-speakerlist,['Noa Page']
+speakerlist,"['Elizabeth ""Biz"" Nidjam']"
 hours,0
 totalminutes,50
-speakernosplist,['NoaPage']
+speakernosplist,['Elizabeth-Biz-Nidjam']
 caldescrip,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
-endtime,19:50
+endtime,14:50
 AV Needs,
 name,Comics in the Classroom
 Private,PUBLIC
 bookname,Comics in the Classroom
-venue,Nicolet
+venue,EMC I
 Book Description,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
-Presenters,Noa Page
+Presenters,"Elizabeth ""Biz"" Nidjam"
 csvsafedescrip,With visual culture becoming more and more integral to our lives- teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary- high school and university teaching.
-speakernosp,NoaPage
-starttime,19:00
-roomnosp,Nicolet
+speakernosp,Elizabeth-Biz-Nidjam
+starttime,14:00
+roomnosp,EMCI
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -6550,7 +6550,7 @@ speakers,Shetan Noir
 bookdescrip,Come learn how to crochet!  Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.
 Track,DIY
 startday,4/30/2016
-Title,Crocheting 101 DIY
+Title,Crocheting 101
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
@@ -6558,7 +6558,7 @@ End Time,13:50
 tracknosp,['DIY']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'EMC I', 'DIY', 'Crocheting 101 DIY', 'Shetan Noir', 'Come learn how to crochet!  Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'EMC I', 'DIY', 'Crocheting 101', 'Shetan Noir', 'Come learn how to crochet!  Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Shetan Noir
 avneeds,none
@@ -6569,9 +6569,9 @@ speakernosplist,['ShetanNoir']
 caldescrip,Come learn how to crochet!  Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.
 endtime,13:50
 AV Needs,
-name,Crocheting 101 DIY
+name,Crocheting 101
 Private,PUBLIC
-bookname,Crocheting 101 DIY
+bookname,Crocheting 101
 venue,EMC I
 Book Description,Come learn how to crochet! Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.
 Presenters,Shetan Noir
@@ -7414,10 +7414,10 @@ minutes,50
 allday,FALSE
 event_type,Comics
 All Day Event,FALSE
-event_end,14:50
+event_end,18:50
 event_type_list,['Comics']
 private,PUBLIC
-endtimeampm,2 PM
+endtimeampm,6 PM
 Location,EMC I 
 duration,50 minutes
 description,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
@@ -7427,14 +7427,14 @@ bookdescrip,Have you ever wanted to write an essay on the Marvel universe? How a
 Track,Comics
 startday,4/30/2016
 Title,So You Want to Get a Degree in Comics?
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,18:00
+event_start,18:00
+starttimeampm,6 PM
+End Time,18:50
 tracknosp,['Comics']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'EMC I ', 'Comics', 'So You Want to Get a Degree in Comics?', 'Elizabeth ""Biz"" Nidjam', 'Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '18:00', '4/30/2016', '18:50', 'EMC I ', 'Comics', 'So You Want to Get a Degree in Comics?', 'Elizabeth ""Biz"" Nidjam', 'Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Elizabeth 'Biz' Nidjam
 avneeds,none
@@ -7443,7 +7443,7 @@ hours,0
 totalminutes,50
 speakernosplist,['Elizabeth-Biz-Nidjam']
 caldescrip,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
-endtime,14:50
+endtime,18:50
 AV Needs,
 name,So You Want to Get a Degree in Comics?
 Private,PUBLIC
@@ -7453,7 +7453,7 @@ Book Description,Have you ever wanted to write an essay on the Marvel universe? 
 Presenters,"Elizabeth ""Biz"" Nidjam"
 csvsafedescrip,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
 speakernosp,Elizabeth-Biz-Nidjam
-starttime,14:00
+starttime,18:00
 roomnosp,EMCI
 Start Date,4/30/2016
 minutes,50
