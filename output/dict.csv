@@ -13089,7 +13089,7 @@ speakers,"Bob Trembley, Daniel Dugan"
 bookdescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Track,Tech
 startday,5/1/2016
-Title,Kerbal Space Build off
+Title,Kerbal Space Build-Off
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
@@ -13097,7 +13097,7 @@ End Time,12:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '11:00', '5/1/2016', '12:50', 'Computer Lab (EMC III)', 'Tech', 'Kerbal Space Build off', 'Bob Trembley, Daniel Dugan', 'Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '11:00', '5/1/2016', '12:50', 'Computer Lab (EMC III)', 'Tech', 'Kerbal Space Build-Off', 'Bob Trembley, Daniel Dugan', 'Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Bob Trembley, Daniel Dugan"
 avneeds,none
@@ -13108,9 +13108,9 @@ speakernosplist,"['BobTrembley', 'DanielDugan']"
 caldescrip,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 endtime,12:50
 AV Needs,
-name,Kerbal Space Build off
+name,Kerbal Space Build-Off
 Private,PUBLIC
-bookname,Kerbal Space Build off
+bookname,Kerbal Space Build-Off
 venue,Computer Lab (EMC III)
 Book Description,"Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator."
 Presenters,"Bob Trembley, Daniel Dugan"
@@ -13496,7 +13496,7 @@ event_end,11:50
 event_type_list,['Life']
 private,PUBLIC
 endtimeampm,11 AM
-Location,Montcalm
+Location,Charlevoix C
 duration,50 minutes
 description,Let's talk about LGBQT identities
 index,293
@@ -13512,7 +13512,7 @@ End Time,11:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Montcalm', 'Life', 'LGBTQ Identities', 'Jen Schwartz, Matt Sweet, Max Issac', ""Let's talk about LGBQT identities"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Charlevoix C', 'Life', 'LGBTQ Identities', 'Jen Schwartz, Matt Sweet, Max Issac', ""Let's talk about LGBQT identities"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
 avneeds,none
@@ -13526,13 +13526,13 @@ AV Needs,
 name,LGBTQ Identities
 Private,PUBLIC
 bookname,LGBTQ Identities
-venue,Montcalm
+venue,Charlevoix C
 Book Description,Let's talk about LGBQT identities
 Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
 csvsafedescrip,Let's talk about LGBQT identities
 speakernosp,"JenSchwartz,MattSweet,MaxIssac"
 starttime,11:00
-roomnosp,Montcalm
+roomnosp,CharlevoixC
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
