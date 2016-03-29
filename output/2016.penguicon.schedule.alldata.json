@@ -5241,7 +5241,7 @@
         "duration": "50 minutes",
         "description": "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable.",
         "index": 73,
-        "speakers": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver",
+        "speakers": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver, Jessica Roland",
         "bookdescrip": "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable.",
         "Track": "Life",
         "startday": "4/29/2016",
@@ -5263,7 +5263,7 @@
             "Charlevoix A",
             "Life",
             "Flirting for Geeks",
-            "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver",
+            "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver, Jessica Roland",
             "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable.",
             "00hr:50min",
             "",
@@ -5271,14 +5271,15 @@
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
-        "calspeakers": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver",
+        "calspeakers": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver, Jessica Roland",
         "avneeds": "none",
         "speakerlist": [
             "Nuri Gocay",
             "Bob Waltenspiel",
             "Dave Phillips",
             "Scott Kennedy",
-            "Marie Staver"
+            "Marie Staver",
+            "Jessica Roland"
         ],
         "hours": 0,
         "totalminutes": 50,
@@ -5287,7 +5288,8 @@
             "BobWaltenspiel",
             "DavePhillips",
             "ScottKennedy",
-            "MarieStaver"
+            "MarieStaver",
+            "JessicaRoland"
         ],
         "caldescrip": "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable.",
         "endtime": "22:50",
@@ -5297,9 +5299,9 @@
         "bookname": "Flirting for Geeks",
         "venue": "Charlevoix A",
         "Book Description": "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny, it's an irreverent and honest reflection of love, sex, and fandom. Find ways to woo, methods for making friends, and how to have a good time without making others uncomfortable.",
-        "Presenters": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver",
+        "Presenters": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver, Jessica Roland",
         "csvsafedescrip": "Come learn how (and how not) to flirt from some of our local fandom's biggest flirts. Not only is it laugh-out-loud funny- it's an irreverent and honest reflection of love- sex- and fandom. Find ways to woo- methods for making friends- and how to have a good time without making others uncomfortable.",
-        "speakernosp": "NuriGocay,BobWaltenspiel,DavePhillips,ScottKennedy,MarieStaver",
+        "speakernosp": "NuriGocay,BobWaltenspiel,DavePhillips,ScottKennedy,MarieStaver,JessicaRoland",
         "starttime": "22:00",
         "roomnosp": "CharlevoixA",
         "Start Date": "4/29/2016",
