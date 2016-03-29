@@ -559,7 +559,7 @@
     {
         "book_description": "Live demos and highlights for of this weekends events as the Penguicon Hackerspace spins up for the weekend!",
         "end_date": "4/29/2016",
-        "title": "Open Demos by BeagleBone, DangerousThings and AHA",
+        "title": "Open Demos by BeagleBone, Dangerous Things and All Hands Active",
         "track": "DIY, Tech",
         "start_time": "19:00",
         "presenters": [
@@ -2696,20 +2696,6 @@
             "David Erik Nelson"
         ],
         "location": "Hackerspace (317)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live.",
-        "end_date": "4/30/2016",
-        "title": "DIY Electronic Synth Equipment",
-        "track": "DIY, Tech",
-        "start_time": "15:00",
-        "presenters": [
-            "David Erik Nelson"
-        ],
-        "location": "HackerSpace (317)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "15:50"
