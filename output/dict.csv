@@ -2350,48 +2350,48 @@ minutes,50
 allday,FALSE
 event_type,Anime
 All Day Event,FALSE
-event_end,20:50
+event_end,14:50
 event_type_list,['Anime']
 private,PUBLIC
-endtimeampm,8 PM
-Location,EMC V
-duration,50 minutes
+endtimeampm,2 PM
+Location,EMC II
+duration,672 hours and 50 minutes
 description,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
 index,51
-speakers,
+speakers,"Cassy Sinke, BluRaven C. Houvener"
 bookdescrip,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
 Track,Anime
-startday,4/29/2016
+startday,5/1/2016
 Title,Influence of Anime in Media
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
-End Time,20:50
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
 tracknosp,['Anime']
 endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC V', 'Anime', 'Influence of Anime in Media', '', ""Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+dayheader,"SUNDAY, May 1"
+input,"['5/1/2016', '14:00', '4/29/2016', '14:50', 'EMC II', 'Anime', 'Influence of Anime in Media', 'Cassy Sinke, BluRaven C. Houvener', ""Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,
+calspeakers,"Cassy Sinke, BluRaven C. Houvener"
 avneeds,none
-speakerlist,['']
-hours,0
-totalminutes,50
-speakernosplist,['']
+speakerlist,"['Cassy Sinke', 'BluRaven C. Houvener']"
+hours,672
+totalminutes,40370
+speakernosplist,"['CassySinke', 'BluRavenC.Houvener']"
 caldescrip,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
-endtime,20:50
+endtime,14:50
 AV Needs,
 name,Influence of Anime in Media
 Private,PUBLIC
 bookname,Influence of Anime in Media
-venue,EMC V
+venue,EMC II
 Book Description,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
-Presenters,
+Presenters,"Cassy Sinke, BluRaven C. Houvener"
 csvsafedescrip,Fans of anime and manga know it's influenced our lives- but what about the other kinds of media we consume? Television- music- and games draw more and more inspiration from anime every day- and not always in obvious ways.
-speakernosp,
-starttime,20:00
-roomnosp,EMCV
-Start Date,4/29/2016
+speakernosp,"CassySinke,BluRavenC.Houvener"
+starttime,14:00
+roomnosp,EMCII
+Start Date,5/1/2016
 minutes,50
 allday,FALSE
 event_type,DIY
@@ -13906,47 +13906,47 @@ minutes,50
 allday,FALSE
 event_type,Anime
 All Day Event,FALSE
-event_end,12:50
+event_end,13:50
 event_type_list,['Anime']
 private,PUBLIC
-endtimeampm,12 PM
-Location,Hamlin
+endtimeampm,1 PM
+Location,EMC I
 duration,50 minutes
 description,"Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"
 index,302
-speakers,"Cassy Sinke, BluRaven C. Houvener"
+speakers,
 bookdescrip,"Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"
 Track,Anime
 startday,5/1/2016
 Title,BoF: Favorite/Dropped Anime
-Start Time,12:00
-event_start,12:00
-starttimeampm,12 PM
-End Time,12:50
+Start Time,13:00
+event_start,13:00
+starttimeampm,1 PM
+End Time,13:50
 tracknosp,['Anime']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Hamlin', 'Anime', 'BoF: Favorite/Dropped Anime', 'Cassy Sinke, BluRaven C. Houvener', ""Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'EMC I', 'Anime', 'BoF: Favorite/Dropped Anime', '\n', ""Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Cassy Sinke, BluRaven C. Houvener"
+calspeakers,
 avneeds,none
-speakerlist,"['Cassy Sinke', 'BluRaven C. Houvener']"
+speakerlist,['']
 hours,0
 totalminutes,50
-speakernosplist,"['CassySinke', 'BluRavenC.Houvener']"
+speakernosplist,['']
 caldescrip,"Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"
-endtime,12:50
+endtime,13:50
 AV Needs,
 name,BoF: Favorite/Dropped Anime
 Private,PUBLIC
 bookname,BoF: Favorite/Dropped Anime
-venue,Hamlin
+venue,EMC I
 Book Description,"Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!"
-Presenters,"Cassy Sinke, BluRaven C. Houvener"
+Presenters, 
 csvsafedescrip,Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why- and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle- discuss- and walk away with some new anime to watch!
-speakernosp,"CassySinke,BluRavenC.Houvener"
-starttime,12:00
-roomnosp,Hamlin
+speakernosp,
+starttime,13:00
+roomnosp,EMCI
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
@@ -14642,28 +14642,28 @@ minutes,50
 allday,FALSE
 event_type,Anime
 All Day Event,FALSE
-event_end,13:50
+event_end,20:50
 event_type_list,['Anime']
 private,PUBLIC
-endtimeampm,1 PM
-Location,EMC I
+endtimeampm,8 PM
+Location,EMC V
 duration,50 minutes
 description,"Friendship is magic, so come talk with other fans about the MLP show and fandom!"
 index,318
 speakers,"Christina June, Galen Nelson"
 bookdescrip,"Friendship is magic, so come talk with other fans about the MLP show and fandom!"
 Track,Anime
-startday,5/1/2016
+startday,4/29/2016
 Title,My Little Pony: Friendship Is Magic
-Start Time,13:00
-event_start,13:00
-starttimeampm,1 PM
-End Time,13:50
+Start Time,20:00
+event_start,20:00
+starttimeampm,8 PM
+End Time,20:50
 tracknosp,['Anime']
-endday,5/1/2016
-dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'EMC I', 'Anime', 'My Little Pony: Friendship Is Magic', 'Christina June, Galen Nelson', 'Friendship is magic, so come talk with other fans about the MLP show and fandom!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,5/1/2016
+endday,4/29/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC V', 'Anime', 'My Little Pony: Friendship Is Magic', 'Christina June, Galen Nelson', 'Friendship is magic, so come talk with other fans about the MLP show and fandom!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/29/2016
 calspeakers,"Christina June, Galen Nelson"
 avneeds,none
 speakerlist,"['Christina June', 'Galen Nelson']"
@@ -14671,19 +14671,19 @@ hours,0
 totalminutes,50
 speakernosplist,"['ChristinaJune', 'GalenNelson']"
 caldescrip,"Friendship is magic, so come talk with other fans about the MLP show and fandom!"
-endtime,13:50
+endtime,20:50
 AV Needs,
 name,My Little Pony: Friendship Is Magic
 Private,PUBLIC
 bookname,My Little Pony: Friendship Is Magic
-venue,EMC I
+venue,EMC V
 Book Description,"Friendship is magic, so come talk with other fans about the MLP show and fandom!"
 Presenters,"Christina June, Galen Nelson"
 csvsafedescrip,Friendship is magic- so come talk with other fans about the MLP show and fandom!
 speakernosp,"ChristinaJune,GalenNelson"
-starttime,13:00
-roomnosp,EMCI
-Start Date,5/1/2016
+starttime,20:00
+roomnosp,EMCV
+Start Date,4/29/2016
 minutes,50
 allday,FALSE
 event_type,Media
