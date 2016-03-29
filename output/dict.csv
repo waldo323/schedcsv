@@ -2358,7 +2358,7 @@ Location,EMC II
 duration,672 hours and 50 minutes
 description,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
 index,51
-speakers,"Cassy Sinke, BluRaven C. Houvener"
+speakers,"Christina June, Galen Nelson"
 bookdescrip,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
 Track,Anime
 startday,5/1/2016
@@ -2370,14 +2370,14 @@ End Time,14:50
 tracknosp,['Anime']
 endday,4/29/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '4/29/2016', '14:50', 'EMC II', 'Anime', 'Influence of Anime in Media', 'Cassy Sinke, BluRaven C. Houvener', ""Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '4/29/2016', '14:50', 'EMC II', 'Anime', 'Influence of Anime in Media', 'Christina June, Galen Nelson', ""Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,"Cassy Sinke, BluRaven C. Houvener"
+calspeakers,"Christina June, Galen Nelson"
 avneeds,none
-speakerlist,"['Cassy Sinke', 'BluRaven C. Houvener']"
+speakerlist,"['Christina June', 'Galen Nelson']"
 hours,672
 totalminutes,40370
-speakernosplist,"['CassySinke', 'BluRavenC.Houvener']"
+speakernosplist,"['ChristinaJune', 'GalenNelson']"
 caldescrip,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
 endtime,14:50
 AV Needs,
@@ -2386,9 +2386,9 @@ Private,PUBLIC
 bookname,Influence of Anime in Media
 venue,EMC II
 Book Description,"Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways."
-Presenters,"Cassy Sinke, BluRaven C. Houvener"
+Presenters,"Christina June, Galen Nelson"
 csvsafedescrip,Fans of anime and manga know it's influenced our lives- but what about the other kinds of media we consume? Television- music- and games draw more and more inspiration from anime every day- and not always in obvious ways.
-speakernosp,"CassySinke,BluRavenC.Houvener"
+speakernosp,"ChristinaJune,GalenNelson"
 starttime,14:00
 roomnosp,EMCII
 Start Date,5/1/2016
@@ -9072,10 +9072,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,16:50
+event_end,19:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
+endtimeampm,7 PM
 Location,EMC IV
 duration,50 minutes
 description,"Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids."
@@ -9085,14 +9085,14 @@ bookdescrip,"Krunal Desai, senior avionics engineer at Planetary Resources, the 
 Track,Tech
 startday,4/30/2016
 Title,The Tech Behind Asteroid Mining
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,19:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'EMC IV', 'Tech', 'The Tech Behind Asteroid Mining', 'Krunal Desai', 'Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'Tech', 'The Tech Behind Asteroid Mining', 'Krunal Desai', 'Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Krunal Desai
 avneeds,none
@@ -9101,7 +9101,7 @@ hours,0
 totalminutes,50
 speakernosplist,['KrunalDesai']
 caldescrip,"Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids."
-endtime,16:50
+endtime,19:50
 AV Needs,
 name,The Tech Behind Asteroid Mining
 Private,PUBLIC
@@ -9111,7 +9111,7 @@ Book Description,"Krunal Desai, senior avionics engineer at Planetary Resources,
 Presenters,Krunal Desai
 csvsafedescrip,Krunal Desai- senior avionics engineer at Planetary Resources- the asteroid mining company talks about some of the technologies we use- and the challenges we face in mining asteroids.
 speakernosp,KrunalDesai
-starttime,16:00
+starttime,19:00
 roomnosp,EMCIV
 Start Date,4/30/2016
 minutes,50
@@ -10545,10 +10545,10 @@ minutes,50
 allday,FALSE
 event_type,After Dark
 All Day Event,FALSE
-event_end,19:50
+event_end,16:50
 event_type_list,['After Dark']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,4 PM
 Location,EMC IV
 duration,50 minutes
 description,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
@@ -10558,14 +10558,14 @@ bookdescrip,"Come with all your questions about sex and safety, and we'll talk a
 Track,After Dark
 startday,4/30/2016
 Title,Sexual Safety
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
 tracknosp,['AfterDark']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'EMC IV', 'After Dark', 'Sexual Safety', 'Jen Schwartz, Matt Sweet, Max Issac', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'EMC IV', 'After Dark', 'Sexual Safety', 'Jen Schwartz, Matt Sweet, Max Issac', ""Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
 avneeds,none
@@ -10574,7 +10574,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
 caldescrip,"Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!"
-endtime,19:50
+endtime,16:50
 AV Needs,
 name,Sexual Safety
 Private,PUBLIC
@@ -10584,7 +10584,7 @@ Book Description,"Come with all your questions about sex and safety, and we'll t
 Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
 csvsafedescrip,Come with all your questions about sex and safety- and we'll talk about how to keep safe and stay healthy!
 speakernosp,"JenSchwartz,MattSweet,MaxIssac"
-starttime,19:00
+starttime,16:00
 roomnosp,EMCIV
 Start Date,4/30/2016
 minutes,50
