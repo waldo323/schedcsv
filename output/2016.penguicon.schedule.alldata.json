@@ -8295,7 +8295,7 @@
             "Hands on Soldering and Embedded Programming with All Hands Active",
             "All Hands Active",
             "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -8477,15 +8477,15 @@
         "allday": "FALSE",
         "event_type": "DIY, Tech",
         "All Day Event": "FALSE",
-        "event_end": "11:50",
+        "event_end": "12:50",
         "event_type_list": [
             "DIY",
             "Tech"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "11 AM",
+        "endtimeampm": "12 PM",
         "Location": "Portage",
-        "duration": "50 minutes",
+        "duration": "1 hour and 50 minutes",
         "description": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
         "index": 118,
         "speakers": "Chad Sinke",
@@ -8496,7 +8496,7 @@
         "Start Time": "11:00",
         "event_start": "11:00",
         "starttimeampm": "11 AM",
-        "End Time": "11:50",
+        "End Time": "12:50",
         "tracknosp": [
             "DIY",
             "Tech"
@@ -8507,7 +8507,7 @@
             "4/30/2016",
             "11:00",
             "4/30/2016",
-            "11:50",
+            "12:50",
             "Portage",
             "DIY, Tech",
             "DIY Electric Car Edition",
@@ -8524,13 +8524,13 @@
         "speakerlist": [
             "Chad Sinke"
         ],
-        "hours": 0,
-        "totalminutes": 50,
+        "hours": 1,
+        "totalminutes": 110,
         "speakernosplist": [
             "ChadSinke"
         ],
         "caldescrip": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
-        "endtime": "11:50",
+        "endtime": "12:50",
         "AV Needs": "",
         "name": "DIY Electric Car Edition",
         "Private": "PUBLIC",
@@ -19943,15 +19943,15 @@
         "allday": "FALSE",
         "event_type": "DIY, Tech",
         "All Day Event": "FALSE",
-        "event_end": "10:50",
+        "event_end": "12:50",
         "event_type_list": [
             "DIY",
             "Tech"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "10 AM",
+        "endtimeampm": "12 PM",
         "Location": "Portage",
-        "duration": "50 minutes",
+        "duration": "1 hour and 50 minutes",
         "description": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
         "index": 277,
         "speakers": "Chad Sinke",
@@ -19959,10 +19959,10 @@
         "Track": "DIY, Tech",
         "startday": "5/1/2016",
         "Title": "DIY Electric Car Edition 2",
-        "Start Time": "10:00",
-        "event_start": "10:00",
-        "starttimeampm": "10 AM",
-        "End Time": "10:50",
+        "Start Time": "11:00",
+        "event_start": "11:00",
+        "starttimeampm": "11 AM",
+        "End Time": "12:50",
         "tracknosp": [
             "DIY",
             "Tech"
@@ -19971,9 +19971,9 @@
         "dayheader": "SUNDAY, May 1",
         "input": [
             "5/1/2016",
-            "10:00",
+            "11:00",
             "5/1/2016",
-            "10:50",
+            "12:50",
             "Portage",
             "DIY, Tech",
             "DIY Electric Car Edition 2",
@@ -19990,13 +19990,13 @@
         "speakerlist": [
             "Chad Sinke"
         ],
-        "hours": 0,
-        "totalminutes": 50,
+        "hours": 1,
+        "totalminutes": 110,
         "speakernosplist": [
             "ChadSinke"
         ],
         "caldescrip": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
-        "endtime": "10:50",
+        "endtime": "12:50",
         "AV Needs": "",
         "name": "DIY Electric Car Edition 2",
         "Private": "PUBLIC",
@@ -20006,7 +20006,7 @@
         "Presenters": "Chad Sinke",
         "csvsafedescrip": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it- how he did it- and how you can build your own car too!  If you're interested in Electric Vehicles- Engineering- or just awesome DIY projects this is a panel you won't want to miss!",
         "speakernosp": "ChadSinke",
-        "starttime": "10:00",
+        "starttime": "11:00",
         "roomnosp": "Portage",
         "Start Date": "5/1/2016",
         "minutes": "50"
