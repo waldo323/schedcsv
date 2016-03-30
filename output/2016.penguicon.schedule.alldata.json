@@ -3686,7 +3686,7 @@
         "private": "PUBLIC",
         "endtimeampm": "2 PM",
         "Location": "EMC II",
-        "duration": "672 hours and 50 minutes",
+        "duration": "50 minutes",
         "description": "Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways.",
         "index": 51,
         "speakers": "Christina June, Galen Nelson",
@@ -3701,12 +3701,12 @@
         "tracknosp": [
             "Anime"
         ],
-        "endday": "4/29/2016",
+        "endday": "5/1/2016",
         "dayheader": "SUNDAY, May 1",
         "input": [
             "5/1/2016",
             "14:00",
-            "4/29/2016",
+            "5/1/2016",
             "14:50",
             "EMC II",
             "Anime",
@@ -3718,15 +3718,15 @@
             "FALSE",
             "PUBLIC"
         ],
-        "End Date": "4/29/2016",
+        "End Date": "5/1/2016",
         "calspeakers": "Christina June, Galen Nelson",
         "avneeds": "none",
         "speakerlist": [
             "Christina June",
             "Galen Nelson"
         ],
-        "hours": 672,
-        "totalminutes": 40370,
+        "hours": 0,
+        "totalminutes": 50,
         "speakernosplist": [
             "ChristinaJune",
             "GalenNelson"
@@ -24072,7 +24072,7 @@
         "private": "PUBLIC",
         "endtimeampm": "7 PM",
         "Location": "EMC II",
-        "duration": "9 hours and 50 minutes",
+        "duration": "50 minutes",
         "description": "Come talk about some of the best and worst Manga to Anime adaptations.  Which were done well? Which were just torture to watch?  Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans!",
         "index": 334,
         "speakers": "",
@@ -24080,9 +24080,9 @@
         "Track": "Anime",
         "startday": "4/29/2016",
         "Title": "BoF: Manga 2 Anime",
-        "Start Time": "10:00",
-        "event_start": "10:00",
-        "starttimeampm": "10 AM",
+        "Start Time": "19:00",
+        "event_start": "19:00",
+        "starttimeampm": "7 PM",
         "End Time": "19:50",
         "tracknosp": [
             "Anime"
@@ -24091,7 +24091,7 @@
         "dayheader": "FRIDAY, APRIL 29",
         "input": [
             "4/29/2016",
-            "10:00",
+            "19:00",
             "4/29/2016",
             "19:50",
             "EMC II",
@@ -24110,8 +24110,8 @@
         "speakerlist": [
             ""
         ],
-        "hours": 9,
-        "totalminutes": 590,
+        "hours": 0,
+        "totalminutes": 50,
         "speakernosplist": [
             ""
         ],
@@ -24126,7 +24126,7 @@
         "Presenters": "",
         "csvsafedescrip": "Come talk about some of the best and worst Manga to Anime adaptations.  Which were done well? Which were just torture to watch?  Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans!",
         "speakernosp": "",
-        "starttime": "10:00",
+        "starttime": "19:00",
         "roomnosp": "EMCII",
         "Start Date": "4/29/2016",
         "minutes": "50"
