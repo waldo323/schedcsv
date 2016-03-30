@@ -3140,7 +3140,7 @@ Location,Restaurant
 duration,50 minutes
 description,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
 index,68
-speakers,
+speakers,"Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang"
 bookdescrip,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
 Track,Penguicon
 startday,4/29/2016
@@ -3152,14 +3152,14 @@ End Time,21:50
 tracknosp,['Penguicon']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Restaurant', 'Penguicon', 'Social Hour ', '', 'Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Restaurant', 'Penguicon', 'Social Hour ', ' Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang', 'Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,
+calspeakers,"Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang"
 avneeds,none
-speakerlist,['']
+speakerlist,"['Ann Lemay', 'Ann Leckie', 'Cathrynne Valente', 'Deb Nicholson', 'Jason Mars', 'Lingjia Tang']"
 hours,0
 totalminutes,50
-speakernosplist,['']
+speakernosplist,"['AnnLemay', 'AnnLeckie', 'CathrynneValente', 'DebNicholson', 'JasonMars', 'LingjiaTang']"
 caldescrip,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
 endtime,21:50
 AV Needs,
@@ -3168,9 +3168,9 @@ Private,PUBLIC
 bookname,Social Hour
 venue,Restaurant
 Book Description,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
-Presenters,
+Presenters," Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang"
 csvsafedescrip,Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar!
-speakernosp,
+speakernosp,"AnnLemay,AnnLeckie,CathrynneValente,DebNicholson,JasonMars,LingjiaTang"
 starttime,21:00
 roomnosp,Restaurant
 Start Date,4/29/2016
@@ -7691,11 +7691,11 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,FALSE
-event_end,14:50
+event_end,18:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,2 PM
-Location,Montcalm
+endtimeampm,6 PM
+Location,Charlevoix A
 duration,50 minutes
 description,Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.
 index,167
@@ -7704,14 +7704,14 @@ bookdescrip,Join Guest of Honor Ann Leckie for a reading and a chance to have yo
 Track,Literature
 startday,4/30/2016
 Title,Ann Leckie Reading
-Start Time,14:00
-event_start,14:00
-starttimeampm,2 PM
-End Time,14:50
+Start Time,18:00
+event_start,18:00
+starttimeampm,6 PM
+End Time,18:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Montcalm', 'Literature', 'Ann Leckie Reading', 'Ann Leckie', 'Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '18:00', '4/30/2016', '18:50', 'Charlevoix A', 'Literature', 'Ann Leckie Reading', 'Ann Leckie', 'Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Ann Leckie
 avneeds,none
@@ -7720,18 +7720,18 @@ hours,0
 totalminutes,50
 speakernosplist,['AnnLeckie']
 caldescrip,Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.
-endtime,14:50
+endtime,18:50
 AV Needs,
 name,Ann Leckie Reading
 Private,PUBLIC
 bookname,Ann Leckie Reading
-venue,Montcalm
+venue,Charlevoix A
 Book Description,Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.
 Presenters,Ann Leckie
 csvsafedescrip,Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.
 speakernosp,AnnLeckie
-starttime,14:00
-roomnosp,Montcalm
+starttime,18:00
+roomnosp,CharlevoixA
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -10730,10 +10730,10 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,19:50
+event_end,20:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,7 PM
+endtimeampm,8 PM
 Location,Nicolet
 duration,50 minutes
 description,"Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan."
@@ -10741,17 +10741,17 @@ index,233
 speakers,Jason Mars
 bookdescrip,"Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan."
 Track,Tech
-startday,4/30/2016
+startday,4/29/2016
 Title,Sirius: The Open Source Intelligent Personal Assistant
-Start Time,19:00
-event_start,19:00
-starttimeampm,7 PM
-End Time,19:50
+Start Time,20:00
+event_start,20:00
+starttimeampm,8 PM
+End Time,20:50
 tracknosp,['Tech']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '19:00', '4/30/2016', '19:50', 'Nicolet', 'Tech', 'Sirius: The Open Source Intelligent Personal Assistant', 'Jason Mars ', 'Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/30/2016
+endday,4/29/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Nicolet', 'Tech', 'Sirius: The Open Source Intelligent Personal Assistant', 'Jason Mars ', 'Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/29/2016
 calspeakers,Jason Mars
 avneeds,none
 speakerlist,['Jason Mars']
@@ -10759,7 +10759,7 @@ hours,0
 totalminutes,50
 speakernosplist,['JasonMars']
 caldescrip,"Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan."
-endtime,19:50
+endtime,20:50
 AV Needs,
 name,Sirius: The Open Source Intelligent Personal Assistant
 Private,PUBLIC
@@ -10769,9 +10769,9 @@ Book Description,"Hack of Honor guest Professor Jason Mars talks about emerging 
 Presenters,Jason Mars 
 csvsafedescrip,Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants- and specifically about Sirius- the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.
 speakernosp,JasonMars
-starttime,19:00
+starttime,20:00
 roomnosp,Nicolet
-Start Date,4/30/2016
+Start Date,4/29/2016
 minutes,50
 allday,FALSE
 event_type,Media

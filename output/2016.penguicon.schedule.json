@@ -1010,7 +1010,12 @@
         "track": "Penguicon",
         "start_time": "21:00",
         "presenters": [
-            ""
+            "Ann Lemay",
+            "Ann Leckie",
+            "Cathrynne Valente",
+            "Deb Nicholson",
+            "Jason Mars",
+            "Lingjia Tang"
         ],
         "location": "Restaurant",
         "minutes": 50,
@@ -2479,14 +2484,14 @@
         "end_date": "4/30/2016",
         "title": "Ann Leckie Reading",
         "track": "Literature",
-        "start_time": "14:00",
+        "start_time": "18:00",
         "presenters": [
             "Ann Leckie"
         ],
-        "location": "Montcalm",
+        "location": "Charlevoix A",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "14:50"
+        "end_time": "18:50"
     },
     {
         "book_description": "Whether you're already a fan or new to the works of Japanese animation legend Hayao Miyazaki, this discussion, with examples of his work, will have something for you.",
@@ -3470,17 +3475,17 @@
     },
     {
         "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
-        "end_date": "4/30/2016",
+        "end_date": "4/29/2016",
         "title": "Sirius: The Open Source Intelligent Personal Assistant",
         "track": "Tech",
-        "start_time": "19:00",
+        "start_time": "20:00",
         "presenters": [
             "Jason Mars"
         ],
         "location": "Nicolet",
         "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
     },
     {
         "book_description": "Discussion between fans of Hamilton the musical, those who've been to see it, those who want to see it, and those who just love the cast album. Geek about history and sing along to some of the songs!",

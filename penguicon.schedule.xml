@@ -297,7 +297,7 @@
 <event><title>Social Hour</title>
 <topic>Penguicon</topic>
 <room>Restaurant</room>
-<blurb><participant></participant> Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar! </blurb></event>
+<blurb><participant>Ann Lemay, Ann Leckie, Cathrynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang</participant> Get to know our Guests of Honor and Featured Guests as we all get together for some cocktails. Meet us in the bar! </blurb></event>
 <event><title>Eric S. Raymond "Ask Me Anything!"</title>
 <topic>Life</topic>
 <room>Windover</room>
@@ -708,10 +708,12 @@
 <topic>Gaming</topic>
 <room>Lobby</room>
 <blurb><participant>Rathbone the Pirate</participant> Learn several card games and board games from the late 17th and early 18th centuries. </blurb></event>
+<time>6 PM</time>
 <event><title>Ann Leckie Reading</title>
 <topic>Literature</topic>
-<room>Montcalm</room>
+<room>Charlevoix A</room>
 <blurb><participant>Ann Leckie</participant> Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed. </blurb></event>
+<time>2 PM</time>
 <event><title>The Works of Miyazaki</title>
 <topic>Anime</topic>
 <room>Nicolet</room>
@@ -988,11 +990,14 @@
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Richard Herrell</participant> Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. </blurb></event>
-<time>7 PM</time>
+<day>FRIDAY, APRIL 29</day>
+<time>8 PM</time>
 <event><title>Sirius: The Open Source Intelligent Personal Assistant</title>
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Jason Mars</participant> Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>7 PM</time>
 <event><title>Hamilton the Musical Sing-A-Long</title>
 <topic>Media</topic>
 <room>Portage</room>
