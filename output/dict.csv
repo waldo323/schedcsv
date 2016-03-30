@@ -14228,10 +14228,10 @@ minutes,50
 allday,FALSE
 event_type,Life
 All Day Event,FALSE
-event_end,13:50
+event_end,11:50
 event_type_list,['Life']
 private,PUBLIC
-endtimeampm,1 PM
+endtimeampm,11 AM
 Location,Algonquin D
 duration,50 minutes
 description,"Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project."
@@ -14241,14 +14241,14 @@ bookdescrip,"Our panelists discuss their experiences using entrepreneurship oppo
 Track,Life
 startday,5/1/2016
 Title,Crowd- and Alternatively Funding Your Career
-Start Time,13:00
-event_start,13:00
-starttimeampm,1 PM
-End Time,13:50
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Algonquin D', 'Life', 'Crowd- & Alternatively Funding Your Career', 'Tanya DePass, Mark Oshiro, Christina York, Noa Page', 'Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Algonquin D', 'Life', 'Crowd- & Alternatively Funding Your Career', 'Tanya DePass, Mark Oshiro, Christina York, Noa Page', 'Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Tanya DePass, Mark Oshiro, Christina York, Noa Page"
 avneeds,none
@@ -14257,7 +14257,7 @@ hours,0
 totalminutes,50
 speakernosplist,"['TanyaDePass', 'MarkOshiro', 'ChristinaYork', 'NoaPage']"
 caldescrip,"Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project."
-endtime,13:50
+endtime,11:50
 AV Needs,
 name,Crowd- & Alternatively Funding Your Career
 Private,PUBLIC
@@ -14267,7 +14267,7 @@ Book Description,"Our panelists discuss their experiences using entrepreneurship
 Presenters,"Tanya DePass, Mark Oshiro, Christina York, Noa Page"
 csvsafedescrip,Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon- to supplement or make a living- or start a new project.
 speakernosp,"TanyaDePass,MarkOshiro,ChristinaYork,NoaPage"
-starttime,13:00
+starttime,11:00
 roomnosp,AlgonquinD
 Start Date,5/1/2016
 minutes,50
