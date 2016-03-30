@@ -7967,48 +7967,48 @@ minutes,50
 allday,FALSE
 event_type,Literature
 All Day Event,FALSE
-event_end,20:50
+event_end,15:50
 event_type_list,['Literature']
 private,PUBLIC
-endtimeampm,8 PM
-Location,Montcalm
+endtimeampm,3 PM
+Location,Algonquin D
 duration,50 minutes
 description,"A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"
 index,173
 speakers,"Stacy Bender, Mary Lynn Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape"
 bookdescrip,"A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"
 Track,Literature
-startday,4/29/2016
+startday,4/30/2016
 Title,Character Problems – What's an Author to Do?
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
-End Time,20:50
+Start Time,15:00
+event_start,15:00
+starttimeampm,3 PM
+End Time,15:50
 tracknosp,['Literature']
 endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Montcalm', 'Literature', ""Character Problems \xe2\x80\x93 What's an Author to Do?"", 'Stacy Bender, Mary Lynn Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape ', ""A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '15:00', '4/29/2016', '15:50', 'Algonquin D', 'Literature', ""Character Problems \xe2\x80\x93 What's an Author to Do?"", 'Stacy Bender, Mary Lynn Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape ', ""A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,"Stacy Bender, Mary Lynn Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape"
 avneeds,none
 speakerlist,"['Stacy Bender', 'Mary Lynn Gibbs', 'Paul Kemner', 'Emmy Jackson', 'Cindy Spencer Pape']"
-hours,0
-totalminutes,50
+hours,-24
+totalminutes,-1390
 speakernosplist,"['StacyBender', 'MaryLynnGibbs', 'PaulKemner', 'EmmyJackson', 'CindySpencerPape']"
 caldescrip,"A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"
-endtime,20:50
+endtime,15:50
 AV Needs,
 name,Character Problems – What's an Author to Do?
 Private,PUBLIC
 bookname,Character Problems – What's an Author to Do?
-venue,Montcalm
+venue,Algonquin D
 Book Description,"A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?"
 Presenters,"Stacy Bender, Mary Lynn Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape "
 csvsafedescrip,A main character needs to start out annoying- boring- or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?
 speakernosp,"StacyBender,MaryLynnGibbs,PaulKemner,EmmyJackson,CindySpencerPape"
-starttime,20:00
-roomnosp,Montcalm
-Start Date,4/29/2016
+starttime,15:00
+roomnosp,AlgonquinD
+Start Date,4/30/2016
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -11190,12 +11190,12 @@ minutes,50
 allday,FALSE
 event_type,Food
 All Day Event,FALSE
-event_end,20:00
+event_end,20:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,8 PM
 Location,
-duration,00 minutes
+duration,50 minutes
 description,"Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops."
 index,243
 speakers,Rathbone the Pirate
@@ -11206,21 +11206,21 @@ Title,Pirate Rum History Tastings
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
-End Time,20:00
+End Time,20:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '20:00', '4/30/2016', '20:00', '', 'Food', 'Pirate Rum History Tastings', 'Rathbone the Pirate', ""Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '20:00', '4/30/2016', '20:50', '', 'Food', 'Pirate Rum History Tastings', 'Rathbone the Pirate', ""Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Rathbone the Pirate
 avneeds,none
 speakerlist,['Rathbone the Pirate']
 hours,0
-totalminutes,0
+totalminutes,50
 speakernosplist,['RathbonethePirate']
 caldescrip,"Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.
 "
-endtime,20:00
+endtime,20:50
 AV Needs,
 name,Pirate Rum History Tastings
 Private,PUBLIC
@@ -11233,7 +11233,7 @@ speakernosp,RathbonethePirate
 starttime,20:00
 roomnosp,Hotel
 Start Date,4/30/2016
-minutes,00
+minutes,50
 allday,FALSE
 event_type,Food
 All Day Event,FALSE
@@ -11242,7 +11242,7 @@ event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 PM
 Location,
-duration,1 hour and 50 minutes
+duration,50 minutes
 description,"Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes."
 index,244
 speakers,Emily Tuesday
@@ -11250,20 +11250,20 @@ bookdescrip,"Do you like pickles? Then this is the event for you! A simple tasti
 Track,Food
 startday,4/30/2016
 Title,Taste My Pickle
-Start Time,20:00
-event_start,20:00
-starttimeampm,8 PM
+Start Time,21:00
+event_start,21:00
+starttimeampm,9 PM
 End Time,21:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '20:00', '4/30/2016', '21:50', '', 'Food', 'Taste My Pickle', 'Emily Tuesday', 'Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '21:00', '4/30/2016', '21:50', '', 'Food', 'Taste My Pickle', 'Emily Tuesday', 'Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Emily Tuesday
 avneeds,none
 speakerlist,['Emily Tuesday']
-hours,1
-totalminutes,110
+hours,0
+totalminutes,50
 speakernosplist,['EmilyTuesday']
 caldescrip,"Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes."
 endtime,21:50
@@ -11276,7 +11276,7 @@ Book Description,"Do you like pickles? Then this is the event for you! A simple 
 Presenters,Emily Tuesday
 csvsafedescrip,Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits- vegetables- and nuts created by our Food Track Head- along with a discussion of the process of pickling with recipes.
 speakernosp,EmilyTuesday
-starttime,20:00
+starttime,21:00
 roomnosp,Hotel
 Start Date,4/30/2016
 minutes,50
