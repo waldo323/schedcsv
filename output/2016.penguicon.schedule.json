@@ -5286,20 +5286,21 @@
     },
     {
         "book_description": "Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately.",
-        "end_date": "5/1/2016",
+        "end_date": "4/30/2016",
         "title": "Where Did the Heroes Go?",
         "track": "Literature",
-        "start_time": "15:00",
+        "start_time": "14:00",
         "presenters": [
             "Jay Maynard",
             "Eric S. Raymond",
             "Jon Davis",
-            "Stewart Sternberg"
+            "Stewart Sternberg",
+            "Christine Daigle"
         ],
-        "location": "Hamlin",
+        "location": "Montcalm",
         "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "15:50"
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
     },
     {
         "book_description": "Software is terrible. If you work in software, you know this almost rises to the level of truism. There's a long, strong tradition of prognosticating doom among software folks. This talk is about why software is so awful (spoiler: humans are bad at it), how we software folk cope with that awfulness, and most importantly, the implications that the *particular* nature of the awfulness has for modern and future society. It should be interesting for engineers and non-engineers alike. My hope is that attendees will leave with a stronger sense of what realistic risks are posed by the terribleness of software.",
