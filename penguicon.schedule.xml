@@ -231,7 +231,7 @@
 <time>8 PM</time>
 <event><title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
-<room>FOOD</room>
+<room>Food Room</room>
 <blurb><participant>Jonathan Ivar Weyhrauch, Mikhail Shikhmanov</participant> Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean. </blurb></event>
 <event><title>Dealing with the Paranormal</title>
 <topic>After Dark</topic>
@@ -304,7 +304,7 @@
 <blurb><participant>Eric S. Raymond</participant> Eric S. Raymond answers your questions about anything! </blurb></event>
 <event><title>Easy and Cheap: Healthy Meatless Meals</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Amy Alice Wright</participant> Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles! </blurb></event>
 <time>10 PM</time>
 <event><title>Impact Play for Beginners</title>
@@ -343,6 +343,7 @@
 <blurb><participant>Michael W. Lucas</participant> ZFS, the Zettabyte File System, is one of the most full-featured filesystems available today and gives almost unlimited storage flexibility. Originally created by Sun Microsystems, the independent entity OpenZFS now develops ZFS as deployed in illumos, Linux, and FreeBSD.  This talk takes you through ZFS' features, including: data self-healing, deduplication and compression, clones and snapshots, copy-on-write, boot environments, replication, and more. Once you use ZFS, you'll never understand how you lived without it. </blurb></event>
 <event><title>Midwest Mash - Whiskies of the Great Lakes</title>
 <topic>Food</topic>
+<room>Food Room</room>
 <blurb><participant>Greg Williams</participant> There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting!  The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Poly Speed Dating</title>
 <topic>After Dark</topic>
@@ -374,7 +375,7 @@
 <blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
 <event><title>Coffee, The Other Java</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Kelly Vanderwell</participant> Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops. </blurb></event>
 <time>10 AM</time>
 <event><title>Geeks with Guns Virtual Range</title>
@@ -516,6 +517,7 @@
 <blurb><participant>Michael W. Lucas</participant> Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix. </blurb></event>
 <event><title>Homebrewing</title>
 <topic>Food</topic>
+<room>Food Room</room>
 <blurb><participant>Johnathon A. Campbell</participant> There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>12 PM</time>
 <event><title>Build Your Own Router</title>
@@ -645,7 +647,7 @@
 <blurb><participant>Susan Sons</participant> A Senior Systems Analyst from the Center for Applied Cybersecurity Research will present a few basic information security principles and demonstrate how to apply them to programming of any kind.  Make your code less exploitable. </blurb></event>
 <event><title>Kitchen Hacks 101</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Emily Tuesday</participant> An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. </blurb></event>
 <time>2 PM</time>
 <event><title>Introduction to Parkour Featuring Phoenix Freerunning Academy</title>
@@ -728,7 +730,7 @@
 <blurb><participant>Tom Callaway, Ruth Suehle</participant> Ruth Suehle and Tom Callaway will talk about the $35 mini-computer, how it works, and give lots of ideas and inspirations on what you can do with it. They are the co-authors of the O'Reilly book "Raspberry Pi Hacks", and generally do all sorts of things with the credit-card sized computer that are fun and warranty voiding. </blurb></event>
 <event><title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Amy Alice Wright</participant> Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home. </blurb></event>
 <time>3 PM</time>
 <event><title>Writing the Alien</title>
@@ -793,7 +795,7 @@
 <blurb><participant>Jennifer Marsman</participant> Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to “read minds” (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this “lie detector” experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources. </blurb></event>
 <event><title>Baking and Breaking Bread</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>David Clipner</participant> "The most exciting thing about making bread is it's similar to making beer." Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner. </blurb></event>
 <time>4 PM</time>
 <event><title>Body Painting</title>
@@ -850,7 +852,7 @@
 <blurb><participant>Michael W. Lucas</participant> Online backup is incredibly useful, but has many privacy and integrity risks. Tarsnap is an online backup service that only handles your data in encrypted form. It's inexpensive and reliable. Plus you don't need to trust the Tarsnap service--they can't access your backups even if they want to. And Tarsnap's built-in deduplication saves space, letting you store terabytes of backups in mere gigabytes of disk. This talk takes you through using Tarsnap, from backing up a system to customizing and rotating backups, to fully restoring them. </blurb></event>
 <event><title>Tastes that Taste Great Together</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Cathy Raymond, Eric S. Raymond</participant> Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon!  Or vanilla!  This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe. </blurb></event>
 <time>5 PM</time>
 <event><title>Internet Security for the Lay Geek</title>
@@ -1037,12 +1039,12 @@
 <blurb><participant>Marie Staver</participant> Relaxing (we propose) may be the most important skill in all of life: It improves health, focus, strength, balance, empathy and happiness; it eases suffering both mental and physical; it's key to winning at physical combat...it is even the single best thing you can do if you're suddenly thrown from a moving vehicle.  But...do you really know how to do it?  Can you mentally find and ease tension in your mind and body?  In this class, Chinese Internal martial artist and all-around movement junkie Marie will teach the how (and why!) of actively, purposefully relaxing. </blurb></event>
 <event><title>Pirate Rum History Tastings</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Rathbone the Pirate</participant> Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. </blurb></event>
 <time>9 PM</time>
 <event><title>Taste My Pickle</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Emily Tuesday</participant> Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes. </blurb></event>
 <event><title>Geek Prom</title>
 <topic>Penguicon</topic>
@@ -1125,7 +1127,7 @@
 <blurb><participant>Mark Oshiro</participant> Come and experience the best (worst) erotica that Chuck Tingle has to offer, read live and (totally unprepared for what's to come) by Mark Oshiro. </blurb></event>
 <event><title>DemonLobster.com Presents: History of the Cocktail</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Scott Markwart, Steve Licavoli</participant> The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history!  From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking!  Audience questions are encouraged.  So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you! </blurb></event>
 <time>11 PM</time>
 <event><title>LN2 After Hours II Ice Cream</title>
@@ -1306,6 +1308,7 @@
 <blurb><participant>Michael W. Lucas</participant> The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives. </blurb></event>
 <event><title>Preserving the Summer</title>
 <topic>Food</topic>
+<room>Food Room</room>
 <blurb><participant>Emily Tuesday</participant> You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen. <duration>00 minutes</duration></blurb></event>
 <time>1 PM</time>
 <event><title>The Most Useful Tropes</title>
@@ -1388,7 +1391,7 @@
 <blurb><participant>Jennifer Marsman</participant> Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. I’ll demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You’ll leave knowing how to get started and build your own predictive models using Azure Machine Learning. </blurb></event>
 <event><title>Let's Eat Weeds!</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Kristoffer Marshall</participant> Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities! </blurb></event>
 <time>2 PM</time>
 <event><title>G33K Atho10n 2.0</title>
@@ -1493,7 +1496,7 @@
 <blurb><participant>Michael W. Lucas, Autumn Mahoney</participant> Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain. </blurb></event>
 <event><title>Eat Like a Pirate</title>
 <topic>Food</topic>
-<room></room>
+<room>Food Room</room>
 <blurb><participant>Rathbone the Pirate</participant> Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try. </blurb></event>
 <time>3 PM</time>
 <event><title>Eryndor Dagorhir</title>
