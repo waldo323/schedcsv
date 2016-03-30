@@ -13611,7 +13611,7 @@
         "duration": "50 minutes",
         "description": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
         "index": 189,
-        "speakers": "Deb Nicholson, Jason Mars, Lingjia Tang",
+        "speakers": "Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt",
         "bookdescrip": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
         "Track": "Tech",
         "startday": "4/30/2016",
@@ -13633,7 +13633,7 @@
             "Algonquin B/C",
             "Tech",
             "How Will Technology Change Society?",
-            "Deb Nicholson, Jason Mars, Lingjia Tang",
+            "Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt",
             "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
             "00hr:50min",
             "",
@@ -13641,19 +13641,23 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Deb Nicholson, Jason Mars, Lingjia Tang",
+        "calspeakers": "Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt",
         "avneeds": "none",
         "speakerlist": [
             "Deb Nicholson",
             "Jason Mars",
-            "Lingjia Tang"
+            "Lingjia Tang",
+            "Tobias Buckell",
+            "Edward L. Platt"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "DebNicholson",
             "JasonMars",
-            "LingjiaTang"
+            "LingjiaTang",
+            "TobiasBuckell",
+            "EdwardL.Platt"
         ],
         "caldescrip": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
         "endtime": "16:50",
@@ -13663,9 +13667,9 @@
         "bookname": "How Will Technology Change Society?",
         "venue": "Algonquin B/C",
         "Book Description": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
-        "Presenters": "Deb Nicholson, Jason Mars, Lingjia Tang",
+        "Presenters": "Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt",
         "csvsafedescrip": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom- or a totalitarian dystopia? And are we making that decision right now without knowing it?",
-        "speakernosp": "DebNicholson,JasonMars,LingjiaTang",
+        "speakernosp": "DebNicholson,JasonMars,LingjiaTang,TobiasBuckell,EdwardL.Platt",
         "starttime": "16:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "4/30/2016",
@@ -13685,7 +13689,7 @@
         "duration": "50 minutes",
         "description": "What are the best methods for finding the best agent for you?",
         "index": 190,
-        "speakers": "Merrie Haskell, Tobias Buckell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
+        "speakers": "Merrie Haskell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
         "bookdescrip": "What are the best methods for finding the best agent for you?",
         "Track": "Literature",
         "startday": "4/30/2016",
@@ -13707,7 +13711,7 @@
             "Algonquin D",
             "Literature",
             "Finding an Agent",
-            "Merrie Haskell, Tobias Buckell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
+            "Merrie Haskell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
             "What are the best methods for finding the best agent for you?",
             "00hr:50min",
             "",
@@ -13715,11 +13719,10 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Merrie Haskell, Tobias Buckell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
+        "calspeakers": "Merrie Haskell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
         "avneeds": "none",
         "speakerlist": [
             "Merrie Haskell",
-            "Tobias Buckell",
             "Ann Leckie",
             "Stacy Bender",
             "Mary Lynn Gibbs"
@@ -13728,7 +13731,6 @@
         "totalminutes": 50,
         "speakernosplist": [
             "MerrieHaskell",
-            "TobiasBuckell",
             "AnnLeckie",
             "StacyBender",
             "MaryLynnGibbs"
@@ -13741,9 +13743,9 @@
         "bookname": "Finding an Agent",
         "venue": "Algonquin D",
         "Book Description": "What are the best methods for finding the best agent for you?",
-        "Presenters": "Merrie Haskell, Tobias Buckell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
+        "Presenters": "Merrie Haskell, Ann Leckie, Stacy Bender, Mary Lynn Gibbs",
         "csvsafedescrip": "What are the best methods for finding the best agent for you?",
-        "speakernosp": "MerrieHaskell,TobiasBuckell,AnnLeckie,StacyBender,MaryLynnGibbs",
+        "speakernosp": "MerrieHaskell,AnnLeckie,StacyBender,MaryLynnGibbs",
         "starttime": "16:00",
         "roomnosp": "AlgonquinD",
         "Start Date": "4/30/2016",
