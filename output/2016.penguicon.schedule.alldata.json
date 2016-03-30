@@ -1819,7 +1819,7 @@
         "duration": "50 minutes",
         "description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "index": 25,
-        "speakers": "David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
+        "speakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
         "bookdescrip": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "Track": "Literature",
         "startday": "4/29/2016",
@@ -1841,7 +1841,7 @@
             "Hamlin",
             "Literature",
             "Social Media for Writers",
-            "David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
+            "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
             "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
             "00hr:50min",
             "",
@@ -1849,11 +1849,10 @@
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
-        "calspeakers": "David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
+        "calspeakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
         "avneeds": "none",
         "speakerlist": [
             "David Erik Nelson",
-            "Andrea Johnson",
             "Michael W. Lucas",
             "Christopher Purrett",
             "Alex Kourvo"
@@ -1862,7 +1861,6 @@
         "totalminutes": 50,
         "speakernosplist": [
             "DavidErikNelson",
-            "AndreaJohnson",
             "MichaelW.Lucas",
             "ChristopherPurrett",
             "AlexKourvo"
@@ -1875,9 +1873,9 @@
         "bookname": "Social Media for Writers",
         "venue": "Hamlin",
         "Book Description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
-        "Presenters": "David Erik Nelson, Andrea Johnson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
+        "Presenters": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo",
         "csvsafedescrip": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
-        "speakernosp": "DavidErikNelson,AndreaJohnson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo",
+        "speakernosp": "DavidErikNelson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo",
         "starttime": "18:00",
         "roomnosp": "Hamlin",
         "Start Date": "4/29/2016",
