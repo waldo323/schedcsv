@@ -7546,7 +7546,7 @@
         "speakers": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "bookdescrip": "What's something amazing that you read recently that you want to tell the world about?",
         "Track": "Literature",
-        "startday": "4/30/2016",
+        "startday": "5/1/2016",
         "Title": "What Have You Read?",
         "Start Time": "11:00",
         "event_start": "11:00",
@@ -7555,12 +7555,12 @@
         "tracknosp": [
             "Literature"
         ],
-        "endday": "4/30/2016",
-        "dayheader": "SATURDAY, APRIL 30",
+        "endday": "5/1/2016",
+        "dayheader": "SUNDAY, May 1",
         "input": [
-            "4/30/2016",
+            "5/1/2016",
             "11:00",
-            "4/30/2016",
+            "5/1/2016",
             "11:50",
             "Algonquin B/C",
             "Literature",
@@ -7572,7 +7572,7 @@
             "FALSE",
             "PUBLIC"
         ],
-        "End Date": "4/30/2016",
+        "End Date": "5/1/2016",
         "calspeakers": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "avneeds": "none",
         "speakerlist": [
@@ -7602,7 +7602,7 @@
         "speakernosp": "JimLeach,AndreaJohnson,StewartSternberg,NicoleCastle",
         "starttime": "11:00",
         "roomnosp": "AlgonquinBC",
-        "Start Date": "4/30/2016",
+        "Start Date": "5/1/2016",
         "minutes": "50"
     },
     {
@@ -13591,14 +13591,14 @@
         "allday": "FALSE",
         "event_type": "Tech",
         "All Day Event": "FALSE",
-        "event_end": "17:00",
+        "event_end": "16:50",
         "event_type_list": [
             "Tech"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "5 PM",
+        "endtimeampm": "4 PM",
         "Location": "Algonquin B/C",
-        "duration": "1 hour",
+        "duration": "50 minutes",
         "description": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
         "index": 189,
         "speakers": "Deb Nicholson, Jason Mars, Lingjia Tang",
@@ -13609,7 +13609,7 @@
         "Start Time": "16:00",
         "event_start": "16:00",
         "starttimeampm": "4 PM",
-        "End Time": "17:00",
+        "End Time": "16:50",
         "tracknosp": [
             "Tech"
         ],
@@ -13619,7 +13619,7 @@
             "4/30/2016",
             "16:00",
             "4/30/2016",
-            "17:00",
+            "16:50",
             "Algonquin B/C",
             "Tech",
             "How Will Technology Change Society?",
@@ -13638,15 +13638,15 @@
             "Jason Mars",
             "Lingjia Tang"
         ],
-        "hours": 1,
-        "totalminutes": 60,
+        "hours": 0,
+        "totalminutes": 50,
         "speakernosplist": [
             "DebNicholson",
             "JasonMars",
             "LingjiaTang"
         ],
         "caldescrip": "How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?",
-        "endtime": "17:00",
+        "endtime": "16:50",
         "AV Needs": "",
         "name": "How Will Technology Change Society?",
         "Private": "PUBLIC",
@@ -13659,7 +13659,7 @@
         "starttime": "16:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "4/30/2016",
-        "minutes": "00"
+        "minutes": "50"
     },
     {
         "allday": "FALSE",
