@@ -130,12 +130,6 @@
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Amal Graafstra, Anita Fowler, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>11 AM</time>
-<event><title>What Have You Read?</title>
-<topic>Literature</topic>
-<room>Algonquin B/C</room>
-<blurb><participant>Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle</participant> What's something amazing that you read recently that you want to tell the world about? </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Build Your Own Router</title>
@@ -178,6 +172,12 @@
 <topic>Literature</topic>
 <room>Algonquin B/C</room>
 <blurb><participant>Paul Kemner, Ericka S. Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush</participant> Is your story about Milieu, an Idea, a Character, or an Event? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>11 AM</time>
+<event><title>What Have You Read?</title>
+<topic>Literature</topic>
+<room>Algonquin B/C</room>
+<blurb><participant>Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle</participant> What's something amazing that you read recently that you want to tell the world about? </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>12 PM</time>
 <event><title>The Family That Games Together</title>
@@ -281,6 +281,12 @@
 <room>Algonquin D</room>
 <blurb><participant>Clif Flynt, Mark Bernstein, Tom Smith</participant> Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. </blurb></event>
 <day>SUNDAY, May 1</day>
+<time>11 AM</time>
+<event><title>Crowd- &amp; Alternatively Funding Your Career</title>
+<topic>Life</topic>
+<room>Algonquin D</room>
+<blurb><participant>Tanya DePass, Mark Oshiro, Christina York, Noa Page</participant> Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project. </blurb></event>
+<day>SUNDAY, May 1</day>
 <time>12 PM</time>
 <event><title>Self Editing Tools</title>
 <topic>Literature</topic>
@@ -292,12 +298,6 @@
 <topic>Tech</topic>
 <room>Algonquin D</room>
 <blurb><participant>Matt Atkins</participant> A quick overview of the revolutions in presentation lighting since the 80's with a practical focus for DIY performers and presenters. We will touch on the technical standards (DMX-512, Artnet, etc...), have a quick brush with the mechanicals (placement and cabling for venues/locations, power requirements) and cap it off with a overview of the available Open Source and pay lighting control software options and their strengths and weaknesses for this type of work. </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>11 AM</time>
-<event><title>Crowd- &amp; Alternatively Funding Your Career</title>
-<topic>Life</topic>
-<room>Algonquin D</room>
-<blurb><participant>Tanya DePass, Mark Oshiro, Christina York, Noa Page</participant> Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
 <event><title>Mechanics of Magic in Fantasy &amp; SF</title>
@@ -419,17 +419,17 @@
 <room>Charlevoix A</room>
 <blurb><participant>Ryan Kather</participant> Everyday it seems more of our daily lives are intertwined with our online identities, and yet it seems that there is ever less privacy online.  Come learn how interested parties are monitoring you online, what drives their motivations, and steps you can take to mitigate your private information exposure. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>6 PM</time>
-<event><title>Ann Leckie Reading</title>
-<topic>Literature</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Ann Leckie</participant> Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>Costume Contest</title>
 <topic>Penguicon</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Crazy Mark, Alex Drummer, Justin Coluzzi, Kevin McLeod</participant> Each year there is a chance for people who love making costumes and cosplay to show off their creations and passion. Entrants should show up for the Muster at least 30 minutes before the contest for judging.  So come down for some fun and maybe enter for a chance to win prizes. Best of Show receives a free badge to Penguicon 2017! Plus, throughout the weekend, N.U.E.T, better known as the Con Scouts will be running around asking people to enter the Hall Favorite Contest. All it takes is allowing N.U.E.T. to take a photo of you in your costume and some basic contact information. Pictures will be posted at the Greeters’ Desk, where every attendee gets one vote for their favorite costume. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>6 PM</time>
+<event><title>Ann Leckie Reading</title>
+<topic>Literature</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Ann Leckie</participant> Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>Love Hacked? 36 Questions That May Change Your Life</title>
@@ -556,12 +556,6 @@
 <topic>Anime</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Cassy Sinke, BluRaven C. Houvener, Richard Herrell</participant> In this panel we'll have an open discussion with lots of audience participation concerning the different philosophical and ethical questions Anime can bring to light.  This will include discussions about Death Note, FMA (Full Metal Alchemist), GITS (Ghost in the Shell), and more. Bring an open mind and your thinking caps. <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>12 PM</time>
-<event><title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
-<topic>Science</topic>
-<room>Charlevoix B</room>
-<blurb><participant>Ramses Alcaide</participant> One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>10 PM</time>
 <event><title>S&amp;M AMA</title>
@@ -580,6 +574,12 @@
 <topic>Tech</topic>
 <room>Charlevoix B</room>
 <blurb><participant>Donald Mark Haynes, Douglas Johnson</participant> Explore how to become mobile in your work. This presentation will focus on issues facing the remote IT worker. We will discuss contracts and negotiations, travel (what exactly is the importance of luggage in a global economy), accommodations, some techno-geek concerns and a few standard mobile apps to think about. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>12 PM</time>
+<event><title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
+<topic>Science</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Ramses Alcaide</participant> One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Post Capitalism</title>
@@ -617,17 +617,17 @@
 <room>Charlevoix C</room>
 <blurb><participant>kernelbrandon</participant> This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
-<event><title>Screen Writing Tips</title>
-<topic>Media</topic>
-<room>Charlevoix C</room>
-<blurb><participant>James Fernandez, Mary Lynn Gibbs, Dave Kilgore</participant> Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script. <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>10 AM</time>
 <event><title>The Pre-Production Process for Films: Where It All Comes Together</title>
 <topic>Media</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Mike Madigan, Matthew Peach</participant> Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>Screen Writing Tips</title>
+<topic>Media</topic>
+<room>Charlevoix C</room>
+<blurb><participant>James Fernandez, Mary Lynn Gibbs, Dave Kilgore</participant> Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script. <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
 <event><title>Finding the Right Social Media</title>
@@ -826,12 +826,6 @@
 <topic>Life</topic>
 <room>EMC I</room>
 <blurb><participant>William E. Bowen</participant> Join us on a discussion about different ways to stay healthy and active no matter where you are. Topics will also include things you can do right now during the convention. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
-<event><title>Comics in the Classroom</title>
-<topic>Comics</topic>
-<room>EMC I</room>
-<blurb><participant>Elizabeth "Biz" Nidjam</participant> With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm</title>
@@ -869,11 +863,11 @@
 <room>EMC I</room>
 <blurb><participant>Shetan Noir</participant> Come learn how to crochet!  Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>6 PM</time>
-<event><title>So You Want to Get a Degree in Comics?</title>
+<time>2 PM</time>
+<event><title>Comics in the Classroom</title>
 <topic>Comics</topic>
 <room>EMC I</room>
-<blurb><participant>Elizabeth "Biz" Nidjam</participant> Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies. </blurb></event>
+<blurb><participant>Elizabeth "Biz" Nidjam</participant> With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Cosplay Hacks Part 1</title>
@@ -892,6 +886,12 @@
 <topic>Tech</topic>
 <room>EMC I</room>
 <blurb><participant>William E. Bowen</participant> With the increasing number of single board computers such as the Beaglebone Black, The Chip, Raspberry Pi, Orange Pi, and Banana Pi along with numerous Linux and other alternative operating systems to run on them is it still that important to have an x86 processor in your next computer.  This panel will include an open discussion on the numerous platforms in existence along with the homebrew and open source support for older computer chip sets such as the PowerPC. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>6 PM</time>
+<event><title>So You Want to Get a Degree in Comics?</title>
+<topic>Comics</topic>
+<room>EMC I</room>
+<blurb><participant>Elizabeth "Biz" Nidjam</participant> Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
 <event><title>Geek Cred: How to Be a Better Geek</title>
@@ -947,17 +947,17 @@
 <room>EMC II</room>
 <blurb><participant>Wendy Carson, John Belden</participant> Just because you are not an exact replica of the character you'd like to be doesn't mean you can't pull off a great cosplay of them. Size, sex, race, or physical abilities should not hold you back from being who you really want to be. We will discuss how to accept, cover, camouflage, and overcome your body issues and cosplay with confidence. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>BoF: Manga 2 Anime</title>
+<topic>Anime</topic>
+<room>EMC II</room>
+<blurb><participant></participant> Come talk about some of the best and worst Manga to Anime adaptations.  Which were done well? Which were just torture to watch?  Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>LGBTQ* Alphabet Soup</title>
 <topic>Life</topic>
 <room>EMC II</room>
 <blurb><participant>Cassy Sinke, Alison Chan, April Nance</participant> An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms. </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>2 PM</time>
-<event><title>Influence of Anime in Media</title>
-<topic>Anime</topic>
-<room>EMC II</room>
-<blurb><participant>Christina June, Galen Nelson</participant> Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>Sleeping on the Job: Why (and How) to Catch That Daytime Nap</title>
@@ -1042,24 +1042,18 @@
 <topic>Media</topic>
 <room>EMC II</room>
 <blurb><participant></participant> Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>BoF: Manga 2 Anime</title>
+<day>SUNDAY, May 1</day>
+<time>2 PM</time>
+<event><title>Influence of Anime in Media</title>
 <topic>Anime</topic>
 <room>EMC II</room>
-<blurb><participant></participant> Come talk about some of the best and worst Manga to Anime adaptations.  Which were done well? Which were just torture to watch?  Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans! </blurb></event>
+<blurb><participant>Christina June, Galen Nelson</participant> Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>3 PM</time>
 <event><title>The 10 Commandments of Job Search</title>
 <topic>Life</topic>
 <room>EMC II</room>
 <blurb><participant>Dave Phillips, Bob Waltenspiel</participant> The 10 Commandments of Job Search (along with the 7 Deadly Sins) was created at the request of attendees of prior sessions in order to best help them find a job. They're directly related to, but not identical at ALL to, the 10 Commandments of Networking. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>9 PM</time>
-<event><title>How Not To Draw Comics</title>
-<topic>Comics</topic>
-<room>EMC IV</room>
-<blurb><participant>Kayla Nelson, BluRaven C. Houvener, Jon David</participant> This is a judgment free zone...but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made up muscle groups, humanly impossible poses, and just downright ponder how it made it from the drawing table to the rack at your local comic book store! </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
 <event><title>Social Skills in a Digital Age</title>
@@ -1103,11 +1097,11 @@
 <room>EMC IV</room>
 <blurb><participant>Bob Trembley, Krunal Desai</participant> Bob Trembly and Krunal Desai talk all things asteroids, and what we need to know about them. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>7 PM</time>
-<event><title>The Tech Behind Asteroid Mining</title>
-<topic>Tech</topic>
+<time>4 PM</time>
+<event><title>Sexual Safety</title>
+<topic>After Dark</topic>
 <room>EMC IV</room>
-<blurb><participant>Krunal Desai</participant> Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids. </blurb></event>
+<blurb><participant>Jen Schwartz, Matt Sweet, Max Issac</participant> Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>6 PM</time>
 <event><title>BoF: Unsexy Code</title>
@@ -1115,17 +1109,23 @@
 <room>EMC IV</room>
 <blurb><participant>Susan Sons</participant> For people who write or want to learn to write infrastructure code, and boring but necessary tools of the trade for programmers and sysadmins.  It is not for game programmers or web designers or anybody who makes anything pretty.  We're all about making things work. Birds of a Feather events are unmoderated. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>4 PM</time>
-<event><title>Sexual Safety</title>
-<topic>After Dark</topic>
+<time>7 PM</time>
+<event><title>The Tech Behind Asteroid Mining</title>
+<topic>Tech</topic>
 <room>EMC IV</room>
-<blurb><participant>Jen Schwartz, Matt Sweet, Max Issac</participant> Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy! </blurb></event>
+<blurb><participant>Krunal Desai</participant> Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
 <event><title>Speak Your Words</title>
 <topic>Literature</topic>
 <room>EMC IV</room>
 <blurb><participant>Jim Leach, Matt Betts, Sean Davis, Jessica Roland</participant> We are all made of stories and sharing them can be powerful and life changing. Come and share our version of an open mic night.  Bring your self-written poetry, personal manifesto, or short-short story. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>9 PM</time>
+<event><title>How Not To Draw Comics</title>
+<topic>Comics</topic>
+<room>EMC IV</room>
+<blurb><participant>Kayla Nelson, BluRaven C. Houvener, Jon David</participant> This is a judgment free zone...but have you ever looked at a comic and thought, “Wow that doesn't look right”. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made up muscle groups, humanly impossible poses, and just downright ponder how it made it from the drawing table to the rack at your local comic book store! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>11 AM</time>
 <event><title>Open Source Maker Apps</title>
@@ -1156,6 +1156,12 @@
 <topic>DIY</topic>
 <room>EMC V</room>
 <blurb><participant>RainbowRavenX</participant> Come join me in playing "mad scientist" as we deconstruct stuffed animals, and reconstruct them into new and glorious creations!  Everyone is welcome, though I do ask that parents/guardians stay with children. Basic sewing skills are a plus. </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>8 PM</time>
+<event><title>My Little Pony: Friendship Is Magic</title>
+<topic>Anime</topic>
+<room>EMC V</room>
+<blurb><participant>Christina June, Galen Nelson</participant> Friendship is magic, so come talk with other fans about the MLP show and fandom! </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>Anatomy of a Sewing Machine</title>
@@ -1210,12 +1216,6 @@
 <topic>Life</topic>
 <room>EMC V</room>
 <blurb><participant></participant> Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>8 PM</time>
-<event><title>My Little Pony: Friendship Is Magic</title>
-<topic>Anime</topic>
-<room>EMC V</room>
-<blurb><participant>Christina June, Galen Nelson</participant> Friendship is magic, so come talk with other fans about the MLP show and fandom! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>2 PM</time>
 <event><title>Furries!</title>
@@ -1431,12 +1431,6 @@
 <topic>Literature</topic>
 <room>Hamlin</room>
 <blurb><participant>David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo</participant> What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts? </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>12 PM</time>
-<event><title>Comic vs. Manga</title>
-<topic>Anime</topic>
-<room>Hamlin</room>
-<blurb><participant>BluRaven C. Houvener, Cassy Sinke</participant> This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged! </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
 <event><title>Editing for Your Spouse/Partner/BFF/Pet</title>
@@ -1461,6 +1455,12 @@
 <topic>DIY</topic>
 <room>Hamlin</room>
 <blurb><participant>Bagel Garrison</participant> Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>Flash Comics!</title>
+<topic>Comics</topic>
+<room>Hamlin</room>
+<blurb><participant>Noa Page</participant> No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Emulators and Emulation</title>
@@ -1504,12 +1504,6 @@
 <room>Hamlin</room>
 <blurb><participant>Erika Wagner, Laura Cascos</participant> Did you catch Part 1 (of 3) of the amazing Erika Wagner and Laura Cascos's Webcomics 101 panel? If you did...awesome! If you didn't...off to detention for you! Before you go to detention though, be sure to catch part 2 and learn about logistics and their importance in the Webcomic medium! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
-<event><title>Flash Comics!</title>
-<topic>Comics</topic>
-<room>Hamlin</room>
-<blurb><participant>Noa Page</participant> No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>9 PM</time>
 <event><title>Electrifying Sex: From Quack to Kink</title>
 <topic>After Dark</topic>
@@ -1533,6 +1527,12 @@
 <topic>Penguicon</topic>
 <room>Hamlin</room>
 <blurb><participant>Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie, Winningham</participant> Making a successful Penguicon requires at least a year of organizing, planning, and partying.  Do not skip the partying!  Join us for the first planning meeting with the 2017 ConChair, Cylithria DuBois, and her selected Con Committee. If you want to contribute to Penguicon next year, or you just want to see how we make it happen, join us! </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>12 PM</time>
+<event><title>Comic vs. Manga</title>
+<topic>Anime</topic>
+<room>Hamlin</room>
+<blurb><participant>BluRaven C. Houvener, Cassy Sinke</participant> This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged! </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Cosplay Hacks Part 2</title>
@@ -1712,6 +1712,12 @@
 <room>Montcalm</room>
 <blurb><participant>Tanya DePass, Mark Oshiro</participant> A panel where Mark Oshiro (Mark Does Stuff) and Tanya DePass (I Need Diverse Games) speak about the performative aspects of their work, including the need to entertain while doing blind reads and reactions to media and for Tanya; while streaming on Twitch/YT Gaming. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
+<time>8 PM</time>
+<event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<room>Montcalm</room>
+<blurb><participant>Jason Mars, Lingjia Tang</participant> Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. </blurb></event>
+<day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>BDSM: An Introduction to Kink</title>
 <topic>After Dark</topic>
@@ -1741,12 +1747,12 @@
 <topic>Gaming</topic>
 <room>Montcalm</room>
 <blurb><participant>Ann Lemay</participant> Join Guest of Honor Ann Lemay for a Q&amp;A on writing narratives for video games like Bioshock and Mass Effect. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>8 PM</time>
-<event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
-<topic>Tech</topic>
+<day>SATURDAY, APRIL 30</day>
+<time>2 PM</time>
+<event><title>Where Did the Heroes Go?</title>
+<topic>Literature</topic>
 <room>Montcalm</room>
-<blurb><participant>Jason Mars, Lingjia Tang</participant> Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. </blurb></event>
+<blurb><participant>Jay Maynard, Eric S. Raymond, Jon Davis, Stewart Sternberg, Christine Daigle</participant> Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Creating Safer Spaces</title>
@@ -1754,11 +1760,11 @@
 <room>Montcalm</room>
 <blurb><participant>Mark Oshiro, Tanya DePass, Mari Brighe, Scott Kennedy, Sal Palland</participant> How do we define a "safe space" in fandom and at conventions? How can we work to create safer spaces for all attendees at Penguicon and other conventions, and in our lives outside of fandom? Join a discussion with Penguicon staff (including the con chair) and our guests about how the Penguicon commuity can work toward greater safety, diversity and inclusivity to make this a space where all feel welcome. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>7 PM</time>
-<event><title>Python Code Walk-Through</title>
+<time>4 PM</time>
+<event><title>Data Analysis Using Python</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
-<blurb><participant>Mike Bernson</participant> Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code. </blurb></event>
+<blurb><participant>Richard Herrell</participant> Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>The Lighter Side of Poly</title>
@@ -1772,11 +1778,11 @@
 <room>Montcalm</room>
 <blurb><participant>Cassy Sinke, Joshua "Ren" Marshall</participant> Come talk about different way Artificial Intelligence has been presented in Anime over the years. This discussion will include classics all the way through modern day. We'll take a look at how AI presented in Anime has changed over the years as well as some ways it has stayed the same. We'll touch on the good, the bad, and the ugly.  Audience participation is strongly encouraged! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>4 PM</time>
-<event><title>Data Analysis Using Python</title>
+<time>7 PM</time>
+<event><title>Python Code Walk-Through</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
-<blurb><participant>Richard Herrell</participant> Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. </blurb></event>
+<blurb><participant>Mike Bernson</participant> Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>10 PM</time>
 <event><title>Fire Play and Massage</title>
@@ -1813,12 +1819,6 @@
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Mike Birdsall</participant> Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>2 PM</time>
-<event><title>Where Did the Heroes Go?</title>
-<topic>Literature</topic>
-<room>Montcalm</room>
-<blurb><participant>Jay Maynard, Eric S. Raymond, Jon Davis, Stewart Sternberg, Christine Daigle</participant> Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
 <event><title>Pirate Treasure Hunt!</title>
@@ -1830,6 +1830,18 @@
 <topic>Comics</topic>
 <room>Nicolet</room>
 <blurb><participant>BluRaven C. Houvener</participant> The internet is such a vital part of our day to day lives that even books have taken the digital plunge and comics have leapt from the page to the tablet screen. Come find out what makes a Webcomic a Webcomic and why you should be reading them if you aren't already. </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>Intro to Comics</title>
+<topic>Comics</topic>
+<room>Nicolet</room>
+<blurb><participant>Noa Page, BluRaven C. Houvener, Jon David</participant> We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>8 PM</time>
+<event><title>Sirius: The Open Source Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Jason Mars</participant> Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>10 PM</time>
 <event><title>DemonLobster.com presents: Sanity Claws Radio Live</title>
@@ -1878,18 +1890,6 @@
 <topic>Life, Action Adventure</topic>
 <room>Nicolet</room>
 <blurb><participant>David J. Newland</participant> This presentation will focus on how to survive, and maybe even thrive, after a nuclear event, be it a nuclear plant accident, a "dirty bomb" or a nuclear attack, The presentation will involve practical applications of radiation detection instrumentation, contamination and radiation control measures, why the fear of radiation exposure is overblown, and long term strategies for thriving when others have failed. <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>Intro to Comics</title>
-<topic>Comics</topic>
-<room>Nicolet</room>
-<blurb><participant>Noa Page, BluRaven C. Houvener, Jon David</participant> We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>8 PM</time>
-<event><title>Sirius: The Open Source Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<room>Nicolet</room>
-<blurb><participant>Jason Mars</participant> Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
 <event><title>Sinclair ZX Computers</title>
@@ -1957,17 +1957,17 @@
 <room>Portage</room>
 <blurb><participant>Dr. Justin Coven</participant> Exceptional leadership is the ability to methodically and continually create heroes!   From an organizational perspective, most leadership research and theory is focused around individual leader psychology. IT Maturity takes an alternative IT perspective of leaders as entities operating within organizations, orchestrating how other entities interact with each other, to optimize productivity.  IT Maturity Leadership includes principles in five different categories: Management, Organization (structure), Extent (of activities), Culture, and Vision.  IT tools can be used to help enterprises to do this both technically and organizationally (i.e. enable individuals to excel). </blurb></event>
 <day>FRIDAY, APRIL 29</day>
-<time>9 PM</time>
-<event><title>The Dark Web Big Three</title>
-<topic>Tech</topic>
-<room>Portage</room>
-<blurb><participant>Pat Baker</participant> Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>Music Parody Performance: Derwood Bowen</title>
 <topic>Media</topic>
 <room>Portage</room>
 <blurb><participant>Derwood Bowen</participant> Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement.  If you're in need of a good laugh, this is the place to go for it! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>9 PM</time>
+<event><title>The Dark Web Big Three</title>
+<topic>Tech</topic>
+<room>Portage</room>
+<blurb><participant>Pat Baker</participant> Get and introduction to the big three in censorship-resistant communication, TOR, I2P and freenet and learn how they work and some of the options they have available. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>10 AM</time>
 <event><title>LSDj n' U! A How-To Track and Perform Live with Chiptunes!</title>
@@ -2017,17 +2017,17 @@
 <room>Portage</room>
 <blurb><participant>Marie Staver</participant> Relaxing (we propose) may be the most important skill in all of life: It improves health, focus, strength, balance, empathy and happiness; it eases suffering both mental and physical; it's key to winning at physical combat...it is even the single best thing you can do if you're suddenly thrown from a moving vehicle.  But...do you really know how to do it?  Can you mentally find and ease tension in your mind and body?  In this class, Chinese Internal martial artist and all-around movement junkie Marie will teach the how (and why!) of actively, purposefully relaxing. </blurb></event>
 <day>SUNDAY, May 1</day>
-<time>11 AM</time>
-<event><title>DIY Electric Car Edition 2</title>
-<topic>DIY, Tech</topic>
-<room>Portage</room>
-<blurb><participant>Chad Sinke</participant> Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss! <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
 <time>10 AM</time>
 <event><title>Intro to Video for Social Media</title>
 <topic>Media</topic>
 <room>Portage</room>
 <blurb><participant>Scott (Toaden) Maiale, Christina Baade, Crazy Mark</participant> Wanting to start a YouTube channel or adding video to your website/social pages?  This panel will provide tips and tricks to help creating videos for new or already established channels. </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>11 AM</time>
+<event><title>DIY Electric Car Edition 2</title>
+<topic>DIY, Tech</topic>
+<room>Portage</room>
+<blurb><participant>Chad Sinke</participant> Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
 <event><title>Video Shorts</title>
