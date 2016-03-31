@@ -4566,10 +4566,10 @@ private,PUBLIC
 endtimeampm,10 AM
 Location,Hamlin
 duration,50 minutes
-description,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided."
+description,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops."
 index,99
 speakers,Bagel Garrison
-bookdescrip,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided."
+bookdescrip,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops."
 Track,DIY
 startday,4/30/2016
 Title,Intro to Needle Felting
@@ -4580,7 +4580,7 @@ End Time,10:50
 tracknosp,['DIY']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Hamlin', 'DIY', 'Intro to Needle Felting', 'Bagel Garrison', ""Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Hamlin', 'DIY', 'Intro to Needle Felting', 'Bagel Garrison', ""Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Bagel Garrison
 avneeds,none
@@ -4588,16 +4588,16 @@ speakerlist,['Bagel Garrison']
 hours,0
 totalminutes,50
 speakernosplist,['BagelGarrison']
-caldescrip,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided."
+caldescrip,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops."
 endtime,10:50
 AV Needs,
 name,Intro to Needle Felting
 Private,PUBLIC
 bookname,Intro to Needle Felting
 venue,Hamlin
-Book Description,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided."
+Book Description,"Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event. Please sign up at Ops."
 Presenters,Bagel Garrison
-csvsafedescrip,Needle Felting! You get to stab things! In this panel- we'll needle-felt a simple flat penguin- suitable for making into pendant/pin/whatever. Materials will be provided.
+csvsafedescrip,Needle Felting! You get to stab things! In this panel- we'll needle-felt a simple flat penguin- suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event.  Please sign up at Ops.
 speakernosp,BagelGarrison
 starttime,10:00
 roomnosp,Hamlin
@@ -5256,13 +5256,13 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,EMC V
 duration,1 hour and 50 minutes
-description,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves.
+description,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
 index,114
 speakers,Kelly Vanderwell
-bookdescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves.
+bookdescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
 Track,DIY
 startday,4/30/2016
-Title,Learn how to use two sticks and a piece of string to make works of art! A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event. Please sign up at Ops.
+Title,Knitting 101
 Start Time,11:00
 event_start,11:00
 starttimeampm,11 AM
@@ -5270,7 +5270,7 @@ End Time,12:50
 tracknosp,['DIY']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '12:50', 'EMC V', 'DIY', 'Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.', 'Kelly Vanderwell', 'Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. ', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '11:00', '4/30/2016', '12:50', 'EMC V', 'DIY', 'Knitting 101', 'Kelly Vanderwell', 'Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Kelly Vanderwell
 avneeds,none
@@ -5278,16 +5278,16 @@ speakerlist,['Kelly Vanderwell']
 hours,1
 totalminutes,110
 speakernosplist,['KellyVanderwell']
-caldescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. 
+caldescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
 endtime,12:50
 AV Needs,
-name,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
+name,Knitting 101
 Private,PUBLIC
-bookname,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
+bookname,Knitting 101
 venue,EMC V
-Book Description,Learn how to use two sticks and a piece of string to make works of art! A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. 
+Book Description,Learn how to use two sticks and a piece of string to make works of art! A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event. Please sign up at Ops.
 Presenters,Kelly Vanderwell
-csvsafedescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. 
+csvsafedescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops.
 speakernosp,KellyVanderwell
 starttime,11:00
 roomnosp,EMCV
