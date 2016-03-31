@@ -114,7 +114,7 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Temporary description",
+        "book_description": "Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!",
         "end_date": "5/1/2016",
         "title": "Pirate Treasure Hunt!",
         "track": "Mayhem",
@@ -128,7 +128,7 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Welcome to the L.M.N. Artemis, Lansing Makers Network\u2019s very own Starship Bridge simulator",
+        "book_description": "Space\u2026 the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow \u2018em all to space-smithereens!\u00a0 Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. ",
         "end_date": "5/1/2016",
         "title": "Artemis",
         "track": "Penguicon",
@@ -182,24 +182,6 @@
         ],
         "location": "Consuite",
         "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These \"rules\" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?",
-        "end_date": "4/29/2016",
-        "title": "Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply",
-        "track": "Literature",
-        "start_time": "17:00",
-        "presenters": [
-            "Ann Leckie",
-            "Michael K. Elliot",
-            "Steven Saus",
-            "Tobias Buckell",
-            "Stacy Bender"
-        ],
-        "location": "Charlevoix B",
-        "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "17:50"
     },
@@ -284,6 +266,24 @@
             "BluRaven C. Houvener"
         ],
         "location": "Nicolet",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These \"rules\" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?",
+        "end_date": "4/29/2016",
+        "title": "Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply",
+        "track": "Literature",
+        "start_time": "17:00",
+        "presenters": [
+            "Ann Leckie",
+            "Michael K. Elliot",
+            "Steven Saus",
+            "Tobias Buckell",
+            "Stacy Bender"
+        ],
+        "location": "Portage",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "17:50"
@@ -382,7 +382,6 @@
         "start_time": "18:00",
         "presenters": [
             "David Erik Nelson",
-            "Andrea Johnson",
             "Michael W. Lucas",
             "Christopher Purrett",
             "Alex Kourvo"
@@ -405,22 +404,6 @@
             "Dave Phillips"
         ],
         "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "18:50"
-    },
-    {
-        "book_description": "This is a judgment free zone...but have you ever looked at a comic and thought, \u201cWow that doesn't look right\u201d. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made up muscle groups, humanly impossible poses, and just downright ponder how it made it from the drawing table to the rack at your local comic book store!",
-        "end_date": "4/29/2016",
-        "title": "How Not To Draw Comics ",
-        "track": "Comics",
-        "start_time": "18:00",
-        "presenters": [
-            "BluRaven C. Houvener",
-            "Noa Page",
-            "Jon David"
-        ],
-        "location": "Nicolet",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "18:50"
@@ -512,9 +495,9 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
+        "book_description": "Come talk about some of the best and worst Manga to Anime adaptations. Which were done well? Which were just torture to watch? Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans!",
         "end_date": "4/29/2016",
-        "title": "Comic vs. Manga",
+        "title": "BoF: Manga 2 Anime",
         "track": "Anime",
         "start_time": "19:00",
         "presenters": [
@@ -556,9 +539,9 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Live demos and highlights for of this weekends events as the Penguicon Hackerspace spins up for the weekend!",
+        "book_description": "Live demos and highlights for of this weekend's events as the Penguicon Hackerspace spins up for the weekend!",
         "end_date": "4/29/2016",
-        "title": "Open Demos by BeagleBone, DangerousThings and AHA",
+        "title": "Open Demos by BeagleBone, Dangerous Things and All Hands Active",
         "track": "DIY, Tech",
         "start_time": "19:00",
         "presenters": [
@@ -602,13 +585,15 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.",
+        "book_description": "We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! ",
         "end_date": "4/29/2016",
-        "title": "Comics in the Classroom",
+        "title": "Intro to Comics",
         "track": "Comics",
         "start_time": "19:00",
         "presenters": [
-            "Noa Page"
+            "Noa Page",
+            "BluRaven C. Houvener",
+            "Jon David"
         ],
         "location": "Nicolet",
         "minutes": 50,
@@ -760,13 +745,14 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways.",
+        "book_description": "Friendship is magic, so come talk with other fans about the MLP show and fandom!",
         "end_date": "4/29/2016",
-        "title": "Influence of Anime in Media",
+        "title": "My Little Pony: Friendship Is Magic",
         "track": "Anime",
         "start_time": "20:00",
         "presenters": [
-            ""
+            "Christina June",
+            "Galen Nelson"
         ],
         "location": "EMC V",
         "minutes": 50,
@@ -783,13 +769,13 @@
             "Jonathan Ivar Weyhrauch",
             "Mikhail Shikhmanov"
         ],
-        "location": "FOOD",
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
     },
     {
-        "book_description": "Come and learn how to remove unwanted things/beings from your life, home and being. This presentation will include discussion of different practices and spells and ingredients that help to remove paranormal annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals.",
+        "book_description": "Come and learn how to remove unwanted things/beings from your life, home and being. This presentation will include discussion of different practices and spells and ingredients that help to remove paranormal annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Dealing with the Paranormal",
         "track": "After Dark",
@@ -831,6 +817,49 @@
         "end_time": "20:50"
     },
     {
+        "book_description": "Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. ",
+        "end_date": "4/29/2016",
+        "title": "Set-up and Run Your Own Intelligent Personal Assistant",
+        "track": "Tech",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Mars",
+            "Lingjia Tang"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
+        "end_date": "4/29/2016",
+        "title": "Sirius: The Open Source Intelligent Personal Assistant",
+        "track": "Tech",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Mars"
+        ],
+        "location": "Nicolet",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement. If you're in need of a good laugh, this is the place to go for it!",
+        "end_date": "4/29/2016",
+        "title": "Music Parody Performance: Derwood Bowen",
+        "track": "Media",
+        "start_time": "20:00",
+        "presenters": [
+            "Derwood Bowen"
+        ],
+        "location": "Portage",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
+    },
+    {
         "book_description": "PAM, or Pluggable Authentication Modules, is one of the most occult parts of managing Unixish systems. The unique configuration syntax and idiosyncratic rule processing drives many sysadmins to copy working configurations from other people and random blog posts. This talk takes you through the essentials of PAM configuration, You'll learn the components of PAM, how PAM processes rules, how to use multi-factor authentication, and get an overview of some useful PAM modules you probably haven't used, based on my book \"PAM Mastery.\"",
         "end_date": "4/29/2016",
         "title": "PAM: You're Doing It Wrong",
@@ -859,7 +888,7 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "So you're into kink, and then one day have kids. Those kids start growing up, they stumble upon your toy bag or notice that bruise that you got last night, and they start asking questions. What do you do? Do you make up a story? Tell them the truth? Bribe them with ice cream and toys to never speak of this again? Whether you live it 24/7 or only play on the weekends, are a sub or a Dom, a little, a pet player, or practitioner of any other kink, come join me for a round table discussion about all the challenges of raising children while being part of the BDSM community. ",
+        "book_description": "So you're into kink, and then one day have kids. Those kids start growing up, they stumble upon your toy bag or notice that bruise that you got last night, and they start asking questions. What do you do? Do you make up a story? Tell them the truth? Bribe them with ice cream and toys to never speak of this again? Whether you live it 24/7 or only play on the weekends, are a sub or a Dom, a little, a pet player, or practitioner of any other kink, come join me for a round table discussion about all the challenges of raising children while being part of the BDSM community. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Ethics of Raising Children While Participating in the BDSM Community",
         "track": "After Dark",
@@ -887,7 +916,7 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Come join us for a speed dating event especially for queer poly people!",
+        "book_description": "Come join us for a speed dating event especially for queer poly people! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Queer Poly Speed Dating",
         "track": "After Dark",
@@ -901,7 +930,7 @@
         "end_time": "22:30"
     },
     {
-        "book_description": "This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan.",
+        "book_description": "This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Rope Basics: The Bedroom and Beyond",
         "track": "After Dark",
@@ -975,7 +1004,21 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Handcuffs - Riding crops - Whips - Chains. Does some of this excite you? Curious about BDSM? Then come join us for a short introductory class where you'll learn about different, simple types of play to get you started. Easy things to try tonight! ",
+        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
+        "end_date": "4/29/2016",
+        "title": "Easy and Cheap: Healthy Meatless Meals",
+        "track": "Food",
+        "start_time": "21:00",
+        "presenters": [
+            "Amy Alice Wright"
+        ],
+        "location": "Food Room",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "Handcuffs - Riding crops - Whips - Chains. Does some of this excite you? Curious about BDSM? Then come join us for a short introductory class where you'll learn about different, simple types of play to get you started. Easy things to try tonight! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "BDSM: An Introduction to Kink",
         "track": "After Dark",
@@ -997,7 +1040,7 @@
         "presenters": [
             "Pat Baker"
         ],
-        "location": "Portage Auditorium",
+        "location": "Portage",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "21:50"
@@ -1009,7 +1052,12 @@
         "track": "Penguicon",
         "start_time": "21:00",
         "presenters": [
-            ""
+            "Ann Lemay",
+            "Ann Leckie",
+            "Cathrynne Valente",
+            "Deb Nicholson",
+            "Jason Mars",
+            "Lingjia Tang"
         ],
         "location": "Restaurant",
         "minutes": 50,
@@ -1031,21 +1079,7 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
-        "end_date": "4/29/2016",
-        "title": "Easy and Cheap: Healthy Meatless Meals",
-        "track": "Food",
-        "start_time": "21:00",
-        "presenters": [
-            "Amy Alice Wright"
-        ],
-        "location": "",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "Want to learn about impact play? Then come in and play! This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen!",
+        "book_description": "Want to learn about impact play? Then come in and play! This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Impact Play for Beginners",
         "track": "After Dark",
@@ -1059,9 +1093,9 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal.",
+        "book_description": "An informational talk for those who identify as primal or who wish to learn more about what it is and how it impacts the BDSM community. Come learn about primals, share information about primal scenes, and learn techniques to manage the inner animal. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
-        "title": "Primal: Understanding Yourself and Your Role in the Kink Community.",
+        "title": "Primal: Understanding Yourself and Your Role in the Kink Community",
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
@@ -1083,12 +1117,27 @@
             "Bob Waltenspiel",
             "Dave Phillips",
             "Scott Kennedy",
-            "Marie Staver"
+            "Marie Staver",
+            "Jessica Roland"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "22:50"
+    },
+    {
+        "book_description": "There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. ",
+        "end_date": "4/29/2016",
+        "title": "Midwest Mash - Whiskies of the Great Lakes",
+        "track": "Food",
+        "start_time": "22:00",
+        "presenters": [
+            "Greg Williams"
+        ],
+        "location": "Food Room",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
     },
     {
         "book_description": "Shannon and Maggie are BFF\u2019s and they (used to) drink, a lot. Join us for our 3rd time at Penguicon. Hilarity will ensue, we will drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @BrainOfMaggie ",
@@ -1106,7 +1155,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "The Demon Lobster crew invites you to this live recording of our podcast, \"Sanity Claws Radio\". The crew will be playing an audience driven game of \"I Can Top That\" where you get to ask our panel questions about games, movies, or anything in nerd culture and we quest to give the funniest answer possible. Raunchy humor and adult language abound in this panel. As a result, this panel is for (im)mature audiences only.",
+        "book_description": "The Demon Lobster crew invites you to this live recording of our podcast, \"Sanity Claws Radio\". The crew will be playing an audience driven game of \"I Can Top That\" where you get to ask our panel questions about games, movies, or anything in nerd culture and we quest to give the funniest answer possible. Raunchy humor and adult language abound in this panel. As a result, this panel is for (im)mature audiences only. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "DemonLobster.com presents: Sanity Claws Radio Live",
         "track": "After Dark",
@@ -1116,20 +1165,6 @@
             "Scott Markwart"
         ],
         "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement. If you're in need of a good laugh, this is the place to go for it!",
-        "end_date": "4/29/2016",
-        "title": "Music Parody Performance: Derwood Bowen",
-        "track": "Media",
-        "start_time": "22:00",
-        "presenters": [
-            "Derwood Bowen"
-        ],
-        "location": "Portage",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "22:50"
@@ -1163,22 +1198,8 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. ",
+        "book_description": "Polyamory speed dating will help polamorous people of all types get to know each other! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
-        "title": "Midwest Mash - Whiskies of the Great Lakes",
-        "track": "Food",
-        "start_time": "22:00",
-        "presenters": [
-            "Greg Williams"
-        ],
-        "location": "",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
-    },
-    {
-        "book_description": "Polyamory speed dating will help polamorous people of all types get to know each other!",
-        "end_date": "4/30/2016",
         "title": "Poly Speed Dating",
         "track": "After Dark",
         "start_time": "22:30",
@@ -1186,12 +1207,12 @@
             "Nicole Rohr"
         ],
         "location": "Charlevoix B",
-        "minutes": 1550,
+        "minutes": 110,
         "start_date": "4/29/2016",
         "end_time": "23:50"
     },
     {
-        "book_description": "Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan.",
+        "book_description": "Learn the ins and outs of a few basic harnesses and how to integrate more decorative knotwork into your rope ties. There will be some discussion of flow in a rope scene. A limited amount of rope will be available for loan. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Rope for Decoration and Restraint",
         "track": "After Dark",
@@ -1248,6 +1269,20 @@
         "end_time": "9:50"
     },
     {
+        "book_description": "Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.",
+        "end_date": "4/30/2016",
+        "title": "Coffee, The Other Java",
+        "track": "Food",
+        "start_time": "9:00",
+        "presenters": [
+            "Kelly Vanderwell"
+        ],
+        "location": "Food Room",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "9:50"
+    },
+    {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
         "end_date": "4/30/2016",
         "title": "Hands on Soldering and Embedded Programming with All Hands Active",
@@ -1257,20 +1292,6 @@
             "All Hands Active"
         ],
         "location": "HackerSpace (317)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.",
-        "end_date": "4/30/2016",
-        "title": "Coffee, The Other Java",
-        "track": "Food",
-        "start_time": "9:00",
-        "presenters": [
-            "Kelly Vanderwell"
-        ],
-        "location": "",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "9:50"
@@ -1337,7 +1358,7 @@
     {
         "book_description": "Interested in strategies for navigating a career in IT, or finding out how you break into IT in the first place? How do you transition to the next job? How do you market yourself? How do you determine if your current skills are marketable? The panelists will discuss various topics and provide real life examples. ",
         "end_date": "4/30/2016",
-        "title": "Navigation strategies for a Career in IT",
+        "title": "Navigation Strategies for a Career in IT",
         "track": "Tech",
         "start_time": "10:00",
         "presenters": [
@@ -1345,6 +1366,21 @@
             "Douglas Johnson"
         ],
         "location": "Charlevoix B",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "10:50"
+    },
+    {
+        "book_description": "Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together.",
+        "end_date": "4/30/2016",
+        "title": "The Pre-Production Process for Films: Where It All Comes Together",
+        "track": "Media",
+        "start_time": "10:00",
+        "presenters": [
+            "Mike Madigan",
+            "Matthew Peach"
+        ],
+        "location": "Charlevoix C",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "10:50"
@@ -1412,7 +1448,7 @@
     {
         "book_description": "So you've learned from parts 1 and 2 how to make your Webcomic, how to build up the world around your characters and follow it all to completion. What now? You stand alone with your work. It's awesome. The world needs to bask in its awesomeness! What's that? How do you get it to them, you ask? Great question, and here is your answer! Come join Erika Wagner and Laura Cascos for part 3 of 3 of Webcomics 101! ",
         "end_date": "4/30/2016",
-        "title": "Webcomics 101-Self Promotion",
+        "title": "Webcomics 101: Self Promotion",
         "track": "Comics",
         "start_time": "10:00",
         "presenters": [
@@ -1441,7 +1477,7 @@
     {
         "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
         "end_date": "4/30/2016",
-        "title": "Dangerous Things Does Implanations",
+        "title": "Dangerous Things RFID Implanations",
         "track": "DIY, Tech",
         "start_time": "10:00",
         "presenters": [
@@ -1454,7 +1490,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided.",
+        "book_description": "Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event. Please sign up at Ops.",
         "end_date": "4/30/2016",
         "title": "Intro to Needle Felting",
         "track": "DIY",
@@ -1546,23 +1582,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "What's something amazing that you read recently that you want to tell the world about?",
-        "end_date": "4/30/2016",
-        "title": "What Have You Read?",
-        "track": "Literature",
-        "start_time": "11:00",
-        "presenters": [
-            "Jim Leach",
-            "Andrea Johnson",
-            "Stewart Sternberg",
-            "Nicole Castle"
-        ],
-        "location": "Algonquin B/C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "11:50"
-    },
-    {
         "book_description": "Think your snazzy new UI is fantastic? Did you test it with color-blind users? No? Then you're probably in for a surprise for how much information you are trying to convey in a way that is not accessible to your users who have colorblindness or color sight deficiencies. We will discuss the details of what it means to be color blind and what you can do as a programmer or designer to improve the usability of your software for the 1 in 12 of your users who are color blind.",
         "end_date": "4/30/2016",
         "title": "Overthrow the Trichromatocracy: Making Color-blind Friendly UIs",
@@ -1614,7 +1633,7 @@
     {
         "book_description": "Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.",
         "end_date": "4/30/2016",
-        "title": "ScreenWriting Tips",
+        "title": "Screen Writing Tips",
         "track": "Media",
         "start_time": "11:00",
         "presenters": [
@@ -1626,21 +1645,6 @@
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "12:50"
-    },
-    {
-        "book_description": "Learn more about the screenwriting process and getting your short or feature film ready for production, as well as the pre-production elements of casting, securing locations, choosing the right gear for your production, and getting your production team together.",
-        "end_date": "4/30/2016",
-        "title": "The Pre-Production Process for Films - Where It All Comes Together:",
-        "track": "Media",
-        "start_time": "11:00",
-        "presenters": [
-            "Mike Madigan",
-            "Matthew Peach"
-        ],
-        "location": "Charlevoix C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "11:50"
     },
     {
         "book_description": "Come share your experiences in deploying and testing software. Birds of a Feather events are unmoderated.",
@@ -1685,7 +1689,7 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Learn how to use two sticks and a piece of string to make works of art! A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. ",
+        "book_description": "Learn how to use two sticks and a piece of string to make works of art! A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event. Please sign up at Ops.",
         "end_date": "4/30/2016",
         "title": "Knitting 101",
         "track": "DIY",
@@ -1694,6 +1698,20 @@
             "Kelly Vanderwell"
         ],
         "location": "EMC V",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.",
+        "end_date": "4/30/2016",
+        "title": "Homebrewing",
+        "track": "Food",
+        "start_time": "11:00",
+        "presenters": [
+            "Johnathon A. Campbell"
+        ],
+        "location": "Food Room",
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "12:50"
@@ -1708,6 +1726,20 @@
             "All Hands Active"
         ],
         "location": "HackerSpace (317)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics!",
+        "end_date": "4/30/2016",
+        "title": "Flash Comics!",
+        "track": "Comics",
+        "start_time": "11:00",
+        "presenters": [
+            "Noa Page"
+        ],
+        "location": "Hamlin",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "11:50"
@@ -1752,9 +1784,9 @@
             "Chad Sinke"
         ],
         "location": "Portage",
-        "minutes": 50,
+        "minutes": 110,
         "start_date": "4/30/2016",
-        "end_time": "11:50"
+        "end_time": "12:50"
     },
     {
         "book_description": "Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix.",
@@ -1769,20 +1801,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "11:50"
-    },
-    {
-        "book_description": "There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.",
-        "end_date": "4/30/2016",
-        "title": "Homebrewing",
-        "track": "Food",
-        "start_time": "11:00",
-        "presenters": [
-            "Johnathon A. Campbell"
-        ],
-        "location": "",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
     },
     {
         "book_description": "Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!",
@@ -1928,7 +1946,7 @@
     {
         "book_description": "Emulating a trip through Craig's childhood, one machine at a time. Desktop computers today don't have any soul. Sure you have your Linux and your Macintosh and your \"Windows\" but it's all pretty much the same hardware underneath. Why not put those gigahertz to use and emulate the hardware and software of yester-year? Craig Maloney will give a tour of his childhood by showing us how to (legally) run such computers as the Atari 800XL, the Commodore Amiga, PET and C64, the Sinclair ZX series, and even some arcade games. Amaze your friends by running a room-full of 1970s and 1980s technology on more capable hardware. It's a presentation you won't want to miss!",
         "end_date": "4/30/2016",
-        "title": "Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time",
+        "title": "Emulators and Emulation",
         "track": "Tech",
         "start_time": "12:00",
         "presenters": [
@@ -2047,7 +2065,8 @@
         "presenters": [
             "Tobias Buckell",
             "Ferrett Steinmetz",
-            "Cathrynne Valente"
+            "Cathrynne Valente",
+            "Dave Klecha"
         ],
         "location": "Algonquin D",
         "minutes": 50,
@@ -2100,7 +2119,7 @@
     {
         "book_description": "Come learn how to crochet! Bring your yarn and hooks (or some of your stash to help start out new people!). Everyone is welcome to discuss different techniques and stitches. Come learn some new skills or help to teach others new skills.",
         "end_date": "4/30/2016",
-        "title": "Crocheting 101 DIY",
+        "title": "Crocheting 101",
         "track": "DIY",
         "start_time": "13:00",
         "presenters": [
@@ -2142,6 +2161,20 @@
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "14:50"
+    },
+    {
+        "book_description": "An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. ",
+        "end_date": "4/1/2016",
+        "title": "Kitchen Hacks 101",
+        "track": "Food",
+        "start_time": "13:00",
+        "presenters": [
+            "Emily Tuesday"
+        ],
+        "location": "Food Room",
+        "minutes": -41710,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
     },
     {
         "book_description": "What does it mean to be Agile? Is it all marketing and hype or does this represent the future of software development? We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework. We will discuss things like the element of Scrum, it\u2019s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. ",
@@ -2187,10 +2220,10 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "This live recording of Rathbone the Pirate's \"Pieces of Eight\" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters",
+        "book_description": "This live recording of Rathbone the Pirate's \"Pieces of Eight\" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch \"Duckman\" Peters",
         "end_date": "4/30/2016",
         "title": "\"Pieces of Eight\" Live from Penguicon!",
-        "track": "Mayhem",
+        "track": "Mayhem, Media",
         "start_time": "13:00",
         "presenters": [
             "Rathbone the Pirate",
@@ -2219,7 +2252,7 @@
         "book_description": "Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns.",
         "end_date": "4/30/2016",
         "title": "Tom Smith Concert",
-        "track": "Penguicon",
+        "track": "Penguicon, Media",
         "start_time": "13:00",
         "presenters": [
             "Tom Smith"
@@ -2240,20 +2273,6 @@
         ],
         "location": "Windover",
         "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. ",
-        "end_date": "4/1/2016",
-        "title": "Kitchen Hacks 101",
-        "track": "Food",
-        "start_time": "13:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "",
-        "minutes": -41710,
         "start_date": "4/30/2016",
         "end_time": "13:50"
     },
@@ -2297,21 +2316,6 @@
             "Clif Flynt"
         ],
         "location": "Algonquin D",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. ",
-        "end_date": "4/30/2016",
-        "title": "Set-up and Run Your Own Intelligent Personal Assistant",
-        "track": "Tech",
-        "start_time": "14:00",
-        "presenters": [
-            "Jason Mars",
-            "Lingjia Tang"
-        ],
-        "location": "Charlevoix A",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2387,15 +2391,15 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.",
+        "book_description": "With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.",
         "end_date": "4/30/2016",
-        "title": "So You Want to Get a Degree in Comics?",
+        "title": "Comics in the Classroom",
         "track": "Comics",
         "start_time": "14:00",
         "presenters": [
             "Elizabeth \"Biz\" Nidjam"
         ],
-        "location": "EMC I ",
+        "location": "EMC I",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2403,7 +2407,7 @@
     {
         "book_description": "Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets. Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP.     ",
         "end_date": "4/30/2016",
-        "title": "Introduction to Exoplanet art with the GIMP 1",
+        "title": "Introduction to Exoplanet Art with the GIMP 1",
         "track": "Science",
         "start_time": "14:00",
         "presenters": [
@@ -2426,6 +2430,20 @@
             "Max Issac"
         ],
         "location": "EMC IV",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home.",
+        "end_date": "4/30/2016",
+        "title": "Vegan Junk Food: Delicious and Not at All Nutritious",
+        "track": "Food",
+        "start_time": "14:00",
+        "presenters": [
+            "Amy Alice Wright"
+        ],
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2473,13 +2491,17 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.",
+        "book_description": "Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately.",
         "end_date": "4/30/2016",
-        "title": "Ann Leckie Reading",
+        "title": "Where Did the Heroes Go?",
         "track": "Literature",
         "start_time": "14:00",
         "presenters": [
-            "Ann Leckie"
+            "Jay Maynard",
+            "Eric S. Raymond",
+            "Jon Davis",
+            "Stewart Sternberg",
+            "Christine Daigle"
         ],
         "location": "Montcalm",
         "minutes": 50,
@@ -2511,7 +2533,7 @@
         "presenters": [
             "Pat Baker"
         ],
-        "location": "Portage Auditorium",
+        "location": "Portage",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2527,20 +2549,6 @@
             "Ruth Suehle"
         ],
         "location": "Windover",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home.",
-        "end_date": "4/30/2016",
-        "title": "Vegan Junk Food: Delicious and Not at All Nutritious",
-        "track": "Food",
-        "start_time": "14:00",
-        "presenters": [
-            "Amy Alice Wright"
-        ],
-        "location": "",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2563,7 +2571,7 @@
     },
     {
         "book_description": "A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples?",
-        "end_date": "4/30/2016",
+        "end_date": "4/29/2016",
         "title": "Character Problems \u2013 What's an Author to Do?",
         "track": "Literature",
         "start_time": "15:00",
@@ -2575,7 +2583,7 @@
             "Cindy Spencer Pape"
         ],
         "location": "Algonquin D",
-        "minutes": 50,
+        "minutes": -1390,
         "start_date": "4/30/2016",
         "end_time": "15:50"
     },
@@ -2685,6 +2693,20 @@
         "end_time": "16:50"
     },
     {
+        "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
+        "end_date": "4/30/2016",
+        "title": " Baking and Breaking Bread",
+        "track": "Food",
+        "start_time": "15:00",
+        "presenters": [
+            "David Clipner"
+        ],
+        "location": "Food Room",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live on stage\u2014and raffles off the working synth at the end!",
         "end_date": "4/30/2016",
         "title": "Demo Build of the Single-Chip Space Invader Synth",
@@ -2694,20 +2716,6 @@
             "David Erik Nelson"
         ],
         "location": "Hackerspace (317)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live.",
-        "end_date": "4/30/2016",
-        "title": "DIY Electronic Synth Equipment",
-        "track": "DIY, Tech",
-        "start_time": "15:00",
-        "presenters": [
-            "David Erik Nelson"
-        ],
-        "location": "HackerSpace (317)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "15:50"
@@ -2788,21 +2796,7 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
-        "end_date": "4/30/2016",
-        "title": " Baking and Breaking Bread",
-        "track": "Food",
-        "start_time": "15:00",
-        "presenters": [
-            "David Clipner"
-        ],
-        "location": "",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Come watch a live demonstration of body painting! Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch!",
+        "book_description": "Come watch a live demonstration of body painting! Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Body Painting",
         "track": "After Dark",
@@ -2824,12 +2818,14 @@
         "presenters": [
             "Deb Nicholson",
             "Jason Mars",
-            "Lingjia Tang"
+            "Lingjia Tang",
+            "Tobias Buckell",
+            "Edward L. Platt"
         ],
         "location": "Algonquin B/C",
-        "minutes": 60,
+        "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "17:00"
+        "end_time": "16:50"
     },
     {
         "book_description": "What are the best methods for finding the best agent for you?",
@@ -2839,7 +2835,6 @@
         "start_time": "16:00",
         "presenters": [
             "Merrie Haskell",
-            "Tobias Buckell",
             "Ann Leckie",
             "Stacy Bender",
             "Mary Lynn Gibbs"
@@ -2857,7 +2852,9 @@
         "start_time": "16:00",
         "presenters": [
             "Crazy Mark",
-            "Alex Drummer"
+            "Alex Drummer",
+            "Justin Coluzzi",
+            "Kevin McLeod"
         ],
         "location": "Charlevoix B",
         "minutes": 50,
@@ -2913,7 +2910,7 @@
     {
         "book_description": "Erika Wagner and Laura Cascos have seen it all in the Webcomics community! As the creative minds and executors of the wildly popular Webcomic Sidekick Girl for over 9 years, they are masters at the craft. Join these titans for this first of three panels as they break down the webcomic creation process and have some fun doing it!",
         "end_date": "4/30/2016",
-        "title": "Webcomics 101-Characters and Story",
+        "title": "Webcomics 101: Characters and Story",
         "track": "Comics",
         "start_time": "16:00",
         "presenters": [
@@ -2926,15 +2923,32 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids.",
+        "book_description": "Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
-        "title": "The Tech Behind Asteroid Mining",
-        "track": "Tech",
+        "title": "Sexual Safety",
+        "track": "After Dark",
         "start_time": "16:00",
         "presenters": [
-            "Krunal Desai"
+            "Jen Schwartz",
+            "Matt Sweet",
+            "Max Issac"
         ],
         "location": "EMC IV",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon! Or vanilla! This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.",
+        "end_date": "4/30/2016",
+        "title": "Tastes that Taste Great Together",
+        "track": "Food",
+        "start_time": "16:00",
+        "presenters": [
+            "Cathy Raymond",
+            "Eric S. Raymond"
+        ],
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "16:50"
@@ -2954,13 +2968,13 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code.",
+        "book_description": "Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. ",
         "end_date": "4/30/2016",
-        "title": "Python Code Walk-Through",
+        "title": "Data Analysis Using Python",
         "track": "Tech",
         "start_time": "16:00",
         "presenters": [
-            "Mike Bernson"
+            "Richard Herrell"
         ],
         "location": "Montcalm",
         "minutes": 50,
@@ -2977,21 +2991,6 @@
             "Michael W. Lucas"
         ],
         "location": "Windover",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon! Or vanilla! This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.",
-        "end_date": "4/30/2016",
-        "title": "Tastes that Taste Great Together",
-        "track": "Food",
-        "start_time": "16:00",
-        "presenters": [
-            "Cathy Raymond",
-            "Eric S. Raymond"
-        ],
-        "location": "",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "16:50"
@@ -3018,7 +3017,9 @@
         "start_time": "17:00",
         "presenters": [
             "Crazy Mark",
-            "Alex Drummer"
+            "Alex Drummer",
+            "Justin Coluzzi",
+            "Kevin McLeod"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
@@ -3159,6 +3160,20 @@
         "end_time": "18:50"
     },
     {
+        "book_description": "Join Guest of Honor Ann Leckie for a reading and a chance to have your books signed.",
+        "end_date": "4/30/2016",
+        "title": "Ann Leckie Reading",
+        "track": "Literature",
+        "start_time": "18:00",
+        "presenters": [
+            "Ann Leckie"
+        ],
+        "location": "Charlevoix A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
         "book_description": "The push for more diversity has become a regular topic in the world of genre media and games, from calling out instances of white-washing and queer-baiting, to protesting the inevitable and often inexplicable deaths of queer characters and characters of color. It's an exhausting road, but is it actually leading to more diverse and inclusive media?",
         "end_date": "4/30/2016",
         "title": "Diversity in Geek Media",
@@ -3168,7 +3183,8 @@
             "Tanya DePass",
             "Ann Lemay",
             "Lingjia Tang",
-            "Mark Oshiro"
+            "Mark Oshiro",
+            "Cathrynne Valente"
         ],
         "location": "Charlevoix B",
         "minutes": 50,
@@ -3176,9 +3192,9 @@
         "end_time": "18:50"
     },
     {
-        "book_description": "We've all grown up around comics, watched tons of movie adaptations of them, and gathered around the television on Saturday mornings to watch cartoons based on them ...right? Well in case you didn't, this panel is for you! Learn about comics media and why it's so great! An intro for the uninitiated! ",
+        "book_description": "Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.",
         "end_date": "4/30/2016",
-        "title": "Intro to Comics",
+        "title": "So You Want to Get a Degree in Comics?",
         "track": "Comics",
         "start_time": "18:00",
         "presenters": [
@@ -3242,7 +3258,8 @@
             "Christian Klaver",
             "Robert Kroese",
             "Michael Cieslak",
-            "Cathrynne Valente"
+            "Cathrynne Valente",
+            "Andrea Johnson"
         ],
         "location": "Hamlin",
         "minutes": 50,
@@ -3265,7 +3282,7 @@
         "end_time": "18:50"
     },
     {
-        "book_description": "The Smith-ka-teers watch bad movies throughout the year and clip the best worst parts to show our audience. 19 \"B Movie\" categories (Stupidest Looking Monster? Oh yeah. Acting Appropriately Stupid? Got that too) and five clips per category, the audience decides which clip gets to take home the title of best of the worst. Come for some or come for all. It's free, fun and other F adjectives!",
+        "book_description": "The Smith-ka-teers watch bad movies throughout the year and clip the best worst parts to show our audience. 19 \"B Movie\" categories (Stupidest Looking Monster? Oh yeah. Acting Appropriately Stupid? Got that too) and five clips per category, the audience decides which clip gets to take home the title of best of the worst. Come for some or come for all. It's free, fun and other F adjectives! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "The Smithee Awards",
         "track": "After Dark, Media",
@@ -3329,7 +3346,7 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Can there be a formula to the way our feelings grow for each other? Some say a series of 36 questions can create emotional intimacy in a very short period of time, even among strangers. Come and join our experiment to see such claims hold true! Due to the nature of the activity, attendance will be limited. Participation will depend on demographically matching partner availability. Couples encouraged if space allows. 18+ only.",
+        "book_description": "Can there be a formula to the way our feelings grow for each other? Some say a series of 36 questions can create emotional intimacy in a very short period of time, even among strangers. Come and join our experiment to see such claims hold true! Due to the nature of the activity, attendance will be limited. Participation will depend on demographically matching partner availability. Couples encouraged if space allows. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Love Hacked? 36 Questions That May Change Your Life",
         "track": "After Dark",
@@ -3390,7 +3407,7 @@
     {
         "book_description": "Missions like the Kepler telescope have shown our galaxy be home to countless exoplanets, but it is still up to artists to imagine how these planets. Discover how easy it is for someone with no artistic experience to create beautiful exoplanet images with the open source editor the GIMP.     ",
         "end_date": "4/30/2016",
-        "title": "Introduction to Exoplanet art with the GIMP 2",
+        "title": "Introduction to Exoplanet Art with the GIMP 2",
         "track": "Science",
         "start_time": "19:00",
         "presenters": [
@@ -3402,15 +3419,13 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Come with all your questions about sex and safety, and we'll talk about how to keep safe and stay healthy!",
+        "book_description": "Krunal Desai, senior avionics engineer at Planetary Resources, the asteroid mining company talks about some of the technologies we use, and the challenges we face in mining asteroids.",
         "end_date": "4/30/2016",
-        "title": "Sexual Safety",
-        "track": "After Dark",
+        "title": "The Tech Behind Asteroid Mining",
+        "track": "Tech",
         "start_time": "19:00",
         "presenters": [
-            "Jen Schwartz",
-            "Matt Sweet",
-            "Max Issac"
+            "Krunal Desai"
         ],
         "location": "EMC IV",
         "minutes": 50,
@@ -3447,7 +3462,7 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Come learn about and discuss cryptozoology and the paranormal wonders of the Great Lakes region.",
+        "book_description": "Come learn about and discuss cryptozoology and the paranormal wonders of the Great Lakes region. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Cryptozoology and the Paranormal in the Great Lakes",
         "track": "After Dark",
@@ -3461,29 +3476,15 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Learn about Loading, wrangling, visualizing, and plotting data using Python, NumPy, Pandas, and the IPython interactive development and computing environment. ",
+        "book_description": "Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code.",
         "end_date": "4/30/2016",
-        "title": "Data Analysis Using Python",
+        "title": "Python Code Walk-Through",
         "track": "Tech",
         "start_time": "19:00",
         "presenters": [
-            "Richard Herrell"
+            "Mike Bernson"
         ],
         "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
-        "end_date": "4/30/2016",
-        "title": "Sirius: The Open Source Intelligent Personal Assistant",
-        "track": "Tech",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Mars"
-        ],
-        "location": "Nicolet",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "19:50"
@@ -3503,7 +3504,7 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.",
+        "book_description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Literary Filk",
         "track": "After Dark",
@@ -3582,9 +3583,23 @@
         "end_time": "20:50"
     },
     {
+        "book_description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
+        "end_date": "4/30/2016",
+        "title": "Pirate Rum History Tastings",
+        "track": "Food",
+        "start_time": "20:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Food Room",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
         "book_description": "Did you catch Part 1 (of 3) of the amazing Erika Wagner and Laura Cascos's Webcomics 101 panel? If you did...awesome! If you didn't...off to detention for you! Before you go to detention though, be sure to catch part 2 and learn about logistics and their importance in the Webcomic medium!",
         "end_date": "4/30/2016",
-        "title": "Webcomics 101-Logistics",
+        "title": "Webcomics 101: Logistics",
         "track": "Comics",
         "start_time": "20:00",
         "presenters": [
@@ -3623,34 +3638,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "20:50"
-    },
-    {
-        "book_description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
-        "end_date": "4/30/2016",
-        "title": "Pirate Rum History Tastings",
-        "track": "Food",
-        "start_time": "20:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "",
-        "minutes": 0,
-        "start_date": "4/30/2016",
-        "end_time": "20:00"
-    },
-    {
-        "book_description": "Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.",
-        "end_date": "4/30/2016",
-        "title": "Taste My Pickle",
-        "track": "Food",
-        "start_time": "20:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "21:50"
     },
     {
         "book_description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
@@ -3698,20 +3685,6 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality and virtual reality (AR/VR) environments.",
-        "end_date": "4/30/2016",
-        "title": "Neurable: The Next Evolution of Brain-Computer Interfaces",
-        "track": "Science",
-        "start_time": "21:00",
-        "presenters": [
-            "Ramses Alcaide"
-        ],
-        "location": "Charlevoix B",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
         "book_description": "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
         "end_date": "4/30/2016",
         "title": "SF/F Madlibs",
@@ -3729,7 +3702,7 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation.",
+        "book_description": "From negotiating a scene to negotiating a relationship, come learn some great lessons in the art of negotiation. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "The Art of Negotiating",
         "track": "After Dark",
@@ -3743,7 +3716,7 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Dynamic story exercise.Start with a simple plot and develop it around the table. Each person is given a chance to tell the next part in turn. Any change can be done by the story teller. Time travel, resurrection, talking cats are all fair play. Each turn is no more than two minutes. We join the story where our heroes are about to land on Saturn F-Ring station in search of whoever stole the E-nabling 3D printed thumb-drive. The smart drive will enable anyone who wears it to break the security codes used by banks and stock markets throughout the solar system. This session will be recorded and posted on YouTube. ",
+        "book_description": "Join us for some dynamic story exercises! Start with a simple plot and develop it around the table. Each person is given a chance to tell the next part in turn. Any change can be made by the next storyteller. Each turn is no more than two minutes. We join the story where our heroes are about to land on Saturn F-Ring station in search of whoever stole the E-nabling 3D printed thumb-drive. The smart drive will enable anyone who wears it to break the security codes used by banks and stock markets throughout the solar system. This session will be recorded and posted on YouTube with participant permission.",
         "end_date": "4/30/2016",
         "title": "Story Roundtabling",
         "track": "Literature",
@@ -3757,9 +3730,9 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics!",
+        "book_description": "This is a judgment free zone...but have you ever looked at a comic and thought, \u201cWow that doesn't look right\u201d. You've come to the right place. We'll study the comic greats and have a laugh as we explore the made up muscle groups, humanly impossible poses, and just downright ponder how it made it from the drawing table to the rack at your local comic book store!",
         "end_date": "4/30/2016",
-        "title": "Flash Comics!",
+        "title": "How Not To Draw Comics ",
         "track": "Comics",
         "start_time": "21:00",
         "presenters": [
@@ -3768,6 +3741,20 @@
             "Jon David"
         ],
         "location": "EMC IV",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.",
+        "end_date": "4/30/2016",
+        "title": "Taste My Pickle",
+        "track": "Food",
+        "start_time": "21:00",
+        "presenters": [
+            "Emily Tuesday"
+        ],
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "21:50"
@@ -3787,7 +3774,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "What does high voltage and foreplay have in common? What is a TENS unit good for except back pain? Find out these answers and more with this fun presentation and demonstration. Learn about violet wands, TENS units, and more! Come and try out an electric toy. ",
+        "book_description": "What does high voltage and foreplay have in common? What is a TENS unit good for except back pain? Find out these answers and more with this fun presentation and demonstration. Learn about violet wands, TENS units, and more! Come and try out an electric toy. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Electrifying Sex: From Quack to Kink",
         "track": "After Dark",
@@ -3844,10 +3831,10 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "Join Shannon and Maggie for an \"ask me anything.\" You have been to \"Sex Toys w/ S and M\", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience.",
+        "book_description": "Join Shannon and Maggie for an \"ask me anything.\" You have been to \"Sex Toys w/ S and M\", now get the tough questions answered in a comfortable and safe environment. Submit your questions ahead of time via Twitter at @ShannonsParty and @BrainOfMaggie. Cards will also be available during the panel for confidentially. Mature audience. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "S and M AMA",
-        "track": "",
+        "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
             "Shannon Marshall",
@@ -3859,9 +3846,9 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called \"age play.\" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture (18+ only please).",
+        "book_description": "With adult coloring books on the rise, and as it becomes more acceptable for adults to enjoy traditionally 'kid' things, light is shed on a subculture called \"age play.\" As with every subculture that suddenly finds itself in media spotlight, there are a lot of misconceptions. In this panel and discussion, we will attempt to put stereotypes to rest and remove some of the negative media stigma. Whether this is totally your scene, you know that one guy that does this, or you have no idea, come share your questions and experiences. We will cover the entire spectrum of this fun and interesting subculture. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
-        "title": "So, What's This \"Age Play\" Thing Anyway ?",
+        "title": "So, What's This \"Age Play\" Thing Anyway?",
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
@@ -3873,7 +3860,22 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "Come and find out how how poly can be different with a D/s dynamic.",
+        "book_description": "The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history! From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking! Audience questions are encouraged. So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!",
+        "end_date": "4/30/2016",
+        "title": "DemonLobster.com Presents: History of the Cocktail",
+        "track": "Food",
+        "start_time": "22:00",
+        "presenters": [
+            "Scott Markwart",
+            "Steve Licavoli"
+        ],
+        "location": "Food Room",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "Come and find out how how poly can be different with a D/s dynamic. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Polyamory and Kink",
         "track": "After Dark",
@@ -3891,7 +3893,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "Fire isn't just for warmth anymore. Come watch some new ways to explore with it.",
+        "book_description": "Fire isn't just for warmth anymore. Come watch some new ways to explore with it. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Fire Play and Massage",
         "track": "After Dark",
@@ -3905,7 +3907,7 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "Come and experience the best (worst) erotica that Chuck Tingle has to offer, read live and (totally unprepared for what's to come) by Mark Oshiro.",
+        "book_description": "Come and experience the best (worst) erotica that Chuck Tingle has to offer, read live and (totally unprepared for what's to come) by Mark Oshiro. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Mark Reads After Dark",
         "track": "After Dark",
@@ -3914,21 +3916,6 @@
             "Mark Oshiro"
         ],
         "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history! From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking! Audience questions are encouraged. So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!",
-        "end_date": "4/30/2016",
-        "title": "DemonLobster.com Presents: History of the Cocktail",
-        "track": "Food",
-        "start_time": "22:00",
-        "presenters": [
-            "Scott Markwart",
-            "Steve Licavoli"
-        ],
-        "location": "",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "22:50"
@@ -3970,7 +3957,7 @@
         "start_time": "10:00",
         "presenters": [
             "Paul Kemner",
-            "Ericka Kahler",
+            "Ericka S. Kahler",
             "Eric S. Raymond",
             "Michael K. Elliot",
             "Angie Rush"
@@ -4131,20 +4118,6 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH. He'll talk about why he did it, how he did it, and how you can build your own car too! If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
-        "end_date": "5/1/2016",
-        "title": "DIY Electric Car Edition 2",
-        "track": "DIY, Tech",
-        "start_time": "10:00",
-        "presenters": [
-            "Chad Sinke"
-        ],
-        "location": "Portage",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "10:50"
-    },
-    {
         "book_description": "Wanting to start a YouTube channel or adding video to your website/social pages? This panel will provide tips and tricks to help creating videos for new or already established channels.",
         "end_date": "5/1/2016",
         "title": "Intro to Video for Social Media",
@@ -4171,6 +4144,40 @@
         ],
         "location": "Windover",
         "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "What's something amazing that you read recently that you want to tell the world about?",
+        "end_date": "5/1/2016",
+        "title": "What Have You Read?",
+        "track": "Literature",
+        "start_time": "11:00",
+        "presenters": [
+            "Jim Leach",
+            "Andrea Johnson",
+            "Stewart Sternberg",
+            "Nicole Castle"
+        ],
+        "location": "Algonquin B/C",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project.",
+        "end_date": "5/1/2016",
+        "title": "Crowd- and Alternatively Funding Your Career",
+        "track": "Life",
+        "start_time": "11:00",
+        "presenters": [
+            "Tanya DePass",
+            "Mark Oshiro",
+            "Christina York",
+            "Noa Page"
+        ],
+        "location": "Algonquin D",
+        "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "11:50"
     },
@@ -4218,9 +4225,25 @@
         "end_time": "11:50"
     },
     {
+        "book_description": "Let's talk about LGBQT identities",
+        "end_date": "5/1/2016",
+        "title": "LGBTQ Identities",
+        "track": "Life",
+        "start_time": "11:00",
+        "presenters": [
+            "Jen Schwartz",
+            "Matt Sweet",
+            "Max Issac"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
+    },
+    {
         "book_description": "Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.",
         "end_date": "5/1/2016",
-        "title": "Kerbal Space Build off",
+        "title": "Kerbal Space Build-Off",
         "track": "Tech",
         "start_time": "11:00",
         "presenters": [
@@ -4357,20 +4380,18 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Let's talk about LGBQT identities",
+        "book_description": "Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH. He'll talk about why he did it, how he did it, and how you can build your own car too! If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!",
         "end_date": "5/1/2016",
-        "title": "LGBTQ Identities",
-        "track": "Life",
+        "title": "DIY Electric Car Edition 2",
+        "track": "DIY, Tech",
         "start_time": "11:00",
         "presenters": [
-            "Jen Schwartz",
-            "Matt Sweet",
-            "Max Issac"
+            "Chad Sinke"
         ],
-        "location": "Montcalm",
-        "minutes": 50,
+        "location": "Portage",
+        "minutes": 110,
         "start_date": "5/1/2016",
-        "end_time": "11:50"
+        "end_time": "12:50"
     },
     {
         "book_description": "I love a good scarf; don't you? They are so warm and stylish. There are many different types of neckwear bandannas, shawls, stoles, ascots, boas, and kerchiefs. They are mainly used as fashionable accessories; but they also have a very practical utilitarian use as well. I'm talking about Self-Defense. Come learn to use scarves as a deceptive yet efficient Self-Defense tool. In this seminar you will learn to defend yourself using throws, locks, and binding.",
@@ -4445,6 +4466,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality and virtual reality (AR/VR) environments.",
+        "end_date": "5/1/2016",
+        "title": "Neurable: The Next Evolution of Brain-Computer Interfaces",
+        "track": "Science",
+        "start_time": "12:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Charlevoix B",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "Was the latest Star Wars groundbreaking and subversive? Or was it just merely a rehash of old tropes? Do new characters like Rey, Finn, Po, and Kylo Ren hold up to classic characters such as Luke, Leia, Han and Darth Vader. When does using standard archetypes degrade into rehash and did Star Wars fall into this trap or transcend expectations?",
         "end_date": "5/1/2016",
         "title": "Star Wars: Bane or Boon?",
@@ -4490,14 +4525,28 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!",
+        "book_description": "You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen.",
         "end_date": "5/1/2016",
-        "title": "BoF: Favorite/Dropped Anime",
+        "title": "Preserving the Summer",
+        "track": "Food",
+        "start_time": "12:00",
+        "presenters": [
+            "Emily Tuesday"
+        ],
+        "location": "Food Room",
+        "minutes": 0,
+        "start_date": "5/1/2016",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
+        "end_date": "5/1/2016",
+        "title": "Comic vs. Manga",
         "track": "Anime",
         "start_time": "12:00",
         "presenters": [
-            "Cassy Sinke",
-            "BluRaven C. Houvener"
+            "BluRaven C. Houvener",
+            "Cassy Sinke"
         ],
         "location": "Hamlin",
         "minutes": 50,
@@ -4542,7 +4591,7 @@
         "track": "Life",
         "start_time": "12:00",
         "presenters": [
-            "Biz Nidjam",
+            "Elizabeth \"Biz\" Nidjam",
             "Jen Talley",
             "Ruth Suehle"
         ],
@@ -4564,20 +4613,6 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "12:50"
-    },
-    {
-        "book_description": "You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen.",
-        "end_date": "5/1/2016",
-        "title": "Preserving the Summer",
-        "track": "Food",
-        "start_time": "12:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "",
-        "minutes": 0,
-        "start_date": "5/1/2016",
-        "end_time": "12:00"
     },
     {
         "book_description": "Cliches in fantasy and science fiction are a big no-no... except when they aren\u2019t. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre?",
@@ -4610,23 +4645,6 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Our panelists discuss their experiences using entrepreneurship opportunities like Startup Weekend and Global Startup Battle or crowdfunding platforms like Kickstarter and Patreon, to supplement or make a living, or start a new project.",
-        "end_date": "5/1/2016",
-        "title": "Crowd- and Alternatively Funding Your Career",
-        "track": "Life",
-        "start_time": "13:00",
-        "presenters": [
-            "Tanya DePass",
-            "Mark Oshiro",
-            "Christina York",
-            "Noa Page"
-        ],
-        "location": "Algonquin D",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "What happens when you take a hand full of comics artists, arm them with paper and sharpies, and prompt them to draw a comic in an unrealistic timespan? No this isn't the riddle of the Sphinx! This is an interactive game that will push these artists to the brink, test their abilities and provide some serious laughs! Bring your sass, clever wit and sense of humor...cause it's you that suggests what they draw!",
         "end_date": "5/1/2016",
         "title": "Comic Jam",
@@ -4650,22 +4668,6 @@
         "start_time": "13:00",
         "presenters": [
             "Deb Nicholson"
-        ],
-        "location": "Charlevoix A",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon.",
-        "end_date": "5/1/2016",
-        "title": "Sunday Morning Linux Review Live Broadcast",
-        "track": "Tech",
-        "start_time": "13:00",
-        "presenters": [
-            "Tony Bemus",
-            "Mary Tomich",
-            "Tom Lawrence"
         ],
         "location": "Charlevoix A",
         "minutes": 50,
@@ -4720,28 +4722,13 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated.",
+        "book_description": "Bring your MAL (My Anime List) and discuss with fellow fans what anime is your favorite and why, and which ones you just couldn't keep watching and why. A friendly discussion for all anime geeks to mingle, discuss, and walk away with some new anime to watch!",
         "end_date": "5/1/2016",
-        "title": "BoF: What Will Penguicon Look Like in 2020?",
-        "track": "Life",
-        "start_time": "13:00",
-        "presenters": [
-            ""
-        ],
-        "location": "EM IV",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Friendship is magic, so come talk with other fans about the MLP show and fandom!",
-        "end_date": "5/1/2016",
-        "title": "My Little Pony: Friendship Is Magic",
+        "title": "BoF: Favorite/Dropped Anime",
         "track": "Anime",
         "start_time": "13:00",
         "presenters": [
-            "Christina June",
-            "Galen Nelson"
+            ""
         ],
         "location": "EMC I",
         "minutes": 50,
@@ -4772,6 +4759,34 @@
             "Zhuang Zi"
         ],
         "location": "EMC IV",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "Let's get together to talk about the future of Penguicon. What will it look like in 2020? Your autonomous, electric car drops you off at the convention and you are automatically registered, with payment taken from your Penguicash account. Then what? Does hospitality have a list of you favorite foods that are dropped in by drone? Is a custom costume cut for you based on prior appearances and the movies you attended that year? Let's use our scifi interest to tell the future. Birds of a feather events are unmoderated.",
+        "end_date": "5/1/2016",
+        "title": "BoF: What Will Penguicon Look Like in 2020?",
+        "track": "Life",
+        "start_time": "13:00",
+        "presenters": [
+            ""
+        ],
+        "location": "EMC V",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!",
+        "end_date": "5/1/2016",
+        "title": "Let's Eat Weeds!",
+        "track": "Food",
+        "start_time": "13:00",
+        "presenters": [
+            "Kristoffer Marshall"
+        ],
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
@@ -4821,6 +4836,22 @@
         "end_time": "13:50"
     },
     {
+        "book_description": "This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon.",
+        "end_date": "5/1/2016",
+        "title": "Sunday Morning Linux Review Live Broadcast",
+        "track": "Tech",
+        "start_time": "13:00",
+        "presenters": [
+            "Tony Bemus",
+            "Mary Tomich",
+            "Tom Lawrence"
+        ],
+        "location": "Podcast Suite",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Come watch some short films by local filmakers, on topics ranging from music videos and comedy to suspense drama and zombie sci-fi! Dave Kilgore: Percipient (9:35); I got no Talent (2:30); When the Lord Comes to Drown Us All Again (2:35). Gabrielle Gamache-Nettles: Crosscurrent (7:22), Squisher's Atonement (14:00). Scott (Toaden) Maiale: Win the Cure (3:00), Single White Vlogger (20:00). Please note some of these contain adult language and situations.",
         "end_date": "5/1/2016",
         "title": "Video Shorts",
@@ -4846,20 +4877,6 @@
             "Jennifer Marsman"
         ],
         "location": "Windover",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!",
-        "end_date": "5/1/2016",
-        "title": "Let's Eat Weeds!",
-        "track": "Food",
-        "start_time": "13:00",
-        "presenters": [
-            "Kristoffer Marshall"
-        ],
-        "location": "",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
@@ -4901,7 +4918,7 @@
         "start_time": "14:00",
         "presenters": [
             "Paul Kemner",
-            "Ericka Kahler",
+            "Ericka S. Kahler",
             "Eric S. Raymond",
             "Cathrynne Valente"
         ],
@@ -4990,13 +5007,14 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Come talk about some of the best and worst Manga to Anime adaptations. Which were done well? Which were just torture to watch? Which were never finished? Why did some turn out amazing and some just flopped? Come discuss this and more with fellow Anime fans!",
+        "book_description": "Fans of anime and manga know it's influenced our lives, but what about the other kinds of media we consume? Television, music, and games draw more and more inspiration from anime every day, and not always in obvious ways.",
         "end_date": "5/1/2016",
-        "title": "BoF: Manga 2 Anime",
+        "title": "Influence of Anime in Media",
         "track": "Anime",
         "start_time": "14:00",
         "presenters": [
-            ""
+            "Christina June",
+            "Galen Nelson"
         ],
         "location": "EMC II",
         "minutes": 50,
@@ -5012,22 +5030,21 @@
         "presenters": [
             "Gnora Ford-Lepthien"
         ],
-        "location": "EMV V",
+        "location": "EMC V",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "14:50"
     },
     {
-        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! He\u2019ll have kits for sale, too.",
+        "book_description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "end_date": "5/1/2016",
-        "title": "Dangerous Things RFID Implantations",
-        "track": "DIY, Tech",
+        "title": "Eat Like a Pirate",
+        "track": "Food",
         "start_time": "14:00",
         "presenters": [
-            "Amal Graafstra",
-            "Anita Fowler"
+            "Rathbone the Pirate"
         ],
-        "location": "HackerSpace (317)",
+        "location": "Food Room",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "14:50"
@@ -5231,20 +5248,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
-        "end_date": "5/1/2016",
-        "title": "Eat Like a Pirate",
-        "track": "Food",
-        "start_time": "14:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
         "book_description": "Dagorhir combines fast-paced full-contact combat simulation with elements of live action role-playing. Get a summary of the rules and pick your weapon! Several people from the local realm of Eryndor will be on hand to spar and answer questions.",
         "end_date": "5/1/2016",
         "title": "Eryndor Dagorhir",
@@ -5297,23 +5300,6 @@
             "All Hands Active"
         ],
         "location": "HackerSpace (317)",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Science fiction and fantasy were once known for stories with strong, capable heroes and heroines. We take a look at heroes and what's happened to them lately.",
-        "end_date": "5/1/2016",
-        "title": "Where Did the Heroes Go?",
-        "track": "Literature",
-        "start_time": "15:00",
-        "presenters": [
-            "Jay Maynard",
-            "Eric S. Raymond",
-            "Jon Davis",
-            "Stewart Sternberg"
-        ],
-        "location": "Hamlin",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "15:50"
@@ -5388,62 +5374,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Let's get together and create an environment in the Penguicon Computer Lab that uses containers and Pivotal. Containers and Pivotal are used to quickly establish virtual machine like environments. Any skill level person is encouraged to help. ",
-        "end_date": "",
-        "title": "Build an Environment with Containers and Pivotal",
-        "track": "Tech",
-        "start_time": "16:20",
-        "presenters": [
-            "Gibson Nichols"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "Geeks with Guns is an off-site event held early on Friday afternoon, just prior to the official opening of the con. It involves going to a nearby range, and consuming copious quantities of ammunition while noisily punching holes in various paper targets for a couple of hours. It is a painless and fun way for newbies to learn the fundamentals of firearms safety, and for them (and experienced shooters) to have an opportunity to handle and shoot a variety of guns in the company of other Penguicon attendees.",
-        "end_date": "",
-        "title": "Geeks With Guns",
-        "track": "Penguicon",
-        "start_time": "16:20",
-        "presenters": [
-            "John D. Bell"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "Build you own rocket - see if you can get it into orbit! Play with Kerbal Space Program yourself, and learn about its amazing potential as both a game and educational space simulator.",
-        "end_date": "",
-        "title": "Kerbal Space Program LAB",
-        "track": "Science",
-        "start_time": "16:20",
-        "presenters": [
-            "Bob Trembley"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "Reroot Pontiac: Developing Interest in Awesome Investment in Our Future",
-        "track": "Science",
-        "start_time": "16:20",
-        "presenters": [
-            "Jonathan Ivar Weyhrauch",
-            "Mikhail Shikhmanov"
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
     }
 ]

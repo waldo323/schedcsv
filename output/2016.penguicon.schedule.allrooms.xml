@@ -1,99 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
 <room></room>
-<day>FRIDAY, APRIL 29</day>
-<title>Easy and Cheap: Healthy Meatless Meals</title>
-<topic>Food</topic>
-<time>9 PM</time></event><event>
-<room></room>
-<day>FRIDAY, APRIL 29</day>
-<title>Midwest Mash - Whiskies of the Great Lakes</title>
-<topic>Food</topic>
-<time>10 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Coffee, The Other Java</title>
-<topic>Food</topic>
-<time>9 AM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Homebrewing</title>
-<topic>Food</topic>
-<time>11 AM</time></event><event>
-<room></room>
 <day>SATURDAY, APRIL 30</day>
 <title>Walk the Solar System</title>
 <topic>Science</topic>
-<time>12 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Kitchen Hacks 101</title>
-<topic>Food</topic>
-<time>1 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
-<topic>Food</topic>
-<time>2 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Baking and Breaking Bread</title>
-<topic>Food</topic>
-<time>3 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Tastes that Taste Great Together</title>
-<topic>Food</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Pirate Rum History Tastings</title>
-<topic>Food</topic>
-<time>8 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Taste My Pickle</title>
-<topic>Food</topic>
-<time>8 PM</time></event><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>DemonLobster.com Presents: History of the Cocktail</title>
-<topic>Food</topic>
-<time>10 PM</time></event><event>
-<room></room>
-<day>SUNDAY, May 1</day>
-<title>Preserving the Summer</title>
-<topic>Food</topic>
-<time>12 PM</time></event><event>
-<room></room>
-<day>SUNDAY, May 1</day>
-<title>Let's Eat Weeds!</title>
-<topic>Food</topic>
-<time>1 PM</time></event><event>
-<room></room>
-<day>SUNDAY, May 1</day>
-<title>Eat Like a Pirate</title>
-<topic>Food</topic>
-<time>2 PM</time></event><event>
-<room></room>
-<day>NoDay, April 1</day>
-<title>Build an Environment with Containers and Pivotal</title>
-<topic>Tech</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<day>NoDay, April 1</day>
-<title>Geeks With Guns</title>
-<topic>Penguicon</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<day>NoDay, April 1</day>
-<title>Kerbal Space Program LAB</title>
-<topic>Science</topic>
-<time>4 PM</time></event><event>
-<room></room>
-<day>NoDay, April 1</day>
-<title>Reroot Pontiac: Developing Interest in Awesome Investment in Our Future</title>
-<topic>Science</topic>
-<time>4 PM</time></event>
+<time>12 PM</time></event>
 <day>All Weekend</day>
 <event>
 <room>321</room>
@@ -203,11 +113,6 @@
 <time>11 AM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SATURDAY, APRIL 30</day>
-<title>What Have You Read?</title>
-<topic>Literature</topic>
-<time>11 AM</time></event><event>
-<room>Algonquin B/C</room>
-<day>SATURDAY, APRIL 30</day>
 <title>Build Your Own Router</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
@@ -241,6 +146,11 @@
 <title>Tools for Outlines: M.I.C.E., The Three Act Structure</title>
 <topic>Literature</topic>
 <time>10 AM</time></event><event>
+<room>Algonquin B/C</room>
+<day>SUNDAY, May 1</day>
+<title>What Have You Read?</title>
+<topic>Literature</topic>
+<time>11 AM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SUNDAY, May 1</day>
 <title>The Family That Games Together</title>
@@ -328,6 +238,11 @@
 <time>8 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
+<title>Crowd- &amp; Alternatively Funding Your Career</title>
+<topic>Life</topic>
+<time>11 AM</time></event><event>
+<room>Algonquin D</room>
+<day>SUNDAY, May 1</day>
 <title>Self Editing Tools</title>
 <topic>Literature</topic>
 <time>12 PM</time></event><event>
@@ -335,11 +250,6 @@
 <day>SUNDAY, May 1</day>
 <title>Beginning "Scene": Lighting for Small Presentations and Events</title>
 <topic>Tech</topic>
-<time>1 PM</time></event><event>
-<room>Algonquin D</room>
-<day>SUNDAY, May 1</day>
-<title>Crowd- &amp; Alternatively Funding Your Career</title>
-<topic>Life</topic>
 <time>1 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SUNDAY, May 1</day>
@@ -363,7 +273,7 @@
 <time>9 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Primal: Understanding Yourself &amp; Your Role in the Kink Community.</title>
+<title>Primal: Understanding Yourself &amp; Your Role in the Kink Community</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Baldwin</room>
@@ -438,11 +348,6 @@
 <time>1 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Set-up and Run Your Own Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
-<room>Charlevoix A</room>
-<day>SATURDAY, APRIL 30</day>
 <title>Understanding &amp; Protecting Your Privacy Online</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
@@ -451,6 +356,11 @@
 <title>Costume Contest</title>
 <topic>Penguicon</topic>
 <time>5 PM</time></event><event>
+<room>Charlevoix A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Ann Leckie Reading</title>
+<topic>Literature</topic>
+<time>6 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Love Hacked? 36 Questions That May Change Your Life</title>
@@ -488,19 +398,9 @@
 <time>1 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SUNDAY, May 1</day>
-<title>Sunday Morning Linux Review Live  Broadcast</title>
-<topic>Tech</topic>
-<time>1 PM</time></event><event>
-<room>Charlevoix A</room>
-<day>SUNDAY, May 1</day>
 <title>Sharing an Oral History: The Art of Verbal Storytelling</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>Charlevoix B</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply</title>
-<topic>Literature</topic>
-<time>5 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Friendship at the Speed of Sound</title>
@@ -518,7 +418,7 @@
 <time>10 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Navigation strategies for a Career in IT</title>
+<title>Navigation Strategies for a Career in IT</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
 <room>Charlevoix B</room>
@@ -568,13 +468,8 @@
 <time>7 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
-<topic>Science</topic>
-<time>9 PM</time></event><event>
-<room>Charlevoix B</room>
-<day>SATURDAY, APRIL 30</day>
 <title>S&amp;M AMA</title>
-<topic></topic>
+<topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SUNDAY, May 1</day>
@@ -586,6 +481,11 @@
 <title>IT Road Warrior: The Art of Being Mobile</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
+<room>Charlevoix B</room>
+<day>SUNDAY, May 1</day>
+<title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
+<topic>Science</topic>
+<time>12 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SUNDAY, May 1</day>
 <title>Post Capitalism</title>
@@ -618,12 +518,12 @@
 <time>9 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>SATURDAY, APRIL 30</day>
-<title>ScreenWriting Tips</title>
+<title>The Pre-Production Process for Films: Where It All Comes Together</title>
 <topic>Media</topic>
-<time>11 AM</time></event><event>
+<time>10 AM</time></event><event>
 <room>Charlevoix C</room>
 <day>SATURDAY, APRIL 30</day>
-<title>The Pre-Production Process for Films - Where It All Comes Together:</title>
+<title>Screen Writing Tips</title>
 <topic>Media</topic>
 <time>11 AM</time></event><event>
 <room>Charlevoix C</room>
@@ -663,7 +563,7 @@
 <time>9 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>SATURDAY, APRIL 30</day>
-<title>So, What's This "Age Play" Thing Anyway ?</title>
+<title>So, What's This "Age Play" Thing Anyway?</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix C</room>
@@ -671,6 +571,11 @@
 <title>Writing Risks</title>
 <topic>Literature</topic>
 <time>10 AM</time></event><event>
+<room>Charlevoix C</room>
+<day>SUNDAY, May 1</day>
+<title>LGBTQ Identities</title>
+<topic>Life</topic>
+<time>11 AM</time></event><event>
 <room>Charlevoix C</room>
 <day>SUNDAY, May 1</day>
 <title>Star Wars: Bane or Boon?</title>
@@ -733,7 +638,7 @@
 <time>10 AM</time></event><event>
 <room>Computer Lab (EMC III)</room>
 <day>SUNDAY, May 1</day>
-<title>Kerbal Space Build off</title>
+<title>Kerbal Space Build-Off</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
 <room>Computer Lab (EMC III)</room>
@@ -776,11 +681,6 @@
 <title>LN2 Sunday Brunch Ice Cream</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
-<room>EM IV</room>
-<day>SUNDAY, May 1</day>
-<title>BoF: What Will Penguicon Look Like in 2020?</title>
-<topic>Life</topic>
-<time>1 PM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Basic Skills for Working with Electronics</title>
@@ -818,12 +718,12 @@
 <time>12 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Crocheting 101 DIY</title>
+<title>Crocheting 101</title>
 <topic>DIY</topic>
 <time>1 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
-<title>So You Want to Get a Degree in Comics?</title>
+<title>Comics in the Classroom</title>
 <topic>Comics</topic>
 <time>2 PM</time></event><event>
 <room>EMC I</room>
@@ -843,7 +743,7 @@
 <time>5 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Intro to Comics</title>
+<title>So You Want to Get a Degree in Comics?</title>
 <topic>Comics</topic>
 <time>6 PM</time></event><event>
 <room>EMC I</room>
@@ -873,7 +773,7 @@
 <time>12 PM</time></event><event>
 <room>EMC I</room>
 <day>SUNDAY, May 1</day>
-<title>My Little Pony: Friendship Is Magic</title>
+<title>BoF: Favorite/Dropped Anime</title>
 <topic>Anime</topic>
 <time>1 PM</time></event><event>
 <room>EMC I</room>
@@ -893,7 +793,7 @@
 <time>6 PM</time></event><event>
 <room>EMC II</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Comic vs. Manga</title>
+<title>BoF: Manga 2 Anime</title>
 <topic>Anime</topic>
 <time>7 PM</time></event><event>
 <room>EMC II</room>
@@ -928,7 +828,7 @@
 <time>1 PM</time></event><event>
 <room>EMC II</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Introduction to Exoplanet art with the GIMP 1</title>
+<title>Introduction to Exoplanet Art with the GIMP 1</title>
 <topic>Science</topic>
 <time>2 PM</time></event><event>
 <room>EMC II</room>
@@ -938,7 +838,7 @@
 <time>3 PM</time></event><event>
 <room>EMC II</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Webcomics 101-Characters and Story</title>
+<title>Webcomics 101: Characters &amp; Story</title>
 <topic>Comics</topic>
 <time>4 PM</time></event><event>
 <room>EMC II</room>
@@ -948,7 +848,7 @@
 <time>6 PM</time></event><event>
 <room>EMC II</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Introduction to Exoplanet art with the GIMP 2</title>
+<title>Introduction to Exoplanet Art with the GIMP 2</title>
 <topic>Science</topic>
 <time>7 PM</time></event><event>
 <room>EMC II</room>
@@ -973,7 +873,7 @@
 <time>1 PM</time></event><event>
 <room>EMC II</room>
 <day>SUNDAY, May 1</day>
-<title>BoF: Manga 2 Anime</title>
+<title>Influence of Anime in Media</title>
 <topic>Anime</topic>
 <time>2 PM</time></event><event>
 <room>EMC II</room>
@@ -1018,8 +918,8 @@
 <time>3 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
-<title>The Tech Behind Asteroid Mining</title>
-<topic>Tech</topic>
+<title>Sexual Safety</title>
+<topic>After Dark</topic>
 <time>4 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1028,8 +928,8 @@
 <time>6 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Sexual Safety</title>
-<topic>After Dark</topic>
+<title>The Tech Behind Asteroid Mining</title>
+<topic>Tech</topic>
 <time>7 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1038,7 +938,7 @@
 <time>8 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Flash Comics!</title>
+<title>How Not To Draw Comics</title>
 <topic>Comics</topic>
 <time>9 PM</time></event><event>
 <room>EMC IV</room>
@@ -1068,7 +968,7 @@
 <time>7 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Influence of Anime in Media</title>
+<title>My Little Pony: Friendship Is Magic</title>
 <topic>Anime</topic>
 <time>8 PM</time></event><event>
 <room>EMC V</room>
@@ -1078,7 +978,7 @@
 <time>9 PM</time></event><event>
 <room>EMC V</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Webcomics 101-Self Promotion</title>
+<title>Webcomics 101: Self Promotion</title>
 <topic>Comics</topic>
 <time>10 AM</time></event><event>
 <room>EMC V</room>
@@ -1111,23 +1011,98 @@
 <title>Life-ing Your Game</title>
 <topic>Life</topic>
 <time>11 AM</time></event><event>
-<room>EMV V</room>
+<room>EMC V</room>
+<day>SUNDAY, May 1</day>
+<title>BoF: What Will Penguicon Look Like in 2020?</title>
+<topic>Life</topic>
+<time>1 PM</time></event><event>
+<room>EMC V</room>
 <day>SUNDAY, May 1</day>
 <title>Furries!</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>FOOD</room>
+<room>Food Room</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
 <time>8 PM</time></event><event>
+<room>Food Room</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Easy and Cheap: Healthy Meatless Meals</title>
+<topic>Food</topic>
+<time>9 PM</time></event><event>
+<room>Food Room</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Midwest Mash - Whiskies of the Great Lakes</title>
+<topic>Food</topic>
+<time>10 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Coffee, The Other Java</title>
+<topic>Food</topic>
+<time>9 AM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Homebrewing</title>
+<topic>Food</topic>
+<time>11 AM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Kitchen Hacks 101</title>
+<topic>Food</topic>
+<time>1 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
+<topic>Food</topic>
+<time>2 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Baking and Breaking Bread</title>
+<topic>Food</topic>
+<time>3 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Tastes that Taste Great Together</title>
+<topic>Food</topic>
+<time>4 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Pirate Rum History Tastings</title>
+<topic>Food</topic>
+<time>8 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Taste My Pickle</title>
+<topic>Food</topic>
+<time>9 PM</time></event><event>
+<room>Food Room</room>
+<day>SATURDAY, APRIL 30</day>
+<title>DemonLobster.com Presents: History of the Cocktail</title>
+<topic>Food</topic>
+<time>10 PM</time></event><event>
+<room>Food Room</room>
+<day>SUNDAY, May 1</day>
+<title>Preserving the Summer</title>
+<topic>Food</topic>
+<time>12 PM</time></event><event>
+<room>Food Room</room>
+<day>SUNDAY, May 1</day>
+<title>Let's Eat Weeds!</title>
+<topic>Food</topic>
+<time>1 PM</time></event><event>
+<room>Food Room</room>
+<day>SUNDAY, May 1</day>
+<title>Eat Like a Pirate</title>
+<topic>Food</topic>
+<time>2 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <title>Dangeous Things</title>
 <topic>Tech, Life, DIY</topic>
 <time>7 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Open Demos by BeagleBone, DangerousThings and AHA</title>
+<title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
 <room>HackerSpace (317)</room>
@@ -1142,7 +1117,7 @@
 <time>10 AM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Dangerous Things Does Implanations</title>
+<title>Dangerous Things RFID Implanations</title>
 <topic>DIY, Tech</topic>
 <time>10 AM</time></event><event>
 <room>HackerSpace (317)</room>
@@ -1160,11 +1135,6 @@
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <time>2 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>DIY Electronic Synth Equipment</title>
-<topic>DIY, Tech</topic>
-<time>3 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Hackforge Demo</title>
@@ -1200,11 +1170,6 @@
 <title>The Continuing Penguicon Robot Build</title>
 <topic>DIY, Tech</topic>
 <time>11 AM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>SUNDAY, May 1</day>
-<title>Dangerous Things RFID Implantations</title>
-<topic>DIY, Tech</topic>
-<time>2 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SUNDAY, May 1</day>
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1252,7 +1217,12 @@
 <time>10 AM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Emulators and Emulation: Emulating a Trip Through Craig's Childhood, One Machine At a Time</title>
+<title>Flash Comics!</title>
+<topic>Comics</topic>
+<time>11 AM</time></event><event>
+<room>Hamlin</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Emulators and Emulation</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
 <room>Hamlin</room>
@@ -1282,7 +1252,7 @@
 <time>7 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Webcomics 101-Logistics</title>
+<title>Webcomics 101: Logistics</title>
 <topic>Comics</topic>
 <time>8 PM</time></event><event>
 <room>Hamlin</room>
@@ -1307,7 +1277,7 @@
 <time>11 AM</time></event><event>
 <room>Hamlin</room>
 <day>SUNDAY, May 1</day>
-<title>BoF: Favorite/Dropped Anime</title>
+<title>Comic vs. Manga</title>
 <topic>Anime</topic>
 <time>12 PM</time></event><event>
 <room>Hamlin</room>
@@ -1320,11 +1290,6 @@
 <title>Conclave 40 Feedback and Announcements</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>Hamlin</room>
-<day>SUNDAY, May 1</day>
-<title>Where Did the Heroes Go?</title>
-<topic>Literature</topic>
-<time>3 PM</time></event><event>
 <room>Lobby</room>
 <title>Chaos Machine</title>
 <topic>Mayhem</topic>
@@ -1464,6 +1429,11 @@
 <time>7 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 29</day>
+<title>Set-up and Run Your Own Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<time>8 PM</time></event><event>
+<room>Montcalm</room>
+<day>FRIDAY, APRIL 29</day>
 <title>BDSM: An Introduction to Kink</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
@@ -1489,7 +1459,7 @@
 <time>1 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Ann Leckie Reading</title>
+<title>Where Did the Heroes Go?</title>
 <topic>Literature</topic>
 <time>2 PM</time></event><event>
 <room>Montcalm</room>
@@ -1499,7 +1469,7 @@
 <time>3 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Python Code Walk-Through</title>
+<title>Data Analysis Using Python</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
 <room>Montcalm</room>
@@ -1514,7 +1484,7 @@
 <time>6 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Data Analysis Using Python</title>
+<title>Python Code Walk-Through</title>
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
 <room>Montcalm</room>
@@ -1531,11 +1501,6 @@
 <day>SUNDAY, May 1</day>
 <title>Cathrynne Valente Reading</title>
 <topic>Literature</topic>
-<time>11 AM</time></event><event>
-<room>Montcalm</room>
-<day>SUNDAY, May 1</day>
-<title>LGBTQ Identities</title>
-<topic>Life</topic>
 <time>11 AM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
@@ -1563,14 +1528,14 @@
 <time>5 PM</time></event><event>
 <room>Nicolet</room>
 <day>FRIDAY, APRIL 29</day>
-<title>How Not To Draw Comics</title>
-<topic>Comics</topic>
-<time>6 PM</time></event><event>
-<room>Nicolet</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Comics in the Classroom</title>
+<title>Intro to Comics</title>
 <topic>Comics</topic>
 <time>7 PM</time></event><event>
+<room>Nicolet</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Sirius: The Open Source Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<time>8 PM</time></event><event>
 <room>Nicolet</room>
 <day>FRIDAY, APRIL 29</day>
 <title>DemonLobster.com presents: Sanity Claws Radio Live</title>
@@ -1594,7 +1559,7 @@
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>"Pieces of Eight" Live from Penguicon!</title>
-<topic>Mayhem</topic>
+<topic>Mayhem, Media</topic>
 <time>1 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1611,11 +1576,6 @@
 <title>Surviving a Nuclear Holocaust</title>
 <topic>Life, Action Adventure</topic>
 <time>5 PM</time></event><event>
-<room>Nicolet</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Sirius: The Open Source Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<time>7 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Sinclair ZX Computers</title>
@@ -1656,6 +1616,16 @@
 <title>RPG: Roleplay Podcast Game</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
+<room>Podcast Suite</room>
+<day>SUNDAY, May 1</day>
+<title>Sunday Morning Linux Review Live  Broadcast</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
+<room>Portage</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply</title>
+<topic>Literature</topic>
+<time>5 PM</time></event><event>
 <room>Portage</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Improving Leadership with IT</title>
@@ -1665,7 +1635,12 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Music Parody Performance: Derwood Bowen</title>
 <topic>Media</topic>
-<time>10 PM</time></event><event>
+<time>8 PM</time></event><event>
+<room>Portage</room>
+<day>FRIDAY, APRIL 29</day>
+<title>The Dark Web Big Three</title>
+<topic>Tech</topic>
+<time>9 PM</time></event><event>
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
 <title>LSDj n' U! A How-To Track and Perform Live with Chiptunes!</title>
@@ -1679,8 +1654,13 @@
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Tom Smith Concert</title>
-<topic>Penguicon</topic>
+<topic>Penguicon, Media</topic>
 <time>1 PM</time></event><event>
+<room>Portage</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Tor: what is it and is it an onion?</title>
+<topic>Tech</topic>
+<time>2 PM</time></event><event>
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
 <title>The Found Footage Short Film Format - "Haunt Hunters"</title>
@@ -1703,14 +1683,14 @@
 <time>8 PM</time></event><event>
 <room>Portage</room>
 <day>SUNDAY, May 1</day>
-<title>DIY Electric Car Edition 2</title>
-<topic>DIY, Tech</topic>
-<time>10 AM</time></event><event>
-<room>Portage</room>
-<day>SUNDAY, May 1</day>
 <title>Intro to Video for Social Media</title>
 <topic>Media</topic>
 <time>10 AM</time></event><event>
+<room>Portage</room>
+<day>SUNDAY, May 1</day>
+<title>DIY Electric Car Edition 2</title>
+<topic>DIY, Tech</topic>
+<time>11 AM</time></event><event>
 <room>Portage</room>
 <day>SUNDAY, May 1</day>
 <title>Video Shorts</title>
@@ -1721,16 +1701,6 @@
 <title>The Trials and Tribulations of the Artist Lifestyle Year 3</title>
 <topic>Comics</topic>
 <time>3 PM</time></event><event>
-<room>Portage Auditorium</room>
-<day>FRIDAY, APRIL 29</day>
-<title>The Dark Web Big Three</title>
-<topic>Tech</topic>
-<time>9 PM</time></event><event>
-<room>Portage Auditorium</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Tor: what is it and is it an onion?</title>
-<topic>Tech</topic>
-<time>2 PM</time></event><event>
 <room>Restaurant</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Social Hour</title>
