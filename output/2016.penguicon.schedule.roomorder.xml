@@ -413,12 +413,6 @@
 <room>Charlevoix A</room>
 <blurb><participant>Michael Grube, Steve Dougherty</participant> In this talk, we will introduce Freenet, the anonymous peer-to-peer publication platform. We will talk about the features and benefits that Freenet currently provides, compare to existing tools such as Tor and I2P and discuss Freenet's novel approach to networking. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>4 PM</time>
-<event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Jason Mars, Lingjia Tang</participant> Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
 <time>2 PM</time>
 <event><title>Understanding &amp; Protecting Your Privacy Online</title>
 <topic>Tech</topic>
@@ -1747,6 +1741,12 @@
 <topic>Gaming</topic>
 <room>Montcalm</room>
 <blurb><participant>Ann Lemay</participant> Join Guest of Honor Ann Lemay for a Q&amp;A on writing narratives for video games like Bioshock and Mass Effect. </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>8 PM</time>
+<event><title>Set-up and Run Your Own Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<room>Montcalm</room>
+<blurb><participant>Jason Mars, Lingjia Tang</participant> Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Creating Safer Spaces</title>

@@ -7184,28 +7184,28 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,16:50
+event_end,20:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,4 PM
-Location,Charlevoix A
+endtimeampm,8 PM
+Location,Montcalm
 duration,50 minutes
 description,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant."
 index,156
 speakers,"Jason Mars, Lingjia Tang"
 bookdescrip,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant."
 Track,Tech
-startday,4/30/2016
+startday,4/29/2016
 Title,Set-up and Run Your Own Intelligent Personal Assistant
-Start Time,16:00
-event_start,16:00
-starttimeampm,4 PM
-End Time,16:50
+Start Time,20:00
+event_start,20:00
+starttimeampm,8 PM
+End Time,20:50
 tracknosp,['Tech']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Charlevoix A', 'Tech', 'Set-up and Run Your Own Intelligent Personal Assistant', 'Jason Mars, Lingjia Tang', ""Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/30/2016
+endday,4/29/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Montcalm', 'Tech', 'Set-up and Run Your Own Intelligent Personal Assistant', 'Jason Mars, Lingjia Tang', ""Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/29/2016
 calspeakers,"Jason Mars, Lingjia Tang"
 avneeds,none
 speakerlist,"['Jason Mars', 'Lingjia Tang']"
@@ -7213,19 +7213,19 @@ hours,0
 totalminutes,50
 speakernosplist,"['JasonMars', 'LingjiaTang']"
 caldescrip,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "
-endtime,16:50
+endtime,20:50
 AV Needs,
 name,Set-up and Run Your Own Intelligent Personal Assistant
 Private,PUBLIC
 bookname,Set-up and Run Your Own Intelligent Personal Assistant
-venue,Charlevoix A
+venue,Montcalm
 Book Description,"Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri, or Sirius, their open-source personal assistant. "
 Presenters,"Jason Mars, Lingjia Tang"
 csvsafedescrip,Hack of Honor guests Jason Mars and Lingjia Tang will give a hands on seminar on setting up and running your own Intelligent Personal Assistants (IPA) like Apple's Siri- or Sirius- their open-source personal assistant. 
 speakernosp,"JasonMars,LingjiaTang"
-starttime,16:00
-roomnosp,CharlevoixA
-Start Date,4/30/2016
+starttime,20:00
+roomnosp,Montcalm
+Start Date,4/29/2016
 minutes,50
 allday,FALSE
 event_type,Tech
