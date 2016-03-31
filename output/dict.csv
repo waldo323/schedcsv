@@ -6821,10 +6821,10 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Nicolet
 duration,50 minutes
-description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters"
+description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch ""Duckman"" Peters"
 index,148
 speakers,"Rathbone the Pirate, Mitch ""Duckman"" Peters"
-bookdescrip,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters"
+bookdescrip,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch ""Duckman"" Peters"
 Track,"Mayhem, Media"
 startday,4/30/2016
 Title,"""Pieces of Eight"" Live from Penguicon!"
@@ -6835,7 +6835,7 @@ End Time,13:50
 tracknosp,"['Mayhem', 'Media']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Nicolet', 'Mayhem, Media', '""Pieces of Eight"" Live from Penguicon!', 'Rathbone the Pirate, Mitch ""Duckman"" Peters', 'This live recording of Rathbone the Pirate\'s ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Nicolet', 'Mayhem, Media', '""Pieces of Eight"" Live from Penguicon!', 'Rathbone the Pirate, Mitch ""Duckman"" Peters', 'This live recording of Rathbone the Pirate\'s ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch ""Duckman"" Peters', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Rathbone the Pirate, Mitch 'Duckman' Peters"
 avneeds,none
@@ -6843,16 +6843,16 @@ speakerlist,"['Rathbone the Pirate', 'Mitch ""Duckman"" Peters']"
 hours,0
 totalminutes,50
 speakernosplist,"['RathbonethePirate', 'Mitch-Duckman-Peters']"
-caldescrip,This live recording of Rathbone the Pirate's 'Pieces of Eight' webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters
+caldescrip,This live recording of Rathbone the Pirate's 'Pieces of Eight' webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch 'Duckman' Peters
 endtime,13:50
 AV Needs,
 name,'Pieces of Eight' Live from Penguicon!
 Private,PUBLIC
 bookname,"""Pieces of Eight"" Live from Penguicon!"
 venue,Nicolet
-Book Description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters"
+Book Description,"This live recording of Rathbone the Pirate's ""Pieces of Eight"" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch ""Duckman"" Peters"
 Presenters,"Rathbone the Pirate, Mitch ""Duckman"" Peters"
-csvsafedescrip,This live recording of Rathbone the Pirate's 'Pieces of Eight' webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch Duckman Peters
+csvsafedescrip,This live recording of Rathbone the Pirate's 'Pieces of Eight' webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch 'Duckman' Peters
 speakernosp,"RathbonethePirate,Mitch-Duckman-Peters"
 starttime,13:00
 roomnosp,Nicolet
@@ -14006,7 +14006,7 @@ Location,Montcalm
 duration,50 minutes
 description,"With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"
 index,304
-speakers,"Biz Nidjam, Jen Talley, Ruth Suehle"
+speakers,"Elizabeth ""Biz"" Nidjam, Jen Talley, Ruth Suehle"
 bookdescrip,"With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"
 Track,Life
 startday,5/1/2016
@@ -14018,14 +14018,14 @@ End Time,12:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Montcalm', 'Life', 'Raising Kind and Conscious Kids', 'Biz Nidjam, Jen Talley, Ruth Suehle', ""With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Montcalm', 'Life', 'Raising Kind and Conscious Kids', 'Elizabeth ""Biz"" Nidjam, Jen Talley, Ruth Suehle', ""With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Biz Nidjam, Jen Talley, Ruth Suehle"
+calspeakers,"Elizabeth 'Biz' Nidjam, Jen Talley, Ruth Suehle"
 avneeds,none
-speakerlist,"['Biz Nidjam', 'Jen Talley', 'Ruth Suehle']"
+speakerlist,"['Elizabeth ""Biz"" Nidjam', 'Jen Talley', 'Ruth Suehle']"
 hours,0
 totalminutes,50
-speakernosplist,"['BizNidjam', 'JenTalley', 'RuthSuehle']"
+speakernosplist,"['Elizabeth-Biz-Nidjam', 'JenTalley', 'RuthSuehle']"
 caldescrip,"With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"
 endtime,12:50
 AV Needs,
@@ -14034,9 +14034,9 @@ Private,PUBLIC
 bookname,Raising Kind and Conscious Kids
 venue,Montcalm
 Book Description,"With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others? How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults? How do we help them understand that intent isn't magic, and fair does not always mean equitable?"
-Presenters,"Biz Nidjam, Jen Talley, Ruth Suehle"
+Presenters,"Elizabeth ""Biz"" Nidjam, Jen Talley, Ruth Suehle"
 csvsafedescrip,With so many influences in our kids' lives- how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media- their peers- other adults?  How do we help them understand that intent isn't magic- and fair does not always mean equitable?
-speakernosp,"BizNidjam,JenTalley,RuthSuehle"
+speakernosp,"Elizabeth-Biz-Nidjam,JenTalley,RuthSuehle"
 starttime,12:00
 roomnosp,Montcalm
 Start Date,5/1/2016
