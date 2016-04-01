@@ -1089,6 +1089,26 @@
 <title>Fun with Mind Reading</title>
 <topic>Tech</topic>
 <time>3 PM</time></event><event>
+<room>Game Table A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Kalidasia Fleet Commander - The Siege of Cadre 4</title>
+<topic>Gaming</topic>
+<time>3 PM</time></event><event>
+<room>Game Table B</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Order of the Wand</title>
+<topic>Gaming</topic>
+<time>3 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Ticket to Ride</title>
+<topic>Gaming</topic>
+<time>3 PM</time></event><event>
+<room>Game Table F</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Betrayal at House on the Hill</title>
+<topic>Gaming</topic>
+<time>3 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Body Painting</title>
@@ -1204,6 +1224,26 @@
 <title>Acts of Shameless Self-Promotion</title>
 <topic>Literature</topic>
 <time>5 PM</time></event><event>
+<room>Game Table B, Game Table C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Star Trek Five-Year Mission With Mini Expansions</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Hey! That's My Fish!</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
+<room>Game Table D</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Quantum</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
+<room>Game Table F</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Splendor</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Biohacking 101</title>
@@ -1253,6 +1293,21 @@
 <day>SATURDAY, APRIL 30</day>
 <title>The Smithee Awards</title>
 <topic>After Dark, Media</topic>
+<time>6 PM</time></event><event>
+<room>Game Table A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>D&amp;D 5E 3d Print and Play</title>
+<topic>Gaming, DIY</topic>
+<time>6 PM</time></event><event>
+<room>Game Table B, Game Table C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Star Trek Five-Year Mission With Mini Expansions</title>
+<topic>Gaming</topic>
+<time>6 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Codenames</title>
+<topic>Gaming</topic>
 <time>6 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1324,6 +1379,21 @@
 <title>Hamilton the Musical Sing-A-Long</title>
 <topic>Media</topic>
 <time>7 PM</time></event><event>
+<room>Game Table A, Game Table B, Game Table C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Learn To Play Dominion</title>
+<topic>Gaming</topic>
+<time>7 PM</time></event><event>
+<room>Game Table D</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Gravwell</title>
+<topic>Gaming</topic>
+<time>7 PM</time></event><event>
+<room>Game Table F</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Salem/Deception: Murder in Hong Kong</title>
+<topic>Gaming</topic>
+<time>7 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Literary Filk</title>
@@ -1368,6 +1438,16 @@
 <day>SATURDAY, APRIL 30</day>
 <title>How To Actually Relax</title>
 <topic>Life</topic>
+<time>8 PM</time></event><event>
+<room>Game Table F</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Dead of Winter</title>
+<topic>Gaming</topic>
+<time>8 PM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Star Wars: Imperial Assault</title>
+<topic>Gaming</topic>
 <time>8 PM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1429,6 +1509,21 @@
 <title>Night Sky Observing</title>
 <topic>Science</topic>
 <time>9 PM</time></event><event>
+<room>Game Table B, Game Table C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Learn To Play 7 Wonders</title>
+<topic>Gaming</topic>
+<time>9 PM</time></event><event>
+<room>Game Table D</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Alhambra Dice Game</title>
+<topic>Gaming</topic>
+<time>9 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Sheriff of Nottingham</title>
+<topic>Gaming</topic>
+<time>9 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Ethical Dating</title>
@@ -1463,6 +1558,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Mark Reads After Dark</title>
 <topic>After Dark</topic>
+<time>10 PM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Are You A Werewolf</title>
+<topic>Gaming</topic>
 <time>10 PM</time></event><event>
 <room>Consuite</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1889,106 +1989,6 @@
 <title>The Golden Girls of Tech on T.V.</title>
 <topic>Media, Tech</topic>
 <time>5 PM</time></event><event>
-<room>Game Table A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Kalidasia Fleet Commander - The Siege of Cadre 4</title>
-<topic>Gaming</topic>
-<time>3 PM</time></event><event>
-<room>Game Table B</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Order of the Wand</title>
-<topic>Gaming</topic>
-<time>3 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Ticket to Ride</title>
-<topic>Gaming</topic>
-<time>3 PM</time></event><event>
-<room>Game Table F</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Betrayal at House on the Hill</title>
-<topic>Gaming</topic>
-<time>3 PM</time></event><event>
-<room>Game Table B, Game Table C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Star Trek Five-Year Mission With Mini Expansions</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Hey! That's My Fish!</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
-<room>Game Table D</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Quantum</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
-<room>Game Table F</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Splendor?</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
-<room>Game Table A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>D&amp;D 5E 3d Print and Play</title>
-<topic>Gaming, DIY</topic>
-<time>6 PM</time></event><event>
-<room>Game Table B, Game Table C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Star Trek Five-Year Mission With Mini Expansions</title>
-<topic>Gaming</topic>
-<time>6 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Codenames</title>
-<topic>Gaming</topic>
-<time>6 PM</time></event><event>
-<room>Game Table A, Game Table B, Game Table C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Learn To Play Dominion</title>
-<topic>Gaming</topic>
-<time>7 PM</time></event><event>
-<room>Game Table D</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Gravwell</title>
-<topic>Gaming</topic>
-<time>7 PM</time></event><event>
-<room>Game Table F</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Salem/Deception: Murder in Hong Kong</title>
-<topic>Gaming</topic>
-<time>7 PM</time></event><event>
-<room>Game Table F</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Dead of Winter</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Star Wars: Imperial Assault</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Game Table B, Game Table C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Learn To Play 7 Wonders</title>
-<topic>Gaming</topic>
-<time>9 PM</time></event><event>
-<room>Game Table D</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Alhambra Dice Game</title>
-<topic>Gaming</topic>
-<time>9 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Sheriff of Nottingham</title>
-<topic>Gaming</topic>
-<time>9 PM</time></event><event>
-<room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Are You A Werewolf</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
 <room>Lobby</room>
 <day>SUNDAY, May 1</day>
 <title>Hakosot</title>
