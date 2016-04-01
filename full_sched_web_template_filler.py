@@ -31,14 +31,23 @@ trackdict = {}
 #print build
 
 #print(s.decode('unicode_escape').encode('ascii','ignore'))
+#[0:3].upper()
 
 for line in build:
-    print line[5]
-    if line[5] not in trackdict.keys():
-         trackdict[line[5]] = [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')]
-    else:
-         trackdict[line[5]].append([line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')])
-#print trackdict
+    atrac = line[5].split(',')[0]
+    
+
+    for currenttrac in trackinfo:
+        if currenttrac.keys()[0][0:3] == atrac[0:3].upper():
+            #print atrac[0:3].upper()
+            #print currenttrac.keys()[0]
+            #print line[6]
+
+            if currenttrac.keys()[0] not in trackdict.keys():
+                trackdict[currenttrac.keys()[0]] = [[line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')] ]
+            else:
+                if [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')] not in trackdict[currenttrac.keys()[0]]:
+                    trackdict[currenttrac.keys()[0]].append([line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')])
 
 for track in trackdict:
     trackdict[track].sort()
@@ -51,8 +60,11 @@ for track in trackdict:
 #print trackdict
 
 #for x in trackdict:
-#        #print x
-#        print trackdict[x]
+#    print x
+#    for y in trackdict[x]:
+#        print y
+#    print "\n\n"
+    
 #        print len(trackdict)
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
@@ -60,4 +72,4 @@ template = env.get_template('programmingtemplate.html')
 
 test =  template.render(data=trackdict,trackdata=trackinfo)
 
-#print test
+print test
