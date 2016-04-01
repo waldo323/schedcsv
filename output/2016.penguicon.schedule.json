@@ -128,6 +128,21 @@
         "end_time": "15:00"
     },
     {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/29/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "16:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 350,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
         "book_description": "Space\u2026 the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow \u2018em all to space-smithereens!\u00a0 Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. ",
         "end_date": "5/1/2016",
         "title": "Artemis",
@@ -409,6 +424,34 @@
         "end_time": "18:50"
     },
     {
+        "book_description": "5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.",
+        "end_date": "4/29/2016",
+        "title": "Space Alert",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "2-6 players. One of the best worker-placement games, with a strong D and D theme. Recruit fighters, rogues, clerics, and wizards to complete quests.",
+        "end_date": "4/29/2016",
+        "title": "Lords of Waterdeep",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
         "book_description": "There are a great many martial artists here at Penguicon! Come on down and work on some problem solving together! Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles! Traditional, non-traditional, all are welcome here!",
         "end_date": "4/29/2016",
         "title": "Open Source Martial Arts",
@@ -624,6 +667,48 @@
             "Bob Trembley"
         ],
         "location": "Windover",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. ",
+        "end_date": "4/29/2016",
+        "title": "Mahjong",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Anne Zanoni"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1\u20135 in each color. For each color, the players try to place a row in the correct order from 1\u20135. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards.",
+        "end_date": "4/29/2016",
+        "title": "Hanabi",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Westbrook"
+        ],
+        "location": "Game Table B",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!",
+        "end_date": "4/29/2016",
+        "title": "Spyfall",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "19:50"
@@ -874,6 +959,90 @@
         "end_time": "20:50"
     },
     {
+        "book_description": "Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)",
+        "end_date": "4/29/2016",
+        "title": "Rathbone Vs Everybody",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Rathbone The Pirate"
+        ],
+        "location": "Game Table A, Game Table B",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets \u2013 goal cards that connect distant cities; and to the player who builds the longest continuous route.",
+        "end_date": "4/29/2016",
+        "title": "Ticket to Ride",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take...",
+        "end_date": "4/29/2016",
+        "title": "Descent 2nd Edition",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Westbrook"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win.",
+        "end_date": "4/29/2016",
+        "title": "Tokaido",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population.",
+        "end_date": "4/29/2016",
+        "title": "Pandemic",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed.",
+        "end_date": "4/29/2016",
+        "title": "The Big Book of Madness",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
         "book_description": "Wesley and the Crushers is a modern, one-of-a-kind musical exploration that is both \"geeky\" and passionate -- passionate in their admiration and love for all things \"geeky\" -- and completely geeked-out in their approach to their number-one passion, which is music.",
         "end_date": "4/29/2016",
         "title": "Wesley and the Crushers",
@@ -1077,6 +1246,62 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "21:50"
+    },
+    {
+        "book_description": "2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.",
+        "end_date": "4/29/2016",
+        "title": "Pack 'O Game",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Bob Brodis"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!",
+        "end_date": "4/30/2016",
+        "title": "Arkham Horror",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Cory Tebo"
+        ],
+        "location": "Game Table A",
+        "minutes": 290,
+        "start_date": "4/29/2016",
+        "end_time": "2:50"
+    },
+    {
+        "book_description": "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\u2019s seat of the famous DeLorean! Sign up required at Ops.",
+        "end_date": "4/29/2016",
+        "title": "Learn To Play Back To The Future",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
+        "end_date": "4/29/2016",
+        "title": "Zombicide: Black Plague",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
     },
     {
         "book_description": "Want to learn about impact play? Then come in and play! This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
@@ -5392,5 +5617,613 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "17:50"
+    },
+    {
+        "book_description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
+        "end_date": "4/30/2016",
+        "title": "One Night Werewolf",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
+        "end_date": "4/30/2016",
+        "title": "The Quiet Year",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
+        "end_date": "4/30/2016",
+        "title": "Legendary Encounters",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "Learn several card games and board games from the late 17th and early 18th centuries.",
+        "end_date": "4/30/2016",
+        "title": "Authentic Pirate Games",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Rathbone The Pirate"
+        ],
+        "location": "Game Table B",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
+        "end_date": "4/30/2016",
+        "title": "Abyss",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
+        "end_date": "4/30/2016",
+        "title": "Lords of Waterdeep",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Timothy Brown"
+        ],
+        "location": "Game Table B",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
+        "end_date": "4/30/2016",
+        "title": "Intro to Android: Netrunner Card Game",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Eric McGlohon",
+            "Bryan Snell"
+        ],
+        "location": "Game Table C",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-5 players. In Kingsburg, players are Lords sent from the King to administer frontier territories. The game takes place over five years, a total of 20 turns. In every year, there are 3 production seasons for collecting resources, building structures, and training troops. Every fourth turn is the winter, in which all the players must fight an invading army. Each player must face the invaders, so this is not a cooperative game.",
+        "end_date": "4/30/2016",
+        "title": "Kingsburg",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+        "end_date": "4/30/2016",
+        "title": "Codenames",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/30/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "13:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "end_date": "4/30/2016",
+        "title": "Dead of Winter",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
+        "end_date": "4/30/2016",
+        "title": "Kalidasia Fleet Commander - The Siege of Cadre 4",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Jason Rutherford"
+        ],
+        "location": "Game Table A",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. Three 1-vs-1 games will play simultaneously.",
+        "end_date": "4/30/2016",
+        "title": "Order of the Wand",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets \u2013 goal cards that connect distant cities; and to the player who builds the longest continuous route.",
+        "end_date": "4/30/2016",
+        "title": "Ticket to Ride",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "3-6 players. Board game where you explore a spooky house tile by tile to defeat a traitorous fellow player.",
+        "end_date": "4/30/2016",
+        "title": "Betrayal at House on the Hill",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+        "end_date": "4/30/2016",
+        "title": "Star Trek Five-Year Mission With Mini Expansions",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "2-4 players. Penguins at Penguicon? Of course! Use your penguins to collect fish and become the last penguin on the ice.",
+        "end_date": "4/30/2016",
+        "title": "Hey! That's My Fish!",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Dave Green"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
+        "end_date": "4/30/2016",
+        "title": "Quantum",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
+        "end_date": "4/30/2016",
+        "title": "Splendor?",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D and D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
+        "end_date": "4/30/2016",
+        "title": "D and D 5E 3d Print and Play",
+        "track": "Gaming, DIY",
+        "start_time": "18:00",
+        "presenters": [
+            "Nichole Bulmer-Jones",
+            "Branden Coates",
+            "Antoni Williams",
+            "Alan Patrick"
+        ],
+        "location": "Game Table A",
+        "minutes": 290,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+        "end_date": "4/30/2016",
+        "title": "Star Trek Five-Year Mission With Mini Expansions",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+        "end_date": "4/30/2016",
+        "title": "Codenames",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Dave Green"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "3 games of 2-4 players each. The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards? Sign up required at Ops.",
+        "end_date": "4/30/2016",
+        "title": "Learn To Play Dominion",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table A, Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "2-4 players. Players command spaceships that have been pulled through a black hole, transporting them into a different dimension. Lacking fuel to get home, you must collect basic elements from surrounding asteroids, using gravity and what little resources you have in order to reach the warp gate that will take you home. But in this dimension, moving ships will travel towards the nearest object, which is usually another ship. When those objects are moving either forward or backward, reaching the warp gate isn't always easy. Frozen hulks of dead spacecraft litter the escape route \u2013 but with careful cardplay, you can slingshot past these derelicts and be the first to escape from the Gravwell!",
+        "end_date": "4/30/2016",
+        "title": "Gravwell",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "4-12 players. Two quick games played back to back. Salem incites the atmosphere of paranoia that held the village of Salem captive. Players act with the assumption that there are witches among them and there will be! Game play is simple: try to rid the village of witches and keep the identities of your own residents secret. In Deception, players take on the roles of investigators attempting to solve a murder case \u2013 but there's a twist. The killer is one of the investigators!",
+        "end_date": "4/30/2016",
+        "title": "Salem/Deception: Murder in Hong Kong",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "end_date": "4/30/2016",
+        "title": "Dead of Winter",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empire\u2019s hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
+        "end_date": "4/30/2016",
+        "title": "Star Wars: Imperial Assault",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": -10,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-7 players. As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos? Sign up required at Ops.",
+        "end_date": "4/30/2016",
+        "title": "Learn To Play 7 Wonders",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "2-6 players. Build your Alhambra complex by using dice to build buildings.",
+        "end_date": "4/30/2016",
+        "title": "Alhambra Dice Game",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "3-5 players. In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!",
+        "end_date": "4/30/2016",
+        "title": "Sheriff of Nottingham",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "A deception party game for 7-15 players. Players are assigned roles secretly. Most players are Villagers, two or three will be Werewolves. The Villagers try to figure out who the werewolves are during the day, and the Werewolves eat the Villagers at night.",
+        "end_date": "5/1/2016",
+        "title": "Are You A Werewolf",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Lobby",
+        "minutes": -43080,
+        "start_date": "4/30/2016",
+        "end_time": "0:00"
+    },
+    {
+        "book_description": "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
+        "end_date": "5/1/2016",
+        "title": "Hakosot",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Mitchell Bowling"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "Enjoyable diversions or torture devices? You decide! Here\u2019s your chance to playtest two prototype motorized wooden board games. In \u201cQuatern\u201d up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \u201cExquisite Corpse Machine 3\u201d is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
+        "end_date": "5/1/2016",
+        "title": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
+        "track": "Gaming",
+        "start_time": "10:00",
+        "presenters": [
+            "Andy Malone"
+        ],
+        "location": "Game Table A",
+        "minutes": 830,
+        "start_date": "5/1/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "6 players (ages 13+). Lead a team of workers (dice) and recruits (cards) to claim mastery of the dystopian world. Produce commodities, dig tunnels to opposing areas, construct markets, collect artifacts, strengthen allegiances, and fulfill secret agendas. The number on each die represents a worker's knowledge\u2014 his level of awareness that he's in a dystopia. This gives bonuses and impacts player interaction. If the collective knowledge of your workers gets too high, one of them might desert you! Control areas by constructing markets that impose harsh restrictions of freedoms upon other players. Gather rare artifacts from the old world, coveted by the elite, to exchange for tracts of land.",
+        "end_date": "5/1/2016",
+        "title": "Euphoria",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "4-6 players. A gangster band is splitting its loot, but they can't agree on the split! It's time to let the guns talk and soon everyone is aiming at everyone. The richest surviving gangster wins the game!",
+        "end_date": "5/1/2016",
+        "title": "Ca$h 'n' Gun$",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
+        "end_date": "5/1/2016",
+        "title": "Coup",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "1-4 players. Roll and place your dice to gain advantages over your opponent and block them out of useful areas of the board. Use Alien Tech cards to manipulate your dice rolls and territory bonuses to break the rules. Steal resources, overtake territories, and do whatever it takes to get your colonies on the map first!",
+        "end_date": "5/1/2016",
+        "title": "Alien Frontiers",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "5/1/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "13:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 170,
+        "start_date": "5/1/2016",
+        "end_time": "15:50"
+    },
+    {
+        "book_description": "1-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
+        "end_date": "5/1/2016",
+        "title": "Splendor",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "3-7 players. 7 Wonders is a card drafting, set collection game in which players compete to advance their civilization through building wonders, developing technological skills, and/or creating a powerful military.",
+        "end_date": "5/1/2016",
+        "title": "7 Wonders",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
     }
 ]
