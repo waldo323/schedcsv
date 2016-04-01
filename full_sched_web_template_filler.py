@@ -42,12 +42,12 @@ for line in build:
             #print atrac[0:3].upper()
             #print currenttrac.keys()[0]
             #print line[6]
-
+            trackcontent = [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')]
             if currenttrac.keys()[0] not in trackdict.keys():
-                trackdict[currenttrac.keys()[0]] = [[line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')] ]
+                trackdict[currenttrac.keys()[0]] = [ trackcontent ]
             else:
-                if [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')] not in trackdict[currenttrac.keys()[0]]:
-                    trackdict[currenttrac.keys()[0]].append([line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')])
+                if trackcontent not in trackdict[currenttrac.keys()[0]]:
+                    trackdict[currenttrac.keys()[0]].append(trackcontent)
 
 for track in trackdict:
     trackdict[track].sort()
