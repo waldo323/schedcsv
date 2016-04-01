@@ -769,7 +769,7 @@
             "Jonathan Ivar Weyhrauch",
             "Mikhail Shikhmanov"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
@@ -1012,7 +1012,7 @@
         "presenters": [
             "Amy Alice Wright"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "21:50"
@@ -1128,13 +1128,13 @@
     {
         "book_description": "There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. ",
         "end_date": "4/29/2016",
-        "title": "Midwest Mash - Whiskies of the Great Lakes",
+        "title": "Midwest Mash: Whiskies of the Great Lakes",
         "track": "Food",
         "start_time": "22:00",
         "presenters": [
             "Greg Williams"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 110,
         "start_date": "4/29/2016",
         "end_time": "23:50"
@@ -1277,7 +1277,7 @@
         "presenters": [
             "Kelly Vanderwell"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "9:50"
@@ -1711,7 +1711,7 @@
         "presenters": [
             "Johnathon A. Campbell"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "12:50"
@@ -2171,7 +2171,7 @@
         "presenters": [
             "Emily Tuesday"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": -41710,
         "start_date": "4/30/2016",
         "end_time": "13:50"
@@ -2443,7 +2443,7 @@
         "presenters": [
             "Amy Alice Wright"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
@@ -2695,13 +2695,13 @@
     {
         "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
         "end_date": "4/30/2016",
-        "title": " Baking and Breaking Bread",
+        "title": "Baking and Breaking Bread",
         "track": "Food",
         "start_time": "15:00",
         "presenters": [
             "David Clipner"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "15:50"
@@ -2948,7 +2948,7 @@
             "Cathy Raymond",
             "Eric S. Raymond"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "16:50"
@@ -3591,7 +3591,7 @@
         "presenters": [
             "Rathbone the Pirate"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "20:50"
@@ -3754,7 +3754,7 @@
         "presenters": [
             "Emily Tuesday"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "21:50"
@@ -3869,7 +3869,7 @@
             "Scott Markwart",
             "Steve Licavoli"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "22:50"
@@ -4533,7 +4533,7 @@
         "presenters": [
             "Emily Tuesday"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 0,
         "start_date": "5/1/2016",
         "end_time": "12:00"
@@ -4786,7 +4786,7 @@
         "presenters": [
             "Kristoffer Marshall"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
@@ -4840,16 +4840,16 @@
         "end_date": "5/1/2016",
         "title": "Sunday Morning Linux Review Live Broadcast",
         "track": "Tech",
-        "start_time": "13:00",
+        "start_time": "8:00",
         "presenters": [
             "Tony Bemus",
             "Mary Tomich",
             "Tom Lawrence"
         ],
         "location": "Podcast Suite",
-        "minutes": 50,
+        "minutes": 170,
         "start_date": "5/1/2016",
-        "end_time": "13:50"
+        "end_time": "10:50"
     },
     {
         "book_description": "Come watch some short films by local filmakers, on topics ranging from music videos and comedy to suspense drama and zombie sci-fi! Dave Kilgore: Percipient (9:35); I got no Talent (2:30); When the Lord Comes to Drown Us All Again (2:35). Gabrielle Gamache-Nettles: Crosscurrent (7:22), Squisher's Atonement (14:00). Scott (Toaden) Maiale: Win the Cure (3:00), Single White Vlogger (20:00). Please note some of these contain adult language and situations.",
@@ -5044,7 +5044,7 @@
         "presenters": [
             "Rathbone the Pirate"
         ],
-        "location": "Food Room",
+        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "14:50"
@@ -5374,5 +5374,21 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
+        "end_date": "4/30/2016",
+        "title": "The Golden Girls of Tech on T.V.",
+        "track": "Media, Tech",
+        "start_time": "17:00",
+        "presenters": [
+            "Jennifer Marsman",
+            "Deb Nicholson",
+            "Dawn Kuczwara"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
     }
 ]

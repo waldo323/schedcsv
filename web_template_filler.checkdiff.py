@@ -1,6 +1,8 @@
 import jinja2
 import csv
 
+
+# there is probably a better place for this but maybe not...
 trackinfo = [
 {"ACTION ADVENTURE": 'Action Adventure focuses on "how tos" like demonstrations and workshops on martial arts skills, weaponry, archery, as well as the popular Geeks with Guns event.'},
 {"AFTER DARK": "Come explore our events including frank and often hilarious discussion of sex, kink, and other adult-oriented content. Must be over 18."},
@@ -19,9 +21,7 @@ trackinfo = [
 ]
 
 
-
-#with open('schedforwebsite.csv', 'rb') as infile:
-with open('sched.csv', 'rb') as infile:
+with open('schedforwebsite.csv', 'rb') as infile:
   reader = csv.reader(infile)
   build = list(reader)
 
@@ -33,11 +33,10 @@ trackdict = {}
 #print(s.decode('unicode_escape').encode('ascii','ignore'))
 
 for line in build:
-    print line[5]
-    if line[5] not in trackdict.keys():
-         trackdict[line[5]] = [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')]
+    if line[1] not in trackdict.keys():
+         trackdict[line[1]] = [[line[0].decode('unicode_escape').encode('ascii','ignore'),line[2].decode('unicode_escape').encode('ascii','ignore')]]
     else:
-         trackdict[line[5]].append([line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')])
+         trackdict[line[1]].append([line[0].decode('unicode_escape').encode('ascii','ignore'),line[2].decode('unicode_escape').encode('ascii','ignore')])
 #print trackdict
 
 for track in trackdict:
@@ -51,13 +50,12 @@ for track in trackdict:
 #print trackdict
 
 #for x in trackdict:
-#        #print x
+#        print x
 #        print trackdict[x]
-#        print len(trackdict)
 
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 template = env.get_template('programmingtemplate.html')
 
 test =  template.render(data=trackdict,trackdata=trackinfo)
 
-#print test
+print test

@@ -1,6 +1,8 @@
 import jinja2
 import csv
 
+
+# there is probably a better place for this but maybe not...
 trackinfo = [
 {"ACTION ADVENTURE": 'Action Adventure focuses on "how tos" like demonstrations and workshops on martial arts skills, weaponry, archery, as well as the popular Geeks with Guns event.'},
 {"AFTER DARK": "Come explore our events including frank and often hilarious discussion of sex, kink, and other adult-oriented content. Must be over 18."},

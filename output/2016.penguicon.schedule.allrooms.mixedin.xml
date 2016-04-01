@@ -254,7 +254,7 @@
 <title>My Little Pony: Friendship Is Magic</title>
 <topic>Anime</topic>
 <time>8 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
@@ -339,7 +339,7 @@
 <title>Anatomy of a Sewing Machine</title>
 <topic>DIY</topic>
 <time>9 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Easy and Cheap: Healthy Meatless Meals</title>
 <topic>Food</topic>
@@ -379,9 +379,9 @@
 <title>Flirting for Geeks</title>
 <topic>Life</topic>
 <time>10 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Midwest Mash - Whiskies of the Great Lakes</title>
+<title>Midwest Mash: Whiskies of the Great Lakes</title>
 <topic>Food</topic>
 <time>10 PM</time></event><event>
 <room>Hamlin</room>
@@ -429,7 +429,7 @@
 <title>Open Linux Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <time>9 AM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Coffee, The Other Java</title>
 <topic>Food</topic>
@@ -574,7 +574,7 @@
 <title>Knitting 101</title>
 <topic>DIY</topic>
 <time>11 AM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Homebrewing</title>
 <topic>Food</topic>
@@ -729,7 +729,7 @@
 <title>Penguicon Board Meeting</title>
 <topic>Penguicon</topic>
 <time>1 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Kitchen Hacks 101</title>
 <topic>Food</topic>
@@ -819,7 +819,7 @@
 <title>Queer: Identity, Sexuality and Beyond</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
 <topic>Food</topic>
@@ -904,7 +904,7 @@
 <title>Make a Cute Penguin Plushie!</title>
 <topic>DIY</topic>
 <time>3 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Baking and Breaking Bread</title>
 <topic>Food</topic>
@@ -984,7 +984,7 @@
 <title>Sexual Safety</title>
 <topic>After Dark</topic>
 <time>4 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Tastes that Taste Great Together</title>
 <topic>Food</topic>
@@ -1199,7 +1199,7 @@
 <title>Speak Your Words</title>
 <topic>Literature</topic>
 <time>8 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Pirate Rum History Tastings</title>
 <topic>Food</topic>
@@ -1254,7 +1254,7 @@
 <title>How Not To Draw Comics</title>
 <topic>Comics</topic>
 <time>9 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Taste My Pickle</title>
 <topic>Food</topic>
@@ -1294,7 +1294,7 @@
 <title>So, What's This "Age Play" Thing Anyway?</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>DemonLobster.com Presents: History of the Cocktail</title>
 <topic>Food</topic>
@@ -1514,7 +1514,7 @@
 <title>Better Filesystems with Btrfs</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Preserving the Summer</title>
 <topic>Food</topic>
@@ -1599,7 +1599,7 @@
 <title>BoF: What Will Penguicon Look Like in 2020?</title>
 <topic>Life</topic>
 <time>1 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Let's Eat Weeds!</title>
 <topic>Food</topic>
@@ -1623,7 +1623,7 @@
 <day>SUNDAY, May 1</day>
 <title>Sunday Morning Linux Review Live  Broadcast</title>
 <topic>Tech</topic>
-<time>1 PM</time></event><event>
+<time>8 AM</time></event><event>
 <room>Portage</room>
 <day>SUNDAY, May 1</day>
 <title>Video Shorts</title>
@@ -1684,7 +1684,7 @@
 <title>Furries!</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>Food Room</room>
+<room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Eat Like a Pirate</title>
 <topic>Food</topic>
@@ -1798,4 +1798,9 @@
 <day>SUNDAY, May 1</day>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
-<time>4 PM</time></event></events>
+<time>4 PM</time></event><event>
+<room>Charlevoix C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>The Golden Girls of Tech on T.V.</title>
+<topic>Media, Tech</topic>
+<time>5 PM</time></event></events>

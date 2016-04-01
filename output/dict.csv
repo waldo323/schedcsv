@@ -2354,7 +2354,7 @@ event_end,20:50
 event_type_list,['DIY']
 private,PUBLIC
 endtimeampm,8 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean."
 index,51
@@ -2370,7 +2370,7 @@ End Time,20:50
 tracknosp,['DIY']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Food Room', 'DIY', 'So Fresh, (Not) So Clean; Getting Dirty Making Soap.', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', 'Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', '1017', 'DIY', 'So Fresh, (Not) So Clean; Getting Dirty Making Soap.', 'Jonathan Ivar Weyhrauch, Mikhail Shikhmanov', 'Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 avneeds,none
@@ -2384,13 +2384,13 @@ AV Needs,
 name,"So Fresh, (Not) So Clean; Getting Dirty Making Soap."
 Private,PUBLIC
 bookname,"So Fresh, (Not) So Clean; Getting Dirty Making Soap."
-venue,Food Room
+venue,1017
 Book Description,"Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean."
 Presenters,"Jonathan Ivar Weyhrauch, Mikhail Shikhmanov"
 csvsafedescrip,Reroot- a local producer of all natural hand made soaps and oils- will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean.
 speakernosp,"JonathanIvarWeyhrauch,MikhailShikhmanov"
 starttime,20:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -3136,7 +3136,7 @@ event_end,21:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"
 index,68
@@ -3152,7 +3152,7 @@ End Time,21:50
 tracknosp,['Food']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Food Room', 'Food', 'Easy and Cheap: Healthy Meatless Meals', 'Amy Alice Wright', ""Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', '1017', 'Food', 'Easy and Cheap: Healthy Meatless Meals', 'Amy Alice Wright', ""Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Amy Alice Wright
 avneeds,none
@@ -3166,13 +3166,13 @@ AV Needs,
 name,Easy and Cheap: Healthy Meatless Meals
 Private,PUBLIC
 bookname,Easy and Cheap: Healthy Meatless Meals
-venue,Food Room
+venue,1017
 Book Description,"Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"
 Presenters,Amy Alice Wright
 csvsafedescrip,Get your grub on with some fast- nutritious meals that won't make your wallet sad. We're talking tasty stews- soups- curries- and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided- plus some others to try- and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!
 speakernosp,AmyAliceWright
 starttime,21:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -3504,7 +3504,7 @@ event_end,23:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,11 PM
-Location,Food Room
+Location,1017
 duration,1 hour and 50 minutes
 description,"There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting!  The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops."
 index,76
@@ -3512,7 +3512,7 @@ speakers,Greg Williams
 bookdescrip,"There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting!  The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops."
 Track,Food
 startday,4/29/2016
-Title,Midwest Mash - Whiskies of the Great Lakes
+Title,Midwest Mash: Whiskies of the Great Lakes
 Start Time,22:00
 event_start,22:00
 starttimeampm,10 PM
@@ -3520,7 +3520,7 @@ End Time,23:50
 tracknosp,['Food']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '23:50', 'Food Room', 'Food', 'Midwest Mash - Whiskies of the Great Lakes', 'Greg Williams', 'There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting!  The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops.\n', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '22:00', '4/29/2016', '23:50', '1017', 'Food', 'Midwest Mash: Whiskies of the Great Lakes', 'Greg Williams', 'There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting!  The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops.\n', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Greg Williams
 avneeds,none
@@ -3532,16 +3532,16 @@ caldescrip,"There are a significant number of craft distilleries in the Midwest 
 "
 endtime,23:50
 AV Needs,
-name,Midwest Mash - Whiskies of the Great Lakes
+name,Midwest Mash: Whiskies of the Great Lakes
 Private,PUBLIC
-bookname,Midwest Mash - Whiskies of the Great Lakes
-venue,Food Room
+bookname,Midwest Mash: Whiskies of the Great Lakes
+venue,1017
 Book Description,"There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. "
 Presenters,Greg Williams
 csvsafedescrip,There are a significant number of craft distilleries in the Midwest region- come and hear what makes them unique from each other- how those whiskies are made. Then stay for a tasting!  The presentation will be open- but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. 
 speakernosp,GregWilliams
 starttime,22:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/29/2016
 minutes,50
 allday,FALSE
@@ -3965,7 +3965,7 @@ event_end,9:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 AM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops."
 index,86
@@ -3981,7 +3981,7 @@ End Time,9:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '9:00', '4/30/2016', '9:50', 'Food Room', 'Food', 'Coffee, The Other Java', 'Kelly Vanderwell', 'Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '9:00', '4/30/2016', '9:50', '1017', 'Food', 'Coffee, The Other Java', 'Kelly Vanderwell', 'Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Kelly Vanderwell
 avneeds,none
@@ -3995,13 +3995,13 @@ AV Needs,
 name,"Coffee, The Other Java"
 Private,PUBLIC
 bookname,"Coffee, The Other Java"
-venue,Food Room
+venue,1017
 Book Description,"Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops."
 Presenters,Kelly Vanderwell
 csvsafedescrip,Learn the differences in coffee drinks: cappucino- frappe- latte- americano- espresso- etc so you can confidently order drinks at even the fanciest coffee shops.
 speakernosp,KellyVanderwell
 starttime,9:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -5300,7 +5300,7 @@ event_end,12:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Food Room
+Location,1017
 duration,1 hour and 50 minutes
 description,"There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal."
 index,115
@@ -5316,7 +5316,7 @@ End Time,12:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '12:50', 'Food Room', 'Food', 'Homebrewing', 'Johnathon A. Campbell', 'There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '11:00', '4/30/2016', '12:50', '1017', 'Food', 'Homebrewing', 'Johnathon A. Campbell', 'There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Johnathon A. Campbell
 avneeds,none
@@ -5330,13 +5330,13 @@ AV Needs,
 name,Homebrewing
 Private,PUBLIC
 bookname,Homebrewing
-venue,Food Room
+venue,1017
 Book Description,"There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal."
 Presenters,Johnathon A. Campbell
 csvsafedescrip,There are many wonderful beverages that can be made at home. This presentation will cover Beer Making- Cider Making- Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.
 speakernosp,JohnathonA.Campbell
 starttime,11:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -6726,7 +6726,7 @@ event_end,13:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,1 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen."
 index,146
@@ -6742,7 +6742,7 @@ End Time,13:50
 tracknosp,['Food']
 endday,4/1/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/1/2016', '13:50', 'Food Room', 'Food', 'Kitchen Hacks 101', 'Emily Tuesday', 'An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. \n', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/1/2016', '13:50', '1017', 'Food', 'Kitchen Hacks 101', 'Emily Tuesday', 'An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. \n', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/1/2016
 calspeakers,Emily Tuesday
 avneeds,none
@@ -6757,13 +6757,13 @@ AV Needs,
 name,Kitchen Hacks 101
 Private,PUBLIC
 bookname,Kitchen Hacks 101
-venue,Food Room
+venue,1017
 Book Description,"An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. "
 Presenters,Emily Tuesday
 csvsafedescrip,An incomplete and tangential discussion about tricks to save time- money- and energy in the kitchen.  
 speakernosp,EmilyTuesday
 starttime,13:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -7557,7 +7557,7 @@ event_end,14:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,2 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home."
 index,164
@@ -7573,7 +7573,7 @@ End Time,14:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'Food Room', 'Food', 'Vegan Junk Food: Delicious and Not at All Nutritious', 'Amy Alice Wright', ""Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', '1017', 'Food', 'Vegan Junk Food: Delicious and Not at All Nutritious', 'Amy Alice Wright', ""Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Amy Alice Wright
 avneeds,none
@@ -7587,13 +7587,13 @@ AV Needs,
 name,Vegan Junk Food: Delicious and Not at All Nutritious
 Private,PUBLIC
 bookname,Vegan Junk Food: Delicious and Not at All Nutritious
-venue,Food Room
+venue,1017
 Book Description,"Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home."
 Presenters,Amy Alice Wright
 csvsafedescrip,Think vegans are waifish- pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips- cookies- candy- and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients- sugar processing- and how you can make decadent vegan goodies at home.
 speakernosp,AmyAliceWright
 starttime,14:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -8340,7 +8340,7 @@ event_end,15:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"""The most exciting thing about making bread is it's similar to making beer."" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner."
 index,181
@@ -8348,7 +8348,7 @@ speakers,David Clipner
 bookdescrip,"""The most exciting thing about making bread is it's similar to making beer."" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner."
 Track,Food
 startday,4/30/2016
-Title, Baking and Breaking Bread
+Title,Baking and Breaking Bread
 Start Time,15:00
 event_start,15:00
 starttimeampm,3 PM
@@ -8356,7 +8356,7 @@ End Time,15:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '15:00', '4/30/2016', '15:50', 'Food Room', 'Food', '\nBaking and Breaking Bread', 'David Clipner', '""The most exciting thing about making bread is it\'s similar to making beer."" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '15:00', '4/30/2016', '15:50', '1017', 'Food', 'Baking and Breaking Bread', 'David Clipner', '""The most exciting thing about making bread is it\'s similar to making beer."" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,David Clipner
 avneeds,none
@@ -8367,16 +8367,16 @@ speakernosplist,['DavidClipner']
 caldescrip,"'The most exciting thing about making bread is it's similar to making beer.' Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner."
 endtime,15:50
 AV Needs,
-name,", Baking and Breaking Bread"
+name,Baking and Breaking Bread
 Private,PUBLIC
 bookname,Baking and Breaking Bread
-venue,Food Room
+venue,1017
 Book Description,"""The most exciting thing about making bread is it's similar to making beer."" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner."
 Presenters,David Clipner
 csvsafedescrip,'The most exciting thing about making bread is it's similar to making beer.' Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker- David Clipner.
 speakernosp,DavidClipner
 starttime,15:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -9076,7 +9076,7 @@ event_end,16:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,4 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon!  Or vanilla!  This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe."
 index,197
@@ -9092,7 +9092,7 @@ End Time,16:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Food Room', 'Food', 'Tastes that Taste Great Together', 'Cathy Raymond, Eric S. Raymond', 'Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon!  Or vanilla!  This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', '1017', 'Food', 'Tastes that Taste Great Together', 'Cathy Raymond, Eric S. Raymond', 'Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon!  Or vanilla!  This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Cathy Raymond, Eric S. Raymond"
 avneeds,none
@@ -9106,13 +9106,13 @@ AV Needs,
 name,Tastes that Taste Great Together
 Private,PUBLIC
 bookname,Tastes that Taste Great Together
-venue,Food Room
+venue,1017
 Book Description,"Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon! Or vanilla! This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe."
 Presenters,"Cathy Raymond, Eric S. Raymond"
 csvsafedescrip,Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods- such as bacon!  Or vanilla!  This tasting will include a talk about foods that were historically combined with chocolate in South America and- later- in Europe.
 speakernosp,"CathyRaymond,EricS.Raymond"
 starttime,16:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -11056,7 +11056,7 @@ event_end,20:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,8 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops."
 index,240
@@ -11072,7 +11072,7 @@ End Time,20:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '20:00', '4/30/2016', '20:50', 'Food Room', 'Food', 'Pirate Rum History Tastings', 'Rathbone the Pirate', ""Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '20:00', '4/30/2016', '20:50', '1017', 'Food', 'Pirate Rum History Tastings', 'Rathbone the Pirate', ""Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Rathbone the Pirate
 avneeds,none
@@ -11087,13 +11087,13 @@ AV Needs,
 name,Pirate Rum History Tastings
 Private,PUBLIC
 bookname,Pirate Rum History Tastings
-venue,Food Room
+venue,1017
 Book Description,"Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. "
 Presenters,Rathbone the Pirate
 csvsafedescrip,Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum- but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. 
 speakernosp,RathbonethePirate
 starttime,20:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -11563,7 +11563,7 @@ event_end,21:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,9 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes."
 index,251
@@ -11579,7 +11579,7 @@ End Time,21:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '21:00', '4/30/2016', '21:50', 'Food Room', 'Food', 'Taste My Pickle', 'Emily Tuesday', 'Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '21:00', '4/30/2016', '21:50', '1017', 'Food', 'Taste My Pickle', 'Emily Tuesday', 'Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Emily Tuesday
 avneeds,none
@@ -11593,13 +11593,13 @@ AV Needs,
 name,Taste My Pickle
 Private,PUBLIC
 bookname,Taste My Pickle
-venue,Food Room
+venue,1017
 Book Description,"Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes."
 Presenters,Emily Tuesday
 csvsafedescrip,Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits- vegetables- and nuts created by our Food Track Head- along with a discussion of the process of pickling with recipes.
 speakernosp,EmilyTuesday
 starttime,21:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -11931,7 +11931,7 @@ event_end,22:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,10 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history!  From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking!  Audience questions are encouraged.  So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!"
 index,259
@@ -11947,7 +11947,7 @@ End Time,22:50
 tracknosp,['Food']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '22:00', '4/30/2016', '22:50', 'Food Room', 'Food', 'DemonLobster.com Presents: History of the Cocktail', 'Scott Markwart, Steve Licavoli', ""The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history!  From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking!  Audience questions are encouraged.  So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '22:00', '4/30/2016', '22:50', '1017', 'Food', 'DemonLobster.com Presents: History of the Cocktail', 'Scott Markwart, Steve Licavoli', ""The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history!  From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking!  Audience questions are encouraged.  So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Scott Markwart, Steve Licavoli"
 avneeds,none
@@ -11961,13 +11961,13 @@ AV Needs,
 name,DemonLobster.com Presents: History of the Cocktail
 Private,PUBLIC
 bookname,DemonLobster.com Presents: History of the Cocktail
-venue,Food Room
+venue,1017
 Book Description,"The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history! From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking! Audience questions are encouraged. So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!"
 Presenters,"Scott Markwart, Steve Licavoli"
 csvsafedescrip,The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history!  From the early muddlings of sugar- water- and bitters- to the first published bar-tending guide in the 1860's- to the birth of the modern mixed drink- our experts will take the audience on a verbal walking tour of their favorite pastime: drinking!  Audience questions are encouraged.  So- if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search)- this is the place for you!
 speakernosp,"ScottMarkwart,SteveLicavoli"
 starttime,22:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,4/30/2016
 minutes,50
 allday,FALSE
@@ -13956,7 +13956,7 @@ event_end,12:00
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Food Room
+Location,1017
 duration,00 minutes
 description,"You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen."
 index,303
@@ -13972,7 +13972,7 @@ End Time,12:00
 tracknosp,['Food']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:00', 'Food Room', 'Food', 'Preserving the Summer', 'Emily Tuesday', ""You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '12:00', '5/1/2016', '12:00', '1017', 'Food', 'Preserving the Summer', 'Emily Tuesday', ""You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Emily Tuesday
 avneeds,none
@@ -13986,13 +13986,13 @@ AV Needs,
 name,Preserving the Summer
 Private,PUBLIC
 bookname,Preserving the Summer
-venue,Food Room
+venue,1017
 Book Description,"You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen."
 Presenters,Emily Tuesday
 csvsafedescrip,You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning- freezing- pickling- storing- and drying in your home kitchen.
 speakernosp,EmilyTuesday
 starttime,12:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,5/1/2016
 minutes,00
 allday,FALSE
@@ -14738,7 +14738,7 @@ event_end,13:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,1 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!
 index,320
@@ -14754,7 +14754,7 @@ End Time,13:50
 tracknosp,['Food']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Food Room', 'Food', ""Let's Eat Weeds!"", 'Kristoffer Marshall', ""Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', '1017', 'Food', ""Let's Eat Weeds!"", 'Kristoffer Marshall', ""Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Kristoffer Marshall
 avneeds,none
@@ -14768,13 +14768,13 @@ AV Needs,
 name,Let's Eat Weeds!
 Private,PUBLIC
 bookname,Let's Eat Weeds!
-venue,Food Room
+venue,1017
 Book Description,Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!
 Presenters,Kristoffer Marshall
 csvsafedescrip,Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!
 speakernosp,KristofferMarshall
 starttime,13:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
@@ -14918,12 +14918,12 @@ minutes,50
 allday,FALSE
 event_type,Tech
 All Day Event,FALSE
-event_end,13:50
+event_end,10:50
 event_type_list,['Tech']
 private,PUBLIC
-endtimeampm,1 PM
+endtimeampm,10 AM
 Location,Podcast Suite
-duration,50 minutes
+duration,2 hours and 50 minutes
 description,"This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon."
 index,324
 speakers,"Tony Bemus, Mary Tomich, Tom Lawrence"
@@ -14931,23 +14931,23 @@ bookdescrip,"This podcast is produced by 3 local people who also have been assoc
 Track,Tech
 startday,5/1/2016
 Title,Sunday Morning Linux Review Live Broadcast
-Start Time,13:00
-event_start,13:00
-starttimeampm,1 PM
-End Time,13:50
+Start Time,8:00
+event_start,8:00
+starttimeampm,8 AM
+End Time,10:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Podcast Suite', 'Tech', 'Sunday Morning Linux Review Live  Broadcast', 'Tony Bemus, Mary Tomich, Tom Lawrence', 'This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon.', '02hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '8:00', '5/1/2016', '10:50', 'Podcast Suite', 'Tech', 'Sunday Morning Linux Review Live  Broadcast', 'Tony Bemus, Mary Tomich, Tom Lawrence', 'This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon.', '02hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Tony Bemus, Mary Tomich, Tom Lawrence"
 avneeds,none
 speakerlist,"['Tony Bemus', 'Mary Tomich', 'Tom Lawrence']"
-hours,0
-totalminutes,50
+hours,2
+totalminutes,170
 speakernosplist,"['TonyBemus', 'MaryTomich', 'TomLawrence']"
 caldescrip,"This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon."
-endtime,13:50
+endtime,10:50
 AV Needs,
 name,Sunday Morning Linux Review Live  Broadcast
 Private,PUBLIC
@@ -14957,7 +14957,7 @@ Book Description,"This podcast is produced by 3 local people who also have been 
 Presenters,"Tony Bemus, Mary Tomich, Tom Lawrence"
 csvsafedescrip,This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning- they will do a live recording of their podcast at Penguicon.
 speakernosp,"TonyBemus,MaryTomich,TomLawrence"
-starttime,13:00
+starttime,8:00
 roomnosp,PodcastSuite
 Start Date,5/1/2016
 minutes,50
@@ -15520,7 +15520,7 @@ event_end,14:50
 event_type_list,['Food']
 private,PUBLIC
 endtimeampm,2 PM
-Location,Food Room
+Location,1017
 duration,50 minutes
 description,"Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try."
 index,337
@@ -15536,7 +15536,7 @@ End Time,14:50
 tracknosp,['Food']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '14:50', 'Food Room', 'Food', 'Eat Like a Pirate', 'Rathbone the Pirate', 'Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '5/1/2016', '14:50', '1017', 'Food', 'Eat Like a Pirate', 'Rathbone the Pirate', 'Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Rathbone the Pirate
 avneeds,none
@@ -15550,13 +15550,13 @@ AV Needs,
 name,Eat Like a Pirate
 Private,PUBLIC
 bookname,Eat Like a Pirate
-venue,Food Room
+venue,1017
 Book Description,"Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try."
 Presenters,Rathbone the Pirate
 csvsafedescrip,Cuisine is probably not the first thing people think of when they think of pirates- but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.
 speakernosp,RathbonethePirate
 starttime,14:00
-roomnosp,FoodRoom
+roomnosp,1017
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
@@ -16570,4 +16570,50 @@ speakernosp,
 starttime,16:00
 roomnosp,ComputerLabEMCIII
 Start Date,5/1/2016
+minutes,50
+allday,FALSE
+event_type,"Media, Tech"
+All Day Event,
+event_end,17:50
+event_type_list,"['Media', 'Tech']"
+private,DEFAULT
+endtimeampm,5 PM
+Location,Charlevoix C
+duration,50 minutes
+description,"Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?"
+index,360
+speakers,"Jennifer Marsman, Deb Nicholson, Dawn Kuczwara"
+bookdescrip,"Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?"
+Track,"Media, Tech"
+startday,4/30/2016
+Title,The Golden Girls of Tech on T.V.
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
+tracknosp,"['Media', 'Tech']"
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '17:00', '4/30/2016', '17:50', 'Charlevoix C', 'Media, Tech', 'The Golden Girls of Tech on T.V.', 'Jennifer Marsman, Deb Nicholson, Dawn Kuczwara', 'Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?', '', '', '', '']"
+End Date,4/30/2016
+calspeakers,"Jennifer Marsman, Deb Nicholson, Dawn Kuczwara"
+avneeds,none
+speakerlist,"['Jennifer Marsman', 'Deb Nicholson', 'Dawn Kuczwara']"
+hours,0
+totalminutes,50
+speakernosplist,"['JenniferMarsman', 'DebNicholson', 'DawnKuczwara']"
+caldescrip,"Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?"
+endtime,17:50
+AV Needs,
+name,The Golden Girls of Tech on T.V.
+Private,
+bookname,The Golden Girls of Tech on T.V.
+venue,Charlevoix C
+Book Description,"Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?"
+Presenters,"Jennifer Marsman, Deb Nicholson, Dawn Kuczwara"
+csvsafedescrip,Ageism directed at women in the world of T.V. and movies is a well known issue- with the average age difference between leading men and women counted in decades- and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?
+speakernosp,"JenniferMarsman,DebNicholson,DawnKuczwara"
+starttime,17:00
+roomnosp,CharlevoixC
+Start Date,4/30/2016
 minutes,50
