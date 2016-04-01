@@ -429,21 +429,6 @@
 <title>Pack 'O Game</title>
 <topic>Gaming</topic>
 <time>9 PM</time></event><event>
-<room>Game Table A</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Arkham Horror</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
-<room>Game Table B, Game Table C</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Learn To Play Back To The Future</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
-<room>Game Table G</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Zombicide: Black Plague</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Impact Play for Beginners</title>
@@ -484,6 +469,21 @@
 <title>The ZFS File System</title>
 <topic>Tech</topic>
 <time>10 PM</time></event><event>
+<room>Game Table A</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Arkham Horror</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
+<room>Game Table B, Game Table C</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Learn To Play Back To The Future</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
+<room>Game Table G</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Zombicide: Black Plague</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Poly Speed Dating</title>
@@ -499,6 +499,16 @@
 <title>LN2 After Hours I Ice Cream</title>
 <topic>Food</topic>
 <time>11 PM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, APRIL 30</day>
+<title>One Night Werewolf</title>
+<topic>Gaming</topic>
+<time>12 AM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>The Quiet Year</title>
+<topic>Gaming</topic>
+<time>12 AM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>JAC3D G33K Fitness Bootcamp</title>
@@ -689,6 +699,11 @@
 <title>Networking for Systems Administrators</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Legendary Encounters</title>
+<topic>Gaming</topic>
+<time>11 AM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Build Your Own Router</title>
@@ -763,6 +778,21 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Walk the Solar System</title>
 <topic>Science</topic>
+<time>12 PM</time></event><event>
+<room>Game Table A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Warlords of the 6 Kingdoms</title>
+<topic>Gaming</topic>
+<time>12 PM</time></event><event>
+<room>Game Table B</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Authentic Pirate Games</title>
+<topic>Gaming</topic>
+<time>12 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Abyss</title>
+<topic>Gaming</topic>
 <time>12 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
@@ -848,6 +878,36 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Security Principles for Programmers</title>
 <topic>Tech</topic>
+<time>1 PM</time></event><event>
+<room>Game Table A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Warlords of the 6 Kingdoms</title>
+<topic>Gaming</topic>
+<time>1 PM</time></event><event>
+<room>Game Table B</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Lords of Waterdeep</title>
+<topic>Gaming</topic>
+<time>1 PM</time></event><event>
+<room>Game Table C</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Intro to Android: Netrunner Card Game</title>
+<topic>Gaming</topic>
+<time>1 PM</time></event><event>
+<room>Game Table E</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Kingsburg</title>
+<topic>Gaming</topic>
+<time>1 PM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Codenames</title>
+<topic>Gaming</topic>
+<time>1 PM</time></event><event>
+<room>Game Table H, Game Table I</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Paint and Take</title>
+<topic>Gaming, DIY</topic>
 <time>1 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
@@ -938,6 +998,16 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Raspberry Pi Hacks</title>
 <topic>Tech</topic>
+<time>2 PM</time></event><event>
+<room>Game Table A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Warlords of the 6 Kingdoms</title>
+<topic>Gaming</topic>
+<time>2 PM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Dead of Winter</title>
+<topic>Gaming</topic>
 <time>2 PM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1604,16 +1674,6 @@
 <title>Comic vs. Manga</title>
 <topic>Anime</topic>
 <time>12 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Print and Play D&amp;D 5th Ed.</title>
-<topic>Gaming, Tech, DIY</topic>
-<time>12 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Warlords of the 6 Kingdoms</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>Raising Kind and Conscious Kids</title>
@@ -1688,11 +1748,6 @@
 <day>SUNDAY, May 1</day>
 <title>Cosplay Hacks Part 2</title>
 <topic>Costuming</topic>
-<time>1 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Prototype Playtest: Quatern and Exquisite Corpse Machine 3</title>
-<topic>Gaming</topic>
 <time>1 PM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
@@ -1779,56 +1834,6 @@
 <title>Conclave 40 Feedback and Announcements</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Hakosot</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Kalidasia Fleet Commander - The Siege of Cadre 4</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Learn To Play 7 Wonders</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Learn To Play Back To The Future</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Learn To Play Dominion</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Lords of Waterdeep</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Mahjong</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Order of the Wand</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Pack 'O Game</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Paint and Take</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>Simple Python Mobile Web App</title>
@@ -1884,76 +1889,6 @@
 <title>The Golden Girls of Tech on T.V.</title>
 <topic>Media, Tech</topic>
 <time>5 PM</time></event><event>
-<room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>One Night Werewolf</title>
-<topic>Gaming</topic>
-<time>12 AM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>The Quiet Year</title>
-<topic>Gaming</topic>
-<time>12 AM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Legendary Encounters</title>
-<topic>Gaming</topic>
-<time>11 AM</time></event><event>
-<room>Game Table A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Warlords of the 6 Kingdoms</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
-<room>Game Table B</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Authentic Pirate Games</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Abyss</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
-<room>Game Table A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Warlords of the 6 Kingdoms</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table B</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Lords of Waterdeep</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Intro to Android: Netrunner Card Game</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Kingsburg</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Codenames</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table H, Game Table I</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Paint and Take</title>
-<topic>Gaming, DIY</topic>
-<time>1 PM</time></event><event>
-<room>Game Table A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Warlords of the 6 Kingdoms</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Dead of Winter</title>
-<topic>Gaming</topic>
-<time>2 PM</time></event><event>
 <room>Game Table A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Kalidasia Fleet Commander - The Siege of Cadre 4</title>

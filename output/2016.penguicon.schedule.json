@@ -1262,48 +1262,6 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!",
-        "end_date": "4/30/2016",
-        "title": "Arkham Horror",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Cory Tebo"
-        ],
-        "location": "Game Table A",
-        "minutes": 290,
-        "start_date": "4/29/2016",
-        "end_time": "2:50"
-    },
-    {
-        "book_description": "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\u2019s seat of the famous DeLorean! Sign up required at Ops.",
-        "end_date": "4/29/2016",
-        "title": "Learn To Play Back To The Future",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Rick Houser"
-        ],
-        "location": "Game Table B, Game Table C",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
-    },
-    {
-        "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
-        "end_date": "4/29/2016",
-        "title": "Zombicide: Black Plague",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
-    },
-    {
         "book_description": "Want to learn about impact play? Then come in and play! This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Impact Play for Beginners",
@@ -1423,6 +1381,48 @@
         "end_time": "22:50"
     },
     {
+        "book_description": "2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!",
+        "end_date": "4/30/2016",
+        "title": "Arkham Horror",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Cory Tebo"
+        ],
+        "location": "Game Table A",
+        "minutes": 290,
+        "start_date": "4/29/2016",
+        "end_time": "2:50"
+    },
+    {
+        "book_description": "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\u2019s seat of the famous DeLorean! Sign up required at Ops.",
+        "end_date": "4/29/2016",
+        "title": "Learn To Play Back To The Future",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
+        "end_date": "4/29/2016",
+        "title": "Zombicide: Black Plague",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
+    },
+    {
         "book_description": "Polyamory speed dating will help polamorous people of all types get to know each other! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Poly Speed Dating",
@@ -1463,6 +1463,34 @@
         "location": "Consuite",
         "minutes": 110,
         "start_date": "4/29/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
+        "end_date": "4/30/2016",
+        "title": "One Night Werewolf",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
+        "end_date": "4/30/2016",
+        "title": "The Quiet Year",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
         "end_time": "0:50"
     },
     {
@@ -2028,6 +2056,20 @@
         "end_time": "11:50"
     },
     {
+        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
+        "end_date": "4/30/2016",
+        "title": "Legendary Encounters",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!",
         "end_date": "4/30/2016",
         "title": "Build Your Own Router",
@@ -2249,6 +2291,48 @@
             ""
         ],
         "location": "",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "Learn several card games and board games from the late 17th and early 18th centuries.",
+        "end_date": "4/30/2016",
+        "title": "Authentic Pirate Games",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Rathbone The Pirate"
+        ],
+        "location": "Game Table B",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
+        "end_date": "4/30/2016",
+        "title": "Abyss",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "12:50"
@@ -2501,6 +2585,92 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
+        "end_date": "4/30/2016",
+        "title": "Lords of Waterdeep",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Timothy Brown"
+        ],
+        "location": "Game Table B",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
+        "end_date": "4/30/2016",
+        "title": "Intro to Android: Netrunner Card Game",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Eric McGlohon",
+            "Bryan Snell"
+        ],
+        "location": "Game Table C",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-5 players. In Kingsburg, players are Lords sent from the King to administer frontier territories. The game takes place over five years, a total of 20 turns. In every year, there are 3 production seasons for collecting resources, building structures, and training troops. Every fourth turn is the winter, in which all the players must fight an invading army. Each player must face the invaders, so this is not a cooperative game.",
+        "end_date": "4/30/2016",
+        "title": "Kingsburg",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+        "end_date": "4/30/2016",
+        "title": "Codenames",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/30/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "13:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
     },
     {
         "book_description": "Parkour is a physical movement discipline that focuses on getting from point A to point B in the most efficient way possible, navigating obstacles along the way, most often in urban environments. Phoenix Freerunning Academy is a parkour and freerunning gym in Livonia that teaches the discipline of parkour and the instructors from this gym will be returning to Penguicon to host another Introduction to Parkour workshop in which we will both demonstrate some of our abilities as well as teach you how to jump, how to roll, how to balance and we will go over some of the basic vaults, including safety, speed and kong! ",
@@ -2778,6 +2948,34 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "14:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "end_date": "4/30/2016",
+        "title": "Dead of Winter",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
     },
     {
         "book_description": "The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?",
@@ -4780,37 +4978,6 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D and D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
-        "end_date": "5/1/2016",
-        "title": "Print and Play D and D 5th Ed.",
-        "track": "Gaming, Tech, DIY",
-        "start_time": "12:00",
-        "presenters": [
-            "Branden Coates",
-            "Antoni Williams",
-            "Alan Patrick",
-            "Nichole Bulmer-Jones"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
-        "end_date": "5/1/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Nikolas Smart"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
-    },
-    {
         "book_description": "With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others? How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults? How do we help them understand that intent isn't magic, and fair does not always mean equitable?",
         "end_date": "5/1/2016",
         "title": "Raising Kind and Conscious Kids",
@@ -5031,20 +5198,6 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
-    },
-    {
-        "book_description": "Enjoyable diversions or torture devices? You decide! Here\u2019s your chance to playtest two prototype motorized wooden board games. In \u201cQuatern\u201d up to for players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \u201cExquisite Corpse Machine 3\u201d is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
-        "end_date": "5/1/2016",
-        "title": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Andy Malone"
-        ],
-        "location": "Lobby",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
     },
     {
         "book_description": "A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas!",
@@ -5305,147 +5458,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
-        "end_date": "5/1/2016",
-        "title": "Hakosot",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Mitchell Bowling"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
-        "end_date": "5/1/2016",
-        "title": "Kalidasia Fleet Commander - The Siege of Cadre 4",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Jason Rutherford"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos?",
-        "end_date": "5/1/2016",
-        "title": "Learn To Play 7 Wonders",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\u2019s seat of the famous DeLorean!",
-        "end_date": "5/1/2016",
-        "title": "Learn To Play Back To The Future",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards?",
-        "end_date": "5/1/2016",
-        "title": "Learn To Play Dominion",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Richard Houser"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Lord's of Waterdeep board game with Skullport expansion. 2-6 player worker placement style game with a D and D theme. Rules are quick to learn but still has depth.",
-        "end_date": "5/1/2016",
-        "title": "Lords of Waterdeep",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Timothy Brown"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Ever played mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. ",
-        "end_date": "5/1/2016",
-        "title": "Mahjong",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Anne Zanoni"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. ",
-        "end_date": "5/1/2016",
-        "title": "Order of the Wand",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "David Whitcher"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.",
-        "end_date": "5/1/2016",
-        "title": "Pack 'O Game",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Bob Brodis"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "5/1/2016",
-        "title": "Paint and Take",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
         "book_description": "Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping. ",
         "end_date": "5/1/2016",
         "title": "Simple Python Mobile Web App",
@@ -5617,204 +5629,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "17:50"
-    },
-    {
-        "book_description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
-        "end_date": "4/30/2016",
-        "title": "One Night Werewolf",
-        "track": "Gaming",
-        "start_time": "0:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "0:50"
-    },
-    {
-        "book_description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
-        "end_date": "4/30/2016",
-        "title": "The Quiet Year",
-        "track": "Gaming",
-        "start_time": "0:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "0:50"
-    },
-    {
-        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
-        "end_date": "4/30/2016",
-        "title": "Legendary Encounters",
-        "track": "Gaming",
-        "start_time": "11:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 170,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
-        "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Nikolas Smart"
-        ],
-        "location": "Game Table A",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "Learn several card games and board games from the late 17th and early 18th centuries.",
-        "end_date": "4/30/2016",
-        "title": "Authentic Pirate Games",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Rathbone The Pirate"
-        ],
-        "location": "Game Table B",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
-        "end_date": "4/30/2016",
-        "title": "Abyss",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
-        "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Nikolas Smart"
-        ],
-        "location": "Game Table A",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
-        "end_date": "4/30/2016",
-        "title": "Lords of Waterdeep",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Timothy Brown"
-        ],
-        "location": "Game Table B",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
-        "end_date": "4/30/2016",
-        "title": "Intro to Android: Netrunner Card Game",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Eric McGlohon",
-            "Bryan Snell"
-        ],
-        "location": "Game Table C",
-        "minutes": 230,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "2-5 players. In Kingsburg, players are Lords sent from the King to administer frontier territories. The game takes place over five years, a total of 20 turns. In every year, there are 3 production seasons for collecting resources, building structures, and training troops. Every fourth turn is the winter, in which all the players must fight an invading army. Each player must face the invaders, so this is not a cooperative game.",
-        "end_date": "4/30/2016",
-        "title": "Kingsburg",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
-        "end_date": "4/30/2016",
-        "title": "Codenames",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "4/30/2016",
-        "title": "Paint and Take",
-        "track": "Gaming, DIY",
-        "start_time": "13:00",
-        "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
-        ],
-        "location": "Game Table H, Game Table I",
-        "minutes": 230,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
-        "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Nikolas Smart"
-        ],
-        "location": "Game Table A",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
-        "end_date": "4/30/2016",
-        "title": "Dead of Winter",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 170,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
     },
     {
         "book_description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
