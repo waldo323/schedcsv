@@ -691,10 +691,6 @@
 <topic>Tech</topic>
 <room>Hamlin</room>
 <blurb><participant>Donald Mark Haynes, Douglas Johnson</participant> What does it mean to be Agile?  Is it all marketing and hype or does this represent the future of software development?  We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework.  We will discuss things like the element of Scrum, it’s roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Rathbone vs. Everybody</title>
-<topic>Gaming</topic>
-<room>Lobby</room>
-<blurb><participant>Rathbone the Pirate</participant> Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.) </blurb></event>
 <event><title>Q&amp;A With Ann Lemay</title>
 <topic>Gaming</topic>
 <room>Montcalm</room>
@@ -788,14 +784,6 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
-<event><title>Arkham Horror</title>
-<topic>Gaming</topic>
-<room>Lobby</room>
-<blurb><participant>Cory Tebo</participant> A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat! </blurb></event>
-<event><title>Authentic Pirate Games</title>
-<topic>Gaming</topic>
-<room>Lobby</room>
-<blurb><participant>Rathbone the Pirate</participant> Learn several card games and board games from the late 17th and early 18th centuries. </blurb></event>
 <event><title>Where Did the Heroes Go?</title>
 <topic>Literature</topic>
 <room>Montcalm</room>
@@ -1396,7 +1384,7 @@
 <room>EMC IV</room>
 <blurb><participant>Richard Houser</participant> The maker movement has been making headlines, in particular the 3D printer space.  Something that is often overlooked is the state of the software.  Many manufacturers ship closed source software, which is against the spirit of the movement.  We'll go through a quick overview of one 3D printer toolchain (FreeCAD, Slic3r, OctoPrint), and discuss possible alternatives at each stage.  Other participants are strongly encouraged to bring a laptop running their maker software of choice (OSS only, please!) to share in a 2-5minute show and tell fashion.  Other maker toolchain applications would be particularly welcome (PCB design/circuit simulation, CNC tooling, laser cutters, etc). </blurb></event>
 <event><title>Life-ing Your Game</title>
-<topic>Life</topic>
+<topic>Life, Gaming</topic>
 <room>EMC V</room>
 <blurb><participant>Craig Hibbard</participant> You've heard of hacking your life, maybe you've heard of gaming your life. But how much attention do you pay to what the game you're already playing is teaching you? Third try is a charm (I hope) for this panel where I will attempt to impart to you some of the things that I've learned from my gaming experiences and things that I think you and your children could learn too. Please join me and see what we can learn together. </blurb></event>
 <event><title>The Continuing Penguicon Robot Build</title>
