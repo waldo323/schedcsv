@@ -16256,7 +16256,7 @@ event_end,15:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Algonquin B/C
+Location,Algonquin D
 duration,50 minutes
 description,"Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"
 index,353
@@ -16272,7 +16272,7 @@ End Time,15:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '15:00', '5/1/2016', '15:50', 'Algonquin B/C', 'Tech', 'Free/Open Democracy', 'Edward L. Platt', ""Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '15:00', '5/1/2016', '15:50', 'Algonquin D', 'Tech', 'Free/Open Democracy', 'Edward L. Platt', ""Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Edward L. Platt
 avneeds,none
@@ -16286,13 +16286,13 @@ AV Needs,
 name,Free/Open Democracy
 Private,PUBLIC
 bookname,Free/Open Democracy
-venue,Algonquin B/C
+venue,Algonquin D
 Book Description,"Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio, Liquid Feedback, and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin, Heinlein, etc.)"
 Presenters,Edward L. Platt
 csvsafedescrip,Can free and open-source software change the way our society governs itself? Come see demos of consensus-based and democratic decision-making tools like Loomio- Liquid Feedback- and Intertwinkles. We'll also talk about voting theory and alternative governance in SF (Le Guin- Heinlein- etc.)
 speakernosp,EdwardL.Platt
 starttime,15:00
-roomnosp,AlgonquinBC
+roomnosp,AlgonquinD
 Start Date,5/1/2016
 minutes,50
 allday,FALSE
