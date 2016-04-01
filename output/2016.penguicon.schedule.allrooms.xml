@@ -354,7 +354,7 @@
 <room>Baldwin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Retrogaming</title>
-<topic>Penguicon</topic>
+<topic>Penguicon, Gaming</topic>
 <time>12 PM</time></event><event>
 <room>Baldwin</room>
 <day>SATURDAY, APRIL 30</day>
@@ -623,6 +623,11 @@
 <time>4 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>SATURDAY, APRIL 30</day>
+<title>The Golden Girls of Tech on T.V.</title>
+<topic>Media, Tech</topic>
+<time>5 PM</time></event><event>
+<room>Charlevoix C</room>
+<day>SATURDAY, APRIL 30</day>
 <title>Tips for Submitting to Film Festivals</title>
 <topic>Media</topic>
 <time>7 PM</time></event><event>
@@ -661,11 +666,6 @@
 <title>PowerPoint Improv</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
-<room>Charlevoix C</room>
-<day>SATURDAY, APRIL 30</day>
-<title>The Golden Girls of Tech on T.V.</title>
-<topic>Media, Tech</topic>
-<time>5 PM</time></event><event>
 <room>Computer Lab (EMC III)</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Getting Hands on With Linux</title>
@@ -1608,16 +1608,6 @@
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Star Trek Five-Year Mission With Mini Expansions</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Lobby</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Star Trek Five-Year Mission With Mini Expansions</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Lobby</room>
 <day>SATURDAY, APRIL 30</day>
 <title>One Night Werewolf</title>
 <topic>Gaming</topic>
@@ -1949,7 +1939,7 @@
 <room>Windover</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Kerbal Space Program</title>
-<topic>Science</topic>
+<topic>Science, Gaming</topic>
 <time>7 PM</time></event><event>
 <room>Windover</room>
 <day>FRIDAY, APRIL 29</day>
