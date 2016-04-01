@@ -1327,10 +1327,12 @@
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Daniel Dugan, Maria Dugan</participant> A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas! </blurb></event>
+<time>8 AM</time>
 <event><title>Sunday Morning Linux Review Live  Broadcast</title>
 <topic>Tech</topic>
 <room>Podcast Suite</room>
-<blurb><participant>Tony Bemus, Mary Tomich, Tom Lawrence</participant> This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon. </blurb></event>
+<blurb><participant>Tony Bemus, Mary Tomich, Tom Lawrence</participant> This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon. <duration>2 hours and 50 minutes</duration></blurb></event>
+<time>1 PM</time>
 <event><title>Video Shorts</title>
 <topic>Media</topic>
 <room>Portage</room>
@@ -1473,4 +1475,10 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>5 PM</time>
+<event><title>The Golden Girls of Tech on T.V.</title>
+<topic>Media, Tech</topic>
+<room>Charlevoix C</room>
+<blurb><participant>Jennifer Marsman, Deb Nicholson, Dawn Kuczwara</participant> Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields? </blurb></event></events>

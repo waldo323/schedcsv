@@ -4840,16 +4840,16 @@
         "end_date": "5/1/2016",
         "title": "Sunday Morning Linux Review Live Broadcast",
         "track": "Tech",
-        "start_time": "13:00",
+        "start_time": "8:00",
         "presenters": [
             "Tony Bemus",
             "Mary Tomich",
             "Tom Lawrence"
         ],
         "location": "Podcast Suite",
-        "minutes": 50,
+        "minutes": 170,
         "start_date": "5/1/2016",
-        "end_time": "13:50"
+        "end_time": "10:50"
     },
     {
         "book_description": "Come watch some short films by local filmakers, on topics ranging from music videos and comedy to suspense drama and zombie sci-fi! Dave Kilgore: Percipient (9:35); I got no Talent (2:30); When the Lord Comes to Drown Us All Again (2:35). Gabrielle Gamache-Nettles: Crosscurrent (7:22), Squisher's Atonement (14:00). Scott (Toaden) Maiale: Win the Cure (3:00), Single White Vlogger (20:00). Please note some of these contain adult language and situations.",
@@ -5374,5 +5374,21 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
+        "end_date": "4/30/2016",
+        "title": "The Golden Girls of Tech on T.V.",
+        "track": "Media, Tech",
+        "start_time": "17:00",
+        "presenters": [
+            "Jennifer Marsman",
+            "Deb Nicholson",
+            "Dawn Kuczwara"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
     }
 ]
