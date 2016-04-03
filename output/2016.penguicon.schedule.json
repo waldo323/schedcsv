@@ -4975,14 +4975,14 @@
         "end_date": "5/1/2016",
         "title": "Meta-Level Science",
         "track": "Science",
-        "start_time": "11:00",
+        "start_time": "10:00",
         "presenters": [
             "Dr. Justin Coven"
         ],
         "location": "EMC II",
         "minutes": 110,
         "start_date": "5/1/2016",
-        "end_time": "12:50"
+        "end_time": "11:50"
     },
     {
         "book_description": "The maker movement has been making headlines, in particular the 3D printer space. Something that is often overlooked is the state of the software. Many manufacturers ship closed source software, which is against the spirit of the movement. We'll go through a quick overview of one 3D printer toolchain (FreeCAD, Slic3r, OctoPrint), and discuss possible alternatives at each stage. Other participants are strongly encouraged to bring a laptop running their maker software of choice (OSS only, please!) to share in a 2-5minute show and tell fashion. Other maker toolchain applications would be particularly welcome (PCB design/circuit simulation, CNC tooling, laser cutters, etc).",
@@ -5437,14 +5437,14 @@
         "end_date": "5/1/2016",
         "title": "BoF: Media Creators",
         "track": "Media",
-        "start_time": "13:00",
+        "start_time": "12:00",
         "presenters": [
             ""
         ],
         "location": "EMC II",
         "minutes": 50,
         "start_date": "5/1/2016",
-        "end_time": "13:50"
+        "end_time": "12:50"
     },
     {
         "book_description": "This talk will teach the basics of engineering structural parts to be fabricated using extruded plastic from a 3D printer nozzle. Simple design concepts such as tensile strength, Poisson's ratio, and stress risers will be explained and used to demonstrate how to make optimal material, shape, and functional choices. Particular attention will be paid to the peculiarities of parts made with layers of extruded plastic and destined for the high-stresses imparted on parts destined for use in 3D-printed firearms.",

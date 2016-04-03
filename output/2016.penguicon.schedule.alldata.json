@@ -24089,12 +24089,12 @@
         "allday": "FALSE",
         "event_type": "Science",
         "All Day Event": "FALSE",
-        "event_end": "12:50",
+        "event_end": "11:50",
         "event_type_list": [
             "Science"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "12 PM",
+        "endtimeampm": "11 AM",
         "Location": "EMC II",
         "duration": "1 hour and 50 minutes",
         "description": "Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics.",
@@ -24104,10 +24104,10 @@
         "Track": "Science",
         "startday": "5/1/2016",
         "Title": "Meta-Level Science",
-        "Start Time": "11:00",
-        "event_start": "11:00",
-        "starttimeampm": "11 AM",
-        "End Time": "12:50",
+        "Start Time": "10:00",
+        "event_start": "10:00",
+        "starttimeampm": "10 AM",
+        "End Time": "11:50",
         "tracknosp": [
             "Science"
         ],
@@ -24115,9 +24115,9 @@
         "dayheader": "SUNDAY, May 1",
         "input": [
             "5/1/2016",
-            "11:00",
+            "10:00",
             "5/1/2016",
-            "12:50",
+            "11:50",
             "EMC II",
             "Science",
             "Meta-Level Science",
@@ -24140,7 +24140,7 @@
             "Dr.JustinCoven"
         ],
         "caldescrip": "Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics.\n",
-        "endtime": "12:50",
+        "endtime": "11:50",
         "AV Needs": "",
         "name": "Meta-Level Science",
         "Private": "PUBLIC",
@@ -24150,7 +24150,7 @@
         "Presenters": "Dr. Justin Coven",
         "csvsafedescrip": "Lessons from Artificial Intelligence- Software Engineering- and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models- including computational characteristics and data matching measures; and Properties of Data- including measures of data to real world mapping. Science has no opinions- has no votes- no laws- no authorities- only naked properties- and measures. Lessons include: Reality- Models- Spaghetti- Measurement- Development- and Issues. Examples include: Entropy- Transformation of Energy- Relativity- and Sub-Quantum Kinetics. ",
         "speakernosp": "Dr.JustinCoven",
-        "starttime": "11:00",
+        "starttime": "10:00",
         "roomnosp": "EMCII",
         "Start Date": "5/1/2016",
         "minutes": "50"
@@ -26321,12 +26321,12 @@
         "allday": "FALSE",
         "event_type": "Media",
         "All Day Event": "FALSE",
-        "event_end": "13:50",
+        "event_end": "12:50",
         "event_type_list": [
             "Media"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "1 PM",
+        "endtimeampm": "12 PM",
         "Location": "EMC II",
         "duration": "50 minutes",
         "description": "Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated.",
@@ -26336,10 +26336,10 @@
         "Track": "Media",
         "startday": "5/1/2016",
         "Title": "BoF: Media Creators",
-        "Start Time": "13:00",
-        "event_start": "13:00",
-        "starttimeampm": "1 PM",
-        "End Time": "13:50",
+        "Start Time": "12:00",
+        "event_start": "12:00",
+        "starttimeampm": "12 PM",
+        "End Time": "12:50",
         "tracknosp": [
             "Media"
         ],
@@ -26347,9 +26347,9 @@
         "dayheader": "SUNDAY, May 1",
         "input": [
             "5/1/2016",
-            "13:00",
+            "12:00",
             "5/1/2016",
-            "13:50",
+            "12:50",
             "EMC II",
             "Media",
             "BoF: Media Creators",
@@ -26372,7 +26372,7 @@
             ""
         ],
         "caldescrip": "Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated.",
-        "endtime": "13:50",
+        "endtime": "12:50",
         "AV Needs": "",
         "name": "BoF: Media Creators",
         "Private": "PUBLIC",
@@ -26382,7 +26382,7 @@
         "Presenters": "",
         "csvsafedescrip": "Doesn't matter what you create. If you want to to talk about music- movies- comics- writing . . . this is the place to share ideas.  Birds of a Feather events are unmoderated.",
         "speakernosp": "",
-        "starttime": "13:00",
+        "starttime": "12:00",
         "roomnosp": "EMCII",
         "Start Date": "5/1/2016",
         "minutes": "50"
