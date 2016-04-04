@@ -2450,7 +2450,7 @@ Location,EMC II
 duration,50 minutes
 description,An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms.
 index,53
-speakers,"Cassy Sinke, Alison Chan, April Nance"
+speakers,"Cassy Sinke, Alison Chan"
 bookdescrip,An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms.
 Track,Life
 startday,4/29/2016
@@ -2462,14 +2462,14 @@ End Time,20:50
 tracknosp,['Life']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC II', 'Life', 'LGBTQ* Alphabet Soup', 'Cassy Sinke, Alison Chan, April Nance', ""An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC II', 'Life', 'LGBTQ* Alphabet Soup', 'Cassy Sinke, Alison Chan', ""An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,"Cassy Sinke, Alison Chan, April Nance"
+calspeakers,"Cassy Sinke, Alison Chan"
 avneeds,none
-speakerlist,"['Cassy Sinke', 'Alison Chan', 'April Nance']"
+speakerlist,"['Cassy Sinke', 'Alison Chan']"
 hours,0
 totalminutes,50
-speakernosplist,"['CassySinke', 'AlisonChan', 'AprilNance']"
+speakernosplist,"['CassySinke', 'AlisonChan']"
 caldescrip,An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms.
 endtime,20:50
 AV Needs,
@@ -2478,9 +2478,9 @@ Private,PUBLIC
 bookname,LGBTQ* Alphabet Soup
 venue,EMC II
 Book Description,An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms.
-Presenters,"Cassy Sinke, Alison Chan, April Nance"
+Presenters,"Cassy Sinke, Alison Chan"
 csvsafedescrip,An educational take on the different terms used within the LGBTQ* community. We'll start from basic terms and work our way through some not so common terms.
-speakernosp,"CassySinke,AlisonChan,AprilNance"
+speakernosp,"CassySinke,AlisonChan"
 starttime,20:00
 roomnosp,EMCII
 Start Date,4/29/2016
@@ -3500,10 +3500,10 @@ minutes,50
 allday,FALSE
 event_type,Food
 All Day Event,FALSE
-event_end,21:50
+event_end,17:50
 event_type_list,['Food']
 private,PUBLIC
-endtimeampm,9 PM
+endtimeampm,5 PM
 Location,1017
 duration,50 minutes
 description,"Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"
@@ -3511,17 +3511,17 @@ index,76
 speakers,Amy Alice Wright
 bookdescrip,"Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"
 Track,Food
-startday,4/29/2016
+startday,4/30/2016
 Title,Easy and Cheap: Healthy Meatless Meals
-Start Time,21:00
-event_start,21:00
-starttimeampm,9 PM
-End Time,21:50
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
 tracknosp,['Food']
-endday,4/29/2016
-dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', '1017', 'Food', 'Easy and Cheap: Healthy Meatless Meals', 'Amy Alice Wright', ""Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-End Date,4/29/2016
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '17:00', '4/30/2016', '17:50', '1017', 'Food', 'Easy and Cheap: Healthy Meatless Meals', 'Amy Alice Wright', ""Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,Amy Alice Wright
 avneeds,none
 speakerlist,['Amy Alice Wright']
@@ -3529,7 +3529,7 @@ hours,0
 totalminutes,50
 speakernosplist,['AmyAliceWright']
 caldescrip,"Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!"
-endtime,21:50
+endtime,17:50
 AV Needs,
 name,Easy and Cheap: Healthy Meatless Meals
 Private,PUBLIC
@@ -3539,9 +3539,9 @@ Book Description,"Get your grub on with some fast, nutritious meals that won't m
 Presenters,Amy Alice Wright
 csvsafedescrip,Get your grub on with some fast- nutritious meals that won't make your wallet sad. We're talking tasty stews- soups- curries- and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided- plus some others to try- and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!
 speakernosp,AmyAliceWright
-starttime,21:00
+starttime,17:00
 roomnosp,1017
-Start Date,4/29/2016
+Start Date,4/30/2016
 minutes,50
 allday,FALSE
 event_type,After Dark
