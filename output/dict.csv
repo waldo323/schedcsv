@@ -14739,10 +14739,10 @@ private,PUBLIC
 endtimeampm,10 AM
 Location,Hamlin
 duration,50 minutes
-description,"How do we eliminate the ""women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?"
+description,"How do we eliminate the ""women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?  May also include discussion on transgender and gender-fluid fans."
 index,320
 speakers,"Wendy Carson, Hannah Davis, John Belden"
-bookdescrip,"How do we eliminate the ""women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?"
+bookdescrip,"How do we eliminate the ""women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?  May also include discussion on transgender and gender-fluid fans."
 Track,Life
 startday,5/1/2016
 Title,Gender and Geek Culture
@@ -14753,7 +14753,7 @@ End Time,10:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Hamlin', 'Life', 'Gender and Geek Culture', 'Wendy Carson, Hannah Davis, John Belden', 'How do we eliminate the ""women aren\'t real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Hamlin', 'Life', 'Gender and Geek Culture', 'Wendy Carson, Hannah Davis, John Belden', 'How do we eliminate the ""women aren\'t real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?  May also include discussion on transgender and gender-fluid fans.\n', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,"Wendy Carson, Hannah Davis, John Belden"
 avneeds,none
@@ -14761,16 +14761,17 @@ speakerlist,"['Wendy Carson', 'Hannah Davis', 'John Belden']"
 hours,0
 totalminutes,50
 speakernosplist,"['WendyCarson', 'HannahDavis', 'JohnBelden']"
-caldescrip,How do we eliminate the 'women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?
+caldescrip,"How do we eliminate the 'women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?  May also include discussion on transgender and gender-fluid fans.
+"
 endtime,10:50
 AV Needs,
 name,Gender and Geek Culture
 Private,PUBLIC
 bookname,Gender and Geek Culture
 venue,Hamlin
-Book Description,"How do we eliminate the ""women aren't real [fill in the blank] sterotype? Are we doing everything we can to bring more people into the geek fold?"
+Book Description,"How do we eliminate the ""women aren't real [fill in the blank] sterotype? Are we doing everything we can to bring more people into the geek fold? May also include discussion on transgender and gender-fluid fans. "
 Presenters,"Wendy Carson, Hannah Davis, John Belden"
-csvsafedescrip,How do we eliminate the 'women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?
+csvsafedescrip,How do we eliminate the 'women aren't real [fill in the blank] sterotype?  Are we doing everything we can to bring more people into the geek fold?  May also include discussion on transgender and gender-fluid fans. 
 speakernosp,"WendyCarson,HannahDavis,JohnBelden"
 starttime,10:00
 roomnosp,Hamlin
