@@ -2496,7 +2496,7 @@ Location,EMC IV
 duration,50 minutes
 description,"Join your Firearms and the Law panelists for a discussion of all things firearms related:  law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc."
 index,54
-speakers,Richard Houser
+speakers,"Richard Houser, Rob Reed"
 bookdescrip,"Join your Firearms and the Law panelists for a discussion of all things firearms related:  law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc."
 Track,Action Adventure
 startday,4/29/2016
@@ -2508,14 +2508,14 @@ End Time,20:50
 tracknosp,['ActionAdventure']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC IV', 'Action Adventure', 'Firearms and Law', 'Richard Houser', 'Join your\xc2\xa0Firearms\xc2\xa0and the\xc2\xa0Law\xc2\xa0panelists for a discussion of all things\xc2\xa0firearms related: \xc2\xa0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'EMC IV', 'Action Adventure', 'Firearms and Law', 'Richard Houser, Rob Reed', 'Join your\xc2\xa0Firearms\xc2\xa0and the\xc2\xa0Law\xc2\xa0panelists for a discussion of all things\xc2\xa0firearms related: \xc2\xa0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Richard Houser
+calspeakers,"Richard Houser, Rob Reed"
 avneeds,none
-speakerlist,['Richard Houser']
+speakerlist,"['Richard Houser', 'Rob Reed']"
 hours,0
 totalminutes,50
-speakernosplist,['RichardHouser']
+speakernosplist,"['RichardHouser', 'RobReed']"
 caldescrip,"Join your Firearms and the Law panelists for a discussion of all things firearms related:  law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc."
 endtime,20:50
 AV Needs,
@@ -2524,9 +2524,9 @@ Private,PUBLIC
 bookname,Firearms and Law
 venue,EMC IV
 Book Description,"Join your Firearms and the Law panelists for a discussion of all things firearms related:  law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc."
-Presenters,Richard Houser
+Presenters,"Richard Houser, Rob Reed"
 csvsafedescrip,Join your Firearms and the Law panelists for a discussion of all things firearms related:  law- training practices- depictions in media- gun control- background checks- holster preferences- favorite ammo- reloading- etc.
-speakernosp,RichardHouser
+speakernosp,"RichardHouser,RobReed"
 starttime,20:00
 roomnosp,EMCIV
 Start Date,4/29/2016

@@ -3901,7 +3901,7 @@
         "duration": "50 minutes",
         "description": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "index": 54,
-        "speakers": "Richard Houser",
+        "speakers": "Richard Houser, Rob Reed",
         "bookdescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "Track": "Action Adventure",
         "startday": "4/29/2016",
@@ -3923,7 +3923,7 @@
             "EMC IV",
             "Action Adventure",
             "Firearms and Law",
-            "Richard Houser",
+            "Richard Houser, Rob Reed",
             "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
             "00hr:50min",
             "",
@@ -3931,15 +3931,17 @@
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
-        "calspeakers": "Richard Houser",
+        "calspeakers": "Richard Houser, Rob Reed",
         "avneeds": "none",
         "speakerlist": [
-            "Richard Houser"
+            "Richard Houser",
+            "Rob Reed"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
-            "RichardHouser"
+            "RichardHouser",
+            "RobReed"
         ],
         "caldescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "endtime": "20:50",
@@ -3949,9 +3951,9 @@
         "bookname": "Firearms and Law",
         "venue": "EMC IV",
         "Book Description": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
-        "Presenters": "Richard Houser",
+        "Presenters": "Richard Houser, Rob Reed",
         "csvsafedescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law- training practices- depictions in media- gun control- background checks- holster preferences- favorite ammo- reloading- etc.",
-        "speakernosp": "RichardHouser",
+        "speakernosp": "RichardHouser,RobReed",
         "starttime": "20:00",
         "roomnosp": "EMCIV",
         "Start Date": "4/29/2016",
