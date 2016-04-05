@@ -1743,7 +1743,7 @@
         "duration": "50 minutes",
         "description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "index": 24,
-        "speakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro",
+        "speakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
         "bookdescrip": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "Track": "Literature",
         "startday": "4/29/2016",
@@ -1765,7 +1765,7 @@
             "Hamlin",
             "Literature",
             "Social Media for Writers",
-            "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro",
+            "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
             "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
             "00hr:50min",
             "",
@@ -1773,14 +1773,15 @@
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
-        "calspeakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro",
+        "calspeakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
         "avneeds": "none",
         "speakerlist": [
             "David Erik Nelson",
             "Michael W. Lucas",
             "Christopher Purrett",
             "Alex Kourvo",
-            "Mark Oshiro"
+            "Mark Oshiro",
+            "Mary Lynne Gibbs"
         ],
         "hours": 0,
         "totalminutes": 50,
@@ -1789,7 +1790,8 @@
             "MichaelW.Lucas",
             "ChristopherPurrett",
             "AlexKourvo",
-            "MarkOshiro"
+            "MarkOshiro",
+            "MaryLynneGibbs"
         ],
         "caldescrip": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
         "endtime": "18:50",
@@ -1799,9 +1801,9 @@
         "bookname": "Social Media for Writers",
         "venue": "Hamlin",
         "Book Description": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
-        "Presenters": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro",
+        "Presenters": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
         "csvsafedescrip": "What social media trends does a writer building their web footprint need to understand? What are some Dos and Don'ts?",
-        "speakernosp": "DavidErikNelson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo,MarkOshiro",
+        "speakernosp": "DavidErikNelson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo,MarkOshiro,MaryLynneGibbs",
         "starttime": "18:00",
         "roomnosp": "Hamlin",
         "Start Date": "4/29/2016",
