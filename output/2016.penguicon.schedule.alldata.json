@@ -3899,7 +3899,7 @@
         "duration": "50 minutes",
         "description": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "index": 54,
-        "speakers": "Richard Houser, Rob Reed",
+        "speakers": "Richard Houser, Rob Reed, Stuart Chisholm",
         "bookdescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "Track": "Action Adventure",
         "startday": "4/29/2016",
@@ -3921,7 +3921,7 @@
             "EMC IV",
             "Action Adventure",
             "Firearms and Law",
-            "Richard Houser, Rob Reed",
+            "Richard Houser, Rob Reed, Stuart Chisholm",
             "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
             "00hr:50min",
             "",
@@ -3929,17 +3929,19 @@
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
-        "calspeakers": "Richard Houser, Rob Reed",
+        "calspeakers": "Richard Houser, Rob Reed, Stuart Chisholm",
         "avneeds": "none",
         "speakerlist": [
             "Richard Houser",
-            "Rob Reed"
+            "Rob Reed",
+            "Stuart Chisholm"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "RichardHouser",
-            "RobReed"
+            "RobReed",
+            "StuartChisholm"
         ],
         "caldescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
         "endtime": "20:50",
@@ -3949,9 +3951,9 @@
         "bookname": "Firearms and Law",
         "venue": "EMC IV",
         "Book Description": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law, training practices, depictions in media, gun control, background checks, holster preferences, favorite ammo, reloading, etc.",
-        "Presenters": "Richard Houser, Rob Reed",
+        "Presenters": "Richard Houser, Rob Reed, Stuart Chisholm",
         "csvsafedescrip": "Join your\u00a0Firearms\u00a0and the\u00a0Law\u00a0panelists for a discussion of all things\u00a0firearms related: \u00a0law- training practices- depictions in media- gun control- background checks- holster preferences- favorite ammo- reloading- etc.",
-        "speakernosp": "RichardHouser,RobReed",
+        "speakernosp": "RichardHouser,RobReed,StuartChisholm",
         "starttime": "20:00",
         "roomnosp": "EMCIV",
         "Start Date": "4/29/2016",
@@ -20503,7 +20505,7 @@
         "duration": "50 minutes",
         "description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "index": 285,
-        "speakers": "",
+        "speakers": "DJ Stu",
         "bookdescrip": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "Track": "Penguicon",
         "startday": "4/30/2016",
@@ -20525,7 +20527,7 @@
             "Algonquin B/C",
             "Penguicon",
             "Geek Prom",
-            "",
+            "DJ Stu\n",
             "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
             "03hr:50min",
             "",
@@ -20533,15 +20535,15 @@
             "PUBLIC"
         ],
         "End Date": "5/1/2016",
-        "calspeakers": "",
+        "calspeakers": "DJ Stu",
         "avneeds": "none",
         "speakerlist": [
-            ""
+            "DJ Stu"
         ],
         "hours": -717,
         "totalminutes": -42970,
         "speakernosplist": [
-            ""
+            "DJStu"
         ],
         "caldescrip": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "endtime": "0:50",
@@ -20551,9 +20553,9 @@
         "bookname": "Geek Prom",
         "venue": "Algonquin B/C",
         "Book Description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
-        "Presenters": "",
+        "Presenters": "DJ Stu ",
         "csvsafedescrip": "It's time for another EPIC Geek Prom- and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman- and get ready to dance the night away until your legs are Thor.",
-        "speakernosp": "",
+        "speakernosp": "DJStu",
         "starttime": "21:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "4/30/2016",
