@@ -20505,7 +20505,7 @@
         "duration": "50 minutes",
         "description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "index": 285,
-        "speakers": "DJ Stu",
+        "speakers": "DJ Stu, Stuart Chisholm",
         "bookdescrip": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "Track": "Penguicon",
         "startday": "4/30/2016",
@@ -20527,7 +20527,7 @@
             "Algonquin B/C",
             "Penguicon",
             "Geek Prom",
-            "DJ Stu\n",
+            "DJ Stu, Stuart Chisholm",
             "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
             "03hr:50min",
             "",
@@ -20535,15 +20535,17 @@
             "PUBLIC"
         ],
         "End Date": "5/1/2016",
-        "calspeakers": "DJ Stu",
+        "calspeakers": "DJ Stu, Stuart Chisholm",
         "avneeds": "none",
         "speakerlist": [
-            "DJ Stu"
+            "DJ Stu",
+            "Stuart Chisholm"
         ],
         "hours": -717,
         "totalminutes": -42970,
         "speakernosplist": [
-            "DJStu"
+            "DJStu",
+            "StuartChisholm"
         ],
         "caldescrip": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
         "endtime": "0:50",
@@ -20553,9 +20555,9 @@
         "bookname": "Geek Prom",
         "venue": "Algonquin B/C",
         "Book Description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
-        "Presenters": "DJ Stu ",
+        "Presenters": "DJ Stu, Stuart Chisholm",
         "csvsafedescrip": "It's time for another EPIC Geek Prom- and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman- and get ready to dance the night away until your legs are Thor.",
-        "speakernosp": "DJStu",
+        "speakernosp": "DJStu,StuartChisholm",
         "starttime": "21:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "4/30/2016",
