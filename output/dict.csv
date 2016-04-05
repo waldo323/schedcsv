@@ -10230,7 +10230,7 @@ Location,EMC I
 duration,50 minutes
 description,"Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."
 index,222
-speakers,"Wendy Carson, Mitchell Bowling"
+speakers,"Wendy Carson, Mitchell Bowling, Hannah Davis"
 bookdescrip,"Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."
 Track,Life
 startday,4/30/2016
@@ -10242,14 +10242,14 @@ End Time,16:50
 tracknosp,['Life']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'EMC I', 'Life', 'Party Planning', 'Wendy Carson, Mitchell Bowling', ""Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'EMC I', 'Life', 'Party Planning', 'Wendy Carson, Mitchell Bowling, Hannah Davis', ""Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Wendy Carson, Mitchell Bowling"
+calspeakers,"Wendy Carson, Mitchell Bowling, Hannah Davis"
 avneeds,none
-speakerlist,"['Wendy Carson', 'Mitchell Bowling']"
+speakerlist,"['Wendy Carson', 'Mitchell Bowling', 'Hannah Davis']"
 hours,0
 totalminutes,50
-speakernosplist,"['WendyCarson', 'MitchellBowling']"
+speakernosplist,"['WendyCarson', 'MitchellBowling', 'HannahDavis']"
 caldescrip,"Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."
 endtime,16:50
 AV Needs,
@@ -10258,9 +10258,9 @@ Private,PUBLIC
 bookname,Party Planning
 venue,EMC I
 Book Description,"Whether it's a formal dinner or gaming night, how to prepare for, run, and still enjoy your get-together."
-Presenters,"Wendy Carson, Mitchell Bowling"
+Presenters,"Wendy Carson, Mitchell Bowling, Hannah Davis"
 csvsafedescrip,Whether it's a formal dinner or gaming night- how to prepare for- run- and still enjoy your get-together.
-speakernosp,"WendyCarson,MitchellBowling"
+speakernosp,"WendyCarson,MitchellBowling,HannahDavis"
 starttime,16:00
 roomnosp,EMCI
 Start Date,4/30/2016
