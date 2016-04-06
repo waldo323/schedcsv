@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-
-{% for event in events%}
-{% if firstday %}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% for event in events%}{% if firstday %}
 <day>{{ day_header }}</day>
 {% endif %}
 {% if day_header == day %}
