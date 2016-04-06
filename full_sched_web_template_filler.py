@@ -1,8 +1,11 @@
 import jinja2
 import csv
 import logging
+"""#import consettings"""
+logging.basicConfig(level=logging.WARN)
 
-logging.basicConfig(level=logging.DEBUG)
+conyear = "2016"
+rp = "./output/"
 
 trackinfo = [
     {"ACTION ADVENTURE": 'Action Adventure focuses on "how tos" like demonstrations and workshops on martial arts skills, weaponry, archery, as well as the popular Geeks with Guns event.'},
@@ -40,8 +43,8 @@ tracklist = [
   ]
 
 with open('sched.csv', 'rb') as infile:
-  reader = csv.reader(infile)
-  build = list(reader)
+    reader = csv.reader(infile)
+    build = list(reader)
 
 trackdict = {}
 
@@ -51,12 +54,13 @@ for line in build:
     atrac = line[5].split(',')[0]
     for currenttrac in trackinfo:
         if currenttrac.keys()[0][0:3] == atrac[0:3].upper():
-            logging.debug("track: %s",atrac[0:3].upper())
+            logging.debug("track: %s", atrac[0:3].upper())
             logging.debug("current track: %s", currenttrac.keys()[0])
             logging.debug("line[6] %s", line[6])
-            trackcontent = [line[6].decode('unicode_escape').encode('ascii','ignore'),line[8].decode('unicode_escape').encode('ascii','ignore')]
+            trackcontent = [line[6].decode('unicode_escape').encode('ascii', 'ignore'),
+                            line[8].decode('unicode_escape').encode('ascii', 'ignore')]
             if currenttrac.keys()[0] not in trackdict.keys():
-                trackdict[currenttrac.keys()[0]] = [ trackcontent ]
+                trackdict[currenttrac.keys()[0]] = [trackcontent]
             else:
                 if trackcontent not in trackdict[currenttrac.keys()[0]]:
                     trackdict[currenttrac.keys()[0]].append(trackcontent)
@@ -69,6 +73,9 @@ logging.debug("track dictionary: %s", trackdict)
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 template = env.get_template('programmingtemplate.html')
 
-test =  template.render(data=trackdict,trackdata=trackinfo)
+test = template.render(data=trackdict, trackdata=trackinfo)
+
+with open(rp + conyear + ".full_current_data_for_website.html",'w') as myoutput:
+    myoutput.write(test)
 
 print test
