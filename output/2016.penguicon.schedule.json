@@ -862,20 +862,6 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
-        "end_date": "4/30/2016",
-        "title": "Sirius: The Open Source Intelligent Personal Assistant",
-        "track": "Tech",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Mars"
-        ],
-        "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
-    },
-    {
         "book_description": "Derwood Bowen is a multi-genre comedy artist from the suburbs of Columbus, OH, and his live show comes with fun songs, lots of props, occasional attire changes, and audience involvement. If you're in need of a good laugh, this is the place to go for it!",
         "end_date": "4/29/2016",
         "title": "Music Parody Performance: Derwood Bowen",
@@ -1102,20 +1088,6 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "21:50"
-    },
-    {
-        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
-        "end_date": "4/30/2016",
-        "title": "Easy and Cheap: Healthy Meatless Meals",
-        "track": "Food",
-        "start_time": "17:00",
-        "presenters": [
-            "Amy Alice Wright"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
     },
     {
         "book_description": "Handcuffs - Riding crops - Whips - Chains. Does some of this excite you? Curious about BDSM? Then come join us for a short introductory class where you'll learn about different, simple types of play to get you started. Easy things to try tonight! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
@@ -3589,6 +3561,20 @@
         "end_time": "17:50"
     },
     {
+        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
+        "end_date": "4/30/2016",
+        "title": "Easy and Cheap: Healthy Meatless Meals",
+        "track": "Food",
+        "start_time": "17:00",
+        "presenters": [
+            "Amy Alice Wright"
+        ],
+        "location": "1017",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
         "book_description": "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
         "end_date": "4/30/2016",
         "title": "Quantum",
@@ -4059,6 +4045,20 @@
             "Jason Sonk"
         ],
         "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
+        "end_date": "4/30/2016",
+        "title": "Sirius: The Open Source Intelligent Personal Assistant",
+        "track": "Tech",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Mars"
+        ],
+        "location": "Nicolet",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "19:50"
