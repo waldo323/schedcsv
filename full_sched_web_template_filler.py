@@ -1,5 +1,8 @@
 import jinja2
 import csv
+import logging
+
+logging.basicConfig(level=logging.DEBUG)
 
 trackinfo = [
 {"ACTION ADVENTURE": 'Action Adventure focuses on "how tos" like demonstrations and workshops on martial arts skills, weaponry, archery, as well as the popular Geeks with Guns event.'},
@@ -45,7 +48,8 @@ with open('sched.csv', 'rb') as infile:
 
 
 trackdict = {}
-#print build
+
+logging.debug("schedule in list form: \n%s", build)
 
 #print(s.decode('unicode_escape').encode('ascii','ignore'))
 #[0:3].upper()
