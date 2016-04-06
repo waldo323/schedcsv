@@ -75,7 +75,7 @@ template = env.get_template('programmingtemplate.html')
 
 test = template.render(data=trackdict, trackdata=trackinfo)
 
-with open(rp + conyear + ".full_current_data_for_website.html",'w') as myoutput:
+with open(rp + conyear + ".full_current_data_for_website.html", 'w') as myoutput:
     myoutput.write(test)
 
 print test
