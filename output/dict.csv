@@ -18412,3 +18412,49 @@ starttime,16:00
 roomnosp,ComputerLabEMCIII
 Start Date,5/1/2016
 minutes,50
+allday,FALSE
+event_type,
+All Day Event,
+event_end,16:42
+event_type_list,['']
+private,DEFAULT
+endtimeampm,4 PM
+Location,
+duration,42 minutes
+description,"Don't touch the sides! Come play Lansing Maker Network's MegOperation,  an eye-catching, interactive, large-scale version of of the classic game Operation."
+index,400
+speakers,
+bookdescrip,"Don't touch the sides! Come play Lansing Maker Network's MegOperation,  an eye-catching, interactive, large-scale version of of the classic game Operation."
+Track,
+startday,4/1/2016
+Title,MegOperation
+Start Time,16:20
+event_start,16:20
+starttimeampm,4 PM
+End Time,16:42
+tracknosp,['']
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '', '', '', '', '', 'MegOperation', '', ""Don't touch the sides! Come play Lansing Maker Network's MegOperation,  an eye-catching, interactive, large-scale version of of the classic game Operation. "", '', '', '', '']"
+End Date,
+calspeakers,
+avneeds,none
+speakerlist,['']
+hours,0
+totalminutes,42
+speakernosplist,['']
+caldescrip,"Don't touch the sides! Come play Lansing Maker Network's MegOperation,  an eye-catching, interactive, large-scale version of of the classic game Operation. "
+endtime,16:42
+AV Needs,
+name,MegOperation
+Private,
+bookname,MegOperation
+venue,
+Book Description,"Don't touch the sides! Come play Lansing Maker Network's MegOperation, an eye-catching, interactive, large-scale version of of the classic game Operation. "
+Presenters,
+csvsafedescrip,Don't touch the sides! Come play Lansing Maker Network's MegOperation-  an eye-catching- interactive- large-scale version of of the classic game Operation. 
+speakernosp,
+starttime,16:20
+roomnosp,Hotel
+Start Date,
+minutes,42
