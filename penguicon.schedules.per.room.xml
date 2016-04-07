@@ -4,14 +4,15 @@
 <title>Walk the Solar System</title>
 <topic>Science</topic>
 <time>12 PM</time></event><event>
+<day>NoDay, April 1</day>
+<title></title>
+<topic></topic>
+<time>4 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
 <time>8 PM</time></event><event>
-<title>Easy and Cheap: Healthy Meatless Meals</title>
-<topic>Food</topic>
-<time>9 PM</time></event><event>
 <title>Midwest Mash: Whiskies of the Great Lakes</title>
 <topic>Food</topic>
 <time>10 PM</time></event><event>
@@ -34,6 +35,9 @@
 <title>Tastes that Taste Great Together</title>
 <topic>Food</topic>
 <time>4 PM</time></event><event>
+<title>Easy and Cheap: Healthy Meatless Meals</title>
+<topic>Food</topic>
+<time>5 PM</time></event><event>
 <title>Pirate Rum History Tastings</title>
 <topic>Food</topic>
 <time>8 PM</time></event><event>
@@ -680,12 +684,9 @@
 <time>1 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Basic Sewing: Make a pillow</title>
+<title>Sewing: Make a pillow</title>
 <topic>DIY</topic>
 <time>6 PM</time></event><event>
-<title>Frankenstuffies</title>
-<topic>DIY</topic>
-<time>7 PM</time></event><event>
 <title>My Little Pony: Friendship Is Magic</title>
 <topic>Anime</topic>
 <time>8 PM</time></event><event>
@@ -699,6 +700,9 @@
 <title>Knitting 101</title>
 <topic>DIY</topic>
 <time>11 AM</time></event><event>
+<title>Frankenstuffies</title>
+<topic>DIY</topic>
+<time>12 PM</time></event><event>
 <title>Penguicon Board Meeting</title>
 <topic>Penguicon</topic>
 <time>1 PM</time></event><event>
@@ -797,9 +801,6 @@
 <title>Space Alert</title>
 <topic>Gaming</topic>
 <time>6 PM</time></event><event>
-<title>Ticket to Ride</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Android: Netrunner Card Game</title>
 <topic>Gaming</topic>
@@ -842,9 +843,6 @@
 <title>Abyss</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<title>Kingsburg</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
 <title>Ticket to Ride</title>
 <topic>Gaming</topic>
 <time>3 PM</time></event><event>
@@ -927,12 +925,12 @@
 <topic>Gaming, DIY</topic>
 <time>1 PM</time></event><event>
 <room>HackerSpace (317)</room>
-<title>Dangeous Things</title>
-<topic>Tech, Life, DIY</topic>
-<time>7 PM</time></event><event>
 <day>FRIDAY, APRIL 29</day>
 <title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
+<time>7 PM</time></event><event>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
 <time>7 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1078,17 +1076,21 @@
 <title>Where in the World?</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
+<day>FRIDAY, APRIL 29</day>
+<title>Are You A Werewolf</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
 <day>SATURDAY, APRIL 30</day>
 <title>One Night Werewolf</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
-<title>Are You A Werewolf</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>Hakosot</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
+<title>MegOperation</title>
+<topic>Gaming</topic>
+<time>4 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So This Is Your First Penguicon</title>
@@ -1137,9 +1139,6 @@
 <title>Python Code Walk-Through</title>
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
-<title>Fire Play and Massage</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <day>SUNDAY, May 1</day>
 <title>Is It Necessary to Unplug to Unwind?</title>
 <topic>Life</topic>
@@ -1168,11 +1167,6 @@
 <title>Intro to Comics</title>
 <topic>Comics</topic>
 <time>7 PM</time></event><event>
-<day>SATURDAY, APRIL 30</day>
-<title>Sirius: The Open Source Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<time>7 PM</time></event><event>
-<day>FRIDAY, APRIL 29</day>
 <title>DemonLobster.com presents: Sanity Claws Radio Live</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
@@ -1198,6 +1192,9 @@
 <title>Surviving a Nuclear Holocaust</title>
 <topic>Life, Action Adventure</topic>
 <time>5 PM</time></event><event>
+<title>Sirius: The Open Source Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <title>Sinclair ZX Computers</title>
 <topic>Tech</topic>
 <time>8 PM</time></event><event>

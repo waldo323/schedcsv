@@ -4,16 +4,16 @@
 <title>Walk the Solar System</title>
 <topic>Science</topic>
 <time>12 PM</time></event><event>
+<room></room>
+<day>NoDay, April 1</day>
+<title></title>
+<topic></topic>
+<time>4 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
 <time>8 PM</time></event><event>
-<room>1017</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Easy and Cheap: Healthy Meatless Meals</title>
-<topic>Food</topic>
-<time>9 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Midwest Mash: Whiskies of the Great Lakes</title>
@@ -49,6 +49,11 @@
 <title>Tastes that Taste Great Together</title>
 <topic>Food</topic>
 <time>4 PM</time></event><event>
+<room>1017</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Easy and Cheap: Healthy Meatless Meals</title>
+<topic>Food</topic>
+<time>5 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Pirate Rum History Tastings</title>
@@ -1038,14 +1043,9 @@
 <time>1 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Basic Sewing: Make a pillow</title>
+<title>Sewing: Make a pillow</title>
 <topic>DIY</topic>
 <time>6 PM</time></event><event>
-<room>EMC V</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Frankenstuffies</title>
-<topic>DIY</topic>
-<time>7 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
 <title>My Little Pony: Friendship Is Magic</title>
@@ -1066,6 +1066,11 @@
 <title>Knitting 101</title>
 <topic>DIY</topic>
 <time>11 AM</time></event><event>
+<room>EMC V</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Frankenstuffies</title>
+<topic>DIY</topic>
+<time>12 PM</time></event><event>
 <room>EMC V</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Penguicon Board Meeting</title>
@@ -1202,11 +1207,6 @@
 <topic>Gaming</topic>
 <time>6 PM</time></event><event>
 <room>Game Table C</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Ticket to Ride</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Game Table C</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Android: Netrunner Card Game</title>
 <topic>Gaming</topic>
@@ -1261,11 +1261,6 @@
 <title>Abyss</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Kingsburg</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
 <room>Game Table E</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Ticket to Ride</title>
@@ -1382,13 +1377,13 @@
 <topic>Gaming, DIY</topic>
 <time>1 PM</time></event><event>
 <room>HackerSpace (317)</room>
-<title>Dangeous Things</title>
-<topic>Tech, Life, DIY</topic>
-<time>7 PM</time></event><event>
-<room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
+<time>7 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
 <time>7 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1608,20 +1603,24 @@
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Are You A Werewolf</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
+<room>Lobby</room>
 <day>SATURDAY, APRIL 30</day>
 <title>One Night Werewolf</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
 <room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Are You A Werewolf</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
-<room>Lobby</room>
 <day>SUNDAY, May 1</day>
 <title>Hakosot</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
+<room>Lobby</room>
+<title>MegOperation</title>
+<topic>Gaming</topic>
+<time>4 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So This Is Your First Penguicon</title>
@@ -1698,11 +1697,6 @@
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
 <room>Montcalm</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Fire Play and Massage</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
-<room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>Is It Necessary to Unplug to Unwind?</title>
 <topic>Life</topic>
@@ -1740,11 +1734,6 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Intro to Comics</title>
 <topic>Comics</topic>
-<time>7 PM</time></event><event>
-<room>Nicolet</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Sirius: The Open Source Intelligent Personal Assistant</title>
-<topic>Tech</topic>
 <time>7 PM</time></event><event>
 <room>Nicolet</room>
 <day>FRIDAY, APRIL 29</day>
@@ -1786,6 +1775,11 @@
 <title>Surviving a Nuclear Holocaust</title>
 <topic>Life, Action Adventure</topic>
 <time>5 PM</time></event><event>
+<room>Nicolet</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Sirius: The Open Source Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Sinclair ZX Computers</title>

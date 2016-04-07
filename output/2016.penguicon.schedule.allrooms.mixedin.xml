@@ -49,26 +49,16 @@
 <title>Paint and Take</title>
 <topic>Gaming, DIY</topic>
 <time>4 PM</time></event><event>
-<room>321</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Artemis</title>
-<topic>Penguicon</topic>
-<time>5 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Dangeous Things</title>
-<topic>Tech, Life, DIY</topic>
-<time>7 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 29</day>
 <title>I know Kung Fu</title>
 <topic>Action Adventure</topic>
 <time>4 PM</time></event><event>
-<room>Consuite</room>
+<room>321</room>
 <day>FRIDAY, APRIL 29</day>
-<title>LN2 Welcome Back Ice Cream</title>
-<topic>Food</topic>
-<time>9 PM</time></event><event>
+<title>Artemis</title>
+<topic>Penguicon</topic>
+<time>5 PM</time></event><event>
 <room>Charlevoix C</room>
 <day>FRIDAY, APRIL 29</day>
 <title>SAR Lessons</title>
@@ -126,7 +116,7 @@
 <time>6 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Basic Sewing: Make a pillow</title>
+<title>Sewing: Make a pillow</title>
 <topic>DIY</topic>
 <time>6 PM</time></event><event>
 <room>Hamlin</room>
@@ -189,11 +179,6 @@
 <title>Social Skills in a Digital Age</title>
 <topic>Life</topic>
 <time>7 PM</time></event><event>
-<room>EMC V</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Frankenstuffies</title>
-<topic>DIY</topic>
-<time>7 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
@@ -238,6 +223,11 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Spyfall</title>
 <topic>Gaming</topic>
+<time>7 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
 <time>7 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, APRIL 29</day>
@@ -299,11 +289,6 @@
 <title>Set-up and Run Your Own Intelligent Personal Assistant</title>
 <topic>Tech</topic>
 <time>8 PM</time></event><event>
-<room>Nicolet</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Sirius: The Open Source Intelligent Personal Assistant</title>
-<topic>Tech</topic>
-<time>7 PM</time></event><event>
 <room>Portage</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Music Parody Performance: Derwood Bowen</title>
@@ -317,11 +302,6 @@
 <room>Game Table A, Game Table B</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Rathbone Vs Everybody</title>
-<topic>Gaming</topic>
-<time>8 PM</time></event><event>
-<room>Game Table C</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Ticket to Ride</title>
 <topic>Gaming</topic>
 <time>8 PM</time></event><event>
 <room>Game Table D</room>
@@ -389,11 +369,6 @@
 <title>Anatomy of a Sewing Machine</title>
 <topic>DIY</topic>
 <time>9 PM</time></event><event>
-<room>1017</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Easy and Cheap: Healthy Meatless Meals</title>
-<topic>Food</topic>
-<time>9 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 29</day>
 <title>BDSM: An Introduction to Kink</title>
@@ -418,6 +393,11 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Pack 'O Game</title>
 <topic>Gaming</topic>
+<time>9 PM</time></event><event>
+<room>Consuite</room>
+<day>FRIDAY, APRIL 29</day>
+<title>LN2 Welcome Back Ice Cream</title>
+<topic>Food</topic>
 <time>9 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 29</day>
@@ -472,6 +452,11 @@
 <room>Game Table G</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Zombicide: Black Plague</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Are You A Werewolf</title>
 <topic>Gaming</topic>
 <time>10 PM</time></event><event>
 <room>Charlevoix B</room>
@@ -784,6 +769,11 @@
 <title>Abyss</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
+<room>EMC V</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Frankenstuffies</title>
+<topic>DIY</topic>
+<time>12 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Ki Qigong</title>
@@ -877,11 +867,6 @@
 <room>Game Table C</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Android: Netrunner Card Game</title>
-<topic>Gaming</topic>
-<time>1 PM</time></event><event>
-<room>Game Table E</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Kingsburg</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
 <room>Game Table G</room>
@@ -1214,6 +1199,11 @@
 <title>Hey! That's My Fish!</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
+<room>1017</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Easy and Cheap: Healthy Meatless Meals</title>
+<topic>Food</topic>
+<time>5 PM</time></event><event>
 <room>Game Table D</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Quantum</title>
@@ -1374,6 +1364,11 @@
 <title>Salem/Deception: Murder in Hong Kong</title>
 <topic>Gaming</topic>
 <time>7 PM</time></event><event>
+<room>Nicolet</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Sirius: The Open Source Intelligent Personal Assistant</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <room>Algonquin D</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Literary Filk</title>
@@ -1529,21 +1524,16 @@
 <title>Polyamory and Kink</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<room>Montcalm</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Fire Play and Massage</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Mark Reads After Dark</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Are You A Werewolf</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
+<room></room>
+<day>NoDay, April 1</day>
+<title></title>
+<topic></topic>
+<time>4 PM</time></event><event>
 <room>Consuite</room>
 <day>SATURDAY, APRIL 30</day>
 <title>LN2 After Hours II Ice Cream</title>
@@ -1554,6 +1544,11 @@
 <title>Hakosot</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
+<room>Podcast Suite</room>
+<day>SUNDAY, May 1</day>
+<title>Sunday Morning Linux Review Live  Broadcast</title>
+<topic>Tech</topic>
+<time>8 AM</time></event><event>
 <room>Algonquin A</room>
 <day>SUNDAY, May 1</day>
 <title>Engineer's Guide to Self Defense</title>
@@ -1859,11 +1854,6 @@
 <title>E-Nable Update</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<room>Podcast Suite</room>
-<day>SUNDAY, May 1</day>
-<title>Sunday Morning Linux Review Live  Broadcast</title>
-<topic>Tech</topic>
-<time>8 AM</time></event><event>
 <room>Portage</room>
 <day>SUNDAY, May 1</day>
 <title>Video Shorts</title>
@@ -2008,4 +1998,9 @@
 <day>SUNDAY, May 1</day>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
+<time>4 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, APRIL 29</day>
+<title>MegOperation</title>
+<topic>Gaming</topic>
 <time>4 PM</time></event></events>
