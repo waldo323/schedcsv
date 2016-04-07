@@ -1,6 +1,7 @@
-DateTime Start ({{startdate}}4/7/2016 {{starttime}}23:00) -- if this is too hard, I'll need a DateStart, TimeStart
-DateTime End ({{enddate}}4/8/2016 {{endtime}}01:00) -- if this is too hard, I'll need a DateEnd, TimeEnd
-Room ({{location}}Charlevoix A)
-Presenters ({{presenters}}Nuri Gocay, James Hice, Scott Kennedy)
-Title ({{title}})
-Description ({{description}}Blah blah blah, free text, and more!)
+{% for event in events %}DateTime Start ({{event['startday']}} {{event['starttime']}})
+DateTime End ({{event['endday']}} {{event['endtime']}})
+Room ({{event['venue']}})
+Presenters ({{event['speakers']}})
+Title ({{event['name']}})
+Description ({{event['description']}})
+{% endfor %}
