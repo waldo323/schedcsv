@@ -1,5 +1,6 @@
-import jinja2
+import AsciiDammit
 import csv
+import jinja2
 import logging
 """#import consettings"""
 logging.basicConfig(level=logging.WARN)
@@ -57,8 +58,8 @@ for line in build:
             logging.debug("track: %s", atrac[0:3].upper())
             logging.debug("current track: %s", currenttrac.keys()[0])
             logging.debug("line[6] %s", line[6])
-            trackcontent = [line[6].decode('unicode_escape').encode('ascii', 'ignore'),
-                            line[8].decode('unicode_escape').encode('ascii', 'ignore')]
+            trackcontent = [AsciiDammit.asciiDammit(line[6]), #.decode('unicode_escape').encode('ascii', 'ignore'),
+                            AsciiDammit.asciiDammit(line[8])]#.decode('unicode_escape').encode('ascii', 'ignore')]
             if currenttrac.keys()[0] not in trackdict.keys():
                 trackdict[currenttrac.keys()[0]] = [trackcontent]
             else:
