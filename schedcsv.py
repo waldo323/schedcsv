@@ -265,7 +265,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Book Description"): 
                     session['description'] = \
                         re.sub(r', , ',', ', re.sub(r',,',', ', re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
-                    session['descriptionascii']
+                    session['descriptionascii'] = session['description'] 
         if  (field == "Location"):
             session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
             temproom = re.sub(r'\s','', fieldtext)
