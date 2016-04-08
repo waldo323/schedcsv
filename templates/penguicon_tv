@@ -1,5 +1,4 @@
-{% for event in events %}
-DateTime Start ({{event['startday']}} {{event['starttime']}})
+{% for event in events %}DateTime Start ({{event['startday']}} {{event['starttime']}})
 DateTime End ({{event['endday']}} {{event['endtime']}})
 Room ({{event['venue']}})
 Presenters ({{event['speakers']}})
