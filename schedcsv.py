@@ -7,6 +7,7 @@ import sys
 import re
 import logging
 from operator import itemgetter
+import AsciiDammit
 
 logging.basicConfig(level=logging.WARN)
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
@@ -209,7 +210,7 @@ for index, x in enumerate(pconsched.schedule):
     # for each field grab the data and put it in the session dictionary
     for field in fields:
         # bring the field info into a variable to help keep the code clean
-        fieldtext = pconsched.schedule[index][pconsched.headerdict[field]]
+        fieldtext = AsciiDammit.asciiDammit(pconsched.schedule[index][pconsched.headerdict[field]])
 
         # separate the time and day into different variables
         
@@ -622,13 +623,13 @@ myoutput.close()
 #    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
 
 
-#test = penguicon_tv.render(events=sessions)
+test = penguicon_tv.render(events=sessions)
 
 #for x in sessions:
 #    print x['bookname']
 
-#with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
-#    myoutput.write(test)
+with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
+    myoutput.write(test)
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')
