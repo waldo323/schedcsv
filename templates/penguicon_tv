@@ -3,5 +3,4 @@ DateTime End ({{event['endday']}} {{event['endtime']}})
 Room ({{event['venue']}})
 Presenters ({{event['speakers']}})
 Title ({{event['name']}})
-Description ({{event['description']}})
-{% endfor %}
+Description ({{event['description']}}){% endfor %}
