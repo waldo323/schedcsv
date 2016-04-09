@@ -75,6 +75,8 @@ sunday_date = "5/1/2016"
 conyear = "2016"
 constart = "2016-04-29 14:00:00"
 
+
+
 calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header = """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
 schedule_csv_template = """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
@@ -82,6 +84,8 @@ calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtim
 speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
 all_weekend_header = "ALL WEEKEND"
 
+daylist = [all_weekend_header, friday_header, saturday_header, sunday_header]
+starttimeampmset = set()
 # replace all function to help with the clean up
 def replace_all(text, dic):
     for i, j in dic.iteritems():
@@ -240,6 +244,7 @@ for index, x in enumerate(pconsched.schedule):
                 #print fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]   
                 session['starttimeampm'] = ampmformat(session['starttime']) 
+                starttimeampmset.add(session['starttimeampm'])
             else:   
                 session['starttime'] = "event_start"
                 session['event_start'] = "event_start"
@@ -415,7 +420,7 @@ for index, x in enumerate(pconsched.schedule):
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
 sessions.sort(key=itemgetter('index'))
-
+starttimelist = sorted(starttimeampmset)
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:

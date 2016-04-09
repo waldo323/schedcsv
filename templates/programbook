@@ -1,12 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% for event in events%}{% if firstday %}
-<day>{{ day_header }}</day>
-{% endif %}
-{% if day_header == day %}
-{% if firsttime  %}
-<time>{{y['starttimeampm']}}</time>
-{% endif %}<event><title>{{ bookname }}</title>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% for day in days %}
+<day>{{ day }}</day>{% for time in times %}
+<time>{{event['starttimeampm']}}</time>{% for event in events %}{% if event[day_header] == day and event[time] == time %}
+<event><title>{{ event[[eventbookname'] }}</title>
 <topic>{{ event_type }}</topic>{% if venue != '' %}
-<room>{{ venue }}</room>
-{% endif %}<blurb><participant>{{ speakers }}</participant> {{ bookdescrip }} {% if duration != "50 minutes" %}<duration>{{ duration }}</duration>{% endif %}</blurb></event>
-{% endif %}{% endfor %}
+<room>{{ event['venue'] }}</room>
+{% endif %}<blurb><participant>{{ event['speakers'] }}</participant> {{ event['bookdescrip'] }} {% if duration != "50 minutes" %}<duration>{{ event['duration'] }}</duration>{% endif %}</blurb></event>{% endif %}{% endif %}
 
+send in list of events, list of days, list of hours 
+
+
+
+for currentday in days
+    day_header
+    for currenthour in hours
+        starttime
+        for event in events 
+            if day == currentday and hour == currenthour
+                event
+            endif
+
+        endfor 
+    endfor #eachhour
+endfor #eachday
+
+possibly go through each room but this all seems like over kill for this and probably more processing should be done outside the template.
+logic should be reversed this is the expensive way of doing it... events then if statements inside rather than the other way around.
