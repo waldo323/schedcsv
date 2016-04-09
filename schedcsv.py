@@ -1,16 +1,21 @@
 #!/usr/bin/env python
 import os
 import csv
+import jinja2
 import json
 import sys
 import re
 import logging
 from operator import itemgetter
+import AsciiDammit
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.WARN)
+env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
+web_template = env.get_template('programmingtemplate.html')
+penguicon_tv = env.get_template('penguicon_tv')
 
-# the purpose of this script is to parse a csv file from a sched.org event,
-# output the relevent information into useful output files that can be use for
+# the purpose of this script is to parse a csv file of events,
+# output the relevant information into useful output files that can be use for
 # a convention.
 
 # is the file being listed in the command line?
@@ -205,7 +210,7 @@ for index, x in enumerate(pconsched.schedule):
     # for each field grab the data and put it in the session dictionary
     for field in fields:
         # bring the field info into a variable to help keep the code clean
-        fieldtext = pconsched.schedule[index][pconsched.headerdict[field]]
+        fieldtext = AsciiDammit.asciiDammit(pconsched.schedule[index][pconsched.headerdict[field]])
 
         # separate the time and day into different variables
         
@@ -261,6 +266,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "Book Description"): 
                     session['description'] = \
                         re.sub(r', , ',', ', re.sub(r',,',', ', re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
+                    session['descriptionascii'] = session['description'] 
         if  (field == "Location"):
             session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
             temproom = re.sub(r'\s','', fieldtext)
@@ -506,7 +512,7 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
                     #print speaker
                     with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
                         tempspeakersched.write(speaker_calendar_template % y)
-                tempspeakersched.close()
+
 
 fullschedule.close()
 
@@ -616,6 +622,14 @@ myoutput.close()
 #    writer.writerow([key, ', '.join(value)] )
 #    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
 
+
+test = penguicon_tv.render(events=sessions)
+
+#for x in sessions:
+#    print x['bookname']
+
+with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
+    myoutput.write(test)
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')
