@@ -13,6 +13,7 @@ logging.basicConfig(level=logging.WARN)
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 web_template = env.get_template('programmingtemplate.html')
 penguicon_tv = env.get_template('penguicon_tv')
+testbook_template = env.get_template('testprogrambook.xml')
 
 # the purpose of this script is to parse a csv file of events,
 # output the relevant information into useful output files that can be use for
@@ -629,12 +630,15 @@ myoutput.close()
 
 
 test = penguicon_tv.render(events=sessions)
-
+testbook = testbook_template.render(events=sessions)
 #for x in sessions:
 #    print x['bookname']
 
 with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
     myoutput.write(test)
+
+with open(rp + conyear + ".testingprogrambook.xml", 'w') as myoutput:
+    myoutput.write(testbook)
 
 # Fix the multiple entries of the current time issue  (thanks Matt)
 inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')

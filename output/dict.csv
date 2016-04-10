@@ -857,7 +857,7 @@ Location,Portage
 duration,50 minutes
 description,"Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These ""rules"" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?"
 index,18
-speakers,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias Buckell"
+speakers,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias S. Buckell"
 bookdescrip,"Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These ""rules"" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?"
 Track,Literature
 startday,4/29/2016
@@ -869,14 +869,14 @@ End Time,17:50
 tracknosp,['Literature']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '17:00', '4/29/2016', '17:50', 'Portage', 'Literature', ""Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply"", 'Ann Leckie, Michael K. Elliot, Steven Saus, Tobias Buckell', 'Many new authors have heard the rules: One POV per scene, don\'t use adverbs, Limit the POVs to no more than three per story. These ""rules"" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '17:00', '4/29/2016', '17:50', 'Portage', 'Literature', ""Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply"", 'Ann Leckie, Michael K. Elliot, Steven Saus, Tobias S. Buckell', 'Many new authors have heard the rules: One POV per scene, don\'t use adverbs, Limit the POVs to no more than three per story. These ""rules"" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias Buckell"
+calspeakers,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias S. Buckell"
 avneeds,none
-speakerlist,"['Ann Leckie', 'Michael K. Elliot', 'Steven Saus', 'Tobias Buckell']"
+speakerlist,"['Ann Leckie', 'Michael K. Elliot', 'Steven Saus', 'Tobias S. Buckell']"
 hours,0
 totalminutes,50
-speakernosplist,"['AnnLeckie', 'MichaelK.Elliot', 'StevenSaus', 'TobiasBuckell']"
+speakernosplist,"['AnnLeckie', 'MichaelK.Elliot', 'StevenSaus', 'TobiasS.Buckell']"
 caldescrip,"Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These 'rules' have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?"
 endtime,17:50
 AV Needs,
@@ -885,9 +885,9 @@ Private,PUBLIC
 bookname,"Editors, Publishers, and Readers-- What Rules to Break and Which Don't Apply"
 venue,Portage
 Book Description,"Many new authors have heard the rules: One POV per scene, don't use adverbs, Limit the POVs to no more than three per story. These ""rules"" have been taught for over a hundred years, but who came up with them and do they still apply to the modern reader?"
-Presenters,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias Buckell"
+Presenters,"Ann Leckie, Michael K. Elliot, Steven Saus, Tobias S. Buckell"
 csvsafedescrip,Many new authors have heard the rules: One POV per scene- don't use adverbs- Limit the POVs to no more than three per story. These 'rules' have been taught for over a hundred years- but who came up with them and do they still apply to the modern reader?
-speakernosp,"AnnLeckie,MichaelK.Elliot,StevenSaus,TobiasBuckell"
+speakernosp,"AnnLeckie,MichaelK.Elliot,StevenSaus,TobiasS.Buckell"
 starttime,17:00
 roomnosp,Portage
 Start Date,4/29/2016
@@ -6545,13 +6545,13 @@ private,PUBLIC
 endtimeampm,12 PM
 Location,Charlevoix A
 duration,50 minutes
-description,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+description,"The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."
 index,139
 speakers,"Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth ""Biz"" Nidjam"
-bookdescrip,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+bookdescrip,"The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."
 Track,Comics
 startday,4/30/2016
-Title,Women Making Comics in Detroit
+Title,Women And Comics in Detroit
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
@@ -6559,7 +6559,7 @@ End Time,12:50
 tracknosp,['Comics']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', 'Charlevoix A', 'Comics', 'Women Making Comics in Detroit', 'Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth ""Biz"" Nidjam', ""The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', 'Charlevoix A', 'Comics', 'Women And Comics in Detroit', 'Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth ""Biz"" Nidjam', ""The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth 'Biz' Nidjam"
 avneeds,none
@@ -6567,21 +6567,21 @@ speakerlist,"['Erika Wagner', 'Laura Cascos', 'Chelsea Liddy', 'Sharon Vinson', 
 hours,0
 totalminutes,50
 speakernosplist,"['ErikaWagner', 'LauraCascos', 'ChelseaLiddy', 'SharonVinson', 'Elizabeth-Biz-Nidjam']"
-caldescrip,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+caldescrip,"The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."
 endtime,12:50
 AV Needs,
-name,Women Making Comics in Detroit
+name,Women And Comics in Detroit
 Private,PUBLIC
-bookname,Women Making Comics in Detroit
+bookname,Women And Comics in Detroit
 venue,Charlevoix A
-Book Description,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+Book Description,"The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."
 Presenters,"Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth ""Biz"" Nidjam"
-csvsafedescrip,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+csvsafedescrip,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics- and the comics community in Southeast Michigan.
 speakernosp,"ErikaWagner,LauraCascos,ChelseaLiddy,SharonVinson,Elizabeth-Biz-Nidjam"
 starttime,12:00
 roomnosp,CharlevoixA
 Start Date,4/30/2016
-descriptionascii,The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating comics and the comics community in Southeast Michigan.
+descriptionascii,"The creators of Sidekick Girls and the conchair and planning committee head of ComiqueCon discuss what it's like to be a woman creating and consuming comics, and the comics community in Southeast Michigan."
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -7393,7 +7393,7 @@ Location,Algonquin D
 duration,50 minutes
 description,"How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing?"
 index,157
-speakers,"Tobias Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
+speakers,"Tobias S. Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
 bookdescrip,"How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing?"
 Track,Literature
 startday,4/30/2016
@@ -7405,14 +7405,14 @@ End Time,13:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Algonquin D', 'Literature', ""A Writer's Life"", 'Tobias Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones', 'How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', 'Algonquin D', 'Literature', ""A Writer's Life"", 'Tobias S. Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones', 'How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Tobias Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
+calspeakers,"Tobias S. Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
 avneeds,none
-speakerlist,"['Tobias Buckell', 'Ferrett Steinmetz', 'Catherynne Valente', 'Dave Klecha', 'Andrew Zimmerman Jones']"
+speakerlist,"['Tobias S. Buckell', 'Ferrett Steinmetz', 'Catherynne Valente', 'Dave Klecha', 'Andrew Zimmerman Jones']"
 hours,0
 totalminutes,50
-speakernosplist,"['TobiasBuckell', 'FerrettSteinmetz', 'CatherynneValente', 'DaveKlecha', 'AndrewZimmermanJones']"
+speakernosplist,"['TobiasS.Buckell', 'FerrettSteinmetz', 'CatherynneValente', 'DaveKlecha', 'AndrewZimmermanJones']"
 caldescrip,"How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? "
 endtime,13:50
 AV Needs,
@@ -7421,9 +7421,9 @@ Private,PUBLIC
 bookname,A Writer's Life
 venue,Algonquin D
 Book Description,"How do you handle the daily mechanics of hammering your magical, sparking, glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? "
-Presenters,"Tobias Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
+Presenters,"Tobias S. Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones"
 csvsafedescrip,How do you handle the daily mechanics of hammering your magical- sparking- glittering craft into the finished product that could sell. What practical habits foster the creative process on a daily basis and how do you manage the emotional blender that is making words ready for publishing? 
-speakernosp,"TobiasBuckell,FerrettSteinmetz,CatherynneValente,DaveKlecha,AndrewZimmermanJones"
+speakernosp,"TobiasS.Buckell,FerrettSteinmetz,CatherynneValente,DaveKlecha,AndrewZimmermanJones"
 starttime,13:00
 roomnosp,AlgonquinD
 Start Date,4/30/2016
@@ -8617,7 +8617,7 @@ Location,EMC I
 duration,50 minutes
 description,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
 index,183
-speakers,"Elizabeth ""Biz"" Nidjam"
+speakers,"Elizabeth ""Biz"" Nidjam, Jerzy Drozd"
 bookdescrip,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
 Track,Comics
 startday,4/30/2016
@@ -8629,14 +8629,14 @@ End Time,14:50
 tracknosp,['Comics']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'EMC I', 'Comics', 'Comics in the Classroom', 'Elizabeth ""Biz"" Nidjam', 'With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', 'EMC I', 'Comics', 'Comics in the Classroom', 'Elizabeth ""Biz"" Nidjam, Jerzy Drozd', 'With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,Elizabeth 'Biz' Nidjam
+calspeakers,"Elizabeth 'Biz' Nidjam, Jerzy Drozd"
 avneeds,none
-speakerlist,"['Elizabeth ""Biz"" Nidjam']"
+speakerlist,"['Elizabeth ""Biz"" Nidjam', 'Jerzy Drozd']"
 hours,0
 totalminutes,50
-speakernosplist,['Elizabeth-Biz-Nidjam']
+speakernosplist,"['Elizabeth-Biz-Nidjam', 'JerzyDrozd']"
 caldescrip,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
 endtime,14:50
 AV Needs,
@@ -8645,9 +8645,9 @@ Private,PUBLIC
 bookname,Comics in the Classroom
 venue,EMC I
 Book Description,"With visual culture becoming more and more integral to our lives, teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary, high school and university teaching."
-Presenters,"Elizabeth ""Biz"" Nidjam"
+Presenters,"Elizabeth ""Biz"" Nidjam, Jerzy Drozd"
 csvsafedescrip,With visual culture becoming more and more integral to our lives- teachers are turning to comics as a new source for pedagogical material. This panel discusses strategies for integrating comics into elementary- high school and university teaching.
-speakernosp,Elizabeth-Biz-Nidjam
+speakernosp,"Elizabeth-Biz-Nidjam,JerzyDrozd"
 starttime,14:00
 roomnosp,EMCI
 Start Date,4/30/2016
@@ -9135,7 +9135,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
 index,194
-speakers,"Tobias Buckell, Ferrett Steinmetz, Ramses Alcaide"
+speakers,"Tobias S. Buckell, Ferrett Steinmetz, Ramses Alcaide"
 bookdescrip,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
 Track,Literature
 startday,4/30/2016
@@ -9147,14 +9147,14 @@ End Time,15:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '15:00', '4/30/2016', '15:50', 'Algonquin B/C', 'Literature', 'Writing the Alien', 'Tobias Buckell, Ferrett Steinmetz, Ramses Alcaide', 'The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '15:00', '4/30/2016', '15:50', 'Algonquin B/C', 'Literature', 'Writing the Alien', 'Tobias S. Buckell, Ferrett Steinmetz, Ramses Alcaide', 'The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Tobias Buckell, Ferrett Steinmetz, Ramses Alcaide"
+calspeakers,"Tobias S. Buckell, Ferrett Steinmetz, Ramses Alcaide"
 avneeds,none
-speakerlist,"['Tobias Buckell', 'Ferrett Steinmetz', 'Ramses Alcaide']"
+speakerlist,"['Tobias S. Buckell', 'Ferrett Steinmetz', 'Ramses Alcaide']"
 hours,0
 totalminutes,50
-speakernosplist,"['TobiasBuckell', 'FerrettSteinmetz', 'RamsesAlcaide']"
+speakernosplist,"['TobiasS.Buckell', 'FerrettSteinmetz', 'RamsesAlcaide']"
 caldescrip,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
 endtime,15:50
 AV Needs,
@@ -9163,9 +9163,9 @@ Private,PUBLIC
 bookname,Writing the Alien
 venue,Algonquin B/C
 Book Description,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
-Presenters,"Tobias Buckell, Ferrett Steinmetz, Ramses Alcaide"
+Presenters,"Tobias S. Buckell, Ferrett Steinmetz, Ramses Alcaide"
 csvsafedescrip,The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?
-speakernosp,"TobiasBuckell,FerrettSteinmetz,RamsesAlcaide"
+speakernosp,"TobiasS.Buckell,FerrettSteinmetz,RamsesAlcaide"
 starttime,15:00
 roomnosp,AlgonquinBC
 Start Date,4/30/2016
@@ -10123,7 +10123,7 @@ Location,Algonquin B/C
 duration,50 minutes
 description,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
 index,215
-speakers,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt"
+speakers,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias S. Buckell, Edward L. Platt"
 bookdescrip,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
 Track,"Tech, Literature, Life"
 startday,4/30/2016
@@ -10135,14 +10135,14 @@ End Time,16:50
 tracknosp,"['Tech', 'Literature', 'Life']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Algonquin B/C', 'Tech, Literature, Life', 'How Will Technology Change Society?', 'Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt', 'How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', 'Algonquin B/C', 'Tech, Literature, Life', 'How Will Technology Change Society?', 'Deb Nicholson, Jason Mars, Lingjia Tang, Tobias S. Buckell, Edward L. Platt', 'How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt"
+calspeakers,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias S. Buckell, Edward L. Platt"
 avneeds,none
-speakerlist,"['Deb Nicholson', 'Jason Mars', 'Lingjia Tang', 'Tobias Buckell', 'Edward L. Platt']"
+speakerlist,"['Deb Nicholson', 'Jason Mars', 'Lingjia Tang', 'Tobias S. Buckell', 'Edward L. Platt']"
 hours,0
 totalminutes,50
-speakernosplist,"['DebNicholson', 'JasonMars', 'LingjiaTang', 'TobiasBuckell', 'EdwardL.Platt']"
+speakernosplist,"['DebNicholson', 'JasonMars', 'LingjiaTang', 'TobiasS.Buckell', 'EdwardL.Platt']"
 caldescrip,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
 endtime,16:50
 AV Needs,
@@ -10151,9 +10151,9 @@ Private,PUBLIC
 bookname,How Will Technology Change Society?
 venue,Algonquin B/C
 Book Description,"How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom, or a totalitarian dystopia? And are we making that decision right now without knowing it?"
-Presenters,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias Buckell, Edward L. Platt"
+Presenters,"Deb Nicholson, Jason Mars, Lingjia Tang, Tobias S. Buckell, Edward L. Platt"
 csvsafedescrip,How we develop our technology may determine the world we will have in the future. Will it be a world of increasing personal freedom- or a totalitarian dystopia? And are we making that decision right now without knowing it?
-speakernosp,"DebNicholson,JasonMars,LingjiaTang,TobiasBuckell,EdwardL.Platt"
+speakernosp,"DebNicholson,JasonMars,LingjiaTang,TobiasS.Buckell,EdwardL.Platt"
 starttime,16:00
 roomnosp,AlgonquinBC
 Start Date,4/30/2016
@@ -11581,7 +11581,7 @@ Location,EMC I
 duration,50 minutes
 description,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
 index,246
-speakers,"Elizabeth ""Biz"" Nidjam"
+speakers,"Elizabeth ""Biz"" Nidjam, Zack Kruse"
 bookdescrip,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
 Track,Comics
 startday,4/30/2016
@@ -11593,14 +11593,14 @@ End Time,18:50
 tracknosp,['Comics']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '18:00', '4/30/2016', '18:50', 'EMC I ', 'Comics', 'So You Want to Get a Degree in Comics?', 'Elizabeth ""Biz"" Nidjam', 'Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '18:00', '4/30/2016', '18:50', 'EMC I ', 'Comics', 'So You Want to Get a Degree in Comics?', 'Elizabeth ""Biz"" Nidjam, Zack Kruse', 'Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,Elizabeth 'Biz' Nidjam
+calspeakers,"Elizabeth 'Biz' Nidjam, Zack Kruse"
 avneeds,none
-speakerlist,"['Elizabeth ""Biz"" Nidjam']"
+speakerlist,"['Elizabeth ""Biz"" Nidjam', 'Zack Kruse']"
 hours,0
 totalminutes,50
-speakernosplist,['Elizabeth-Biz-Nidjam']
+speakernosplist,"['Elizabeth-Biz-Nidjam', 'ZackKruse']"
 caldescrip,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
 endtime,18:50
 AV Needs,
@@ -11609,9 +11609,9 @@ Private,PUBLIC
 bookname,So You Want to Get a Degree in Comics?
 venue,EMC I
 Book Description,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
-Presenters,"Elizabeth ""Biz"" Nidjam"
+Presenters,"Elizabeth ""Biz"" Nidjam, Zack Kruse"
 csvsafedescrip,Have you ever wanted to write an essay on the Marvel universe? How about an honors thesis or a dissertation? This panel discusses the ins and outs of studying comics at the university level and introduces the fundamentals of comics studies.
-speakernosp,Elizabeth-Biz-Nidjam
+speakernosp,"Elizabeth-Biz-Nidjam,ZackKruse"
 starttime,18:00
 roomnosp,EMCI
 Start Date,4/30/2016
@@ -14779,7 +14779,7 @@ Location,Charlevoix C
 duration,50 minutes
 description,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 index,314
-speakers,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
+speakers,"Ann Leckie, Tobias S. Buckell, Christian Klaver, Sal Palland"
 bookdescrip,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 Track,Literature
 startday,5/1/2016
@@ -14791,14 +14791,14 @@ End Time,10:50
 tracknosp,['Literature']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Charlevoix C', 'Literature', 'Writing Risks', 'Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland', ""Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Charlevoix C', 'Literature', 'Writing Risks', 'Ann Leckie, Tobias S. Buckell, Christian Klaver, Sal Palland', ""Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
+calspeakers,"Ann Leckie, Tobias S. Buckell, Christian Klaver, Sal Palland"
 avneeds,none
-speakerlist,"['Ann Leckie', 'Tobias Buckell', 'Christian Klaver', 'Sal Palland']"
+speakerlist,"['Ann Leckie', 'Tobias S. Buckell', 'Christian Klaver', 'Sal Palland']"
 hours,0
 totalminutes,50
-speakernosplist,"['AnnLeckie', 'TobiasBuckell', 'ChristianKlaver', 'SalPalland']"
+speakernosplist,"['AnnLeckie', 'TobiasS.Buckell', 'ChristianKlaver', 'SalPalland']"
 caldescrip,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
 endtime,10:50
 AV Needs,
@@ -14807,9 +14807,9 @@ Private,PUBLIC
 bookname,Writing Risks
 venue,Charlevoix C
 Book Description,"Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing, at the cost of originality and diversity. Are diverse characters, genre mashups, and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors, agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject."
-Presenters,"Ann Leckie, Tobias Buckell, Christian Klaver, Sal Palland"
+Presenters,"Ann Leckie, Tobias S. Buckell, Christian Klaver, Sal Palland"
 csvsafedescrip,Sometimes it can seem as if marketing departments are only after rehashes of the latest hot thing- at the cost of originality and diversity. Are diverse characters- genre mashups- and unusual structures a benefit to the sales department or a hindrance? How can authors challenge new boundaries and still make the editors- agents and other gatekeepers happy and produce a book with mass appeal? Does this strategy change further into an author's career? Authors talk genre and classification and all the other challenges for this difficult subject.
-speakernosp,"AnnLeckie,TobiasBuckell,ChristianKlaver,SalPalland"
+speakernosp,"AnnLeckie,TobiasS.Buckell,ChristianKlaver,SalPalland"
 starttime,10:00
 roomnosp,CharlevoixC
 Start Date,5/1/2016
