@@ -42,6 +42,20 @@
         "end_time": "15:00"
     },
     {
+        "book_description": "Don't touch the sides! Test your hand-eye coordination and fine motor skills in life-size with Lansing Maker Network's MegOperation, an interactive, large-scale version of the classic game Operation!",
+        "end_date": "5/1/2016",
+        "title": "MegOperation",
+        "track": "Gaming",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Lobby",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
+    },
+    {
         "book_description": "The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.",
         "end_date": "5/1/2016",
         "title": "NUET Scouts",
@@ -128,19 +142,33 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "4/29/2016",
-        "title": "Paint and Take",
-        "track": "Gaming, DIY",
-        "start_time": "16:00",
+        "book_description": "Space| the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ~em all to space-smithereens! Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. ",
+        "end_date": "5/1/2016",
+        "title": "Artemis",
+        "track": "Penguicon",
+        "start_time": "17:00",
         "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
+            "Lansing Maker Network"
         ],
-        "location": "Game Table H, Game Table I",
-        "minutes": 350,
+        "location": "321",
+        "minutes": -40450,
         "start_date": "4/29/2016",
-        "end_time": "21:50"
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
+        "end_date": "5/1/2016",
+        "title": "Dangeous Things",
+        "track": "Tech, Life, DIY",
+        "start_time": "19:00",
+        "presenters": [
+            "Amal Graafstra",
+            "Anita Fowler"
+        ],
+        "location": "HackerSpace (317)",
+        "minutes": -40560,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
     },
     {
         "book_description": "\" I know Kung Fu.\" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like! This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.",
@@ -155,20 +183,6 @@
         "minutes": 110,
         "start_date": "4/29/2016",
         "end_time": "17:50"
-    },
-    {
-        "book_description": "Space| the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ~em all to space-smithereens! Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. ",
-        "end_date": "5/1/2016",
-        "title": "Artemis",
-        "track": "Penguicon",
-        "start_time": "17:00",
-        "presenters": [
-            "Lansing Maker Network"
-        ],
-        "location": "321",
-        "minutes": -40450,
-        "start_date": "4/29/2016",
-        "end_time": "14:50"
     },
     {
         "book_description": "Have you ever considered volunteering as an emergency responder, or are you simply curious about what happens in disaster areas when the \"official\" help runs out? An experienced former search and rescue (SAR) volunteer will share lessons learned about SAR operations, and perhaps a little about life.",
@@ -394,34 +408,6 @@
         "end_time": "18:50"
     },
     {
-        "book_description": "5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.",
-        "end_date": "4/29/2016",
-        "title": "Space Alert",
-        "track": "Gaming",
-        "start_time": "18:00",
-        "presenters": [
-            "Eric McGlohon"
-        ],
-        "location": "Game Table C",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "2-6 players. One of the best worker-placement games, with a strong D and D theme. Recruit fighters, rogues, clerics, and wizards to complete quests.",
-        "end_date": "4/29/2016",
-        "title": "Lords of Waterdeep",
-        "track": "Gaming",
-        "start_time": "18:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
         "book_description": "There are a great many martial artists here at Penguicon! Come on down and work on some problem solving together! Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles! Traditional, non-traditional, all are welcome here!",
         "end_date": "4/29/2016",
         "title": "Open Source Martial Arts",
@@ -628,61 +614,19 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. ",
+        "book_description": "Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean.",
         "end_date": "4/29/2016",
-        "title": "Mahjong",
-        "track": "Gaming",
-        "start_time": "19:00",
+        "title": "So Fresh, (Not) So Clean; Getting Dirty Making Soap.",
+        "track": "DIY",
+        "start_time": "20:00",
         "presenters": [
-            "Anne Zanoni"
+            "Jonathan Ivar Weyhrauch",
+            "Mikhail Shikhmanov"
         ],
-        "location": "Game Table A",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1-5 in each color. For each color, the players try to place a row in the correct order from 1-5. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards.",
-        "end_date": "4/29/2016",
-        "title": "Hanabi",
-        "track": "Gaming",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Westbrook"
-        ],
-        "location": "Game Table B",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!",
-        "end_date": "4/29/2016",
-        "title": "Spyfall",
-        "track": "Gaming",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
-        "end_date": "5/1/2016",
-        "title": "Dangeous Things",
-        "track": "Tech, Life, DIY",
-        "start_time": "19:00",
-        "presenters": [
-            "Amal Graafstra",
-            "Anita Fowler"
-        ],
-        "location": "HackerSpace (317)",
-        "minutes": -40560,
-        "start_date": "4/29/2016",
-        "end_time": "15:00"
+        "end_time": "20:50"
     },
     {
         "book_description": "As much as we might want to avoid it, we're slowing becoming adults with adult responsibilites. We can all use advice on money management and planning for our future.",
@@ -697,21 +641,6 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
-    },
-    {
-        "book_description": "Its that time of the year again where we get together with Lady Ana and Professor X and talk the talk about comic books and their impact on the movies, television, and life in general. Well talk about Batman v Superman Marvels Civil War, Dr. Strange, The Infinity War with the Avengers, The Age of Apocalypse with the X-Men, and the fate of the Fantastic Four. Well also talk about the explosion of Marvel and DC characters on television. There will be door prizes, free comics, and as always, we will have the Mjolnir available for those who speak in the name of the awesomeness of the comics world.",
-        "end_date": "4/30/2016",
-        "title": "Comics and the Movies Review!",
-        "track": "Comics",
-        "start_time": "17:00",
-        "presenters": [
-            "Lady Ana",
-            "Professor X"
-        ],
-        "location": "Hamlin",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
     },
     {
         "book_description": "This is a speed friending event where participants will pair up and get to know one another with the hopes of finding a Con Buddy. We'll have questions to keep the conversation going!",
@@ -817,21 +746,6 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Reroot, a local producer of all natural hand made soaps and oils, will demonstrate one of the processes they use to make soap. We will touch on how to formulate a soap with the properties you desire and the chemical reactions that turn oils into soap. Come join us in getting dirty to make others clean.",
-        "end_date": "4/29/2016",
-        "title": "So Fresh, (Not) So Clean; Getting Dirty Making Soap.",
-        "track": "DIY",
-        "start_time": "20:00",
-        "presenters": [
-            "Jonathan Ivar Weyhrauch",
-            "Mikhail Shikhmanov"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "20:50"
-    },
-    {
         "book_description": "Come and learn how to remove unwanted things/beings from your life, home and being. This presentation will include discussion of different practices and spells and ingredients that help to remove paranormal annoyances. After ghost hunting and magically cleansing many homes, I have found different things that work to remove attachments and parasitic paranormals. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Dealing with the Paranormal",
@@ -887,76 +801,6 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "20:50"
-    },
-    {
-        "book_description": "Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)",
-        "end_date": "4/29/2016",
-        "title": "Rathbone Vs Everybody",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "Game Table A, Game Table B",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "20:50"
-    },
-    {
-        "book_description": "2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take...",
-        "end_date": "4/29/2016",
-        "title": "Descent 2nd Edition",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Jason Westbrook"
-        ],
-        "location": "Game Table D",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win.",
-        "end_date": "4/29/2016",
-        "title": "Tokaido",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population.",
-        "end_date": "4/29/2016",
-        "title": "Pandemic",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Game Table F",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed.",
-        "end_date": "4/29/2016",
-        "title": "The Big Book of Madness",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
     },
     {
         "book_description": "Wesley and the Crushers is a modern, one-of-a-kind musical exploration that is both \"geeky\" and passionate -- passionate in their admiration and love for all things \"geeky\" -- and completely geeked-out in their approach to their number-one passion, which is music.",
@@ -1027,6 +871,21 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "21:50"
+    },
+    {
+        "book_description": "For the opening session of Liquid Nitrogen Ice Cream, we tell you the ingredients on hand and we make fun and tasty flavors together. Alternative ingredients available; we can make some non-dairy or sugar-free!",
+        "end_date": "4/29/2016",
+        "title": "LN2 Welcome Back Ice Cream",
+        "track": "Food",
+        "start_time": "21:00",
+        "presenters": [
+            "Sarah Elkins",
+            "Phil Salkie"
+        ],
+        "location": "Consuite",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "22:50"
     },
     {
         "book_description": "The historical details can bring a story to life or bog it down. What's the right balance?",
@@ -1150,33 +1009,18 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.",
+        "book_description": "There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. ",
         "end_date": "4/29/2016",
-        "title": "Pack 'O Game",
-        "track": "Gaming",
-        "start_time": "21:00",
-        "presenters": [
-            "Bob Brodis"
-        ],
-        "location": "Game Table A",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "For the opening session of Liquid Nitrogen Ice Cream, we tell you the ingredients on hand and we make fun and tasty flavors together. Alternative ingredients available; we can make some non-dairy or sugar-free!",
-        "end_date": "4/29/2016",
-        "title": "LN2 Welcome Back Ice Cream",
+        "title": "Midwest Mash: Whiskies of the Great Lakes",
         "track": "Food",
-        "start_time": "21:00",
+        "start_time": "22:00",
         "presenters": [
-            "Sarah Elkins",
-            "Phil Salkie"
+            "Greg Williams"
         ],
-        "location": "Consuite",
+        "location": "1017",
         "minutes": 110,
         "start_date": "4/29/2016",
-        "end_time": "22:50"
+        "end_time": "23:50"
     },
     {
         "book_description": "Want to learn about impact play? Then come in and play! This interactive class, geared toward beginners, will show you how to get started doing impact play with floggers and riding crops. You'll learn where and where not to hit, how to practice, and different types of impact toys - some found even right in your kitchen! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
@@ -1225,20 +1069,6 @@
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "22:50"
-    },
-    {
-        "book_description": "There are a significant number of craft distilleries in the Midwest region, come and hear what makes them unique from each other, how those whiskies are made. Then stay for a tasting! The presentation will be open, but the tasting will be limited participation. 21+ and ID will be required. Sign up at Ops. ",
-        "end_date": "4/29/2016",
-        "title": "Midwest Mash: Whiskies of the Great Lakes",
-        "track": "Food",
-        "start_time": "22:00",
-        "presenters": [
-            "Greg Williams"
-        ],
-        "location": "1017",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
     },
     {
         "book_description": "Shannon and Maggie are BFFs and they (used to) drink, a lot. Join us for our 3rd time at Penguicon. Hilarity will ensue, we will drink, eat cheese, and discuss the latest events in life and entertainment. Audience members will be able to submit questions to be answered live during the session directly, during the recording, to Shannon and Maggie or via Twitter at @ShannonsParty and @BrainOfMaggie ",
@@ -1299,62 +1129,6 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!",
-        "end_date": "4/30/2016",
-        "title": "Arkham Horror",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Cory Tebo"
-        ],
-        "location": "Game Table A",
-        "minutes": 290,
-        "start_date": "4/29/2016",
-        "end_time": "2:50"
-    },
-    {
-        "book_description": "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the drivers seat of the famous DeLorean! Sign up required at Ops.",
-        "end_date": "4/29/2016",
-        "title": "Learn To Play Back To The Future",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Rick Houser"
-        ],
-        "location": "Game Table B, Game Table C",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
-    },
-    {
-        "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
-        "end_date": "4/29/2016",
-        "title": "Zombicide: Black Plague",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "23:50"
-    },
-    {
-        "book_description": "A deception party game for 7-15 players. Players are assigned roles secretly. Most players are Villagers, two or three will be Werewolves. The Villagers try to figure out who the werewolves are during the day, and the Werewolves eat the Villagers at night.",
-        "end_date": "5/1/2016",
-        "title": "Are You A Werewolf",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Lobby",
-        "minutes": -41640,
-        "start_date": "4/29/2016",
-        "end_time": "0:00"
-    },
-    {
         "book_description": "Polyamory speed dating will help polamorous people of all types get to know each other! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/29/2016",
         "title": "Poly Speed Dating",
@@ -1398,34 +1172,6 @@
         "end_time": "0:50"
     },
     {
-        "book_description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
-        "end_date": "4/30/2016",
-        "title": "One Night Werewolf",
-        "track": "Gaming",
-        "start_time": "0:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "0:50"
-    },
-    {
-        "book_description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
-        "end_date": "4/30/2016",
-        "title": "The Quiet Year",
-        "track": "Gaming",
-        "start_time": "0:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "0:50"
-    },
-    {
         "book_description": "A heart pumping, high adrenaline full body training experience designed to trim and sculpt you for the hot months a head. Includes strength training using various options including body weight, resistance bands to the keep the body guessing along with cardio intervals to maximize calories burned. This training session will also be accompanied by some of the greatest video game and nerd core music.",
         "end_date": "4/30/2016",
         "title": "JAC3D G33K Fitness Bootcamp",
@@ -1440,20 +1186,6 @@
         "end_time": "8:50"
     },
     {
-        "book_description": "Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.",
-        "end_date": "4/30/2016",
-        "title": "Open Linux Computer Lab (Unconference)",
-        "track": "Tech",
-        "start_time": "9:00",
-        "presenters": [
-            "No Presenter"
-        ],
-        "location": "Computer Lab (EMC III)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "9:50"
-    },
-    {
         "book_description": "Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.",
         "end_date": "4/30/2016",
         "title": "Coffee, The Other Java",
@@ -1463,6 +1195,20 @@
             "Kelly Vanderwell"
         ],
         "location": "1017",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.",
+        "end_date": "4/30/2016",
+        "title": "Open Linux Computer Lab (Unconference)",
+        "track": "Tech",
+        "start_time": "9:00",
+        "presenters": [
+            "No Presenter"
+        ],
+        "location": "Computer Lab (EMC III)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "9:50"
@@ -1751,6 +1497,20 @@
         "end_time": "10:50"
     },
     {
+        "book_description": "There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.",
+        "end_date": "4/30/2016",
+        "title": "Homebrewing",
+        "track": "Food",
+        "start_time": "11:00",
+        "presenters": [
+            "Johnathon A. Campbell"
+        ],
+        "location": "1017",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities.",
         "end_date": "4/30/2016",
         "title": "The Future of Biohacking",
@@ -1888,20 +1648,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "There are many wonderful beverages that can be made at home. This presentation will cover Beer Making, Cider Making, Wine Making and Mead Making with a break down of all the equipment needed to accomplish the end goal.",
-        "end_date": "4/30/2016",
-        "title": "Homebrewing",
-        "track": "Food",
-        "start_time": "11:00",
-        "presenters": [
-            "Johnathon A. Campbell"
-        ],
-        "location": "1017",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
         "end_date": "4/30/2016",
         "title": "Hands on Soldering and Embedded Programming with All Hands Active",
@@ -1987,20 +1733,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "11:50"
-    },
-    {
-        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
-        "end_date": "4/30/2016",
-        "title": "Legendary Encounters",
-        "track": "Gaming",
-        "start_time": "11:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 170,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
     },
     {
         "book_description": "Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!",
@@ -2131,6 +1863,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "Come join me in playing \"mad scientist\" as we deconstruct stuffed animals, and reconstruct them into new and glorious creations! Everyone is welcome, though I do ask that parents/guardians stay with children. Basic sewing skills are a plus. This is a limited attendance event. Please sign up at Ops.",
+        "end_date": "4/30/2016",
+        "title": "Frankenstuffies",
+        "track": "DIY",
+        "start_time": "12:00",
+        "presenters": [
+            "RainbowRavenX"
+        ],
+        "location": "EMC V",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "i3's Vinyl cutter and Heat Press (shirt press and Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to a awesome decoration in your shirt or mug! i3 will also demonstrate the basic functions in our new software \"Sure Cuts A Lot\". Its straightforward and interesting! ",
         "end_date": "4/30/2016",
         "title": "i3 Vinyl Tshirts",
@@ -2230,60 +1976,18 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
-        "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "12:00",
+        "book_description": "An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. ",
+        "end_date": "4/1/2016",
+        "title": "Kitchen Hacks 101",
+        "track": "Food",
+        "start_time": "13:00",
         "presenters": [
-            "Nikolas Smart"
+            "Emily Tuesday"
         ],
-        "location": "Game Table A",
-        "minutes": 50,
+        "location": "1017",
+        "minutes": -41710,
         "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "Learn several card games and board games from the late 17th and early 18th centuries.",
-        "end_date": "4/30/2016",
-        "title": "Authentic Pirate Games",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "Game Table B",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
-        "end_date": "4/30/2016",
-        "title": "Abyss",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "Come join me in playing \"mad scientist\" as we deconstruct stuffed animals, and reconstruct them into new and glorious creations! Everyone is welcome, though I do ask that parents/guardians stay with children. Basic sewing skills are a plus. This is a limited attendance event. Please sign up at Ops.",
-        "end_date": "4/30/2016",
-        "title": "Frankenstuffies",
-        "track": "DIY",
-        "start_time": "12:00",
-        "presenters": [
-            "RainbowRavenX"
-        ],
-        "location": "EMC V",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
+        "end_time": "13:50"
     },
     {
         "book_description": "In Chinese, Qi means \"Energy or Air\" and gong means \"work or refinement\". Put together \"Qigong\" is the most generic term for working with and refining human energy. Ki is the Japanese pronunciation of Qi. The character Ki is found in both AiKido and ReiKi. Common applications of Qigong are Martial Arts and Healing. In China, Traditional Chinese Medicine, of which Qigong is a part, is a $25 Billion business. Ki Qigong pulls from a breadth of different types of Chinese and Japanese qigong, hypnosis, imagery, and other human energy modalities, as well as from new biological and physics models.",
@@ -2422,20 +2126,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. ",
-        "end_date": "4/1/2016",
-        "title": "Kitchen Hacks 101",
-        "track": "Food",
-        "start_time": "13:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "1017",
-        "minutes": -41710,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
         "book_description": "What does it mean to be Agile? Is it all marketing and hype or does this represent the future of software development? We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework. We will discuss things like the element of Scrum, its roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. ",
         "end_date": "4/30/2016",
         "title": "Intro to Agile/Scrum",
@@ -2522,76 +2212,18 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "book_description": "Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home.",
         "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "13:00",
+        "title": "Vegan Junk Food: Delicious and Not at All Nutritious",
+        "track": "Food",
+        "start_time": "14:00",
         "presenters": [
-            "Nikolas Smart"
+            "Amy Alice Wright"
         ],
-        "location": "Game Table A",
+        "location": "1017",
         "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
-        "end_date": "4/30/2016",
-        "title": "Lords of Waterdeep",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Timothy Brown"
-        ],
-        "location": "Game Table B",
-        "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "14:50"
-    },
-    {
-        "book_description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
-        "end_date": "4/30/2016",
-        "title": "Intro to Android: Netrunner Card Game",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Eric McGlohon",
-            "Bryan Snell"
-        ],
-        "location": "Game Table C",
-        "minutes": 230,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
-        "end_date": "4/30/2016",
-        "title": "Codenames",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "4/30/2016",
-        "title": "Paint and Take",
-        "track": "Gaming, DIY",
-        "start_time": "13:00",
-        "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
-        ],
-        "location": "Game Table H, Game Table I",
-        "minutes": 230,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
     },
     {
         "book_description": "Parkour is a physical movement discipline that focuses on getting from point A to point B in the most efficient way possible, navigating obstacles along the way, most often in urban environments. Phoenix Freerunning Academy is a parkour and freerunning gym in Livonia that teaches the discipline of parkour and the instructors from this gym will be returning to Penguicon to host another Introduction to Parkour workshop in which we will both demonstrate some of our abilities as well as teach you how to jump, how to roll, how to balance and we will go over some of the basic vaults, including safety, speed and kong! ",
@@ -2752,20 +2384,6 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Think vegans are waifish, pallid folk who munch broccoli all day? Join a Fat Vegan who totally knows what she's talking about and enter the tasty world of naughty vegan treats! We'll sample many yummy chips, cookies, candy, and more until your guard is down and the Vegan Army recruits you. Kidding! We will also talk about hidden animal-based ingredients, sugar processing, and how you can make decadent vegan goodies at home.",
-        "end_date": "4/30/2016",
-        "title": "Vegan Junk Food: Delicious and Not at All Nutritious",
-        "track": "Food",
-        "start_time": "14:00",
-        "presenters": [
-            "Amy Alice Wright"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
         "end_date": "4/30/2016",
         "title": "Hands on Soldering and Embedded Programming with All Hands Active",
@@ -2843,32 +2461,18 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
         "end_date": "4/30/2016",
-        "title": "Warlords of the 6 Kingdoms",
-        "track": "Gaming",
-        "start_time": "14:00",
+        "title": "Baking and Breaking Bread",
+        "track": "Food",
+        "start_time": "15:00",
         "presenters": [
-            "Nikolas Smart"
+            "David Clipner"
         ],
-        "location": "Game Table A",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
-        "end_date": "4/30/2016",
-        "title": "Dead of Winter",
-        "track": "Gaming",
-        "start_time": "14:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 170,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
+        "end_time": "15:50"
     },
     {
         "book_description": "The challenge of writing an intelligence unlike our own lies at the heart of much of our best science fiction. How does an author tackle this difficult task?",
@@ -3009,20 +2613,6 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
-        "end_date": "4/30/2016",
-        "title": "Baking and Breaking Bread",
-        "track": "Food",
-        "start_time": "15:00",
-        "presenters": [
-            "David Clipner"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
         "book_description": "The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live on stage and raffles off the working synth at the end!",
         "end_date": "4/30/2016",
         "title": "Demo Build of the Single-Chip Space Invader Synth",
@@ -3112,58 +2702,17 @@
         "end_time": "15:50"
     },
     {
-        "book_description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
+        "book_description": "Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon! Or vanilla! This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.",
         "end_date": "4/30/2016",
-        "title": "Kalidasia Fleet Commander - The Siege of Cadre 4",
-        "track": "Gaming",
-        "start_time": "15:00",
+        "title": "Tastes that Taste Great Together",
+        "track": "Food",
+        "start_time": "16:00",
         "presenters": [
-            "Jason Rutherford"
+            "Cathy Raymond",
+            "Eric S. Raymond"
         ],
-        "location": "Game Table A",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. Three 1-vs-1 games will play simultaneously.",
-        "end_date": "4/30/2016",
-        "title": "Order of the Wand",
-        "track": "Gaming",
-        "start_time": "15:00",
-        "presenters": [
-            "David Whitcher"
-        ],
-        "location": "Game Table B",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets - goal cards that connect distant cities; and to the player who builds the longest continuous route.",
-        "end_date": "4/30/2016",
-        "title": "Ticket to Ride",
-        "track": "Gaming",
-        "start_time": "15:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "3-6 players. Board game where you explore a spooky house tile by tile to defeat a traitorous fellow player.",
-        "end_date": "4/30/2016",
-        "title": "Betrayal at House on the Hill",
-        "track": "Gaming",
-        "start_time": "15:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Game Table F",
-        "minutes": 110,
+        "location": "1017",
+        "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "16:50"
     },
@@ -3311,21 +2860,6 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Join Cathy and Eric Raymond for a different kind of chocolate tasting: tastes of dark chocolate combined with other flavors and foods, such as bacon! Or vanilla! This tasting will include a talk about foods that were historically combined with chocolate in South America and, later, in Europe.",
-        "end_date": "4/30/2016",
-        "title": "Tastes that Taste Great Together",
-        "track": "Food",
-        "start_time": "16:00",
-        "presenters": [
-            "Cathy Raymond",
-            "Eric S. Raymond"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
         "book_description": "Join fans for an open discussion of the BBC powerhouse Sherlock. Birds of a Feather events are unmoderated.",
         "end_date": "4/30/2016",
         "title": "BoF: Sherlock",
@@ -3366,6 +2900,20 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
+        "end_date": "4/30/2016",
+        "title": "Easy and Cheap: Healthy Meatless Meals",
+        "track": "Food",
+        "start_time": "17:00",
+        "presenters": [
+            "Amy Alice Wright"
+        ],
+        "location": "1017",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
     },
     {
         "book_description": "Do you sometimes feel like people who advocate security are speaking a foreign language? Would you like some practical advice you can use even if you are not an IT Professional? Then come hear Tony Bemus from the Sunday Morning Linux Review as he explains in layman's terms how to be more secure with your Internet-connected computer.",
@@ -3470,6 +3018,21 @@
         "end_time": "17:50"
     },
     {
+        "book_description": "Its that time of the year again where we get together with Lady Ana and Professor X and talk the talk about comic books and their impact on the movies, television, and life in general. Well talk about Batman v Superman Marvels Civil War, Dr. Strange, The Infinity War with the Avengers, The Age of Apocalypse with the X-Men, and the fate of the Fantastic Four. Well also talk about the explosion of Marvel and DC characters on television. There will be door prizes, free comics, and as always, we will have the Mjolnir available for those who speak in the name of the awesomeness of the comics world.",
+        "end_date": "4/30/2016",
+        "title": "Comics and the Movies Review!",
+        "track": "Comics",
+        "start_time": "17:00",
+        "presenters": [
+            "Lady Ana",
+            "Professor X"
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
         "book_description": "Do you want to talk about the difference between primary and secondary partners, negotiations, and the drama and heartache that comes with polyamorous relationships? Well, then, this panel is not for you! We're here to talk about all the good, fun times you can have in an open relationship, when you love more than one person. We'll laugh, we'll joke, and maybe remind people why they're poly after all!",
         "end_date": "4/30/2016",
         "title": "The Lighter Side of Poly",
@@ -3515,92 +3078,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "17:50"
-    },
-    {
-        "book_description": "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
-        "end_date": "4/30/2016",
-        "title": "The Golden Girls of Tech on T.V.",
-        "track": "Media, Tech",
-        "start_time": "17:00",
-        "presenters": [
-            "Jennifer Marsman",
-            "Deb Nicholson",
-            "Dawn Kuczwara"
-        ],
-        "location": "Charlevoix C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
-        "end_date": "4/30/2016",
-        "title": "Star Trek Five-Year Mission With Mini Expansions",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "David Whitcher"
-        ],
-        "location": "Game Table B, Game Table C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "2-4 players. Penguins at Penguicon? Of course! Use your penguins to collect fish and become the last penguin on the ice.",
-        "end_date": "4/30/2016",
-        "title": "Hey! That's My Fish!",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "Dave Green"
-        ],
-        "location": "Game Table E",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
-        "end_date": "4/30/2016",
-        "title": "Easy and Cheap: Healthy Meatless Meals",
-        "track": "Food",
-        "start_time": "17:00",
-        "presenters": [
-            "Amy Alice Wright"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
-        "end_date": "4/30/2016",
-        "title": "Quantum",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "Bryan Snell"
-        ],
-        "location": "Game Table D",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
-    },
-    {
-        "book_description": "2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
-        "end_date": "4/30/2016",
-        "title": "Splendor",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Game Table F",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
     },
     {
         "book_description": "Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you.",
@@ -3757,51 +3234,6 @@
         "minutes": 230,
         "start_date": "4/30/2016",
         "end_time": "21:50"
-    },
-    {
-        "book_description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D and D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
-        "end_date": "4/30/2016",
-        "title": "D and D 5E 3d Print and Play",
-        "track": "Gaming, DIY",
-        "start_time": "18:00",
-        "presenters": [
-            "Nichole Bulmer-Jones",
-            "Branden Coates",
-            "Antoni Williams",
-            "Alan Patrick"
-        ],
-        "location": "Game Table A",
-        "minutes": 290,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
-        "end_date": "4/30/2016",
-        "title": "Star Trek Five-Year Mission With Mini Expansions",
-        "track": "Gaming",
-        "start_time": "18:00",
-        "presenters": [
-            "David Whitcher"
-        ],
-        "location": "Game Table B, Game Table C",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
-    },
-    {
-        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
-        "end_date": "4/30/2016",
-        "title": "Codenames",
-        "track": "Gaming",
-        "start_time": "18:00",
-        "presenters": [
-            "Dave Green"
-        ],
-        "location": "Game Table E",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
     },
     {
         "book_description": "Have you always wanted to do partner dancing, but find keeping yourself within a set pattern constraining? Blues dance is an American idiom of partner dance that is freeform with limitless possibilities for creativity, including throwing out the partner bit and going solo. While blues dance gave rise to hip hop dancing, it also survives in modern culture as the awkward high school slow dance. Except real blues dance has more, well, pizzazz and a lot less awkwardness. No need for special shoes or a partner, comes as you are and well help you learn to groove.",
@@ -3997,6 +3429,20 @@
         "end_time": "19:50"
     },
     {
+        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
+        "end_date": "4/30/2016",
+        "title": "Sirius: The Open Source Intelligent Personal Assistant",
+        "track": "Tech",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Mars"
+        ],
+        "location": "Nicolet",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
         "book_description": "Discussion between fans of Hamilton the musical, those who've been to see it, those who want to see it, and those who just love the cast album. Geek about history and sing along to some of the songs!",
         "end_date": "4/30/2016",
         "title": "Hamilton the Musical Sing-A-Long",
@@ -4011,60 +3457,18 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "3 games of 2-4 players each. The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards? Sign up required at Ops.",
+        "book_description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
         "end_date": "4/30/2016",
-        "title": "Learn To Play Dominion",
-        "track": "Gaming",
-        "start_time": "19:00",
+        "title": "Pirate Rum History Tastings",
+        "track": "Food",
+        "start_time": "20:00",
         "presenters": [
-            "Rick Houser"
+            "Rathbone the Pirate"
         ],
-        "location": "Game Table A, Game Table B, Game Table C",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "20:50"
-    },
-    {
-        "book_description": "2-4 players. Players command spaceships that have been pulled through a black hole, transporting them into a different dimension. Lacking fuel to get home, you must collect basic elements from surrounding asteroids, using gravity and what little resources you have in order to reach the warp gate that will take you home. But in this dimension, moving ships will travel towards the nearest object, which is usually another ship. When those objects are moving either forward or backward, reaching the warp gate isn't always easy. Frozen hulks of dead spacecraft litter the escape route - but with careful cardplay, you can slingshot past these derelicts and be the first to escape from the Gravwell!",
-        "end_date": "4/30/2016",
-        "title": "Gravwell",
-        "track": "Gaming",
-        "start_time": "19:00",
-        "presenters": [
-            "Bryan Snell"
-        ],
-        "location": "Game Table D",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "20:50"
-    },
-    {
-        "book_description": "4-12 players. Two quick games played back to back. Salem incites the atmosphere of paranoia that held the village of Salem captive. Players act with the assumption that there are witches among them and there will be! Game play is simple: try to rid the village of witches and keep the identities of your own residents secret. In Deception, players take on the roles of investigators attempting to solve a murder case - but there's a twist. The killer is one of the investigators!",
-        "end_date": "4/30/2016",
-        "title": "Salem/Deception: Murder in Hong Kong",
-        "track": "Gaming",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table F",
+        "location": "1017",
         "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Hack of Honor guest Professor Jason Mars talks about emerging intelligent web services and Intelligent Personal Assistants, and specifically about Sirius, the open-source personal assistant being developed by him and Professor Lingjia Tang through Clarity Labs at the University of Michigan.",
-        "end_date": "4/30/2016",
-        "title": "Sirius: The Open Source Intelligent Personal Assistant",
-        "track": "Tech",
-        "start_time": "19:00",
-        "presenters": [
-            "Jason Mars"
-        ],
-        "location": "Nicolet",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
+        "end_time": "20:50"
     },
     {
         "book_description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
@@ -4146,20 +3550,6 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
-        "end_date": "4/30/2016",
-        "title": "Pirate Rum History Tastings",
-        "track": "Food",
-        "start_time": "20:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "20:50"
-    },
-    {
         "book_description": "Did you catch Part 1 (of 3) of the amazing Erika Wagner and Laura Cascos's Webcomics 101 panel? If you did...awesome! If you didn't...off to detention for you! Before you go to detention though, be sure to catch part 2 and learn about logistics and their importance in the Webcomic medium!",
         "end_date": "4/30/2016",
         "title": "Webcomics 101: Logistics",
@@ -4203,32 +3593,18 @@
         "end_time": "20:50"
     },
     {
-        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "book_description": "Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.",
         "end_date": "4/30/2016",
-        "title": "Dead of Winter",
-        "track": "Gaming",
-        "start_time": "20:00",
+        "title": "Taste My Pickle",
+        "track": "Food",
+        "start_time": "21:00",
         "presenters": [
-            "Sara Castle"
+            "Emily Tuesday"
         ],
-        "location": "Game Table F",
-        "minutes": 170,
+        "location": "1017",
+        "minutes": 50,
         "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empires hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
-        "end_date": "4/30/2016",
-        "title": "Star Wars: Imperial Assault",
-        "track": "Gaming",
-        "start_time": "20:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": -10,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
+        "end_time": "21:50"
     },
     {
         "book_description": "It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor.",
@@ -4338,20 +3714,6 @@
         "end_time": "21:50"
     },
     {
-        "book_description": "Do you like pickles? Then this is the event for you! A simple tasting of pickled fruits, vegetables, and nuts created by our Food Track Head, along with a discussion of the process of pickling with recipes.",
-        "end_date": "4/30/2016",
-        "title": "Taste My Pickle",
-        "track": "Food",
-        "start_time": "21:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "21:50"
-    },
-    {
         "book_description": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
         "end_date": "4/30/2016",
         "title": "Everything and Anything with BeagleBone",
@@ -4408,44 +3770,17 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "3-7 players. As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos? Sign up required at Ops.",
+        "book_description": "The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history! From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking! Audience questions are encouraged. So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!",
         "end_date": "4/30/2016",
-        "title": "Learn To Play 7 Wonders",
-        "track": "Gaming",
-        "start_time": "21:00",
+        "title": "DemonLobster.com Presents: History of the Cocktail",
+        "track": "Food",
+        "start_time": "22:00",
         "presenters": [
-            "Rick Houser"
+            "Scott Markwart",
+            "Steve Licavoli"
         ],
-        "location": "Game Table B, Game Table C",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "2-6 players. Build your Alhambra complex by using dice to build buildings.",
-        "end_date": "4/30/2016",
-        "title": "Alhambra Dice Game",
-        "track": "Gaming",
-        "start_time": "21:00",
-        "presenters": [
-            "Bryan Snell"
-        ],
-        "location": "Game Table D",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "3-5 players. In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!",
-        "end_date": "4/30/2016",
-        "title": "Sheriff of Nottingham",
-        "track": "Gaming",
-        "start_time": "21:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
+        "location": "1017",
+        "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "22:50"
     },
@@ -4494,21 +3829,6 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "The history and spirits nerds behind Sanity Claws Radio's 'Drink of the Week' feature present a journey through history - cocktail history! From the early muddlings of sugar, water, and bitters, to the first published bar-tending guide in the 1860's, to the birth of the modern mixed drink, our experts will take the audience on a verbal walking tour of their favorite pastime: drinking! Audience questions are encouraged. So, if you've ever wanted to know why 'Rum and Coke' exists (and would rather have the answer mixed with comedy than a Google search), this is the place for you!",
-        "end_date": "4/30/2016",
-        "title": "DemonLobster.com Presents: History of the Cocktail",
-        "track": "Food",
-        "start_time": "22:00",
-        "presenters": [
-            "Scott Markwart",
-            "Steve Licavoli"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
         "book_description": "Come and find out how how poly can be different with a D/s dynamic. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Polyamory and Kink",
@@ -4541,20 +3861,6 @@
         "end_time": "22:50"
     },
     {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "16:20",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
-    },
-    {
         "book_description": "Some ice creams / sorbets may be made with alcohol for this event. Only legal drinking age attendees allowed. IDs will be checked.",
         "end_date": "5/1/2016",
         "title": "LN2 After Hours II Ice Cream",
@@ -4567,20 +3873,6 @@
         "location": "Consuite",
         "minutes": -43090,
         "start_date": "4/30/2016",
-        "end_time": "0:50"
-    },
-    {
-        "book_description": "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
-        "end_date": "5/1/2016",
-        "title": "Hakosot",
-        "track": "Gaming",
-        "start_time": "0:00",
-        "presenters": [
-            "Mitchell Bowling"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
         "end_time": "0:50"
     },
     {
@@ -4707,6 +3999,20 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "10:50"
+    },
+    {
+        "book_description": "Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics. ",
+        "end_date": "5/1/2016",
+        "title": "Meta-Level Science",
+        "track": "Science",
+        "start_time": "10:00",
+        "presenters": [
+            "Dr. Justin Coven"
+        ],
+        "location": "EMC II",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
     },
     {
         "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
@@ -4846,20 +4152,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Enjoyable diversions or torture devices? You decide! Heres your chance to playtest two prototype motorized wooden board games. In \"Quatern\" up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \"Exquisite Corpse Machine 3\" is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
-        "end_date": "5/1/2016",
-        "title": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
-        "track": "Gaming",
-        "start_time": "10:00",
-        "presenters": [
-            "Andy Malone"
-        ],
-        "location": "Game Table A",
-        "minutes": 830,
-        "start_date": "5/1/2016",
-        "end_time": "23:50"
-    },
-    {
         "book_description": "Here we build off the Microprocessor Magic workshop and introduce a specialized version of the Arduino board. The Lilypad is a purpose-built design for the Arduino that is intended to be sewn into a garment or costume. Imagine a keypad sewn right into the sleeve of your jacket. What for? Actuate a glowing turn signal on the back of your riding jacket? Fire up the IR illuminators for your wearable cameras? Or you have a costume and you want the lights and tones to blink and bloop in time with your steps. The modules and connectors are sewn in and in most casdes can be handwashed along with the garment.",
         "end_date": "5/1/2016",
         "title": "Wearable Computing: Technology You Can Stitch Right In",
@@ -4964,20 +4256,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Lessons from Artificial Intelligence, Software Engineering, and Computer Science. Science is a continual and methodical process to match models to data (phenomenon) for utilitarian purposes. Science has the following Elements: Data; Models (e.g. Theories); Properties of Models, including computational characteristics and data matching measures; and Properties of Data, including measures of data to real world mapping. Science has no opinions, has no votes, no laws, no authorities, only naked properties, and measures. Lessons include: Reality, Models, Spaghetti, Measurement, Development, and Issues. Examples include: Entropy, Transformation of Energy, Relativity, and Sub-Quantum Kinetics. ",
-        "end_date": "5/1/2016",
-        "title": "Meta-Level Science",
-        "track": "Science",
-        "start_time": "10:00",
-        "presenters": [
-            "Dr. Justin Coven"
-        ],
-        "location": "EMC II",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "11:50"
-    },
-    {
         "book_description": "The maker movement has been making headlines, in particular the 3D printer space. Something that is often overlooked is the state of the software. Many manufacturers ship closed source software, which is against the spirit of the movement. We'll go through a quick overview of one 3D printer toolchain (FreeCAD, Slic3r, OctoPrint), and discuss possible alternatives at each stage. Other participants are strongly encouraged to bring a laptop running their maker software of choice (OSS only, please!) to share in a 2-5minute show and tell fashion. Other maker toolchain applications would be particularly welcome (PCB design/circuit simulation, CNC tooling, laser cutters, etc).",
         "end_date": "5/1/2016",
         "title": "Open Source Maker Apps",
@@ -5063,32 +4341,18 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "6 players (ages 13+). Lead a team of workers (dice) and recruits (cards) to claim mastery of the dystopian world. Produce commodities, dig tunnels to opposing areas, construct markets, collect artifacts, strengthen allegiances, and fulfill secret agendas. The number on each die represents a worker's knowledge his level of awareness that he's in a dystopia. This gives bonuses and impacts player interaction. If the collective knowledge of your workers gets too high, one of them might desert you! Control areas by constructing markets that impose harsh restrictions of freedoms upon other players. Gather rare artifacts from the old world, coveted by the elite, to exchange for tracts of land.",
+        "book_description": "You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen.",
         "end_date": "5/1/2016",
-        "title": "Euphoria",
-        "track": "Gaming",
-        "start_time": "11:00",
+        "title": "Preserving the Summer",
+        "track": "Food",
+        "start_time": "12:00",
         "presenters": [
-            "Eric McGlohon"
+            "Emily Tuesday"
         ],
-        "location": "Game Table C",
-        "minutes": 110,
+        "location": "1017",
+        "minutes": 0,
         "start_date": "5/1/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "4-6 players. A gangster band is splitting its loot, but they can't agree on the split! It's time to let the guns talk and soon everyone is aiming at everyone. The richest surviving gangster wins the game!",
-        "end_date": "5/1/2016",
-        "title": "Ca$h 'n' Gun$",
-        "track": "Gaming",
-        "start_time": "11:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table D",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
+        "end_time": "12:00"
     },
     {
         "book_description": "I love a good scarf; don't you? They are so warm and stylish. There are many different types of neckwear bandannas, shawls, stoles, ascots, boas, and kerchiefs. They are mainly used as fashionable accessories; but they also have a very practical utilitarian use as well. I'm talking about Self-Defense. Come learn to use scarves as a deceptive yet efficient Self-Defense tool. In this seminar you will learn to defend yourself using throws, locks, and binding.",
@@ -5208,6 +4472,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas. Birds of a Feather events are unmoderated.",
+        "end_date": "5/1/2016",
+        "title": "BoF: Media Creators",
+        "track": "Media",
+        "start_time": "12:00",
+        "presenters": [
+            ""
+        ],
+        "location": "EMC II",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "Better FS, Butter FS, B-Tree FS? What is it called, and why should you care about a new filesystem for Linux? Come learn about the advanced features, design, and use of one of Linux's most exciting new features. We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache. ",
         "end_date": "5/1/2016",
         "title": "Better Filesystems with Btrfs",
@@ -5220,20 +4498,6 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "12:50"
-    },
-    {
-        "book_description": "You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen.",
-        "end_date": "5/1/2016",
-        "title": "Preserving the Summer",
-        "track": "Food",
-        "start_time": "12:00",
-        "presenters": [
-            "Emily Tuesday"
-        ],
-        "location": "1017",
-        "minutes": 0,
-        "start_date": "5/1/2016",
-        "end_time": "12:00"
     },
     {
         "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
@@ -5281,18 +4545,18 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
+        "book_description": "Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!",
         "end_date": "5/1/2016",
-        "title": "Coup",
-        "track": "Gaming",
-        "start_time": "12:00",
+        "title": "Let's Eat Weeds!",
+        "track": "Food",
+        "start_time": "13:00",
         "presenters": [
-            "Sara Castle"
+            "Kristoffer Marshall"
         ],
-        "location": "Game Table F",
+        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
-        "end_time": "12:50"
+        "end_time": "13:50"
     },
     {
         "book_description": "Cliches in fantasy and science fiction are a big no-no... except when they arent. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre?",
@@ -5417,20 +4681,6 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Doesn't matter what you create. If you want to to talk about music, movies, comics, writing . . . this is the place to share ideas. Birds of a Feather events are unmoderated.",
-        "end_date": "5/1/2016",
-        "title": "BoF: Media Creators",
-        "track": "Media",
-        "start_time": "12:00",
-        "presenters": [
-            ""
-        ],
-        "location": "EMC II",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
-    },
-    {
         "book_description": "This talk will teach the basics of engineering structural parts to be fabricated using extruded plastic from a 3D printer nozzle. Simple design concepts such as tensile strength, Poisson's ratio, and stress risers will be explained and used to demonstrate how to make optimal material, shape, and functional choices. Particular attention will be paid to the peculiarities of parts made with layers of extruded plastic and destined for the high-stresses imparted on parts destined for use in 3D-printed firearms.",
         "end_date": "5/1/2016",
         "title": "Basic Design Criteria for 3D-Printed Firearms",
@@ -5454,20 +4704,6 @@
             ""
         ],
         "location": "EMC V",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Do you like eating new things? Maybe you'd like to supplement your diet? What will you eat when SHTF? Did you know that many weeds in the US were introduced from Europe originally as food sources? Many weeds are also high in vitamins and minerals you're not getting from normal store-bought foods. I'd like to introduce you to the wonderful (free) world of weeds! Your backyard is an untapped resource of possibilities!",
-        "end_date": "5/1/2016",
-        "title": "Let's Eat Weeds!",
-        "track": "Food",
-        "start_time": "13:00",
-        "presenters": [
-            "Kristoffer Marshall"
-        ],
-        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "13:50"
@@ -5533,61 +4769,18 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "1-4 players. Roll and place your dice to gain advantages over your opponent and block them out of useful areas of the board. Use Alien Tech cards to manipulate your dice rolls and territory bonuses to break the rules. Steal resources, overtake territories, and do whatever it takes to get your colonies on the map first!",
+        "book_description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "end_date": "5/1/2016",
-        "title": "Alien Frontiers",
-        "track": "Gaming",
-        "start_time": "13:00",
+        "title": "Eat Like a Pirate",
+        "track": "Food",
+        "start_time": "14:00",
         "presenters": [
-            "Eric McGlohon"
+            "Rathbone the Pirate"
         ],
-        "location": "Game Table C",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "5/1/2016",
-        "title": "Paint and Take",
-        "track": "Gaming, DIY",
-        "start_time": "13:00",
-        "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
-        ],
-        "location": "Game Table H, Game Table I",
-        "minutes": 170,
-        "start_date": "5/1/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "1-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
-        "end_date": "5/1/2016",
-        "title": "Splendor",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Steve Benson"
-        ],
-        "location": "Game Table E",
-        "minutes": 110,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "3-7 players. 7 Wonders is a card drafting, set collection game in which players compete to advance their civilization through building wonders, developing technological skills, and/or creating a powerful military.",
-        "end_date": "5/1/2016",
-        "title": "7 Wonders",
-        "track": "Gaming",
-        "start_time": "13:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Game Table F",
+        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
-        "end_time": "13:50"
+        "end_time": "14:50"
     },
     {
         "book_description": "Come play an open source or retro game while performing an exercise! See if you can play a platform game with a game controller while squatting, or perform a 1 Arm Row with a band with 1 hand and play a retro shooter game that uses the directional buttons on a gamepad on the other hand. The player with the highest number of reps wins. An awesome way to experience somewhat obscure, yet awesome console and PC games, while burning off some con-calories at the same time.",
@@ -5739,20 +4932,6 @@
             "Gnora Ford-Lepthien"
         ],
         "location": "EMC V",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
-        "end_date": "5/1/2016",
-        "title": "Eat Like a Pirate",
-        "track": "Food",
-        "start_time": "14:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "1017",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "14:50"
@@ -5944,17 +5123,824 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Don't touch the sides! Test your hand-eye coordination and fine motor skills in life-size with Lansing Maker Network's MegOperation, an interactive, large-scale version of the classic game Operation!",
-        "end_date": "5/1/2016",
-        "title": "MegOperation",
-        "track": "Gaming",
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/29/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
         "start_time": "16:00",
         "presenters": [
-            ""
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 350,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.",
+        "end_date": "4/29/2016",
+        "title": "Space Alert",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "2-6 players. One of the best worker-placement games, with a strong D and D theme. Recruit fighters, rogues, clerics, and wizards to complete quests.",
+        "end_date": "4/29/2016",
+        "title": "Lords of Waterdeep",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. ",
+        "end_date": "4/29/2016",
+        "title": "Mahjong",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Anne Zanoni"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1-5 in each color. For each color, the players try to place a row in the correct order from 1-5. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards.",
+        "end_date": "4/29/2016",
+        "title": "Hanabi",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Westbrook"
+        ],
+        "location": "Game Table B",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!",
+        "end_date": "4/29/2016",
+        "title": "Spyfall",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)",
+        "end_date": "4/29/2016",
+        "title": "Rathbone Vs Everybody",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Game Table A, Game Table B",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take...",
+        "end_date": "4/29/2016",
+        "title": "Descent 2nd Edition",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Westbrook"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win.",
+        "end_date": "4/29/2016",
+        "title": "Tokaido",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population.",
+        "end_date": "4/29/2016",
+        "title": "Pandemic",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed.",
+        "end_date": "4/29/2016",
+        "title": "The Big Book of Madness",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.",
+        "end_date": "4/29/2016",
+        "title": "Pack 'O Game",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Bob Brodis"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
+    },
+    {
+        "book_description": "2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!",
+        "end_date": "4/30/2016",
+        "title": "Arkham Horror",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Cory Tebo"
+        ],
+        "location": "Game Table A",
+        "minutes": 290,
+        "start_date": "4/29/2016",
+        "end_time": "2:50"
+    },
+    {
+        "book_description": "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the drivers seat of the famous DeLorean! Sign up required at Ops.",
+        "end_date": "4/29/2016",
+        "title": "Learn To Play Back To The Future",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
+        "end_date": "4/29/2016",
+        "title": "Zombicide: Black Plague",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "A deception party game for 7-15 players. Players are assigned roles secretly. Most players are Villagers, two or three will be Werewolves. The Villagers try to figure out who the werewolves are during the day, and the Werewolves eat the Villagers at night.",
+        "end_date": "5/1/2016",
+        "title": "Are You A Werewolf",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Sara Castle"
         ],
         "location": "Lobby",
-        "minutes": -40380,
+        "minutes": -41640,
         "start_date": "4/29/2016",
-        "end_time": "15:00"
+        "end_time": "0:00"
+    },
+    {
+        "book_description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
+        "end_date": "4/30/2016",
+        "title": "The Quiet Year",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
+        "end_date": "4/30/2016",
+        "title": "One Night Werewolf",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
+        "end_date": "4/30/2016",
+        "title": "Legendary Encounters",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "Learn several card games and board games from the late 17th and early 18th centuries.",
+        "end_date": "4/30/2016",
+        "title": "Authentic Pirate Games",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Game Table B",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
+        "end_date": "4/30/2016",
+        "title": "Abyss",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
+        "end_date": "4/30/2016",
+        "title": "Lords of Waterdeep",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Timothy Brown"
+        ],
+        "location": "Game Table B",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
+        "end_date": "4/30/2016",
+        "title": "Intro to Android: Netrunner Card Game",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Eric McGlohon",
+            "Bryan Snell"
+        ],
+        "location": "Game Table C",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+        "end_date": "4/30/2016",
+        "title": "Codenames",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/30/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "13:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 230,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+        "end_date": "4/30/2016",
+        "title": "Warlords of the 6 Kingdoms",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Nikolas Smart"
+        ],
+        "location": "Game Table A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "end_date": "4/30/2016",
+        "title": "Dead of Winter",
+        "track": "Gaming",
+        "start_time": "14:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
+        "end_date": "4/30/2016",
+        "title": "Kalidasia Fleet Commander - The Siege of Cadre 4",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Jason Rutherford"
+        ],
+        "location": "Game Table A",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. Three 1-vs-1 games will play simultaneously.",
+        "end_date": "4/30/2016",
+        "title": "Order of the Wand",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets - goal cards that connect distant cities; and to the player who builds the longest continuous route.",
+        "end_date": "4/30/2016",
+        "title": "Ticket to Ride",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "3-6 players. Board game where you explore a spooky house tile by tile to defeat a traitorous fellow player.",
+        "end_date": "4/30/2016",
+        "title": "Betrayal at House on the Hill",
+        "track": "Gaming",
+        "start_time": "15:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
+        "book_description": "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
+        "end_date": "4/30/2016",
+        "title": "The Golden Girls of Tech on T.V.",
+        "track": "Media, Tech",
+        "start_time": "17:00",
+        "presenters": [
+            "Jennifer Marsman",
+            "Deb Nicholson",
+            "Dawn Kuczwara"
+        ],
+        "location": "Charlevoix C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+        "end_date": "4/30/2016",
+        "title": "Star Trek Five-Year Mission With Mini Expansions",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
+        "end_date": "4/30/2016",
+        "title": "Quantum",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "2-4 players. Penguins at Penguicon? Of course! Use your penguins to collect fish and become the last penguin on the ice.",
+        "end_date": "4/30/2016",
+        "title": "Hey! That's My Fish!",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Dave Green"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
+        "end_date": "4/30/2016",
+        "title": "Splendor",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D and D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
+        "end_date": "4/30/2016",
+        "title": "D and D 5E 3d Print and Play",
+        "track": "Gaming, DIY",
+        "start_time": "18:00",
+        "presenters": [
+            "Nichole Bulmer-Jones",
+            "Branden Coates",
+            "Antoni Williams",
+            "Alan Patrick"
+        ],
+        "location": "Game Table A",
+        "minutes": 290,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+        "end_date": "4/30/2016",
+        "title": "Star Trek Five-Year Mission With Mini Expansions",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "David Whitcher"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+        "end_date": "4/30/2016",
+        "title": "Codenames",
+        "track": "Gaming",
+        "start_time": "18:00",
+        "presenters": [
+            "Dave Green"
+        ],
+        "location": "Game Table E",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "3 games of 2-4 players each. The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards? Sign up required at Ops.",
+        "end_date": "4/30/2016",
+        "title": "Learn To Play Dominion",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table A, Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "2-4 players. Players command spaceships that have been pulled through a black hole, transporting them into a different dimension. Lacking fuel to get home, you must collect basic elements from surrounding asteroids, using gravity and what little resources you have in order to reach the warp gate that will take you home. But in this dimension, moving ships will travel towards the nearest object, which is usually another ship. When those objects are moving either forward or backward, reaching the warp gate isn't always easy. Frozen hulks of dead spacecraft litter the escape route - but with careful cardplay, you can slingshot past these derelicts and be the first to escape from the Gravwell!",
+        "end_date": "4/30/2016",
+        "title": "Gravwell",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "4-12 players. Two quick games played back to back. Salem incites the atmosphere of paranoia that held the village of Salem captive. Players act with the assumption that there are witches among them and there will be! Game play is simple: try to rid the village of witches and keep the identities of your own residents secret. In Deception, players take on the roles of investigators attempting to solve a murder case - but there's a twist. The killer is one of the investigators!",
+        "end_date": "4/30/2016",
+        "title": "Salem/Deception: Murder in Hong Kong",
+        "track": "Gaming",
+        "start_time": "19:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+        "end_date": "4/30/2016",
+        "title": "Dead of Winter",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empires hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
+        "end_date": "4/30/2016",
+        "title": "Star Wars: Imperial Assault",
+        "track": "Gaming",
+        "start_time": "20:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": -10,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "3-7 players. As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos? Sign up required at Ops.",
+        "end_date": "4/30/2016",
+        "title": "Learn To Play 7 Wonders",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Rick Houser"
+        ],
+        "location": "Game Table B, Game Table C",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "2-6 players. Build your Alhambra complex by using dice to build buildings.",
+        "end_date": "4/30/2016",
+        "title": "Alhambra Dice Game",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Bryan Snell"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "3-5 players. In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!",
+        "end_date": "4/30/2016",
+        "title": "Sheriff of Nottingham",
+        "track": "Gaming",
+        "start_time": "21:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
+        "book_description": "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
+        "end_date": "5/1/2016",
+        "title": "Hakosot",
+        "track": "Gaming",
+        "start_time": "0:00",
+        "presenters": [
+            "Mitchell Bowling"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "0:50"
+    },
+    {
+        "book_description": "Enjoyable diversions or torture devices? You decide! Heres your chance to playtest two prototype motorized wooden board games. In \"Quatern\" up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \"Exquisite Corpse Machine 3\" is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
+        "end_date": "5/1/2016",
+        "title": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
+        "track": "Gaming",
+        "start_time": "10:00",
+        "presenters": [
+            "Andy Malone"
+        ],
+        "location": "Game Table A",
+        "minutes": 830,
+        "start_date": "5/1/2016",
+        "end_time": "23:50"
+    },
+    {
+        "book_description": "6 players (ages 13+). Lead a team of workers (dice) and recruits (cards) to claim mastery of the dystopian world. Produce commodities, dig tunnels to opposing areas, construct markets, collect artifacts, strengthen allegiances, and fulfill secret agendas. The number on each die represents a worker's knowledge his level of awareness that he's in a dystopia. This gives bonuses and impacts player interaction. If the collective knowledge of your workers gets too high, one of them might desert you! Control areas by constructing markets that impose harsh restrictions of freedoms upon other players. Gather rare artifacts from the old world, coveted by the elite, to exchange for tracts of land.",
+        "end_date": "5/1/2016",
+        "title": "Euphoria",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "4-6 players. A gangster band is splitting its loot, but they can't agree on the split! It's time to let the guns talk and soon everyone is aiming at everyone. The richest surviving gangster wins the game!",
+        "end_date": "5/1/2016",
+        "title": "Ca$h 'n' Gun$",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table D",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
+        "end_date": "5/1/2016",
+        "title": "Coup",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "1-4 players. Roll and place your dice to gain advantages over your opponent and block them out of useful areas of the board. Use Alien Tech cards to manipulate your dice rolls and territory bonuses to break the rules. Steal resources, overtake territories, and do whatever it takes to get your colonies on the map first!",
+        "end_date": "5/1/2016",
+        "title": "Alien Frontiers",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Eric McGlohon"
+        ],
+        "location": "Game Table C",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "1-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
+        "end_date": "5/1/2016",
+        "title": "Splendor",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Steve Benson"
+        ],
+        "location": "Game Table E",
+        "minutes": 110,
+        "start_date": "5/1/2016",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "3-7 players. 7 Wonders is a card drafting, set collection game in which players compete to advance their civilization through building wonders, developing technological skills, and/or creating a powerful military.",
+        "end_date": "5/1/2016",
+        "title": "7 Wonders",
+        "track": "Gaming",
+        "start_time": "13:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "5/1/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "13:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 170,
+        "start_date": "5/1/2016",
+        "end_time": "15:50"
     }
 ]
