@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<day>FRIDAY, APRIL 29</day>
+<day>FRIDAY, APRIL 29</day><day>All Weekend</day>
 <time>4 PM</time>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> This customizable marble roller coaster is a perennial favorite, serving as a metaphor for the open source development process. The Chaos Machine is available all weekend for Penguicon attendees to tinker with! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
 <event><title>Free Fates Fortune Telling Booth</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
