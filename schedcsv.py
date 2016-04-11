@@ -584,7 +584,8 @@ with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
 
 with open(rp + conyear + ".testingprogrambook.xml", 'w') as myoutput:
     myoutput.write(testbook)
-
+with open("penguicon.schedule.xml", 'w') as myoutput:
+    myoutput.write(testbook)
 
 """
 schedule by room
@@ -638,44 +639,6 @@ myoutput.close()
 #for key, value in speaker_events_dict.items():
 #    writer.writerow([key, ', '.join(value)] )
 #    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
-
-
-
-
-# Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')
-outputfile = open('penguicon.schedule.xml', 'w')
-
-# current time is set to the initial start time of 4 pm for the 2015 year... this could change year to year
-currenttime = '<time>4 PM</time>'
-
-# this line is used for 'all weekend events' 
-# which are typically listed in the beginning
-# before any other events in the program book
-# then the variable is reused in the loop
-lasttime = '<day>All Weekend</day>'
-lastday = '<day>All Weekend</day>'
-firstday = True
-for row in inputfile:
-    if '<time>' in row:
-        currenttime = row
-        if currenttime != lasttime:
-            outputfile.write(row)
-            lasttime = row
-    elif '<day>' in row:
-        currentday = row
-        #if firstday == False:
-        if currentday != lastday:
-            outputfile.write(row)
-            lastday = row
-        #else:
-        #    outputfile.write(row)
-        #    firstday = False
-    else: # If this is not a time row
-        outputfile.write(row)
-
-inputfile.close()
-outputfile.close()
 
 
 ### conyear.penguicon.schedule.allrooms.xml ###
