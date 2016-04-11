@@ -6181,7 +6181,7 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "23:50",
         "event_type_list": [
             "Gaming"
@@ -6216,9 +6216,9 @@
             "Learn To Play Back To The Future",
             "Rick Houser",
             "2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\u2019s seat of the famous DeLorean! Sign up required at Ops.",
+            "01hr:50min",
             "",
-            "",
-            "",
+            "FALSE",
             ""
         ],
         "End Date": "4/29/2016",
@@ -6252,7 +6252,7 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "23:50",
         "event_type_list": [
             "Gaming"
@@ -6287,9 +6287,9 @@
             "Zombicide: Black Plague",
             "Jason Sonk",
             "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
+            "01hr:50min",
             "",
-            "",
-            "",
+            "FALSE",
             ""
         ],
         "End Date": "4/29/2016",
@@ -6396,12 +6396,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "0:00",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 AM",
         "Location": "Lobby",
         "duration": "00 minutes",
@@ -6431,10 +6431,10 @@
             "Are You A Werewolf",
             "Sara Castle",
             "A deception party game for 7-15 players. Players are assigned roles secretly. Most players are Villagers, two or three will be Werewolves. The Villagers try to figure out who the werewolves are during the day, and the Werewolves eat the Villagers at night.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "5/1/2016",
         "calspeakers": "Sara Castle",
@@ -6451,7 +6451,7 @@
         "endtime": "0:00",
         "AV Needs": "",
         "name": "Are You A Werewolf",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Are You A Werewolf",
         "venue": "Lobby",
         "Book Description": "A deception party game for 7-15 players. Players are assigned roles secretly. Most players are Villagers, two or three will be Werewolves. The Villagers try to figure out who the werewolves are during the day, and the Werewolves eat the Villagers at night.",
@@ -6897,12 +6897,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "0:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 AM",
         "Location": "Game Table G",
         "duration": "50 minutes",
@@ -6932,10 +6932,10 @@
             "The Quiet Year",
             "Jason Sonk",
             "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
@@ -6952,7 +6952,7 @@
         "endtime": "0:50",
         "AV Needs": "",
         "name": "The Quiet Year",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "The Quiet Year",
         "venue": "Game Table G",
         "Book Description": "2-4 players. The Quiet Year is a map game. You define the struggles of a post-apocalyptic community, and attempt to build something good within their quiet year. Every decision and every action is set against a backdrop of dwindling time and rising concern.",
@@ -6968,12 +6968,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "0:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 AM",
         "Location": "Lobby",
         "duration": "50 minutes",
@@ -7003,10 +7003,10 @@
             "One Night Werewolf",
             "Sara Castle",
             "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
@@ -7023,7 +7023,7 @@
         "endtime": "0:50",
         "AV Needs": "",
         "name": "One Night Werewolf",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "One Night Werewolf",
         "venue": "Lobby",
         "Book Description": "3-7 players. Fast deduction game in which everyone gets one of a dozen different roles, each with a special ability. In the course of a single morning, your village will decide who is a werewolf...because all it takes is lynching one werewolf to win!",
@@ -7291,7 +7291,7 @@
             "Hands on Soldering and Embedded Programming with All Hands Active",
             "All Hands Active",
             "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -8167,7 +8167,7 @@
             "Backyard Brains Demo #1",
             "Greg Gage",
             "Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work.",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -8240,7 +8240,7 @@
             "Dangerous Things RFID Implanations",
             "Amal Graafstra, Anita Fowler",
             "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -10077,7 +10077,7 @@
             "Retrogaming",
             "Angie Rush",
             "Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!",
-            "",
+            "05hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -10561,12 +10561,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "12:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 PM",
         "Location": "Game Table A",
         "duration": "50 minutes",
@@ -10596,10 +10596,10 @@
             "Warlords of the 6 Kingdoms",
             "Nikolas Smart",
             "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
@@ -10616,7 +10616,7 @@
         "endtime": "12:50",
         "AV Needs": "",
         "name": "Warlords of the 6 Kingdoms",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Warlords of the 6 Kingdoms",
         "venue": "Game Table A",
         "Book Description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
@@ -10632,12 +10632,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "12:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 PM",
         "Location": "Game Table B",
         "duration": "50 minutes",
@@ -10667,10 +10667,10 @@
             "Authentic Pirate Games",
             "Rathbone the Pirate",
             "Learn several card games and board games from the late 17th and early 18th centuries.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Rathbone the Pirate",
@@ -10687,7 +10687,7 @@
         "endtime": "12:50",
         "AV Needs": "",
         "name": "Authentic Pirate Games",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Authentic Pirate Games",
         "venue": "Game Table B",
         "Book Description": "Learn several card games and board games from the late 17th and early 18th centuries.",
@@ -10703,12 +10703,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "12:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 PM",
         "Location": "Game Table E",
         "duration": "50 minutes",
@@ -10738,10 +10738,10 @@
             "Abyss",
             "Steve Benson",
             "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
@@ -10758,7 +10758,7 @@
         "endtime": "12:50",
         "AV Needs": "",
         "name": "Abyss",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Abyss",
         "venue": "Game Table E",
         "Book Description": "2-4 players. Use all of your cunning to win or buy votes in the Council. Recruit the most influential Lords and abuse their powers to take control of the most strategic territories.",
@@ -10811,7 +10811,7 @@
             "i3 Vinyl Tshirts",
             "Yajie Wang",
             "i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to a awesome decoration in your shirt or mug! i3 will also demonstrate the basic functions in our new software \u201cSure Cuts A Lot\u201d. It\u2019s straightforward and interesting! ",
-            "1h 50 m",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -11239,7 +11239,7 @@
             "Walk the Solar System",
             "",
             "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
-            "",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -12008,12 +12008,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "13:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "1 PM",
         "Location": "Game Table A",
         "duration": "50 minutes",
@@ -12043,10 +12043,10 @@
             "Warlords of the 6 Kingdoms",
             "Nikolas Smart",
             "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
@@ -12063,7 +12063,7 @@
         "endtime": "13:50",
         "AV Needs": "",
         "name": "Warlords of the 6 Kingdoms",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Warlords of the 6 Kingdoms",
         "venue": "Game Table A",
         "Book Description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
@@ -12079,12 +12079,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "14:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "2 PM",
         "Location": "Game Table B",
         "duration": "1 hour and 50 minutes",
@@ -12114,10 +12114,10 @@
             "Lords of Waterdeep",
             "Timothy Brown",
             "2-6 players. Includes Skullport expansion. A worker placement style game with a D&D theme. Rules are quick to learn but it still has depth.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Timothy Brown",
@@ -12134,7 +12134,7 @@
         "endtime": "14:50",
         "AV Needs": "",
         "name": "Lords of Waterdeep",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Lords of Waterdeep",
         "venue": "Game Table B",
         "Book Description": "2-6 players. Includes Skullport expansion. A worker placement style game with a D and D theme. Rules are quick to learn but it still has depth.",
@@ -12150,12 +12150,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table C",
         "duration": "3 hours and 50 minutes",
@@ -12185,10 +12185,10 @@
             "Intro to Android: Netrunner Card Game",
             "Eric McGlohon, Bryan Snell",
             "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
+            "03hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Eric McGlohon, Bryan Snell",
@@ -12207,7 +12207,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Intro to Android: Netrunner Card Game",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Intro to Android: Netrunner Card Game",
         "venue": "Game Table C",
         "Book Description": "Max 8 players (ages 13+). Beginners encouraged to attend. Learn how to play this Living Customizable Card Game for two players, set in the cyberpunk future of \"Android\" and \"Infiltration\"! One player is a megacorporation and the other is a runner. Corporations must secure their servers and data forts with security programs. Runners need to spend their time and credits developing sufficiently powerful wealth, hardware, and software to hack past corporate security measures. They risk having their best programs trashed or captured by a trace program and left vulnerable to corporate countermeasures, or suffer massive brain damage from a failed intrusion attempt.",
@@ -12223,12 +12223,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "13:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "1 PM",
         "Location": "Game Table G",
         "duration": "50 minutes",
@@ -12258,10 +12258,10 @@
             "Codenames",
             "Jason Sonk",
             "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
@@ -12278,7 +12278,7 @@
         "endtime": "13:50",
         "AV Needs": "",
         "name": "Codenames",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Codenames",
         "venue": "Game Table G",
         "Book Description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
@@ -12294,13 +12294,13 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming, DIY",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming",
             "DIY"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table H, Game Table I",
         "duration": "3 hours and 50 minutes",
@@ -12331,10 +12331,10 @@
             "Paint and Take",
             "Linda Martelle, Dean Martelle",
             "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person.",
+            "03hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Linda Martelle, Dean Martelle",
@@ -12353,7 +12353,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Paint and Take",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Paint and Take",
         "venue": "Game Table H, Game Table I",
         "Book Description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
@@ -13620,12 +13620,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "14:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "2 PM",
         "Location": "Game Table A",
         "duration": "50 minutes",
@@ -13655,10 +13655,10 @@
             "Warlords of the 6 Kingdoms",
             "Nikolas Smart",
             "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord who\u2019s off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
@@ -13675,7 +13675,7 @@
         "endtime": "14:50",
         "AV Needs": "",
         "name": "Warlords of the 6 Kingdoms",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Warlords of the 6 Kingdoms",
         "venue": "Game Table A",
         "Book Description": "2-6 players. There can only be one! Take the role of a raucous, power-hungry warlord whos off to conquer the 6 kingdoms! Select one city at a time, and send a champion to win it using the savory influence of fear, bribes, or pure military strength. If multiple warlords have sent a champion, the one with the highest of the three influences will be victorious. But simply approaching a city won't cut it: hazards and defenses must be navigated, or your champion won't even get close!",
@@ -13691,12 +13691,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table G",
         "duration": "2 hours and 50 minutes",
@@ -13726,10 +13726,10 @@
             "Dead of Winter",
             "Jason Sonk",
             "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+            "02hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
@@ -13746,7 +13746,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Dead of Winter",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Dead of Winter",
         "venue": "Game Table G",
         "Book Description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
@@ -13799,7 +13799,7 @@
             "Hands on Soldering and Embedded Programming with All Hands Active",
             "All Hands Active",
             "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -14867,12 +14867,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table A",
         "duration": "1 hour and 50 minutes",
@@ -14902,10 +14902,10 @@
             "Kalidasia Fleet Commander - The Siege of Cadre 4",
             "Jason Rutherford",
             "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay.  Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Rutherford",
@@ -14922,7 +14922,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Kalidasia Fleet Commander - The Siege of Cadre 4",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Kalidasia Fleet Commander - The Siege of Cadre 4",
         "venue": "Game Table A",
         "Book Description": "The Surakari have invaded Cadre 4 and it is up to a small Heragul fleet to hold the aliens at bay. Come defend Cadre 4(or destroy it!) in this two player asymmetrical game of planetary siege.",
@@ -14938,12 +14938,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table B",
         "duration": "1 hour and 50 minutes",
@@ -14973,10 +14973,10 @@
             "Order of the Wand",
             "David Whitcher",
             "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. Three 1-vs-1 games will play simultaneously.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
@@ -14993,7 +14993,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Order of the Wand",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Order of the Wand",
         "venue": "Game Table B",
         "Book Description": "Engage in wizarding combat with tiles and wands. Arrange tiles next to each other, so that when you lay your wand across them, it will touch their magical sigils to cast a spell on your opponent. An unpublished prototype by the designer of Tahiti and Nitro Dice. Three 1-vs-1 games will play simultaneously.",
@@ -15009,12 +15009,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table E",
         "duration": "1 hour and 50 minutes",
@@ -15044,10 +15044,10 @@
             "Ticket to Ride",
             "Steve Benson",
             "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets \u2013 goal cards that connect distant cities; and to the player who builds the longest continuous route.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
@@ -15064,7 +15064,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Ticket to Ride",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Ticket to Ride",
         "venue": "Game Table E",
         "Book Description": "2-5 players. Players collect cards of various types of train cars they then use to claim railway routes in North America. The longer the routes, the more points they earn. Additional points come to those who fulfill Destination Tickets - goal cards that connect distant cities; and to the player who builds the longest continuous route.",
@@ -15080,12 +15080,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "16:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "4 PM",
         "Location": "Game Table F",
         "duration": "1 hour and 50 minutes",
@@ -15115,10 +15115,10 @@
             "Betrayal at House on the Hill",
             "Sara Castle",
             "3-6 players. Board game where you explore a spooky house tile by tile to defeat a traitorous fellow player.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
@@ -15135,7 +15135,7 @@
         "endtime": "16:50",
         "AV Needs": "",
         "name": "Betrayal at House on the Hill",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Betrayal at House on the Hill",
         "venue": "Game Table F",
         "Book Description": "3-6 players. Board game where you explore a spooky house tile by tile to defeat a traitorous fellow player.",
@@ -16842,13 +16842,13 @@
     {
         "allday": "FALSE",
         "event_type": "Media, Tech",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "17:50",
         "event_type_list": [
             "Media",
             "Tech"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "5 PM",
         "Location": "Charlevoix C",
         "duration": "50 minutes",
@@ -16879,10 +16879,10 @@
             "The Golden Girls of Tech on T.V.",
             "Jennifer Marsman, Deb Nicholson, Dawn Kuczwara",
             "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jennifer Marsman, Deb Nicholson, Dawn Kuczwara",
@@ -16903,7 +16903,7 @@
         "endtime": "17:50",
         "AV Needs": "",
         "name": "The Golden Girls of Tech on T.V.",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "The Golden Girls of Tech on T.V.",
         "venue": "Charlevoix C",
         "Book Description": "Ageism directed at women in the world of T.V. and movies is a well known issue, with the average age difference between leading men and women counted in decades, and significant roles for actresses over 40 scarce. But what about portrayals of older women in tech? How does media representation specifically of older women in tech impact women in STEM fields?",
@@ -17134,12 +17134,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "17:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "5 PM",
         "Location": "Game Table B, Game Table C",
         "duration": "50 minutes",
@@ -17169,10 +17169,10 @@
             "Star Trek Five-Year Mission With Mini Expansions",
             "David Whitcher",
             "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow & red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
@@ -17189,7 +17189,7 @@
         "endtime": "17:50",
         "AV Needs": "",
         "name": "Star Trek Five-Year Mission With Mini Expansions",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Star Trek Five-Year Mission With Mini Expansions",
         "venue": "Game Table B, Game Table C",
         "Book Description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
@@ -17205,12 +17205,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "18:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "6 PM",
         "Location": "Game Table D",
         "duration": "1 hour and 50 minutes",
@@ -17240,10 +17240,10 @@
             "Quantum",
             "Bryan Snell",
             "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
@@ -17260,7 +17260,7 @@
         "endtime": "18:50",
         "AV Needs": "",
         "name": "Quantum",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Quantum",
         "venue": "Game Table D",
         "Book Description": "2-4 players. Send out the scouts! Position the Flagship in tactical orbit! And reconfigure that Battlestation into something new! Your fleet of loyal ships, powered by the might of quantum probability itself, carries your empire to the far-flung stars. How will history remember you? As a ravenous destroyer? A clever tactician? A dauntless explorer? Command your armada, construct world-shattering technologies, and rally the remnants of humanity for a final confrontation. In Quantum, each player is a fleet commander from one of the four factions of humanity, struggling to conquer a sector of space.",
@@ -17276,12 +17276,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "17:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "5 PM",
         "Location": "Game Table E",
         "duration": "50 minutes",
@@ -17311,10 +17311,10 @@
             "Hey! That's My Fish!",
             "Dave Green",
             "2-4 players. Penguins at Penguicon? Of course! Use your penguins to collect fish and become the last penguin on the ice.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Dave Green",
@@ -17331,7 +17331,7 @@
         "endtime": "17:50",
         "AV Needs": "",
         "name": "Hey! That's My Fish!",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Hey! That's My Fish!",
         "venue": "Game Table E",
         "Book Description": "2-4 players. Penguins at Penguicon? Of course! Use your penguins to collect fish and become the last penguin on the ice.",
@@ -17347,12 +17347,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "18:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "6 PM",
         "Location": "Game Table F",
         "duration": "1 hour and 50 minutes",
@@ -17382,10 +17382,10 @@
             "Splendor",
             "Sara Castle",
             "2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
@@ -17402,7 +17402,7 @@
         "endtime": "18:50",
         "AV Needs": "",
         "name": "Splendor",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Splendor",
         "venue": "Game Table F",
         "Book Description": "2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige.",
@@ -17455,7 +17455,7 @@
             "Hackforge Demo",
             "Sarah Morris",
             "Windsor Hackforge is a shared space where creative technological minds come together and make things happen. They are bringing a hands-on project to this side of the Detroit River. Watching is free, but attendees who want to build along will be asked for a donation to cover the costs of materials.",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -18231,13 +18231,13 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming, DIY",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "22:50",
         "event_type_list": [
             "Gaming",
             "DIY"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "10 PM",
         "Location": "Game Table A",
         "duration": "4 hours and 50 minutes",
@@ -18268,10 +18268,10 @@
             "D&D 5E 3d Print and Play",
             "Nichole Bulmer-Jones, Branden Coates, Antoni Williams, Alan Patrick",
             "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D&D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
-            "00hr:50min",
+            "04hr:50min",
             "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Nichole Bulmer-Jones, Branden Coates, Antoni Williams, Alan Patrick",
@@ -18294,7 +18294,7 @@
         "endtime": "22:50",
         "AV Needs": "",
         "name": "D&D 5E 3d Print and Play",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "D&amp;D 5E 3d Print and Play",
         "venue": "Game Table A",
         "Book Description": "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D and D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
