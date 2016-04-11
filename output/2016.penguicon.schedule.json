@@ -86,18 +86,32 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Rathbone the Pirate will enchant us with authentic sea chanties throughout the weekend!",
-        "end_date": "5/1/2016",
+        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
+        "end_date": "4/30/2016",
         "title": "Pirate Sea Chanties!",
         "track": "Mayhem",
-        "start_time": "16:00",
+        "start_time": "19:00",
         "presenters": [
             "Rathbone the Pirate"
         ],
         "location": "Lobby",
-        "minutes": -40380,
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
+        "end_date": "4/29/2016",
+        "title": "Pirate Sea Chanties!",
+        "track": "Mayhem",
+        "start_time": "19:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
         "start_date": "4/29/2016",
-        "end_time": "15:00"
+        "end_time": "19:50"
     },
     {
         "book_description": "Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!",
@@ -128,7 +142,7 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Join our Mayhem Featured Guest Rathbone the Pirate on a treasure hunt throughout the hotel!",
+        "book_description": "Follow the clues to challenge our Mayhem Featured Guest Rathbone the Pirate for a share of his booty. The best way to start a treasure hunt is drinking, preferably from officially licensed Penguicon materials.",
         "end_date": "5/1/2016",
         "title": "Pirate Treasure Hunt!",
         "track": "Mayhem",
