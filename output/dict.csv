@@ -4902,7 +4902,7 @@ Location,Charlevoix A
 duration,50 minutes
 description,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 index,104
-speakers,"Chioke Mose-Telesford, Kim Driscoll"
+speakers,Chioke Mose-Telesford
 bookdescrip,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 Track,Tech
 startday,4/30/2016
@@ -4914,14 +4914,14 @@ End Time,10:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix A', 'Tech', 'Networking for Awkward People', 'Chioke Mose-Telesford, Kim Driscoll', 'Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We\'ve got you covered. You\'ll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you\'ll actually be up and moving and trying this out on your fellow attendees. And make eye contact.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '10:00', '4/30/2016', '10:50', 'Charlevoix A', 'Tech', 'Networking for Awkward People', 'Chioke Mose-Telesford', 'Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We\'ve got you covered. You\'ll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you\'ll actually be up and moving and trying this out on your fellow attendees. And make eye contact.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Chioke Mose-Telesford, Kim Driscoll"
+calspeakers,Chioke Mose-Telesford
 avneeds,none
-speakerlist,"['Chioke Mose-Telesford', 'Kim Driscoll']"
+speakerlist,['Chioke Mose-Telesford']
 hours,0
 totalminutes,50
-speakernosplist,"['ChiokeMose-Telesford', 'KimDriscoll']"
+speakernosplist,['ChiokeMose-Telesford']
 caldescrip,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, 'Hi, my name is Annalisa,' and then just blank? We've got you covered. You'll walk out with a full-proof 'elevator pitch' and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
 endtime,10:50
 AV Needs,
@@ -4930,9 +4930,9 @@ Private,PUBLIC
 bookname,Networking for Awkward People
 venue,Charlevoix A
 Book Description,"Ever find yourself at a networking event, unable to think of how to introduce yourself to the people around you? As sweat pours down your face, do you say, ""Hi, my name is Annalisa,"" and then just blank? We've got you covered. You'll walk out with a full-proof ""elevator pitch"" and tactics to conquer any nerves, small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact."
-Presenters,"Chioke Mose-Telesford, Kim Driscoll"
+Presenters,Chioke Mose-Telesford
 csvsafedescrip,Ever find yourself at a networking event- unable to think of how to introduce yourself to the people around you? As sweat pours down your face- do you say- 'Hi- my name is Annalisa-' and then just blank? We've got you covered. You'll walk out with a full-proof 'elevator pitch' and tactics to conquer any nerves- small talk or curveballs. Be warned - you'll actually be up and moving and trying this out on your fellow attendees. And make eye contact.
-speakernosp,"ChiokeMose-Telesford,KimDriscoll"
+speakernosp,ChiokeMose-Telesford
 starttime,10:00
 roomnosp,CharlevoixA
 Start Date,4/30/2016
@@ -10923,7 +10923,7 @@ Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 index,232
-speakers,"Chioke Mose-Telesford, Kim Driscoll"
+speakers,"Chioke Mose-Telesford, Aisha Blake"
 bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 Track,Tech
 startday,4/30/2016
@@ -10935,14 +10935,14 @@ End Time,18:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Kim Driscoll', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Chioke Mose-Telesford, Kim Driscoll"
+calspeakers,"Chioke Mose-Telesford, Aisha Blake"
 avneeds,none
-speakerlist,"['Chioke Mose-Telesford', 'Kim Driscoll']"
+speakerlist,"['Chioke Mose-Telesford', 'Aisha Blake']"
 hours,1
 totalminutes,110
-speakernosplist,"['ChiokeMose-Telesford', 'KimDriscoll']"
+speakernosplist,"['ChiokeMose-Telesford', 'AishaBlake']"
 caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  'The Traveling Circus,' comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!"
 endtime,18:50
 AV Needs,
@@ -10951,9 +10951,9 @@ Private,PUBLIC
 bookname,Grand Circus' Traveling Circus: Intro to Coding
 venue,Computer Lab (EMC III)
 Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! This workshop will also be offered on Sunday!"
-Presenters,"Chioke Mose-Telesford, Kim Driscoll"
+Presenters,"Chioke Mose-Telesford, Aisha Blake"
 csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  'The Traveling Circus-' comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!
-speakernosp,"ChiokeMose-Telesford,KimDriscoll"
+speakernosp,"ChiokeMose-Telesford,AishaBlake"
 starttime,17:00
 roomnosp,ComputerLabEMCIII
 Start Date,4/30/2016
@@ -18071,7 +18071,7 @@ Location,Computer Lab (EMC III)
 duration,1 hour and 50 minutes
 description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!"
 index,384
-speakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
+speakers,"Chioke Mose-Telesford, Aisha Blake"
 bookdescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!"
 Track,Tech
 startday,5/1/2016
@@ -18083,14 +18083,14 @@ End Time,15:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Aaron Wolff, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "", '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '5/1/2016', '15:50', 'Computer Lab (EMC III)', 'Tech', ""Grand Circus' Traveling Circus: Intro to Coding "", 'Chioke Mose-Telesford, Aisha Blake', ""We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  \xe2\x80\x9cThe Traveling Circus,\xe2\x80\x9d comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
+calspeakers,"Chioke Mose-Telesford, Aisha Blake"
 avneeds,none
-speakerlist,"['Chioke Mose-Telesford', 'Aaron Wolff', 'Aisha Blake']"
+speakerlist,"['Chioke Mose-Telesford', 'Aisha Blake']"
 hours,1
 totalminutes,110
-speakernosplist,"['ChiokeMose-Telesford', 'AaronWolff', 'AishaBlake']"
+speakernosplist,"['ChiokeMose-Telesford', 'AishaBlake']"
 caldescrip,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  'The Traveling Circus,' comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "
 endtime,15:50
 AV Needs,
@@ -18099,9 +18099,9 @@ Private,PUBLIC
 bookname,Grand Circus' Traveling Circus: Intro to Coding
 venue,Computer Lab (EMC III)
 Book Description,"We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called ""The Traveling Circus,"" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! "
-Presenters,"Chioke Mose-Telesford, Aaron Wolff, Aisha Blake"
+Presenters,"Chioke Mose-Telesford, Aisha Blake"
 csvsafedescrip,We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs- but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop- lovingly called  'The Traveling Circus-' comes in. This is designed for folks who are curious about coding- but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! 
-speakernosp,"ChiokeMose-Telesford,AaronWolff,AishaBlake"
+speakernosp,"ChiokeMose-Telesford,AishaBlake"
 starttime,14:00
 roomnosp,ComputerLabEMCIII
 Start Date,5/1/2016
