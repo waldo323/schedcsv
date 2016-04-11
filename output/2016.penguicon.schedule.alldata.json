@@ -18268,7 +18268,7 @@
             "D&D 5E 3d Print and Play",
             "Nichole Bulmer-Jones, Branden Coates, Antoni Williams, Alan Patrick",
             "Strange things are afoot in the Moonsea. The factions have called all those willing and able to investigate strange occurrences in the region surrounding Phlan. Dark whispers and unseen terrors lurk in the misty shadows between this world and some place much more sinister. Unveil the horrors before it is too late! Part one of Misty Fortunes and Absent Hearts. Come see a 3D printer demo featuring prints from the D&D Monster Manual, then stay to play through an Adventurers League 5E adventure. Characters will be provided.",
-            "",
+            "00hr:50min",
             "",
             "",
             ""
@@ -18310,12 +18310,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "18:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "6 PM",
         "Location": "Game Table B, Game Table C",
         "duration": "50 minutes",
@@ -18345,10 +18345,10 @@
             "Star Trek Five-Year Mission With Mini Expansions",
             "David Whitcher",
             "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow & red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
@@ -18365,7 +18365,7 @@
         "endtime": "18:50",
         "AV Needs": "",
         "name": "Star Trek Five-Year Mission With Mini Expansions",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Star Trek Five-Year Mission With Mini Expansions",
         "venue": "Game Table B, Game Table C",
         "Book Description": "Dice. The Final Frontier. Voyage to explore strange new expansions-- to seek out new victory points and new challenges-- to meet the game's designer-- to boldly go where no players have gone before! A cooperative dice placement game. Take roles from original or Next Gen. Players try to cooperatively solve a series of alerts to score points, without failing five alerts, or the Enterprise being destroyed. Injuries lock dice out of play. Ship damage forces you to attempt harder alerts. Urgent events must be completed on a timer (the Prime Directive). Yellow and red alerts force additional alerts cards to come into play-- pushing you and your fellow crew-members closer to failing! 3-7 players.",
@@ -18381,12 +18381,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "18:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "6 PM",
         "Location": "Game Table E",
         "duration": "50 minutes",
@@ -18416,10 +18416,10 @@
             "Codenames",
             "Dave Green",
             "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Dave Green",
@@ -18436,7 +18436,7 @@
         "endtime": "18:50",
         "AV Needs": "",
         "name": "Codenames",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Codenames",
         "venue": "Game Table E",
         "Book Description": "2-8 players. Two teams go head to head as their spy masters attempt to give them one word clues to find their own agents the fastest.",
@@ -18489,7 +18489,7 @@
             "Backyard Brains Demo #2",
             "Greg Gage",
             "Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work.",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -19488,12 +19488,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "20:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "8 PM",
         "Location": "Game Table A, Game Table B, Game Table C",
         "duration": "1 hour and 50 minutes",
@@ -19523,10 +19523,10 @@
             "Learn To Play Dominion",
             "Rick Houser",
             "3 games of 2-4 players each. The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards? Sign up required at Ops.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Rick Houser",
@@ -19543,7 +19543,7 @@
         "endtime": "20:50",
         "AV Needs": "",
         "name": "Learn To Play Dominion",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Learn To Play Dominion",
         "venue": "Game Table A, Game Table B, Game Table C",
         "Book Description": "3 games of 2-4 players each. The original game that created the deck-building genre. Players start with the same simple deck, and use their cards to buy cards into their collection from the middle of the table. They go through their deck repeatedly to use their new cards to buy even more lucrative cards. Each time you play, a different set of ten cards is available. Can you pick the best blend of cards? Sign up required at Ops.",
@@ -19559,12 +19559,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "20:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "8 PM",
         "Location": "Game Table D",
         "duration": "1 hour and 50 minutes",
@@ -19594,10 +19594,10 @@
             "Gravwell",
             "Bryan Snell",
             "2-4 players. Players command spaceships that have been pulled through a black hole, transporting them into a different dimension. Lacking fuel to get home, you must collect basic elements from surrounding asteroids, using gravity and what little resources you have in order to reach the warp gate that will take you home. But in this dimension, moving ships will travel towards the nearest object, which is usually another ship. When those objects are moving either forward or backward, reaching the warp gate isn't always easy. Frozen hulks of dead spacecraft litter the escape route \u2013 but with careful cardplay, you can slingshot past these derelicts and be the first to escape from the Gravwell!",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
@@ -19614,7 +19614,7 @@
         "endtime": "20:50",
         "AV Needs": "",
         "name": "Gravwell",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Gravwell",
         "venue": "Game Table D",
         "Book Description": "2-4 players. Players command spaceships that have been pulled through a black hole, transporting them into a different dimension. Lacking fuel to get home, you must collect basic elements from surrounding asteroids, using gravity and what little resources you have in order to reach the warp gate that will take you home. But in this dimension, moving ships will travel towards the nearest object, which is usually another ship. When those objects are moving either forward or backward, reaching the warp gate isn't always easy. Frozen hulks of dead spacecraft litter the escape route - but with careful cardplay, you can slingshot past these derelicts and be the first to escape from the Gravwell!",
@@ -19630,12 +19630,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "19:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "7 PM",
         "Location": "Game Table F",
         "duration": "50 minutes",
@@ -19665,10 +19665,10 @@
             "Salem/Deception: Murder in Hong Kong",
             "Jason Sonk",
             "4-12 players. Two quick games played back to back. Salem incites the atmosphere of paranoia that held the village of Salem captive. Players act with the assumption that there are witches among them and there will be! Game play is simple: try to rid the village of witches and keep the identities of your own residents secret. In Deception, players take on the roles of investigators attempting to solve a murder case \u2013 but there's a twist. The killer is one of the investigators!",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
@@ -19685,7 +19685,7 @@
         "endtime": "19:50",
         "AV Needs": "",
         "name": "Salem/Deception: Murder in Hong Kong",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Salem/Deception: Murder in Hong Kong",
         "venue": "Game Table F",
         "Book Description": "4-12 players. Two quick games played back to back. Salem incites the atmosphere of paranoia that held the village of Salem captive. Players act with the assumption that there are witches among them and there will be! Game play is simple: try to rid the village of witches and keep the identities of your own residents secret. In Deception, players take on the roles of investigators attempting to solve a murder case - but there's a twist. The killer is one of the investigators!",
@@ -19738,7 +19738,7 @@
             "Hands on Soldering and Embedded Programming with All Hands Active",
             "All Hands Active",
             "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
-            "1h 50 min",
+            "01hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -20502,12 +20502,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "22:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "10 PM",
         "Location": "Game Table F",
         "duration": "2 hours and 50 minutes",
@@ -20537,10 +20537,10 @@
             "Dead of Winter",
             "Sara Castle",
             "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
+            "02hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
@@ -20557,7 +20557,7 @@
         "endtime": "22:50",
         "AV Needs": "",
         "name": "Dead of Winter",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Dead of Winter",
         "venue": "Game Table F",
         "Book Description": "2-5 players. A small, weakened colony of survivors in a world where most of humanity is either dead or diseased, flesh-craving monsters. Each player leads a faction of survivors.",
@@ -20573,12 +20573,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "19:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "7 PM",
         "Location": "Game Table G",
         "duration": "50 minutes",
@@ -20610,8 +20610,8 @@
             "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empire\u2019s hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
             "",
             "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
@@ -20628,7 +20628,7 @@
         "endtime": "19:50",
         "AV Needs": "",
         "name": "Star Wars: Imperial Assault",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Star Wars: Imperial Assault",
         "venue": "Game Table G",
         "Book Description": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empires hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
@@ -21445,12 +21445,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "22:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "10 PM",
         "Location": "Game Table B, Game Table C",
         "duration": "1 hour and 50 minutes",
@@ -21480,10 +21480,10 @@
             "Learn To Play 7 Wonders",
             "Rick Houser",
             "3-7 players. As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos? Sign up required at Ops.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Rick Houser",
@@ -21500,7 +21500,7 @@
         "endtime": "22:50",
         "AV Needs": "",
         "name": "Learn To Play 7 Wonders",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Learn To Play 7 Wonders",
         "venue": "Game Table B, Game Table C",
         "Book Description": "3-7 players. As a leader of one of the 7 great cities of the Ancient World, gather resources, develop commercial routes, affirm your military supremacy, build your city and erect an architectural wonder. This is a card-drafting game. Players receive seven cards from a particular deck, choose one of those cards, then pass the remainder to an adjacent player. Players reveal their cards simultaneously, paying resources if needed or collecting resources or interacting with their neighbors. Each player then chooses another card from the deck they were passed, and the process repeats until players have six cards in play. Who will collect the best combos? Sign up required at Ops.",
@@ -21516,12 +21516,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "22:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "10 PM",
         "Location": "Game Table D",
         "duration": "1 hour and 50 minutes",
@@ -21551,10 +21551,10 @@
             "Alhambra Dice Game",
             "Bryan Snell",
             "2-6 players. Build your Alhambra complex by using dice to build buildings.",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
@@ -21571,7 +21571,7 @@
         "endtime": "22:50",
         "AV Needs": "",
         "name": "Alhambra Dice Game",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Alhambra Dice Game",
         "venue": "Game Table D",
         "Book Description": "2-6 players. Build your Alhambra complex by using dice to build buildings.",
@@ -21587,12 +21587,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "22:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "10 PM",
         "Location": "Game Table E",
         "duration": "1 hour and 50 minutes",
@@ -21622,10 +21622,10 @@
             "Sheriff of Nottingham",
             "Steve Benson",
             "3-5 players. In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!",
+            "01hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
@@ -21642,7 +21642,7 @@
         "endtime": "22:50",
         "AV Needs": "",
         "name": "Sheriff of Nottingham",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Sheriff of Nottingham",
         "venue": "Game Table E",
         "Book Description": "3-5 players. In Sheriff of Nottingham, players will not only be able to experience Nottingham as a merchant of the city, but each turn one player will step into the shoes of the Sheriff himself. Players declare goods they wish to bring into the city, goods that are secretly stored in their burlap sack. The Sheriff must then determine who gets into the city with their goods, who gets inspected, and who may have their goods confiscated!",
@@ -21695,7 +21695,7 @@
             "Everything and Anything with BeagleBone",
             "Jason Kridner",
             "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
-            "1h 50 min",
+            "01hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -22457,12 +22457,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "0:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "12 AM",
         "Location": "Lobby",
         "duration": "50 minutes",
@@ -22492,10 +22492,10 @@
             "Hakosot",
             "Mitchell Bowling",
             "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
+            "00hr:50min",
             "",
-            "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "5/1/2016",
         "calspeakers": "Mitchell Bowling",
@@ -22512,7 +22512,7 @@
         "endtime": "0:50",
         "AV Needs": "",
         "name": "Hakosot",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Hakosot",
         "venue": "Lobby",
         "Book Description": "\"SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT! SAVE, YOUR, DIXIE CUPS, 'CAUSE WE'RE GONNA PLAY HAKOSOT!\" Grab all your friends, and play this game of singing while passing cups.",
@@ -23195,12 +23195,12 @@
     {
         "allday": "FALSE",
         "event_type": "Gaming",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "23:50",
         "event_type_list": [
             "Gaming"
         ],
-        "private": "DEFAULT",
+        "private": "PUBLIC",
         "endtimeampm": "11 PM",
         "Location": "Game Table A",
         "duration": "13 hours and 50 minutes",
@@ -23232,8 +23232,8 @@
             "Enjoyable diversions or torture devices? You decide! Here\u2019s your chance to playtest two prototype motorized wooden board games. In \u201cQuatern\u201d up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \u201cExquisite Corpse Machine 3\u201d is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
             "",
             "",
-            "",
-            ""
+            "FALSE",
+            "PUBLIC"
         ],
         "End Date": "5/1/2016",
         "calspeakers": "Andy Malone",
@@ -23250,7 +23250,7 @@
         "endtime": "23:50",
         "AV Needs": "",
         "name": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
-        "Private": "",
+        "Private": "PUBLIC",
         "bookname": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
         "venue": "Game Table A",
         "Book Description": "Enjoyable diversions or torture devices? You decide! Heres your chance to playtest two prototype motorized wooden board games. In \"Quatern\" up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \"Exquisite Corpse Machine 3\" is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
@@ -23303,7 +23303,7 @@
             "Dangerous Things RFID Implantations",
             "Amal Graafstra, Anita Fowler",
             "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -23378,7 +23378,7 @@
             "Hands on Soldering and Embedded Programming with All Hands Active",
             "All Hands Active",
             "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
-            "50 min",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -23812,7 +23812,7 @@
             "What Have You Read?",
             "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
             "What's something amazing that you read recently that you want to tell the world about?",
-            "",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
