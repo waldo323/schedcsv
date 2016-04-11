@@ -1303,14 +1303,14 @@
 <time>8 PM</time></event><event>
 <room>Game Table F</room>
 <day>SUNDAY, May 1</day>
-<title>Coup</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
-<room>Game Table F</room>
-<day>SUNDAY, May 1</day>
 <title>7 Wonders</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
+<room>Game Table F</room>
+<day>SUNDAY, May 1</day>
+<title>Coup</title>
+<topic>Gaming</topic>
+<time>12 PM</time></event><event>
 <room>Game Table G</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Spyfall</title>
@@ -1333,11 +1333,6 @@
 <time>12 AM</time></event><event>
 <room>Game Table G</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Legendary Encounters</title>
-<topic>Gaming</topic>
-<time>11 AM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
 <title>Codenames</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
@@ -1351,6 +1346,11 @@
 <title>Star Wars: Imperial Assault</title>
 <topic>Gaming</topic>
 <time>8 PM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Legendary Encounters</title>
+<topic>Gaming</topic>
+<time>11 AM</time></event><event>
 <room>Game Table H, Game Table I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Paint and Take</title>

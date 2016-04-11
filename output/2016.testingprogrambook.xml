@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
-<event><title>I know Kung Fu</title>
-<topic>Action Adventure</topic>
-<room>Algonquin A</room>
-<blurb><participant>Mike SanDiego</participant> " I know Kung Fu." Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk. <duration>1 hour and 50 minutes</duration></blurb></event>
-<event><title>Paint and Take</title>
-<topic>Gaming, DIY</topic>
-<room>Game Table H, Game Table I</room>
-<blurb><participant>Linda Martelle, Dean Martelle</participant> We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person. <duration>5 hours and 50 minutes</duration></blurb></event>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -54,6 +46,21 @@
 <topic>Penguicon</topic>
 <room>321</room>
 <blurb><participant>Lansing Maker Network</participant> Space| the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ~em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members. </blurb></event>
+<time>7 PM</time>
+<event><title>Dangeous Things</title>
+<topic>Tech, Life, DIY</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler</participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. </blurb></event>
+<time>4 PM</time>
+<event><title>I know Kung Fu</title>
+<topic>Action Adventure</topic>
+<room>Algonquin A</room>
+<blurb><participant>Mike SanDiego</participant> " I know Kung Fu." Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like!  This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Paint and Take</title>
+<topic>Gaming, DIY</topic>
+<room>Game Table H, Game Table I</room>
+<blurb><participant>Linda Martelle, Dean Martelle</participant> We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person. <duration>5 hours and 50 minutes</duration></blurb></event>
+<time>5 PM</time>
 <event><title>SAR Lessons</title>
 <topic>Action Adventure</topic>
 <room>Charlevoix C</room>
@@ -164,10 +171,6 @@
 <topic>Gaming</topic>
 <room>Game Table G</room>
 <blurb><participant>Jason Sonk</participant> 3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple! </blurb></event>
-<event><title>Dangeous Things</title>
-<topic>Tech, Life, DIY</topic>
-<room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs. </blurb></event>
 <event><title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -530,10 +533,6 @@
 <topic>DIY</topic>
 <room>EMC V</room>
 <blurb><participant>Kelly Vanderwell</participant> Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops. </blurb></event>
-<event><title>Legendary Encounters</title>
-<topic>Gaming</topic>
-<room>Game Table G</room>
-<blurb><participant>Jason Sonk</participant> 2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens. <duration>2 hours and 50 minutes</duration></blurb></event>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -1448,10 +1447,6 @@
 <topic>Tech</topic>
 <room>EMC IV</room>
 <blurb><participant>Ryan Kather</participant> Better FS, Butter FS, B-Tree FS?  What is it called, and why should you care about a new filesystem for Linux?  Come learn about the advanced features, design, and use of one of Linux's most exciting new features.  We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache. </blurb></event>
-<event><title>Coup</title>
-<topic>Gaming</topic>
-<room>Game Table F</room>
-<blurb><participant>Sara Castle</participant> 2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive... </blurb></event>
 <event><title>Comic vs. Manga</title>
 <topic>Anime</topic>
 <room>Hamlin</room>
@@ -1635,4 +1630,16 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
+<event><title>Legendary Encounters</title>
+<topic>Gaming</topic>
+<room>Game Table G</room>
+<blurb><participant>Jason Sonk</participant> 2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens. <duration>2 hours and 50 minutes</duration></blurb></event>
+<day>SUNDAY, May 1</day>
+<time>12 PM</time>
+<event><title>Coup</title>
+<topic>Gaming</topic>
+<room>Game Table F</room>
+<blurb><participant>Sara Castle</participant> 2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive... </blurb></event></events>
