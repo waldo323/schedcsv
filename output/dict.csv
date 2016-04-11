@@ -68,7 +68,7 @@ End Time,21:50
 tracknosp,"['Gaming', 'DIY']"
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '4/29/2016', '21:50', 'Game Table H, Game Table I', 'Gaming, DIY', 'Paint and Take', 'Linda Martelle, Dean Martelle', 'We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person.', '', '', '', '']"
+input,"['4/29/2016', '16:00', '4/29/2016', '21:50', 'Game Table H, Game Table I', 'Gaming, DIY', 'Paint and Take', 'Linda Martelle, Dean Martelle', 'We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person.', '01hr:50min', '', '', '']"
 End Date,4/29/2016
 calspeakers,"Linda Martelle, Dean Martelle"
 avneeds,none
@@ -1177,10 +1177,10 @@ descriptionascii,"Whether you have never even seen a needle and thread, or have 
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,19:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,7 PM
 Location,Game Table C
 duration,1 hour and 50 minutes
@@ -1198,7 +1198,7 @@ End Time,19:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '18:00', '4/29/2016', '19:50', 'Game Table C', 'Gaming', 'Space Alert', 'Eric McGlohon', '5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.', '', '', '', '']"
+input,"['4/29/2016', '18:00', '4/29/2016', '19:50', 'Game Table C', 'Gaming', 'Space Alert', 'Eric McGlohon', '5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Eric McGlohon
 avneeds,none
@@ -1210,7 +1210,7 @@ caldescrip,"5 players (ages 12+). Space Alert is a cooperative team survival gam
 endtime,19:50
 AV Needs,
 name,Space Alert
-Private,
+Private,PUBLIC
 bookname,Space Alert
 venue,Game Table C
 Book Description,"5 players (ages 12+). Space Alert is a cooperative team survival game. A game lasts ten real-time minutes, while a soundtrack plays, announcing various timed challenges: from space battleships and interceptors, to different interstellar monsters and abominations, asteroids or even intruders and malfunctions on the spaceship. Players have to agree and coordinate on who will do what (moving around the ship, firing weapons, distributing energy, using battlebots to deal with intruders, launching guided missiles, etc.) in real time to defend the ship. Only a well-working team can survive 10 minutes and make the jump back to safety."
@@ -1224,10 +1224,10 @@ descriptionascii,"5 players (ages 12+). Space Alert is a cooperative team surviv
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,19:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,7 PM
 Location,Game Table E
 duration,1 hour and 50 minutes
@@ -1245,7 +1245,7 @@ End Time,19:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '18:00', '4/29/2016', '19:50', 'Game Table E', 'Gaming', 'Lords of Waterdeep', 'Steve Benson', '2-6 players. One of the best worker-placement games, with a strong D&D theme. Recruit fighters, rogues, clerics, and wizards to complete quests.', '', '', '', '']"
+input,"['4/29/2016', '18:00', '4/29/2016', '19:50', 'Game Table E', 'Gaming', 'Lords of Waterdeep', 'Steve Benson', '2-6 players. One of the best worker-placement games, with a strong D&D theme. Recruit fighters, rogues, clerics, and wizards to complete quests.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Steve Benson
 avneeds,none
@@ -1257,7 +1257,7 @@ caldescrip,"2-6 players. One of the best worker-placement games, with a strong D
 endtime,19:50
 AV Needs,
 name,Lords of Waterdeep
-Private,
+Private,PUBLIC
 bookname,Lords of Waterdeep
 venue,Game Table E
 Book Description,"2-6 players. One of the best worker-placement games, with a strong D and D theme. Recruit fighters, rogues, clerics, and wizards to complete quests."
@@ -1741,10 +1741,10 @@ descriptionascii,"Flirting, dating, making friends, influencing people, even sim
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,19:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,7 PM
 Location,Game Table A
 duration,50 minutes
@@ -1762,7 +1762,7 @@ End Time,19:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table A', 'Gaming', 'Mahjong', 'Anne Zanoni', ""Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. "", '', '', '', '']"
+input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table A', 'Gaming', 'Mahjong', 'Anne Zanoni', ""Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Anne Zanoni
 avneeds,none
@@ -1774,7 +1774,7 @@ caldescrip,"Ever played Mahjong on the computer and wondered how it'd differ in 
 endtime,19:50
 AV Needs,
 name,Mahjong
-Private,
+Private,PUBLIC
 bookname,Mahjong
 venue,Game Table A
 Book Description,"Ever played Mahjong on the computer and wondered how it'd differ in person? Come find out! Most like gin rummy, mahjong is played with tiles instead of cards. This will be the Chinese or British/Hong Kong version, as it is easier to learn. "
@@ -1788,10 +1788,10 @@ descriptionascii,"Ever played Mahjong on the computer and wondered how it'd diff
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,19:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,7 PM
 Location,Game Table B
 duration,50 minutes
@@ -1809,7 +1809,7 @@ End Time,19:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table B', 'Gaming', 'Hanabi', 'Jason Westbrook', ""3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1\xe2\x80\x935 in each color. For each color, the players try to place a row in the correct order from 1\xe2\x80\x935. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards."", '', '', '', '']"
+input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table B', 'Gaming', 'Hanabi', 'Jason Westbrook', ""3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1\xe2\x80\x935 in each color. For each color, the players try to place a row in the correct order from 1\xe2\x80\x935. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jason Westbrook
 avneeds,none
@@ -1821,7 +1821,7 @@ caldescrip,"3-5 players. A cooperative game in which players try to create the p
 endtime,19:50
 AV Needs,
 name,Hanabi
-Private,
+Private,PUBLIC
 bookname,Hanabi
 venue,Game Table B
 Book Description,"3-5 players. A cooperative game in which players try to create the perfect fireworks show by placing the cards on the table in the right order. The card deck consists of five different colors of cards, numbered 1-5 in each color. For each color, the players try to place a row in the correct order from 1-5. Sounds easy, right? Well, not quite, as in this game you hold your cards so that they're visible only to other players. To assist other players in playing a card, you must give them hints regarding the numbers or the colors of their cards. Players must act as a team to avoid errors and to finish the fireworks display before they run out of cards."
@@ -1835,10 +1835,10 @@ descriptionascii,"3-5 players. A cooperative game in which players try to create
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,19:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,7 PM
 Location,Game Table G
 duration,50 minutes
@@ -1856,7 +1856,7 @@ End Time,19:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table G', 'Gaming', 'Spyfall', 'Jason Sonk', ""3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!"", '', '', '', '']"
+input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Game Table G', 'Gaming', 'Spyfall', 'Jason Sonk', ""3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jason Sonk
 avneeds,none
@@ -1868,7 +1868,7 @@ caldescrip,"3-8 players. Spyfall is a party game unlike any other, one in which 
 endtime,19:50
 AV Needs,
 name,Spyfall
-Private,
+Private,PUBLIC
 bookname,Spyfall
 venue,Game Table G
 Book Description,"3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple!"
@@ -1950,7 +1950,7 @@ End Time,22:50
 tracknosp,"['DIY', 'Tech']"
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '22:50', 'HackerSpace (317)', 'DIY, Tech', 'Open Demos by BeagleBone, Dangerous Things and All Hands Active', '', ""Live demos and highlights for of this weekend's events as the Penguicon Hackerspace spins up for the weekend!"", '3hr 50 min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '19:00', '4/29/2016', '22:50', 'HackerSpace (317)', 'DIY, Tech', 'Open Demos by BeagleBone, Dangerous Things and All Hands Active', '', ""Live demos and highlights for of this weekend's events as the Penguicon Hackerspace spins up for the weekend!"", '03hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,
 avneeds,none
@@ -2635,10 +2635,10 @@ descriptionascii,"Friendship is magic, so come talk with other fans about the ML
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,20:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,8 PM
 Location,"Game Table A, Game Table B"
 duration,50 minutes
@@ -2656,7 +2656,7 @@ End Time,20:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Game Table A, Game Table B', 'Gaming', 'Rathbone Vs Everybody', 'Rathbone the Pirate', 'Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)', '', '', '', '']"
+input,"['4/29/2016', '20:00', '4/29/2016', '20:50', 'Game Table A, Game Table B', 'Gaming', 'Rathbone Vs Everybody', 'Rathbone the Pirate', 'Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Rathbone the Pirate
 avneeds,none
@@ -2668,7 +2668,7 @@ caldescrip,"Avast! Rathbone the Pirate will simultaneously compete against all o
 endtime,20:50
 AV Needs,
 name,Rathbone Vs Everybody
-Private,
+Private,PUBLIC
 bookname,Rathbone Vs Everybody
 venue,"Game Table A, Game Table B"
 Book Description,"Avast! Rathbone the Pirate will simultaneously compete against all of you swabs, playing several different games from the age of piracy! (Attention: When a pirate cheats, it is only illegal if the pirate gets caught at it. This has been an advisory of the Caribbean Warning System.)"
@@ -2682,10 +2682,10 @@ descriptionascii,"Avast! Rathbone the Pirate will simultaneously compete against
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,21:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 PM
 Location,Game Table D
 duration,1 hour and 50 minutes
@@ -2703,7 +2703,7 @@ End Time,21:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table D', 'Gaming', 'Descent 2nd Edition', 'Jason Westbrook', ""2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take..."", '', '', '', '']"
+input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table D', 'Gaming', 'Descent 2nd Edition', 'Jason Westbrook', ""2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take..."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jason Westbrook
 avneeds,none
@@ -2715,7 +2715,7 @@ caldescrip,"2-5 players. One player takes on the role of the treacherous overlor
 endtime,21:50
 AV Needs,
 name,Descent 2nd Edition
-Private,
+Private,PUBLIC
 bookname,Descent 2nd Edition
 venue,Game Table D
 Book Description,"2-5 players. One player takes on the role of the treacherous overlord. Up to four other players take on the roles of courageous heroes who embark on quests and venture into dangerous caves, ancient ruins, dark dungeons, and cursed forests to battle monsters, earn riches, and attempt to stop the overlord from carrying out his vile plot. Combat uses a unique dice-based system. Players build their dice pools according to their character's abilities and weapons, and each die in the pool contributes to an attack in different ways. Surges, special symbols that appear on most dice, also let you trigger special effects to make the most of your attacks. And with the horrors awaiting you beneath the surface, you'll need every advantage you can take..."
@@ -2729,10 +2729,10 @@ descriptionascii,"2-5 players. One player takes on the role of the treacherous o
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,21:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 PM
 Location,Game Table E
 duration,1 hour and 50 minutes
@@ -2750,7 +2750,7 @@ End Time,21:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table E', 'Gaming', 'Tokaido', 'Steve Benson', ""2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win."", '', '', '', '']"
+input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table E', 'Gaming', 'Tokaido', 'Steve Benson', ""2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Steve Benson
 avneeds,none
@@ -2762,7 +2762,7 @@ caldescrip,"2-5 players. You are a traveler along the East Sea Road in Japan. Yo
 endtime,21:50
 AV Needs,
 name,Tokaido
-Private,
+Private,PUBLIC
 bookname,Tokaido
 venue,Game Table E
 Book Description,"2-5 players. You are a traveler along the East Sea Road in Japan. You will meet various people, taste fine meals, collect beautiful items, discover great panoramas, and visit temples and hot springs. You'll have to be the one who discovered the most interesting and varied things to win."
@@ -2776,10 +2776,10 @@ descriptionascii,"2-5 players. You are a traveler along the East Sea Road in Jap
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,21:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 PM
 Location,Game Table F
 duration,1 hour and 50 minutes
@@ -2797,7 +2797,7 @@ End Time,21:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table F', 'Gaming', 'Pandemic', 'Sara Castle', ""2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population."", '', '', '', '']"
+input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table F', 'Gaming', 'Pandemic', 'Sara Castle', ""2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Sara Castle
 avneeds,none
@@ -2809,7 +2809,7 @@ caldescrip,2-4 players. Find the cure for 4 diseases to save the world in this c
 endtime,21:50
 AV Needs,
 name,Pandemic
-Private,
+Private,PUBLIC
 bookname,Pandemic
 venue,Game Table F
 Book Description,2-4 players. Find the cure for 4 diseases to save the world in this cooperative game. Each player is given a different role and must work together to prevent the diseases from decimating the world's population.
@@ -2823,10 +2823,10 @@ descriptionascii,2-4 players. Find the cure for 4 diseases to save the world in 
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,21:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 PM
 Location,Game Table G
 duration,1 hour and 50 minutes
@@ -2844,7 +2844,7 @@ End Time,21:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table G', 'Gaming', 'The Big Book of Madness', 'Jason Sonk', ""2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed."", '', '', '', '']"
+input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Game Table G', 'Gaming', 'The Big Book of Madness', 'Jason Sonk', ""2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jason Sonk
 avneeds,none
@@ -2856,7 +2856,7 @@ caldescrip,"2-5 players. A challenging co-operative deck-building game. Payers a
 endtime,21:50
 AV Needs,
 name,The Big Book of Madness
-Private,
+Private,PUBLIC
 bookname,The Big Book of Madness
 venue,Game Table G
 Book Description,"2-5 players. A challenging co-operative deck-building game. Payers are magic students who must act as a team to turn all the pages of the book, then shut it by defeating the terrible monsters they've just freed."
@@ -3220,7 +3220,7 @@ End Time,22:30
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Queer Poly Speed Dating', 'Nicole Rohr', 'Come join us for a speed dating event especially for queer poly people! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '22:30', 'Charlevoix B', 'After Dark', 'Queer Poly Speed Dating', 'Nicole Rohr', 'Come join us for a speed dating event especially for queer poly people! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).', '01hr:30min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Nicole Rohr
 avneeds,none
@@ -3267,7 +3267,7 @@ End Time,21:50
 tracknosp,['AfterDark']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Charlevoix C', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'kernelbrandon', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).', '01hr:30min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Charlevoix C', 'After Dark', 'Rope Basics: The Bedroom & Beyond', 'kernelbrandon', 'This is a hands-on rope workshop that will quickly teach basic rope skills for the bedroom. Learn safe ways to tie someone to a bed or restrict their movement. A limited amount of rope will be available for loan. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,kernelbrandon
 avneeds,none
@@ -3528,10 +3528,10 @@ descriptionascii,"Have a sewing machine, but have no idea how to activate the ma
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,21:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 PM
 Location,Game Table A
 duration,50 minutes
@@ -3549,7 +3549,7 @@ End Time,21:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Game Table A', 'Gaming', ""Pack 'O Game"", 'Bob Brodis', '2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.', '', '', '', '']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'Game Table A', 'Gaming', ""Pack 'O Game"", 'Bob Brodis', '2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Bob Brodis
 avneeds,none
@@ -3561,7 +3561,7 @@ caldescrip,"2-8 players. A series of easily portable card-based strategy micro c
 endtime,21:50
 AV Needs,
 name,Pack 'O Game
-Private,
+Private,PUBLIC
 bookname,Pack 'O Game
 venue,Game Table A
 Book Description,"2-8 players. A series of easily portable card-based strategy micro card games in a gum-sized tuck box with a variety of mechanics, complexity and theme."
@@ -3952,10 +3952,10 @@ descriptionascii,"Come learn how (and how not) to flirt from some of our local f
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,2:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,2 AM
 Location,Game Table A
 duration,4 hours and 50 minutes
@@ -3973,7 +3973,7 @@ End Time,2:50
 tracknosp,['Gaming']
 endday,4/30/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/30/2016', '2:50', 'Game Table A', 'Gaming', 'Arkham Horror', 'Cory Tebo', ""2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!"", '', '', '', '']"
+input,"['4/29/2016', '22:00', '4/30/2016', '2:50', 'Game Table A', 'Gaming', 'Arkham Horror', 'Cory Tebo', ""2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!"", '04hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Cory Tebo
 avneeds,none
@@ -3985,7 +3985,7 @@ caldescrip,"2-8 players. A cooperative adventure game themed around H.P Lovecraf
 endtime,2:50
 AV Needs,
 name,Arkham Horror
-Private,
+Private,PUBLIC
 bookname,Arkham Horror
 venue,Game Table A
 Book Description,"2-8 players. A cooperative adventure game themed around H.P Lovecraft's Cthulhu Mythos. It's up to the Investigators to prevent one of the eight Ancient Ones from breaking into our world. During the course of the game, players will upgrade with skills, allies, items, weapons, and spells. It's up to the players to clean out the streets of Arkham by fighting many different types of monsters, but their main goal is to close portals to other dimensions that are opening up around town. With too many portals open the Ancient One awakens and the players only have one last chance to save the world. Defeat the Ancient One in combat!"
@@ -4002,7 +4002,7 @@ event_type,Gaming
 All Day Event,FALSE
 event_end,23:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,11 PM
 Location,"Game Table B, Game Table C"
 duration,1 hour and 50 minutes
@@ -4020,7 +4020,7 @@ End Time,23:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '23:50', 'Game Table B, Game Table C', 'Gaming', 'Learn To Play Back To The Future', 'Rick Houser', '2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\xe2\x80\x99s seat of the famous DeLorean! Sign up required at Ops.', '01hr:50min', '', 'FALSE', '']"
+input,"['4/29/2016', '22:00', '4/29/2016', '23:50', 'Game Table B, Game Table C', 'Gaming', 'Learn To Play Back To The Future', 'Rick Houser', '2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the driver\xe2\x80\x99s seat of the famous DeLorean! Sign up required at Ops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Rick Houser
 avneeds,none
@@ -4032,7 +4032,7 @@ caldescrip,"2-6 players. Jump into the action of the Back to the Future movies i
 endtime,23:50
 AV Needs,
 name,Learn To Play Back To The Future
-Private,
+Private,PUBLIC
 bookname,Learn To Play Back To The Future
 venue,"Game Table B, Game Table C"
 Book Description,"2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the drivers seat of the famous DeLorean! Sign up required at Ops."
@@ -4049,7 +4049,7 @@ event_type,Gaming
 All Day Event,FALSE
 event_end,23:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,11 PM
 Location,Game Table G
 duration,1 hour and 50 minutes
@@ -4067,7 +4067,7 @@ End Time,23:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '23:50', 'Game Table G', 'Gaming', 'Zombicide: Black Plague', 'Jason Sonk', ""2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!"", '01hr:50min', '', 'FALSE', '']"
+input,"['4/29/2016', '22:00', '4/29/2016', '23:50', 'Game Table G', 'Gaming', 'Zombicide: Black Plague', 'Jason Sonk', ""2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!"", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Jason Sonk
 avneeds,none
@@ -4079,7 +4079,7 @@ caldescrip,"2-6 players. The zombie apocalypse in a fantastical medieval setting
 endtime,23:50
 AV Needs,
 name,Zombicide: Black Plague
-Private,
+Private,PUBLIC
 bookname,Zombicide: Black Plague
 venue,Game Table G
 Book Description,"2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!"
