@@ -15671,7 +15671,7 @@
         "duration": "1 hour and 50 minutes",
         "description": "Come watch a live demonstration of body painting!  Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "index": 215,
-        "speakers": "Jeannie Arquette",
+        "speakers": "Jeannie Arquette, Maurianna Reid, Estaria Arquette",
         "bookdescrip": "Come watch a live demonstration of body painting!  Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "Track": "After Dark",
         "startday": "4/30/2016",
@@ -15693,7 +15693,7 @@
             "Algonquin A",
             "After Dark",
             "Body Painting",
-            "Jeannie Arquette",
+            "Jeannie Arquette, Maurianna Reid, Estaria Arquette",
             "Come watch a live demonstration of body painting!  Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
             "01hr:50min",
             "",
@@ -15701,15 +15701,19 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Jeannie Arquette",
+        "calspeakers": "Jeannie Arquette, Maurianna Reid, Estaria Arquette",
         "avneeds": "none",
         "speakerlist": [
-            "Jeannie Arquette"
+            "Jeannie Arquette",
+            "Maurianna Reid",
+            "Estaria Arquette"
         ],
         "hours": 1,
         "totalminutes": 110,
         "speakernosplist": [
-            "JeannieArquette"
+            "JeannieArquette",
+            "MauriannaReid",
+            "EstariaArquette"
         ],
         "caldescrip": "Come watch a live demonstration of body painting!  Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "endtime": "17:50",
@@ -15719,9 +15723,9 @@
         "bookname": "Body Painting",
         "venue": "Algonquin A",
         "Book Description": "Come watch a live demonstration of body painting! Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
-        "Presenters": "Jeannie Arquette",
+        "Presenters": "Jeannie Arquette, Maurianna Reid, Estaria Arquette",
         "csvsafedescrip": "Come watch a live demonstration of body painting!  Jeannie Arquette and her team from Artifice FX will create a character design just from body paint on a model while you watch! This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
-        "speakernosp": "JeannieArquette",
+        "speakernosp": "JeannieArquette,MauriannaReid,EstariaArquette",
         "starttime": "16:00",
         "roomnosp": "AlgonquinA",
         "Start Date": "4/30/2016",
@@ -20126,21 +20130,21 @@
     },
     {
         "allday": "FALSE",
-        "event_type": "After Dark",
+        "event_type": "Media",
         "All Day Event": "FALSE",
         "event_end": "20:50",
         "event_type_list": [
-            "After Dark"
+            "Media"
         ],
         "private": "PUBLIC",
         "endtimeampm": "8 PM",
         "Location": "Algonquin D",
         "duration": "50 minutes",
-        "description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+        "description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.",
         "index": 276,
         "speakers": "Clif Flynt, Mark Bernstein, Tom Smith",
-        "bookdescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
-        "Track": "After Dark",
+        "bookdescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.",
+        "Track": "Media",
         "startday": "4/30/2016",
         "Title": "Literary Filk",
         "Start Time": "20:00",
@@ -20148,7 +20152,7 @@
         "starttimeampm": "8 PM",
         "End Time": "20:50",
         "tracknosp": [
-            "AfterDark"
+            "Media"
         ],
         "endday": "4/30/2016",
         "dayheader": "SATURDAY, APRIL 30",
@@ -20158,10 +20162,10 @@
             "4/30/2016",
             "20:50",
             "Algonquin D",
-            "After Dark",
+            "Media",
             "Literary Filk",
             "Clif Flynt, Mark Bernstein, Tom Smith",
-            "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+            "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. ",
             "00hr:50min",
             "",
             "FALSE",
@@ -20182,21 +20186,21 @@
             "MarkBernstein",
             "TomSmith"
         ],
-        "caldescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+        "caldescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. ",
         "endtime": "20:50",
         "AV Needs": "",
         "name": "Literary Filk",
         "Private": "PUBLIC",
         "bookname": "Literary Filk",
         "venue": "Algonquin D",
-        "Book Description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+        "Book Description": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music. Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. ",
         "Presenters": "Clif Flynt, Mark Bernstein, Tom Smith",
-        "csvsafedescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction- and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+        "csvsafedescrip": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction- and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. ",
         "speakernosp": "ClifFlynt,MarkBernstein,TomSmith",
         "starttime": "20:00",
         "roomnosp": "AlgonquinD",
         "Start Date": "4/30/2016",
-        "descriptionascii": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
+        "descriptionascii": "Authors from Peter Beagle to Jerry Pournelle have included bits of song and poetry in their fiction, and and many SFF stories have been set to music.  Join local Filkers as they discuss the hows and wheres of placing songs in fiction and sing some songs from their favorite books.",
         "minutes": "50"
     },
     {
