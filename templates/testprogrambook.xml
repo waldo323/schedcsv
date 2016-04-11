@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% set current_time="4 PM" %}{% set daycheck = "" %}{% for event in events %}{% if event['dayheader'] != daycheck %}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% set current_time="2 PM" %}{% set daycheck = "" %}{% for event in events %}{% if event['dayheader'] != daycheck %}
 <day>{{ event['dayheader'] }}</day>{% endif %}{% set daycheck = event['dayheader'] %}{% if event['starttimeampm'] != current_time %}
 <time>{{event['starttimeampm']}}</time>{% endif %}{% set current_time=event['starttimeampm'] %}
 <event><title>{{ event['bookname'] }}</title>
