@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">{% set current_time="2 PM" %}{% set daycheck="" %}{% set printallday="TRUE" %}{% for event in events %}{% if (event['dayheader'] != daycheck) and (event['All Day Event'] != "TRUE") %}
-<day>{{ event['dayheader'] }}</day>{% endif %}{% set daycheck = event['dayheader'] %}{% if (event['allday'] == "TRUE") %}
+<day>{{ event['dayheader'] }}</day>{% endif %}{% set daycheck = event['dayheader'] %}{% if (event['allday'] == "TRUE" and printallday=="TRUE") %}
 <day>All Weekend</day>{% set printallday="FALSE" %}{% set daycheck="" %}{% endif %}{% if event['starttimeampm'] != current_time %}
 <time>{{event['starttimeampm']}}</time>{% endif %}{% set current_time=event['starttimeampm'] %}
 <event><title>{{ event['bookname'] }}</title>
