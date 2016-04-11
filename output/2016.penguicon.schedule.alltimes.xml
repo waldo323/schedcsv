@@ -763,6 +763,12 @@
 <blurb><participant>Kelly Vanderwell</participant> Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up at Ops. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>11 AM</time>
+<event><title>Legendary Encounters</title>
+<topic>Gaming</topic>
+<room>Game Table G</room>
+<blurb><participant>Jason Sonk</participant> 2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens. <duration>2 hours and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>11 AM</time>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -2107,6 +2113,12 @@
 <blurb><participant>Ryan Kather</participant> Better FS, Butter FS, B-Tree FS?  What is it called, and why should you care about a new filesystem for Linux?  Come learn about the advanced features, design, and use of one of Linux's most exciting new features.  We will also cover how it compares to other filesystems, such as ZFS, and other interesting related topics like bcache. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>12 PM</time>
+<event><title>Coup</title>
+<topic>Gaming</topic>
+<room>Game Table F</room>
+<blurb><participant>Sara Castle</participant> 2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive... </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>12 PM</time>
 <event><title>Comic vs. Manga</title>
 <topic>Anime</topic>
 <room>Hamlin</room>
@@ -2374,16 +2386,4 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
-<event><title>Legendary Encounters</title>
-<topic>Gaming</topic>
-<room>Game Table G</room>
-<blurb><participant>Jason Sonk</participant> 2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens. <duration>2 hours and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>12 PM</time>
-<event><title>Coup</title>
-<topic>Gaming</topic>
-<room>Game Table F</room>
-<blurb><participant>Sara Castle</participant> 2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive... </blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>

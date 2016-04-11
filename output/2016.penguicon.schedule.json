@@ -1901,6 +1901,20 @@
         "end_time": "11:50"
     },
     {
+        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
+        "end_date": "4/30/2016",
+        "title": "Legendary Encounters",
+        "track": "Gaming",
+        "start_time": "11:00",
+        "presenters": [
+            "Jason Sonk"
+        ],
+        "location": "Game Table G",
+        "minutes": 170,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
         "end_date": "4/30/2016",
         "title": "Hands on Soldering and Embedded Programming with All Hands Active",
@@ -5236,6 +5250,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
+        "end_date": "5/1/2016",
+        "title": "Coup",
+        "track": "Gaming",
+        "start_time": "12:00",
+        "presenters": [
+            "Sara Castle"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
         "book_description": "This panel highlights the differences and similarities between Comics and Anime, including everything from the influences of each to crossovers and general themes. Audience participation is encouraged!",
         "end_date": "5/1/2016",
         "title": "Comic vs. Manga",
@@ -5914,33 +5942,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.",
-        "end_date": "4/30/2016",
-        "title": "Legendary Encounters",
-        "track": "Gaming",
-        "start_time": "11:00",
-        "presenters": [
-            "Jason Sonk"
-        ],
-        "location": "Game Table G",
-        "minutes": 170,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "2-6 players. You are head of a family in an Italian city-state, a city run by a weak and corrupt court. You need to manipulate, bluff, and bribe your way to power. Your object is to destroy the influence of all the other families, forcing them into exile. Only one family will survive...",
-        "end_date": "5/1/2016",
-        "title": "Coup",
-        "track": "Gaming",
-        "start_time": "12:00",
-        "presenters": [
-            "Sara Castle"
-        ],
-        "location": "Game Table F",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
     }
 ]
