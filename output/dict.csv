@@ -2032,7 +2032,7 @@ Location,Hamlin
 duration,50 minutes
 description,"""Can you read this and tell me what you think?"" is a question to test any relationship.,  We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game."
 index,43
-speakers,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach"
+speakers,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak"
 bookdescrip,"""Can you read this and tell me what you think?"" is a question to test any relationship.  We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game."
 Track,Literature
 startday,4/29/2016
@@ -2044,14 +2044,14 @@ End Time,19:50
 tracknosp,['Literature']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Hamlin', 'Literature', 'Editing for Your Spouse/Partner/BFF/Pet', 'Scott Favre, Clif Flynt, Janice Leach, Jim Leach ', '""Can you read this and tell me what you think?"" is a question to test any relationship.\n We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '19:00', '4/29/2016', '19:50', 'Hamlin', 'Literature', 'Editing for Your Spouse/Partner/BFF/Pet', 'Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak', '""Can you read this and tell me what you think?"" is a question to test any relationship.\n We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach"
+calspeakers,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak"
 avneeds,none
-speakerlist,"['Scott Favre', 'Clif Flynt', 'Janice Leach', 'Jim Leach']"
+speakerlist,"['Scott Favre', 'Clif Flynt', 'Janice Leach', 'Jim Leach', 'Michael Cieslak']"
 hours,0
 totalminutes,50
-speakernosplist,"['ScottFavre', 'ClifFlynt', 'JaniceLeach', 'JimLeach']"
+speakernosplist,"['ScottFavre', 'ClifFlynt', 'JaniceLeach', 'JimLeach', 'MichaelCieslak']"
 caldescrip,"'Can you read this and tell me what you think?' is a question to test any relationship.
  We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game."
 endtime,19:50
@@ -2061,9 +2061,9 @@ Private,PUBLIC
 bookname,Editing for Your Spouse/Partner/BFF/Pet
 venue,Hamlin
 Book Description,"""Can you read this and tell me what you think?"" is a question to test any relationship. We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game."
-Presenters,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach "
+Presenters,"Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak"
 csvsafedescrip,'Can you read this and tell me what you think?' is a question to test any relationship.  We will learn some ways to navigate that communications mine-field while musing on the nature of editing- the care and feeding of your larval writer and some small- practical steps towards upping our editing game.
-speakernosp,"ScottFavre,ClifFlynt,JaniceLeach,JimLeach"
+speakernosp,"ScottFavre,ClifFlynt,JaniceLeach,JimLeach,MichaelCieslak"
 starttime,19:00
 roomnosp,Hamlin
 Start Date,4/29/2016
@@ -2460,7 +2460,7 @@ speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
 startday,4/29/2016
-Title,Open Linux Computer Lab (Unconference)
+Title,Open Computer Lab (Unconference)
 Start Time,20:00
 event_start,20:00
 starttimeampm,8 PM
@@ -2468,7 +2468,7 @@ End Time,21:50
 tracknosp,['Tech']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Computer Lab (EMC III)', 'Tech', 'Open Linux Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '20:00', '4/29/2016', '21:50', 'Computer Lab (EMC III)', 'Tech', 'Open Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,No Presenter
 avneeds,none
@@ -2479,9 +2479,9 @@ speakernosplist,['NoPresenter']
 caldescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 endtime,21:50
 AV Needs,
-name,Open Linux Computer Lab (Unconference)
+name,Open Computer Lab (Unconference)
 Private,PUBLIC
-bookname,Open Linux Computer Lab (Unconference)
+bookname,Open Computer Lab (Unconference)
 venue,Computer Lab (EMC III)
 Book Description,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Presenters,No Presenter
@@ -3396,7 +3396,7 @@ Location,EMC I
 duration,50 minutes
 description,The historical details can bring a story to life or bog it down. What's the right balance?
 index,72
-speakers,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese"
+speakers,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese, Michael Cieslak"
 bookdescrip,The historical details can bring a story to life or bog it down. What's the right balance?
 Track,Literature
 startday,4/29/2016
@@ -3408,14 +3408,14 @@ End Time,21:50
 tracknosp,['Literature']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'EMC I', 'Literature', 'History in Speculative Fiction (and Other Literature)', 'Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese', ""The historical details can bring a story to life or bog it down. What's the right balance?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '21:00', '4/29/2016', '21:50', 'EMC I', 'Literature', 'History in Speculative Fiction (and Other Literature)', 'Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese, Michael Cieslak', ""The historical details can bring a story to life or bog it down. What's the right balance?"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese"
+calspeakers,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese, Michael Cieslak"
 avneeds,none
-speakerlist,"['Clif Flynt', 'Steven Saus', 'Nicole Castle', 'Robert Kroese']"
+speakerlist,"['Clif Flynt', 'Steven Saus', 'Nicole Castle', 'Robert Kroese', 'Michael Cieslak']"
 hours,0
 totalminutes,50
-speakernosplist,"['ClifFlynt', 'StevenSaus', 'NicoleCastle', 'RobertKroese']"
+speakernosplist,"['ClifFlynt', 'StevenSaus', 'NicoleCastle', 'RobertKroese', 'MichaelCieslak']"
 caldescrip,The historical details can bring a story to life or bog it down. What's the right balance?
 endtime,21:50
 AV Needs,
@@ -3424,9 +3424,9 @@ Private,PUBLIC
 bookname,History in Speculative Fiction (and Other Literature)
 venue,EMC I
 Book Description,The historical details can bring a story to life or bog it down. What's the right balance?
-Presenters,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese"
+Presenters,"Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese, Michael Cieslak"
 csvsafedescrip,The historical details can bring a story to life or bog it down. What's the right balance?
-speakernosp,"ClifFlynt,StevenSaus,NicoleCastle,RobertKroese"
+speakernosp,"ClifFlynt,StevenSaus,NicoleCastle,RobertKroese,MichaelCieslak"
 starttime,21:00
 roomnosp,EMCI
 Start Date,4/29/2016
@@ -4717,7 +4717,7 @@ speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
 startday,4/30/2016
-Title,Open Linux Computer Lab (Unconference)
+Title,Open Computer Lab (Unconference)
 Start Time,9:00
 event_start,9:00
 starttimeampm,9 AM
@@ -4725,7 +4725,7 @@ End Time,9:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '9:00', '4/30/2016', '9:50', 'Computer Lab (EMC III)', 'Tech', 'Open Linux Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '9:00', '4/30/2016', '9:50', 'Computer Lab (EMC III)', 'Tech', 'Open Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,No Presenter
 avneeds,none
@@ -4736,9 +4736,9 @@ speakernosplist,['NoPresenter']
 caldescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 endtime,9:50
 AV Needs,
-name,Open Linux Computer Lab (Unconference)
+name,Open Computer Lab (Unconference)
 Private,PUBLIC
-bookname,Open Linux Computer Lab (Unconference)
+bookname,Open Computer Lab (Unconference)
 venue,Computer Lab (EMC III)
 Book Description,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Presenters,No Presenter
@@ -6692,7 +6692,7 @@ speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
 startday,4/30/2016
-Title,Open Linux Computer Lab (Unconference)
+Title,Open Computer Lab (Unconference)
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
@@ -6700,7 +6700,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '13:50', 'Computer Lab (EMC III)', 'Tech', 'Open Linux Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '13:50', 'Computer Lab (EMC III)', 'Tech', 'Open Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,No Presenter
 avneeds,none
@@ -6711,9 +6711,9 @@ speakernosplist,['NoPresenter']
 caldescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 endtime,13:50
 AV Needs,
-name,Open Linux Computer Lab (Unconference)
+name,Open Computer Lab (Unconference)
 Private,PUBLIC
-bookname,Open Linux Computer Lab (Unconference)
+bookname,Open Computer Lab (Unconference)
 venue,Computer Lab (EMC III)
 Book Description,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Presenters,No Presenter
@@ -14877,7 +14877,7 @@ speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
 startday,5/1/2016
-Title,Open Linux Computer Lab (Unconference)
+Title,Open Computer Lab (Unconference)
 Start Time,10:00
 event_start,10:00
 starttimeampm,10 AM
@@ -14885,7 +14885,7 @@ End Time,10:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Computer Lab (EMC III)', 'Tech', 'Open Linux Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '10:00', '5/1/2016', '10:50', 'Computer Lab (EMC III)', 'Tech', 'Open Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,No Presenter
 avneeds,none
@@ -14896,9 +14896,9 @@ speakernosplist,['NoPresenter']
 caldescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 endtime,10:50
 AV Needs,
-name,Open Linux Computer Lab (Unconference)
+name,Open Computer Lab (Unconference)
 Private,PUBLIC
-bookname,Open Linux Computer Lab (Unconference)
+bookname,Open Computer Lab (Unconference)
 venue,Computer Lab (EMC III)
 Book Description,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Presenters,No Presenter
@@ -17229,7 +17229,7 @@ speakers,No Presenter
 bookdescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Track,Tech
 startday,5/1/2016
-Title,Open Linux Computer Lab (Unconference)
+Title,Open Computer Lab (Unconference)
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
@@ -17237,7 +17237,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Computer Lab (EMC III)', 'Tech', 'Open Linux Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Computer Lab (EMC III)', 'Tech', 'Open Computer Lab (Unconference)', 'No Presenter', 'Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,No Presenter
 avneeds,none
@@ -17248,9 +17248,9 @@ speakernosplist,['NoPresenter']
 caldescrip,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 endtime,13:50
 AV Needs,
-name,Open Linux Computer Lab (Unconference)
+name,Open Computer Lab (Unconference)
 Private,PUBLIC
-bookname,Open Linux Computer Lab (Unconference)
+bookname,Open Computer Lab (Unconference)
 venue,Computer Lab (EMC III)
 Book Description,"Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops."
 Presenters,No Presenter
