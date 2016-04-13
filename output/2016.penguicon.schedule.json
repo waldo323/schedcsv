@@ -5958,5 +5958,19 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone!",
+        "end_date": "4/30/2016",
+        "title": "Open Kink",
+        "track": "After Dark",
+        "start_time": "22:00",
+        "presenters": [
+            "Lawrence Kapture"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
     }
 ]
