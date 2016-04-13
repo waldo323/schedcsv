@@ -4941,7 +4941,8 @@
         "presenters": [
             "Jen Schwartz",
             "Matt Sweet",
-            "Max Issac"
+            "Max Issac",
+            "Mari Brighe"
         ],
         "location": "Charlevoix C",
         "minutes": 50,
@@ -5972,5 +5973,66 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "22:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "",
+        "title": "Reading/Signing: John Scalzi and Dave Kecha",
+        "track": "Literature",
+        "start_time": "11:00",
+        "presenters": [
+            "John Scalzi",
+            "David Klecha"
+        ],
+        "location": "Writer's Block (317 and 318)",
+        "minutes": -41710,
+        "start_date": "4/30/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "Reading/Signing: Jen Haeger and Mary Lynne Gibbs",
+        "track": "",
+        "start_time": "13:00",
+        "presenters": [
+            "Jenn Haeger",
+            "Mary Lynne Gibbs"
+        ],
+        "location": "",
+        "minutes": 50,
+        "start_date": "",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz",
+        "track": "",
+        "start_time": "14:00",
+        "presenters": [
+            "Alex Kourvo",
+            "Ferrett Steinmetz"
+        ],
+        "location": "",
+        "minutes": 50,
+        "start_date": "",
+        "end_time": "14:50"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "Reading/Signing: Cindy Spencer Pape and Christine Daigle and Stewart Sternberg",
+        "track": "",
+        "start_time": "16:00",
+        "presenters": [
+            "Cindy Spencer Pape",
+            "Chistine Daigle",
+            "Stewart Sternberg"
+        ],
+        "location": "",
+        "minutes": 50,
+        "start_date": "",
+        "end_time": "16:50"
     }
 ]

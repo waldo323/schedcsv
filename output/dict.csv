@@ -15627,7 +15627,7 @@ Location,Charlevoix C
 duration,50 minutes
 description,Let's talk about LGBQT identities
 index,332
-speakers,"Jen Schwartz, Matt Sweet, Max Issac"
+speakers,"Jen Schwartz, Matt Sweet, Max Issac, Mari Brighe"
 bookdescrip,Let's talk about LGBQT identities
 Track,Life
 startday,5/1/2016
@@ -15639,14 +15639,14 @@ End Time,11:50
 tracknosp,['Life']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Charlevoix C', 'Life', 'LGBTQ Identities', 'Jen Schwartz, Matt Sweet, Max Issac', ""Let's talk about LGBQT identities"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '11:00', '5/1/2016', '11:50', 'Charlevoix C', 'Life', 'LGBTQ Identities', 'Jen Schwartz, Matt Sweet, Max Issac, Mari Brighe', ""Let's talk about LGBQT identities"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Jen Schwartz, Matt Sweet, Max Issac"
+calspeakers,"Jen Schwartz, Matt Sweet, Max Issac, Mari Brighe"
 avneeds,none
-speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac']"
+speakerlist,"['Jen Schwartz', 'Matt Sweet', 'Max Issac', 'Mari Brighe']"
 hours,0
 totalminutes,50
-speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac']"
+speakernosplist,"['JenSchwartz', 'MattSweet', 'MaxIssac', 'MariBrighe']"
 caldescrip,Let's talk about LGBQT identities
 endtime,11:50
 AV Needs,
@@ -15655,9 +15655,9 @@ Private,PUBLIC
 bookname,LGBTQ Identities
 venue,Charlevoix C
 Book Description,Let's talk about LGBQT identities
-Presenters,"Jen Schwartz, Matt Sweet, Max Issac"
+Presenters,"Jen Schwartz, Matt Sweet, Max Issac, Mari Brighe"
 csvsafedescrip,Let's talk about LGBQT identities
-speakernosp,"JenSchwartz,MattSweet,MaxIssac"
+speakernosp,"JenSchwartz,MattSweet,MaxIssac,MariBrighe"
 starttime,11:00
 roomnosp,CharlevoixC
 Start Date,5/1/2016
@@ -18905,4 +18905,192 @@ starttime,22:00
 roomnosp,Montcalm
 Start Date,4/30/2016
 descriptionascii,Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone!
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,
+event_end,11:50
+event_type_list,['Literature']
+private,DEFAULT
+endtimeampm,11 AM
+Location,Writer's Block (317 and 318)
+duration,50 minutes
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+index,402
+speakers,"John Scalzi, David Klecha"
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
+Title,Reading/Signing: John Scalzi and Dave Kecha
+Start Time,11:00
+event_start,11:00
+starttimeampm,11 AM
+End Time,11:50
+tracknosp,['Literature']
+endday,4/1/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '11:00', '', '11:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: John Scalzi and Dave Kecha', 'John Scalzi, David Klecha', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '', '', '', '']"
+End Date,
+calspeakers,"John Scalzi, David Klecha"
+avneeds,none
+speakerlist,"['John Scalzi', 'David Klecha']"
+hours,-696
+totalminutes,-41710
+speakernosplist,"['JohnScalzi', 'DavidKlecha']"
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+endtime,11:50
+AV Needs,
+name,Reading/Signing: John Scalzi and Dave Kecha
+Private,
+bookname,Reading/Signing: John Scalzi and Dave Kecha
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
+Presenters,"John Scalzi, David Klecha"
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+speakernosp,"JohnScalzi,DavidKlecha"
+starttime,11:00
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+minutes,50
+allday,FALSE
+event_type,
+All Day Event,
+event_end,13:50
+event_type_list,['']
+private,DEFAULT
+endtimeampm,1 PM
+Location,
+duration,50 minutes
+description,
+index,403
+speakers,"Jenn Haeger, Mary Lynne Gibbs"
+bookdescrip,
+Track,
+startday,4/1/2016
+Title,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
+Start Time,13:00
+event_start,13:00
+starttimeampm,1 PM
+End Time,13:50
+tracknosp,['']
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '13:00', '', '13:50', '', '', 'Reading/Signing: Jen Haeger and Mary Lynne Gibbs', 'Jenn Haeger, Mary Lynne Gibbs', '', '', '', '', '']"
+End Date,
+calspeakers,"Jenn Haeger, Mary Lynne Gibbs"
+avneeds,none
+speakerlist,"['Jenn Haeger', 'Mary Lynne Gibbs']"
+hours,0
+totalminutes,50
+speakernosplist,"['JennHaeger', 'MaryLynneGibbs']"
+caldescrip,
+endtime,13:50
+AV Needs,
+name,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
+Private,
+bookname,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
+venue,
+Book Description,
+Presenters,"Jenn Haeger, Mary Lynne Gibbs"
+csvsafedescrip,
+speakernosp,"JennHaeger,MaryLynneGibbs"
+starttime,13:00
+roomnosp,Hotel
+Start Date,
+descriptionascii,
+minutes,50
+allday,FALSE
+event_type,
+All Day Event,
+event_end,14:50
+event_type_list,['']
+private,DEFAULT
+endtimeampm,2 PM
+Location,
+duration,50 minutes
+description,
+index,404
+speakers,"Alex Kourvo, Ferrett Steinmetz"
+bookdescrip,
+Track,
+startday,4/1/2016
+Title,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
+Start Time,14:00
+event_start,14:00
+starttimeampm,2 PM
+End Time,14:50
+tracknosp,['']
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '14:00', '', '14:50', '', '', 'Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz', 'Alex Kourvo, Ferrett Steinmetz', '', '', '', '', '']"
+End Date,
+calspeakers,"Alex Kourvo, Ferrett Steinmetz"
+avneeds,none
+speakerlist,"['Alex Kourvo', 'Ferrett Steinmetz']"
+hours,0
+totalminutes,50
+speakernosplist,"['AlexKourvo', 'FerrettSteinmetz']"
+caldescrip,
+endtime,14:50
+AV Needs,
+name,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
+Private,
+bookname,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
+venue,
+Book Description,
+Presenters,"Alex Kourvo, Ferrett Steinmetz"
+csvsafedescrip,
+speakernosp,"AlexKourvo,FerrettSteinmetz"
+starttime,14:00
+roomnosp,Hotel
+Start Date,
+descriptionascii,
+minutes,50
+allday,FALSE
+event_type,
+All Day Event,
+event_end,16:50
+event_type_list,['']
+private,DEFAULT
+endtimeampm,4 PM
+Location,
+duration,50 minutes
+description,
+index,405
+speakers,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
+bookdescrip,
+Track,
+startday,4/1/2016
+Title,Reading/Signing: Cindy Spencer Pape and Christine Daigle and Stewart Sternberg
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,16:50
+tracknosp,['']
+endday,4/1/2016
+dayheader,"NoDay, April 1"
+input,"['', '16:00', '', '16:50', '', '', 'Reading/Signing: Cindy Spencer Pape and Christine Daigle & Stewart Sternberg', 'Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg', '', '', '', '', '']"
+End Date,
+calspeakers,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
+avneeds,none
+speakerlist,"['Cindy Spencer Pape', 'Chistine Daigle', 'Stewart Sternberg']"
+hours,0
+totalminutes,50
+speakernosplist,"['CindySpencerPape', 'ChistineDaigle', 'StewartSternberg']"
+caldescrip,
+endtime,16:50
+AV Needs,
+name,Reading/Signing: Cindy Spencer Pape and Christine Daigle & Stewart Sternberg
+Private,
+bookname,Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg
+venue,
+Book Description,
+Presenters,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
+csvsafedescrip,
+speakernosp,"CindySpencerPape,ChistineDaigle,StewartSternberg"
+starttime,16:00
+roomnosp,Hotel
+Start Date,
+descriptionascii,
 minutes,50
