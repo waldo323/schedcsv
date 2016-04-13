@@ -18908,10 +18908,10 @@ descriptionascii,Let's talk kink. Join us for a guided discussion of as many kin
 minutes,50
 allday,FALSE
 event_type,Literature
-All Day Event,
+All Day Event,FALSE
 event_end,11:50
 event_type_list,['Literature']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,11 AM
 Location,Writer's Block (317 and 318)
 duration,50 minutes
@@ -18927,21 +18927,21 @@ event_start,11:00
 starttimeampm,11 AM
 End Time,11:50
 tracknosp,['Literature']
-endday,4/1/2016
+endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '', '11:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: John Scalzi and Dave Kecha', 'John Scalzi, David Klecha', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '', '', '', '']"
-End Date,
+input,"['4/30/2016', '11:00', '4/30/2016', '11:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: John Scalzi and Dave Kecha', 'John Scalzi, David Klecha', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,"John Scalzi, David Klecha"
 avneeds,none
 speakerlist,"['John Scalzi', 'David Klecha']"
-hours,-696
-totalminutes,-41710
+hours,0
+totalminutes,50
 speakernosplist,"['JohnScalzi', 'DavidKlecha']"
 caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 endtime,11:50
 AV Needs,
 name,Reading/Signing: John Scalzi and Dave Kecha
-Private,
+Private,PUBLIC
 bookname,Reading/Signing: John Scalzi and Dave Kecha
 venue,Writer's Block (317 & 318)
 Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
@@ -18954,143 +18954,331 @@ Start Date,4/30/2016
 descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 minutes,50
 allday,FALSE
-event_type,
-All Day Event,
+event_type,Literature
+All Day Event,FALSE
 event_end,13:50
-event_type_list,['']
-private,DEFAULT
+event_type_list,['Literature']
+private,PUBLIC
 endtimeampm,1 PM
-Location,
+Location,Writer's Block (317 and 318)
 duration,50 minutes
-description,
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 index,403
 speakers,"Jenn Haeger, Mary Lynne Gibbs"
-bookdescrip,
-Track,
-startday,4/1/2016
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
 Title,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
 End Time,13:50
-tracknosp,['']
-endday,4/1/2016
-dayheader,"NoDay, April 1"
-input,"['', '13:00', '', '13:50', '', '', 'Reading/Signing: Jen Haeger and Mary Lynne Gibbs', 'Jenn Haeger, Mary Lynne Gibbs', '', '', '', '', '']"
-End Date,
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '13:00', '4/30/2016', '13:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Jen Haeger and Mary Lynne Gibbs', 'Jenn Haeger, Mary Lynne Gibbs', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,"Jenn Haeger, Mary Lynne Gibbs"
 avneeds,none
 speakerlist,"['Jenn Haeger', 'Mary Lynne Gibbs']"
 hours,0
 totalminutes,50
 speakernosplist,"['JennHaeger', 'MaryLynneGibbs']"
-caldescrip,
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 endtime,13:50
 AV Needs,
 name,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
-Private,
+Private,PUBLIC
 bookname,Reading/Signing: Jen Haeger and Mary Lynne Gibbs
-venue,
-Book Description,
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
 Presenters,"Jenn Haeger, Mary Lynne Gibbs"
-csvsafedescrip,
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 speakernosp,"JennHaeger,MaryLynneGibbs"
 starttime,13:00
-roomnosp,Hotel
-Start Date,
-descriptionascii,
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 minutes,50
 allday,FALSE
-event_type,
-All Day Event,
+event_type,Literature
+All Day Event,FALSE
 event_end,14:50
-event_type_list,['']
-private,DEFAULT
+event_type_list,['Literature']
+private,PUBLIC
 endtimeampm,2 PM
-Location,
+Location,Writer's Block (317 and 318)
 duration,50 minutes
-description,
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 index,404
 speakers,"Alex Kourvo, Ferrett Steinmetz"
-bookdescrip,
-Track,
-startday,4/1/2016
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
 Title,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
 Start Time,14:00
 event_start,14:00
 starttimeampm,2 PM
 End Time,14:50
-tracknosp,['']
-endday,4/1/2016
-dayheader,"NoDay, April 1"
-input,"['', '14:00', '', '14:50', '', '', 'Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz', 'Alex Kourvo, Ferrett Steinmetz', '', '', '', '', '']"
-End Date,
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '14:00', '4/30/2016', '14:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz', 'Alex Kourvo, Ferrett Steinmetz', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,"Alex Kourvo, Ferrett Steinmetz"
 avneeds,none
 speakerlist,"['Alex Kourvo', 'Ferrett Steinmetz']"
 hours,0
 totalminutes,50
 speakernosplist,"['AlexKourvo', 'FerrettSteinmetz']"
-caldescrip,
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 endtime,14:50
 AV Needs,
 name,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
-Private,
+Private,PUBLIC
 bookname,Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz
-venue,
-Book Description,
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
 Presenters,"Alex Kourvo, Ferrett Steinmetz"
-csvsafedescrip,
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 speakernosp,"AlexKourvo,FerrettSteinmetz"
 starttime,14:00
-roomnosp,Hotel
-Start Date,
-descriptionascii,
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 minutes,50
 allday,FALSE
-event_type,
-All Day Event,
+event_type,Literature
+All Day Event,FALSE
 event_end,16:50
-event_type_list,['']
-private,DEFAULT
+event_type_list,['Literature']
+private,PUBLIC
 endtimeampm,4 PM
-Location,
+Location,Writer's Block (317 and 318)
 duration,50 minutes
-description,
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 index,405
 speakers,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
-bookdescrip,
-Track,
-startday,4/1/2016
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
 Title,Reading/Signing: Cindy Spencer Pape and Christine Daigle and Stewart Sternberg
 Start Time,16:00
 event_start,16:00
 starttimeampm,4 PM
 End Time,16:50
-tracknosp,['']
-endday,4/1/2016
-dayheader,"NoDay, April 1"
-input,"['', '16:00', '', '16:50', '', '', 'Reading/Signing: Cindy Spencer Pape and Christine Daigle & Stewart Sternberg', 'Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg', '', '', '', '', '']"
-End Date,
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '16:00', '4/30/2016', '16:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Cindy Spencer Pape and Christine Daigle & Stewart Sternberg', 'Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
 calspeakers,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
 avneeds,none
 speakerlist,"['Cindy Spencer Pape', 'Chistine Daigle', 'Stewart Sternberg']"
 hours,0
 totalminutes,50
 speakernosplist,"['CindySpencerPape', 'ChistineDaigle', 'StewartSternberg']"
-caldescrip,
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 endtime,16:50
 AV Needs,
 name,Reading/Signing: Cindy Spencer Pape and Christine Daigle & Stewart Sternberg
-Private,
+Private,PUBLIC
 bookname,Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg
-venue,
-Book Description,
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
 Presenters,"Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg"
-csvsafedescrip,
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 speakernosp,"CindySpencerPape,ChistineDaigle,StewartSternberg"
 starttime,16:00
-roomnosp,Hotel
-Start Date,
-descriptionascii,
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,FALSE
+event_end,17:50
+event_type_list,['Literature']
+private,PUBLIC
+endtimeampm,5 PM
+Location,Writer's Block (317 and 318)
+duration,50 minutes
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+index,406
+speakers,"Christopher Purrett, Merrie Haskell"
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
+Title,Reading/Signing: Christopher Purrett and Merrie Haskell
+Start Time,17:00
+event_start,17:00
+starttimeampm,5 PM
+End Time,17:50
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '17:00', '4/30/2016', '17:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Christopher Purrett and Merrie Haskell', 'Christopher Purrett, Merrie Haskell', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
+calspeakers,"Christopher Purrett, Merrie Haskell"
+avneeds,none
+speakerlist,"['Christopher Purrett', 'Merrie Haskell']"
+hours,0
+totalminutes,50
+speakernosplist,"['ChristopherPurrett', 'MerrieHaskell']"
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+endtime,17:50
+AV Needs,
+name,Reading/Signing: Christopher Purrett and Merrie Haskell
+Private,PUBLIC
+bookname,Reading/Signing: Christopher Purrett and Merrie Haskell
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
+Presenters,"Christopher Purrett, Merrie Haskell"
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+speakernosp,"ChristopherPurrett,MerrieHaskell"
+starttime,17:00
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,FALSE
+event_end,19:50
+event_type_list,['Literature']
+private,PUBLIC
+endtimeampm,7 PM
+Location,Writer's Block (317 and 318)
+duration,50 minutes
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+index,407
+speakers,Michael W. Lucas and Ken MacGregor
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
+Title,Reading/Signing: Michael W. Lucas and Ken MacGregor
+Start Time,19:00
+event_start,19:00
+starttimeampm,7 PM
+End Time,19:50
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '19:00', '4/30/2016', '19:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Michael W. Lucas and Ken MacGregor', 'Michael W. Lucas and Ken MacGregor', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
+calspeakers,Michael W. Lucas and Ken MacGregor
+avneeds,none
+speakerlist,['Michael W. Lucas and Ken MacGregor']
+hours,0
+totalminutes,50
+speakernosplist,['MichaelW.LucasandKenMacGregor']
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+endtime,19:50
+AV Needs,
+name,Reading/Signing: Michael W. Lucas and Ken MacGregor
+Private,PUBLIC
+bookname,Reading/Signing: Michael W. Lucas and Ken MacGregor
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
+Presenters,Michael W. Lucas and Ken MacGregor
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+speakernosp,MichaelW.LucasandKenMacGregor
+starttime,19:00
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,FALSE
+event_end,20:50
+event_type_list,['Literature']
+private,PUBLIC
+endtimeampm,8 PM
+Location,Writer's Block (317 and 318)
+duration,50 minutes
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+index,408
+speakers,"Tobias S. Buckell, Mark Oshiro"
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,4/30/2016
+Title,Reading/Signing: Tobias S. Buckell and Mark Oshiro
+Start Time,20:50
+event_start,20:50
+starttimeampm,8 PM
+End Time,20:50
+tracknosp,['Literature']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '20:50', '4/30/2016', '20:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Tobias S. Buckell and Mark Oshiro', 'Tobias S. Buckell, Mark Oshiro', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,4/30/2016
+calspeakers,"Tobias S. Buckell, Mark Oshiro"
+avneeds,none
+speakerlist,"['Tobias S. Buckell', 'Mark Oshiro']"
+hours,0
+totalminutes,50
+speakernosplist,"['TobiasS.Buckell', 'MarkOshiro']"
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+endtime,20:50
+AV Needs,
+name,Reading/Signing: Tobias S. Buckell and Mark Oshiro
+Private,PUBLIC
+bookname,Reading/Signing: Tobias S. Buckell and Mark Oshiro
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
+Presenters,"Tobias S. Buckell, Mark Oshiro"
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+speakernosp,"TobiasS.Buckell,MarkOshiro"
+starttime,20:50
+roomnosp,Writer'sBlock317&318
+Start Date,4/30/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+minutes,50
+allday,FALSE
+event_type,Literature
+All Day Event,FALSE
+event_end,12:50
+event_type_list,['Literature']
+private,PUBLIC
+endtimeampm,12 PM
+Location,Writer's Block (317 and 318)
+duration,50 minutes
+description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+index,409
+speakers,"Emmy Jackson, David Erik Nelson"
+bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
+Track,Literature
+startday,5/1/2016
+Title,"Reading/Signing: Emmy Jackson, David Erik Nelson"
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,12:50
+tracknosp,['Literature']
+endday,5/1/2016
+dayheader,"SUNDAY, May 1"
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', ""Writer's Block (317 & 318)"", 'Literature', 'Reading/Signing: Emmy Jackson, David Erik Nelson', 'Emmy Jackson, David Erik Nelson', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+End Date,5/1/2016
+calspeakers,"Emmy Jackson, David Erik Nelson"
+avneeds,none
+speakerlist,"['Emmy Jackson', 'David Erik Nelson']"
+hours,0
+totalminutes,50
+speakernosplist,"['EmmyJackson', 'DavidErikNelson']"
+caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+endtime,12:50
+AV Needs,
+name,"Reading/Signing: Emmy Jackson, David Erik Nelson"
+Private,PUBLIC
+bookname,"Reading/Signing: Emmy Jackson, David Erik Nelson"
+venue,Writer's Block (317 & 318)
+Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
+Presenters,"Emmy Jackson, David Erik Nelson"
+csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
+speakernosp,"EmmyJackson,DavidErikNelson"
+starttime,12:00
+roomnosp,Writer'sBlock317&318
+Start Date,5/1/2016
+descriptionascii,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 minutes,50
