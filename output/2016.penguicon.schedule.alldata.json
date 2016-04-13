@@ -859,16 +859,16 @@
         "allday": "TRUE",
         "event_type": "Tech, Life, DIY",
         "All Day Event": "TRUE",
-        "event_end": "15:00",
+        "event_end": "22:50",
         "event_type_list": [
             "Tech",
             "Life",
             "DIY"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "3 PM",
+        "endtimeampm": "10 PM",
         "Location": "HackerSpace (317)",
-        "duration": "00 minutes",
+        "duration": "50 minutes",
         "description": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
         "index": 12,
         "speakers": "Amal Graafstra, Anita Fowler",
@@ -879,7 +879,7 @@
         "Start Time": "19:00",
         "event_start": "19:00",
         "starttimeampm": "7 PM",
-        "End Time": "15:00",
+        "End Time": "22:50",
         "tracknosp": [
             "Tech",
             "Life",
@@ -891,7 +891,7 @@
             "4/29/2016",
             "19:00",
             "5/1/2016",
-            "15:00",
+            "22:50",
             "HackerSpace (317)",
             "Tech, Life, DIY",
             "Dangeous Things",
@@ -909,14 +909,14 @@
             "Amal Graafstra",
             "Anita Fowler"
         ],
-        "hours": -676,
-        "totalminutes": -40560,
+        "hours": -669,
+        "totalminutes": -40090,
         "speakernosplist": [
             "AmalGraafstra",
             "AnitaFowler"
         ],
         "caldescrip": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
-        "endtime": "15:00",
+        "endtime": "22:50",
         "AV Needs": "",
         "name": "Dangeous Things",
         "Private": "PUBLIC",
@@ -930,7 +930,7 @@
         "roomnosp": "HackerSpace317",
         "Start Date": "4/29/2016",
         "descriptionascii": "Featured Guests Dangerous Things will be set up in our Hacker Space throughout the weekend offering RFID implantation services. Please stop by and talk to them for more information and for costs.",
-        "minutes": "00"
+        "minutes": "50"
     },
     {
         "allday": "FALSE",
