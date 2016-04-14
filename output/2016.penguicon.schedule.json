@@ -1,34 +1,5 @@
 [
     {
-        "book_description": "\" I know Kung Fu.\" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like! This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.",
-        "end_date": "4/29/2016",
-        "title": "I know Kung Fu",
-        "track": "Action Adventure",
-        "start_time": "16:00",
-        "presenters": [
-            "Mike SanDiego"
-        ],
-        "location": "Algonquin A",
-        "minutes": 110,
-        "start_date": "4/29/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
-        "end_date": "4/29/2016",
-        "title": "Paint and Take",
-        "track": "Gaming, DIY",
-        "start_time": "16:00",
-        "presenters": [
-            "Linda Martelle",
-            "Dean Martelle"
-        ],
-        "location": "Game Table H, Game Table I",
-        "minutes": 350,
-        "start_date": "4/29/2016",
-        "end_time": "21:50"
-    },
-    {
         "book_description": "This customizable marble roller coaster is a perennial favorite, serving as a metaphor for the open source development process. The Chaos Machine is available all weekend for Penguicon attendees to tinker with!",
         "end_date": "5/1/2016",
         "title": "Chaos Machine",
@@ -169,6 +140,35 @@
         "minutes": -40630,
         "start_date": "4/29/2016",
         "end_time": "11:50"
+    },
+    {
+        "book_description": "\" I know Kung Fu.\" Sound familiar? Thanks to movies like the Matrix and Kung Fu Panda, this ancient martial art is fairly well known in the west. But do you actually know what it really is? If you want to find out, come and learn some basics of this ancient art form that is thousands of years old, and get a taste of what real Kung fu is like! This workshop will be active, so dress comfortably! Workout pants and sneakers would be ideal, dress clothes, costumes, or restrictive clothing should be avoided. For safety reasons, this is not a workshop generally recommended for children or those with medical and or physical conditions that would make high mobility a health risk.",
+        "end_date": "4/29/2016",
+        "title": "I know Kung Fu",
+        "track": "Action Adventure",
+        "start_time": "16:00",
+        "presenters": [
+            "Mike SanDiego"
+        ],
+        "location": "Algonquin A",
+        "minutes": 110,
+        "start_date": "4/29/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure. Some free figures may be had till gone-- 1 per day per person.",
+        "end_date": "4/29/2016",
+        "title": "Paint and Take",
+        "track": "Gaming, DIY",
+        "start_time": "16:00",
+        "presenters": [
+            "Linda Martelle",
+            "Dean Martelle"
+        ],
+        "location": "Game Table H, Game Table I",
+        "minutes": 350,
+        "start_date": "4/29/2016",
+        "end_time": "21:50"
     },
     {
         "book_description": "Have you ever considered volunteering as an emergency responder, or are you simply curious about what happens in disaster areas when the \"official\" help runs out? An experienced former search and rescue (SAR) volunteer will share lessons learned about SAR operations, and perhaps a little about life.",
