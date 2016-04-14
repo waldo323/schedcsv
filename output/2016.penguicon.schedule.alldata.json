@@ -432,7 +432,7 @@
     {
         "allday": "FALSE",
         "event_type": "Mayhem",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "19:50",
         "event_type_list": [
             "Mayhem"
@@ -469,7 +469,7 @@
             "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
             "00hr:50min",
             "",
-            "",
+            "FALSE",
             ""
         ],
         "End Date": "4/30/2016",
@@ -503,7 +503,7 @@
     {
         "allday": "FALSE",
         "event_type": "Mayhem",
-        "All Day Event": "",
+        "All Day Event": "FALSE",
         "event_end": "19:50",
         "event_type_list": [
             "Mayhem"
@@ -540,7 +540,7 @@
             "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
             "00hr:50min",
             "",
-            "",
+            "FALSE",
             "PUBLIC"
         ],
         "End Date": "4/29/2016",
@@ -788,12 +788,12 @@
         "allday": "TRUE",
         "event_type": "Penguicon",
         "All Day Event": "TRUE",
-        "event_end": "14:50",
+        "event_end": "11:50",
         "event_type_list": [
             "Penguicon"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "2 PM",
+        "endtimeampm": "11 AM",
         "Location": "321",
         "duration": "50 minutes",
         "description": "Space| the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ~em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members.",
@@ -806,7 +806,7 @@
         "Start Time": "17:00",
         "event_start": "17:00",
         "starttimeampm": "5 PM",
-        "End Time": "14:50",
+        "End Time": "11:50",
         "tracknosp": [
             "Penguicon"
         ],
@@ -816,7 +816,7 @@
             "4/29/2016",
             "17:00",
             "5/1/2016",
-            "14:50",
+            "11:50",
             "321",
             "Penguicon",
             "Artemis",
@@ -833,13 +833,13 @@
         "speakerlist": [
             "Lansing Maker Network"
         ],
-        "hours": -675,
-        "totalminutes": -40450,
+        "hours": -678,
+        "totalminutes": -40630,
         "speakernosplist": [
             "LansingMakerNetwork"
         ],
         "caldescrip": "Space| the ultimate target-rich environment. These are the voyages of the Starship Artemis, and its sister vessels, whose ongoing mission is seek out aggressive life forms, marauders and even each other, and blow ~em all to space-smithereens!  Lansing Makers Network will be bringing their version, with lighting effects, of the popular starship bridge simulator game, Artemis! A co-op starship sim for up to six crew members.\n\n",
-        "endtime": "14:50",
+        "endtime": "11:50",
         "AV Needs": "",
         "name": "Artemis",
         "Private": "PUBLIC",
@@ -11211,7 +11211,7 @@
         ],
         "private": "PUBLIC",
         "endtimeampm": "12 PM",
-        "Location": "",
+        "Location": "2nd Floor by Elevators",
         "duration": "50 minutes",
         "description": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
         "index": 154,
@@ -11234,7 +11234,7 @@
             "12:00",
             "4/30/2016",
             "12:50",
-            "",
+            "2nd Floor by Elevators",
             "Science",
             "Walk the Solar System",
             "",
@@ -11261,13 +11261,13 @@
         "name": "Walk the Solar System",
         "Private": "PUBLIC",
         "bookname": "Walk the Solar System",
-        "venue": "",
+        "venue": "2nd Floor by Elevators",
         "Book Description": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
         "Presenters": "",
         "csvsafedescrip": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets- you will find a poster(with a QR code) with more information on that body.",
         "speakernosp": "",
         "starttime": "12:00",
-        "roomnosp": "Hotel",
+        "roomnosp": "2ndFloorbyElevators",
         "Start Date": "4/30/2016",
         "descriptionascii": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
         "minutes": "50"
@@ -20584,14 +20584,14 @@
         "allday": "FALSE",
         "event_type": "Gaming",
         "All Day Event": "FALSE",
-        "event_end": "19:50",
+        "event_end": "21:50",
         "event_type_list": [
             "Gaming"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "7 PM",
+        "endtimeampm": "9 PM",
         "Location": "Game Table G",
-        "duration": "50 minutes",
+        "duration": "1 hour and 50 minutes",
         "description": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empires hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
         "index": 282,
         "speakers": "Jason Sonk",
@@ -20602,7 +20602,7 @@
         "Start Time": "20:00",
         "event_start": "20:00",
         "starttimeampm": "8 PM",
-        "End Time": "19:50",
+        "End Time": "21:50",
         "tracknosp": [
             "Gaming"
         ],
@@ -20612,13 +20612,13 @@
             "4/30/2016",
             "20:00",
             "4/30/2016",
-            "19:50",
+            "21:50",
             "Game Table G",
             "Gaming",
             "Star Wars: Imperial Assault",
             "Jason Sonk",
             "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empire\u2019s hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
-            "",
+            "01hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -20629,13 +20629,13 @@
         "speakerlist": [
             "Jason Sonk"
         ],
-        "hours": -1,
-        "totalminutes": -10,
+        "hours": 1,
+        "totalminutes": 110,
         "speakernosplist": [
             "JasonSonk"
         ],
         "caldescrip": "2-5 players. A game set in the Galactic Civil War between the Rebel Alliance and the Galactic Empire after the destruction of the Death Star over Yavin 4. In this game, you and your friends can participate in two separate games. The campaign game pits the limitless troops and resources of the Galactic Empire against a crack team of elite Rebel operatives as they strive to break the Empires hold on the galaxy, while the skirmish game invites you and a friend to muster strike teams and battle head-to-head over conflicting objectives.",
-        "endtime": "19:50",
+        "endtime": "21:50",
         "AV Needs": "",
         "name": "Star Wars: Imperial Assault",
         "Private": "PUBLIC",
@@ -22721,7 +22721,7 @@
             "Tools for Outlines: M.I.C.E., The Three Act Structure",
             "Paul Kemner, Ericka S. Kahler, Eric S. Raymond, Michael K. Elliot, Angie Rush",
             "Is your story about Milieu, an Idea, a Character, or an Event? Figure out what sort of story you want to tell, and see which elements are most important, how you might want to structure the story, and how to tell if you've reached the end. ",
-            "",
+            "00hr:50min",
             "",
             "FALSE",
             ""
@@ -23208,14 +23208,14 @@
         "allday": "FALSE",
         "event_type": "Gaming",
         "All Day Event": "FALSE",
-        "event_end": "23:50",
+        "event_end": "11:50",
         "event_type_list": [
             "Gaming"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "11 PM",
+        "endtimeampm": "11 AM",
         "Location": "Game Table A",
-        "duration": "13 hours and 50 minutes",
+        "duration": "1 hour and 50 minutes",
         "description": "Enjoyable diversions or torture devices? You decide! Heres your chance to playtest two prototype motorized wooden board games. In \"Quatern\" up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \"Exquisite Corpse Machine 3\" is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes.",
         "index": 318,
         "speakers": "Andy Malone",
@@ -23226,7 +23226,7 @@
         "Start Time": "10:00",
         "event_start": "10:00",
         "starttimeampm": "10 AM",
-        "End Time": "23:50",
+        "End Time": "11:50",
         "tracknosp": [
             "Gaming"
         ],
@@ -23236,13 +23236,13 @@
             "5/1/2016",
             "10:00",
             "5/1/2016",
-            "23:50",
+            "11:50",
             "Game Table A",
             "Gaming",
             "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
             "Andy Malone",
             "Enjoyable diversions or torture devices? You decide! Here\u2019s your chance to playtest two prototype motorized wooden board games. In \u201cQuatern\u201d up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. \u201cExquisite Corpse Machine 3\u201d is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
-            "",
+            "01hr:50min",
             "",
             "FALSE",
             "PUBLIC"
@@ -23253,13 +23253,13 @@
         "speakerlist": [
             "Andy Malone"
         ],
-        "hours": 13,
-        "totalminutes": 830,
+        "hours": 1,
+        "totalminutes": 110,
         "speakernosplist": [
             "AndyMalone"
         ],
         "caldescrip": "Enjoyable diversions or torture devices? You decide! Heres your chance to playtest two prototype motorized wooden board games. In 'Quatern' up to four players compete simultaneously to place a row of four consecutive beads on a constantly rotating board. 'Exquisite Corpse Machine 3' is an open-ended game designed to facilitate collaborative art work (and encourage quick creative decisions.) The rules take a few seconds to learn and game play lasts about 5 minutes. ",
-        "endtime": "23:50",
+        "endtime": "11:50",
         "AV Needs": "",
         "name": "Prototype Playtest: Quatern and Exquisite Corpse Machine 3",
         "Private": "PUBLIC",
@@ -26225,7 +26225,7 @@
             "The Most Useful Tropes",
             "Emmy Jackson, Jackie Morgan, Scott Favre, Mark Oshiro",
             "Cliches in fantasy and science fiction are a big no-no... except when they aren\u2019t. What are the most-used tropes in SFF? Why are they so overused? Are they always bad? Are there ways they can be twisted to say new things about the genre?",
-            "",
+            "00hr:50min",
             "",
             "FALSE",
             "PUBLIC"
