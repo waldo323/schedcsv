@@ -1,13 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
-<room></room>
-<day>SATURDAY, APRIL 30</day>
-<title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<time>10 AM</time></event><event>
-<day>NoDay, April 1</day>
-<title></title>
-<topic></topic>
-<time>4 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -520,6 +511,13 @@
 <title>Neurable Demo</title>
 <topic>Science, Tech</topic>
 <time>10 AM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
+<title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<time>10 AM</time></event><event>
+<title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<time>3 PM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Basic Skills for Working with Electronics</title>

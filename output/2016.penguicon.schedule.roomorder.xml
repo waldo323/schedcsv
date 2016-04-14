@@ -1,16 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<day>SATURDAY, APRIL 30</day>
-<time>10 AM</time>
-<event><title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<room></room>
-<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
-<day>NoDay, April 1</day>
-<time>4 PM</time>
-<event><title></title>
-<topic></topic>
-<room></room>
-<blurb><participant></participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>42 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -934,6 +922,18 @@
 <topic>Science, Tech</topic>
 <room>Demo Table, Maker Market Hallway</room>
 <blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>10 AM</time>
+<event><title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>3 PM</time>
+<event><title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>5 PM</time>
 <event><title>Basic Skills for Working with Electronics</title>
