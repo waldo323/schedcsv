@@ -1457,20 +1457,6 @@
         "end_time": "8:50"
     },
     {
-        "book_description": "Learn the differences in coffee drinks: cappucino, frappe, latte, americano, espresso, etc so you can confidently order drinks at even the fanciest coffee shops.",
-        "end_date": "4/30/2016",
-        "title": "Coffee, The Other Java",
-        "track": "Food",
-        "start_time": "9:00",
-        "presenters": [
-            "Kelly Vanderwell"
-        ],
-        "location": "1017",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "9:50"
-    },
-    {
         "book_description": "Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops.",
         "end_date": "4/30/2016",
         "title": "Open Computer Lab (Unconference)",
@@ -1654,7 +1640,8 @@
         "start_time": "10:00",
         "presenters": [
             "Scott Scheraga",
-            "Paul Frick"
+            "Paul Frick",
+            "Matthew Carpenter"
         ],
         "location": "EMC IV",
         "minutes": 50,
