@@ -5652,10 +5652,10 @@ private,PUBLIC
 endtimeampm,11 AM
 Location,Algonquin B/C
 duration,50 minutes
-description,"Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
+description,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 index,120
 speakers,"Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage"
-bookdescrip,"Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
+bookdescrip,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 Track,Tech
 startday,4/30/2016
 Title,The Future of Biohacking
@@ -5666,7 +5666,7 @@ End Time,11:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Algonquin B/C', 'Tech', 'The Future of Biohacking', 'Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage', 'Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '11:00', '4/30/2016', '11:50', 'Algonquin B/C', 'Tech', 'The Future of Biohacking', 'Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage', 'Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage"
 avneeds,none
@@ -5674,21 +5674,21 @@ speakerlist,"['Amal Graafstra', 'Anita Fowler', 'Drew Buglione', 'Greg Gage']"
 hours,0
 totalminutes,50
 speakernosplist,"['AmalGraafstra', 'AnitaFowler', 'DrewBuglione', 'GregGage']"
-caldescrip,"Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
+caldescrip,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 endtime,11:50
 AV Needs,
 name,The Future of Biohacking
 Private,PUBLIC
 bookname,The Future of Biohacking
 venue,Algonquin B/C
-Book Description,"Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
+Book Description,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 Presenters,"Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage"
-csvsafedescrip,Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies- and what the benefits can be for us as individuals and as communities.
+csvsafedescrip,Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies- and what the benefits can be for us as individuals and as communities.
 speakernosp,"AmalGraafstra,AnitaFowler,DrewBuglione,GregGage"
 starttime,11:00
 roomnosp,AlgonquinBC
 Start Date,4/30/2016
-descriptionascii,"Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
+descriptionascii,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -17035,13 +17035,13 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Charlevoix A
 duration,50 minutes
-description,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
+description,"The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation."
 index,362
 speakers,Deb Nicholson
-bookdescrip,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
+bookdescrip,"The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation."
 Track,Tech
 startday,5/1/2016
-Title,Software Patents
+Title,Software Patents After Alice: A Long and Sad Tale 
 Start Time,13:00
 event_start,13:00
 starttimeampm,1 PM
@@ -17049,7 +17049,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Charlevoix A', 'Tech', 'Software Patents', 'Deb Nicholson', 'Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Charlevoix A', 'Tech', 'Software Patents After Alice: A Long and Sad Tale ', 'Deb Nicholson', ""The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation.\n"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Deb Nicholson
 avneeds,none
@@ -17057,21 +17057,22 @@ speakerlist,['Deb Nicholson']
 hours,0
 totalminutes,50
 speakernosplist,['DebNicholson']
-caldescrip,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
+caldescrip,"The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation.
+"
 endtime,13:50
 AV Needs,
-name,Software Patents
+name,Software Patents After Alice: A Long and Sad Tale 
 Private,PUBLIC
-bookname,Software Patents
+bookname,Software Patents After Alice: A Long and Sad Tale
 venue,Charlevoix A
-Book Description,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
+Book Description,"The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation. "
 Presenters,Deb Nicholson
-csvsafedescrip,Guest of Honor Deb Nicholson- the Community Outreach Director at the Open Invention Network- talks about software patents and shared defensive patent pools.
+csvsafedescrip,The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents- but there are still several things we need to pay attention to- and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities- how international treaties can impact local policy and what can be done to improve the situation. 
 speakernosp,DebNicholson
 starttime,13:00
 roomnosp,CharlevoixA
 Start Date,5/1/2016
-descriptionascii,"Guest of Honor Deb Nicholson, the Community Outreach Director at the Open Invention Network, talks about software patents and shared defensive patent pools."
+descriptionascii,"The last year's been very interesting for those of us who have been looking on in horror over the last decade as billions of dollars was spent on frivolous and ridiculously broad software patent litigation. The United States Supreme Court's ruling in the landmark Alice vs. CLS Bank case has finally given the lower courts some tools they could use to overturn obvious and vague patents, but there are still several things we need to pay attention to, and a very long tail to contend with. The best way to keep moving forward is for the global community to work together. This talk is for anyone who is wondering what the recent decisions mean for small and mid-size entities, how international treaties can impact local policy and what can be done to improve the situation."
 minutes,50
 allday,FALSE
 event_type,Life
@@ -19493,7 +19494,7 @@ End Time,16:00
 tracknosp,"['Tech', 'Science']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '15:00', '4/30/2016', '16:00', 'Demo Table, Maker Market Hallway', 'Tech, Science', 'Spellbound Demo', 'Christina York', 'Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures.  ', '02hr:00min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '15:00', '4/30/2016', '16:00', 'Demo Table, Maker Market Hallway', 'Tech, Science', 'Spellbound Demo', 'Christina York', 'Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures.  ', '01hr:00min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Christina York
 avneeds,none
