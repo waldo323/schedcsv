@@ -1664,15 +1664,16 @@
         "end_date": "4/30/2016",
         "title": "Dangerous Things RFID Implanations",
         "track": "DIY, Tech",
-        "start_time": "10:00",
+        "start_time": "13:00",
         "presenters": [
             "Amal Graafstra",
-            "Anita Fowler"
+            "Anita Fowler",
+            "Drew Buglione"
         ],
         "location": "HackerSpace (317)",
-        "minutes": 770,
+        "minutes": 240,
         "start_date": "4/30/2016",
-        "end_time": "22:50"
+        "end_time": "17:00"
     },
     {
         "book_description": "Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event. Please sign up at Ops.",
@@ -1772,6 +1773,7 @@
         "presenters": [
             "Amal Graafstra",
             "Anita Fowler",
+            "Drew Buglione",
             "Greg Gage"
         ],
         "location": "Algonquin B/C",
@@ -3628,7 +3630,8 @@
         "start_time": "18:00",
         "presenters": [
             "Amal Graafstra",
-            "Anita Fowler"
+            "Anita Fowler",
+            "Drew Buglione"
         ],
         "location": "Algonquin D",
         "minutes": 50,
@@ -4749,12 +4752,13 @@
         "start_time": "10:00",
         "presenters": [
             "Amal Graafstra",
-            "Anita Fowler"
+            "Anita Fowler",
+            "Drew Buglione"
         ],
         "location": "HackerSpace (317)",
-        "minutes": 290,
+        "minutes": 120,
         "start_date": "5/1/2016",
-        "end_time": "14:50"
+        "end_time": "12:00"
     },
     {
         "book_description": "Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. ",
@@ -6082,5 +6086,21 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "12:50"
+    },
+    {
+        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
+        "end_date": "4/29/2016",
+        "title": "Dangerous Things RFID Implanations",
+        "track": "DIY, Tech",
+        "start_time": "19:00",
+        "presenters": [
+            "Amal Graafstra",
+            "Anita Fowler",
+            "Drew Buglione"
+        ],
+        "location": "HackerSpace (317)",
+        "minutes": 120,
+        "start_date": "4/29/2016",
+        "end_time": "21:00"
     }
 ]

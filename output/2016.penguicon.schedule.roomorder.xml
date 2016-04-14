@@ -219,7 +219,7 @@
 <event><title>The Future of Biohacking</title>
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>Amal Graafstra, Anita Fowler, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>12 PM</time>
 <event><title>Build Your Own Router</title>
@@ -351,7 +351,7 @@
 <event><title>Biohacking 101</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>7 PM</time>
 <event><title>Creative Destruction</title>
@@ -1655,11 +1655,11 @@
 <room>HackerSpace (317)</room>
 <blurb><participant>Greg Gage</participant> Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work. </blurb></event>
 <day>SATURDAY, APRIL 30</day>
-<time>10 AM</time>
+<time>1 PM</time>
 <event><title>Dangerous Things RFID Implanations</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>12 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>11 AM</time>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1707,7 +1707,7 @@
 <event><title>Dangerous Things RFID Implantations</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event>
 <day>SUNDAY, May 1</day>
 <time>10 AM</time>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1732,6 +1732,12 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>All Hands Active</participant> Say goodbye to your favorite All Hands Active members as the Hackerspace closes up for Penguicon 2016. </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>3 PM</time>
 <event><title>Demo Build of the Single-Chip Space Invader Synth</title>

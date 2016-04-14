@@ -31,6 +31,7 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
 <event><title>Pirate Sea Chanties!</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -470,10 +471,12 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>Greg Gage</participant> Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work. </blurb></event>
+<time>1 PM</time>
 <event><title>Dangerous Things RFID Implanations</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>12 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours</duration></blurb></event>
+<time>10 AM</time>
 <event><title>Intro to Needle Felting</title>
 <topic>DIY</topic>
 <room>Hamlin</room>
@@ -502,7 +505,7 @@
 <event><title>The Future of Biohacking</title>
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>Amal Graafstra, Anita Fowler, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage</participant> Three of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities. </blurb></event>
 <event><title>Overthrow the Trichromatocracy: Making Color-blind Friendly UIs</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
@@ -1005,7 +1008,7 @@
 <event><title>Biohacking 101</title>
 <topic>Tech</topic>
 <room>Algonquin D</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you. </blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Have you ever thought about getting an RFID chip or a magnet implanted in your hand so you can interact with computers or even feel electricity? Featured Guests Dangerous Things break down what biohacking is and answer your questions about how it can work for you. </blurb></event>
 <event><title>Ann Leckie Reading</title>
 <topic>Literature</topic>
 <room>Charlevoix A</room>
@@ -1314,7 +1317,7 @@
 <event><title>Dangerous Things RFID Implantations</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours and 50 minutes</duration></blurb></event>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -1687,4 +1690,10 @@
 <event><title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
 <topic>Literature</topic>
 <room>Writer's Block (313 & 315)</room>
-<blurb><participant>Emmy Jackson, David Erik Nelson</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event></events>
+<blurb><participant>Emmy Jackson, David Erik Nelson</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>7 PM</time>
+<event><title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event></events>
