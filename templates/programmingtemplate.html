@@ -8,9 +8,6 @@
 </tr>{% for thistrack, events in data.iteritems() %}{% if track == thistrack %}{%for event in events %}
 <tr class="eventrow">
 <td class="eventname"><p><strong>{{event[0]}}</strong></p></td>
-<td class="eventdesc"><p>{{event[1]}}</p></td>
-</tr>
-<tr class="presenterrow">
-<td>&nbsp;</td><td class="presenters"><p>Presenter(s): {{event[2]}}</p></td>
+<td class="eventdesc"><p>{{event[1]}}</p><p class="presenters">Presenter(s): {{event[2]}}</p></td>
 </tr>{% endfor %} {% endif %} {% endfor %}
 </table>{%endfor%} {%endfor%}
