@@ -763,24 +763,24 @@
 <time>6 PM</time></event><event>
 <room>Demo Table, Maker Market Hallway</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<time>11 AM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SUNDAY, May 1</day>
-<title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<time>10 AM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SATURDAY, APRIL 30</day>
 <title>Spellbound Demo</title>
 <topic>Tech, Science</topic>
 <time>10 AM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<time>11 AM</time></event><event>
 <room>Demo Table, Maker Market Hallway</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Spellbound Demo</title>
 <topic>Tech, Science</topic>
 <time>3 PM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SUNDAY, May 1</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<time>10 AM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Basic Skills for Working with Electronics</title>
@@ -1393,6 +1393,11 @@
 <time>1 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
+<title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<time>7 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>FRIDAY, APRIL 29</day>
 <title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
@@ -1408,11 +1413,6 @@
 <time>10 AM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
-<title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<time>1 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>SATURDAY, APRIL 30</day>
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <time>11 AM</time></event><event>
@@ -1421,6 +1421,11 @@
 <title>i3 Vinyl Tshirts</title>
 <topic>DIY, Tech</topic>
 <time>12 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<time>1 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1471,11 +1476,6 @@
 <title>Farewell to the Hackerspace</title>
 <topic>DIY, Tech</topic>
 <time>3 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<time>7 PM</time></event><event>
 <room>Hackerspace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Demo Build of the Single-Chip Space Invader Synth</title>
@@ -1616,16 +1616,6 @@
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<time>7 PM</time></event><event>
-<room>Lobby</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<time>7 PM</time></event><event>
-<room>Lobby</room>
 <title>Ribbon Fairies</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
@@ -1633,6 +1623,11 @@
 <title>Where in the World?</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
+<time>7 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Are You A Werewolf</title>
@@ -1643,6 +1638,11 @@
 <title>One Night Werewolf</title>
 <topic>Gaming</topic>
 <time>12 AM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
+<time>7 PM</time></event><event>
 <room>Lobby</room>
 <day>SUNDAY, May 1</day>
 <title>Hakosot</title>
@@ -1724,6 +1724,11 @@
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
 <room>Montcalm</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Open Kink</title>
+<topic>After Dark</topic>
+<time>10 PM</time></event><event>
+<room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>Is It Necessary to Unplug to Unwind?</title>
 <topic>Life</topic>
@@ -1748,11 +1753,6 @@
 <title>Simple Python Mobile Web App</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
-<room>Montcalm</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Open Kink</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
 <room>Mystery Location</room>
 <title>Pirate Treasure Hunt!</title>
 <topic>Mayhem</topic>
