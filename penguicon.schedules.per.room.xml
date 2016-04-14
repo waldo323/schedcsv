@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
+<room></room>
+<day>SATURDAY, APRIL 30</day>
+<title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<time>10 AM</time></event><event>
+<day>NoDay, April 1</day>
+<title></title>
+<topic></topic>
+<time>4 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -498,6 +507,19 @@
 <title>LN2 Sunday Brunch Ice Cream</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<time>11 AM</time></event><event>
+<day>SUNDAY, May 1</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<time>10 AM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Basic Skills for Working with Electronics</title>

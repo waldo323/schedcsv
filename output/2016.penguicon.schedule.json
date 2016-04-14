@@ -6102,5 +6102,75 @@
         "minutes": 120,
         "start_date": "4/29/2016",
         "end_time": "21:00"
+    },
+    {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "4/29/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "18:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "4/29/2016",
+        "end_time": "20:00"
+    },
+    {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "4/30/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "11:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "4/30/2016",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "5/1/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "10:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "5/1/2016",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
+        "end_date": "4/30/2016",
+        "title": "Spellbound Demo",
+        "track": "Tech, Science",
+        "start_time": "10:00",
+        "presenters": [
+            "Christina York"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "4/30/2016",
+        "end_time": "11:00"
+    },
+    {
+        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "16:20",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     }
 ]
