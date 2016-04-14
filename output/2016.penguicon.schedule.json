@@ -228,13 +228,14 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend. If you're new to Penguicon and you want to get to know the event, this is the panel for you!",
+        "book_description": "Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend. If you're new to Penguicon and you want to get to know the event, this is the panel for you!",
         "end_date": "4/29/2016",
         "title": "So This Is Your First Penguicon",
         "track": "Penguicon",
         "start_time": "17:00",
         "presenters": [
-            "Scott Kennedy"
+            "Nuri Gocay",
+            "Cylithria Dubois"
         ],
         "location": "Montcalm",
         "minutes": 50,
@@ -400,7 +401,7 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
+        "book_description": "What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?",
         "end_date": "4/29/2016",
         "title": "Social Media for Writers",
         "track": "Literature",
@@ -4242,7 +4243,8 @@
         "track": "Literature",
         "start_time": "19:00",
         "presenters": [
-            "Michael W. Lucas and Ken MacGregor"
+            "Michael W. Lucas",
+            "Ken MacGregor"
         ],
         "location": "Writer's Block (313 and 315)",
         "minutes": 50,

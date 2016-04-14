@@ -761,10 +761,10 @@ private,PUBLIC
 endtimeampm,5 PM
 Location,Montcalm
 duration,50 minutes
-description,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
+description,"Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
 index,16
-speakers,Scott Kennedy
-bookdescrip,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
+speakers,"Nuri Gocay, Cylithria Dubois"
+bookdescrip,"Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
 Track,Penguicon
 startday,4/29/2016
 Title,So This Is Your First Penguicon
@@ -775,29 +775,29 @@ End Time,17:50
 tracknosp,['Penguicon']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '17:00', '4/29/2016', '17:50', 'Montcalm', 'Penguicon', 'So This Is Your First Penguicon', 'Scott Kennedy', ""Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '17:00', '4/29/2016', '17:50', 'Montcalm', 'Penguicon', 'So This Is Your First Penguicon', 'Nuri Gocay, Cylithria Dubois', ""Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
-calspeakers,Scott Kennedy
+calspeakers,"Nuri Gocay, Cylithria Dubois"
 avneeds,none
-speakerlist,['Scott Kennedy']
+speakerlist,"['Nuri Gocay', 'Cylithria Dubois']"
 hours,0
 totalminutes,50
-speakernosplist,['ScottKennedy']
-caldescrip,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
+speakernosplist,"['NuriGocay', 'CylithriaDubois']"
+caldescrip,"Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
 endtime,17:50
 AV Needs,
 name,So This Is Your First Penguicon
 Private,PUBLIC
 bookname,So This Is Your First Penguicon
 venue,Montcalm
-Book Description,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend. If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
-Presenters,Scott Kennedy
-csvsafedescrip,Our chair- Scott- will talk about why Penguicon is an awesome con and community- and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event- this is the panel for you!
-speakernosp,ScottKennedy
+Book Description,"Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend. If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
+Presenters,"Nuri Gocay, Cylithria Dubois"
+csvsafedescrip,Members of our ConCom will talk about why Penguicon is an awesome con and community- and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event- this is the panel for you!
+speakernosp,"NuriGocay,CylithriaDubois"
 starttime,17:00
 roomnosp,Montcalm
 Start Date,4/29/2016
-descriptionascii,"Our chair, Scott, will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
+descriptionascii,"Members of our ConCom will talk about why Penguicon is an awesome con and community, and give you a tour of what's in store for you this weekend.  If you're new to Penguicon and you want to get to know the event, this is the panel for you!"
 minutes,50
 allday,FALSE
 event_type,Comics
@@ -1278,10 +1278,10 @@ private,PUBLIC
 endtimeampm,6 PM
 Location,Hamlin
 duration,50 minutes
-description,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
+description,"What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?"
 index,27
 speakers,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
-bookdescrip,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
+bookdescrip,"What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?"
 Track,Literature
 startday,4/29/2016
 Title,Social Media for Writers
@@ -1292,7 +1292,7 @@ End Time,18:50
 tracknosp,['Literature']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '18:00', '4/29/2016', '18:50', 'Hamlin', 'Literature', 'Social Media for Writers', 'David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs', 'David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '18:00', '4/29/2016', '18:50', 'Hamlin', 'Literature', 'Social Media for Writers', 'David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs', 'What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
 avneeds,none
@@ -1300,21 +1300,21 @@ speakerlist,"['David Erik Nelson', 'Michael W. Lucas', 'Christopher Purrett', 'A
 hours,0
 totalminutes,50
 speakernosplist,"['DavidErikNelson', 'MichaelW.Lucas', 'ChristopherPurrett', 'AlexKourvo', 'MarkOshiro', 'MaryLynneGibbs']"
-caldescrip,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
+caldescrip,"What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?"
 endtime,18:50
 AV Needs,
 name,Social Media for Writers
 Private,PUBLIC
 bookname,Social Media for Writers
 venue,Hamlin
-Book Description,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
+Book Description,"What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?"
 Presenters,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
-csvsafedescrip,David Erik Nelson- Michael W. Lucas- Christopher Purrett- Alex Kourvo- Mark Oshiro- Mary Lynne Gibbs
+csvsafedescrip,What social media trends are necessary for the writer building their web foot print? What are some important things to do- and what should you not do?
 speakernosp,"DavidErikNelson,MichaelW.Lucas,ChristopherPurrett,AlexKourvo,MarkOshiro,MaryLynneGibbs"
 starttime,18:00
 roomnosp,Hamlin
 Start Date,4/29/2016
-descriptionascii,"David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs"
+descriptionascii,"What social media trends are necessary for the writer building their web foot print? What are some important things to do, and what should you not do?"
 minutes,50
 allday,FALSE
 event_type,Gaming
@@ -13415,7 +13415,7 @@ Location,Writer's Block (313 and 315)
 duration,50 minutes
 description,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 index,285
-speakers,Michael W. Lucas and Ken MacGregor
+speakers,"Michael W. Lucas, Ken MacGregor"
 bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing!
 Track,Literature
 startday,4/30/2016
@@ -13427,14 +13427,14 @@ End Time,19:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '19:00', '4/30/2016', '19:50', ""Writer's Block (313 & 315)"", 'Literature', 'Reading/Signing: Michael W. Lucas and Ken MacGregor', 'Michael W. Lucas and Ken MacGregor', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '19:00', '4/30/2016', '19:50', ""Writer's Block (313 & 315)"", 'Literature', 'Reading/Signing: Michael W. Lucas and Ken MacGregor', 'Michael W. Lucas, Ken MacGregor', 'Join our attending authors in the Writers Block (317 & 318) for reading and signing!', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,Michael W. Lucas and Ken MacGregor
+calspeakers,"Michael W. Lucas, Ken MacGregor"
 avneeds,none
-speakerlist,['Michael W. Lucas and Ken MacGregor']
+speakerlist,"['Michael W. Lucas', 'Ken MacGregor']"
 hours,0
 totalminutes,50
-speakernosplist,['MichaelW.LucasandKenMacGregor']
+speakernosplist,"['MichaelW.Lucas', 'KenMacGregor']"
 caldescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
 endtime,19:50
 AV Needs,
@@ -13443,9 +13443,9 @@ Private,PUBLIC
 bookname,Reading/Signing: Michael W. Lucas and Ken MacGregor
 venue,Writer's Block (313 & 315)
 Book Description,Join our attending authors in the Writers Block (317 and 318) for reading and signing!
-Presenters,Michael W. Lucas and Ken MacGregor
+Presenters,"Michael W. Lucas, Ken MacGregor"
 csvsafedescrip,Join our attending authors in the Writers Block (317 & 318) for reading and signing!
-speakernosp,MichaelW.LucasandKenMacGregor
+speakernosp,"MichaelW.Lucas,KenMacGregor"
 starttime,19:00
 roomnosp,Writer'sBlock313&315
 Start Date,4/30/2016
