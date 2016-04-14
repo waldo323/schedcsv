@@ -30,16 +30,6 @@
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<time>7 PM</time></event><event>
-<room>Lobby</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<time>7 PM</time></event><event>
-<room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Ribbon Fairies</title>
 <topic>Mayhem</topic>
@@ -118,6 +108,11 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Getting Hands on With Linux</title>
 <topic>Tech</topic>
+<time>6 PM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
 <time>6 PM</time></event><event>
 <room>EMC II</room>
 <day>FRIDAY, APRIL 29</day>
@@ -206,6 +201,11 @@
 <time>7 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>FRIDAY, APRIL 29</day>
+<title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<time>7 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>FRIDAY, APRIL 29</day>
 <title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <time>7 PM</time></event><event>
@@ -213,6 +213,11 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Editing for Your Spouse/Partner/BFF/Pet</title>
 <topic>Literature</topic>
+<time>7 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
 <time>7 PM</time></event><event>
 <room>Montcalm</room>
 <day>FRIDAY, APRIL 29</day>
@@ -539,6 +544,11 @@
 <title>Hands on Python for Everything and Everybody</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<time>10 AM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
 <title>How to Poison Your Muse: The Toxic Twins of Talent and Art</title>
@@ -564,11 +574,6 @@
 <title>Backyard Brains Demo #1</title>
 <topic>DIY, Tech</topic>
 <time>10 AM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<time>1 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Needle Felting</title>
@@ -623,6 +628,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Screen Writing Tips</title>
 <topic>Media</topic>
+<time>11 AM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
 <time>11 AM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
@@ -679,6 +689,16 @@
 <title>Networking for Systems Administrators</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: John Scalzi and Dave Kecha</title>
+<topic>Literature</topic>
+<time>11 AM</time></event><event>
+<room>2nd Floor by Elevators</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Walk the Solar System</title>
+<topic>Science</topic>
+<time>12 PM</time></event><event>
 <room>Algonquin B/C</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Build Your Own Router</title>
@@ -769,11 +789,6 @@
 <title>Technology in Education</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
-<room>2nd Floor by Elevators</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Walk the Solar System</title>
-<topic>Science</topic>
-<time>12 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Kitchen Hacks 101</title>
@@ -849,6 +864,11 @@
 <title>Paint and Take</title>
 <topic>Gaming, DIY</topic>
 <time>1 PM</time></event><event>
+<room>HackerSpace (317)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<time>1 PM</time></event><event>
 <room>Hamlin</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Agile/Scrum</title>
@@ -878,6 +898,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Security Principles for Programmers</title>
 <topic>Tech</topic>
+<time>1 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Jen Haeger and Mary Lynne Gibbs</title>
+<topic>Literature</topic>
 <time>1 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
@@ -969,6 +994,11 @@
 <title>Raspberry Pi Hacks</title>
 <topic>Tech</topic>
 <time>2 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz</title>
+<topic>Literature</topic>
+<time>2 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Baking and Breaking Bread</title>
@@ -998,6 +1028,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>LN2 Guest Flavors Ice Cream</title>
 <topic>Food</topic>
+<time>3 PM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
 <time>3 PM</time></event><event>
 <room>EMC I</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1134,6 +1169,11 @@
 <title>Encrypted Backups with Tarsnap</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg</title>
+<topic>Literature</topic>
+<time>4 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Easy and Cheap: Healthy Meatless Meals</title>
@@ -1217,6 +1257,11 @@
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Acts of Shameless Self-Promotion</title>
+<topic>Literature</topic>
+<time>5 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Christopher Purrett and Merrie Haskell</title>
 <topic>Literature</topic>
 <time>5 PM</time></event><event>
 <room>Algonquin D</room>
@@ -1359,6 +1404,11 @@
 <title>Cryptozoology and the Paranormal in the Great Lakes</title>
 <topic>After Dark</topic>
 <time>7 PM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
+<time>7 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Python Code Walk-Through</title>
@@ -1373,6 +1423,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Hamilton the Musical Sing-A-Long</title>
 <topic>Media</topic>
+<time>7 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Michael W. Lucas and Ken MacGregor</title>
+<topic>Literature</topic>
 <time>7 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1428,6 +1483,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>How To Actually Relax</title>
 <topic>Life</topic>
+<time>8 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Tobias S. Buckell and Mark Oshiro</title>
+<topic>Literature</topic>
 <time>8 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1529,6 +1589,11 @@
 <title>Polyamory and Kink</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
+<room>Montcalm</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Open Kink</title>
+<topic>After Dark</topic>
+<time>10 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Mark Reads After Dark</title>
@@ -1578,6 +1643,11 @@
 <day>SUNDAY, May 1</day>
 <title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
+<time>10 AM</time></event><event>
+<room>Demo Table, Maker Market Hallway</room>
+<day>SUNDAY, May 1</day>
+<title>Neurable Demo</title>
+<topic>Science, Tech</topic>
 <time>10 AM</time></event><event>
 <room>EMC I</room>
 <day>SUNDAY, May 1</day>
@@ -1789,6 +1859,11 @@
 <title>BSD Operating Systems in 2016</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SUNDAY, May 1</day>
+<title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
+<topic>Literature</topic>
+<time>12 PM</time></event><event>
 <room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Let's Eat Weeds!</title>
@@ -1998,79 +2073,4 @@
 <day>SUNDAY, May 1</day>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
-<room>Montcalm</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Open Kink</title>
-<topic>After Dark</topic>
-<time>10 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: John Scalzi and Dave Kecha</title>
-<topic>Literature</topic>
-<time>11 AM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Jen Haeger and Mary Lynne Gibbs</title>
-<topic>Literature</topic>
-<time>1 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz</title>
-<topic>Literature</topic>
-<time>2 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg</title>
-<topic>Literature</topic>
-<time>4 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Christopher Purrett and Merrie Haskell</title>
-<topic>Literature</topic>
-<time>5 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Michael W. Lucas and Ken MacGregor</title>
-<topic>Literature</topic>
-<time>7 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Tobias S. Buckell and Mark Oshiro</title>
-<topic>Literature</topic>
-<time>8 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SUNDAY, May 1</day>
-<title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
-<topic>Literature</topic>
-<time>12 PM</time></event><event>
-<room>HackerSpace (317)</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<time>7 PM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<time>6 PM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<time>11 AM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SUNDAY, May 1</day>
-<title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<time>10 AM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<time>10 AM</time></event><event>
-<room>Demo Table, Maker Market Hallway</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<time>3 PM</time></event></events>
+<time>4 PM</time></event></events>

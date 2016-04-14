@@ -3,7 +3,7 @@ import csv
 import jinja2
 import logging
 """#import consettings"""
-logging.basicConfig(level=logging.WARN)
+logging.basicConfig(level=logging.INFO)
 
 conyear = "2016"
 rp = "./output/"
@@ -59,7 +59,8 @@ for line in build:
             logging.debug("current track: %s", currenttrac.keys()[0])
             logging.debug("line[6] %s", line[6])
             trackcontent = [AsciiDammit.asciiDammit(line[6]), #.decode('unicode_escape').encode('ascii', 'ignore'),
-                            AsciiDammit.asciiDammit(line[8])]#.decode('unicode_escape').encode('ascii', 'ignore')]
+                            AsciiDammit.asciiDammit(line[8]),
+                            AsciiDammit.asciiDammit(line[7]),]#.decode('unicode_escape').encode('ascii', 'ignore')]
             if currenttrac.keys()[0] not in trackdict.keys():
                 trackdict[currenttrac.keys()[0]] = [trackcontent]
             else:
@@ -79,4 +80,4 @@ test = template.render(data=trackdict, trackdata=trackinfo)
 with open(rp + conyear + ".full_current_data_for_website.html", 'w') as myoutput:
     myoutput.write(test)
 
-print test
+#print test

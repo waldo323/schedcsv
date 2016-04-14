@@ -25,18 +25,6 @@
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter Table to get started! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>7 PM</time>
-<event><title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<room>Lobby</room>
-<blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<event><title>Pirate Sea Chanties!</title>
-<topic>Mayhem</topic>
-<room>Lobby</room>
-<blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail! </blurb></event>
-<time>4 PM</time>
 <event><title>Ribbon Fairies</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -105,6 +93,10 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>Tom Lawrence</participant> Who put the penguin in Penguicon? You did! Come get hands on with Linux with one of our favorite presenters. Tom Lawrence will guide attendees through the ins and outs of Linux for home and office use. Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
 <event><title>Loving Your Cosplay Body</title>
 <topic>Costuming</topic>
 <room>EMC II</room>
@@ -174,6 +166,10 @@
 <topic>Gaming</topic>
 <room>Game Table G</room>
 <blurb><participant>Jason Sonk</participant> 3-8 players. Spyfall is a party game unlike any other, one in which you get to be a spy and try to understand what's going on around you. It's really simple! </blurb></event>
+<event><title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event>
 <event><title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -182,6 +178,10 @@
 <topic>Literature</topic>
 <room>Hamlin</room>
 <blurb><participant>Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak</participant> "Can you read this and tell me what you think?" is a question to test any relationship.  We will learn some ways to navigate that communications mine-field while musing on the nature of editing, the care and feeding of your larval writer and some small, practical steps towards upping our editing game. </blurb></event>
+<event><title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail! </blurb></event>
 <event><title>When Being 'On' is What People Expect</title>
 <topic>Media, Life</topic>
 <room>Montcalm</room>
@@ -451,6 +451,10 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>Gibson Nichols, Daniel Dugan</participant> Join MDLUG and friends to walk through an introductory course on building small useful scripts in Python. Get your hands dirty in the fertile soil that is sprouting some of the most interesting developments in machine learning, server scripting and automation! Noteworthy addendum! There will be 20 laptops available in the lab. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
 <event><title>How to Poison Your Muse: The Toxic Twins of Talent and Art</title>
 <topic>Life</topic>
 <room>EMC I</room>
@@ -471,12 +475,6 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>Greg Gage</participant> Neuroscientist and engineer Greg Gage will demonstrate the SpikerBox -- a small rig that helps kids understand the electrical impulses that control the nervous system. He's passionate about helping everyone understand (viscerally) how our brains and our neurons work. </blurb></event>
-<time>1 PM</time>
-<event><title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours</duration></blurb></event>
-<time>10 AM</time>
 <event><title>Intro to Needle Felting</title>
 <topic>DIY</topic>
 <room>Hamlin</room>
@@ -522,6 +520,10 @@
 <topic>Media</topic>
 <room>Charlevoix C</room>
 <blurb><participant>James Fernandez, Mary Lynne Gibbs, Dave Kilgore</participant> Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
 <event><title>BoF: Deployment and Testing</title>
 <topic>Tech</topic>
 <room>EMC I</room>
@@ -566,7 +568,15 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas</participant> Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix. </blurb></event>
+<event><title>Reading/Signing: John Scalzi and Dave Kecha</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>John Scalzi, David Klecha</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>12 PM</time>
+<event><title>Walk the Solar System</title>
+<topic>Science</topic>
+<room>2nd Floor by Elevators</room>
+<blurb><participant></participant> Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body. </blurb></event>
 <event><title>Build Your Own Router</title>
 <topic>Tech</topic>
 <room>Algonquin B/C</room>
@@ -639,10 +649,6 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Andrew Zimmerman Jones</participant> Technology offers many new possibilities for education, including the flipped classroom and the ability to design more adaptable tests, so that students are assessed on questions appropriate to their ability levels. What are the various ways that technology and computer advancements can improve education? </blurb></event>
-<event><title>Walk the Solar System</title>
-<topic>Science</topic>
-<room>2nd Floor by Elevators</room>
-<blurb><participant></participant> Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body. </blurb></event>
 <time>1 PM</time>
 <event><title>Kitchen Hacks 101</title>
 <topic>Food</topic>
@@ -704,6 +710,10 @@
 <topic>Gaming, DIY</topic>
 <room>Game Table H, Game Table I</room>
 <blurb><participant>Linda Martelle, Dean Martelle</participant> We will bring ready-to-paint metal and plastic miniatures, at the cost of $6 per figure. This includes paint, help, and figure.  Some free figures may be had till gone-- 1 per day per person. <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>Dangerous Things RFID Implanations</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>4 hours</duration></blurb></event>
 <event><title>Intro to Agile/Scrum</title>
 <topic>Tech</topic>
 <room>Hamlin</room>
@@ -728,6 +738,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Susan Sons</participant> A Senior Systems Analyst from the Center for Applied Cybersecurity Research will present a few basic information security principles and demonstrate how to apply them to programming of any kind.  Make your code less exploitable. </blurb></event>
+<event><title>Reading/Signing: Jen Haeger and Mary Lynne Gibbs</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Jenn Haeger, Mary Lynne Gibbs</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>2 PM</time>
 <event><title>Vegan Junk Food: Delicious and Not at All Nutritious</title>
 <topic>Food</topic>
@@ -801,6 +815,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Tom Callaway, Ruth Suehle</participant> Ruth Suehle and Tom Callaway will talk about the $35 mini-computer, how it works, and give lots of ideas and inspirations on what you can do with it. They are the co-authors of the O'Reilly book "Raspberry Pi Hacks", and generally do all sorts of things with the credit-card sized computer that are fun and warranty voiding. </blurb></event>
+<event><title>Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Alex Kourvo, Ferrett Steinmetz</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>3 PM</time>
 <event><title>Baking and Breaking Bread</title>
 <topic>Food</topic>
@@ -826,6 +844,10 @@
 <topic>Food</topic>
 <room>Consuite</room>
 <blurb><participant>Sarah Elkins, Phil Salkie</participant> Ice cream flavors celebrating the 2016 guests of honor and featured guests (e.g., Radchai tea ice cream) <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Spellbound Demo</title>
+<topic>Tech, Science</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
 <event><title>Cosplay Hacks Part 1</title>
 <topic>Costuming</topic>
 <room>EMC I</room>
@@ -935,6 +957,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas</participant> Online backup is incredibly useful, but has many privacy and integrity risks. Tarsnap is an online backup service that only handles your data in encrypted form. It's inexpensive and reliable. Plus you don't need to trust the Tarsnap service--they can't access your backups even if they want to. And Tarsnap's built-in deduplication saves space, letting you store terabytes of backups in mere gigabytes of disk. This talk takes you through using Tarsnap, from backing up a system to customizing and rotating backups, to fully restoring them. </blurb></event>
+<event><title>Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>5 PM</time>
 <event><title>Easy and Cheap: Healthy Meatless Meals</title>
 <topic>Food</topic>
@@ -1004,6 +1030,10 @@
 <topic>Literature</topic>
 <room>Portage</room>
 <blurb><participant>Dave Klecha, Michael W. Lucas, Jackie Morgan, Steven Saus</participant> What's the best way to get your name forward? </blurb></event>
+<event><title>Reading/Signing: Christopher Purrett and Merrie Haskell</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Christopher Purrett, Merrie Haskell</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>6 PM</time>
 <event><title>Biohacking 101</title>
 <topic>Tech</topic>
@@ -1118,6 +1148,10 @@
 <topic>After Dark</topic>
 <room>Hamlin</room>
 <blurb><participant>Shetan Noir</participant> Come learn about and discuss cryptozoology and the paranormal wonders of the Great Lakes region. This panel is for ages 18+ only. Minors are not allowed (with or without a parent). </blurb></event>
+<event><title>Pirate Sea Chanties!</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant>Rathbone the Pirate</participant> Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail! </blurb></event>
 <event><title>Python Code Walk-Through</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -1130,6 +1164,10 @@
 <topic>Media</topic>
 <room>Portage</room>
 <blurb><participant>Jen Talley</participant> Discussion between fans of Hamilton the musical, those who've been to see it, those who want to see it, and those who just love the cast album.  Geek about history and sing along to some of the songs! </blurb></event>
+<event><title>Reading/Signing: Michael W. Lucas and Ken MacGregor</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Michael W. Lucas and Ken MacGregor</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>8 PM</time>
 <event><title>Pirate Rum History Tastings</title>
 <topic>Food</topic>
@@ -1175,6 +1213,10 @@
 <topic>Life</topic>
 <room>Portage</room>
 <blurb><participant>Marie Staver</participant> Relaxing (we propose) may be the most important skill in all of life: It improves health, focus, strength, balance, empathy and happiness; it eases suffering both mental and physical; it's key to winning at physical combat...it is even the single best thing you can do if you're suddenly thrown from a moving vehicle.  But...do you really know how to do it?  Can you mentally find and ease tension in your mind and body?  In this class, Chinese Internal martial artist and all-around movement junkie Marie will teach the how (and why!) of actively, purposefully relaxing. </blurb></event>
+<event><title>Reading/Signing: Tobias S. Buckell and Mark Oshiro</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Tobias S. Buckell, Mark Oshiro</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>9 PM</time>
 <event><title>Taste My Pickle</title>
 <topic>Food</topic>
@@ -1257,6 +1299,10 @@
 <topic>After Dark</topic>
 <room>Hamlin</room>
 <blurb><participant>Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase</participant> Come and find out how how poly can be different with a D/s dynamic. This panel is for ages 18+ only. Minors are not allowed (with or without a parent). </blurb></event>
+<event><title>Open Kink</title>
+<topic>After Dark</topic>
+<room>Montcalm</room>
+<blurb><participant>Lawrence Kapture</participant> Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone! </blurb></event>
 <event><title>Mark Reads After Dark</title>
 <topic>After Dark</topic>
 <room>Nicolet</room>
@@ -1302,6 +1348,10 @@
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
 <blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<event><title>Neurable Demo</title>
+<topic>Science, Tech</topic>
+<room>Demo Table, Maker Market Hallway</room>
+<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
 <event><title>Self-Publishing 2016</title>
 <topic>Literature</topic>
 <room>EMC I</room>
@@ -1472,6 +1522,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas</participant> The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives. </blurb></event>
+<event><title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Emmy Jackson, David Erik Nelson</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
 <time>1 PM</time>
 <event><title>Let's Eat Weeds!</title>
 <topic>Food</topic>
@@ -1643,84 +1697,4 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>10 PM</time>
-<event><title>Open Kink</title>
-<topic>After Dark</topic>
-<room>Montcalm</room>
-<blurb><participant>Lawrence Kapture</participant> Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone! </blurb></event>
-<time>11 AM</time>
-<event><title>Reading/Signing: John Scalzi and Dave Kecha</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>John Scalzi, David Klecha</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>1 PM</time>
-<event><title>Reading/Signing: Jen Haeger and Mary Lynne Gibbs</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Jenn Haeger, Mary Lynne Gibbs</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>2 PM</time>
-<event><title>Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Alex Kourvo, Ferrett Steinmetz</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>4 PM</time>
-<event><title>Reading/Signing: Cindy Spencer Pape and Christine Daigle &amp; Stewart Sternberg</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Cindy Spencer Pape, Chistine Daigle, Stewart Sternberg</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>5 PM</time>
-<event><title>Reading/Signing: Christopher Purrett and Merrie Haskell</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Christopher Purrett, Merrie Haskell</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>7 PM</time>
-<event><title>Reading/Signing: Michael W. Lucas and Ken MacGregor</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Michael W. Lucas and Ken MacGregor</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<time>8 PM</time>
-<event><title>Reading/Signing: Tobias S. Buckell and Mark Oshiro</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Tobias S. Buckell, Mark Oshiro</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>12 PM</time>
-<event><title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Emmy Jackson, David Erik Nelson</participant> Join our attending authors in the Writers Block (317 &amp; 318) for reading and signing! </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>7 PM</time>
-<event><title>Dangerous Things RFID Implanations</title>
-<topic>DIY, Tech</topic>
-<room>HackerSpace (317)</room>
-<blurb><participant>Amal Graafstra, Anita Fowler, Drew Buglione</participant> Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff.  Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs! <duration>2 hours</duration></blurb></event>
-<time>6 PM</time>
-<event><title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<room>Demo Table, Maker Market Hallway</room>
-<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>11 AM</time>
-<event><title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<room>Demo Table, Maker Market Hallway</room>
-<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>10 AM</time>
-<event><title>Neurable Demo</title>
-<topic>Science, Tech</topic>
-<room>Demo Table, Maker Market Hallway</room>
-<blurb><participant>Ramses Alcaide</participant> Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications <duration>2 hours</duration></blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<event><title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<room>Demo Table, Maker Market Hallway</room>
-<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event>
-<time>3 PM</time>
-<event><title>Spellbound Demo</title>
-<topic>Tech, Science</topic>
-<room>Demo Table, Maker Market Hallway</room>
-<blurb><participant>Christina York</participant> Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. <duration>1 hour</duration></blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>

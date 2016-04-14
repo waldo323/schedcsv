@@ -86,34 +86,6 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
-        "end_date": "4/30/2016",
-        "title": "Pirate Sea Chanties!",
-        "track": "Mayhem",
-        "start_time": "19:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
-        "end_date": "4/29/2016",
-        "title": "Pirate Sea Chanties!",
-        "track": "Mayhem",
-        "start_time": "19:00",
-        "presenters": [
-            "Rathbone the Pirate"
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "19:50"
-    },
-    {
         "book_description": "Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!",
         "end_date": "5/1/2016",
         "title": "Ribbon Fairies",
@@ -355,6 +327,20 @@
         "minutes": 110,
         "start_date": "4/29/2016",
         "end_time": "19:50"
+    },
+    {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "4/29/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "18:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "4/29/2016",
+        "end_time": "20:00"
     },
     {
         "book_description": "Just because you are not an exact replica of the character you'd like to be doesn't mean you can't pull off a great cosplay of them. Size, sex, race, or physical abilities should not hold you back from being who you really want to be. We will discuss how to accept, cover, camouflage, and overcome your body issues and cosplay with confidence. ",
@@ -608,6 +594,22 @@
         "end_time": "19:50"
     },
     {
+        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
+        "end_date": "4/29/2016",
+        "title": "Dangerous Things RFID Implanations",
+        "track": "DIY, Tech",
+        "start_time": "19:00",
+        "presenters": [
+            "Amal Graafstra",
+            "Anita Fowler",
+            "Drew Buglione"
+        ],
+        "location": "HackerSpace (317)",
+        "minutes": 120,
+        "start_date": "4/29/2016",
+        "end_time": "21:00"
+    },
+    {
         "book_description": "Live demos and highlights for of this weekend's events as the Penguicon Hackerspace spins up for the weekend!",
         "end_date": "4/29/2016",
         "title": "Open Demos by BeagleBone, Dangerous Things and All Hands Active",
@@ -635,6 +637,20 @@
             "Michael Cieslak"
         ],
         "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
+        "end_date": "4/29/2016",
+        "title": "Pirate Sea Chanties!",
+        "track": "Mayhem",
+        "start_time": "19:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Lobby",
         "minutes": 50,
         "start_date": "4/29/2016",
         "end_time": "19:50"
@@ -1586,6 +1602,20 @@
         "end_time": "11:50"
     },
     {
+        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
+        "end_date": "4/30/2016",
+        "title": "Spellbound Demo",
+        "track": "Tech, Science",
+        "start_time": "10:00",
+        "presenters": [
+            "Christina York"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 60,
+        "start_date": "4/30/2016",
+        "end_time": "11:00"
+    },
+    {
         "book_description": "We'll discuss how common ideas about talent and art sabotage our creativity. What are these traps, and how can we avoid them? A discussion for artists, authors, musicians, and anyone else who wants to create good stuff.",
         "end_date": "4/30/2016",
         "title": "How to Poison Your Muse: The Toxic Twins of Talent and Art",
@@ -1658,22 +1688,6 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "10:50"
-    },
-    {
-        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
-        "end_date": "4/30/2016",
-        "title": "Dangerous Things RFID Implanations",
-        "track": "DIY, Tech",
-        "start_time": "13:00",
-        "presenters": [
-            "Amal Graafstra",
-            "Anita Fowler",
-            "Drew Buglione"
-        ],
-        "location": "HackerSpace (317)",
-        "minutes": 240,
-        "start_date": "4/30/2016",
-        "end_time": "17:00"
     },
     {
         "book_description": "Needle Felting! You get to stab things! In this panel, we'll needle-felt a simple flat penguin, suitable for making into pendant/pin/whatever. Materials will be provided. This is a limited attendance event. Please sign up at Ops.",
@@ -1847,6 +1861,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "4/30/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "11:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "4/30/2016",
+        "end_time": "13:00"
+    },
+    {
         "book_description": "Come share your experiences in deploying and testing software. Birds of a Feather events are unmoderated.",
         "end_date": "4/30/2016",
         "title": "BoF: Deployment and Testing",
@@ -2002,6 +2030,35 @@
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "11:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: John Scalzi and Dave Kecha",
+        "track": "Literature",
+        "start_time": "11:00",
+        "presenters": [
+            "John Scalzi",
+            "David Klecha"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
+        "end_date": "4/30/2016",
+        "title": "Walk the Solar System",
+        "track": "Science",
+        "start_time": "12:00",
+        "presenters": [
+            ""
+        ],
+        "location": "2nd Floor by Elevators",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "12:50"
     },
     {
         "book_description": "Yes, you could just go to the store and buy a router, but where is the coolness in that? Making your own out of a spare computer or an inexpensive Raspberry Pi gives you major geek cred points. In today's world, with the FCC asking manufacturers to limit access to router firmware, knowing how to make your own is more important than ever. Our panel will share tips and tricks to help you conquer this and get your merit badge!",
@@ -2273,20 +2330,6 @@
         "end_time": "12:50"
     },
     {
-        "book_description": "Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body.",
-        "end_date": "4/30/2016",
-        "title": "Walk the Solar System",
-        "track": "Science",
-        "start_time": "12:00",
-        "presenters": [
-            ""
-        ],
-        "location": "2nd Floor by Elevators",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "12:50"
-    },
-    {
         "book_description": "An incomplete and tangential discussion about tricks to save time, money, and energy in the kitchen. ",
         "end_date": "4/1/2016",
         "title": "Kitchen Hacks 101",
@@ -2509,6 +2552,22 @@
         "end_time": "16:50"
     },
     {
+        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
+        "end_date": "4/30/2016",
+        "title": "Dangerous Things RFID Implanations",
+        "track": "DIY, Tech",
+        "start_time": "13:00",
+        "presenters": [
+            "Amal Graafstra",
+            "Anita Fowler",
+            "Drew Buglione"
+        ],
+        "location": "HackerSpace (317)",
+        "minutes": 240,
+        "start_date": "4/30/2016",
+        "end_time": "17:00"
+    },
+    {
         "book_description": "What does it mean to be Agile? Is it all marketing and hype or does this represent the future of software development? We will explore fundamentals of Agile software development and focus primarily on the SCRUM framework. We will discuss things like the element of Scrum, its roles, cadence and traditions, the elements of a good User Story,how to write an Acceptance Criteria, how to estimate User Stories using Scrum-Poker, release planning, a few useful Metrics, and follow-up with a few closing thoughts. ",
         "end_date": "4/30/2016",
         "title": "Intro to Agile/Scrum",
@@ -2590,6 +2649,21 @@
             "Susan Sons"
         ],
         "location": "Windover",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "13:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Jen Haeger and Mary Lynne Gibbs",
+        "track": "Literature",
+        "start_time": "13:00",
+        "presenters": [
+            "Jenn Haeger",
+            "Mary Lynne Gibbs"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "13:50"
@@ -2872,6 +2946,21 @@
         "end_time": "14:50"
     },
     {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz",
+        "track": "Literature",
+        "start_time": "14:00",
+        "presenters": [
+            "Alex Kourvo",
+            "Ferrett Steinmetz"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "14:50"
+    },
+    {
         "book_description": "\"The most exciting thing about making bread is it's similar to making beer.\" Learn how to make and recognize a great loaf of bread with our Featured Guest and professional baker, David Clipner.",
         "end_date": "4/30/2016",
         "title": "Baking and Breaking Bread",
@@ -2964,6 +3053,20 @@
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
+        "end_date": "4/30/2016",
+        "title": "Spellbound Demo",
+        "track": "Tech, Science",
+        "start_time": "15:00",
+        "presenters": [
+            "Christina York"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 60,
+        "start_date": "4/30/2016",
+        "end_time": "16:00"
     },
     {
         "book_description": "Do you have a great costume idea but can't find a pattern or the ability to make it? I have some great advice and techniques that will help you get through it all. We will be addressing alteration of existing items or patterns, pattern creation, sewing alternatives, and some clever tricks to help you on your way. Part 1 of 2.",
@@ -3373,6 +3476,22 @@
         "end_time": "16:50"
     },
     {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Cindy Spencer Pape and Christine Daigle and Stewart Sternberg",
+        "track": "Literature",
+        "start_time": "16:00",
+        "presenters": [
+            "Cindy Spencer Pape",
+            "Chistine Daigle",
+            "Stewart Sternberg"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "16:50"
+    },
+    {
         "book_description": "Get your grub on with some fast, nutritious meals that won't make your wallet sad. We're talking tasty stews, soups, curries, and sides with minimum prep and cooking time. We'll demo a hearty main course and side that you can taste at the end of the session. Recipes will be provided, plus some others to try, and we'll give you a resource sheet to find lots of other cheap and easy vegan vittles!",
         "end_date": "4/30/2016",
         "title": "Easy and Cheap: Healthy Meatless Meals",
@@ -3618,6 +3737,21 @@
             "Steven Saus"
         ],
         "location": "Portage",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "17:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Christopher Purrett and Merrie Haskell",
+        "track": "Literature",
+        "start_time": "17:00",
+        "presenters": [
+            "Christopher Purrett",
+            "Merrie Haskell"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "17:50"
@@ -4046,6 +4180,20 @@
         "end_time": "19:50"
     },
     {
+        "book_description": "Rathbone the Pirate will enchant us with some authentic (and some inauthentic) work songs from the age of sail!",
+        "end_date": "4/30/2016",
+        "title": "Pirate Sea Chanties!",
+        "track": "Mayhem",
+        "start_time": "19:00",
+        "presenters": [
+            "Rathbone the Pirate"
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
         "book_description": "Follow-up to the Intro to Python, our presenter from the Ann Arbor Python Users Group will take you through some actual code.",
         "end_date": "4/30/2016",
         "title": "Python Code Walk-Through",
@@ -4083,6 +4231,20 @@
             "Jen Talley"
         ],
         "location": "Portage",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "19:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Michael W. Lucas and Ken MacGregor",
+        "track": "Literature",
+        "start_time": "19:00",
+        "presenters": [
+            "Michael W. Lucas and Ken MacGregor"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "19:50"
@@ -4247,6 +4409,21 @@
             "Marie Staver"
         ],
         "location": "Portage",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "20:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Tobias S. Buckell and Mark Oshiro",
+        "track": "Literature",
+        "start_time": "20:50",
+        "presenters": [
+            "Tobias S. Buckell",
+            "Mark Oshiro"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "20:50"
@@ -4548,6 +4725,20 @@
         "end_time": "22:50"
     },
     {
+        "book_description": "Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone!",
+        "end_date": "4/30/2016",
+        "title": "Open Kink",
+        "track": "After Dark",
+        "start_time": "22:00",
+        "presenters": [
+            "Lawrence Kapture"
+        ],
+        "location": "Montcalm",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "22:50"
+    },
+    {
         "book_description": "Come and experience the best (worst) erotica that Chuck Tingle has to offer, read live and (totally unprepared for what's to come) by Mark Oshiro. This panel is for ages 18+ only. Minors are not allowed (with or without a parent).",
         "end_date": "4/30/2016",
         "title": "Mark Reads After Dark",
@@ -4697,6 +4888,20 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "10:50"
+    },
+    {
+        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
+        "end_date": "5/1/2016",
+        "title": "Neurable Demo",
+        "track": "Science, Tech",
+        "start_time": "10:00",
+        "presenters": [
+            "Ramses Alcaide"
+        ],
+        "location": "Demo Table, Maker Market Hallway",
+        "minutes": 120,
+        "start_date": "5/1/2016",
+        "end_time": "12:00"
     },
     {
         "book_description": "This panel discusses today's self-publishing options and business models. Our panelists include authors who are both self- and traditionally published, in fiction and nonfiction, including people who are making an income entirely by self-publishing. We'll discuss why we made the choice to self-publish, the pitfalls and lessons learned, and which business choices we've made on our respective self-publishing efforts.",
@@ -5315,6 +5520,21 @@
             "Michael W. Lucas"
         ],
         "location": "Windover",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "12:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
+        "end_date": "5/1/2016",
+        "title": "Reading/Signing: Emmy Jackson, David Erik Nelson",
+        "track": "Literature",
+        "start_time": "12:00",
+        "presenters": [
+            "Emmy Jackson",
+            "David Erik Nelson"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "12:50"
@@ -5952,225 +6172,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Let's talk kink. Join us for a guided discussion of as many kinky things as we can talk about in the time we have. A great time to share stories and ask questions as well and a shame and judgement free zone!",
-        "end_date": "4/30/2016",
-        "title": "Open Kink",
-        "track": "After Dark",
-        "start_time": "22:00",
-        "presenters": [
-            "Lawrence Kapture"
-        ],
-        "location": "Montcalm",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: John Scalzi and Dave Kecha",
-        "track": "Literature",
-        "start_time": "11:00",
-        "presenters": [
-            "John Scalzi",
-            "David Klecha"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "11:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Jen Haeger and Mary Lynne Gibbs",
-        "track": "Literature",
-        "start_time": "13:00",
-        "presenters": [
-            "Jenn Haeger",
-            "Mary Lynne Gibbs"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Alex Kourvo/M.H. Mead and Ferrett Steinmetz",
-        "track": "Literature",
-        "start_time": "14:00",
-        "presenters": [
-            "Alex Kourvo",
-            "Ferrett Steinmetz"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "14:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Cindy Spencer Pape and Christine Daigle and Stewart Sternberg",
-        "track": "Literature",
-        "start_time": "16:00",
-        "presenters": [
-            "Cindy Spencer Pape",
-            "Chistine Daigle",
-            "Stewart Sternberg"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "16:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Christopher Purrett and Merrie Haskell",
-        "track": "Literature",
-        "start_time": "17:00",
-        "presenters": [
-            "Christopher Purrett",
-            "Merrie Haskell"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "17:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Michael W. Lucas and Ken MacGregor",
-        "track": "Literature",
-        "start_time": "19:00",
-        "presenters": [
-            "Michael W. Lucas and Ken MacGregor"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "19:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Tobias S. Buckell and Mark Oshiro",
-        "track": "Literature",
-        "start_time": "20:50",
-        "presenters": [
-            "Tobias S. Buckell",
-            "Mark Oshiro"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "20:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for reading and signing!",
-        "end_date": "5/1/2016",
-        "title": "Reading/Signing: Emmy Jackson, David Erik Nelson",
-        "track": "Literature",
-        "start_time": "12:00",
-        "presenters": [
-            "Emmy Jackson",
-            "David Erik Nelson"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "12:50"
-    },
-    {
-        "book_description": "Yes, we are turning people into cyborgs. Expect a demonstration of really awesome technology that can help you unlock your doors, phone, make electronic payments, contain your medical information, and all kinds of other fun stuff. Join Dangerous Things as they implants RFIDs into anyone who wants them in a safe and sterile manner! Please stop by the HackerSpace to ask about costs!",
-        "end_date": "4/29/2016",
-        "title": "Dangerous Things RFID Implanations",
-        "track": "DIY, Tech",
-        "start_time": "19:00",
-        "presenters": [
-            "Amal Graafstra",
-            "Anita Fowler",
-            "Drew Buglione"
-        ],
-        "location": "HackerSpace (317)",
-        "minutes": 120,
-        "start_date": "4/29/2016",
-        "end_time": "21:00"
-    },
-    {
-        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
-        "end_date": "4/29/2016",
-        "title": "Neurable Demo",
-        "track": "Science, Tech",
-        "start_time": "18:00",
-        "presenters": [
-            "Ramses Alcaide"
-        ],
-        "location": "Demo Table, Maker Market Hallway",
-        "minutes": 120,
-        "start_date": "4/29/2016",
-        "end_time": "20:00"
-    },
-    {
-        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
-        "end_date": "4/30/2016",
-        "title": "Neurable Demo",
-        "track": "Science, Tech",
-        "start_time": "11:00",
-        "presenters": [
-            "Ramses Alcaide"
-        ],
-        "location": "Demo Table, Maker Market Hallway",
-        "minutes": 120,
-        "start_date": "4/30/2016",
-        "end_time": "13:00"
-    },
-    {
-        "book_description": "Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications",
-        "end_date": "5/1/2016",
-        "title": "Neurable Demo",
-        "track": "Science, Tech",
-        "start_time": "10:00",
-        "presenters": [
-            "Ramses Alcaide"
-        ],
-        "location": "Demo Table, Maker Market Hallway",
-        "minutes": 120,
-        "start_date": "5/1/2016",
-        "end_time": "12:00"
-    },
-    {
-        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
-        "end_date": "4/30/2016",
-        "title": "Spellbound Demo",
-        "track": "Tech, Science",
-        "start_time": "10:00",
-        "presenters": [
-            "Christina York"
-        ],
-        "location": "Demo Table, Maker Market Hallway",
-        "minutes": 60,
-        "start_date": "4/30/2016",
-        "end_time": "11:00"
-    },
-    {
-        "book_description": "Featured Guest Christina York demonstrates the Spellbound app! SpellBound uses your smartphone or tablet to turns paper books that work with the app into amazing 3D adventures. ",
-        "end_date": "4/30/2016",
-        "title": "Spellbound Demo",
-        "track": "Tech, Science",
-        "start_time": "15:00",
-        "presenters": [
-            "Christina York"
-        ],
-        "location": "Demo Table, Maker Market Hallway",
-        "minutes": 60,
-        "start_date": "4/30/2016",
-        "end_time": "16:00"
     }
 ]
