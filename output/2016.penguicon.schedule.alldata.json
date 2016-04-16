@@ -20821,7 +20821,7 @@
         "duration": "50 minutes",
         "description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.",
         "index": 285,
-        "speakers": "Rathbone the Pirate",
+        "speakers": "Rathbone the Pirate, David Clipner",
         "bookdescrip": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.",
         "Track": "Food",
         "startday": "4/30/2016",
@@ -20843,7 +20843,7 @@
             "1017",
             "Food",
             "Pirate Rum History Tastings",
-            "Rathbone the Pirate",
+            "Rathbone the Pirate, David Clipner",
             "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n",
             "00hr:50min",
             "",
@@ -20851,15 +20851,17 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Rathbone the Pirate",
+        "calspeakers": "Rathbone the Pirate, David Clipner",
         "avneeds": "none",
         "speakerlist": [
-            "Rathbone the Pirate"
+            "Rathbone the Pirate",
+            "David Clipner"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
-            "RathbonethePirate"
+            "RathbonethePirate",
+            "DavidClipner"
         ],
         "caldescrip": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops.\n",
         "endtime": "20:50",
@@ -20869,9 +20871,9 @@
         "bookname": "Pirate Rum History Tastings",
         "venue": "1017",
         "Book Description": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum, but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
-        "Presenters": "Rathbone the Pirate",
+        "Presenters": "Rathbone the Pirate, David Clipner",
         "csvsafedescrip": "Rum is probably one of the first things people think of when they think of pirates. We could give a fancy description of the lecture about the history of rum- but you're really just coming to drink rum-- so let's taste some different rums! 21+ and ID will be required. Sign up at Ops. ",
-        "speakernosp": "RathbonethePirate",
+        "speakernosp": "RathbonethePirate,DavidClipner",
         "starttime": "20:00",
         "roomnosp": "1017",
         "Start Date": "4/30/2016",
@@ -28541,7 +28543,7 @@
         "duration": "50 minutes",
         "description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "index": 391,
-        "speakers": "Rathbone the Pirate",
+        "speakers": "Rathbone the Pirate, David Clipner",
         "bookdescrip": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "Track": "Food",
         "startday": "5/1/2016",
@@ -28563,7 +28565,7 @@
             "1017",
             "Food",
             "Eat Like a Pirate",
-            "Rathbone the Pirate",
+            "Rathbone the Pirate, David Clipner",
             "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
             "00hr:50min",
             "",
@@ -28571,15 +28573,17 @@
             "PUBLIC"
         ],
         "End Date": "5/1/2016",
-        "calspeakers": "Rathbone the Pirate",
+        "calspeakers": "Rathbone the Pirate, David Clipner",
         "avneeds": "none",
         "speakerlist": [
-            "Rathbone the Pirate"
+            "Rathbone the Pirate",
+            "David Clipner"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
-            "RathbonethePirate"
+            "RathbonethePirate",
+            "DavidClipner"
         ],
         "caldescrip": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "endtime": "14:50",
@@ -28589,9 +28593,9 @@
         "bookname": "Eat Like a Pirate",
         "venue": "1017",
         "Book Description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
-        "Presenters": "Rathbone the Pirate",
+        "Presenters": "Rathbone the Pirate, David Clipner",
         "csvsafedescrip": "Cuisine is probably not the first thing people think of when they think of pirates- but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
-        "speakernosp": "RathbonethePirate",
+        "speakernosp": "RathbonethePirate,DavidClipner",
         "starttime": "14:00",
         "roomnosp": "1017",
         "Start Date": "5/1/2016",
