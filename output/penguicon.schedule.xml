@@ -272,10 +272,6 @@
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas</participant> PAM, or Pluggable Authentication Modules, is one of the most occult parts of managing Unixish systems. The unique configuration syntax and idiosyncratic rule processing drives many sysadmins to copy working configurations from other people and random blog posts. This talk takes you through the essentials of PAM configuration, You'll learn the components of PAM, how PAM processes rules, how to use multi-factor authentication, and get an overview of some useful PAM modules you probably haven't used, based on my book "PAM Mastery." </blurb></event>
 <time>9 PM</time>
-<event><title>Wesley and the Crushers</title>
-<topic>Media</topic>
-<room>Algonquin B/C</room>
-<blurb><participant></participant> Wesley and the Crushers is a modern, one-of-a-kind musical exploration that is both "geeky" and passionate -- passionate in their admiration and love for all things "geeky" -- and completely geeked-out in their approach to their number-one passion, which is music. </blurb></event>
 <event><title>Ethics of Raising Children While Participating in the BDSM Community</title>
 <topic>After Dark</topic>
 <room>Baldwin</room>
@@ -1108,10 +1104,10 @@
 <topic>Media</topic>
 <room>Charlevoix C</room>
 <blurb><participant>Mike Madigan, Matthew Peach</participant> So your short or feature film is finally complete and ready to screen to audiences- now what? Learn the secrets of submitting correctly to film festivals, what film festivals look for in your film, and which film festivals to target/which ones to avoid depending on your project. </blurb></event>
-<event><title>Red Hat Ethical Hacking Competition</title>
+<event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>Tom Callahan</participant> Red Hat has brought great content to Penguicon once again!  Ethical hacking is testing the IT resources for a good cause and for the betterment of technology. This event will provide an opportunity for both novices and experts to brush up on their skills and compete for prizes. Noteworthy Addendum! There will be 20 laptops available in the lab. First come, first served. <duration>2 hours and 50 minutes</duration></blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. <duration>2 hours and 50 minutes</duration></blurb></event>
 <event><title>Introduction to Exoplanet Art with the GIMP 2</title>
 <topic>Science</topic>
 <room>EMC II</room>
@@ -1317,8 +1313,8 @@
 <time>8 AM</time>
 <event><title>Sunday Morning Linux Review Live  Broadcast</title>
 <topic>Tech</topic>
-<room>Podcast Suite</room>
-<blurb><participant>Tony Bemus, Mary Tomich, Tom Lawrence</participant> This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon. <duration>2 hours and 50 minutes</duration></blurb></event>
+<room>Podcast Suite (943)</room>
+<blurb><participant>Tony Bemus, Mary Tomich, Tom Lawrence</participant> This podcast is produced by 3 local people who also have been associated with Penguicon as speakers over the years. Their podcast recently was added to the player.fm list of Best Linux Podcasts. And as they have done since the beginning, they will do a live recording of their podcast at Penguicon. <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>10 AM</time>
 <event><title>Engineer's Guide to Self Defense</title>
 <topic>Life, Action Adventure</topic>
