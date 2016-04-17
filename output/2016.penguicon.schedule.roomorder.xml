@@ -1903,7 +1903,7 @@
 <time>4 PM</time>
 <event><title>Free Fates Fortune Telling Booth</title>
 <topic>Mayhem</topic>
-<blurb><participant>Valerie Hibbard</participant> Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth. <duration>00 minutes</duration></blurb></event>
+<blurb><participant></participant> Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth. <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
 <event><title>Giant Jenga</title>
@@ -1916,19 +1916,9 @@
 <blurb><participant></participant> Don't touch the sides! Test your hand-eye coordination and fine motor skills in life-size with Lansing Maker Network's MegOperation, an interactive, large-scale version of the classic game Operation! <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
-<event><title>NUET Scouts</title>
-<topic>Mayhem</topic>
-<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. <duration>00 minutes</duration></blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>4 PM</time>
 <event><title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
 <blurb><participant></participant> Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter Table to get started! <duration>00 minutes</duration></blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>4 PM</time>
-<event><title>Ribbon Fairies</title>
-<topic>Mayhem</topic>
-<blurb><participant></participant> Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon! <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>4 PM</time>
 <event><title>Where in the World?</title>
@@ -2323,6 +2313,16 @@
 <topic>Tech</topic>
 <room>Restaurant</room>
 <blurb><participant>Craig Maloney</participant> Come celebrate the release of Ubuntu 16.04: Xenial Xerus with the Ubuntu Michigan Loco. We'll be meeting in the bar area to celebrate the latest in the Ubuntu release cycle. Hope to see you there! </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>4 PM</time>
+<event><title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. <duration>00 minutes</duration></blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>4 PM</time>
+<event><title>Ribbon Fairies</title>
+<topic>Mayhem</topic>
+<blurb><participant></participant> Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon! <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>7 PM</time>
 <event><title>Kerbal Space Program</title>

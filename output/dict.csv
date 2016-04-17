@@ -56,7 +56,7 @@ Location,Lobby
 duration,00 minutes
 description,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 index,1
-speakers,Valerie Hibbard
+speakers,
 bookdescrip,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 Track,Mayhem
 startday,4/29/2016
@@ -68,14 +68,14 @@ End Time,15:00
 tracknosp,['Mayhem']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'Free Fates Fortune Telling Booth', 'Valerie Hibbard', 'Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'Free Fates Fortune Telling Booth', '', 'Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,Valerie Hibbard
+calspeakers,
 avneeds,none
-speakerlist,['Valerie Hibbard']
+speakerlist,['']
 hours,-673
 totalminutes,-40380
-speakernosplist,['ValerieHibbard']
+speakernosplist,['']
 caldescrip,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
 endtime,15:00
 AV Needs,
@@ -84,9 +84,9 @@ Private,PUBLIC
 bookname,Free Fates Fortune Telling Booth
 venue,Lobby
 Book Description,"Find a token, bring it to the booth in the lobby, and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth."
-Presenters,Valerie Hibbard
+Presenters,
 csvsafedescrip,Find a token- bring it to the booth in the lobby- and randomly generated predictions will be given to you! You may also write a short question and receive a Yes or No answer in return. Hours of operation posted at the booth.
-speakernosp,ValerieHibbard
+speakernosp,
 starttime,16:00
 roomnosp,Lobby
 Start Date,4/29/2016
@@ -193,7 +193,7 @@ event_end,15:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Lobby
+Location,Wandering
 duration,00 minutes
 description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 index,4
@@ -209,7 +209,7 @@ End Time,15:00
 tracknosp,['Mayhem']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Wandering', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,
 avneeds,none
@@ -223,13 +223,13 @@ AV Needs,
 name,NUET Scouts
 Private,PUBLIC
 bookname,NUET Scouts
-venue,Lobby
+venue,Wandering
 Book Description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 Presenters,
 csvsafedescrip,The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon- bringing you fun- mayhem- and shenanigans. Find us wandering the con to see what we have planned this year.
 speakernosp,
 starttime,16:00
-roomnosp,Lobby
+roomnosp,Wandering
 Start Date,4/29/2016
 descriptionascii,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 minutes,00
@@ -287,7 +287,7 @@ event_end,15:00
 event_type_list,['Mayhem']
 private,PUBLIC
 endtimeampm,3 PM
-Location,Lobby
+Location,Wandering
 duration,00 minutes
 description,"Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!"
 index,6
@@ -303,7 +303,7 @@ End Time,15:00
 tracknosp,['Mayhem']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'Ribbon Fairies', '', 'Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Wandering', 'Mayhem', 'Ribbon Fairies', '', 'Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,
 avneeds,none
@@ -317,13 +317,13 @@ AV Needs,
 name,Ribbon Fairies
 Private,PUBLIC
 bookname,Ribbon Fairies
-venue,Lobby
+venue,Wandering
 Book Description,"Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!"
 Presenters,
 csvsafedescrip,Look out for the Ribbon Fairies! If you find them- you can trade them a ribbon for a ribbon!
 speakernosp,
 starttime,16:00
-roomnosp,Lobby
+roomnosp,Wandering
 Start Date,4/29/2016
 descriptionascii,"Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!"
 minutes,00
