@@ -197,7 +197,7 @@ Location,Lobby
 duration,00 minutes
 description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 index,4
-speakers,"Justin Coluzzi, Kevin McLeod, Alex Drummer"
+speakers,
 bookdescrip,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 Track,Mayhem
 startday,4/29/2016
@@ -209,14 +209,14 @@ End Time,15:00
 tracknosp,['Mayhem']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'NUET Scouts', 'Justin Coluzzi, Kevin McLeod, Alex Drummer ', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Mayhem', 'NUET Scouts', '', 'The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.', '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
-calspeakers,"Justin Coluzzi, Kevin McLeod, Alex Drummer"
+calspeakers,
 avneeds,none
-speakerlist,"['Justin Coluzzi', 'Kevin McLeod', 'Alex Drummer']"
+speakerlist,['']
 hours,-673
 totalminutes,-40380
-speakernosplist,"['JustinColuzzi', 'KevinMcLeod', 'AlexDrummer']"
+speakernosplist,['']
 caldescrip,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
 endtime,15:00
 AV Needs,
@@ -225,9 +225,9 @@ Private,PUBLIC
 bookname,NUET Scouts
 venue,Lobby
 Book Description,"The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year."
-Presenters,"Justin Coluzzi, Kevin McLeod, Alex Drummer "
+Presenters,
 csvsafedescrip,The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon- bringing you fun- mayhem- and shenanigans. Find us wandering the con to see what we have planned this year.
-speakernosp,"JustinColuzzi,KevinMcLeod,AlexDrummer"
+speakernosp,
 starttime,16:00
 roomnosp,Lobby
 Start Date,4/29/2016
@@ -7062,10 +7062,10 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,HackerSpace (317)
 duration,1 hour and 50 minutes
-description,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
+description,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
 index,150
 speakers,Yajie Wang
-bookdescrip,"i3's Vinyl cutter and Heat Press (shirt press &amp; Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
+bookdescrip,"i3's Vinyl cutter and Heat Press (shirt press &amp; Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
 Track,"DIY, Tech"
 startday,4/30/2016
 Title,i3 Vinyl Tshirts
@@ -7076,7 +7076,7 @@ End Time,13:50
 tracknosp,"['DIY', 'Tech']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '13:50', 'HackerSpace (317)', 'DIY, Tech', 'i3 Vinyl Tshirts', 'Yajie Wang', ""i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software \xe2\x80\x9cSure Cuts A Lot\xe2\x80\x9d. It\xe2\x80\x99s straightforward and interesting! "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '13:50', 'HackerSpace (317)', 'DIY, Tech', 'i3 Vinyl Tshirts', 'Yajie Wang', ""i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software \xe2\x80\x9cSure Cuts A Lot\xe2\x80\x9d. It\xe2\x80\x99s straightforward and interesting! "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Yajie Wang
 avneeds,none
@@ -7084,21 +7084,21 @@ speakerlist,['Yajie Wang']
 hours,1
 totalminutes,110
 speakernosplist,['YajieWang']
-caldescrip,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software 'Sure Cuts A Lot'. Its straightforward and interesting! "
+caldescrip,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software 'Sure Cuts A Lot'. Its straightforward and interesting! "
 endtime,13:50
 AV Needs,
 name,i3 Vinyl Tshirts
 Private,PUBLIC
 bookname,i3 Vinyl Tshirts
 venue,HackerSpace (317)
-Book Description,"i3's Vinyl cutter and Heat Press (shirt press and Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software ""Sure Cuts A Lot"". Its straightforward and interesting! "
+Book Description,"i3's Vinyl cutter and Heat Press (shirt press and Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software ""Sure Cuts A Lot"". Its straightforward and interesting! "
 Presenters,Yajie Wang
-csvsafedescrip,i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker- from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software 'Sure Cuts A Lot'. Its straightforward and interesting! 
+csvsafedescrip,i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker- from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software 'Sure Cuts A Lot'. Its straightforward and interesting! 
 speakernosp,YajieWang
 starttime,12:00
 roomnosp,HackerSpace317
 Start Date,4/30/2016
-descriptionascii,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you! i3 will also demonstrate the basic functions in our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
+descriptionascii,"i3's Vinyl cutter and Heat Press (shirt press & Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software ""Sure Cuts A Lot"". Its straightforward and interesting!"
 minutes,50
 allday,FALSE
 event_type,Tech
@@ -7205,7 +7205,7 @@ Location,Nicolet
 duration,50 minutes
 description,"Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko."
 index,153
-speakers,"Maria Dugan, Cassy Sinke"
+speakers,"Maria Dugan, Cassy Sinke, Sal Palland"
 bookdescrip,"Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko."
 Track,Anime
 startday,4/30/2016
@@ -7217,14 +7217,14 @@ End Time,12:50
 tracknosp,['Anime']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', 'Nicolet', 'Anime', 'The Heroines of Anime ', 'Maria Dugan, Cassy Sinke', 'Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', 'Nicolet', 'Anime', 'The Heroines of Anime ', 'Maria Dugan, Cassy Sinke, Sal Palland', 'Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
-calspeakers,"Maria Dugan, Cassy Sinke"
+calspeakers,"Maria Dugan, Cassy Sinke, Sal Palland"
 avneeds,none
-speakerlist,"['Maria Dugan', 'Cassy Sinke']"
+speakerlist,"['Maria Dugan', 'Cassy Sinke', 'Sal Palland']"
 hours,0
 totalminutes,50
-speakernosplist,"['MariaDugan', 'CassySinke']"
+speakernosplist,"['MariaDugan', 'CassySinke', 'SalPalland']"
 caldescrip,"Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko."
 endtime,12:50
 AV Needs,
@@ -7233,9 +7233,9 @@ Private,PUBLIC
 bookname,The Heroines of Anime
 venue,Nicolet
 Book Description,"Join our panelists for a discussion of their favorite anime heroines, from Riza to Major Motoko."
-Presenters,"Maria Dugan, Cassy Sinke"
+Presenters,"Maria Dugan, Cassy Sinke, Sal Palland"
 csvsafedescrip,Join our panelists for a discussion of their favorite anime heroines- from Riza to Major Motoko.
-speakernosp,"MariaDugan,CassySinke"
+speakernosp,"MariaDugan,CassySinke,SalPalland"
 starttime,12:00
 roomnosp,Nicolet
 Start Date,4/30/2016
