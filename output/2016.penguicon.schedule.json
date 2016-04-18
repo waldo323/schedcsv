@@ -6145,5 +6145,64 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Michael Cieslak and Nicole Castle",
+        "track": "Literature",
+        "start_time": "15:00",
+        "presenters": [
+            "Michael Cieslak",
+            "Nicole Castle"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "15:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Paul Kemner and Jon David",
+        "track": "Literature",
+        "start_time": "18:00",
+        "presenters": [
+            "Paul Kemner",
+            "Jon David"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "5/1/2016",
+        "title": "Reading/Signing: Marie Staver",
+        "track": "Literature",
+        "start_time": "11:00",
+        "presenters": [
+            "Marie Staver"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "5/1/2016",
+        "title": "Reading/Signing: Rosemary Van Deuren and Clarence \"Zig Zag Claybourne\" Young",
+        "track": "Literature",
+        "start_time": "13:00",
+        "presenters": [
+            "Rosemary Van Deuren",
+            "Clarence \"Zig Zag Claybourne\" Young"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
     }
 ]
