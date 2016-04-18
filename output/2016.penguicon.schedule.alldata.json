@@ -30369,5 +30369,78 @@
         "Start Date": "4/29/2016",
         "descriptionascii": "Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win.",
         "minutes": "00"
+    },
+    {
+        "allday": "FALSE",
+        "event_type": "Tech",
+        "All Day Event": "",
+        "event_end": "16:42",
+        "event_type_list": [
+            "Tech"
+        ],
+        "private": "DEFAULT",
+        "endtimeampm": "4 PM",
+        "Location": "",
+        "duration": "42 minutes",
+        "description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech.",
+        "index": 416,
+        "speakers": "Deb Nicholson, Chioke Mose-Telesford",
+        "bookdescrip": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech.",
+        "Track": "Tech",
+        "startday": "4/1/2016",
+        "Title": "Inclusivity and Diversity in Tech",
+        "Start Time": "16:20",
+        "event_start": "16:20",
+        "starttimeampm": "4 PM",
+        "End Time": "16:42",
+        "tracknosp": [
+            "Tech"
+        ],
+        "endday": "4/1/2016",
+        "dayheader": "NoDay, April 1",
+        "input": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Tech",
+            "Inclusivity and Diversity in Tech",
+            "Deb Nicholson, Chioke Mose-Telesford",
+            "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "End Date": "",
+        "calspeakers": "Deb Nicholson, Chioke Mose-Telesford",
+        "avneeds": "none",
+        "speakerlist": [
+            "Deb Nicholson",
+            "Chioke Mose-Telesford"
+        ],
+        "hours": 0,
+        "totalminutes": 42,
+        "speakernosplist": [
+            "DebNicholson",
+            "ChiokeMose-Telesford"
+        ],
+        "caldescrip": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+        "endtime": "16:42",
+        "AV Needs": "",
+        "name": "Inclusivity and Diversity in Tech",
+        "Private": "",
+        "bookname": "Inclusivity and Diversity in Tech",
+        "venue": "",
+        "Book Description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+        "Presenters": "Deb Nicholson, Chioke Mose-Telesford",
+        "csvsafedescrip": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+        "speakernosp": "DebNicholson,ChiokeMose-Telesford",
+        "starttime": "16:20",
+        "roomnosp": "Hotel",
+        "Start Date": "",
+        "descriptionascii": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech.",
+        "minutes": "42"
     }
 ]

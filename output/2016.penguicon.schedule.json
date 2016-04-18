@@ -6189,5 +6189,20 @@
         "minutes": -40380,
         "start_date": "4/29/2016",
         "end_time": "15:00"
+    },
+    {
+        "book_description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+        "end_date": "",
+        "title": "Inclusivity and Diversity in Tech",
+        "track": "Tech",
+        "start_time": "16:20",
+        "presenters": [
+            "Deb Nicholson",
+            "Chioke Mose-Telesford"
+        ],
+        "location": "",
+        "minutes": 42,
+        "start_date": "",
+        "end_time": "16:42"
     }
 ]
