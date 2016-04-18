@@ -6245,5 +6245,19 @@
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "18:50"
+    },
+    {
+        "book_description": "Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).",
+        "end_date": "5/1/2016",
+        "title": "Photo Booth",
+        "track": "Penguicon",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Lobby",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
     }
 ]

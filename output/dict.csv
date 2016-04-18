@@ -19567,10 +19567,10 @@ descriptionascii,"Stop by the Charity Raffle table (by Ops and Registration) and
 minutes,00
 allday,FALSE
 event_type,Tech
-All Day Event,
+All Day Event,FALSE
 event_end,15:50
 event_type_list,['Tech']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,3 PM
 Location,Charlevoix A
 duration,50 minutes
@@ -19588,7 +19588,7 @@ End Time,15:50
 tracknosp,['Tech']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '15:00', '4/30/2016', '15:50', 'Charlevoix A', 'Tech', 'Inclusivity and Diversity in Tech', 'Deb Nicholson, Chioke Mose-Telesford', 'Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ', '00hr:50min', '', '', '']"
+input,"['4/30/2016', '15:00', '4/30/2016', '15:50', 'Charlevoix A', 'Tech', 'Inclusivity and Diversity in Tech', 'Deb Nicholson, Chioke Mose-Telesford', 'Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,"Deb Nicholson, Chioke Mose-Telesford"
 avneeds,none
@@ -19600,7 +19600,7 @@ caldescrip,Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Cir
 endtime,15:50
 AV Needs,
 name,Inclusivity and Diversity in Tech
-Private,
+Private,PUBLIC
 bookname,Inclusivity and Diversity in Tech
 venue,Charlevoix A
 Book Description,Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. 
@@ -19614,10 +19614,10 @@ descriptionascii,Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Gra
 minutes,50
 allday,FALSE
 event_type,Literature
-All Day Event,
+All Day Event,FALSE
 event_end,9:50
 event_type_list,['Literature']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,9 AM
 Location,Restaurant
 duration,50 minutes
@@ -19635,7 +19635,7 @@ End Time,9:50
 tracknosp,['Literature']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '9:00', '4/30/2016', '9:50', 'Restaurant', 'Literature', 'KaffeKlatsch with Catherynne Valente', 'Catherynne Valente', 'Join Guest of Honor Catherynne Valente for coffee and chatting!  This is a limited attendance event.  Please sign up in advance at Ops.', '00hr:50min', '', '', '']"
+input,"['4/30/2016', '9:00', '4/30/2016', '9:50', 'Restaurant', 'Literature', 'KaffeKlatsch with Catherynne Valente', 'Catherynne Valente', 'Join Guest of Honor Catherynne Valente for coffee and chatting!  This is a limited attendance event.  Please sign up in advance at Ops.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Catherynne Valente
 avneeds,none
@@ -19647,7 +19647,7 @@ caldescrip,Join Guest of Honor Catherynne Valente for coffee and chatting!  This
 endtime,9:50
 AV Needs,
 name,KaffeKlatsch with Catherynne Valente
-Private,
+Private,PUBLIC
 bookname,KaffeKlatsch with Catherynne Valente
 venue,Restaurant
 Book Description,Join Guest of Honor Catherynne Valente for coffee and chatting! This is a limited attendance event. Please sign up in advance at Ops.
@@ -19661,10 +19661,10 @@ descriptionascii,Join Guest of Honor Catherynne Valente for coffee and chatting!
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,22:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,10 PM
 Location,Game Table F
 duration,50 minutes
@@ -19682,7 +19682,7 @@ End Time,22:50
 tracknosp,['Gaming']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Game Table F', 'Gaming', 'Unpublished Prototype: Mirage', 'Matt Arnold', '2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017.', '00hr:50min', '', '', '']"
+input,"['4/29/2016', '22:00', '4/29/2016', '22:50', 'Game Table F', 'Gaming', 'Unpublished Prototype: Mirage', 'Matt Arnold', '2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/29/2016
 calspeakers,Matt Arnold
 avneeds,none
@@ -19694,7 +19694,7 @@ caldescrip,"2-4 players. Lay L-shaped tiles to claim land with camels, and water
 endtime,22:50
 AV Needs,
 name,Unpublished Prototype: Mirage
-Private,
+Private,PUBLIC
 bookname,Unpublished Prototype: Mirage
 venue,Game Table F
 Book Description,"2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017."
@@ -19708,10 +19708,10 @@ descriptionascii,"2-4 players. Lay L-shaped tiles to claim land with camels, and
 minutes,50
 allday,FALSE
 event_type,Gaming
-All Day Event,
+All Day Event,FALSE
 event_end,18:50
 event_type_list,['Gaming']
-private,DEFAULT
+private,PUBLIC
 endtimeampm,6 PM
 Location,Game Table G
 duration,1 hour and 50 minutes
@@ -19729,7 +19729,7 @@ End Time,18:50
 tracknosp,['Gaming']
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Game Table G', 'Gaming', 'Unpublished Prototype: Terracosm', 'Matt Arnold', ""2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces."", '01hr:50min', '', '', '']"
+input,"['4/30/2016', '17:00', '4/30/2016', '18:50', 'Game Table G', 'Gaming', 'Unpublished Prototype: Terracosm', 'Matt Arnold', ""2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces."", '01hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,4/30/2016
 calspeakers,Matt Arnold
 avneeds,none
@@ -19741,7 +19741,7 @@ caldescrip,"2-4 players. Arrange your carnivores, herbivores, and plants on the 
 endtime,18:50
 AV Needs,
 name,Unpublished Prototype: Terracosm
-Private,
+Private,PUBLIC
 bookname,Unpublished Prototype: Terracosm
 venue,Game Table G
 Book Description,"2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces."
@@ -19753,3 +19753,50 @@ roomnosp,GameTableG
 Start Date,4/30/2016
 descriptionascii,"2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces."
 minutes,50
+allday,TRUE
+event_type,Penguicon
+All Day Event,TRUE
+event_end,15:00
+event_type_list,['Penguicon']
+private,PUBLIC
+endtimeampm,3 PM
+Location,Lobby
+duration,00 minutes
+description,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+index,420
+speakers,
+bookdescrip,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+Track,Penguicon
+startday,4/29/2016
+Title,Photo Booth
+Start Time,16:00
+event_start,16:00
+starttimeampm,4 PM
+End Time,15:00
+tracknosp,['Penguicon']
+endday,5/1/2016
+dayheader,"FRIDAY, APRIL 29"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'Lobby', 'Penguicon', 'Photo Booth', '', 'Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).', '', '', 'TRUE', 'PUBLIC']"
+End Date,5/1/2016
+calspeakers,
+avneeds,none
+speakerlist,['']
+hours,-673
+totalminutes,-40380
+speakernosplist,['']
+caldescrip,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+endtime,15:00
+AV Needs,
+name,Photo Booth
+Private,PUBLIC
+bookname,Photo Booth
+venue,Lobby
+Book Description,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+Presenters,
+csvsafedescrip,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+speakernosp,
+starttime,16:00
+roomnosp,Lobby
+Start Date,4/29/2016
+descriptionascii,Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).
+minutes,00
