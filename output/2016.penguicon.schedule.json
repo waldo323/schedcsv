@@ -6192,17 +6192,31 @@
     },
     {
         "book_description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
-        "end_date": "",
+        "end_date": "4/29/2016",
         "title": "Inclusivity and Diversity in Tech",
         "track": "Tech",
-        "start_time": "16:20",
+        "start_time": "15:00",
         "presenters": [
             "Deb Nicholson",
             "Chioke Mose-Telesford"
         ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
+        "location": "Charlevoix A",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "15:50"
+    },
+    {
+        "book_description": "Join Guest of Honor Cathrynne Valente for coffee and chatting! This is a limited attendence event. Sign up at Ops in advance.",
+        "end_date": "4/29/2016",
+        "title": "KaffeKlatsch with Cathrynne Valente",
+        "track": "Literature",
+        "start_time": "9:00",
+        "presenters": [
+            "Cathrynne Valente"
+        ],
+        "location": "Restaurant",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "9:50"
     }
 ]
