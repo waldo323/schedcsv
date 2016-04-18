@@ -56,20 +56,6 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.",
-        "end_date": "5/1/2016",
-        "title": "NUET Scouts",
-        "track": "Mayhem",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Wandering",
-        "minutes": -40380,
-        "start_date": "4/29/2016",
-        "end_time": "15:00"
-    },
-    {
         "book_description": "Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter Table to get started!",
         "end_date": "5/1/2016",
         "title": "Pengicon Picture Bingo",
@@ -84,15 +70,15 @@
         "end_time": "15:00"
     },
     {
-        "book_description": "Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!",
+        "book_description": "Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).",
         "end_date": "5/1/2016",
-        "title": "Ribbon Fairies",
-        "track": "Mayhem",
+        "title": "Photo Booth",
+        "track": "Penguicon",
         "start_time": "16:00",
         "presenters": [
             ""
         ],
-        "location": "Wandering",
+        "location": "Lobby",
         "minutes": -40380,
         "start_date": "4/29/2016",
         "end_time": "15:00"
@@ -121,6 +107,48 @@
             "Rathbone the Pirate"
         ],
         "location": "Mystery Location",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year.",
+        "end_date": "5/1/2016",
+        "title": "NUET Scouts",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Wandering",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon!",
+        "end_date": "5/1/2016",
+        "title": "Ribbon Fairies",
+        "track": "Mayhem",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Wandering",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win.",
+        "end_date": "5/1/2016",
+        "title": "Charity Raffle",
+        "track": "Penguicon",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
         "minutes": -40380,
         "start_date": "4/29/2016",
         "end_time": "15:00"
@@ -1256,6 +1284,20 @@
         "end_time": "23:50"
     },
     {
+        "book_description": "2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017.",
+        "end_date": "4/29/2016",
+        "title": "Unpublished Prototype: Mirage",
+        "track": "Gaming",
+        "start_time": "22:00",
+        "presenters": [
+            "Matt Arnold"
+        ],
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "22:50"
+    },
+    {
         "book_description": "2-6 players. The zombie apocalypse in a fantastical medieval setting! The arcane powers of the Necromancers have unleashed a zombie invasion in the age of swords and sorcery, and it's up to your group of straggling survivors to not only stay alive during these dark times, but to take back the realm and punish those responsible for the apocalypse!",
         "end_date": "4/29/2016",
         "title": "Zombicide: Black Plague",
@@ -1436,6 +1478,20 @@
             "All Hands Active"
         ],
         "location": "HackerSpace (317)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "9:50"
+    },
+    {
+        "book_description": "Join Guest of Honor Catherynne Valente for coffee and chatting! This is a limited attendance event. Please sign up in advance at Ops.",
+        "end_date": "4/30/2016",
+        "title": "KaffeKlatsch with Catherynne Valente",
+        "track": "Literature",
+        "start_time": "9:00",
+        "presenters": [
+            "Catherynne Valente"
+        ],
+        "location": "Restaurant",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "9:50"
@@ -2557,20 +2613,6 @@
         "end_time": "13:50"
     },
     {
-        "book_description": "Some of the best improv I've ever been part of has been around a gaming table. We're going to set up recording gear and then run a short gaming session. The recording will be edited into a radio play that will be made available online right after the con. We'll be using a system that doesn't require any previous knowledge to play. All you need to bring is your willingness to get into character! This is a limited attendance event. Please sign up in advance at Ops.",
-        "end_date": "4/30/2016",
-        "title": "RPG: Roleplay Podcast Game",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "Jody Raiford"
-        ],
-        "location": "Podcast Suite (943)",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
-    },
-    {
         "book_description": "Apparent Nifty Guest In Perpetuity Tom Smith is back, with new songs, a new album (a kids' album! Must be the apocalypse), and the usual assortment of catchy tunes and lousy puns.",
         "end_date": "4/30/2016",
         "title": "Tom Smith Concert",
@@ -2953,6 +2995,21 @@
         "end_time": "15:50"
     },
     {
+        "book_description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
+        "end_date": "4/30/2016",
+        "title": "Inclusivity and Diversity in Tech",
+        "track": "Tech",
+        "start_time": "15:00",
+        "presenters": [
+            "Deb Nicholson",
+            "Chioke Mose-Telesford"
+        ],
+        "location": "Charlevoix A",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "15:50"
+    },
+    {
         "book_description": "Presentation based on the books \"Building Microservices\" by Sam Newman and \"Release It! Design and Deploy Production Ready Software\" by Michael T. Nygard. ",
         "end_date": "4/30/2016",
         "title": "Intro to Microservices",
@@ -3212,6 +3269,21 @@
             "Jennifer Marsman"
         ],
         "location": "Windover",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "15:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Michael Cieslak and Nicole Castle",
+        "track": "Literature",
+        "start_time": "15:00",
+        "presenters": [
+            "Michael Cieslak",
+            "Nicole Castle"
+        ],
+        "location": "Writer's Block (313 and 315)",
         "minutes": 50,
         "start_date": "4/30/2016",
         "end_time": "15:50"
@@ -3610,6 +3682,20 @@
         "end_time": "18:50"
     },
     {
+        "book_description": "2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces.",
+        "end_date": "4/30/2016",
+        "title": "Unpublished Prototype: Terracosm",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Matt Arnold"
+        ],
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
         "book_description": "Windsor Hackforge is a shared space where creative technological minds come together and make things happen. They are bringing a hands-on project to this side of the Detroit River. Watching is free, but attendees who want to build along will be asked for a donation to cover the costs of materials.",
         "end_date": "4/30/2016",
         "title": "Hackforge Demo",
@@ -3664,6 +3750,20 @@
             "David J. Newland"
         ],
         "location": "Nicolet",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
+    },
+    {
+        "book_description": "Some of the best improv I've ever been part of has been around a gaming table. We're going to set up recording gear and then run a short gaming session. The recording will be edited into a radio play that will be made available online right after the con. We'll be using a system that doesn't require any previous knowledge to play. All you need to bring is your willingness to get into character! This is a limited attendance event. Please sign up in advance at Ops.",
+        "end_date": "4/30/2016",
+        "title": "RPG: Roleplay Podcast Game",
+        "track": "Gaming",
+        "start_time": "17:00",
+        "presenters": [
+            "Jody Raiford"
+        ],
+        "location": "Podcast Suite (943)",
         "minutes": 110,
         "start_date": "4/30/2016",
         "end_time": "18:50"
@@ -3901,6 +4001,21 @@
         "minutes": 230,
         "start_date": "4/30/2016",
         "end_time": "21:50"
+    },
+    {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "4/30/2016",
+        "title": "Reading/Signing: Paul Kemner and Jon David",
+        "track": "Literature",
+        "start_time": "18:00",
+        "presenters": [
+            "Paul Kemner",
+            "Jon David"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
     },
     {
         "book_description": "Have you always wanted to do partner dancing, but find keeping yourself within a set pattern constraining? Blues dance is an American idiom of partner dance that is freeform with limitless possibilities for creativity, including throwing out the partner bit and going solo. While blues dance gave rise to hip hop dancing, it also survives in modern culture as the awkward high school slow dance. Except real blues dance has more, well, pizzazz and a lot less awkwardness. No need for special shoes or a partner, comes as you are and well help you learn to groove.",
@@ -5250,6 +5365,20 @@
         "end_time": "12:50"
     },
     {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "5/1/2016",
+        "title": "Reading/Signing: Marie Staver",
+        "track": "Literature",
+        "start_time": "11:00",
+        "presenters": [
+            "Marie Staver"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "11:50"
+    },
+    {
         "book_description": "You don't need to be a professional chef or master gardener to preserve fresh produce for the winter! Learn how in this overview about canning, freezing, pickling, storing, and drying in your home kitchen.",
         "end_date": "5/1/2016",
         "title": "Preserving the Summer",
@@ -5765,6 +5894,21 @@
         "end_time": "13:50"
     },
     {
+        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
+        "end_date": "5/1/2016",
+        "title": "Reading/Signing: Rosemary Van Deuren and Clarence \"Zig Zag Claybourne\" Young",
+        "track": "Literature",
+        "start_time": "13:00",
+        "presenters": [
+            "Rosemary Van Deuren",
+            "Clarence \"Zig Zag Claybourne\" Young"
+        ],
+        "location": "Writer's Block (313 and 315)",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "Cuisine is probably not the first thing people think of when they think of pirates, but the Navy food was so bad that many Navy sailors turned pirate just to escape it. Come learn about common foods eaten aboard ships during the Golden Age of piracy and take home a recipe or two to try.",
         "end_date": "5/1/2016",
         "title": "Eat Like a Pirate",
@@ -6115,149 +6259,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Michael Cieslak and Nicole Castle",
-        "track": "Literature",
-        "start_time": "15:00",
-        "presenters": [
-            "Michael Cieslak",
-            "Nicole Castle"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
-        "end_date": "4/30/2016",
-        "title": "Reading/Signing: Paul Kemner and Jon David",
-        "track": "Literature",
-        "start_time": "18:00",
-        "presenters": [
-            "Paul Kemner",
-            "Jon David"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
-        "end_date": "5/1/2016",
-        "title": "Reading/Signing: Marie Staver",
-        "track": "Literature",
-        "start_time": "11:00",
-        "presenters": [
-            "Marie Staver"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "11:50"
-    },
-    {
-        "book_description": "Join our attending authors in the Writers Block (317 and 318) for readings and signings!",
-        "end_date": "5/1/2016",
-        "title": "Reading/Signing: Rosemary Van Deuren and Clarence \"Zig Zag Claybourne\" Young",
-        "track": "Literature",
-        "start_time": "13:00",
-        "presenters": [
-            "Rosemary Van Deuren",
-            "Clarence \"Zig Zag Claybourne\" Young"
-        ],
-        "location": "Writer's Block (313 and 315)",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
-    },
-    {
-        "book_description": "Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win.",
-        "end_date": "5/1/2016",
-        "title": "Charity Raffle",
-        "track": "Penguicon",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "",
-        "minutes": -40380,
-        "start_date": "4/29/2016",
-        "end_time": "15:00"
-    },
-    {
-        "book_description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
-        "end_date": "4/30/2016",
-        "title": "Inclusivity and Diversity in Tech",
-        "track": "Tech",
-        "start_time": "15:00",
-        "presenters": [
-            "Deb Nicholson",
-            "Chioke Mose-Telesford"
-        ],
-        "location": "Charlevoix A",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "15:50"
-    },
-    {
-        "book_description": "Join Guest of Honor Catherynne Valente for coffee and chatting! This is a limited attendance event. Please sign up in advance at Ops.",
-        "end_date": "4/30/2016",
-        "title": "KaffeKlatsch with Catherynne Valente",
-        "track": "Literature",
-        "start_time": "9:00",
-        "presenters": [
-            "Catherynne Valente"
-        ],
-        "location": "Restaurant",
-        "minutes": 50,
-        "start_date": "4/30/2016",
-        "end_time": "9:50"
-    },
-    {
-        "book_description": "2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017.",
-        "end_date": "4/29/2016",
-        "title": "Unpublished Prototype: Mirage",
-        "track": "Gaming",
-        "start_time": "22:00",
-        "presenters": [
-            "Matt Arnold"
-        ],
-        "location": "Game Table F",
-        "minutes": 50,
-        "start_date": "4/29/2016",
-        "end_time": "22:50"
-    },
-    {
-        "book_description": "2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces.",
-        "end_date": "4/30/2016",
-        "title": "Unpublished Prototype: Terracosm",
-        "track": "Gaming",
-        "start_time": "17:00",
-        "presenters": [
-            "Matt Arnold"
-        ],
-        "location": "Game Table G",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "18:50"
-    },
-    {
-        "book_description": "Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk).",
-        "end_date": "5/1/2016",
-        "title": "Photo Booth",
-        "track": "Penguicon",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Lobby",
-        "minutes": -40380,
-        "start_date": "4/29/2016",
-        "end_time": "15:00"
     }
 ]

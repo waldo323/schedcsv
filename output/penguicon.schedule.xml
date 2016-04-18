@@ -17,18 +17,14 @@
 <topic>Gaming</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Don't touch the sides! Test your hand-eye coordination and fine motor skills in life-size with Lansing Maker Network's MegOperation, an interactive, large-scale version of the classic game Operation! </blurb></event>
-<event><title>NUET Scouts</title>
-<topic>Mayhem</topic>
-<room>Wandering</room>
-<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. </blurb></event>
 <event><title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
 <blurb><participant></participant> Snap a picture of each clue and you will be rewarded! Go to Registration, Ops, or the Greeter Table to get started! </blurb></event>
-<event><title>Ribbon Fairies</title>
-<topic>Mayhem</topic>
-<room>Wandering</room>
-<blurb><participant></participant> Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon! </blurb></event>
+<event><title>Photo Booth</title>
+<topic>Penguicon</topic>
+<room>Lobby</room>
+<blurb><participant></participant> Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk). </blurb></event>
 <event><title>Where in the World?</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -37,6 +33,18 @@
 <topic>Mayhem</topic>
 <room>Mystery Location</room>
 <blurb><participant>Rathbone the Pirate</participant> Follow the clues to challenge our Mayhem Featured Guest Rathbone the Pirate for a share of his booty.  The best way to start a treasure hunt is drinking, preferably from officially licensed Penguicon materials. </blurb></event>
+<event><title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<room>Wandering</room>
+<blurb><participant></participant> The Scouts are at it again! The Nearly Useless Entertainment Team is back for another year at Penguicon, bringing you fun, mayhem, and shenanigans. Find us wandering the con to see what we have planned this year. </blurb></event>
+<event><title>Ribbon Fairies</title>
+<topic>Mayhem</topic>
+<room>Wandering</room>
+<blurb><participant></participant> Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon! </blurb></event>
+<event><title>Charity Raffle</title>
+<topic>Penguicon</topic>
+<room></room>
+<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. </blurb></event>
 <time>5 PM</time>
 <event><title>Artemis</title>
 <topic>Penguicon</topic>
@@ -349,6 +357,10 @@
 <topic>Gaming</topic>
 <room>Game Table B, Game Table C</room>
 <blurb><participant>Rick Houser</participant> 2-6 players. Jump into the action of the Back to the Future movies in this spinoff of Chrononauts, an ingenious time travel card game! Play as the descendants of Marty McFly, Biff Tannen, Doc Brown and others, as you travel back to the events depicted in the movies. Your mission is to make sure pivotal events are not changed by other time travelers before time travel itself gets un-invented. Using a unique, patented game mechanism for simulating time travel, Looney Labs now puts you in the drivers seat of the famous DeLorean! Sign up required at Ops. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Unpublished Prototype: Mirage</title>
+<topic>Gaming</topic>
+<room>Game Table F</room>
+<blurb><participant>Matt Arnold</participant> 2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017. </blurb></event>
 <event><title>Zombicide: Black Plague</title>
 <topic>Gaming</topic>
 <room>Game Table G</room>
@@ -406,6 +418,10 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<event><title>KaffeKlatsch with Catherynne Valente</title>
+<topic>Literature</topic>
+<room>Restaurant</room>
+<blurb><participant>Catherynne Valente</participant> Join Guest of Honor Catherynne Valente for coffee and chatting!  This is a limited attendance event.  Please sign up in advance at Ops. </blurb></event>
 <time>10 AM</time>
 <event><title>Geeks with Guns Virtual Range</title>
 <topic>Action Adventure</topic>
@@ -710,12 +726,6 @@
 <topic>Mayhem, Media</topic>
 <room>Nicolet</room>
 <blurb><participant>Rathbone the Pirate, Mitch "Duckman" Peters</participant> This live recording of Rathbone the Pirate's "Pieces of Eight" webcast will give attendees a chance to have their pirate questions answered. Special guest: Mitch "Duckman" Peters </blurb></event>
-<time>5 PM</time>
-<event><title>RPG: Roleplay Podcast Game</title>
-<topic>Gaming</topic>
-<room>Podcast Suite (943)</room>
-<blurb><participant>Jody Raiford</participant> Some of the best improv I've ever been part of has been around a gaming table.  We're going to set up recording gear and then run a short gaming session.  The recording will be edited into a radio play that will be made available online right after the con. We'll be using a system that doesn't require any previous knowledge to play. All you need to bring is your willingness to get into character! This is a limited attendance event.  Please sign up in advance at Ops. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>1 PM</time>
 <event><title>Tom Smith Concert</title>
 <topic>Penguicon, Media</topic>
 <room>Portage</room>
@@ -818,6 +828,10 @@
 <topic>Literature</topic>
 <room>Algonquin D</room>
 <blurb><participant>Mary Lynne Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape, Jeff Pryor</participant> A main character needs to start out annoying, boring, or unappealing. (they have to grow from somewhere!) Your readers say 'ugh' and set your book aside. What's an author to do? How do we avoid this? Examples? </blurb></event>
+<event><title>Inclusivity and Diversity in Tech</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Deb Nicholson, Chioke Mose-Telesford</participant> Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. </blurb></event>
 <event><title>Intro to Microservices</title>
 <topic>Tech</topic>
 <room>Charlevoix B</room>
@@ -890,6 +904,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Jennifer Marsman</participant> Using EEG and Azure Machine Learning to perform lie detection. Today, we have the technology to "read minds" (well, EEG waves!).  Using an EPOC headset from Emotiv, I have captured 14 channels of EEG (brain waves) while subjects lied and answered truthfully to a series of questions.  I fed this labelled dataset into Azure Machine Learning to build a classifier which predicts whether a subject is telling the truth or lying.  In this session, I will share my results on this "lie detector" experiment.  I will show my machine learning models, data cleaning process, results, and next steps/resources. </blurb></event>
+<event><title>Reading/Signing: Michael Cieslak and Nicole Castle</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Michael Cieslak, Nicole Castle</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
 <time>4 PM</time>
 <event><title>Tastes that Taste Great Together</title>
 <topic>Food</topic>
@@ -996,6 +1014,10 @@
 <topic>Gaming</topic>
 <room>Game Table F</room>
 <blurb><participant>Sara Castle</participant> 2-4 players. As the leader of a merchant guild, you invest in mines and recruit the most renowned artisans. Build a commercial empire and receive the visit of wise monarchs to acquire glory and prestige. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Unpublished Prototype: Terracosm</title>
+<topic>Gaming</topic>
+<room>Game Table G</room>
+<blurb><participant>Matt Arnold</participant> 2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Hackforge Demo</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -1012,6 +1034,10 @@
 <topic>Life, Action Adventure</topic>
 <room>Nicolet</room>
 <blurb><participant>David J. Newland</participant> This presentation will focus on how to survive, and maybe even thrive, after a nuclear event, be it a nuclear plant accident, a "dirty bomb" or a nuclear attack, The presentation will involve practical applications of radiation detection instrumentation, contamination and radiation control measures, why the fear of radiation exposure is overblown, and long term strategies for thriving when others have failed. <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>RPG: Roleplay Podcast Game</title>
+<topic>Gaming</topic>
+<room>Podcast Suite (943)</room>
+<blurb><participant>Jody Raiford</participant> Some of the best improv I've ever been part of has been around a gaming table.  We're going to set up recording gear and then run a short gaming session.  The recording will be edited into a radio play that will be made available online right after the con. We'll be using a system that doesn't require any previous knowledge to play. All you need to bring is your willingness to get into character! This is a limited attendance event.  Please sign up in advance at Ops. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Acts of Shameless Self-Promotion</title>
 <topic>Literature</topic>
 <room>Portage</room>
@@ -1073,6 +1099,10 @@
 <topic>After Dark, Media</topic>
 <room>Windover</room>
 <blurb><participant>Jeanette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan</participant> The Smith-ka-teers watch bad movies throughout the year and clip the best worst parts to show our audience. 19 "B Movie" categories (Stupidest Looking Monster? Oh yeah. Acting Appropriately Stupid? Got that too) and five clips per category, the audience decides which clip gets to take home the title of best of the worst. Come for some or come for all. It's free, fun and other F adjectives! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). <duration>3 hours and 50 minutes</duration></blurb></event>
+<event><title>Reading/Signing: Paul Kemner and Jon David</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Paul Kemner, Jon David</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
 <time>7 PM</time>
 <event><title>Introduction to Blues Dancing</title>
 <topic>Action Adventure</topic>
@@ -1447,6 +1477,10 @@
 <topic>DIY, Tech</topic>
 <room>Portage</room>
 <blurb><participant>Chad Sinke</participant> Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss! <duration>1 hour and 50 minutes</duration></blurb></event>
+<event><title>Reading/Signing: Marie Staver</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Marie Staver</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
 <time>12 PM</time>
 <event><title>Preserving the Summer</title>
 <topic>Food</topic>
@@ -1589,6 +1623,10 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Jennifer Marsman</participant> Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. </blurb></event>
+<event><title>Reading/Signing: Rosemary Van Deuren and Clarence "Zig Zag Claybourne" Young</title>
+<topic>Literature</topic>
+<room>Writer's Block (313 & 315)</room>
+<blurb><participant>Rosemary Van Deuren, Clarence "Zig Zag Claybourne" Young</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
 <time>2 PM</time>
 <event><title>Eat Like a Pirate</title>
 <topic>Food</topic>
@@ -1683,59 +1721,4 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>3 PM</time>
-<event><title>Reading/Signing: Michael Cieslak and Nicole Castle</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Michael Cieslak, Nicole Castle</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
-<time>6 PM</time>
-<event><title>Reading/Signing: Paul Kemner and Jon David</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Paul Kemner, Jon David</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
-<day>SUNDAY, May 1</day>
-<time>11 AM</time>
-<event><title>Reading/Signing: Marie Staver</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Marie Staver</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
-<time>1 PM</time>
-<event><title>Reading/Signing: Rosemary Van Deuren and Clarence "Zig Zag Claybourne" Young</title>
-<topic>Literature</topic>
-<room>Writer's Block (313 & 315)</room>
-<blurb><participant>Rosemary Van Deuren, Clarence "Zig Zag Claybourne" Young</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings! </blurb></event>
-<time>4 PM</time>
-<event><title>Charity Raffle</title>
-<topic>Penguicon</topic>
-<room></room>
-<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>3 PM</time>
-<event><title>Inclusivity and Diversity in Tech</title>
-<topic>Tech</topic>
-<room>Charlevoix A</room>
-<blurb><participant>Deb Nicholson, Chioke Mose-Telesford</participant> Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. </blurb></event>
-<time>9 AM</time>
-<event><title>KaffeKlatsch with Catherynne Valente</title>
-<topic>Literature</topic>
-<room>Restaurant</room>
-<blurb><participant>Catherynne Valente</participant> Join Guest of Honor Catherynne Valente for coffee and chatting!  This is a limited attendance event.  Please sign up in advance at Ops. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>10 PM</time>
-<event><title>Unpublished Prototype: Mirage</title>
-<topic>Gaming</topic>
-<room>Game Table F</room>
-<blurb><participant>Matt Arnold</participant> 2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>5 PM</time>
-<event><title>Unpublished Prototype: Terracosm</title>
-<topic>Gaming</topic>
-<room>Game Table G</room>
-<blurb><participant>Matt Arnold</participant> 2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces. <duration>1 hour and 50 minutes</duration></blurb></event>
-<time>4 PM</time>
-<event><title>Photo Booth</title>
-<topic>Penguicon</topic>
-<room>Lobby</room>
-<blurb><participant></participant> Immortalize your awesome memories of Penguicon 2016 in our Photo Booth (located by the main doors across from the Greeter Desk). </blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>

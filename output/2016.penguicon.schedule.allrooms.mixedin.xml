@@ -19,20 +19,15 @@
 <title>MegOperation</title>
 <topic>Gaming</topic>
 <time>4 PM</time></event><event>
-<room>Wandering</room>
-<day>FRIDAY, APRIL 29</day>
-<title>NUET Scouts</title>
-<topic>Mayhem</topic>
-<time>4 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Pengicon Picture Bingo</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
-<room>Wandering</room>
+<room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
-<title>Ribbon Fairies</title>
-<topic>Mayhem</topic>
+<title>Photo Booth</title>
+<topic>Penguicon</topic>
 <time>4 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
@@ -43,6 +38,21 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Pirate Treasure Hunt!</title>
 <topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Wandering</room>
+<day>FRIDAY, APRIL 29</day>
+<title>NUET Scouts</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room>Wandering</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Ribbon Fairies</title>
+<topic>Mayhem</topic>
+<time>4 PM</time></event><event>
+<room></room>
+<day>FRIDAY, APRIL 29</day>
+<title>Charity Raffle</title>
+<topic>Penguicon</topic>
 <time>4 PM</time></event><event>
 <room>321</room>
 <day>FRIDAY, APRIL 29</day>
@@ -424,6 +434,11 @@
 <title>Learn To Play Back To The Future</title>
 <topic>Gaming</topic>
 <time>10 PM</time></event><event>
+<room>Game Table F</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Unpublished Prototype: Mirage</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
 <room>Game Table G</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Zombicide: Black Plague</title>
@@ -488,6 +503,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
+<time>9 AM</time></event><event>
+<room>Restaurant</room>
+<day>SATURDAY, APRIL 30</day>
+<title>KaffeKlatsch with Catherynne Valente</title>
+<topic>Literature</topic>
 <time>9 AM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
@@ -864,11 +884,6 @@
 <title>"Pieces of Eight" Live from Penguicon!</title>
 <topic>Mayhem, Media</topic>
 <time>1 PM</time></event><event>
-<room>Podcast Suite (943)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>RPG: Roleplay Podcast Game</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Tom Smith Concert</title>
@@ -994,6 +1009,11 @@
 <title>Character Problems - What's an Author to Do?</title>
 <topic>Literature</topic>
 <time>3 PM</time></event><event>
+<room>Charlevoix A</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Inclusivity and Diversity in Tech</title>
+<topic>Tech</topic>
+<time>3 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Intro to Microservices</title>
@@ -1083,6 +1103,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Fun with Mind Reading</title>
 <topic>Tech</topic>
+<time>3 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Michael Cieslak and Nicole Castle</title>
+<topic>Literature</topic>
 <time>3 PM</time></event><event>
 <room>1017</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1214,6 +1239,11 @@
 <title>Splendor</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
+<room>Game Table G</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Unpublished Prototype: Terracosm</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
 <room>HackerSpace (317)</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Hackforge Demo</title>
@@ -1233,6 +1263,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Surviving a Nuclear Holocaust</title>
 <topic>Life, Action Adventure</topic>
+<time>5 PM</time></event><event>
+<room>Podcast Suite (943)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>RPG: Roleplay Podcast Game</title>
+<topic>Gaming</topic>
 <time>5 PM</time></event><event>
 <room>Portage</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1308,6 +1343,11 @@
 <day>SATURDAY, APRIL 30</day>
 <title>The Smithee Awards</title>
 <topic>After Dark, Media</topic>
+<time>6 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Reading/Signing: Paul Kemner and Jon David</title>
+<topic>Literature</topic>
 <time>6 PM</time></event><event>
 <room>Algonquin A</room>
 <day>SATURDAY, APRIL 30</day>
@@ -1764,6 +1804,11 @@
 <title>DIY Electric Car Edition 2</title>
 <topic>DIY, Tech</topic>
 <time>11 AM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SUNDAY, May 1</day>
+<title>Reading/Signing: Marie Staver</title>
+<topic>Literature</topic>
+<time>11 AM</time></event><event>
 <room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Preserving the Summer</title>
@@ -1939,6 +1984,11 @@
 <title>Intro to Azure Machine Learning: Predict Who Survives the Titanic</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
+<room>Writer's Block (313 & 315)</room>
+<day>SUNDAY, May 1</day>
+<title>Reading/Signing: Rosemary Van Deuren and Clarence "Zig Zag Claybourne" Young</title>
+<topic>Literature</topic>
+<time>1 PM</time></event><event>
 <room>1017</room>
 <day>SUNDAY, May 1</day>
 <title>Eat Like a Pirate</title>
@@ -2053,54 +2103,4 @@
 <day>SUNDAY, May 1</day>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Michael Cieslak and Nicole Castle</title>
-<topic>Literature</topic>
-<time>3 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Reading/Signing: Paul Kemner and Jon David</title>
-<topic>Literature</topic>
-<time>6 PM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SUNDAY, May 1</day>
-<title>Reading/Signing: Marie Staver</title>
-<topic>Literature</topic>
-<time>11 AM</time></event><event>
-<room>Writer's Block (313 & 315)</room>
-<day>SUNDAY, May 1</day>
-<title>Reading/Signing: Rosemary Van Deuren and Clarence "Zig Zag Claybourne" Young</title>
-<topic>Literature</topic>
-<time>1 PM</time></event><event>
-<room></room>
-<day>FRIDAY, APRIL 29</day>
-<title>Charity Raffle</title>
-<topic>Penguicon</topic>
-<time>4 PM</time></event><event>
-<room>Charlevoix A</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Inclusivity and Diversity in Tech</title>
-<topic>Tech</topic>
-<time>3 PM</time></event><event>
-<room>Restaurant</room>
-<day>SATURDAY, APRIL 30</day>
-<title>KaffeKlatsch with Catherynne Valente</title>
-<topic>Literature</topic>
-<time>9 AM</time></event><event>
-<room>Game Table F</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Unpublished Prototype: Mirage</title>
-<topic>Gaming</topic>
-<time>10 PM</time></event><event>
-<room>Game Table G</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Unpublished Prototype: Terracosm</title>
-<topic>Gaming</topic>
-<time>5 PM</time></event><event>
-<room>Lobby</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Photo Booth</title>
-<topic>Penguicon</topic>
 <time>4 PM</time></event></events>
