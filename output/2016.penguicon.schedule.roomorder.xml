@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<day>All Weekend</day>
-<event><title>Charity Raffle</title>
-<topic>Penguicon</topic>
-<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>8 PM</time>
 <event><title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -93,8 +89,7 @@
 <topic>Science</topic>
 <room>2nd Floor by Elevators</room>
 <blurb><participant></participant> Stretched down a long hall of the hotel is a scale-model of the solar system! At the position of the Sun and orbits of the planets, you will find a poster(with a QR code) with more information on that body. </blurb></event>
-<day>FRIDAY, APRIL 29</day>
-<time>5 PM</time>
+<day>All Weekend</day>
 <event><title>Artemis</title>
 <topic>Penguicon</topic>
 <room>321</room>
@@ -453,6 +448,11 @@
 <topic>Literature</topic>
 <room>Baldwin</room>
 <blurb><participant>Emmy Jackson, Jon David, Janice Leach</participant> Why do so many contemporary YA novels feature a post-apocalyptic setting with teens on a journey across what remains of civilization? What needs to these books fulfill, and has the wave of their popularity already peaked? If so, whats next? </blurb></event>
+<day>FRIDAY, APRIL 29</day>
+<time>4 PM</time>
+<event><title>Charity Raffle</title>
+<topic>Penguicon</topic>
+<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. <duration>00 minutes</duration></blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>9 PM</time>
 <event><title>Intro to Big Data Tools</title>

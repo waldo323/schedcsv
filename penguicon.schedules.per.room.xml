@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<day>All Weekend</day>
-<event>
-<room></room>
-<title>Charity Raffle</title>
-<topic>Penguicon</topic>
-<time>4 PM</time></event><event>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -55,7 +49,9 @@
 <day>SATURDAY, APRIL 30</day>
 <title>Walk the Solar System</title>
 <topic>Science</topic>
-<time>12 PM</time></event><event>
+<time>12 PM</time></event>
+<day>All Weekend</day>
+<event>
 <room>321</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Artemis</title>
@@ -254,6 +250,10 @@
 <title>Teens of the Wasteland</title>
 <topic>Literature</topic>
 <time>2 PM</time></event><event>
+<room>By Registration</room>
+<title>Charity Raffle</title>
+<topic>Penguicon</topic>
+<time>4 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Intro to Big Data Tools</title>

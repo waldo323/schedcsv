@@ -475,7 +475,7 @@ event_end,15:00
 event_type_list,['Penguicon']
 private,PUBLIC
 endtimeampm,3 PM
-Location,
+Location,By Registration
 duration,00 minutes
 description,"Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win."
 index,10
@@ -491,7 +491,7 @@ End Time,15:00
 tracknosp,['Penguicon']
 endday,5/1/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '16:00', '5/1/2016', '15:00', '', 'Penguicon', 'Charity Raffle', '', ""Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win."", '', '', 'TRUE', 'PUBLIC']"
+input,"['4/29/2016', '16:00', '5/1/2016', '15:00', 'By Registration', 'Penguicon', 'Charity Raffle', '', ""Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win."", '', '', 'TRUE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,
 avneeds,none
@@ -505,13 +505,13 @@ AV Needs,
 name,Charity Raffle
 Private,PUBLIC
 bookname,Charity Raffle
-venue,
+venue,By Registration
 Book Description,"Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win."
 Presenters,
 csvsafedescrip,Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity- All Hands Active! Prizes winners will be announced at Closing Ceremonies- and you must be present to win.
 speakernosp,
 starttime,16:00
-roomnosp,Hotel
+roomnosp,ByRegistration
 Start Date,4/29/2016
 descriptionascii,"Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win."
 minutes,00
