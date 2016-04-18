@@ -218,7 +218,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Real-World Pandemic and Deliberate Extinctions: Ending Polio and Guinea Worm</title>
 <topic>Science</topic>
 <room>EMC I</room>
@@ -280,10 +280,6 @@
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Michael Grube</participant> We'll cover the free, open source tools required to create an automated analytics pipeline for whatever data you may be interested in. Specifically, we'll talk about ETL and Analysis with Spark, Hadoop as a data store, and Relational databases.  Students will be provided an example pipeline as well as a fully configured VM to play with. </blurb></event>
-<event><title>Queer Poly Speed Dating</title>
-<topic>After Dark</topic>
-<room>Charlevoix B</room>
-<blurb><participant>Nicole Rohr</participant> Come join us for a speed dating event especially for queer poly people! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). <duration>1 hour and 30 minutes</duration></blurb></event>
 <event><title>Rope Basics: The Bedroom &amp; Beyond</title>
 <topic>After Dark</topic>
 <room>Charlevoix C</room>
@@ -377,10 +373,6 @@
 <topic>Tech</topic>
 <room>Windover</room>
 <blurb><participant>Michael W. Lucas</participant> ZFS, the Zettabyte File System, is one of the most full-featured filesystems available today and gives almost unlimited storage flexibility. Originally created by Sun Microsystems, the independent entity OpenZFS now develops ZFS as deployed in illumos, Linux, and FreeBSD.  This talk takes you through ZFS' features, including: data self-healing, deduplication and compression, clones and snapshots, copy-on-write, boot environments, replication, and more. Once you use ZFS, you'll never understand how you lived without it. </blurb></event>
-<event><title>Poly Speed Dating</title>
-<topic>After Dark</topic>
-<room>Charlevoix B</room>
-<blurb><participant>Nicole Rohr</participant> Polyamory speed dating will help polamorous people of all types get to know each other! This panel is for ages 18+ only. Minors are not allowed (with or without a parent). <duration>1 hour and 50 minutes</duration></blurb></event>
 <time>11 PM</time>
 <event><title>Rope for Decoration and Restraint</title>
 <topic>After Dark</topic>
@@ -409,7 +401,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
@@ -592,7 +584,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Evoking Emotions, Provoking Readers</title>
 <topic>Literature</topic>
 <room>EMC I</room>
@@ -926,7 +918,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
 <event><title>Party Planning</title>
 <topic>Life</topic>
 <room>EMC I</room>
@@ -1341,7 +1333,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
 <event><title>Neurable Demo</title>
 <topic>Science, Tech</topic>
 <room>Demo Table, Maker Market Hallway</room>
@@ -1552,7 +1544,7 @@
 <event><title>Open Computer Lab (Unconference)</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>No Presenter</participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
+<blurb><participant></participant> Open Computer lab utilizing the Unconference philosophy of Open Space Technology. Bring your projects to discuss. Bring your discussions to projects. Attendees may also peruse social media, tweet to #Penguicon, browse the whole internet and get a feel for Linux using one of our 20 laptops. </blurb></event>
 <event><title>BoF: Favorite/Dropped Anime</title>
 <topic>Anime</topic>
 <room>EMC I</room>
