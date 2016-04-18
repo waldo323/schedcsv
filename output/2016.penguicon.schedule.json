@@ -479,7 +479,7 @@
         "end_time": "19:50"
     },
     {
-        "book_description": "Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers. Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with and a selection of kits for sale at dramatically reduced prices compared to retail.",
+        "book_description": "Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers. Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with.",
         "end_date": "4/29/2016",
         "title": "Microprocessor Magic",
         "track": "DIY, Tech",
@@ -3511,7 +3511,7 @@
         "end_time": "17:50"
     },
     {
-        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \"The Traveling Circus,\" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! This workshop will also be offered on Sunday!",
+        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \"The Traveling Circus,\" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! This workshop will also be offered on Sunday! There will be 20 laptops available in the lab. First come, first served.",
         "end_date": "4/30/2016",
         "title": "Grand Circus' Traveling Circus: Intro to Coding ",
         "track": "Tech",
@@ -4395,8 +4395,7 @@
         "track": "Penguicon",
         "start_time": "21:00",
         "presenters": [
-            "DJ Stu",
-            "Stuart Chisholm"
+            "DJ Stu"
         ],
         "location": "Algonquin B/C",
         "minutes": -42970,
@@ -5873,7 +5872,7 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \"The Traveling Circus,\" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! ",
+        "book_description": "We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called \"The Traveling Circus,\" comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! There will be 20 laptops available in the lab. First come, first served.",
         "end_date": "5/1/2016",
         "title": "Grand Circus' Traveling Circus: Intro to Coding ",
         "track": "Tech",
@@ -6105,7 +6104,7 @@
         "end_time": "16:50"
     },
     {
-        "book_description": "Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017!",
+        "book_description": "Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! ",
         "end_date": "5/1/2016",
         "title": "Last Call for Linux",
         "track": "Tech",

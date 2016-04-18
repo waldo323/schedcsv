@@ -137,7 +137,7 @@
 <event><title>Microprocessor Magic</title>
 <topic>DIY, Tech</topic>
 <room>Baldwin</room>
-<blurb><participant>Christopher Bright</participant> Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers. Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with and a selection of kits for sale at dramatically reduced prices compared to retail. </blurb></event>
+<blurb><participant>Christopher Bright</participant> Add movement, color, sound, and interactivity with a tiny computer system designed for artists and designers. Christopher Bright shows us how to use the Arduino microcontroller to take in information and then express it through lights, sounds, or motion. The potential here is limitless. Arduinos have been used to build opensource EEG machines, heart rate monitors, robotic motion controllers. In this workshop you will create a heart-rate sensor that in turn flashes an LED on time. Easy, and very fun. I will have plenty of micro boards on hand for folks to play with. </blurb></event>
 <event><title>Writing Software For Penguicon</title>
 <topic>Tech</topic>
 <room>Charlevoix C</room>
@@ -971,7 +971,7 @@
 <event><title>Grand Circus' Traveling Circus: Intro to Coding</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>Chioke Mose-Telesford, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  "The Traveling Circus," comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Chioke Mose-Telesford, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  "The Traveling Circus," comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own!  This workshop will also be offered on Sunday!  There will be 20 laptops available in the lab. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Forget About Operating System, is the Type of Chip Architecture Still Relevant?</title>
 <topic>Tech</topic>
 <room>EMC I</room>
@@ -1211,7 +1211,7 @@
 <event><title>Geek Prom</title>
 <topic>Penguicon</topic>
 <room>Algonquin B/C</room>
-<blurb><participant>DJ Stu, Stuart Chisholm</participant> It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor. </blurb></event>
+<blurb><participant>DJ Stu</participant> It's time for another EPIC Geek Prom, and this years theme is Heroes and Villains. Dress up as your favorite hero or villain and join us for an even bigger party than last year! Bring your Superman or find your Wonder Woman, and get ready to dance the night away until your legs are Thor. </blurb></event>
 <event><title>Make a Set of Earrings</title>
 <topic>DIY</topic>
 <room>Baldwin</room>
@@ -1621,7 +1621,7 @@
 <event><title>Grand Circus' Traveling Circus: Intro to Coding</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant>Chioke Mose-Telesford, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  "The Traveling Circus," comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Chioke Mose-Telesford, Aisha Blake</participant> We recognize coding can be a bit intimidating. You might have dabbled on the web with some free coding programs, but run into a road-block without the support of an instructor. That's where our Intro to Coding Workshop, lovingly called  "The Traveling Circus," comes in. This is designed for folks who are curious about coding, but who have little to no experience. You'll walk away with some basic programming foundations in Javascript/HTML/CSS to start learning on your own! There will be 20 laptops available in the lab. First come, first served. <duration>1 hour and 50 minutes</duration></blurb></event>
 <event><title>Beyond the Binary</title>
 <topic>Life</topic>
 <room>EMC I</room>
