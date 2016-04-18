@@ -1139,7 +1139,9 @@
         "track": "After Dark",
         "start_time": "21:00",
         "presenters": [
-            "Rabbit"
+            "Rabbit",
+            "Viveka",
+            "Dreaming Alice"
         ],
         "location": "Montcalm",
         "minutes": 50,
@@ -1214,7 +1216,9 @@
         "track": "After Dark",
         "start_time": "22:00",
         "presenters": [
-            "Rabbit"
+            "Rabbit",
+            "Viveka",
+            "Dreaming Alice"
         ],
         "location": "Algonquin A",
         "minutes": 50,
@@ -4680,7 +4684,9 @@
         "track": "After Dark",
         "start_time": "21:00",
         "presenters": [
-            "Rabbit"
+            "Rabbit",
+            "Viveka",
+            "Dreaming Alice"
         ],
         "location": "Hamlin",
         "minutes": 50,
