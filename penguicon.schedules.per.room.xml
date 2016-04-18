@@ -5,13 +5,6 @@
 <title>Charity Raffle</title>
 <topic>Penguicon</topic>
 <time>4 PM</time></event><event>
-<day>NoDay, April 1</day>
-<title>Mirage</title>
-<topic>Gaming</topic>
-<time>4 PM</time></event><event>
-<title>Terracosm</title>
-<topic></topic>
-<time>4 PM</time></event><event>
 <room>1017</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
@@ -316,7 +309,7 @@
 <title>Sharing an Oral History: The Art of Verbal Storytelling</title>
 <topic>Life</topic>
 <time>2 PM</time></event><event>
-<day>FRIDAY, APRIL 29</day>
+<day>SATURDAY, APRIL 30</day>
 <title>Inclusivity and Diversity in Tech</title>
 <topic>Tech</topic>
 <time>3 PM</time></event><event>
@@ -899,6 +892,10 @@
 <title>7 Wonders</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
+<day>FRIDAY, APRIL 29</day>
+<title>Unpublished Prototype: Mirage</title>
+<topic>Gaming</topic>
+<time>10 PM</time></event><event>
 <room>Game Table G</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Spyfall</title>
@@ -926,6 +923,9 @@
 <title>Star Wars: Imperial Assault</title>
 <topic>Gaming</topic>
 <time>8 PM</time></event><event>
+<title>Unpublished Prototype: Terracosm</title>
+<topic>Gaming</topic>
+<time>5 PM</time></event><event>
 <room>Game Table H, Game Table I</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Paint and Take</title>
@@ -1306,6 +1306,7 @@
 <title>Ubuntu Michigan 16.04 Release Party</title>
 <topic>Tech</topic>
 <time>10 PM</time></event><event>
+<day>SATURDAY, APRIL 30</day>
 <title>KaffeKlatsch with Catherynne Valente</title>
 <topic>Literature</topic>
 <time>9 AM</time></event><event>

@@ -6191,7 +6191,7 @@
     },
     {
         "book_description": "Guest of Honor Deb Nicholson and Chioke Mose-Telesford from Grand Circus lead an open discussion to share and discuss strategies and initiatives to increase diversity and inclusivity in tech. ",
-        "end_date": "4/29/2016",
+        "end_date": "4/30/2016",
         "title": "Inclusivity and Diversity in Tech",
         "track": "Tech",
         "start_time": "15:00",
@@ -6201,12 +6201,12 @@
         ],
         "location": "Charlevoix A",
         "minutes": 50,
-        "start_date": "4/29/2016",
+        "start_date": "4/30/2016",
         "end_time": "15:50"
     },
     {
         "book_description": "Join Guest of Honor Catherynne Valente for coffee and chatting! This is a limited attendance event. Please sign up in advance at Ops.",
-        "end_date": "4/29/2016",
+        "end_date": "4/30/2016",
         "title": "KaffeKlatsch with Catherynne Valente",
         "track": "Literature",
         "start_time": "9:00",
@@ -6215,35 +6215,35 @@
         ],
         "location": "Restaurant",
         "minutes": 50,
-        "start_date": "4/29/2016",
+        "start_date": "4/30/2016",
         "end_time": "9:50"
     },
     {
         "book_description": "2-4 players. Lay L-shaped tiles to claim land with camels, and water with ships. When there is a gap into which no tile can ever fit, the player with the most camels or ships attached to the gap will place their tent in it. Place your tents far apart to win. This unpublished prototype will be Kickstarted in February 2017.",
-        "end_date": "",
-        "title": "Mirage",
+        "end_date": "4/29/2016",
+        "title": "Unpublished Prototype: Mirage",
         "track": "Gaming",
-        "start_time": "16:20",
+        "start_time": "22:00",
         "presenters": [
             "Matt Arnold"
         ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
+        "location": "Game Table F",
+        "minutes": 50,
+        "start_date": "4/29/2016",
+        "end_time": "22:50"
     },
     {
-        "book_description": "",
-        "end_date": "",
-        "title": "Terracosm",
-        "track": "",
-        "start_time": "16:20",
+        "book_description": "2-4 players. Arrange your carnivores, herbivores, and plants on the planet to consume your opponents. With careful timing, they'll survive long enough to score points. Players simultaneously select actions, and attempt to alter the order in which actions resolve. An unpublished prototype with gorgeous art and pieces.",
+        "end_date": "4/30/2016",
+        "title": "Unpublished Prototype: Terracosm",
+        "track": "Gaming",
+        "start_time": "17:00",
         "presenters": [
-            ""
+            "Matt Arnold"
         ],
-        "location": "",
-        "minutes": 42,
-        "start_date": "",
-        "end_time": "16:42"
+        "location": "Game Table G",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "18:50"
     }
 ]
