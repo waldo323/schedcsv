@@ -5751,7 +5751,7 @@
         "end_time": "14:50"
     },
     {
-        "book_description": "Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning. ",
+        "book_description": "Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. ",
         "end_date": "5/1/2016",
         "title": "Intro to Azure Machine Learning: Predict Who Survives the Titanic",
         "track": "Tech",

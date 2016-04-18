@@ -18212,10 +18212,10 @@ private,PUBLIC
 endtimeampm,1 PM
 Location,Windover
 duration,50 minutes
-description,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
+description,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
 index,387
 speakers,Jennifer Marsman
-bookdescrip,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
+bookdescrip,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
 Track,Tech
 startday,5/1/2016
 Title,Intro to Azure Machine Learning: Predict Who Survives the Titanic
@@ -18226,7 +18226,7 @@ End Time,13:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Windover', 'Tech', 'Intro to Azure Machine Learning: Predict Who Survives the Titanic', 'Jennifer Marsman', 'Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. I\xe2\x80\x99ll demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You\xe2\x80\x99ll leave knowing how to get started and build your own predictive models using Azure Machine Learning. ', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '13:00', '5/1/2016', '13:50', 'Windover', 'Tech', 'Intro to Azure Machine Learning: Predict Who Survives the Titanic', 'Jennifer Marsman', ""Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. I\xe2\x80\x99ll demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. "", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 End Date,5/1/2016
 calspeakers,Jennifer Marsman
 avneeds,none
@@ -18234,21 +18234,21 @@ speakerlist,['Jennifer Marsman']
 hours,0
 totalminutes,50
 speakernosplist,['JenniferMarsman']
-caldescrip,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning. "
+caldescrip,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. "
 endtime,13:50
 AV Needs,
 name,Intro to Azure Machine Learning: Predict Who Survives the Titanic
 Private,PUBLIC
 bookname,Intro to Azure Machine Learning: Predict Who Survives the Titanic
 venue,Windover
-Book Description,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning. "
+Book Description,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. "
 Presenters,Jennifer Marsman
-csvsafedescrip,Interested in doing machine learning in the cloud? In this talk- I will discuss different types of machine learning (clustering- classification- regression- and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning. 
+csvsafedescrip,Interested in doing machine learning in the cloud? In this talk- I will discuss different types of machine learning (clustering- classification- regression- and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning. 
 speakernosp,JenniferMarsman
 starttime,13:00
 roomnosp,Windover
 Start Date,5/1/2016
-descriptionascii,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). Youll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
+descriptionascii,"Interested in doing machine learning in the cloud? In this talk, I will discuss different types of machine learning (clustering, classification, regression, and anomaly detection) supported by Azure Machine Learning. Ill demonstrate using Azure Machine Learning to build a model which predicts survival of individuals on the Titanic (one of the challenges on the Kaggle website). You'll leave knowing how to get started and build your own predictive models using Azure Machine Learning."
 minutes,50
 allday,FALSE
 event_type,Food
