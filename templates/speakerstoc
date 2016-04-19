@@ -2,6 +2,6 @@ use these links for downloading the actual csv files:
 
 | presenter csv link | more data?  | 
 | ------------- | ------------- |{% for presenter in presenters %}
-| [{{ presenter }}]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/{{ presenter }}.csv ) | . |{% endfor %}
+| [{{ presenter }}]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/{{ presenter }}.csv ) |  |{% endfor %}
 
 
