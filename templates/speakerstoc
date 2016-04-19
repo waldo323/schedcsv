@@ -1,7 +1,5 @@
 use these links for downloading the actual csv files:
 
-use these links for downloading the actual csv files:
-
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/-Ay-hole-AndrewZelasko.csv
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/-Junkhead-JoshuaJankiewicz.csv
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AdamNuwer.csv
@@ -286,8 +284,10 @@ https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/kernelbrandon.csv
 
 testing:
+
 | presenter csv link | more data?  | 
 | ------------- | ------------- |
+
 {% for presenter in presenters %}
 [{{ presenter }}]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/{{ presenter }}.csv )
 {% endfor %}
