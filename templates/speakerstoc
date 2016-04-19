@@ -3,5 +3,5 @@ use these links for downloading the actual csv files:
 | presenter csv link | more data?  | 
 | ------------- | ------------- |
 {% for presenter in presenters %}
-| https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/{{presenter}}.csv | |
+|[{{presenter}}](https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/{{presenter}}.csv) | |
 {% endfor %}
