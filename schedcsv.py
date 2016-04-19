@@ -590,7 +590,7 @@ with open("penguicon.schedule.xml", 'w') as myoutput:
     myoutput.write(testbook)
     
 with open(speakerdir +"README.md", 'w') as myoutput:
-    myoutput.write(testbook)
+    myoutput.write(speakersgithubtoc)
 
 """
 schedule by room
