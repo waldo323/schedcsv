@@ -578,7 +578,7 @@ for index, y in enumerate(sessions):
 
 test = penguicon_tv.render(events=sessions)
 testbook = testbook_template.render(events=sessions)
-speakersgithubtoc = presentersgithubtoc.render(presenters=tocspeakers)
+speakersgithubtoc = presentersgithubtoc.render(presenters=sorted(tocspeakers))
 #for x in sessions:
 #    print x['bookname']
 
