@@ -1,4 +1,4 @@
-use these links for downloading the actual csv file:
+use these links for downloading the actual csv files:
 
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/-Ay-hole-AndrewZelasko.csv
 https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/-Junkhead-JoshuaJankiewicz.csv
