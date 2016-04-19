@@ -14,6 +14,7 @@ env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 web_template = env.get_template('programmingtemplate.html')
 penguicon_tv = env.get_template('penguicon_tv')
 testbook_template = env.get_template('testprogrambook.xml')
+presentersgithubtoc = env.get_template('speakerstoc')
 
 # the purpose of this script is to parse a csv file of events,
 # output the relevant information into useful output files that can be use for
@@ -576,6 +577,7 @@ for index, y in enumerate(sessions):
 
 test = penguicon_tv.render(events=sessions)
 testbook = testbook_template.render(events=sessions)
+speakersgithubtoc = presentersgithubtoc.render(presenters=speakernosplist)
 #for x in sessions:
 #    print x['bookname']
 
@@ -585,6 +587,9 @@ with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
 with open(rp + conyear + ".testingprogrambook.xml", 'w') as myoutput:
     myoutput.write(testbook)
 with open("penguicon.schedule.xml", 'w') as myoutput:
+    myoutput.write(testbook)
+    
+with open(speakerdir +"README.md", 'w') as myoutput:
     myoutput.write(testbook)
 
 """
