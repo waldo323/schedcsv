@@ -26606,7 +26606,7 @@
         "duration": "50 minutes",
         "description": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?",
         "index": 364,
-        "speakers": "Ann Lemay, Scott Kennedy",
+        "speakers": "Ann Lemay, Wendy Carson, John Belden",
         "bookdescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?",
         "Track": "Gaming",
         "startday": "5/1/2016",
@@ -26628,7 +26628,7 @@
             "Algonquin B/C",
             "Gaming",
             "The Family That Games Together",
-            "Ann Lemay, Scott Kennedy",
+            "Ann Lemay, Wendy Carson, John Belden",
             "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?  ",
             "00hr:50min",
             "",
@@ -26636,17 +26636,19 @@
             "PUBLIC"
         ],
         "End Date": "5/1/2016",
-        "calspeakers": "Ann Lemay, Scott Kennedy",
+        "calspeakers": "Ann Lemay, Wendy Carson, John Belden",
         "avneeds": "none",
         "speakerlist": [
             "Ann Lemay",
-            "Scott Kennedy"
+            "Wendy Carson",
+            "John Belden"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "AnnLemay",
-            "ScottKennedy"
+            "WendyCarson",
+            "JohnBelden"
         ],
         "caldescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?  ",
         "endtime": "12:50",
@@ -26656,9 +26658,9 @@
         "bookname": "The Family That Games Together",
         "venue": "Algonquin B/C",
         "Book Description": "How does your family game? Do you use games to communicate and relax as a family? Are games a fun challenge or educational tools, or both? ",
-        "Presenters": "Ann Lemay, Scott Kennedy",
+        "Presenters": "Ann Lemay, Wendy Carson, John Belden",
         "csvsafedescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools- or both?  ",
-        "speakernosp": "AnnLemay,ScottKennedy",
+        "speakernosp": "AnnLemay,WendyCarson,JohnBelden",
         "starttime": "12:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "5/1/2016",
