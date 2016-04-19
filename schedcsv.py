@@ -15,7 +15,7 @@ web_template = env.get_template('programmingtemplate.html')
 penguicon_tv = env.get_template('penguicon_tv')
 testbook_template = env.get_template('testprogrambook.xml')
 presentersgithubtoc = env.get_template('speakerstoc')
-
+tocspeakers = []
 # the purpose of this script is to parse a csv file of events,
 # output the relevant information into useful output files that can be use for
 # a convention.
@@ -506,6 +506,7 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
         if speakernosp != '':
             with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
             #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
+                tocspeakers.append(speakernosp)
                 tempspeakersched.write(calendar_header)
                 tempspeakersched.close()
     for index, y in enumerate(sessions):
@@ -577,7 +578,7 @@ for index, y in enumerate(sessions):
 
 test = penguicon_tv.render(events=sessions)
 testbook = testbook_template.render(events=sessions)
-speakersgithubtoc = presentersgithubtoc.render(presenters=speakernosplist)
+speakersgithubtoc = presentersgithubtoc.render(presenters=tocspeakers)
 #for x in sessions:
 #    print x['bookname']
 
