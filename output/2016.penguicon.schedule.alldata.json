@@ -30767,14 +30767,14 @@
         "allday": "FALSE",
         "event_type": "Mayhem",
         "All Day Event": "FALSE",
-        "event_end": "19:50",
+        "event_end": "21:50",
         "event_type_list": [
             "Mayhem"
         ],
         "private": "PUBLIC",
-        "endtimeampm": "7 PM",
+        "endtimeampm": "9 PM",
         "Location": "Lobby",
-        "duration": "50 minutes",
+        "duration": "1 hour and 50 minutes",
         "description": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
         "index": 421,
         "speakers": "",
@@ -30782,10 +30782,10 @@
         "Track": "Mayhem",
         "startday": "4/30/2016",
         "Title": "Geon's Mean Green Dancing Robosapien Machines",
-        "Start Time": "19:00",
-        "event_start": "19:00",
-        "starttimeampm": "7 PM",
-        "End Time": "19:50",
+        "Start Time": "20:00",
+        "event_start": "20:00",
+        "starttimeampm": "8 PM",
+        "End Time": "21:50",
         "tracknosp": [
             "Mayhem"
         ],
@@ -30793,9 +30793,9 @@
         "dayheader": "SATURDAY, APRIL 30",
         "input": [
             "4/30/2016",
-            "19:00",
+            "20:00",
             "4/30/2016",
-            "19:50",
+            "21:50",
             "Lobby",
             "Mayhem",
             "Geon's Mean Green Dancing Robosapien Machines",
@@ -30812,13 +30812,13 @@
         "speakerlist": [
             ""
         ],
-        "hours": 0,
-        "totalminutes": 50,
+        "hours": 1,
+        "totalminutes": 110,
         "speakernosplist": [
             ""
         ],
         "caldescrip": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
-        "endtime": "19:50",
+        "endtime": "21:50",
         "AV Needs": "",
         "name": "Geon's Mean Green Dancing Robosapien Machines",
         "Private": "PUBLIC",
@@ -30828,7 +30828,7 @@
         "Presenters": "",
         "csvsafedescrip": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand- Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
         "speakernosp": "",
-        "starttime": "19:00",
+        "starttime": "20:00",
         "roomnosp": "Lobby",
         "Start Date": "4/30/2016",
         "descriptionascii": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
