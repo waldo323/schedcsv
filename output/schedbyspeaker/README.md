@@ -49,7 +49,6 @@ use these links for downloading the actual csv files:
 | [ChelseaLiddy]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChelseaLiddy.csv ) |  |
 | [ChiokeMose-Telesford]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChiokeMose-Telesford.csv ) |  |
 | [ChristianKlaver]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChristianKlaver.csv ) |  |
-| [ChristinaBaade]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChristinaBaade.csv ) |  |
 | [ChristinaJune]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChristinaJune.csv ) |  |
 | [ChristinaYork]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChristinaYork.csv ) |  |
 | [ChristineDaigle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ChristineDaigle.csv ) |  |
