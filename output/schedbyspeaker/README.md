@@ -27,6 +27,7 @@ use these links for downloading the actual csv files:
 | [AnnLeckie]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnnLeckie.csv ) |  |
 | [AnnLemay]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnnLemay.csv ) |  |
 | [AnneCahalan]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnneCahalan.csv ) |  |
+| [AnneDrozd]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnneDrozd.csv ) |  |
 | [AnneZanoni]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnneZanoni.csv ) |  |
 | [AnthonyDistel]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnthonyDistel.csv ) |  |
 | [AnthonyRembisz]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AnthonyRembisz.csv ) |  |
