@@ -42,6 +42,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "ByRegistration",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -113,6 +114,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -184,6 +186,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -255,6 +258,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -326,6 +330,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -397,6 +402,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -468,6 +474,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -539,6 +546,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -610,6 +618,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "MysteryLocation",
         "End Date": "5/1/2016",
         "calspeakers": "Rathbone the Pirate",
         "avneeds": "none",
@@ -681,6 +690,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Wandering",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -752,6 +762,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "Wandering",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -823,6 +834,7 @@
             "TRUE",
             "PUBLIC"
         ],
+        "booklocation": "321",
         "End Date": "5/1/2016",
         "calspeakers": "Lansing Maker Network",
         "avneeds": "none",
@@ -894,6 +906,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/29/2016",
         "calspeakers": "Mike SanDiego",
         "avneeds": "none",
@@ -967,6 +980,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableH,GameTableI",
         "End Date": "4/29/2016",
         "calspeakers": "Linda Martelle, Dean Martelle",
         "avneeds": "none",
@@ -1040,6 +1054,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/29/2016",
         "calspeakers": "Susan Sons",
         "avneeds": "none",
@@ -1113,6 +1128,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/29/2016",
         "calspeakers": "Christopher Bright",
         "avneeds": "none",
@@ -1184,6 +1200,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/29/2016",
         "calspeakers": "Hannah Davis",
         "avneeds": "none",
@@ -1255,6 +1272,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/29/2016",
         "calspeakers": "Mitchell Bowling, John Belden",
         "avneeds": "none",
@@ -1328,6 +1346,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/29/2016",
         "calspeakers": "Nuri Gocay, Cylithria Dubois",
         "avneeds": "none",
@@ -1401,6 +1420,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/29/2016",
         "calspeakers": "BluRaven C. Houvener",
         "avneeds": "none",
@@ -1472,6 +1492,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/29/2016",
         "calspeakers": "Ann Leckie, Michael K. Elliot, Steven Saus, Tobias S. Buckell",
         "avneeds": "none",
@@ -1549,6 +1570,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/29/2016",
         "calspeakers": "Derek Newland",
         "avneeds": "none",
@@ -1620,6 +1642,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/29/2016",
         "calspeakers": "Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie Winningham, Ann Lemay, Ann Leckie, Catherynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang",
         "avneeds": "none",
@@ -1719,6 +1742,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/29/2016",
         "calspeakers": "Tom Lawrence",
         "avneeds": "none",
@@ -1792,6 +1816,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "DemoTable,MakerMarketHallway",
         "End Date": "4/29/2016",
         "calspeakers": "Ramses Alcaide",
         "avneeds": "none",
@@ -1863,6 +1888,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/29/2016",
         "calspeakers": "Wendy Carson, John Belden",
         "avneeds": "none",
@@ -1936,6 +1962,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/29/2016",
         "calspeakers": "RainbowRavenX",
         "avneeds": "none",
@@ -2007,6 +2034,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableC",
         "End Date": "4/29/2016",
         "calspeakers": "Eric McGlohon",
         "avneeds": "none",
@@ -2078,6 +2106,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/29/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -2149,6 +2178,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/29/2016",
         "calspeakers": "David Erik Nelson, Michael W. Lucas, Christopher Purrett, Alex Kourvo, Mark Oshiro, Mary Lynne Gibbs",
         "avneeds": "none",
@@ -2230,6 +2260,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/29/2016",
         "calspeakers": "Ian Sterrett, Bob Waltenspiel, Jeremy Myers, Dave Phillips",
         "avneeds": "none",
@@ -2307,6 +2338,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/29/2016",
         "calspeakers": "Kent Newland",
         "avneeds": "none",
@@ -2378,6 +2410,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/29/2016",
         "calspeakers": "Greg Gage",
         "avneeds": "none",
@@ -2449,6 +2482,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/29/2016",
         "calspeakers": "Christian Klaver, David Erik Nelson, Cindy Spencer Pape",
         "avneeds": "none",
@@ -2526,6 +2560,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/29/2016",
         "calspeakers": "Christopher Bright",
         "avneeds": "none",
@@ -2597,6 +2632,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/29/2016",
         "calspeakers": "Matt Arnold",
         "avneeds": "none",
@@ -2668,6 +2704,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/29/2016",
         "calspeakers": "William E. Bowen",
         "avneeds": "none",
@@ -2739,6 +2776,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/29/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -2810,6 +2848,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/29/2016",
         "calspeakers": "Mitch 'Duckman' Peters, Jennifer Reisbig, Katherine Hatfield Nix",
         "avneeds": "none",
@@ -2885,6 +2924,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/29/2016",
         "calspeakers": "Anne Zanoni",
         "avneeds": "none",
@@ -2956,6 +2996,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Westbrook",
         "avneeds": "none",
@@ -3027,6 +3068,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -3100,6 +3142,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/29/2016",
         "calspeakers": "Amal Graafstra, Anita Fowler, Drew Buglione",
         "avneeds": "none",
@@ -3177,6 +3220,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/29/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -3248,6 +3292,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/29/2016",
         "calspeakers": "Scott Favre, Clif Flynt, Janice Leach, Jim Leach, Michael Cieslak",
         "avneeds": "none",
@@ -3327,6 +3372,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "4/29/2016",
         "calspeakers": "Rathbone the Pirate",
         "avneeds": "none",
@@ -3400,6 +3446,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/29/2016",
         "calspeakers": "Tanya DePass, Mark Oshiro",
         "avneeds": "none",
@@ -3473,6 +3520,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/29/2016",
         "calspeakers": "Rinoa Page, BluRaven C. Houvener, Jon David",
         "avneeds": "none",
@@ -3548,6 +3596,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/29/2016",
         "calspeakers": "Dr. Justin Coven",
         "avneeds": "none",
@@ -3621,6 +3670,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/29/2016",
         "calspeakers": "Bob Trembley",
         "avneeds": "none",
@@ -3692,6 +3742,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/29/2016",
         "calspeakers": "Jonathan Weyhrauch, Mikhail Shikhmanov",
         "avneeds": "none",
@@ -3765,6 +3816,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/29/2016",
         "calspeakers": "Ericka S. Kahler",
         "avneeds": "none",
@@ -3836,6 +3888,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/29/2016",
         "calspeakers": "Jessica Roland",
         "avneeds": "none",
@@ -3907,6 +3960,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/29/2016",
         "calspeakers": "Ann Lemay, John Scalzi",
         "avneeds": "none",
@@ -3980,6 +4034,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/29/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -4051,6 +4106,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/29/2016",
         "calspeakers": "Jennifer Hamilton",
         "avneeds": "none",
@@ -4122,6 +4178,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/29/2016",
         "calspeakers": "Cassy Sinke, Alison Chan, Kelly Vanderwell",
         "avneeds": "none",
@@ -4197,6 +4254,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/29/2016",
         "calspeakers": "Richard Houser, Rob Reed, Stuart Chisholm",
         "avneeds": "none",
@@ -4272,6 +4330,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/29/2016",
         "calspeakers": "Christina June",
         "avneeds": "none",
@@ -4343,6 +4402,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA,GameTableB",
         "End Date": "4/29/2016",
         "calspeakers": "Rathbone the Pirate",
         "avneeds": "none",
@@ -4414,6 +4474,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableD",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Westbrook",
         "avneeds": "none",
@@ -4485,6 +4546,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/29/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -4556,6 +4618,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/29/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -4627,6 +4690,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -4698,6 +4762,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/29/2016",
         "calspeakers": "Shetan Noir",
         "avneeds": "none",
@@ -4769,6 +4834,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Mars, Lingjia Tang",
         "avneeds": "none",
@@ -4842,6 +4908,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/29/2016",
         "calspeakers": "Derwood Bowen",
         "avneeds": "none",
@@ -4913,6 +4980,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/29/2016",
         "calspeakers": "Michael W. Lucas",
         "avneeds": "none",
@@ -4984,6 +5052,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/29/2016",
         "calspeakers": "RainbowRavenX",
         "avneeds": "none",
@@ -5055,6 +5124,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/29/2016",
         "calspeakers": "Michael Grube",
         "avneeds": "none",
@@ -5126,6 +5196,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/29/2016",
         "calspeakers": "kernelbrandon",
         "avneeds": "none",
@@ -5197,6 +5268,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Consuite",
         "End Date": "4/29/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -5270,6 +5342,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/29/2016",
         "calspeakers": "Clif Flynt, Steven Saus, Nicole Castle, Robert Kroese, Michael Cieslak",
         "avneeds": "none",
@@ -5349,6 +5422,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/29/2016",
         "calspeakers": "Marie Staver",
         "avneeds": "none",
@@ -5420,6 +5494,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/29/2016",
         "calspeakers": "Jim Leach, Sean M Davis",
         "avneeds": "none",
@@ -5493,6 +5568,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/29/2016",
         "calspeakers": "Bagel Garrison",
         "avneeds": "none",
@@ -5564,6 +5640,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/29/2016",
         "calspeakers": "Bob Brodis",
         "avneeds": "none",
@@ -5635,6 +5712,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/29/2016",
         "calspeakers": "Rabbit, Viveka, Dreaming Alice",
         "avneeds": "none",
@@ -5710,6 +5788,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/29/2016",
         "calspeakers": "Pat Baker",
         "avneeds": "none",
@@ -5781,6 +5860,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Restaurant",
         "End Date": "4/29/2016",
         "calspeakers": "Ann Lemay, Ann Leckie, Catherynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang",
         "avneeds": "none",
@@ -5862,6 +5942,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/29/2016",
         "calspeakers": "Eric S. Raymond",
         "avneeds": "none",
@@ -5933,6 +6014,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/29/2016",
         "calspeakers": "Greg Williams",
         "avneeds": "none",
@@ -6004,6 +6086,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/29/2016",
         "calspeakers": "Rabbit, Viveka, Dreaming Alice",
         "avneeds": "none",
@@ -6079,6 +6162,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/29/2016",
         "calspeakers": "George Allen",
         "avneeds": "none",
@@ -6150,6 +6234,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/29/2016",
         "calspeakers": "Nuri Gocay, Bob Waltenspiel, Dave Phillips, Scott Kennedy, Marie Staver, Jessica Roland, Mark Oshiro",
         "avneeds": "none",
@@ -6233,6 +6318,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Cory Tebo",
         "avneeds": "none",
@@ -6304,6 +6390,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB,GameTableC",
         "End Date": "4/29/2016",
         "calspeakers": "Richard Houser",
         "avneeds": "none",
@@ -6375,6 +6462,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/29/2016",
         "calspeakers": "Matt Arnold",
         "avneeds": "none",
@@ -6446,6 +6534,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/29/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -6517,6 +6606,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/29/2016",
         "calspeakers": "Shannon Marshall, Maggie Maiville",
         "avneeds": "none",
@@ -6590,6 +6680,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -6661,6 +6752,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/29/2016",
         "calspeakers": "Jonathon Hickey, Scott Markwart",
         "avneeds": "none",
@@ -6734,6 +6826,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Restaurant",
         "End Date": "4/29/2016",
         "calspeakers": "Craig Maloney",
         "avneeds": "none",
@@ -6805,6 +6898,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/29/2016",
         "calspeakers": "Michael W. Lucas",
         "avneeds": "none",
@@ -6876,6 +6970,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/29/2016",
         "calspeakers": "kernelbrandon",
         "avneeds": "none",
@@ -6947,6 +7042,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Consuite",
         "End Date": "4/30/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -7020,6 +7116,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -7091,6 +7188,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -7164,6 +7262,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "William E. Bowen",
         "avneeds": "none",
@@ -7235,6 +7334,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -7308,6 +7408,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -7379,6 +7480,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Restaurant",
         "End Date": "4/30/2016",
         "calspeakers": "Catherynne Valente",
         "avneeds": "none",
@@ -7450,6 +7552,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "Stuart Chisholm, Rob Reed",
         "avneeds": "none",
@@ -7523,6 +7626,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Dr. Justin Coven",
         "avneeds": "none",
@@ -7594,6 +7698,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Jer Lance, Dawn Kuczwara",
         "avneeds": "none",
@@ -7667,6 +7772,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Chioke Mose-Telesford, Jennifer Cline",
         "avneeds": "none",
@@ -7740,6 +7846,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Donald Mark Haynes, Douglas Johnson",
         "avneeds": "none",
@@ -7813,6 +7920,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Mike Madigan, Matthew Peach",
         "avneeds": "none",
@@ -7886,6 +7994,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "Gibson Nichols, Daniel Dugan",
         "avneeds": "none",
@@ -7961,6 +8070,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "DemoTable,MakerMarketHallway",
         "End Date": "4/30/2016",
         "calspeakers": "Christina York",
         "avneeds": "none",
@@ -8032,6 +8142,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Paul Kemner, Michael Cieslak",
         "avneeds": "none",
@@ -8105,6 +8216,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Wendy Carson, John Belden",
         "avneeds": "none",
@@ -8180,6 +8292,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Scott Scheraga, Paul Frick, Matthew Carpenter",
         "avneeds": "none",
@@ -8255,6 +8368,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "Erika Wagner, Laura Cascos",
         "avneeds": "none",
@@ -8330,6 +8444,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Greg Gage",
         "avneeds": "none",
@@ -8401,6 +8516,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Bagel Garrison",
         "avneeds": "none",
@@ -8472,6 +8588,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "STeve Andre', Marcus Watts",
         "avneeds": "none",
@@ -8545,6 +8662,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Andrew D Kirch",
         "avneeds": "none",
@@ -8616,6 +8734,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Jacob Dean McGranaghan, Corey Chappell, Garrett Boone",
         "avneeds": "none",
@@ -8691,6 +8810,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Jon David, Alex Kourvo, Christine Daigle",
         "avneeds": "none",
@@ -8766,6 +8886,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Johnathon A. Campbell",
         "avneeds": "none",
@@ -8837,6 +8958,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage",
         "avneeds": "none",
@@ -8914,6 +9036,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Scott Favre",
         "avneeds": "none",
@@ -8985,6 +9108,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Tom Callaway",
         "avneeds": "none",
@@ -9056,6 +9180,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Dave Phillips, Bob Waltenspiel, Nuri Gocay, Karen Hubbard, Shannon Marshall, Maggie Maiville, Jonathon Hickey, Scott Markwart",
         "avneeds": "none",
@@ -9141,6 +9266,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "James Fernandez, Mary Lynne Gibbs, Dave Kilgore",
         "avneeds": "none",
@@ -9218,6 +9344,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "DemoTable,MakerMarketHallway",
         "End Date": "4/30/2016",
         "calspeakers": "Ramses Alcaide",
         "avneeds": "none",
@@ -9289,6 +9416,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Mark Henke",
         "avneeds": "none",
@@ -9360,6 +9488,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Gnora Ford-Lepthien",
         "avneeds": "none",
@@ -9431,6 +9560,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Richard Houser",
         "avneeds": "none",
@@ -9502,6 +9632,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "Kelly Vanderwell",
         "avneeds": "none",
@@ -9573,6 +9704,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -9646,6 +9778,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -9717,6 +9850,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Rinoa Page",
         "avneeds": "none",
@@ -9788,6 +9922,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Ann Lemay, Ann Leckie, Merrie Haskell, Julie Winningham",
         "avneeds": "none",
@@ -9867,6 +10002,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Tom Smith",
         "avneeds": "none",
@@ -9940,6 +10076,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Chad Sinke",
         "avneeds": "none",
@@ -10011,6 +10148,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Michael W. Lucas",
         "avneeds": "none",
@@ -10082,6 +10220,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "John Scalzi, David Klecha",
         "avneeds": "none",
@@ -10155,6 +10294,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "2ndFloorbyElevators",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -10226,6 +10366,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Steven Ostrowski, Tom Lawrence, Britain Woodman",
         "avneeds": "none",
@@ -10303,6 +10444,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Ann Leckie, Jason Mars, Lingjia Tang, Jennifer Marsman",
         "avneeds": "none",
@@ -10382,6 +10524,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/30/2016",
         "calspeakers": "Angie Rush",
         "avneeds": "none",
@@ -10453,6 +10596,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Erika Wagner, Laura Cascos, Chelsea Liddy, Sharon Vinson, Elizabeth 'Biz' Nidjam",
         "avneeds": "none",
@@ -10532,6 +10676,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Emmy Jackson, Krunal Desai",
         "avneeds": "none",
@@ -10605,6 +10750,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -10676,6 +10822,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Merrie Haskell, Cindy Spencer Pape, Ken MacGregor, Catherynne Valente, Mark Oshiro",
         "avneeds": "none",
@@ -10755,6 +10902,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Schwartz, Matt Sweet, Max Issac, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -10834,6 +10982,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "RainbowRavenX",
         "avneeds": "none",
@@ -10905,6 +11054,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
         "avneeds": "none",
@@ -10976,6 +11126,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB",
         "End Date": "4/30/2016",
         "calspeakers": "Rathbone the Pirate",
         "avneeds": "none",
@@ -11047,6 +11198,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -11120,6 +11272,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Yajie Wang",
         "avneeds": "none",
@@ -11191,6 +11344,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Craig Maloney",
         "avneeds": "none",
@@ -11262,6 +11416,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Mike Bernson",
         "avneeds": "none",
@@ -11333,6 +11488,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Maria Dugan, Cassy Sinke, Sal Palland",
         "avneeds": "none",
@@ -11408,6 +11564,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Outside",
         "End Date": "4/30/2016",
         "calspeakers": "Bob Trembley",
         "avneeds": "none",
@@ -11479,6 +11636,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Andrew Zimmerman Jones",
         "avneeds": "none",
@@ -11550,6 +11708,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/1/2016",
         "calspeakers": "Emily Tuesday",
         "avneeds": "none",
@@ -11621,6 +11780,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "Dr. Justin Coven",
         "avneeds": "none",
@@ -11694,6 +11854,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Christina York",
         "avneeds": "none",
@@ -11765,6 +11926,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Tobias S. Buckell, Ferrett Steinmetz, Catherynne Valente, Dave Klecha, Andrew Zimmerman Jones",
         "avneeds": "none",
@@ -11844,6 +12006,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Michael Grube, Steve Dougherty",
         "avneeds": "none",
@@ -11917,6 +12080,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Anne Cahalan",
         "avneeds": "none",
@@ -11988,6 +12152,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Kass Lawrence",
         "avneeds": "none",
@@ -12059,6 +12224,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Shetan Noir",
         "avneeds": "none",
@@ -12130,6 +12296,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Gnora Ford-Lepthien",
         "avneeds": "none",
@@ -12201,6 +12368,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "Steve Gutterman, Randy Bradakis, Matt Arnold, Jer Lance,Amanda Long-Adams, Gini Judd, James Hice",
         "avneeds": "none",
@@ -12283,6 +12451,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
         "avneeds": "none",
@@ -12354,6 +12523,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB",
         "End Date": "4/30/2016",
         "calspeakers": "Timothy Brown",
         "avneeds": "none",
@@ -12425,6 +12595,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableC",
         "End Date": "4/30/2016",
         "calspeakers": "Eric McGlohon, Bryan Snell",
         "avneeds": "none",
@@ -12498,6 +12669,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -12571,6 +12743,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableH,GameTableI",
         "End Date": "4/30/2016",
         "calspeakers": "Linda Martelle, Dean Martelle",
         "avneeds": "none",
@@ -12646,6 +12819,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Amal Graafstra, Anita Fowler, Drew Buglione",
         "avneeds": "none",
@@ -12721,6 +12895,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Donald Mark Haynes, Douglas Johnson",
         "avneeds": "none",
@@ -12794,6 +12969,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Ann Lemay",
         "avneeds": "none",
@@ -12867,6 +13043,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Rathbone the Pirate, Mitch 'Duckman' Peters",
         "avneeds": "none",
@@ -12942,6 +13119,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Tom Smith",
         "avneeds": "none",
@@ -13013,6 +13191,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Susan Sons",
         "avneeds": "none",
@@ -13084,6 +13263,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Haeger, Mary Lynne Gibbs",
         "avneeds": "none",
@@ -13157,6 +13337,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Amy Alice Wright",
         "avneeds": "none",
@@ -13228,6 +13409,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "Jesse Harrison, Anthony Rembisz, Raymond Guzzo",
         "avneeds": "none",
@@ -13303,6 +13485,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Tom Lawrence",
         "avneeds": "none",
@@ -13374,6 +13557,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Clif Flynt",
         "avneeds": "none",
@@ -13445,6 +13629,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Ryan Kather",
         "avneeds": "none",
@@ -13516,6 +13701,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Haeger, Christian Klaver, Ken MacGregor, Christopher Purrett, Janice Leach",
         "avneeds": "none",
@@ -13595,6 +13781,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Kass Lawrence, Crazy Mark, Dave Phillips, Bob Waltenspiel, Karen Hubbard, Scott (Toaden) Maiale, BluRaven C. Houvener, Trooper Isomorph, Trooper Mindtrick",
         "avneeds": "none",
@@ -13682,6 +13869,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "Nick Ristow, Nathan Yost",
         "avneeds": "none",
@@ -13755,6 +13943,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Elizabeth 'Biz' Nidjam, Jerzy Drozd, Anne Drozd",
         "avneeds": "none",
@@ -13830,6 +14019,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Rutherford",
         "avneeds": "none",
@@ -13901,6 +14091,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Schwartz, Matt Sweet, Max Issac, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -13980,6 +14171,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Nikolas Smart",
         "avneeds": "none",
@@ -14051,6 +14243,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -14124,6 +14317,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -14195,6 +14389,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Jay Maynard, Eric S. Raymond, Jon David, Stewart Sternberg, Christine Daigle",
         "avneeds": "none",
@@ -14274,6 +14469,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Maria Dugan, Sal Palland",
         "avneeds": "none",
@@ -14347,6 +14543,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Pat Baker",
         "avneeds": "none",
@@ -14418,6 +14615,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Tom Callaway, Ruth Suehle",
         "avneeds": "none",
@@ -14491,6 +14689,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Alex Kourvo, Ferrett Steinmetz",
         "avneeds": "none",
@@ -14564,6 +14763,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "David Clipner",
         "avneeds": "none",
@@ -14635,6 +14835,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Tobias S. Buckell, Ferrett Steinmetz, Ramses Alcaide",
         "avneeds": "none",
@@ -14710,6 +14911,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/29/2016",
         "calspeakers": "Mary Lynne Gibbs, Paul Kemner, Emmy Jackson, Cindy Spencer Pape, Jeff Pryor",
         "avneeds": "none",
@@ -14789,6 +14991,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Deb Nicholson, Chioke Mose-Telesford",
         "avneeds": "none",
@@ -14862,6 +15065,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Richard Herrell",
         "avneeds": "none",
@@ -14933,6 +15137,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "'Ay-hole' Andrew Zelasko, 'Junkhead' Joshua Jankiewicz, David Herndon, Erica McClain",
         "avneeds": "none",
@@ -15010,6 +15215,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Consuite",
         "End Date": "4/30/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -15085,6 +15291,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "DemoTable,MakerMarketHallway",
         "End Date": "4/30/2016",
         "calspeakers": "Christina York",
         "avneeds": "none",
@@ -15156,6 +15363,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Wendy Carson, John Belden",
         "avneeds": "none",
@@ -15229,6 +15437,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Daniel Dugan, Rathbone the Pirate",
         "avneeds": "none",
@@ -15302,6 +15511,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Bob Trembley, Krunal Desai",
         "avneeds": "none",
@@ -15375,6 +15585,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "Janet Gocay",
         "avneeds": "none",
@@ -15446,6 +15657,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Rutherford",
         "avneeds": "none",
@@ -15517,6 +15729,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB",
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
         "avneeds": "none",
@@ -15588,6 +15801,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -15659,6 +15873,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -15732,6 +15947,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hackerspace317",
         "End Date": "4/30/2016",
         "calspeakers": "David Erik Nelson",
         "avneeds": "none",
@@ -15803,6 +16019,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -15874,6 +16091,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Mark Oshiro, Tanya DePass, Mari Brighe, Scott Kennedy, Sal Palland",
         "avneeds": "none",
@@ -15953,6 +16171,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Cassy Sinke",
         "avneeds": "none",
@@ -16024,6 +16243,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Mike Madigan, Matthew Peach",
         "avneeds": "none",
@@ -16097,6 +16317,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Jennifer Marsman",
         "avneeds": "none",
@@ -16168,6 +16389,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Michael Cieslak, Nicole Castle",
         "avneeds": "none",
@@ -16241,6 +16463,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Cathy Raymond, Eric S. Raymond",
         "avneeds": "none",
@@ -16314,6 +16537,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "Jeannie Arquette, Maurianna Reid, Estaria Arquette",
         "avneeds": "none",
@@ -16393,6 +16617,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "4/30/2016",
         "calspeakers": "Deb Nicholson, Jason Mars, Lingjia Tang, Tobias S. Buckell, Edward L. Platt",
         "avneeds": "none",
@@ -16472,6 +16697,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Merrie Haskell, Ann Leckie, Mary Lynne Gibbs",
         "avneeds": "none",
@@ -16547,6 +16773,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Crazy Mark, Alex Drummer, Justin Coluzzi, Kevin McLeod",
         "avneeds": "none",
@@ -16624,6 +16851,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Alex Kourvo, Jen Haeger, Jim Leach, Catherynne Valente, Jeff Pryor",
         "avneeds": "none",
@@ -16703,6 +16931,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -16774,6 +17003,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Wendy Carson, Mitchell Bowling, Hannah Davis",
         "avneeds": "none",
@@ -16849,6 +17079,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Erika Wagner, Laura Cascos",
         "avneeds": "none",
@@ -16922,6 +17153,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Schwartz, Matt Sweet, Max Issac, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -17001,6 +17233,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -17072,6 +17305,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Richard Herrell",
         "avneeds": "none",
@@ -17143,6 +17377,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Michael W. Lucas",
         "avneeds": "none",
@@ -17214,6 +17449,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Cindy Spencer Pape, Christine Daigle, Stewart Sternberg",
         "avneeds": "none",
@@ -17289,6 +17525,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Amy Alice Wright",
         "avneeds": "none",
@@ -17360,6 +17597,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Tony Bemus",
         "avneeds": "none",
@@ -17431,6 +17669,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Crazy Mark, Alex Drummer, Justin Coluzzi, Kevin McLeod",
         "avneeds": "none",
@@ -17508,6 +17747,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -17581,6 +17821,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Jennifer Marsman, Deb Nicholson, Dawn Kuczwara",
         "avneeds": "none",
@@ -17656,6 +17897,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "Chioke Mose-Telesford, Aisha Blake",
         "avneeds": "none",
@@ -17729,6 +17971,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "William E. Bowen",
         "avneeds": "none",
@@ -17800,6 +18043,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "ConFusion ConCom",
         "avneeds": "none",
@@ -17871,6 +18115,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB,GameTableC",
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
         "avneeds": "none",
@@ -17942,6 +18187,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableD",
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
         "avneeds": "none",
@@ -18013,6 +18259,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/30/2016",
         "calspeakers": "Dave Green",
         "avneeds": "none",
@@ -18084,6 +18331,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -18155,6 +18403,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Matt Arnold",
         "avneeds": "none",
@@ -18228,6 +18477,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Sarah Morris",
         "avneeds": "none",
@@ -18299,6 +18549,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Lady Ana, Professor X",
         "avneeds": "none",
@@ -18372,6 +18623,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Mitch 'Duckman' Peters, Jennifer Reisbig, Katherine Hatfield Nix",
         "avneeds": "none",
@@ -18449,6 +18701,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "David J. Newland",
         "avneeds": "none",
@@ -18520,6 +18773,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "PodcastSuite943",
         "End Date": "4/30/2016",
         "calspeakers": "Jody Raiford",
         "avneeds": "none",
@@ -18591,6 +18845,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Dave Klecha, Michael W. Lucas, Jackie Morgan, Steven Saus",
         "avneeds": "none",
@@ -18668,6 +18923,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Christopher Purrett, Merrie Haskell",
         "avneeds": "none",
@@ -18741,6 +18997,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Amal Graafstra, Anita Fowler, Drew Buglione",
         "avneeds": "none",
@@ -18816,6 +19073,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Ann Leckie",
         "avneeds": "none",
@@ -18887,6 +19145,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Tanya DePass, Ann Lemay, Lingjia Tang, Mark Oshiro, Catherynne Valente, Mari Brighe",
         "avneeds": "none",
@@ -18968,6 +19227,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Elizabeth 'Biz' Nidjam, Zack Kruse",
         "avneeds": "none",
@@ -19041,6 +19301,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Dave Phillips, Bob Waltenspiel",
         "avneeds": "none",
@@ -19114,6 +19375,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Susan Sons",
         "avneeds": "none",
@@ -19187,6 +19449,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "4/30/2016",
         "calspeakers": "Nichole Bulmer-Jones, Branden Coates, Antoni Williams, Alan Patrick",
         "avneeds": "none",
@@ -19264,6 +19527,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB,GameTableC",
         "End Date": "4/30/2016",
         "calspeakers": "David Whitcher",
         "avneeds": "none",
@@ -19335,6 +19599,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/30/2016",
         "calspeakers": "Dave Green",
         "avneeds": "none",
@@ -19408,6 +19673,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Greg Gage",
         "avneeds": "none",
@@ -19479,6 +19745,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Christian Klaver, Robert Kroese, Michael Cieslak, Andrea Johnson, Cindy Spencer Pape",
         "avneeds": "none",
@@ -19558,6 +19825,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Cassy Sinke, Joshua 'Ren' Marshall",
         "avneeds": "none",
@@ -19633,6 +19901,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "4/30/2016",
         "calspeakers": "Jeanette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan",
         "avneeds": "none",
@@ -19710,6 +19979,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Paul Kemner, Jon David",
         "avneeds": "none",
@@ -19783,6 +20053,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "4/30/2016",
         "calspeakers": "Janea Schimmel, Kent Kovac, Maggie Robinson, Ryan Carter",
         "avneeds": "none",
@@ -19860,6 +20131,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Donald Mark Haynes, Jennifer Hamilton, Ramses Alcaide",
         "avneeds": "none",
@@ -19935,6 +20207,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Haeger, Christine Daigle, Stewart Sternberg",
         "avneeds": "none",
@@ -20010,6 +20283,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Edward Fleece",
         "avneeds": "none",
@@ -20081,6 +20355,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Cassy Sinke, BluRaven C. Houvener, Richard Herrell",
         "avneeds": "none",
@@ -20156,6 +20431,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Mike Madigan, Matthew Peach",
         "avneeds": "none",
@@ -20229,6 +20505,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -20300,6 +20577,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Rutherford",
         "avneeds": "none",
@@ -20371,6 +20649,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Krunal Desai",
         "avneeds": "none",
@@ -20442,6 +20721,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "4/30/2016",
         "calspeakers": "Janet Gocay, Kelly Vanderwell",
         "avneeds": "none",
@@ -20515,6 +20795,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA,GameTableB,GameTableC",
         "End Date": "4/30/2016",
         "calspeakers": "Richard Houser",
         "avneeds": "none",
@@ -20586,6 +20867,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableD",
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
         "avneeds": "none",
@@ -20657,6 +20939,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -20730,6 +21013,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -20801,6 +21085,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Shetan Noir",
         "avneeds": "none",
@@ -20872,6 +21157,7 @@
             "FALSE",
             ""
         ],
+        "booklocation": "Lobby",
         "End Date": "4/30/2016",
         "calspeakers": "Rathbone the Pirate",
         "avneeds": "none",
@@ -20943,6 +21229,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Mike Bernson",
         "avneeds": "none",
@@ -21014,6 +21301,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Mars",
         "avneeds": "none",
@@ -21085,6 +21373,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Talley",
         "avneeds": "none",
@@ -21156,6 +21445,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Michael W. Lucas, Ken MacGregor",
         "avneeds": "none",
@@ -21229,6 +21519,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Rathbone the Pirate, David Clipner",
         "avneeds": "none",
@@ -21302,6 +21593,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "4/30/2016",
         "calspeakers": "Clif Flynt, Mark Bernstein, Tom Smith",
         "avneeds": "none",
@@ -21377,6 +21669,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Tanya DePass, Ann Lemay, Jen Talley, Lingjia Tang",
         "avneeds": "none",
@@ -21454,6 +21747,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Wendy Carson",
         "avneeds": "none",
@@ -21525,6 +21819,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Susan Sons, Adam Nuwer",
         "avneeds": "none",
@@ -21598,6 +21893,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Jim Leach, Matt Betts, Sean M Davis, Jessica Roland",
         "avneeds": "none",
@@ -21675,6 +21971,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "4/30/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -21746,6 +22043,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableG",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Sonk",
         "avneeds": "none",
@@ -21817,6 +22115,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Erika Wagner, Laura Cascos",
         "avneeds": "none",
@@ -21890,6 +22189,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "4/30/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -21961,6 +22261,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Craig Maloney",
         "avneeds": "none",
@@ -22032,6 +22333,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "4/30/2016",
         "calspeakers": "Marie Staver",
         "avneeds": "none",
@@ -22103,6 +22405,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "4/30/2016",
         "calspeakers": "Tobias S. Buckell, Mark Oshiro",
         "avneeds": "none",
@@ -22176,6 +22479,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Emily Tuesday",
         "avneeds": "none",
@@ -22247,6 +22551,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "DJ Stu",
         "avneeds": "none",
@@ -22318,6 +22623,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "4/30/2016",
         "calspeakers": "RainbowRavenX",
         "avneeds": "none",
@@ -22389,6 +22695,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Ken MacGregor, Jay Maynard, Dave Klecha, Jeff Pryor",
         "avneeds": "none",
@@ -22466,6 +22773,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo, Catherynne Valente",
         "avneeds": "none",
@@ -22545,6 +22853,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "4/30/2016",
         "calspeakers": "Jen Schwartz, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -22620,6 +22929,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "4/30/2016",
         "calspeakers": "Gibson Nichols",
         "avneeds": "none",
@@ -22691,6 +23001,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "4/30/2016",
         "calspeakers": "Galen Nelson, BluRaven C. Houvener, Jon David",
         "avneeds": "none",
@@ -22766,6 +23077,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableB,GameTableC",
         "End Date": "4/30/2016",
         "calspeakers": "Richard Houser",
         "avneeds": "none",
@@ -22837,6 +23149,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableD",
         "End Date": "4/30/2016",
         "calspeakers": "Bryan Snell",
         "avneeds": "none",
@@ -22908,6 +23221,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "4/30/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -22981,6 +23295,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "4/30/2016",
         "calspeakers": "Jason Kridner, James Hice",
         "avneeds": "none",
@@ -23054,6 +23369,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Rabbit, Viveka, Dreaming Alice",
         "avneeds": "none",
@@ -23129,6 +23445,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Christina June",
         "avneeds": "none",
@@ -23200,6 +23517,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Outside",
         "End Date": "4/30/2016",
         "calspeakers": "Bob Trembley",
         "avneeds": "none",
@@ -23271,6 +23589,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "4/30/2016",
         "calspeakers": "Scott Markwart, Steve Licavoli",
         "avneeds": "none",
@@ -23344,6 +23663,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "4/30/2016",
         "calspeakers": "Ian Sterrett, Jeremy Myers",
         "avneeds": "none",
@@ -23417,6 +23737,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "4/30/2016",
         "calspeakers": "Shannon Marshall, Maggie Maiville",
         "avneeds": "none",
@@ -23490,6 +23811,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "4/30/2016",
         "calspeakers": "RainbowRavenX",
         "avneeds": "none",
@@ -23561,6 +23883,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "4/30/2016",
         "calspeakers": "Jillian Hawkins, Darek Hawkins, Ciaran Kingans, Ash Sexton, David Chase",
         "avneeds": "none",
@@ -23640,6 +23963,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "4/30/2016",
         "calspeakers": "Lawrence Kapture",
         "avneeds": "none",
@@ -23711,6 +24035,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "4/30/2016",
         "calspeakers": "Mark Oshiro",
         "avneeds": "none",
@@ -23782,6 +24107,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Consuite",
         "End Date": "5/1/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -23855,6 +24181,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "Mitchell Bowling",
         "avneeds": "none",
@@ -23926,6 +24253,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "PodcastSuite943",
         "End Date": "5/1/2016",
         "calspeakers": "Tony Bemus, Mary Tomich, Tom Lawrence",
         "avneeds": "none",
@@ -24003,6 +24331,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "5/1/2016",
         "calspeakers": "Derek Newland",
         "avneeds": "none",
@@ -24074,6 +24403,7 @@
             "FALSE",
             ""
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Paul Kemner, Ericka S. Kahler, Eric S. Raymond, Michael K. Elliot",
         "avneeds": "none",
@@ -24151,6 +24481,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "5/1/2016",
         "calspeakers": "Daniel Franke",
         "avneeds": "none",
@@ -24222,6 +24553,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "5/1/2016",
         "calspeakers": "Michael Rometty",
         "avneeds": "none",
@@ -24293,6 +24625,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "5/1/2016",
         "calspeakers": "Ann Leckie, Tobias S. Buckell, Christian Klaver, Sal Palland, Michael Cieslak",
         "avneeds": "none",
@@ -24372,6 +24705,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -24445,6 +24779,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "DemoTable,MakerMarketHallway",
         "End Date": "5/1/2016",
         "calspeakers": "Ramses Alcaide",
         "avneeds": "none",
@@ -24516,6 +24851,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "5/1/2016",
         "calspeakers": "Michael W. Lucas, Jen Haeger, Christopher Purrett, Alex Kourvo, Robert Kroese",
         "avneeds": "none",
@@ -24595,6 +24931,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "5/1/2016",
         "calspeakers": "Dr. Justin Coven",
         "avneeds": "none",
@@ -24666,6 +25003,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableA",
         "End Date": "5/1/2016",
         "calspeakers": "Andy Malone",
         "avneeds": "none",
@@ -24739,6 +25077,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "5/1/2016",
         "calspeakers": "Amal Graafstra, Anita Fowler, Drew Buglione",
         "avneeds": "none",
@@ -24816,6 +25155,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "5/1/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -24887,6 +25227,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "5/1/2016",
         "calspeakers": "Wendy Carson, Hannah Davis, John Belden",
         "avneeds": "none",
@@ -24962,6 +25303,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "5/1/2016",
         "calspeakers": "Mitchell Bowling",
         "avneeds": "none",
@@ -25033,6 +25375,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "5/1/2016",
         "calspeakers": "Jonathon Hickey",
         "avneeds": "none",
@@ -25104,6 +25447,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "5/1/2016",
         "calspeakers": "Scott (Toaden) Maiale, Christina June, Crazy Mark",
         "avneeds": "none",
@@ -25179,6 +25523,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "5/1/2016",
         "calspeakers": "William R. Stolpin",
         "avneeds": "none",
@@ -25250,6 +25595,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Jim Leach, Andrea Johnson, Stewart Sternberg, Nicole Castle",
         "avneeds": "none",
@@ -25327,6 +25673,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "5/1/2016",
         "calspeakers": "Tanya DePass, Mark Oshiro, Christina York, Rinoa Page",
         "avneeds": "none",
@@ -25408,6 +25755,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "5/1/2016",
         "calspeakers": "Christopher Bright",
         "avneeds": "none",
@@ -25479,6 +25827,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "5/1/2016",
         "calspeakers": "Kristoffer Marshall",
         "avneeds": "none",
@@ -25550,6 +25899,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "5/1/2016",
         "calspeakers": "Donald Mark Haynes, Douglas Johnson",
         "avneeds": "none",
@@ -25623,6 +25973,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "5/1/2016",
         "calspeakers": "Jen Schwartz, Matt Sweet, Max Issac, Mari Brighe, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -25704,6 +26055,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "5/1/2016",
         "calspeakers": "Bob Trembley, Daniel Dugan",
         "avneeds": "none",
@@ -25777,6 +26129,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Consuite",
         "End Date": "5/1/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -25850,6 +26203,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "5/1/2016",
         "calspeakers": "Chelsea Liddy, Sharon Vinson",
         "avneeds": "none",
@@ -25923,6 +26277,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "5/1/2016",
         "calspeakers": "Richard Houser",
         "avneeds": "none",
@@ -25996,6 +26351,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "5/1/2016",
         "calspeakers": "Craig Hibbard",
         "avneeds": "none",
@@ -26067,6 +26423,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableC",
         "End Date": "5/1/2016",
         "calspeakers": "Eric McGlohon",
         "avneeds": "none",
@@ -26138,6 +26495,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableD",
         "End Date": "5/1/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -26211,6 +26569,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "5/1/2016",
         "calspeakers": "James Hice, John D. Bell",
         "avneeds": "none",
@@ -26284,6 +26643,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "5/1/2016",
         "calspeakers": "Cylithria Dubois",
         "avneeds": "none",
@@ -26355,6 +26715,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "5/1/2016",
         "calspeakers": "Catherynne Valente",
         "avneeds": "none",
@@ -26428,6 +26789,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "5/1/2016",
         "calspeakers": "Chad Sinke",
         "avneeds": "none",
@@ -26499,6 +26861,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "5/1/2016",
         "calspeakers": "Marie Staver",
         "avneeds": "none",
@@ -26570,6 +26933,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "5/1/2016",
         "calspeakers": "Emily Tuesday",
         "avneeds": "none",
@@ -26641,6 +27005,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "5/1/2016",
         "calspeakers": "Taqqee Khabir",
         "avneeds": "none",
@@ -26712,6 +27077,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Ann Lemay, Wendy Carson, John Belden, Jeremy Leonard",
         "avneeds": "none",
@@ -26789,6 +27155,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "5/1/2016",
         "calspeakers": "Clif Flynt, Sean M Davis",
         "avneeds": "none",
@@ -26862,6 +27229,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "5/1/2016",
         "calspeakers": "Susan Sons",
         "avneeds": "none",
@@ -26933,6 +27301,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "5/1/2016",
         "calspeakers": "Mark Henke",
         "avneeds": "none",
@@ -27004,6 +27373,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "5/1/2016",
         "calspeakers": "Ramses Alcaide",
         "avneeds": "none",
@@ -27075,6 +27445,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "5/1/2016",
         "calspeakers": "Jon David, Ferrett Steinmetz, Michael K. Elliot, Sal Palland, Michael Cieslak",
         "avneeds": "none",
@@ -27154,6 +27525,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "5/1/2016",
         "calspeakers": "Clay Dowling",
         "avneeds": "none",
@@ -27225,6 +27597,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -27296,6 +27669,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "5/1/2016",
         "calspeakers": "Ryan Kather",
         "avneeds": "none",
@@ -27367,6 +27741,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "5/1/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -27438,6 +27813,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "5/1/2016",
         "calspeakers": "BluRaven C. Houvener, Cassy Sinke",
         "avneeds": "none",
@@ -27511,6 +27887,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "5/1/2016",
         "calspeakers": "Elizabeth 'Biz' Nidjam, Jen Talley, Ruth Suehle",
         "avneeds": "none",
@@ -27586,6 +27963,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "5/1/2016",
         "calspeakers": "Michael W. Lucas",
         "avneeds": "none",
@@ -27657,6 +28035,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "5/1/2016",
         "calspeakers": "Emmy Jackson, David Erik Nelson",
         "avneeds": "none",
@@ -27730,6 +28109,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "5/1/2016",
         "calspeakers": "Kristoffer Marshall",
         "avneeds": "none",
@@ -27801,6 +28181,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Emmy Jackson, Jackie Morgan, Scott Favre, Mark Oshiro",
         "avneeds": "none",
@@ -27878,6 +28259,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "5/1/2016",
         "calspeakers": "Matt Atkins",
         "avneeds": "none",
@@ -27949,6 +28331,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "5/1/2016",
         "calspeakers": "BluRaven C. Houvener, Crystal Mielcarek, Emily Zelasko",
         "avneeds": "none",
@@ -28024,6 +28407,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "5/1/2016",
         "calspeakers": "Deb Nicholson",
         "avneeds": "none",
@@ -28095,6 +28479,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "5/1/2016",
         "calspeakers": "Matt Arnold, Edward L. Platt, Kevin O'Brien, Zach Blagg, Dana Nelson (Moderator)",
         "avneeds": "none",
@@ -28174,6 +28559,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixC",
         "End Date": "5/1/2016",
         "calspeakers": "Sarah Elkins, Phil Salkie",
         "avneeds": "none",
@@ -28247,6 +28633,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -28318,6 +28705,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -28389,6 +28777,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCIV",
         "End Date": "5/1/2016",
         "calspeakers": "Zhuang Zi",
         "avneeds": "none",
@@ -28460,6 +28849,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -28531,6 +28921,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableC",
         "End Date": "5/1/2016",
         "calspeakers": "Eric McGlohon",
         "avneeds": "none",
@@ -28602,6 +28993,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableE",
         "End Date": "5/1/2016",
         "calspeakers": "Steve Benson",
         "avneeds": "none",
@@ -28673,6 +29065,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableF",
         "End Date": "5/1/2016",
         "calspeakers": "Sara Castle",
         "avneeds": "none",
@@ -28746,6 +29139,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "GameTableH,GameTableI",
         "End Date": "5/1/2016",
         "calspeakers": "Linda Martelle, Dean Martelle",
         "avneeds": "none",
@@ -28819,6 +29213,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "5/1/2016",
         "calspeakers": "Wendy Carson, John Belden",
         "avneeds": "none",
@@ -28892,6 +29287,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Lobby",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
@@ -28963,6 +29359,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "5/1/2016",
         "calspeakers": "Daniel Dugan, Maria Dugan",
         "avneeds": "none",
@@ -29036,6 +29433,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "5/1/2016",
         "calspeakers": "Scott (Toaden) Maiale, Gabrielle Gamache-Nettles, Dave Kilgore",
         "avneeds": "none",
@@ -29111,6 +29509,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "5/1/2016",
         "calspeakers": "Jennifer Marsman",
         "avneeds": "none",
@@ -29182,6 +29581,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Writer'sBlock315 316",
         "End Date": "5/1/2016",
         "calspeakers": "Rosemary Van Deuren, Clarence 'Zig Zag Claybourne' Young",
         "avneeds": "none",
@@ -29255,6 +29655,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "517",
         "End Date": "5/1/2016",
         "calspeakers": "Rathbone the Pirate, David Clipner",
         "avneeds": "none",
@@ -29328,6 +29729,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "5/1/2016",
         "calspeakers": "William E. Bowen",
         "avneeds": "none",
@@ -29399,6 +29801,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Christina York, Scott Favre",
         "avneeds": "none",
@@ -29472,6 +29875,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "5/1/2016",
         "calspeakers": "Paul Kemner, Ericka S. Kahler, Eric S. Raymond, Andrew Zimmerman Jones",
         "avneeds": "none",
@@ -29549,6 +29953,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Baldwin",
         "End Date": "5/1/2016",
         "calspeakers": "Emmy Jackson, Jon David, Janice Leach",
         "avneeds": "none",
@@ -29624,6 +30029,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixA",
         "End Date": "5/1/2016",
         "calspeakers": "Jer Lance, Dawn Kuczwara",
         "avneeds": "none",
@@ -29697,6 +30103,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "CharlevoixB",
         "End Date": "5/1/2016",
         "calspeakers": "Matthew G. Switlik",
         "avneeds": "none",
@@ -29768,6 +30175,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "5/1/2016",
         "calspeakers": "Chioke Mose-Telesford, Aisha Blake",
         "avneeds": "none",
@@ -29841,6 +30249,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCI",
         "End Date": "5/1/2016",
         "calspeakers": "Jen Schwartz, Matt Sweet, Max Issac, Allison Demars, Ryan Souder",
         "avneeds": "none",
@@ -29920,6 +30329,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "5/1/2016",
         "calspeakers": "Christina June, Galen Nelson",
         "avneeds": "none",
@@ -29993,6 +30403,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCV",
         "End Date": "5/1/2016",
         "calspeakers": "Gnora Ford-Lepthien",
         "avneeds": "none",
@@ -30066,6 +30477,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "5/1/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -30137,6 +30549,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Hamlin",
         "End Date": "5/1/2016",
         "calspeakers": "Anthony Distel",
         "avneeds": "none",
@@ -30208,6 +30621,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Montcalm",
         "End Date": "5/1/2016",
         "calspeakers": "Mike Birdsall",
         "avneeds": "none",
@@ -30279,6 +30693,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Windover",
         "End Date": "5/1/2016",
         "calspeakers": "Michael W. Lucas, Autumn Mahoney, John D. Bell",
         "avneeds": "none",
@@ -30354,6 +30769,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinA",
         "End Date": "5/1/2016",
         "calspeakers": "Adrienne Johnson (Kalika)",
         "avneeds": "none",
@@ -30425,6 +30841,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinD",
         "End Date": "5/1/2016",
         "calspeakers": "Edward L. Platt",
         "avneeds": "none",
@@ -30496,6 +30913,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "EMCII",
         "End Date": "5/1/2016",
         "calspeakers": "Dave Phillips, Bob Waltenspiel",
         "avneeds": "none",
@@ -30571,6 +30989,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "HackerSpace317",
         "End Date": "5/1/2016",
         "calspeakers": "All Hands Active",
         "avneeds": "none",
@@ -30642,6 +31061,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Nicolet",
         "End Date": "5/1/2016",
         "calspeakers": "Sam Boyer",
         "avneeds": "none",
@@ -30713,6 +31133,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "Portage",
         "End Date": "5/1/2016",
         "calspeakers": "BluRaven C. Houvener, Gabrielle Gamache-Nettles",
         "avneeds": "none",
@@ -30786,6 +31207,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "AlgonquinBC",
         "End Date": "5/1/2016",
         "calspeakers": "Scott Kennedy, Daniel Dugan, Nuri Gocay, Cylithria Dubois, Amanda Long-Adams, Amanda Robinson, Miranda Webster, Jessica Roland, Julie Winningham, Ann Lemay, Ann Leckie, Catherynne Valente, Deb Nicholson, Jason Mars, Lingjia Tang",
         "avneeds": "none",
@@ -30885,6 +31307,7 @@
             "FALSE",
             "PUBLIC"
         ],
+        "booklocation": "ComputerLabEMCIII",
         "End Date": "5/1/2016",
         "calspeakers": "",
         "avneeds": "none",
