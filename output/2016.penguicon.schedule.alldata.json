@@ -26606,7 +26606,7 @@
         "duration": "50 minutes",
         "description": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?",
         "index": 364,
-        "speakers": "Ann Lemay, Wendy Carson, John Belden",
+        "speakers": "Ann Lemay, Wendy Carson, John Belden, Jeremy Leonard",
         "bookdescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?",
         "Track": "Gaming",
         "startday": "5/1/2016",
@@ -26628,7 +26628,7 @@
             "Algonquin B/C",
             "Gaming",
             "The Family That Games Together",
-            "Ann Lemay, Wendy Carson, John Belden",
+            "Ann Lemay, Wendy Carson, John Belden, Jeremy Leonard",
             "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?  ",
             "00hr:50min",
             "",
@@ -26636,19 +26636,21 @@
             "PUBLIC"
         ],
         "End Date": "5/1/2016",
-        "calspeakers": "Ann Lemay, Wendy Carson, John Belden",
+        "calspeakers": "Ann Lemay, Wendy Carson, John Belden, Jeremy Leonard",
         "avneeds": "none",
         "speakerlist": [
             "Ann Lemay",
             "Wendy Carson",
-            "John Belden"
+            "John Belden",
+            "Jeremy Leonard"
         ],
         "hours": 0,
         "totalminutes": 50,
         "speakernosplist": [
             "AnnLemay",
             "WendyCarson",
-            "JohnBelden"
+            "JohnBelden",
+            "JeremyLeonard"
         ],
         "caldescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools, or both?  ",
         "endtime": "12:50",
@@ -26658,9 +26660,9 @@
         "bookname": "The Family That Games Together",
         "venue": "Algonquin B/C",
         "Book Description": "How does your family game? Do you use games to communicate and relax as a family? Are games a fun challenge or educational tools, or both? ",
-        "Presenters": "Ann Lemay, Wendy Carson, John Belden",
+        "Presenters": "Ann Lemay, Wendy Carson, John Belden, Jeremy Leonard",
         "csvsafedescrip": "How does your family game? Do you use games to communicate and relax as a family?  Are games a fun challenge or educational tools- or both?  ",
-        "speakernosp": "AnnLemay,WendyCarson,JohnBelden",
+        "speakernosp": "AnnLemay,WendyCarson,JohnBelden,JeremyLeonard",
         "starttime": "12:00",
         "roomnosp": "AlgonquinBC",
         "Start Date": "5/1/2016",

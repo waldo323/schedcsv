@@ -143,6 +143,7 @@ use these links for downloading the actual csv files:
 | [JenniferMarsman]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenniferMarsman.csv ) |  |
 | [JenniferReisbig]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenniferReisbig.csv ) |  |
 | [JerLance]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JerLance.csv ) |  |
+| [JeremyLeonard]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JeremyLeonard.csv ) |  |
 | [JeremyMyers]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JeremyMyers.csv ) |  |
 | [JerzyDrozd]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JerzyDrozd.csv ) |  |
 | [JesseHarrison]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JesseHarrison.csv ) |  |
