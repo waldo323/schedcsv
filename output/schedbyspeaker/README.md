@@ -137,7 +137,6 @@ use these links for downloading the actual csv files:
 | [JenHaeger]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenHaeger.csv ) |  |
 | [JenSchwartz]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenSchwartz.csv ) |  |
 | [JenTalley]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenTalley.csv ) |  |
-| [JennHaeger]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JennHaeger.csv ) |  |
 | [JenniferCline]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenniferCline.csv ) |  |
 | [JenniferHamilton]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenniferHamilton.csv ) |  |
 | [JenniferMarsman]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JenniferMarsman.csv ) |  |
