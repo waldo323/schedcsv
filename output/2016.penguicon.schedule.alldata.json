@@ -22364,7 +22364,7 @@
         "duration": "50 minutes",
         "description": "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
         "index": 306,
-        "speakers": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo",
+        "speakers": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo, Catherynne Valente",
         "bookdescrip": "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
         "Track": "Literature",
         "startday": "4/30/2016",
@@ -22386,7 +22386,7 @@
             "Charlevoix C",
             "Literature",
             "SF/F Madlibs",
-            "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo",
+            "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo, Catherynne Valente",
             "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
             "00hr:50min",
             "",
@@ -22394,13 +22394,14 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo",
+        "calspeakers": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo, Catherynne Valente",
         "avneeds": "none",
         "speakerlist": [
             "Andrea Johnson",
             "Jackie Morgan",
             "Jen Haeger",
-            "Alex Kourvo"
+            "Alex Kourvo",
+            "Catherynne Valente"
         ],
         "hours": 0,
         "totalminutes": 50,
@@ -22408,7 +22409,8 @@
             "AndreaJohnson",
             "JackieMorgan",
             "JenHaeger",
-            "AlexKourvo"
+            "AlexKourvo",
+            "CatherynneValente"
         ],
         "caldescrip": "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
         "endtime": "21:50",
@@ -22418,9 +22420,9 @@
         "bookname": "SF/F Madlibs",
         "venue": "Charlevoix C",
         "Book Description": "Enjoy science fiction, fantasy, and pop culture Mad-libs created by our panelists. Offer up some interesting nouns, adj, verbs and adverbs and be prepared to laugh your head off!",
-        "Presenters": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo",
+        "Presenters": "Andrea Johnson, Jackie Morgan, Jen Haeger, Alex Kourvo, Catherynne Valente",
         "csvsafedescrip": "Enjoy science fiction- fantasy- and pop culture Mad-libs created by our panelists. Offer up some interesting nouns- adj- verbs and adverbs and be prepared to laugh your head off!",
-        "speakernosp": "AndreaJohnson,JackieMorgan,JenHaeger,AlexKourvo",
+        "speakernosp": "AndreaJohnson,JackieMorgan,JenHaeger,AlexKourvo,CatherynneValente",
         "starttime": "21:00",
         "roomnosp": "CharlevoixC",
         "Start Date": "4/30/2016",
