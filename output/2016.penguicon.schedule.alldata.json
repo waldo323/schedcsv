@@ -22951,7 +22951,7 @@
         "duration": "1 hour and 50 minutes",
         "description": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips.",
         "index": 314,
-        "speakers": "Jason Kridner",
+        "speakers": "Jason Kridner, James Hice",
         "bookdescrip": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips.",
         "Track": "DIY, Tech",
         "startday": "4/30/2016",
@@ -22974,7 +22974,7 @@
             "HackerSpace (317)",
             "DIY, Tech",
             "Everything and Anything with BeagleBone",
-            "Jason Kridner",
+            "Jason Kridner, James Hice",
             "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
             "01hr:50min",
             "",
@@ -22982,15 +22982,17 @@
             "PUBLIC"
         ],
         "End Date": "4/30/2016",
-        "calspeakers": "Jason Kridner",
+        "calspeakers": "Jason Kridner, James Hice",
         "avneeds": "none",
         "speakerlist": [
-            "Jason Kridner"
+            "Jason Kridner",
+            "James Hice"
         ],
         "hours": 1,
         "totalminutes": 110,
         "speakernosplist": [
-            "JasonKridner"
+            "JasonKridner",
+            "JamesHice"
         ],
         "caldescrip": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
         "endtime": "22:50",
@@ -23000,9 +23002,9 @@
         "bookname": "Everything and Anything with BeagleBone",
         "venue": "HackerSpace (317)",
         "Book Description": "Explore the high-performance, low-power world with the tiny, affordable, open-source Beagles at Penguicon. Putting Android, Ubuntu and other Linux flavors at your fingertips. ",
-        "Presenters": "Jason Kridner",
+        "Presenters": "Jason Kridner, James Hice",
         "csvsafedescrip": "Explore the high-performance- low-power world with the tiny- affordable- open-source Beagles at Penguicon. Putting Android- Ubuntu and other Linux flavors at your fingertips. ",
-        "speakernosp": "JasonKridner",
+        "speakernosp": "JasonKridner,JamesHice",
         "starttime": "21:00",
         "roomnosp": "HackerSpace317",
         "Start Date": "4/30/2016",
