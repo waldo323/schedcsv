@@ -283,9 +283,12 @@ for index, x in enumerate(pconsched.schedule):
             if temproom == '':
                 temproom = "Hotel"
             session['roomnosp'] = temproom
+            tempbookroom = replace_all(temproom, {"&":" "})
+            session['booklocation'] = tempbookroom
             if fieldtext not in rooms:
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
+            
         if  (field == "Presenters"):
             session['speakers'] = \
                 re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
