@@ -1,5 +1,19 @@
 [
     {
+        "book_description": "Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win.",
+        "end_date": "5/1/2016",
+        "title": "Charity Raffle",
+        "track": "Penguicon",
+        "start_time": "16:00",
+        "presenters": [
+            ""
+        ],
+        "location": "By Registration",
+        "minutes": -40380,
+        "start_date": "4/29/2016",
+        "end_time": "15:00"
+    },
+    {
         "book_description": "This customizable marble roller coaster is a perennial favorite, serving as a metaphor for the open source development process. The Chaos Machine is available all weekend for Penguicon attendees to tinker with!",
         "end_date": "5/1/2016",
         "title": "Chaos Machine",
@@ -135,20 +149,6 @@
             ""
         ],
         "location": "Wandering",
-        "minutes": -40380,
-        "start_date": "4/29/2016",
-        "end_time": "15:00"
-    },
-    {
-        "book_description": "Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win.",
-        "end_date": "5/1/2016",
-        "title": "Charity Raffle",
-        "track": "Penguicon",
-        "start_time": "16:00",
-        "presenters": [
-            ""
-        ],
-        "location": "By Registration",
         "minutes": -40380,
         "start_date": "4/29/2016",
         "end_time": "15:00"
@@ -4458,6 +4458,20 @@
         "end_time": "20:50"
     },
     {
+        "book_description": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
+        "end_date": "4/30/2016",
+        "title": "Geon's Mean Green Dancing Robosapien Machines",
+        "track": "Mayhem",
+        "start_time": "20:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Lobby",
+        "minutes": 110,
+        "start_date": "4/30/2016",
+        "end_time": "21:50"
+    },
+    {
         "book_description": "Why a machine I never owned is one of my favorite retro computers. In the 1980s Sinclair Research introduced a series of computers: the ZX80, ZX81, and ZX Spectrum. Originally released in the United Kingdom, they were inexpensive, somewhat unreliable, and vastly underpowered compared with the competition. Yet Craig spent the last few years collecting for this machine. Why? Should these machines be relegated as mere curiosities of a forgotten age? Has Craig gone completely mental? Come learn the history of the Sinclair machines, their foray into the USA market via Timex, and see why these machines deserve more attention than they received. ",
         "end_date": "4/30/2016",
         "title": "Sinclair ZX Computers",
@@ -5869,6 +5883,20 @@
         "end_time": "13:50"
     },
     {
+        "book_description": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
+        "end_date": "5/1/2016",
+        "title": "Geon's Mean Green Dancing Robosapien Machines",
+        "track": "Mayhem",
+        "start_time": "13:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Lobby",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "13:50"
+    },
+    {
         "book_description": "A snapshot of the last 12 months of E-Nable the Future, the 3d-printed arm clearinghouse charity that Penguicon highlighted last year. What has happened between Penguicon 2015 and 2016? What is coming up next? Bring your questions and ideas!",
         "end_date": "5/1/2016",
         "title": "E-Nable Update",
@@ -6281,33 +6309,5 @@
         "minutes": 50,
         "start_date": "5/1/2016",
         "end_time": "16:50"
-    },
-    {
-        "book_description": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
-        "end_date": "4/30/2016",
-        "title": "Geon's Mean Green Dancing Robosapien Machines",
-        "track": "Mayhem",
-        "start_time": "20:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Lobby",
-        "minutes": 110,
-        "start_date": "4/30/2016",
-        "end_time": "21:50"
-    },
-    {
-        "book_description": "They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!!",
-        "end_date": "5/1/2016",
-        "title": "Geon's Mean Green Dancing Robosapien Machines",
-        "track": "Mayhem",
-        "start_time": "13:00",
-        "presenters": [
-            ""
-        ],
-        "location": "Lobby",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "13:50"
     }
 ]

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <day>All Weekend</day>
+<event><title>Charity Raffle</title>
+<topic>Penguicon</topic>
+<room>By Registration</room>
+<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. <duration>00 minutes</duration></blurb></event>
+<day>All Weekend</day>
 <event><title>Chaos Machine</title>
 <topic>Mayhem</topic>
 <room>Lobby</room>
@@ -49,11 +54,6 @@
 <topic>Mayhem</topic>
 <room>Wandering</room>
 <blurb><participant></participant> Look out for the Ribbon Fairies! If you find them, you can trade them a ribbon for a ribbon! <duration>00 minutes</duration></blurb></event>
-<day>All Weekend</day>
-<event><title>Charity Raffle</title>
-<topic>Penguicon</topic>
-<room>By Registration</room>
-<blurb><participant></participant> Stop by the Charity Raffle table (by Ops and Registration) and purchase a raffle ticket or bid for some amazing prizes (we'll have them on display) in support of our charity, All Hands Active! Prizes winners will be announced at Closing Ceremonies, and you must be present to win. <duration>00 minutes</duration></blurb></event>
 <day>All Weekend</day>
 <event><title>Artemis</title>
 <topic>Penguicon</topic>
@@ -1783,6 +1783,12 @@
 <blurb><participant>Erika Wagner, Laura Cascos</participant> Did you catch Part 1 (of 3) of the amazing Erika Wagner and Laura Cascos's Webcomics 101 panel? If you did...awesome! If you didn't...off to detention for you! Before you go to detention though, be sure to catch part 2 and learn about logistics and their importance in the Webcomic medium! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>8 PM</time>
+<event><title>Geon's Mean Green Dancing Robosapien Machines</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!! <duration>1 hour and 50 minutes</duration></blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>8 PM</time>
 <event><title>Sinclair ZX Computers</title>
 <topic>Tech</topic>
 <room>Nicolet</room>
@@ -2353,6 +2359,12 @@
 <blurb><participant>Wendy Carson, John Belden</participant> Do you have a great costume idea but can't find a pattern or the ability to make it? I have some great advice and techniques that will help you get through it all. We will spend more time addressing specific questions and needs of the audience in a hands-on way. Part 2 of 2, attendance of Part 1 is not required. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>1 PM</time>
+<event><title>Geon's Mean Green Dancing Robosapien Machines</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!! </blurb></event>
+<day>SUNDAY, May 1</day>
+<time>1 PM</time>
 <event><title>E-Nable Update</title>
 <topic>Tech</topic>
 <room>Montcalm</room>
@@ -2512,16 +2524,4 @@
 <event><title>Last Call for Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab (EMC III)</room>
-<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>8 PM</time>
-<event><title>Geon's Mean Green Dancing Robosapien Machines</title>
-<topic>Mayhem</topic>
-<room>Lobby</room>
-<blurb><participant></participant> They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!! <duration>1 hour and 50 minutes</duration></blurb></event>
-<day>SUNDAY, May 1</day>
-<time>1 PM</time>
-<event><title>Geon's Mean Green Dancing Robosapien Machines</title>
-<topic>Mayhem</topic>
-<room>Lobby</room>
-<blurb><participant></participant> They're Mean! They're Green! They're Dancing Machines! And they're back for Penguicon 2016! Back by popular demand, Geon's Mean Green Dancing Robosapien Machines are making their annual appearance! Come dance with them! Take pictures!! Take videos!! You'll be PO-PU-LAR!!! </blurb></event></events>
+<blurb><participant></participant> Last Call for Linux. Catch up with old and new friends as the laptops are boxed up until Penguicon 2017! </blurb></event></events>

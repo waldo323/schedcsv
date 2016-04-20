@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
+<room>By Registration</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Charity Raffle</title>
+<topic>Penguicon</topic>
+<time>4 PM</time></event><event>
 <room>Lobby</room>
 <day>FRIDAY, APRIL 29</day>
 <title>Chaos Machine</title>
@@ -48,11 +53,6 @@
 <day>FRIDAY, APRIL 29</day>
 <title>Ribbon Fairies</title>
 <topic>Mayhem</topic>
-<time>4 PM</time></event><event>
-<room>By Registration</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Charity Raffle</title>
-<topic>Penguicon</topic>
 <time>4 PM</time></event><event>
 <room>321</room>
 <day>FRIDAY, APRIL 29</day>
@@ -1494,6 +1494,11 @@
 <title>Webcomics 101: Logistics</title>
 <topic>Comics</topic>
 <time>8 PM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Geon's Mean Green Dancing Robosapien Machines</title>
+<topic>Mayhem</topic>
+<time>8 PM</time></event><event>
 <room>Nicolet</room>
 <day>SATURDAY, APRIL 30</day>
 <title>Sinclair ZX Computers</title>
@@ -1969,6 +1974,11 @@
 <title>Cosplay Hacks Part 2</title>
 <topic>Costuming</topic>
 <time>1 PM</time></event><event>
+<room>Lobby</room>
+<day>SUNDAY, May 1</day>
+<title>Geon's Mean Green Dancing Robosapien Machines</title>
+<topic>Mayhem</topic>
+<time>1 PM</time></event><event>
 <room>Montcalm</room>
 <day>SUNDAY, May 1</day>
 <title>E-Nable Update</title>
@@ -2103,14 +2113,4 @@
 <day>SUNDAY, May 1</day>
 <title>Last Call for Linux</title>
 <topic>Tech</topic>
-<time>4 PM</time></event><event>
-<room>Lobby</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Geon's Mean Green Dancing Robosapien Machines</title>
-<topic>Mayhem</topic>
-<time>8 PM</time></event><event>
-<room>Lobby</room>
-<day>SUNDAY, May 1</day>
-<title>Geon's Mean Green Dancing Robosapien Machines</title>
-<topic>Mayhem</topic>
-<time>1 PM</time></event></events>
+<time>4 PM</time></event></events>
