@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><event>
-<room>1017</room>
+<room>2nd Floor by Elevators</room>
+<day>SATURDAY, APRIL 30</day>
+<title>Walk the Solar System</title>
+<topic>Science</topic>
+<time>12 PM</time></event>
+<day>All Weekend</day>
+<event>
+<room>321</room>
+<day>FRIDAY, APRIL 29</day>
+<title>Artemis</title>
+<topic>Penguicon</topic>
+<time>5 PM</time></event><event>
+<room>517</room>
 <day>FRIDAY, APRIL 29</day>
 <title>So Fresh, (Not) So Clean; Getting Dirty Making Soap.</title>
 <topic>DIY</topic>
@@ -45,18 +57,6 @@
 <title>Eat Like a Pirate</title>
 <topic>Food</topic>
 <time>2 PM</time></event><event>
-<room>2nd Floor by Elevators</room>
-<day>SATURDAY, APRIL 30</day>
-<title>Walk the Solar System</title>
-<topic>Science</topic>
-<time>12 PM</time></event>
-<day>All Weekend</day>
-<event>
-<room>321</room>
-<day>FRIDAY, APRIL 29</day>
-<title>Artemis</title>
-<topic>Penguicon</topic>
-<time>5 PM</time></event><event>
 <room>Algonquin A</room>
 <day>FRIDAY, APRIL 29</day>
 <title>I know Kung Fu</title>
