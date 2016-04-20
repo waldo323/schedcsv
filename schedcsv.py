@@ -283,7 +283,7 @@ for index, x in enumerate(pconsched.schedule):
             if temproom == '':
                 temproom = "Hotel"
             session['roomnosp'] = temproom
-            tempbookroom = replace_all(session['venue'], {"&":" "})
+            tempbookroom = replace_all(session['venue'], {"&":" ","  ":" "})
             session['booklocation'] = tempbookroom
             if fieldtext not in rooms:
               rooms.append(fieldtext)
