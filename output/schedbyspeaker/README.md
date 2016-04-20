@@ -232,7 +232,6 @@ use these links for downloading the actual csv files:
 | [RaymondGuzzo]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RaymondGuzzo.csv ) |  |
 | [RichardHerrell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RichardHerrell.csv ) |  |
 | [RichardHouser]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RichardHouser.csv ) |  |
-| [RickHouser]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RickHouser.csv ) |  |
 | [RinoaPage]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RinoaPage.csv ) |  |
 | [RobReed]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RobReed.csv ) |  |
 | [RobertKroese]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RobertKroese.csv ) |  |
