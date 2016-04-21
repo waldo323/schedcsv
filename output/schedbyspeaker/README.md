@@ -93,6 +93,7 @@ use these links for downloading the actual csv files:
 | [Dr.JustinCoven]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Dr.JustinCoven.csv ) |  |
 | [DreamingAlice]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DreamingAlice.csv ) |  |
 | [DrewBuglione]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DrewBuglione.csv ) |  |
+| [DrewFustini]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DrewFustini.csv ) |  |
 | [EdwardFleece]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardFleece.csv ) |  |
 | [EdwardL.Platt]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardL.Platt.csv ) |  |
 | [Elizabeth-Biz-Nidjam]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Elizabeth-Biz-Nidjam.csv ) |  |
