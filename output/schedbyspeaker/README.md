@@ -240,7 +240,7 @@ use these links for downloading the actual csv files:
 | [RyanKather]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RyanKather.csv ) |  |
 | [RyanSouder]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RyanSouder.csv ) |  |
 | [STeveAndre']( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/STeveAndre'.csv ) |  |
-| [SalPalland]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/SalPalland.csv ) |  |
+| [SalathielPalland]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/SalathielPalland.csv ) |  |
 | [SamBoyer]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/SamBoyer.csv ) |  |
 | [SaraCastle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/SaraCastle.csv ) |  |
 | [SarahElkins]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/SarahElkins.csv ) |  |
