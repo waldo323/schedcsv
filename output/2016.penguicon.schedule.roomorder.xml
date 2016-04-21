@@ -1676,7 +1676,7 @@
 <event><title>Open Demos by BeagleBone, Dangerous Things and All Hands Active</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant></participant> Live demos and highlights for of this weekend's events as the Penguicon Hackerspace spins up for the weekend! <duration>3 hours and 50 minutes</duration></blurb></event>
+<blurb><participant></participant> Live demos and highlights for of this weekend's events as the Penguicon HackerSpace spins up for the weekend! <duration>3 hours and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>9 AM</time>
 <event><title>Hands on Soldering and Embedded Programming with All Hands Active</title>
@@ -1700,7 +1700,7 @@
 <event><title>i3 Vinyl Tshirts</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>Yajie Wang</participant> i3's Vinyl cutter and Heat Press (shirt press &amp; Mug Press) is coming to Penguicon's Hackerspace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software "Sure Cuts A Lot". Its straightforward and interesting! <duration>1 hour and 50 minutes</duration></blurb></event>
+<blurb><participant>Yajie Wang</participant> i3's Vinyl cutter and Heat Press (shirt press &amp; Mug Press) is coming to Penguicon's HackerSpace! Transfer from a image to sticker, from a sticker to an awesome decoration on your shirt or mug! Please bring a shirt (cotton with polyester or 100% cotton) or mug with you (shirts and mugs will not be provided)! i3 will also demonstrate the basic functions of our new software "Sure Cuts A Lot". Its straightforward and interesting! <duration>1 hour and 50 minutes</duration></blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>1 PM</time>
 <event><title>Dangerous Things RFID Implanations</title>
@@ -1713,6 +1713,12 @@
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
 <blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
+<day>SATURDAY, APRIL 30</day>
+<time>3 PM</time>
+<event><title>Demo Build of the Single-Chip Space Invader Synth</title>
+<topic>DIY, Tech</topic>
+<room>HackerSpace (317)</room>
+<blurb><participant>David Erik Nelson</participant> The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live on stage and raffles off the working synth at the end! </blurb></event>
 <day>SATURDAY, APRIL 30</day>
 <time>5 PM</time>
 <event><title>Hackforge Demo</title>
@@ -1763,16 +1769,10 @@
 <blurb><participant>All Hands Active</participant> Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges. </blurb></event>
 <day>SUNDAY, May 1</day>
 <time>3 PM</time>
-<event><title>Farewell to the Hackerspace</title>
+<event><title>Farewell to the HackerSpace</title>
 <topic>DIY, Tech</topic>
 <room>HackerSpace (317)</room>
-<blurb><participant>All Hands Active</participant> Say goodbye to your favorite All Hands Active members as the Hackerspace closes up for Penguicon 2016. </blurb></event>
-<day>SATURDAY, APRIL 30</day>
-<time>3 PM</time>
-<event><title>Demo Build of the Single-Chip Space Invader Synth</title>
-<topic>DIY, Tech</topic>
-<room>Hackerspace (317)</room>
-<blurb><participant>David Erik Nelson</participant> The Single-Chip Space Invader Synth is a simple knob-controlled sound synthesizer with a straightforward design, low part-count, and high degree of chiptuney awesomeness. Come chat with author David Erik Nelson as he builds one live on stage and raffles off the working synth at the end! </blurb></event>
+<blurb><participant>All Hands Active</participant> Say goodbye to your favorite All Hands Active members as the HackerSpace closes up for Penguicon 2016. </blurb></event>
 <day>FRIDAY, APRIL 29</day>
 <time>5 PM</time>
 <event><title>How To Be Civilized Online</title>
