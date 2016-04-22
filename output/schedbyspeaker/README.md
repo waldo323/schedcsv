@@ -271,8 +271,6 @@ use these links for downloading the actual csv files:
 | [TomLawrence]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/TomLawrence.csv ) |  |
 | [TomSmith]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/TomSmith.csv ) |  |
 | [TonyBemus]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/TonyBemus.csv ) |  |
-| [TrooperIsomorph]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/TrooperIsomorph.csv ) |  |
-| [TrooperMindtrick]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/TrooperMindtrick.csv ) |  |
 | [Viveka]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Viveka.csv ) |  |
 | [WendyCarson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/WendyCarson.csv ) |  |
 | [WilliamE.Bowen]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/WilliamE.Bowen.csv ) |  |
