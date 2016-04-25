@@ -6829,7 +6829,7 @@ Location,Baldwin
 duration,5 hours and 50 minutes
 description,"Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!"
 index,142
-speakers,Angie Rush
+speakers,"Angie Rush, Les Orchard, Brit Burke"
 bookdescrip,"Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!"
 Track,"Penguicon, Gaming"
 startday,4/30/2016
@@ -6841,15 +6841,15 @@ End Time,17:50
 tracknosp,"['Penguicon', 'Gaming']"
 endday,4/30/2016
 dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '17:50', 'Baldwin', 'Penguicon, Gaming', 'Retrogaming', 'Angie Rush', 'Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!', '05hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/30/2016', '12:00', '4/30/2016', '17:50', 'Baldwin', 'Penguicon, Gaming', 'Retrogaming', 'Angie Rush, Les Orchard, Brit Burke', 'Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!', '05hr:50min', '', 'FALSE', 'PUBLIC']"
 booklocation,Baldwin
 End Date,4/30/2016
-calspeakers,Angie Rush
+calspeakers,"Angie Rush, Les Orchard, Brit Burke"
 avneeds,none
-speakerlist,['Angie Rush']
+speakerlist,"['Angie Rush', 'Les Orchard', 'Brit Burke']"
 hours,5
 totalminutes,350
-speakernosplist,['AngieRush']
+speakernosplist,"['AngieRush', 'LesOrchard', 'BritBurke']"
 caldescrip,"Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!"
 endtime,17:50
 AV Needs,
@@ -6858,9 +6858,9 @@ Private,PUBLIC
 bookname,Retrogaming
 venue,Baldwin
 Book Description,"Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between, join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!"
-Presenters,Angie Rush
+Presenters,"Angie Rush, Les Orchard, Brit Burke"
 csvsafedescrip,Join us for Retro Gaming! Including systems from Atari to Game Cube and (almost) everything in between- join us for four hours of reliving your childhood! Enter our Mario Party 4 Tournament and win a retro system to take home!
-speakernosp,AngieRush
+speakernosp,"AngieRush,LesOrchard,BritBurke"
 starttime,12:00
 roomnosp,Baldwin
 Start Date,4/30/2016

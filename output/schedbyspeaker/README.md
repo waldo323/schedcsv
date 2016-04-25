@@ -40,6 +40,7 @@ use these links for downloading the actual csv files:
 | [BobTrembley]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BobTrembley.csv ) |  |
 | [BobWaltenspiel]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BobWaltenspiel.csv ) |  |
 | [BrandenCoates]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BrandenCoates.csv ) |  |
+| [BritBurke]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BritBurke.csv ) |  |
 | [BritainWoodman]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BritainWoodman.csv ) |  |
 | [BryanSnell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BryanSnell.csv ) |  |
 | [CassySinke]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/CassySinke.csv ) |  |
@@ -174,6 +175,7 @@ use these links for downloading the actual csv files:
 | [LansingMakerNetwork]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LansingMakerNetwork.csv ) |  |
 | [LauraCascos]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LauraCascos.csv ) |  |
 | [LawrenceKapture]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LawrenceKapture.csv ) |  |
+| [LesOrchard]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LesOrchard.csv ) |  |
 | [LindaMartelle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LindaMartelle.csv ) |  |
 | [LingjiaTang]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LingjiaTang.csv ) |  |
 | [MaggieMaiville]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MaggieMaiville.csv ) |  |
