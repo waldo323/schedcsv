@@ -1499,7 +1499,7 @@ Location,Algonquin A
 duration,1 hour and 50 minutes
 description,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 index,31
-speakers,Kent Newland
+speakers,David J. Newland
 bookdescrip,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 Track,Action Adventure
 startday,4/29/2016
@@ -1511,15 +1511,15 @@ End Time,20:50
 tracknosp,['ActionAdventure']
 endday,4/29/2016
 dayheader,"FRIDAY, APRIL 29"
-input,"['4/29/2016', '19:00', '4/29/2016', '20:50', 'Algonquin A', 'Action Adventure', 'Open Source Martial Arts', 'Kent Newland', 'There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['4/29/2016', '19:00', '4/29/2016', '20:50', 'Algonquin A', 'Action Adventure', 'Open Source Martial Arts', 'David J. Newland', 'There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!', '01hr:50min', '', 'FALSE', 'PUBLIC']"
 booklocation,Algonquin A
 End Date,4/29/2016
-calspeakers,Kent Newland
+calspeakers,David J. Newland
 avneeds,none
-speakerlist,['Kent Newland']
+speakerlist,['David J. Newland']
 hours,1
 totalminutes,110
-speakernosplist,['KentNewland']
+speakernosplist,['DavidJ.Newland']
 caldescrip,"There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles!  Traditional, non-traditional, all are welcome here!"
 endtime,20:50
 AV Needs,
@@ -1528,9 +1528,9 @@ Private,PUBLIC
 bookname,Open Source Martial Arts
 venue,Algonquin A
 Book Description,"There are a great many martial artists here at Penguicon! Come on down and work on some problem solving together! Learn about the similarities and differences between European, Chinese, Japanese, Filipino, Indonesian, Malaysian, and all other martial arts styles! Traditional, non-traditional, all are welcome here!"
-Presenters,Kent Newland
+Presenters,David J. Newland
 csvsafedescrip,There are a great many martial artists here at Penguicon!  Come on down and work on some problem solving together!  Learn about the similarities and differences between European- Chinese- Japanese- Filipino- Indonesian- Malaysian- and all other martial arts styles!  Traditional- non-traditional- all are welcome here!
-speakernosp,KentNewland
+speakernosp,DavidJ.Newland
 starttime,19:00
 roomnosp,AlgonquinA
 Start Date,4/29/2016

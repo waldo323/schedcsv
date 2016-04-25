@@ -165,7 +165,6 @@ use these links for downloading the actual csv files:
 | [KellyVanderwell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KellyVanderwell.csv ) |  |
 | [KenMacGregor]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KenMacGregor.csv ) |  |
 | [KentKovac]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KentKovac.csv ) |  |
-| [KentNewland]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KentNewland.csv ) |  |
 | [KevinHogan]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KevinHogan.csv ) |  |
 | [KevinMcLeod]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KevinMcLeod.csv ) |  |
 | [KevinO'Brien]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/KevinO'Brien.csv ) |  |
