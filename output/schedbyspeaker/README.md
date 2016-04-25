@@ -279,6 +279,5 @@ use these links for downloading the actual csv files:
 | [YajieWang]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/YajieWang.csv ) |  |
 | [ZachBlagg]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ZachBlagg.csv ) |  |
 | [ZackKruse]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ZackKruse.csv ) |  |
-| [ZhuangZi]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ZhuangZi.csv ) |  |
 | [kernelbrandon]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/kernelbrandon.csv ) |  |
 
