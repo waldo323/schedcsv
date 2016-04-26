@@ -17779,7 +17779,7 @@ event_end,12:50
 event_type_list,['Science']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Charlevoix B
+Location,Windover
 duration,50 minutes
 description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 index,370
@@ -17795,8 +17795,8 @@ End Time,12:50
 tracknosp,['Science']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix B', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-booklocation,Charlevoix B
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Windover', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+booklocation,Windover
 End Date,5/1/2016
 calspeakers,Ramses Alcaide
 avneeds,none
@@ -17810,13 +17810,13 @@ AV Needs,
 name,Neurable: The Next Evolution of Brain-Computer Interfaces
 Private,PUBLIC
 bookname,Neurable: The Next Evolution of Brain-Computer Interfaces
-venue,Charlevoix B
+venue,Windover
 Book Description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality and virtual reality (AR/VR) environments."
 Presenters,Ramses Alcaide
 csvsafedescrip,One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However- current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications- creating new ways for people to interact with the world- enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.
 speakernosp,RamsesAlcaide
 starttime,12:00
-roomnosp,CharlevoixB
+roomnosp,Windover
 Start Date,5/1/2016
 descriptionascii,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 minutes,50
@@ -18163,7 +18163,7 @@ event_end,12:50
 event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Windover
+Location,Charlevoix B
 duration,50 minutes
 description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 index,378
@@ -18179,8 +18179,8 @@ End Time,12:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Windover', 'Tech', 'BSD Operating Systems in 2016', 'Michael W. Lucas', ""The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-booklocation,Windover
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix B', 'Tech', 'BSD Operating Systems in 2016', 'Michael W. Lucas', ""The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+booklocation,Charlevoix B
 End Date,5/1/2016
 calspeakers,Michael W. Lucas
 avneeds,none
@@ -18194,13 +18194,13 @@ AV Needs,
 name,BSD Operating Systems in 2016
 Private,PUBLIC
 bookname,BSD Operating Systems in 2016
-venue,Windover
+venue,Charlevoix B
 Book Description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 Presenters,Michael W. Lucas
 csvsafedescrip,The BSD family of Unix has a been kicking around for almost 40 years now- and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD- OpenBSD- plus updates from NetBSD- Dragonfly- and assorted derivatives.
 speakernosp,MichaelW.Lucas
 starttime,12:00
-roomnosp,Windover
+roomnosp,CharlevoixB
 Start Date,5/1/2016
 descriptionascii,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 minutes,50
