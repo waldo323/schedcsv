@@ -153,7 +153,6 @@ use these links for downloading the actual csv files:
 | [JohnBelden]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JohnBelden.csv ) |  |
 | [JohnD.Bell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JohnD.Bell.csv ) |  |
 | [JohnScalzi]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JohnScalzi.csv ) |  |
-| [JohnathonA.Campbell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JohnathonA.Campbell.csv ) |  |
 | [JonDavid]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JonDavid.csv ) |  |
 | [JonathanWeyhrauch]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JonathanWeyhrauch.csv ) |  |
 | [JonathonHickey]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JonathonHickey.csv ) |  |
