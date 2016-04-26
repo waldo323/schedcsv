@@ -1,1 +1,13 @@
-{{      {{{{Firstname}} {{Lastname2}}
+{% for presenter in presenters %}
+{{firstname}} {{lastname}}
+{% for ... %}
+Title: {{title}}
+Time: {{starttime}} {{startdate}} - {{endtime}} {{enddate}}
+Location: {{locationname}}
+
+{% endfor %}
+
+-----page-end-----
+
+{% endfor %}
+
