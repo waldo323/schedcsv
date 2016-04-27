@@ -19848,7 +19848,7 @@ Location,Windover
 duration,50 minutes
 description,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
 index,413
-speakers,"Michael W. Lucas, Autumn Mahoney, John D. Bell"
+speakers,"Michael W. Lucas, Jeff Marracini, John D. Bell"
 bookdescrip,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
 Track,Tech
 startday,5/1/2016
@@ -19860,15 +19860,15 @@ End Time,14:50
 tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '14:00', '5/1/2016', '14:50', 'Windover', 'Tech', 'Senior Sysadmins Panel', 'Michael W. Lucas, Autumn Mahoney, John D. Bell', ""Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+input,"['5/1/2016', '14:00', '5/1/2016', '14:50', 'Windover', 'Tech', 'Senior Sysadmins Panel', 'Michael W. Lucas, Jeff Marracini, John D. Bell', ""Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
 booklocation,Windover
 End Date,5/1/2016
-calspeakers,"Michael W. Lucas, Autumn Mahoney, John D. Bell"
+calspeakers,"Michael W. Lucas, Jeff Marracini, John D. Bell"
 avneeds,none
-speakerlist,"['Michael W. Lucas', 'Autumn Mahoney', 'John D. Bell']"
+speakerlist,"['Michael W. Lucas', 'Jeff Marracini', 'John D. Bell']"
 hours,0
 totalminutes,50
-speakernosplist,"['MichaelW.Lucas', 'AutumnMahoney', 'JohnD.Bell']"
+speakernosplist,"['MichaelW.Lucas', 'JeffMarracini', 'JohnD.Bell']"
 caldescrip,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
 endtime,14:50
 AV Needs,
@@ -19877,9 +19877,9 @@ Private,PUBLIC
 bookname,Senior Sysadmins Panel
 venue,Windover
 Book Description,"Some say systems administration is a young man's game, and that eventually sysadmins rise into management. They're wrong. A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering, take advantage of their experience, and laugh at their pain."
-Presenters,"Michael W. Lucas, Autumn Mahoney, John D. Bell"
+Presenters,"Michael W. Lucas, Jeff Marracini, John D. Bell"
 csvsafedescrip,Some say systems administration is a young man's game- and that eventually sysadmins rise into management. They're wrong.  A sysadmin who measures their experience in decades has made mistakes younger sysadmins can't even imagine. This panel lets you learn from their suffering- take advantage of their experience- and laugh at their pain.
-speakernosp,"MichaelW.Lucas,AutumnMahoney,JohnD.Bell"
+speakernosp,"MichaelW.Lucas,JeffMarracini,JohnD.Bell"
 starttime,14:00
 roomnosp,Windover
 Start Date,5/1/2016
