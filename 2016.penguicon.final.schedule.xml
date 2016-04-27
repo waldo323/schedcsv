@@ -495,11 +495,6 @@
 <topic>Literature</topic>
 <room>Windover</room>
 <blurb><participant>Jon David, Alex Kourvo, Christine Daigle</participant> First Things First: Story Titles: Which comes first, a story or its title? What makes a good title? Who gets to decide what that title would be? Should a title hint at the story to come, or only make sense after the story is read?</blurb></event>
-<time>12 PM</time>
-<event><title>Unleash the Yeast</title>
-<topic>Food</topic>
-<room>517</room>
-<blurb><participant>David Clipner</participant> Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops</blurb></event>
 <time>11 AM</time>
 <event><title>The Future of Biohacking</title>
 <topic>Tech</topic>
@@ -574,6 +569,10 @@
 <room>Writer's Block (315   316)</room>
 <blurb><participant>John Scalzi, David Klecha</participant> Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings!</blurb></event>
 <time>12 PM</time>
+<event><title>Unleash the Yeast</title>
+<topic>Food</topic>
+<room>517</room>
+<blurb><participant>David Clipner</participant> Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops</blurb></event>
 <event><title>Walk the Solar System</title>
 <topic>Science</topic>
 <room>2nd Floor by Elevators</room>
@@ -1515,10 +1514,10 @@
 <topic>Tech</topic>
 <room>Charlevoix A</room>
 <blurb><participant>Mark Henke</participant> Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.</blurb></event>
-<event><title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
-<topic>Science</topic>
-<room>Windover</room>
-<blurb><participant>Ramses Alcaide</participant> One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments.</blurb></event>
+<event><title>BSD Operating Systems in 2016</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Michael W. Lucas</participant> The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives.</blurb></event>
 <event><title>Star Wars: Bane or Boon?</title>
 <topic>Literature</topic>
 <room>Charlevoix C</room>
@@ -1547,10 +1546,10 @@
 <topic>Life</topic>
 <room>Montcalm</room>
 <blurb><participant>Elizabeth "Biz" Nidjam, Jen Talley, Ruth Suehle</participant> With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?</blurb></event>
-<event><title>BSD Operating Systems in 2016</title>
-<topic>Tech</topic>
-<room>Charlevoix B</room>
-<blurb><participant>Michael W. Lucas</participant> The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives.</blurb></event>
+<event><title>Neurable: The Next Evolution of Brain-Computer Interfaces</title>
+<topic>Science</topic>
+<room>Windover</room>
+<blurb><participant>Ramses Alcaide</participant> One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments.</blurb></event>
 <event><title>Reading/Signing: Emmy Jackson, David Erik Nelson</title>
 <topic>Literature</topic>
 <room>Writer's Block (315   316)</room>

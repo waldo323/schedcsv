@@ -5763,54 +5763,6 @@ Start Date,4/30/2016
 descriptionascii,"First Things First: Story Titles: Which comes first, a story or its title? What makes a good title? Who gets to decide what that title would be? Should a title hint at the story to come, or only make sense after the story is read?"
 minutes,50
 allday,FALSE
-event_type,Food
-All Day Event,FALSE
-event_end,12:50
-event_type_list,['Food']
-private,PUBLIC
-endtimeampm,12 PM
-Location,517
-duration,50 minutes
-description,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
-index,120
-speakers,David Clipner
-bookdescrip,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
-Track,Food
-startday,4/30/2016
-Title,Unleash the Yeast
-Start Time,12:00
-event_start,12:00
-starttimeampm,12 PM
-End Time,12:50
-tracknosp,['Food']
-endday,4/30/2016
-dayheader,"SATURDAY, APRIL 30"
-input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '517', 'Food', 'Unleash the Yeast', 'David Clipner', 'Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of life\xe2\x80\x99s greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-booklocation,517
-End Date,4/30/2016
-calspeakers,David Clipner
-avneeds,none
-speakerlist,['David Clipner']
-hours,0
-totalminutes,50
-speakernosplist,['DavidClipner']
-caldescrip,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
-endtime,12:50
-AV Needs,
-name,Unleash the Yeast
-Private,PUBLIC
-bookname,Unleash the Yeast
-venue,517
-Book Description,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer. 21+ and ID will be required. This is a limited attendance event. Please sign up at Ops"
-Presenters,David Clipner
-csvsafedescrip,Meet our Featured Guest- David Clipner- and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs- taste and compare the complexities of lifes greatest gift- beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops
-speakernosp,DavidClipner
-starttime,12:00
-roomnosp,517
-Start Date,4/30/2016
-descriptionascii,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
-minutes,50
-allday,FALSE
 event_type,Tech
 All Day Event,FALSE
 event_end,11:50
@@ -5820,7 +5772,7 @@ endtimeampm,11 AM
 Location,Algonquin B/C
 duration,50 minutes
 description,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
-index,121
+index,120
 speakers,"Amal Graafstra, Anita Fowler, Drew Buglione, Greg Gage"
 bookdescrip,"Four of our Featured Guests look into the future to discuss how we could incorporate new technology into our bodies, and what the benefits can be for us as individuals and as communities."
 Track,Tech
@@ -5868,7 +5820,7 @@ endtimeampm,11 AM
 Location,Algonquin D
 duration,50 minutes
 description,Think your snazzy new UI is fantastic? Did you test it with color-blind users? No? Then you're probably in for a surprise for how much information you are trying to convey in a way that is not accessible to your users who have colorblindness or color sight deficiencies. We will discuss the details of what it means to be color blind and what you can do as a programmer or designer to improve the usability of your software for the 1 in 12 of your users who are color blind.
-index,122
+index,121
 speakers,Scott Favre
 bookdescrip,Think your snazzy new UI is fantastic? Did you test it with color-blind users? No? Then you're probably in for a surprise for how much information you are trying to convey in a way that is not accessible to your users who have colorblindness or color sight deficiencies. We will discuss the details of what it means to be color blind and what you can do as a programmer or designer to improve the usability of your software for the 1 in 12 of your users who are color blind.
 Track,Tech
@@ -5916,7 +5868,7 @@ endtimeampm,11 AM
 Location,Charlevoix A
 duration,50 minutes
 description,Take a look at one of the premiere Linux distributions which serves as the testing ground for Red Hat Linux.
-index,123
+index,122
 speakers,Tom Callaway
 bookdescrip,Take a look at one of the premiere Linux distributions which serves as the testing ground for Red Hat Linux.
 Track,Tech
@@ -5964,7 +5916,7 @@ endtimeampm,11 AM
 Location,Charlevoix B
 duration,50 minutes
 description,"All the cool kids are doing it...and more importantly, even more of the not so cool kids are doing it - podcasting. So what do you need to know to get started? Go live or record and syndicate only? What kind of mics? What should you know before getting started? In your basement or a studio somewhere? Learn from local podcasters with lots of experience and known throughout the podcasting community."
-index,124
+index,123
 speakers,"Dave Phillips, Bob Waltenspiel, Nuri Gocay, Karen Hubbard, Shannon Marshall, Maggie Maiville, Jonathon Hickey, Scott Markwart"
 bookdescrip,"All the cool kids are doing it...and more importantly, even more of the not so cool kids are doing it - podcasting. So what do you need to know to get started? Go live or record and syndicate only? What kind of mics? What should you know before getting started? In your basement or a studio somewhere? Learn from local podcasters with lots of experience and known throughout the podcasting community."
 Track,Media
@@ -6012,7 +5964,7 @@ endtimeampm,12 PM
 Location,Charlevoix C
 duration,1 hour and 50 minutes
 description,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
-index,125
+index,124
 speakers,"James Fernandez, Mary Lynne Gibbs, Dave Kilgore"
 bookdescrip,Aching to write a script for that great movie idea that's been bouncing around in your head? Come get some tips and tricks for how to get started on writing a script.
 Track,Media
@@ -6060,7 +6012,7 @@ endtimeampm,1 PM
 Location,"Demo Table, Maker Market Hallway"
 duration,2 hours
 description,"Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications"
-index,126
+index,125
 speakers,Ramses Alcaide
 bookdescrip,"Featured Guest Ramses Alcaide demonstrates Neurable, a non-invasive brain-computer interface that analyzes cognitive processes for unprecedented real-time control of physical objects and software applications"
 Track,"Science, Tech"
@@ -6108,7 +6060,7 @@ endtimeampm,11 AM
 Location,EMC I 
 duration,50 minutes
 description,Come share your experiences in deploying and testing software.  Birds of a Feather events are unmoderated.
-index,127
+index,126
 speakers,Mark Henke
 bookdescrip,Come share your experiences in deploying and testing software.  Birds of a Feather events are unmoderated.
 Track,Tech
@@ -6156,7 +6108,7 @@ endtimeampm,11 AM
 Location,EMC II
 duration,50 minutes
 description,Ever wanted to make things out of silicone but don't want to spend a bunch of money? Learn how to cast things out of inexpensive silicone caulk and corn starch.
-index,128
+index,127
 speakers,Gnora Ford-Lepthien
 bookdescrip,Ever wanted to make things out of silicone but don't want to spend a bunch of money? Learn how to cast things out of inexpensive silicone caulk and corn starch.
 Track,Costuming
@@ -6204,7 +6156,7 @@ endtimeampm,1 PM
 Location,EMC IV
 duration,2 hours and 50 minutes
 description,"In this hands-on event, participants will learn how the web of trust model works and perform identity verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID   at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in."
-index,129
+index,128
 speakers,Richard Houser
 bookdescrip,"In this hands-on event, participants will learn how the web of trust model works and perform identity verification with fellow attendees. We will do so in a manner compatible with CAcert.org, so you can use the resulting identify assurance to issue your own free SSL certificates, code signatures, etc. With a little additional work, you can also become an assurer of your own right at Penguicon. We will also exchange OpenPGP keys if you have them, so bring your key fingerprints with you! Participants need to bring at least two forms of ID   at least one of which must be a government issued photo ID showing birthdate. Having your own notebook computer able to output PDFs files greatly simplifies things, too. New users are expected to show up at the start, but returning participants from Penguicon Keysigning events and any CAcert.org assurers may show up one hour in."
 Track,Tech
@@ -6252,7 +6204,7 @@ endtimeampm,11 AM
 Location,EMC V
 duration,50 minutes
 description,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up in advance at Ops.
-index,130
+index,129
 speakers,Kelly Vanderwell
 bookdescrip,Learn how to use two sticks and a piece of string to make works of art!  A pair of needles and yarn will be provided or you can bring your own so you can learn to make things like dishcloths and scarves. This is a limited attendance event.  Please sign up in advance at Ops.
 Track,DIY
@@ -6300,7 +6252,7 @@ endtimeampm,1 PM
 Location,Game Table G
 duration,2 hours and 50 minutes
 description,2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.
-index,131
+index,130
 speakers,Jason Sonk
 bookdescrip,2-5 players. A deck-building game where players must cooperate in order to survive against hordes of aliens.
 Track,Gaming
@@ -6348,7 +6300,7 @@ endtimeampm,11 AM
 Location,HackerSpace (317)
 duration,50 minutes
 description,Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges.
-index,132
+index,131
 speakers,All Hands Active
 bookdescrip,Get Hands-on with a Penguicon Tradition. All Hands Active members will have kits for sale to solder and program the latest iteration of their Penguicon upgraded badges.
 Track,"DIY, Tech"
@@ -6396,7 +6348,7 @@ endtimeampm,11 AM
 Location,Hamlin
 duration,50 minutes
 description,"No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics!"
-index,133
+index,132
 speakers,Rinoa Page
 bookdescrip,"No we're not talking about the fastest man alive, we're talking about the wild new form of comics that incorporate the technology of today! These comics keep you on the edge of your seat and pull you in even deeper with stunning animations interwoven into the frames! Just when you thought you knew comics!"
 Track,Comics
@@ -6444,7 +6396,7 @@ endtimeampm,11 AM
 Location,Montcalm
 duration,50 minutes
 description,"The concept of the Mary Sue is back with the criticisms of Star Wars Episode VII's Rey as an unrealistic hero. How does this critique of female characters impact our perceptions of competent women?  Why do men get unrealistic idealized male characters as heroes as the norm in SFF media, but female characters with the same traits are ridiculed?"
-index,134
+index,133
 speakers,"Ann Lemay, Ann Leckie, Merrie Haskell, Julie Winningham"
 bookdescrip,"The concept of the Mary Sue is back with the criticisms of Star Wars Episode VII's Rey as an unrealistic hero. How does this critique of female characters impact our perceptions of competent women?  Why do men get unrealistic idealized male characters as heroes as the norm in SFF media, but female characters with the same traits are ridiculed?"
 Track,Media
@@ -6492,7 +6444,7 @@ endtimeampm,11 AM
 Location,Nicolet
 duration,50 minutes
 description,Filker Tom Smith talks about how to start your own home music studio.
-index,135
+index,134
 speakers,Tom Smith
 bookdescrip,Filker Tom Smith talks about how to start your own home music studio.
 Track,"DIY, Media"
@@ -6540,7 +6492,7 @@ endtimeampm,12 PM
 Location,Portage
 duration,1 hour and 50 minutes
 description,"Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!"
-index,136
+index,135
 speakers,Chad Sinke
 bookdescrip,"Come learn about the The Avenger GT-EV an Electric Vehicle build by our featured guest Chad Sinke from SCRATCH.  He'll talk about why he did it, how he did it, and how you can build your own car too!  If you're interested in Electric Vehicles, Engineering, or just awesome DIY projects this is a panel you won't want to miss!"
 Track,"DIY, Tech"
@@ -6588,7 +6540,7 @@ endtimeampm,11 AM
 Location,Windover
 duration,50 minutes
 description,"Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix."
-index,137
+index,136
 speakers,Michael W. Lucas
 bookdescrip,"Too many organizations have a tense relationship between the network folks and the sysadmins. Sometimes it degenerates just short of war. But basic networking isn't hard--if it was, network engineers couldn't do it. This talk teaches the essentials, in a way that lets sysadmins troubleshoot network problems on their own. Sysadmins have amazing visibility into the network, once they know how to use it. We'll cover cross-platform tools for viewing and troubleshooting the network, on both Windows and Unix."
 Track,Tech
@@ -6636,7 +6588,7 @@ endtimeampm,11 AM
 Location,Writer's Block (315 and 316)
 duration,50 minutes
 description,Join our attending authors in the Writers Block (317 & 318) for readings and signings!
-index,138
+index,137
 speakers,"John Scalzi, David Klecha"
 bookdescrip,Join our attending authors in the Writers Block (317 &amp; 318) for readings and signings!
 Track,Literature
@@ -6673,6 +6625,54 @@ starttime,11:00
 roomnosp,Writer'sBlock315&316
 Start Date,4/30/2016
 descriptionascii,Join our attending authors in the Writers Block (317 & 318) for readings and signings!
+minutes,50
+allday,FALSE
+event_type,Food
+All Day Event,FALSE
+event_end,12:50
+event_type_list,['Food']
+private,PUBLIC
+endtimeampm,12 PM
+Location,517
+duration,50 minutes
+description,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
+index,138
+speakers,David Clipner
+bookdescrip,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
+Track,Food
+startday,4/30/2016
+Title,Unleash the Yeast
+Start Time,12:00
+event_start,12:00
+starttimeampm,12 PM
+End Time,12:50
+tracknosp,['Food']
+endday,4/30/2016
+dayheader,"SATURDAY, APRIL 30"
+input,"['4/30/2016', '12:00', '4/30/2016', '12:50', '517', 'Food', 'Unleash the Yeast', 'David Clipner', 'Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of life\xe2\x80\x99s greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+booklocation,517
+End Date,4/30/2016
+calspeakers,David Clipner
+avneeds,none
+speakerlist,['David Clipner']
+hours,0
+totalminutes,50
+speakernosplist,['DavidClipner']
+caldescrip,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
+endtime,12:50
+AV Needs,
+name,Unleash the Yeast
+Private,PUBLIC
+bookname,Unleash the Yeast
+venue,517
+Book Description,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer. 21+ and ID will be required. This is a limited attendance event. Please sign up at Ops"
+Presenters,David Clipner
+csvsafedescrip,Meet our Featured Guest- David Clipner- and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs- taste and compare the complexities of lifes greatest gift- beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops
+speakernosp,DavidClipner
+starttime,12:00
+roomnosp,517
+Start Date,4/30/2016
+descriptionascii,"Meet our Featured Guest, David Clipner, and learn how to be a beer snob in your own home. From stouts to sours and ales to IPAs, taste and compare the complexities of lifes greatest gift, beer.  21+ and ID will be required.  This is a limited attendance event.  Please sign up at Ops"
 minutes,50
 allday,FALSE
 event_type,Science
@@ -17773,52 +17773,52 @@ Start Date,5/1/2016
 descriptionascii,Tired of dealing with the pain of manual deployment of your software and configuration changes that can easily go wrong? This session explains how we can eradicate the pain of bringing software to our users.
 minutes,50
 allday,FALSE
-event_type,Science
+event_type,Tech
 All Day Event,FALSE
 event_end,12:50
-event_type_list,['Science']
+event_type_list,['Tech']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Windover
+Location,Charlevoix B
 duration,50 minutes
-description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
+description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 index,370
-speakers,Ramses Alcaide
-bookdescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments."
-Track,Science
+speakers,Michael W. Lucas
+bookdescrip,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
+Track,Tech
 startday,5/1/2016
-Title,Neurable: The Next Evolution of Brain-Computer Interfaces
+Title,BSD Operating Systems in 2016
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
-tracknosp,['Science']
+tracknosp,['Tech']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Windover', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
-booklocation,Windover
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix B', 'Tech', 'BSD Operating Systems in 2016', 'Michael W. Lucas', ""The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
+booklocation,Charlevoix B
 End Date,5/1/2016
-calspeakers,Ramses Alcaide
+calspeakers,Michael W. Lucas
 avneeds,none
-speakerlist,['Ramses Alcaide']
+speakerlist,['Michael W. Lucas']
 hours,0
 totalminutes,50
-speakernosplist,['RamsesAlcaide']
-caldescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
+speakernosplist,['MichaelW.Lucas']
+caldescrip,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 endtime,12:50
 AV Needs,
-name,Neurable: The Next Evolution of Brain-Computer Interfaces
+name,BSD Operating Systems in 2016
 Private,PUBLIC
-bookname,Neurable: The Next Evolution of Brain-Computer Interfaces
-venue,Windover
-Book Description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality and virtual reality (AR/VR) environments."
-Presenters,Ramses Alcaide
-csvsafedescrip,One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However- current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications- creating new ways for people to interact with the world- enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.
-speakernosp,RamsesAlcaide
+bookname,BSD Operating Systems in 2016
+venue,Charlevoix B
+Book Description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
+Presenters,Michael W. Lucas
+csvsafedescrip,The BSD family of Unix has a been kicking around for almost 40 years now- and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD- OpenBSD- plus updates from NetBSD- Dragonfly- and assorted derivatives.
+speakernosp,MichaelW.Lucas
 starttime,12:00
-roomnosp,Windover
+roomnosp,CharlevoixB
 Start Date,5/1/2016
-descriptionascii,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
+descriptionascii,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
 minutes,50
 allday,FALSE
 event_type,Literature
@@ -18157,52 +18157,52 @@ Start Date,5/1/2016
 descriptionascii,"With so many influences in our kids' lives, how to we give them the tools to make kind and conscious decisions both for themselves and in how they treat and interact with others?  How do we help them to understand and navigate the subtle pressures of the media, their peers, other adults?  How do we help them understand that intent isn't magic, and fair does not always mean equitable?"
 minutes,50
 allday,FALSE
-event_type,Tech
+event_type,Science
 All Day Event,FALSE
 event_end,12:50
-event_type_list,['Tech']
+event_type_list,['Science']
 private,PUBLIC
 endtimeampm,12 PM
-Location,Charlevoix B
+Location,Windover
 duration,50 minutes
-description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
+description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 index,378
-speakers,Michael W. Lucas
-bookdescrip,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
-Track,Tech
+speakers,Ramses Alcaide
+bookdescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality &amp; virtual reality (AR/VR) environments."
+Track,Science
 startday,5/1/2016
-Title,BSD Operating Systems in 2016
+Title,Neurable: The Next Evolution of Brain-Computer Interfaces
 Start Time,12:00
 event_start,12:00
 starttimeampm,12 PM
 End Time,12:50
-tracknosp,['Tech']
+tracknosp,['Science']
 endday,5/1/2016
 dayheader,"SUNDAY, May 1"
-input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Charlevoix B', 'Tech', 'BSD Operating Systems in 2016', 'Michael W. Lucas', ""The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."", '00hr:50min', '', 'FALSE', 'PUBLIC']"
-booklocation,Charlevoix B
+input,"['5/1/2016', '12:00', '5/1/2016', '12:50', 'Windover', 'Science', 'Neurable: The Next Evolution of Brain-Computer Interfaces', 'Ramses Alcaide', 'One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.', '00hr:50min', '', 'FALSE', 'PUBLIC']"
+booklocation,Windover
 End Date,5/1/2016
-calspeakers,Michael W. Lucas
+calspeakers,Ramses Alcaide
 avneeds,none
-speakerlist,['Michael W. Lucas']
+speakerlist,['Ramses Alcaide']
 hours,0
 totalminutes,50
-speakernosplist,['MichaelW.Lucas']
-caldescrip,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
+speakernosplist,['RamsesAlcaide']
+caldescrip,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 endtime,12:50
 AV Needs,
-name,BSD Operating Systems in 2016
+name,Neurable: The Next Evolution of Brain-Computer Interfaces
 Private,PUBLIC
-bookname,BSD Operating Systems in 2016
-venue,Charlevoix B
-Book Description,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
-Presenters,Michael W. Lucas
-csvsafedescrip,The BSD family of Unix has a been kicking around for almost 40 years now- and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD- OpenBSD- plus updates from NetBSD- Dragonfly- and assorted derivatives.
-speakernosp,MichaelW.Lucas
+bookname,Neurable: The Next Evolution of Brain-Computer Interfaces
+venue,Windover
+Book Description,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality and virtual reality (AR/VR) environments."
+Presenters,Ramses Alcaide
+csvsafedescrip,One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However- current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications- creating new ways for people to interact with the world- enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments.
+speakernosp,RamsesAlcaide
 starttime,12:00
-roomnosp,CharlevoixB
+roomnosp,Windover
 Start Date,5/1/2016
-descriptionascii,"The BSD family of Unix has a been kicking around for almost 40 years now, and have taken different paths than Linux. Come see the last year's developments in BSD land! One of them just might solve your intractable problem. We'll talk about new things from FreeBSD, OpenBSD, plus updates from NetBSD, Dragonfly, and assorted derivatives."
+descriptionascii,"One of the major human developments in the 21st century is the creation of new ways to allow people to interact and immerse with the world around them. Brian-Computer Interface has the potential to bring that interaction to a new level. However, current non-invasive brain technology is extremely limited in capability. Neurable has created the first non-invasive brain-computer interface (BCI) that allows for unprecedented real-time control of physical objects and software applications, creating new ways for people to interact with the world, enabling deeper immersion in augmented reality & virtual reality (AR/VR) environments."
 minutes,50
 allday,FALSE
 event_type,Literature
