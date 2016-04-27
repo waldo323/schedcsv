@@ -1,9 +1,9 @@
-{% for presenter in presenters %}
-{{firstname}} {{lastname}}
-{% for ... %}
-Title: {{title}}
-Time: {{starttime}} {{startdate}} - {{endtime}} {{enddate}}
-Location: {{locationname}}
+{% for presenter in speakers %}
+{{presenter}}
+{% for event in agendas[presenter] %}
+Title: {{event['name']}}
+Time: {{event['starttime']}} {{event['startday']}} - {{event['endtime']}} {{event['endday']}}
+Location: {{event['venue']}}
 
 {% endfor %}
 
