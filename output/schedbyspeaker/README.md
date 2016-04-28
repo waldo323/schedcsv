@@ -16,7 +16,6 @@ use these links for downloading the actual csv files:
 | [AmalGraafstra]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmalGraafstra.csv ) |  |
 | [AmandaLong-Adams]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmandaLong-Adams.csv ) |  |
 | [AmandaRobinson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmandaRobinson.csv ) |  |
-| [AmyAliceWright]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmyAliceWright.csv ) |  |
 | [AmyConlon]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmyConlon.csv ) |  |
 | [AndreaJohnson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndreaJohnson.csv ) |  |
 | [AndrewDKirch]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndrewDKirch.csv ) |  |
