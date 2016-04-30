@@ -5161,20 +5161,6 @@
         "end_time": "11:50"
     },
     {
-        "book_description": "Here we build off the Microprocessor Magic workshop and introduce a specialized version of the Arduino board. The Lilypad is a purpose-built design for the Arduino that is intended to be sewn into a garment or costume. Imagine a keypad sewn right into the sleeve of your jacket. What for? Actuate a glowing turn signal on the back of your riding jacket? Fire up the IR illuminators for your wearable cameras? Or you have a costume and you want the lights and tones to blink and bloop in time with your steps. The modules and connectors are sewn in and in most casdes can be handwashed along with the garment.",
-        "end_date": "5/1/2016",
-        "title": "Wearable Computing: Technology You Can Stitch Right In",
-        "track": "DIY, Tech, Costuming",
-        "start_time": "11:00",
-        "presenters": [
-            "Christopher Bright"
-        ],
-        "location": "Baldwin",
-        "minutes": 50,
-        "start_date": "5/1/2016",
-        "end_time": "11:50"
-    },
-    {
         "book_description": "2015 was the year companies started realizing that IT security is no longer a suggestion, but mandatory to stay in business. All of the antivirus, firewalls, IDS, man traps, video cameras, and policies won't protect you from your biggest vulnerability - your employees. Anti-phishing education can be fun, and you can do it too with a little know-how and a cheap server. This is a technical discussion on how to be the bad guy for a minute to demonstrate how real the threat of social engineering is.",
         "end_date": "5/1/2016",
         "title": "Phish Your Employees",
