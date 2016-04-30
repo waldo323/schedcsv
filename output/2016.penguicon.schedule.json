@@ -6095,6 +6095,20 @@
         "end_time": "14:50"
     },
     {
+        "book_description": "Today I f--ed up",
+        "end_date": "5/1/2016",
+        "title": "BoF: System and Network Ops Anonymous",
+        "track": "Tech",
+        "start_time": "14:00",
+        "presenters": [
+            ""
+        ],
+        "location": "Hamlin",
+        "minutes": 50,
+        "start_date": "5/1/2016",
+        "end_time": "14:50"
+    },
+    {
         "book_description": "Smart phones (or other mobile devices) with digital cameras and web access provide an excellent way to record time and place along with a picture. We'll look at code for some example web applications: a photo food diary with time and location, and a hiking/biking record which can extend to mapping. ",
         "end_date": "5/1/2016",
         "title": "Simple Python Mobile Web App",
