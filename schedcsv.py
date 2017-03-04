@@ -1,16 +1,26 @@
 #!/usr/bin/env python
 import os
 import csv
+import jinja2
 import json
 import sys
 import re
 import logging
 from operator import itemgetter
+import AsciiDammit
 
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.WARN)
+env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
+web_template = env.get_template('programmingtemplate.html')
+penguicon_tv = env.get_template('penguicon_tv')
+testbook_template = env.get_template('testprogrambook.xml')
+presentersgithubtoc = env.get_template('speakerstoc')
+presenterpacket_template = env.get_template('presenter_packet_agenda')
+tocspeakers = set()
+speakersagendas = dict()
 
-# the purpose of this script is to parse a csv file from a sched.org event,
-# output the relevent information into useful output files that can be use for
+# the purpose of this script is to parse a csv file of events,
+# output the relevant information into useful output files that can be use for
 # a convention.
 
 # is the file being listed in the command line?
@@ -70,13 +80,17 @@ sunday_date = "5/1/2016"
 conyear = "2016"
 constart = "2016-04-29 14:00:00"
 
+
+
 calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header = """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
 schedule_csv_template = """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
 calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
-speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
+speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s ","%(venue)s",%(private)s\n"""
 all_weekend_header = "ALL WEEKEND"
 
+daylist = [all_weekend_header, friday_header, saturday_header, sunday_header]
+starttimeampmset = set()
 # replace all function to help with the clean up
 def replace_all(text, dic):
     for i, j in dic.iteritems():
@@ -97,7 +111,6 @@ class readInCSV:
         for index, header in enumerate(self.headers):
             self.headerdict[header] = index
         self.schedule.pop(0)   # remove header line from data
-
 
 def calcduration(startday, starttime, endday, endtime, minutes):
     logging.debug("in calc duration start day: %s ", startday)
@@ -206,7 +219,7 @@ for index, x in enumerate(pconsched.schedule):
     # for each field grab the data and put it in the session dictionary
     for field in fields:
         # bring the field info into a variable to help keep the code clean
-        fieldtext = pconsched.schedule[index][pconsched.headerdict[field]]
+        fieldtext = AsciiDammit.asciiDammit(pconsched.schedule[index][pconsched.headerdict[field]])
 
         # separate the time and day into different variables
         
@@ -236,13 +249,11 @@ for index, x in enumerate(pconsched.schedule):
                 #print fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]   
                 session['starttimeampm'] = ampmformat(session['starttime']) 
+                starttimeampmset.add(session['starttimeampm'])
             else:   
                 session['starttime'] = "event_start"
                 session['event_start'] = "event_start"
                 session['starttimeampm'] = "starttime am/pm"
-            
-                
-
         if  (field == "End Date"):
             session['endday'] = fieldtext
             if (fieldtext == ''):
@@ -263,7 +274,9 @@ for index, x in enumerate(pconsched.schedule):
                 session['endtimeampm'] = "endtime am/pm"
 
         if  (field == "Book Description"): 
-                    session['description'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
+                    session['description'] = \
+                        re.sub(r', , ',', ', re.sub(r',,',', ', re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
+                    session['descriptionascii'] = session['description'] 
         if  (field == "Location"):
             session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
             temproom = re.sub(r'\s','', fieldtext)
@@ -273,11 +286,15 @@ for index, x in enumerate(pconsched.schedule):
             if temproom == '':
                 temproom = "Hotel"
             session['roomnosp'] = temproom
+            tempbookroom = replace_all(session['venue'], {"&":" ","  ":" "})
+            session['booklocation'] = tempbookroom
             if fieldtext not in rooms:
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
+            
         if  (field == "Presenters"):
-            session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
+            session['speakers'] = \
+                re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
         if  (field == "Title"):
             session['name'] = re.sub(r'"','\'' ,re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))))
             temptext = replace_all(fieldtext, addamps)
@@ -319,9 +336,9 @@ for index, x in enumerate(pconsched.schedule):
             subend = fieldtext.find(">",substart)+1
             fieldtext = fieldtext.replace(fieldtext[substart: subend], "")
 
-        ## this is clean up below was required because the sched output 
-        ## included some html symbols and tags which would not have looked
-        ## good in the program book
+        # this is clean up below was required because the sched output
+        # included some html symbols and tags which would not have looked
+        # good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
         reps = {"&nbsp;":" ", "<br />":"", "&":" and ", "&amp;":" and ", "<p>":"", "</p>":"", "</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-", "\n":" ", "  ":" ", "\r":" "}
         amps = {"&":" and ", "  ":" "}
@@ -411,7 +428,7 @@ for index, x in enumerate(pconsched.schedule):
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
 sessions.sort(key=itemgetter('index'))
-
+starttimelist = sorted(starttimeampmset)
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
@@ -419,7 +436,6 @@ for room in rooms:
 
 speakers.sort()
 tempstart = "test"
-
 
 rp = "./output/"
 caldir = rp +"calendars/"
@@ -437,9 +453,9 @@ if not os.path.exists(speakerdir):
 with open(rp + conyear + ".penguicon.schedule.alldata.json",'w') as myoutput:
     json.dump(sessions, myoutput, indent=4, separators=(',', ': '))
 with open(rp + conyear + ".penguicon.schedule.json",'w') as myoutput:
-    fields = {"location":"Location", "book_description":"Book Description", \
-              "title":"Title", "track":"Track", "minutes":"totalminutes", \
-              "start_date":"Start Date", "end_date":"End Date", \
+    fields = {"location":"Location", "book_description":"Book Description",
+              "title":"Title", "track":"Track", "minutes":"totalminutes",
+              "start_date":"Start Date", "end_date":"End Date",
               "start_time":"starttime", "end_time":"endtime",
               "presenters":"speakerlist"
     }
@@ -483,8 +499,6 @@ with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
 myoutput.close()
 #"""
 
-
-
 # schedule by room and by speaker output
 
 with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
@@ -498,6 +512,7 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
         if speakernosp != '':
             with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
             #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
+                tocspeakers.add(speakernosp)
                 tempspeakersched.write(calendar_header)
                 tempspeakersched.close()
     for index, y in enumerate(sessions):
@@ -508,12 +523,20 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
             temproomsched.close()
             for speaker in y['speakernosplist']:
                 if speaker != '':
-                    #print speaker
                     with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
                         tempspeakersched.write(speaker_calendar_template % y)
-                tempspeakersched.close()
+            for speaker in y['speakerlist']:
+                if speaker in speakersagendas:
+                    speakersagendas[speaker].append(y)
+                else:
+                    speakersagendas[speaker] = [y]
+
 
 fullschedule.close()
+#print "check this out"
+#print speakersagendas['James Hice'][1]
+
+#print "\n\n"
 
 with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeaker:
     with open(rp + conyear + ".penguicon.speakers.txt",'w') as fullspeakerlist:
@@ -527,15 +550,15 @@ with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeak
 fullspeaker.close()
 discountedspeaker.close()
 fullspkrlist = []
-with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
-  with open(rp + conyear + ".penguicon.spkrs.bylast.txt",'w') as fullspkr:
-    for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k,v)):
+with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt", 'w') as dscountedspkr:
+  with open(rp + conyear + ".penguicon.spkrs.bylast.txt", 'w') as fullspkr:
+    for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k, v)):
         if value >= 150:
             dscountedspkr.write("%s\n" % (key))
         fullspkrlist.append( str(value)+ " "+ key)
         #fullspkr.write("%s\n" % (key, value))
     for x in sorted(fullspkrlist):
-        fullspkr.write("%s\n" % (x) )
+        fullspkr.write("%s\n" % x)
 
 fullspkr.close()
 dscountedspkr.close()
@@ -567,6 +590,26 @@ for index, y in enumerate(sessions):
     for key, value in y.items():
         writer.writerow([key, value])
 
+test = penguicon_tv.render(events=sessions)
+testbook = testbook_template.render(events=sessions)
+speakersgithubtoc = presentersgithubtoc.render(presenters=sorted(tocspeakers))
+presenterpacket = presenterpacket_template.render(agendas=speakersagendas, speakers=sorted(speakers))
+#for x in sessions:
+#    print x['bookname']
+
+with open(rp + conyear + ".penguicon_tv.txt", 'w') as myoutput:
+    myoutput.write(test)
+
+with open(rp + conyear + ".testingprogrambook.xml", 'w') as myoutput:
+    myoutput.write(testbook)
+with open("penguicon.schedule.xml", 'w') as myoutput:
+    myoutput.write(testbook)
+    
+with open(speakerdir +"README.md", 'w') as myoutput:
+    myoutput.write(speakersgithubtoc)
+
+with open(rp + conyear + ".presenters_packets.txt", 'w') as myoutput:
+    myoutput.write(presenterpacket)
 
 """
 schedule by room
@@ -611,13 +654,7 @@ with open(rp + conyear + ".penguicon.schedule.roomorder.xml",'w') as myoutput:
     schedbyroom.write('</events>\n')
 myoutput.close()
 
-
-
-
 ### end schedule by room ###
-
-
-
 
 # write out the speakers and their events ...this doesn't work yet
 #speaker_events_dict
@@ -626,42 +663,6 @@ myoutput.close()
 #for key, value in speaker_events_dict.items():
 #    writer.writerow([key, ', '.join(value)] )
 #    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
-
-
-# Fix the multiple entries of the current time issue  (thanks Matt)
-inputfile = open(rp + conyear + '.penguicon.schedule.alltimes.xml', 'r')
-outputfile = open('penguicon.schedule.xml', 'w')
-
-# current time is set to the initial start time of 4 pm for the 2015 year... this could change year to year
-currenttime = '<time>4 PM</time>'
-
-# this line is used for 'all weekend events' 
-# which are typically listed in the beginning
-# before any other events in the program book
-# then the variable is reused in the loop
-lasttime = '<day>All Weekend</day>'
-lastday = '<day>All Weekend</day>'
-firstday = True
-for row in inputfile:
-    if '<time>' in row:
-        currenttime = row
-        if currenttime != lasttime:
-            outputfile.write(row)
-            lasttime = row
-    elif '<day>' in row:
-        currentday = row
-        #if firstday == False:
-        if currentday != lastday:
-            outputfile.write(row)
-            lastday = row
-        #else:
-        #    outputfile.write(row)
-        #    firstday = False
-    else: # If this is not a time row
-        outputfile.write(row)
-
-inputfile.close()
-outputfile.close()
 
 
 ### conyear.penguicon.schedule.allrooms.xml ###

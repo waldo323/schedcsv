@@ -1,18 +1,13 @@
-{% for item in trackdata %}
-{% for track in item %}
-<table class="programming">
+{% for item in trackdata %}{% for track in item %}{% set anchortrack=track.lower().replace(" ", "")  %}<a name="{{anchortrack}}"></a></br><table class="programming">
 <tbody>
 <tr class="progtrackrow">
 <td class="progtrack" colspan="2"><h3>{{ track }}</h3></td>
 </tr>
 <tr class="description_row">
 <td class="description_cell" colspan="2"><p>{{ item[track] }}</p></td>
-</tr>
-{% for thistrack, events in data.iteritems() %}
-{% if thistrack == track %}
-{%for event in events %}
+</tr>{% for thistrack, events in data.iteritems() %}{% if track == thistrack %}{%for event in events %}
 <tr class="eventrow">
 <td class="eventname"><p><strong>{{event[0]}}</strong></p></td>
-<td class="eventdesc"><p>{{event[1]}}</p></td>
+<td class="eventdesc"><p>{{event[1]}}</p><p class="presenters">Presenter(s): {{event[2]}}</p></td>
 </tr>{% endfor %} {% endif %} {% endfor %}
-</table> {%endfor%} {%endfor%}
+</table>{%endfor%} {%endfor%}

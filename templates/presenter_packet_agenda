@@ -1,0 +1,13 @@
+{% for presenter in speakers %}
+{{presenter}}
+{% for event in agendas[presenter] %}
+Title: {{event['name']}}
+Time: {{event['starttime']}} {{event['startday']}} - {{event['endtime']}} {{event['endday']}}
+Location: {{event['venue']}}
+
+{% endfor %}
+
+-----page-end-----
+
+{% endfor %}
+
