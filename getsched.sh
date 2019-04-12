@@ -30,11 +30,11 @@ SCHEDDATE=`date`
 # process schedule into its various output files
 echo process the data
 python schedcsv.py sched.csv && echo looks good!
-python full_sched_web_template_filler.py > full_current_data_for_website.html 
+#python full_sched_web_template_filler.py > full_current_data_for_website.html 
 
 echo post process the speakerlists
-awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.3plus.txt |sort > ./output/2019.penguicon.spkrs.bylast.3plus.txt 
+#awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.3plus.txt |sort > ./output/2019.penguicon.spkrs.bylast.3plus.txt 
 
-awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.txt |sort> ./output/2019.penguicon.spkrs.bylast.txt 
+#awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.txt |sort> ./output/2019.penguicon.spkrs.bylast.txt 
 
 echo got schedule and ran parsing script

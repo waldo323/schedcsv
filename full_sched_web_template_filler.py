@@ -5,7 +5,7 @@ import logging
 """#import consettings"""
 logging.basicConfig(level=logging.INFO)
 
-conyear = "2016"
+conyear = "2019"
 rp = "./output/"
 
 trackinfo = [
@@ -52,6 +52,8 @@ trackdict = {}
 logging.debug("schedule in list form: \n%s", build)
 
 for line in build:
+    logging.debug("line: %s", line)
+    logging.debug( len(line))
     atrac = line[5].split(',')[0]
     for currenttrac in trackinfo:
         if currenttrac.keys()[0][0:3] == atrac[0:3].upper():
@@ -66,6 +68,7 @@ for line in build:
             else:
                 if trackcontent not in trackdict[currenttrac.keys()[0]]:
                     trackdict[currenttrac.keys()[0]].append(trackcontent)
+    logging.debug(line)
 
 for track in trackdict:
     trackdict[track].sort()

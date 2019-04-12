@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 echo update repo first!
-git pull
+#git pull
 
 # clean up previous output files
 #git rm ./output/2014.*

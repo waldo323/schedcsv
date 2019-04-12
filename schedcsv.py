@@ -72,11 +72,11 @@ schedule_by_room_allweekend_template = """<event>
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 noday_header = "NoDay, MAY 3"
 friday_header = "FRIDAY, MAY 3"
-friday_date = "5/3/2019"
+friday_date = "05/03/2019"
 saturday_header = "SATURDAY, MAY 4"
-saturday_date = "5/4/2019"
+saturday_date = "05/04/2019"
 sunday_header = "SUNDAY, MAY 5"
-sunday_date = "5/5/2019"
+sunday_date = "05/05/2019" 
 conyear = "2019"
 constart = "2019-05-03 15:00:00"
 
@@ -176,18 +176,14 @@ def ampmformat (hhmmss):
 pconsched = readInCSV(filename)
 # 2019 fields
 fields =  [
-    "Start Date",
-    "Start Time",
-    "End Date",
-    "End Time",
-    "Location",
-    "Track",
-    "Title",
-    "Presenters",
-    "Book Description",
-    "All Day Event",
-    "Private",
-    "AV Needs"]
+    "event_start",
+    "event_end",
+    "name",
+    "event_type",
+    "venue",
+    "speakers",
+    "description"]
+
 # 2015 fields
 oldfields =  [
     "Start Date",
@@ -238,19 +234,55 @@ for index, x in enumerate(pconsched.schedule):
         
         session['input'] = x
         session['index'] = index
+        session['All Day Event'] = ''
+        session['private'] = "PUBLIC"
+        session['avneeds'] = ""
         ##start day and time assignments
-        if  (field == "Start Date"):
-            session['startday'] = fieldtext
-            if (fieldtext == friday_date):
-                session['dayheader'] = friday_header
-            if (fieldtext == saturday_date):
-                session['dayheader'] = saturday_header
-            if (fieldtext == sunday_date):
-                session['dayheader'] = sunday_header
-            if (fieldtext == ''):
-                session['dayheader'] = noday_header
-                session['startday'] = "5/3/2019"
-                
+# separate the time and day into different variables
+        if (field == "event_start"):
+            logging.debug(fieldtext[:len(fieldtext)-fieldtext.find(" ") +1])
+            dashdate = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
+            slashdate = "{}/{}/{}".format(dashdate[5:7], dashdate[8:10], dashdate[0:4]) 
+            session['startday'] = slashdate
+            session["Start Date"] = session['startday']
+            if fieldtext[-8:] != "nt_start":
+                logging.debug(fieldtext[len(fieldtext)-fieldtext.find(" ") +2:-3])
+                session['starttime'] = fieldtext[len(fieldtext)-fieldtext.find(" ") +2:-3]
+                session["Start Time"] = session['starttime']
+                session['starttimeampm'] = ampmformat(session['starttime']) 
+            else:   
+                session['starttime'] = "event_start"
+                session['starttimeampm'] = "starttime am/pm"
+        if (field == "event_end"):
+            logging.debug(fieldtext[:len(fieldtext)-fieldtext.find(" ") +1])
+            dashdate = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
+            slashdate = "{}/{}/{}".format(dashdate[5:7], dashdate[8:10], dashdate[0:4]) 
+            logging.debug("slashdate: {}".format(slashdate))
+            session['endday'] = slashdate
+            if fieldtext[-8:] != "vent_end":
+                logging.debug("**********here***********")
+                logging.debug(fieldtext)
+                session['endtime'] = fieldtext[len(fieldtext)-fieldtext.find(" ") +2:-3] 
+                session['endtimeampm'] = ampmformat(session['endtime'])
+            else: 
+                session['endtime'] = "event_end"
+                session['endtimeampm'] = "endtime am/pm"
+             
+        session['startday'] = session["Start Date"]
+        logging.debug(session['startday'])
+        if (session['startday'] == friday_date):
+            session['dayheader'] = friday_header
+        elif (session['startday'] == saturday_date):
+            session['dayheader'] = saturday_header
+        elif (session['startday'] == sunday_date):
+            session['dayheader'] = sunday_header
+        elif (session['startday'] == ''):
+            session['dayheader'] = noday_header
+            session['startday'] = "5/3/2019"
+        else:
+            logging.debug("start date doesn't match'")
+            logging.debug(session['startday'])
+        logging.debug(session['dayheader'])        
             #print fieldtext
 
         if  (field == "Start Time"):
@@ -286,11 +318,11 @@ for index, x in enumerate(pconsched.schedule):
                 session['event_end'] = "event_end"
                 session['endtimeampm'] = "endtime am/pm"
 
-        if  (field == "Book Description"): 
+        if  (field == "Book Description" or field == "description"): 
                     session['description'] = \
                         re.sub(r', , ',', ', re.sub(r',,',', ', re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
                     session['descriptionascii'] = session['description'] 
-        if  (field == "Location"):
+        if  (field == "Location" or field == "venue"):
             session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
             temproom = re.sub(r'\s','', fieldtext)
             temproom = re.sub(r'\(','', temproom)
@@ -305,16 +337,16 @@ for index, x in enumerate(pconsched.schedule):
               rooms.append(fieldtext)
               roomsdict[fieldtext] = temproom
             
-        if  (field == "Presenters"):
+        if  (field == "Presenters" or field == "speakers"):
             session['speakers'] = \
                 re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
-        if  (field == "Title"):
+        if  (field == "Title" or field == "name"):
             session['name'] = re.sub(r'"','\'' ,re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))))
             temptext = replace_all(fieldtext, addamps)
             temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext))).strip(', \t\n\r')
             session['bookname'] = temptext
 
-        if  (field == "Track"):
+        if  (field == "Track" or field == "event_type"):
             session['event_type'] = fieldtext.strip(', \t\n\r')
             session['event_type_list'] = fieldtext.split(", ")
             session['tracknosp'] = []
@@ -362,17 +394,17 @@ for index, x in enumerate(pconsched.schedule):
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
         session[field] = replace_all(temptext, amps)
-        if field == "Book Description":
+        if field == "Book Description" or field == "description":
             temptext = replace_all(fieldtext, quoterep)
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
             temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')
             session['bookdescrip'] = temptext
-        if field == "Presenters":
+        if field == "Presenters" or field == "speakers":
             temptext = replace_all(fieldtext, quoterep)
             session['calspeakers'] = re.sub(r'\n',',', temptext).strip(', \t\n\r')
-        if field == "Presenters":
+        if field == "Presenters" or field == "speakers":
             testtext = fieldtext.split(', ')
             #for x in testtext:
             #    print x
@@ -385,15 +417,21 @@ for index, x in enumerate(pconsched.schedule):
         session['avneeds'] = "none"
     else:
         logging.debug("Session: %s", session['name'])
-        logging.debug("start day %s",  session['startday'][2:-5])
+        logging.debug("start day %s",  session['startday'])
+        logging.debug("start day %s",  session['startday'][3:-5])
         logging.debug("start time %s", session['starttime'][:-3])
-        logging.debug("end day %s", session['endday'][2:-5])
+        logging.debug("end day %s", session['endday'])
+        logging.debug("end day %s", session['endday'][3:-5])
         logging.debug("end time %s", session['endtime'][-5:-3])
         logging.debug("end minutes %s", session['endtime'][-2:])
         logging.debug("event_start %s", session['event_start'])
         logging.debug("event_end %s", session['event_end'])
 
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][3:-5]), int(session['starttime'][:-3]) , int(session['endday'][3:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
+        if session['duration'] > 8:
+            session['allday'] = "TRUE"
+        else:
+            session['allday'] = "FALSE"
 
     session['speakerlist'] = session['speakers'].split(", ")
     session['speakernosp'] = ""
@@ -489,6 +527,8 @@ with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
             myoutput.write(heading)
             schedbyroom.write(heading)
         #print y
+        logging.debug("in programbook output")
+        logging.debug(y['duration'])
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
