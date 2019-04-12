@@ -30,3 +30,4 @@ pip-log.txt
 
 #zip file which has all the speakers calendars
 schedsbyspeaker.zip
+*.privatelocal
