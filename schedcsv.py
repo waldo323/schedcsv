@@ -70,15 +70,15 @@ schedule_by_room_allweekend_template = """<event>
 
 # configure these variables each year
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
-noday_header = "NoDay, April 1"
-friday_header = "FRIDAY, APRIL 29"
-friday_date = "4/29/2016"
-saturday_header = "SATURDAY, APRIL 30"
-saturday_date = "4/30/2016"
-sunday_header = "SUNDAY, May 1"
-sunday_date = "5/1/2016"
-conyear = "2016"
-constart = "2016-04-29 14:00:00"
+noday_header = "NoDay, MAY 3"
+friday_header = "FRIDAY, MAY 3"
+friday_date = "5/3/2019"
+saturday_header = "SATURDAY, MAY 4"
+saturday_date = "5/4/2019"
+sunday_header = "SUNDAY, MAY 5"
+sunday_date = "5/5/2019"
+conyear = "2019"
+constart = "2019-05-03 15:00:00"
 
 
 
@@ -174,9 +174,22 @@ def ampmformat (hhmmss):
 #    def __init__(self, ):
 
 pconsched = readInCSV(filename)
-
-# 2015 fields
+# 2019 fields
 fields =  [
+    "Start Date",
+    "Start Time",
+    "End Date",
+    "End Time",
+    "Location",
+    "Track",
+    "Title",
+    "Presenters",
+    "Book Description",
+    "All Day Event",
+    "Private",
+    "AV Needs"]
+# 2015 fields
+oldfields =  [
     "Start Date",
     "Start Time",
     "End Date",
@@ -236,7 +249,7 @@ for index, x in enumerate(pconsched.schedule):
                 session['dayheader'] = sunday_header
             if (fieldtext == ''):
                 session['dayheader'] = noday_header
-                session['startday'] = "4/1/2016"
+                session['startday'] = "5/3/2019"
                 
             #print fieldtext
 
@@ -257,7 +270,7 @@ for index, x in enumerate(pconsched.schedule):
         if  (field == "End Date"):
             session['endday'] = fieldtext
             if (fieldtext == ''):
-                session['endday'] = "4/1/2016"
+                session['endday'] = "5/5/2019"
 
         if  (field == "End Time"):
             if fieldtext != "End Time":

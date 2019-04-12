@@ -4,11 +4,15 @@
 #wget --output-documuent sched.csv "https://docs.google.com/spreadsheet/ccc?key=0AiCkD773xnvKdHZ5NU9OcThZNXVDZDBONXdVQjJ5T3c&output=csv"
 
 #rm ./sched.csv
-echo get the schedule from google drive
+#echo get the schedule from google drive
 # wget --output-document sched.csv "https://docs.google.com/spreadsheet/ccc?key=0AsysQw--cSRTdEd4b005YmhGZmVTNUtzZXlCR0Z0WlE&output=csv"
 
+echo get the schedule from sched.com
+#schedule for 2019
+wget --output-document sched.csv https://penguicon2019.sched.com/api/session/list?api_key=$1&format=csv&strip_html=Y&custom_data=Y
 
-wget --output-document sched.csv https://docs.google.com/spreadsheets/d/1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4/pub?output=csv &
+#schedule for 2016
+#wget --output-document sched.csv https://docs.google.com/spreadsheets/d/1WFOl4XmKqsfvPQz46d2gRzFZEYrqIBj9Urmgsj0sNq4/pub?output=csv &
 wait %1
 
 #schedule for 2015
@@ -29,8 +33,8 @@ python schedcsv.py sched.csv && echo looks good!
 python full_sched_web_template_filler.py > full_current_data_for_website.html 
 
 echo post process the speakerlists
-awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2016.penguicon.speakers.3plus.txt |sort > ./output/2016.penguicon.spkrs.bylast.3plus.txt 
+awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.3plus.txt |sort > ./output/2019.penguicon.spkrs.bylast.3plus.txt 
 
-awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2016.penguicon.speakers.txt |sort> ./output/2016.penguicon.spkrs.bylast.txt 
+awk '{x=$NF; $NF=""; print x ", " $0 }' ./output/2019.penguicon.speakers.txt |sort> ./output/2019.penguicon.spkrs.bylast.txt 
 
 echo got schedule and ran parsing script
