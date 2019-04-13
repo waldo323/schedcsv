@@ -430,8 +430,10 @@ for index, x in enumerate(pconsched.schedule):
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][3:-5]), int(session['starttime'][:-3]) , int(session['endday'][3:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
         if session['duration'] > 8:
             session['allday'] = "TRUE"
+            session['alldayorder'] = "1"
         else:
             session['allday'] = "FALSE"
+            session['alldayorder'] = "2"
 
     session['speakerlist'] = session['speakers'].split(", ")
     session['speakernosp'] = ""
@@ -478,7 +480,11 @@ for index, x in enumerate(pconsched.schedule):
 # sort the list of sessions here by day then by time.
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
-sessions.sort(key=itemgetter('index'))
+sessions = sessions.sort(key=itemgetter('name'))
+sessions = sessions.sort(key=itemgetter('tracknosp'))
+sessions = sessions.sort(key=itemgetter('starttime'))
+sessions = sessions.sort(key=itemgetter('startday'))
+sessions = sessions.sort(key=itemgetter('alldayorder'))
 starttimelist = sorted(starttimeampmset)
 rooms.sort()
 alphabetical_rooms = {}
