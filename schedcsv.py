@@ -430,10 +430,12 @@ for index, x in enumerate(pconsched.schedule):
         session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][3:-5]), int(session['starttime'][:-3]) , int(session['endday'][3:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
         if session['duration'] > 8:
             session['allday'] = "TRUE"
+            session['All Day Event'] = "TRUE"
             session['alldayorder'] = "1"
         else:
             session['allday'] = "FALSE"
             session['alldayorder'] = "2"
+            session['All Day Event'] = "FALSE"
 
     session['speakerlist'] = session['speakers'].split(", ")
     session['speakernosp'] = ""
