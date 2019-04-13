@@ -483,7 +483,7 @@ for index, x in enumerate(pconsched.schedule):
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
 sessions = sessions.sort(key=itemgetter('name'))
-sessions = sessions.sort(key=itemgetter('tracknosp'))
+#sessions = sessions.sort(key=itemgetter('tracknosp'))
 sessions = sessions.sort(key=itemgetter('starttime'))
 sessions = sessions.sort(key=itemgetter('startday'))
 sessions = sessions.sort(key=itemgetter('alldayorder'))
