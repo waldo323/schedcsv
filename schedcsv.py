@@ -9,7 +9,8 @@ import logging
 from operator import itemgetter
 import AsciiDammit
 
-logging.basicConfig(level=logging.WARN)
+#logging.basicConfig(level=logging.WARN)
+logging.basicConfig(level=logging.DEBUG)
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 web_template = env.get_template('programmingtemplate.html')
 penguicon_tv = env.get_template('penguicon_tv')
@@ -72,11 +73,11 @@ schedule_by_room_allweekend_template = """<event>
 hoteladdress = "1500 Town Center, Southfield, Michigan 48075 USA"
 noday_header = "NoDay, MAY 3"
 friday_header = "FRIDAY, MAY 3"
-friday_date = "05/03/2019"
+friday_date = "5/3/2019"
 saturday_header = "SATURDAY, MAY 4"
-saturday_date = "05/04/2019"
+saturday_date = "5/4/2019"
 sunday_header = "SUNDAY, MAY 5"
-sunday_date = "05/05/2019" 
+sunday_date = "5/5/2019" 
 conyear = "2019"
 constart = "2019-05-03 15:00:00"
 
@@ -237,12 +238,13 @@ for index, x in enumerate(pconsched.schedule):
         session['All Day Event'] = ''
         session['private'] = "PUBLIC"
         session['avneeds'] = ""
+        session['alldayorder'] = "3"
         ##start day and time assignments
 # separate the time and day into different variables
         if (field == "event_start"):
             logging.debug(fieldtext[:len(fieldtext)-fieldtext.find(" ") +1])
             dashdate = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
-            slashdate = "{}/{}/{}".format(dashdate[5:7], dashdate[8:10], dashdate[0:4]) 
+            slashdate = "{}/{}/{}".format(dashdate[6:7], dashdate[9:10], dashdate[0:4]) 
             session['startday'] = slashdate
             session["Start Date"] = session['startday']
             if fieldtext[-8:] != "nt_start":
@@ -256,7 +258,7 @@ for index, x in enumerate(pconsched.schedule):
         if (field == "event_end"):
             logging.debug(fieldtext[:len(fieldtext)-fieldtext.find(" ") +1])
             dashdate = fieldtext[:len(fieldtext)-fieldtext.find(" ") +1]
-            slashdate = "{}/{}/{}".format(dashdate[5:7], dashdate[8:10], dashdate[0:4]) 
+            slashdate = "{}/{}/{}".format(dashdate[6:7], dashdate[9:10], dashdate[0:4]) 
             logging.debug("slashdate: {}".format(slashdate))
             session['endday'] = slashdate
             if fieldtext[-8:] != "vent_end":
@@ -427,8 +429,9 @@ for index, x in enumerate(pconsched.schedule):
         logging.debug("event_start %s", session['event_start'])
         logging.debug("event_end %s", session['event_end'])
 
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][3:-5]), int(session['starttime'][:-3]) , int(session['endday'][3:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
-        if session['duration'] > 8:
+        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
+        if session['hours'] > 8:
+
             session['allday'] = "TRUE"
             session['All Day Event'] = "TRUE"
             session['alldayorder'] = "1"
@@ -482,11 +485,15 @@ for index, x in enumerate(pconsched.schedule):
 # sort the list of sessions here by day then by time.
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
-sessions = sessions.sort(key=itemgetter('name'))
+#sessions = sessions.sort(key=itemgetter('name'))
 #sessions = sessions.sort(key=itemgetter('tracknosp'))
-sessions = sessions.sort(key=itemgetter('starttime'))
-sessions = sessions.sort(key=itemgetter('startday'))
-sessions = sessions.sort(key=itemgetter('alldayorder'))
+sessions = sorted(sessions, key=itemgetter('starttime'))
+sessions = sorted(sessions, key=itemgetter('startday'))
+#sessions = sessions.sort(key=itemgetter('name'))
+#logging.debug( sorted(sessions, key=itemgetter('alldayorder')))
+
+sessions = sorted(sessions, key=itemgetter('alldayorder'))
+logging.debug( sessions[1])
 starttimelist = sorted(starttimeampmset)
 rooms.sort()
 alphabetical_rooms = {}
@@ -535,8 +542,8 @@ with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
             myoutput.write(heading)
             schedbyroom.write(heading)
         #print y
-        logging.debug("in programbook output")
-        logging.debug(y['duration'])
+        #logging.debug("in programbook output")
+        #logging.debug(y['duration'])
         if not y['All Day Event'] == tempstart:
             if y['All Day Event'] == "TRUE" :
                 myoutput.write("\n<day>All Weekend</day>\n")
