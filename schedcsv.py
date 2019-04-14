@@ -18,7 +18,7 @@ testbook_template = env.get_template('testprogrambook.xml')
 presentersgithubtoc = env.get_template('speakerstoc')
 presenterpacket_template = env.get_template('presenter_packet_agenda')
 tocspeakers = set()
-tocsrooms = set()
+tocrooms = set()
 speakersagendas = dict()
 
 # the purpose of this script is to parse a csv file of events,
