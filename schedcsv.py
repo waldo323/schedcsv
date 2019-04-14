@@ -79,7 +79,7 @@ saturday_date = "5/4/2019"
 sunday_header = "SUNDAY, MAY 5"
 sunday_date = "5/5/2019" 
 conyear = "2019"
-constart = "2019-05-03 15:00:00"
+constart = "2019-05-03 12:00:00"
 
 
 
