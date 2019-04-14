@@ -11,11 +11,12 @@ git rm ./output/schedsbyspeaker.zip
 #git rm ./output/calendars/*
 echo get schedule and run the parsing script on the schedule 
 ./getsched.sh
-
+./removeextratime.py
+cp 2019.penguicon.final.schedule.xml penguicon.schedule.xml
 # make it easier to find the schedule
 cp penguicon.schedule.xml ./output/penguicon.schedule.xml 
 # copy to final schedule
-cp penguicon.schedule.xml 2016.penguicon.final.schedule.xml 
+#cp penguicon.schedule.xml 2019.penguicon.final.schedule.xml 
 # zip up the speakers' csv import to ical files
 cd ./output/schedbyspeaker && zip -j ../schedsbyspeaker.zip ./* && cd ../../
 #git add ./output/schedsbyspeaker.zip
