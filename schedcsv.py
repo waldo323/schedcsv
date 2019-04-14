@@ -18,6 +18,7 @@ testbook_template = env.get_template('testprogrambook.xml')
 presentersgithubtoc = env.get_template('speakerstoc')
 presenterpacket_template = env.get_template('presenter_packet_agenda')
 tocspeakers = set()
+tocsrooms = set()
 speakersagendas = dict()
 
 # the purpose of this script is to parse a csv file of events,
@@ -573,6 +574,7 @@ with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
     fullschedule.write(schedule_header) # schedule_header needs to be written
     for room in roomsdict:
         with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
+            tocrooms.add(room)
             temproomsched.write(schedule_header)
             temproomsched.close()
     for index, y in enumerate(sessions):
@@ -661,6 +663,7 @@ for index, y in enumerate(sessions):
 test = penguicon_tv.render(events=sessions)
 testbook = testbook_template.render(events=sessions)
 speakersgithubtoc = presentersgithubtoc.render(presenters=sorted(tocspeakers))
+roomsgithubtoc = presentersgithubtoc.render(presenters=sorted(tocrooms))
 presenterpacket = presenterpacket_template.render(agendas=speakersagendas, speakers=sorted(speakers))
 #for x in sessions:
 #    print x['bookname']
@@ -675,7 +678,8 @@ with open("penguicon.schedule.xml", 'w') as myoutput:
     
 with open(speakerdir +"README.md", 'w') as myoutput:
     myoutput.write(speakersgithubtoc)
-
+with open(schedulebyroomdir +"README.md", 'w') as myoutput:
+    myoutput.write(speakersgithubtoc)
 with open(rp + conyear + ".presenters_packets.txt", 'w') as myoutput:
     myoutput.write(presenterpacket)
 
