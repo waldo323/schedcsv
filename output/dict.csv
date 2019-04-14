@@ -618,7 +618,7 @@ starttimeampm,4 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['338', 'Y', 'Open Source Firewall pfSense', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Tech', '', 'Learn how to configure the open source pfSense firewall.', '', '', '', '', '0', '11', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b5158de1a0e2d1111efdd4c77a3e5668', '931344', 'Tom Lawrence', '', '', '', '', '']"
+input,"['338', 'Y', 'Open Source Firewall pfSense', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Tech', '', 'Learn how to configure the open source pfSense firewall.', '', '', '', '', '0', '12', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b5158de1a0e2d1111efdd4c77a3e5668', '931344', 'Tom Lawrence', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Tom Lawrence
 avneeds,
@@ -1018,7 +1018,7 @@ starttimeampm,5 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"FRIDAY, MAY 3"
-input,"['272', 'Y', 'AHA Badge Soldering', '2019-05-03 17:00:00', '2019-05-03 21:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '13', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '5a5cf4bb64fc2c783c11e3d41759454e', '931407', 'AHA', '', '', '', '', '']"
+input,"['272', 'Y', 'AHA Badge Soldering', '2019-05-03 17:00:00', '2019-05-03 21:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '14', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '5a5cf4bb64fc2c783c11e3d41759454e', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -1418,7 +1418,7 @@ starttimeampm,5 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['335', 'Y', 'The Mediocre Programmer: A Love-Letter to an Industry and Those Struggling on Their Journey', '2019-05-03 17:00:00', '2019-05-03 18:00:00', 'Tech', '', ""Let's face it: we don't want to be mediocre programmers. We want to be [great|amazing|superlative] programmers! We want to be the programmers they call whenever they're in a bind. We want to be the programmers that rush into unfamiliar code bases and produce perfect code in a matter of minutes. Why would we want to be mediocre programmers? In this talk we'll discuss what it means to be a mediocre programmer. We'll consider the many pitfalls that may befall you on your journey, from self-doubt to burnout, and share tips for how to cope with the challenges of programming and when it might be time to try something new."", '', '', '', '', '0', '5', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'fde5e3694018238f4c97c9cebbb0efb7', '931344', 'Craig Maloney', '', '', '', '', '']"
+input,"['335', 'Y', 'The Mediocre Programmer: A Love-Letter to an Industry and Those Struggling on Their Journey', '2019-05-03 17:00:00', '2019-05-03 18:00:00', 'Tech', '', ""Let's face it: we don't want to be mediocre programmers. We want to be [great|amazing|superlative] programmers! We want to be the programmers they call whenever they're in a bind. We want to be the programmers that rush into unfamiliar code bases and produce perfect code in a matter of minutes. Why would we want to be mediocre programmers? In this talk we'll discuss what it means to be a mediocre programmer. We'll consider the many pitfalls that may befall you on your journey, from self-doubt to burnout, and share tips for how to cope with the challenges of programming and when it might be time to try something new."", '', '', '', '', '0', '6', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'fde5e3694018238f4c97c9cebbb0efb7', '931344', 'Craig Maloney', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Craig Maloney
 avneeds,
@@ -1538,7 +1538,7 @@ starttimeampm,6 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '6', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gamble', '', '', '', '', '']"
+input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '7', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gamble', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,James Gamble
 avneeds,
@@ -1738,7 +1738,7 @@ starttimeampm,6 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"FRIDAY, MAY 3"
-input,"['278', 'Y', 'Opening Ceremonies', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Penguicon', '', 'Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!', '', '', '', '', '0', '30', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '9149e92f1f0aaf8e8f664499a9770de8', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland', '', '', '', '', '']"
+input,"['278', 'Y', 'Opening Ceremonies', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Penguicon', '', 'Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!', '', '', '', '', '0', '31', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '9149e92f1f0aaf8e8f664499a9770de8', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland"
 avneeds,
@@ -4218,7 +4218,7 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '11', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley Lesser', '', '', '', '', '']"
+input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '12', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley Lesser', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,Ashley Lesser
 avneeds,
@@ -5178,7 +5178,7 @@ starttimeampm,11 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '30', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
+input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '31', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Joseph Rock
 avneeds,
@@ -7578,7 +7578,7 @@ starttimeampm,3 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['274', 'Y', 'AHA Badge Soldering', '2019-05-04 15:00:00', '2019-05-04 17:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '7', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '35b9b3a50b18c824c64cd9dc12fa699f', '931407', 'AHA', '', '', '', '', '']"
+input,"['274', 'Y', 'AHA Badge Soldering', '2019-05-04 15:00:00', '2019-05-04 17:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '8', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '35b9b3a50b18c824c64cd9dc12fa699f', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -7658,7 +7658,7 @@ starttimeampm,3 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['362', 'Y', 'Movie: Ready Player One', '2019-05-04 15:00:00', '2019-05-04 18:00:00', 'Media', '', '', '', '', '', '', '0', '0', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '47108edc23a955169d47bd89a1740edd', '931320', '', '', '', '', '', '']"
+input,"['362', 'Y', 'Movie: Ready Player One', '2019-05-04 15:00:00', '2019-05-04 18:00:00', 'Media', '', '', '', '', '', '', '0', '1', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '47108edc23a955169d47bd89a1740edd', '931320', '', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,
 avneeds,
@@ -9898,7 +9898,7 @@ starttimeampm,6 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['363', 'Y', 'Movie: Spiderman: Into the Spiderverse', '2019-05-04 18:00:00', '2019-05-04 20:00:00', 'Media', '', '', '', '', '', '', '0', '1', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'e3f9c71726a7e59539f24ed8ce449517', '931320', '', '', '', '', '', '']"
+input,"['363', 'Y', 'Movie: Spiderman: Into the Spiderverse', '2019-05-04 18:00:00', '2019-05-04 20:00:00', 'Media', '', '', '', '', '', '', '0', '2', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'e3f9c71726a7e59539f24ed8ce449517', '931320', '', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,
 avneeds,
@@ -10218,7 +10218,7 @@ starttimeampm,7 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['275', 'Y', 'AHA Badge Soldering', '2019-05-04 19:00:00', '2019-05-04 23:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '6', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '885ba4be1ca3d623f7dbc25c081f5657', '931407', 'AHA', '', '', '', '', '']"
+input,"['275', 'Y', 'AHA Badge Soldering', '2019-05-04 19:00:00', '2019-05-04 23:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '7', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '885ba4be1ca3d623f7dbc25c081f5657', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -10538,7 +10538,7 @@ starttimeampm,8 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['277', 'Y', 'Mikey Mason: Comedy Rock Geek!', '2019-05-04 20:00:00', '2019-05-04 22:00:00', 'Penguicon', '', ""A nationally touring performer with more than a decade of professional stand-up comedy experience, and with hits like She Don't Like Firefly, Best Game Ever, and Opposite of Cool, Mikey Mason is a ball of contagious enthusiasm who makes songs about role-playing games, video games, sci-fi, fantasy, cats, and the general experience of being a geek. His personal anthem, The Opposite of Cool, strikes a nearly universal nerve wherever he plays it. He\xe2\x80\x99s been heard on nerdist.com, SyFy, TheFuMP.com, and Dr. Demento, and is a truly must-see event each time he performs."", '', '', '', '', '0', '15', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '2a5225f5b2e98235b0ac105e21136a68', '931392', 'Mikey Mason', '', '', '', '', '']"
+input,"['277', 'Y', 'Mikey Mason: Comedy Rock Geek!', '2019-05-04 20:00:00', '2019-05-04 22:00:00', 'Penguicon', '', ""A nationally touring performer with more than a decade of professional stand-up comedy experience, and with hits like She Don't Like Firefly, Best Game Ever, and Opposite of Cool, Mikey Mason is a ball of contagious enthusiasm who makes songs about role-playing games, video games, sci-fi, fantasy, cats, and the general experience of being a geek. His personal anthem, The Opposite of Cool, strikes a nearly universal nerve wherever he plays it. He\xe2\x80\x99s been heard on nerdist.com, SyFy, TheFuMP.com, and Dr. Demento, and is a truly must-see event each time he performs."", '', '', '', '', '0', '16', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '2a5225f5b2e98235b0ac105e21136a68', '931392', 'Mikey Mason', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,Mikey Mason
 avneeds,
@@ -12258,7 +12258,7 @@ starttimeampm,10 AM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['276', 'Y', 'AHA Badge Soldering', '2019-05-05 10:00:00', '2019-05-05 14:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '6', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '474657891edac4c2b85b64f8fac70705', '931407', 'AHA', '', '', '', '', '']"
+input,"['276', 'Y', 'AHA Badge Soldering', '2019-05-05 10:00:00', '2019-05-05 14:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '7', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '474657891edac4c2b85b64f8fac70705', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -12738,7 +12738,7 @@ starttimeampm,11 AM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['356', 'Y', 'Penguicon Board of Directors Meeting', '2019-05-05 11:00:00', '2019-05-05 12:00:00', 'Penguicon', '', ""Each year of Penguicon is run by a Convention Committee, selected by the ConChair. The Penguicon Board is the group that selects each year's ConChair and approves their budget. The Board also handles any decision which would be binding on a future ConChair who is selected yet. The quarterly Board Meetings are open to the public, but we also have one during Penguicon so you can ask your questions about Penguicons of the future, ure, ure, ure!"", '', '', '', '', '0', '2', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '11e0dc88d11464bec260b39735bd21c1', '931353', 'James Hice, Matt Arnold, Chelle Silas, Amanda Long-Adams, Randy Bradakis', '', '', '', '', '']"
+input,"['356', 'Y', 'Penguicon Board of Directors Meeting', '2019-05-05 11:00:00', '2019-05-05 12:00:00', 'Penguicon', '', ""Each year of Penguicon is run by a Convention Committee, selected by the ConChair. The Penguicon Board is the group that selects each year's ConChair and approves their budget. The Board also handles any decision which would be binding on a future ConChair who is selected yet. The quarterly Board Meetings are open to the public, but we also have one during Penguicon so you can ask your questions about Penguicons of the future, ure, ure, ure!"", '', '', '', '', '0', '3', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '11e0dc88d11464bec260b39735bd21c1', '931353', 'James Hice, Matt Arnold, Chelle Silas, Amanda Long-Adams, Randy Bradakis', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,"James Hice, Matt Arnold, Chelle Silas, Amanda Long-Adams, Randy Bradakis"
 avneeds,
@@ -13738,7 +13738,7 @@ starttimeampm,12 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SUNDAY, MAY 5"
-input,"['364', 'Y', 'Movie: Back to the Future', '2019-05-05 12:00:00', '2019-05-05 14:00:00', 'Media', '', '', '', '', '', '', '0', '0', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'd454eab8851b2e3674ab9e89a387d481', '931320', '', '', '', '', '', '']"
+input,"['364', 'Y', 'Movie: Back to the Future', '2019-05-05 12:00:00', '2019-05-05 14:00:00', 'Media', '', '', '', '', '', '', '0', '1', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'd454eab8851b2e3674ab9e89a387d481', '931320', '', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,
 avneeds,
@@ -14418,7 +14418,7 @@ starttimeampm,3 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '33', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland', '', '', '', '', '']"
+input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '34', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland"
 avneeds,
