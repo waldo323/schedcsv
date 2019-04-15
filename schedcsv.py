@@ -263,7 +263,6 @@ for index, x in enumerate(pconsched.schedule):
             logging.debug("slashdate: {}".format(slashdate))
             session['endday'] = slashdate
             if fieldtext[-8:] != "vent_end":
-                logging.debug("**********here***********")
                 logging.debug(fieldtext)
                 session['endtime'] = fieldtext[len(fieldtext)-fieldtext.find(" ") +2:-3] 
                 session['endtimeampm'] = ampmformat(session['endtime'])
@@ -388,7 +387,7 @@ for index, x in enumerate(pconsched.schedule):
         # included some html symbols and tags which would not have looked
         # good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
-        reps = {"&nbsp;":" ", "<br />":"", "&":" and ", "&amp;":" and ", "<p>":"", "</p>":"", "</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-", "\n":" ", "  ":" ", "\r":" "}
+        reps = {"&nbsp;":" ", "<br />":"", "&":" and ", "&amp;":" and ", "<p>":"", "</p>":"", "</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-", "\n":" ", "  ":" ", "\r":" ","&quot;":"\""}
         amps = {"&":" and ", "  ":" "}
         quoterep = {"\"":"'"}
         addamps = {"&":"&amp;", "\n":" "}

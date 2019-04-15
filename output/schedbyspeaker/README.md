@@ -12,7 +12,7 @@ use these links for downloading the actual csv files:
 | [AmyConlon]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmyConlon.csv ) |  |
 | [AmyWilkins]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmyWilkins.csv ) |  |
 | [AmyWright]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AmyWright.csv ) |  |
-| [AndrewM.andquot;Fishandquot;Popowich]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndrewM.andquot;Fishandquot;Popowich.csv ) |  |
+| [AndrewM.-Fish-Popowich]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndrewM.-Fish-Popowich.csv ) |  |
 | [AndrewScala]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndrewScala.csv ) |  |
 | [AndyAlthouse]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AndyAlthouse.csv ) |  |
 | [AngelaC.Spears]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/AngelaC.Spears.csv ) |  |
