@@ -5,5 +5,5 @@
 <event><title>{{event['bookname']}}</title>
 <topic>{{event['event_type']}}</topic>{% if venue != '' %}
 <room>{{event['booklocation']}}</room>
-{% endif %}<blurb><participant>{{event['speakers']}}</participant> {{event['bookdescrip']}}{% if event['duration'] != "50 minutes" and event['duration'] != "00 minutes"%}<duration>{{event['duration']}}</duration>{% endif %}</blurb></event>{% endfor %}</events>
+{% endif %}<blurb><participant>{{event['speakers']}}</participant> {{event['bookdescrip']}}{% if event['duration'] != "50 minutes" and event['duration'] != "00 minutes"%} <duration>{{event['duration']}}</duration>{% endif %}</blurb></event>{% endfor %}</events>
 
