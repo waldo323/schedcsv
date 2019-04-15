@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <day>All Weekend</day>
-<time>4 PM</time>
-<event><title>Catch Me if You Can!!</title>
+<time>All Weekend</time><event><title>Catch Me if You Can!!</title>
 <topic>Mayhem</topic>
 <room>Various Location</room>
 <blurb><participant></participant> I am the Ribbon Fairy! Catch me with one or many ribbon(s), and I will present you with one my own.<duration>48 hours</duration></blurb></event>
+<time>4 PM</time>
 <event><title>Furry Delivery Service</title>
 <topic>Mayhem</topic>
 <room>Various Location</room>
