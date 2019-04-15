@@ -1,3 +1,1834 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <day>All Weekend</day>
 <time>4 PM</time>
+<event><title>Catch Me if You Can!!</title>
+<topic>Mayhem</topic>
+<room>Various Location</room>
+<blurb><participant></participant> I am the Ribbon Fairy! Catch me with one or many ribbon(s), and I will present you with one my own.<duration>48 hours</duration></blurb></event>
+<event><title>Furry Delivery Service</title>
+<topic>Mayhem</topic>
+<room>Various Location</room>
+<blurb><participant></participant> Be on the lookout for Penguicon's furry friend who will be making special deliveries around the con.<duration>48 hours</duration></blurb></event>
+<event><title>Penguicon Photo Booth</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> Say cheese! Grab a prop and take some pics!<duration>48 hours</duration></blurb></event>
+<event><title>Chaos Machine</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> This customizable marble roller coaster is a perennial favorite. It serves as a metaphor for the open source development process. The Chaos Machine is available all weekend for Penguicon attendees to tinker with!<duration>48 hours</duration></blurb></event>
+<event><title>Bazaar Quest</title>
+<topic>Mayhem</topic>
+<room>Various Location</room>
+<blurb><participant></participant> A D&amp;D quest of greatness!<duration>48 hours</duration></blurb></event>
+<event><title>Giant Jenga</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> It's your favorite party game, Jenga, but GIANT!<duration>48 hours</duration></blurb></event>
+<event><title>Prize Capsule</title>
+<topic>Mayhem</topic>
+<room>Lobby</room>
+<blurb><participant></participant> Put in a quarter and get a prize!<duration>48 hours</duration></blurb></event>
+<event><title>Penguin Hunt</title>
+<topic>Mayhem</topic>
+<room>Various Location</room>
+<blurb><participant></participant> Hunt down the elusive alien race of Pengui who are here because they thought Penguicon was a call from their mothership to send them home. They are a friendly but skittish bunch so we ask that you only observe them where they are by taking their picture. You will be rewarded for your skills of observation when you present your captured image to the ConChair, Jessica Roland.<duration>48 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Dice Forge</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; Development game featuring innovative mechanics based on dice with removable faces. In this dice crafting game, players build their own dice. Roll your dice, manage your resources, complete ordeals before your opponents and explore multiple winning strategies.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>1 PM</time>
+<event><title>Azul</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 2-4 players; Players take turns drafting colored tiles from suppliers to their player board. Later in the round, players score points based on how they've placed their tiles to decorate the palace. Extra points are scored for specific patterns and completing sets; wasted supplies harm the player's score. The player with the most points at the end of the game wins.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>3 PM</time>
+<event><title>Unpublished Prototype: GaiaVora</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Matt Arnold</participant> BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>4 PM</time>
+<event><title>Building an Open Source Artificial Pancreas</title>
+<topic>Tech</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Sarah Withee</participant> What if open source software or hardware could help improve peoples lives by solving some of their health problems? After the medical tech industry kept promising a system to help automatically manage insulin for type 1 diabetic people and never delivering, some people got together to find ways to do it with the tech they already had. Over the past few years, a "closed-loop" system has been developed to algorithmically regulate peoples blood sugars. As a diabetic, the presenter built this system and saw her sugar values stabilize much more than would be possibly by managing them manually. Learn about OpenAPS (the open artificial pancreas system) and how it works, what problems it solves, and its safety and security concerns. The presenter will also share her personal experience and what OpenAPS means for her health now and in the future. Consider how we, as software developers, can change peoples lives through the code we write.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Mystic Vale</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; This game features an innovative 'card crafting system,' which lets you not only build your deck, but build the individual cards in your deck, customizing each card's abilities to exactly the strategy you want to follow.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>How To Get Started In Cosplay</title>
+<topic>Cosplay</topic>
+<room>EMC I</room>
+<blurb><participant>Jennifer Skwarski</participant> Have you seen a lot of con goers dressed up in fabulous costumes? Would you like to join in on the fun? Feeling a little clueless on how to start or maybe a bit intimidated? We will talk about techniques to make a costume, sources of inspiration, how to choose a character, and trying to keep it all in a budget.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Dice!</title>
+<topic>Gaming</topic>
+<room>EMC II</room>
+<blurb><participant>Ellen Rimar</participant> An in-depth talk about the gaming staple, dice. Their history, styles and types (including crooked dice), big manufacturers and independent makers, and a focus on building and maintaining a collection.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Open Source Firewall pfSense</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Tom Lawrence</participant> Learn how to configure the open source pfSense firewall.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Beginners Guide to Giving a Panel</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>John Patrick</participant> Have you every ever thought about giving your own presentation at Penguicon or other events but didn't think you had what it takes? Being able to give a presentation isn't just a way to get discounted admissions to conventions, it is a valuable skill that can be applied in your everyday life. I have worked in the convention support industry for over 18 years and have seen amazing and not-so-amazing speakers. Let me share with you some of the pitfalls to avoid as well as easy tips for preparing your presentation and overcoming the fear of failure. Maybe next year you can get one of those spiffy presenter ribbons.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>People R Us: Geeks of Color</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Meredith Carson</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: Geeks of Color<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>How to make your GM Curse: Playing RPGs 101</title>
+<topic>Gaming</topic>
+<room>EMC V</room>
+<blurb><participant>Byron Pepper</participant> One of a series of three RPG panels. While your GM sits behind his screen, sometimes it easy to forget that playing RPGs is a two way street. Come and explore ways to spice up your game from your side of the screen and become a better player in the process.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Professional Wrestling 101</title>
+<topic>Media</topic>
+<room>EMC III</room>
+<blurb><participant>Shane Soules</participant> Have you ever wondered just what pro wrestling is?' Have you ever wondered what the heck is the appeal of grown men and women fake fighting in their underwear? Well, have I got a panel for you! Come learn the ins-and-outs of professional wrestling. Learn what wrestling is, how it works, what makes a match good or bad, and more! Also attend the sister-panel 'History of Pro Wrestling' to learn more!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>How to Not Suck at Looking for a Job</title>
+<topic>Life</topic>
+<room>Nicolet</room>
+<blurb><participant>David R. Phillips</participant> We've spent almost 20 years helping people find jobs, and our blogs about doing so are used and shared out by the State of Michigan and many employment agencies and contracting firms.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>5 PM</time>
+<event><title>The Weird World Of Night Vale Presents</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Mari Brighe, Charlotte Wolf</participant> Nightvale Presents produces some of the most innovative speculative fiction podcast content available. With shows like Welcome to Night Vale, Alice Isn't Dead, Adventures in New America, and Within The Wires, its stable of shows are delightful dark, weird, incredibly queer, and extremely diverse. We'll discuss some of our favorite shows from Night Vale Presents, explore what sets them apart from more traditional SFF media, and discuss how they could serve as a model for a more inclusive SFF world.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>I Started a Makerspace: AMA</title>
+<topic>Life</topic>
+<room>Nicolet</room>
+<blurb><participant>Karen Corbeill</participant> After being heavily involved in the makerspace scene in metro Detroit, Karen moved to Wisconsin where she saw a need for a similar community to be created in her neighborhood. Shell share stories about the process with plenty of time for you to pose questions on anything makerspace related!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Hand Spinning 101</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Ellen Rimar</participant> A tutorial on how to spin yarn using wool and a drop spindle with a live demo. If you have a spindle and want to know how to use it, or already and spin and are interested in tips, bring it and some roving to spin along.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>The Sunday Morning Linux Review</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Tom Lawrence, Jay LaCroix, Tony Bemus, Phil Porada, Mary Tomich</participant> The Sunday Morning Linux Review is a podcast hosted by Tony Bemus, Tom Lawrence, Phil Porada, Jay LaCroix, and Mary Tomich. We talk about Linux, Open Source, and Security topics. We have been recording Live at Penguicon since 2012.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>AHA Badge Soldering</title>
+<topic>Penguicon</topic>
+<room>Hackerspace (Room 328)</room>
+<blurb><participant>AHA</participant> Its a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.<duration>4 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Molds, Resins and Silicone Oh My!!</title>
+<topic>Cosplay</topic>
+<room>EMC II</room>
+<blurb><participant>Alena Van Arendonk</participant> Learn the process of fabricating hard plastic and flexible synthetic accessories for your costume (or other hobby). We'll discuss the various types of casting and mold making materials, explore their pros and cons, and walk through the moldmaking and casting process. Samples of various materials and finished products will be on hand. Bring a notebook -- this panel is info-heavy! See finished pieces and learn the step-by-step process.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Got Comic Movie Overload?</title>
+<topic>Media</topic>
+<room>EMC I</room>
+<blurb><participant>BluRaven C. Houvener</participant> With comic book films seemingly coming out every month, how long will it take for the comic book film to go the way of the western? Join us in a fun conversation about comic book films, past, present, and future...especially future!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Can I Get Some Trope Fries with My Trope and a Side of Trope Sauce?</title>
+<topic>Lit</topic>
+<room>Montcalm</room>
+<blurb><participant>Cassandra Morgan, Jen Haeger</participant> Tropes are tropes, but are readers still eating them up? A discussion of all things trope.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Putting the Problem Back in Problem Solving</title>
+<topic>Tech</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Lana Krolikowski</participant> So many people want to solve problems, they often skip over the important step of trying to really understand a problem and making sure they are solving the right problem. This discussion will focus on some exercises that can help you examine problems in the tech space (and life in general), to better hone your problem solving skills.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Paint Like an 18th Century Master for $30 or Less</title>
+<topic>DIY</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Zed Shaw</participant> Learning to paint realistically is traditionally very expensive and requires students to be very mobile and coordinated. You have to go to a class, stand for hours at a time, be great with your hands, have awesome eyesight, and spend hundreds of dollars on gear. I'll show you how to use some very cheap or free gear and a cardboard box to teach yourself how to paint realistically in your own home in the most economical and accessible way I know. This method of study should work for almost anyone even if they have limited mobility, eyesight, hand coordination, and economic resources while having fun and enjoying the experience of painting.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Book Interior Design: How to Prep a Manuscript for Indie Publication and Why</title>
+<topic>Lit</topic>
+<room>EMC V</room>
+<blurb><participant>Chris Bell</participant> Especially in self or indie publishing, the way you present your manuscript can impact how it is interpreted for interior design. Learn how to use Microsoft Word to prep a manuscript to reduce your cost and reduce potential ambiguity. Also, learn the basics of book interior design and what typesetting means in the 21st century.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Multiple Ways To Make a Grilled Cheese</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Justin Winkelman</participant> Come learn several ways to reach the same result, a grilled cheese, or at least melted cheese between two pieces of bread. Some methods will taste better than others, and all will be sampled.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>So this is your first Penguicon...</title>
+<topic>Penguicon</topic>
+<room>Algonquin B</room>
+<blurb><participant>Cassy Sinke, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland</participant> So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Small World</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-5 players; Small World is inhabited by a zany cast of characters such as dwarves, wizards, amazons, giants, orcs, and even humans, who use their troops to occupy territory and conquer adjacent lands in order to push the other races off the face of the earth.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>The Mediocre Programmer: A Love-Letter to an Industry and Those Struggling on Their Journey</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Craig Maloney</participant> Let's face it: we don't want to be mediocre programmers. We want to be [great|amazing|superlative] programmers! We want to be the programmers they call whenever they're in a bind. We want to be the programmers that rush into unfamiliar code bases and produce perfect code in a matter of minutes. Why would we want to be mediocre programmers? In this talk we'll discuss what it means to be a mediocre programmer. We'll consider the many pitfalls that may befall you on your journey, from self-doubt to burnout, and share tips for how to cope with the challenges of programming and when it might be time to try something new.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>6 PM</time>
+<event><title>London</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Mike Dudash</participant> BG 2-4 players. Players select cards with varying powers of cash flow, victory points, and poverty penalties, and compete to manage them most efficiently. Nearly 250 years of progress is glimpsed in this game. Famous buildings and monuments of the era as well as engineering developments such as streetlights are illustrated on the cards.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>People R Us: Neurodiversity and ASD</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Mike Ward, Josie Kusner</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: Neurodiversity and ASD<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Securing Your Digital Life</title>
+<topic>Tech</topic>
+<room>EMC I</room>
+<blurb><participant>James Gamble</participant> Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Cover Those Nips! DIY Pasties</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Tommy Gun, Darryn Storm</participant> Come decorate your own pair of pasties! We will also go over several different methods of constructing your own pastie bases and creating tassels. Supplies provided.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Eco Friendly Cosplay</title>
+<topic>Cosplay</topic>
+<room>Charlevoix B</room>
+<blurb><participant>girlinthechair aka Alex</participant> This talk will be a discussion on the ways people make cosplay just a bit more green. From using a wide variety of eco-friendly materials you may never even thought of, thrifting and buying second hand, costume swaps, up-cycling, and even dumpster diving, the possibilities are endless and the results can be pretty amazing too!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>LN2 Open Source Ice Cream</title>
+<topic>Food</topic>
+<room>LN2 [Hamlin]</room>
+<blurb><participant>Sarah Elkins, Phil Salkie</participant> Bring your own ingredients and we'll see what we can do with them! Any premium ingredients (e.g., hand-shaved vanilla bean) will shine on their own, but "this weird soda I found" may be combined with other ingredients for mad science. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We always have non-dairy mix bases available, juices for sorbets, and sugar-free sweeteners on hand. We're prepared, and want everyone to be able to enjoy!<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Consent Expectations and Party Vetting Opportunity</title>
+<topic>After Dark</topic>
+<room>Baldwin</room>
+<blurb><participant>Jett Khat</participant> This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Opening Ceremonies</title>
+<topic>Penguicon</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland</participant> Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Socially Conscious Fiction: What Should You Consider in Your Writing?</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Chris Bell, Emily Bell, Marsalis</participant> What issues do you consider regarding social responsibility when writing fiction? Representation? Tropes and stereotypes? Join our panel for an open discussion. [Note that our company has 'no harm' guidelines for our anthologies and I as an author have some insight on representation and what has and hasn't worked well.]<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Maintaining Your Mental and Emotional Health While Job Hunting</title>
+<topic>Life</topic>
+<room>EMC IV</room>
+<blurb><participant>Sarah Withee</participant> Searching for a new job? We all have to do it at some point. In the thick of the search, you're likely to get a lot of terrible tech interviews as well as a bunch of rejections. How do you maintain your energy, motivation, and perhaps more importantly, not feel like a failure after all that? I will talk a bit about my most recent job search. Youll see how I went into it with a different frame of mind than I had in the past, and how that helped me push through the interviews easier and take better care of myself in the process. You'll also hear about some of the specific interviews and the problems I saw with them. I'll show how, as companies and teams, we can improve the process for everyone. Finally, I'll offer ways that both companies and employees can offer feedback to continue to improve interviews.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Winds of Turmoil</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Lloyd Williams</participant> RPG 2-5 players Whispers flit across the sands. Something stirs and is making the natives restless. Your band of unlikely heroes have come together at the last trading post to be found for many days travel. The encroaching darkness will challenge your heroes in ways they have not been challenged before. Steel and sorcery may not solve all your problems. Cleverness and diplomacy may lead you further than your weapons can<duration>4 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Expanse: The Politics of Mars, Earth &amp; Belters</title>
+<topic>Lit</topic>
+<room>EMC V</room>
+<blurb><participant>Donald Mark Haynes</participant> One of the attractions of the Expanse is how the characters interact in a landscape of dynamic interactions between Terra, Mars and Belters. Lets explore their political structures, leadership and the role of trade and personal freedoms against a changing political tapestry.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>7 PM</time>
+<event><title>Cope or Nope: How to Adult Like a Real Grown Up</title>
+<topic>Life</topic>
+<room>EMC I</room>
+<blurb><participant>Beth Bondono</participant> It's hard to manage all the things that are part and parcel of adult living. Dishes, laundry, cooking, and more can all sometimes feel overwhelming, especially when brain issues make it harder than normal. This panel will help you find ways to handle the things life throws at you.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Will it Sphere-ify</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Frannie</participant> Spherification is a technique that transforms liquids into solid, edible spheres. People can use this technique to add color, texture, and flavor to their dishes. Join me as I experiment with spherification and try out a bunch of different liquids and see, WILL IT SPHERIFY?<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Writing Workshops: the DIY MFA</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Janea Schimmel, Colleen Nye</participant> If you write sci-fi, fantasy, and/or horror, you've likely heard of Clarion, Clarion West, Odyssey, Viable Paradise, Taos Toolbox, and a host of other writing workshops. But what are they? What do they entail? Are they worth it? Which one might be right for you? Come listen to some writers who have been there, done that talk about their experiences.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Movie: Metropolis</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Knitting 101</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Kelly V, Mary Fitzpatrick</participant> Learn to knit! Take two sticks and string and make a dishcloth! Supplies provided.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>You've Created It, Now Get It Out There!</title>
+<topic>DIY</topic>
+<room>EMC IV</room>
+<blurb><participant>Mike Madigan</participant> So you've created your own film, game, zine- how do you get it so others are aware and interested? I will take you through the basics of setting up your own Kickstarter campaign successfully, getting your project (film, video game) listed on IMDb, how to gain interest on social media platforms, and more tricks of the trade! Don't let your newest creation live in obscurity any longer!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Dungeon Master Academy</title>
+<topic>Gaming</topic>
+<room>Baldwin</room>
+<blurb><participant>Ellen Rimar</participant> An interactive, presenter-led round table discussion for dungeon/game masters of all experience levels to share ideas on how to improve their skills running tabletop roleplaying games. While this panel focuses on Dungeons &amp; Dragons, all game systems/players are welcome.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Self-editing for Fiction Writers</title>
+<topic>Lit</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Mary Lynne Gibbs, Jean Davis, G.S. Scott</participant> Join us for a discussion of techniques and suggestions for authors interested in self-publishing, preparing a manuscript for submission, or before hiring an editor.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Advanced Pattern Drafting: Make a Sloper Workshop</title>
+<topic>Cosplay</topic>
+<room>EMC III</room>
+<blurb><participant>Jeannie Arquette</participant> Learn to make your own pattern base customized to your own specific measurements to use in making future patterns fit you perfectly! This class is great for cosplay patterns or everyday clothing.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Anime Fantasy-Romance</title>
+<topic>Anime</topic>
+<room>EMC V</room>
+<blurb><participant>Paul Kemner, Star Stramel, Natasha Kidwell</participant> Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>The GRAM Role-Playing Game: Introductory Demo</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Cyndi Chadwick</participant> RPG; Join us for a demonstration of the GRAM role playing game led by one of the game designers.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>7 Wonders</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 2-7 players; You are the leader of one of the 7 great cities of the Ancient World. Gather resources, develop commercial routes, affirm your military supremacy. Build your city and erect an architectural wonder.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Selected Reading by Saladin Ahmed</title>
+<topic>Lit</topic>
+<room>Algonquin B</room>
+<blurb><participant>Saladin Ahmed</participant> Come enjoy some of Saladin's favorite excerpts from his selected works. Followed by a Q &amp; A session.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>50 Minutes of Easy Research on LGBTQ People</title>
+<topic>Life</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Mari Brighe, Brigham Vaughn, Hank Edwards</participant> Are you a writer/creator who wants to include LGBTQ people in your content? Have you already written queer and trans characters but want to make them deeper and more complex? Do you just have some really burning questions about something LGBTQ related that you just haven't felt comfortable asking? Well, here's your chance. Our panelists will answer your questions about pretty much anything (within reason, of course), and give you the easiest research you've done on a LGBTQ experiences.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Networking 101</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Wayne Pedersen</participant> Have you always wanted to learn about computer networking, but don't know where to start? Do acronyms such as DNS, DHCP, or TTL confuse you? Then Networking 101 is for you! Join Wayne Pedersen, owner and entrepreneur of Maumee Geeks as he brings over 20 years of IT experience to Penguicon. Learn about general network concepts, subnetting, and how the internet works in a live demo.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Ubuntu 19.04 Release Party</title>
+<topic>Tech</topic>
+<room>Westin Bar</room>
+<blurb><participant>Craig Maloney</participant> Come celebrate the release of the latest Ubuntu 19.04 release, code-named 'Disco Dingo'. We'll meet in the bar area and raise a glass to mark the occasion.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>8 PM</time>
+<event><title>FOSS on Wheels: How Autonomous Cars are Being Driven by Open-Source</title>
+<topic>Tech</topic>
+<room>EMC I</room>
+<blurb><participant>Joshua Whitley</participant> Since the DARPA Grand Challenge in 2005, much of the automotive industry have been working toward self-driving cars. Recently, the algorithms and software stacks used by research teams have begun moving into the open. This panel will provide an overview of what makes up an autonomous vehicle stack, what is available to the masses, and how you can help drive the future through open-source contributions.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Oxling's Alcoholic Chocolates</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Dan Eckerd</participant> If candy is dandy and liquor is quicker, then what is a combination of both?....Fun. Come see what Oxling has cooked up and learn to make your own fun filled treats. Tequila rose truffles, coconut rum cream and high octane cherry cordials are a few of the examples. Samples and recipes will be available at the end. Make sure to bring your valid ID with you to verify you are over 21 to try the chocolates.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Consuite Chaos: A Cthulhu LARP</title>
+<topic>Gaming</topic>
+<room>Algonquin A</room>
+<blurb><participant>Conor Esselink, Gnora Ford-Lepthien, Erika Wagner, Owen Bondono, Laura Cascos, Elizabeth Bondono</participant> Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary.<duration>4 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Fellowship of Fools: Friendship Edition</title>
+<topic>Gaming</topic>
+<room>EMC IV</room>
+<blurb><participant>Hermione Banger, Casey O'Donnell</participant> Fellowship of Fools (FoF) is a game about relationships. Making friends takes time, communication and honesty. For many, making friends and forging new connections can be difficult or even feel impossible. FoF is a game that gives you an opportunity to get to know people through conversation, vulnerability and finding common ground.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Dune</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Eric McGlohon</participant> BG 2-6 players; Set thousands of years in the future, Dune the board game is based on the Frank Herbert novels about an arid planet at the heart of the human space empire's political machinations. Player interaction is generated through negotiation and bluffing. Players each take the role of one of the factions attempting to control Dune, with each faction having special powers that overlook certain rules in the game. The game concludes when one faction (or two allied factions) is able to control a certain number of strongholds on the planet.<duration>3 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Anime Director Spotlight: Satoshi Kon</title>
+<topic>Anime</topic>
+<room>EMC V</room>
+<blurb><participant>Paul Kemner</participant> Kon wrote and directed four movies and a TV series before his tragic death. His highly-acclaimed work has been described as 'gritty, intense, and at times even nightmarish,' with themes of obsession and illusion vs reality. We'll check them out, discussing themes, styles, and what makes them worth watching, ending with an open discussion.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>2nd Sock Syndrome</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Patt Mundy</participant> Let's rock our socks off in this panel as I teach you all of the basics for creating your own socks. Basic knit and purl stitch skills required to enjoy our sock hop!<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>LIVE PODCAST: Getting Drunk with Shannon &amp; Maggie</title>
+<topic>Media</topic>
+<room>Nicolet</room>
+<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Join Shannon and Maggie for their 7th appearance at Penguicon as we podcast LIVE from the random location we will be assigned. Audience members will participate in the annual LIVE recording of Shannon &amp; Maggie's mostly weekly podcast about life, food, and booze. Be prepared to participate and be called upon to be a 'special guest'.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>BoF: Dr. Who Meet Up</title>
+<topic>Cosplay</topic>
+<room>Charlevoix B</room>
+<blurb><participant></participant> Birds of a Feather meet up for Dr. Who cosplay! Old school, new school, doctors, companions, enemies, family and friends, as well as spin off characters are welcome. Come dressed in your favorite Dr. Who cosplay, meet like minded people, enjoy conversations, strike poses, and take as many photos as humanly possible. Don't forget your props, witty comments, and sense of humor. Who knows? We may even be able to get a certain blue police box to stop by...<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Anthology Submissions: Advice from the Editor</title>
+<topic>Lit</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Emily Bell, Colleen Nye</participant> Are you interested in submitting short stories to themed anthologies? Get tips and tricks from anthology editors.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>TEALS Program Info Session</title>
+<topic>Life</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> The TEALS Program matches technology progessionals with educators to help bring computer education to schools. Come learn more about the program and how you can help or get your school involved.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Linux 101: Create Installation Media</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Zena Jasenak, Nick Lelli</participant> Learn how to make a Linux installation disc/usb for beginners and how to install linux on a machine. Limited availability. Sign up at ops.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Isle of Skye</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-5 players; Players are chieftains of famous clans and want to build their kingdoms to score as many points as possible but in each game only four of the sixteen scoring tiles will be scored.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Fabricating: Past vs. Future</title>
+<topic>DIY</topic>
+<room>Algonquin B</room>
+<blurb><participant>Sophia Brueckner, Danny Hansen</participant> Necessity has always been the mother of invention but how has that influenced the art of fabrication? How has necessity changed in the past and how will it change in the future? How has that changed the way we are fabricating? Join our Guests of Honor Danny Hansen and Sophia Brueckner as they speak about the past and the future of fabrication.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>People R Us: LGBTQIA</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Jessica Hummiston</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: LGBTQIA<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>9 PM</time>
+<event><title>LN2 After Hours Ice Cream</title>
+<topic>Food</topic>
+<room>LN2 [Hamlin]</room>
+<blurb><participant>Sarah Elkins, Phil Salkie</participant> Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Fun with Floggers</title>
+<topic>After Dark</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Rooskie</participant> Come learn the ins and outs of a simple but deceptively complicated type of play: flogging. It may sound painful, it may seem simple, but when you know how, when, where, and why, you will be able to bring your partner to another plane of understanding and help them fall into the beat of the music. They will forget the rest of the world and float in another time and space. Warning: this class may lead you down a road filled with wetness, hardness, or otherwise being worshiped for your godly powers. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Lords of Vegas</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; You and your opponents represent powerful developers in a burgeoning Nevada city. You will earn money and prestige by building the biggest and most profitable casinos on 'The Strip,' the town's backbone of dust and sin. You start with nothing but parking lots and dreams, but from there you build, sprawl, reorganize and gamble your way to victory. Score the most points investing in the most profitable development companies and putting the best bosses in control of the richest casinos. Put your dollars on the line . . . it's time to roll!<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Movie: Aquaman</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>3 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Whiskey of the West</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Greg Williams, Katie Buffone</participant> For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>STIs: Facts, Fictions, and Fables</title>
+<topic>Life</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Janice Gutfreund</participant> This presentation will take a look at the social history of STI prevention from the 20th century to the present. It will address how facts and social conditions shaped prevention strategies both then and now. When we look at what is actually true about STIs in terms of actual risk, treatments available, and prevention, we see how sex-negative beliefs still influence our perceptions. We will discuss ways of combating stigma within ourselves and how to talk to our partners and potential partners about risk. <br /><duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Star Trek: Five-Year Mission</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Fred Paffhausen</participant> BG 3-7 players Boldly roll where no one has rolled before<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Geeky Burlesque</title>
+<topic>Special Event</topic>
+<room>Algonquin C/D</room>
+<blurb><participant></participant> Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Ray Bradbury: A Fan Discussion</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Sarah Elkins, Michael Cieslak</participant> Bradbury's work crossed genre lines, publishing works in science fiction, fantasy, horror, and mystery. Come join other fans to discuss his work.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Sexuality, Kink &amp; Poly 101</title>
+<topic>After Dark</topic>
+<room>Montcalm</room>
+<blurb><participant>April Jennifer Choi</participant> There are so many questions people have about sexuality, kink, and poly. Get your basic questions answered by queer, kinky, polyamorous members of society! We'll also dive deeper into discussion on any difficult questions the group may have. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>10 PM</time>
+<event><title>Sketchy Nonsense Live Podcast 2: We're Doing It Again</title>
+<topic>After Dark</topic>
+<room>Food [317]</room>
+<blurb><participant>Shane Soules, Andy Althouse, Nick Haynes, Anne LaCroix</participant> Sketchy Nonsense is back again to do our patented (not actually patented) live podcast! Come see a group of guys do some live improv comedy for your listening pleasure. And also drink beer. And ALSO also, you can drink it with us! Sample the 'Beer of the Week' with us. It is most definitely 21+, so bring your big boy/girl/non-gender conforming pants and have a fun time! This event is 18+.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Red Dragon Inn</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Kevin King</participant> BG 3-6 players; You and your friends are a party of heroic, fantasy adventurers. You've raided the dungeon, killed the monsters, and taken their treasure. Now you're back, and what better way to celebrate your most recent victory than to spend an evening at the Red Dragon Inn. You and your adventuring companions will spend the night drinking, gambling, and roughhousing. The last person who is both sober enough to remain conscious and shrewd enough to hold onto his gold coins wins the game.<duration>2 hours</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Super-Violent Anime that is Totally Worth Your Time (Trust Us!)</title>
+<topic>Anime</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Cassy Sinke, Paul Kemner</participant> Anime can seem shockingly violent to people who think 'cartoons' are for children, but anime is created for adults too. But what to watch? Our bloodthirsty fan crew will share their favorites, with an emphasis on gripping stories and intriguing themes.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Safe Play and Breath Play</title>
+<topic>After Dark</topic>
+<room>Charlevoix A</room>
+<blurb><participant>TheMtnLioness</participant> Come learn about common mistakes and how to safely partake in this... breathtaking way to play! This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>BoF: Developing an Open Source Novel</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> Birds of a Feather: Many people consider releasing a novel under a Creative Commons Sharealike license to be the literary equivalent of an open source project. But this ignores the initial development process through initial release. Can all the principles of open source software development (iterative, incremental, and distributed development) and its tools (bug tracking, version control and project forking) be used to create a true open source novel? If so, what might that look like? Join us to discuss the feasibility of creating a truly open source novel.<br /><duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>11 PM</time>
+<event><title>The Wild &amp; Wonderful World of Whips</title>
+<topic>After Dark</topic>
+<room>Charlevoix A</room>
+<blurb><participant>April Jennifer Choi</participant> This talk will discuss all things whips: types, construction, physics, and skills! Presented by a whip professional with over 10 Guinness World Records in whip cracking. Learn about whips for sport, competition, and after hours play. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<event><title>Sensation Play</title>
+<topic>After Dark</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Jett Khat</participant> Come see a demonstration of some of the vast number of experiences sensation play provides! We'll be demonstrating and teaching bondage, sensory deprivation, temperature play, biting and scratching, integrating the use of floggers and knives, sensual touch, and with permission, a clothed demonstration of orgasm torture (inducing multiple orgasms with a wand vibrator and bondage). We'll also show you how to play in a safe and consensual way. This event is 18+.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>6 AM</time>
+<event><title>Morning Rave</title>
+<topic>Mayhem</topic>
+<room>Algonquin A</room>
+<blurb><participant></participant> Come party in the AM! Get pumped up and dance your heart out, calm down with some yoga, and help yourself to some coffee and tea.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>8 AM</time>
+<event><title>Penguicon 2019 5K</title>
+<topic>Life</topic>
+<room>Outside</room>
+<blurb><participant>William Bowen</participant> Join the great community at Penguicon 2019 for awesome time racing against your fellow geeks and gamers. This time it's IRL versus VR with absolutely no blue turtle shells to worry about.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>9 AM</time>
+<event><title>BurleXercise: A Burlesque Inspired Dance Fitness</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>Deborah O'Connell</participant> BurleXercise is a fitness class created by Deborah O'Connell that takes the 'follow the leader' format that other fitness classes frequently use and puts burlesque inspired movement to it. This is not a burlesque how-to, this is a fitness class inspired by burlesque.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Stiggy's Dogs Presents: Service Dogs Information Panel</title>
+<topic>Life</topic>
+<room>Montcalm</room>
+<blurb><participant>Gino DeTone, Christine Myran</participant> Stiggy's Dogs is an non-profit organization that rescues shelter dogs and trains them to be service dogs for veterans with Post Traumatic Stress Disorder (PTSD) and/or Traumatic Brain Injury (TBI) at no cost to the veteran. Come learn about the different types of working dogs, dos and don'ts when you meet a service dog and veteran, and how dogs are beneficial and life changing.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Make Your Own Pillowcase</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Kim Ulrich</participant> Join me in sewing your very own pillowcase. Learn how to use a sewing machine while making something useful!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Importance of Animals</title>
+<topic>Lit</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Cassandra Morgan, Michael Cieslak</participant> From sentient characters to plucky sidekicks, animals have been featured in SFF since its inception. This talk will discuss which animal characters work, which don't, and perhaps how to create your own believable, non-human characters.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Self-Publishing 2019</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Michael W. Lucas, Colleen Nye</participant> Self-publishing is no longer the hot new way to publish. It's not quite mature, but the options and tools have dramatically increased. It's not just 'shove a book up on Amazon and profit;' we can sell hardcovers in Malaysia and audiobooks in China. Is self-publishing for you? What tools do you need? What works? What used to work, but doesn't anymore? How do you self-publish? SHOULD you self-publish? Would pro basketball be a better career goal? Come find out!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Modular Synthesizers: The Lego of Electronic Music</title>
+<topic>Tech</topic>
+<room>EMC II</room>
+<blurb><participant>Jon King</participant> Learn the basics of modular synths, how they originated, how they work, and why they are so awesome.There will be a demonstration using a software synthesizer program and a short live performance using the presenter's own modular setup.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>10 AM</time>
+<event><title>Foamsmithing 101</title>
+<topic>Cosplay</topic>
+<room>EMC I</room>
+<blurb><participant>Alex Drummer</participant> Learn about the basic skills and tools needed to build props and costumes out of foam. See examples of pieces and ask for tips on projects you are working on.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Poetry with Pitch! A Penguicon Choral Workshop</title>
+<topic>Life</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Ashley Lesser</participant> Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Needle Felting 101</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Bagel Garrison</participant> We'll start with a stabby needle and some wool, and you'll end up with an adorable penguin to take home! Learn the basics of why and how felting happens, and the general idea of how to make it work. Space is limited, so please sign up near Ops.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>DIY Pompom Guns</title>
+<topic>Mayhem</topic>
+<room>Montcalm</room>
+<blurb><participant>Bronwyn</participant> Learn to make your own pompom gun!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>P.O.V. for Dummies</title>
+<topic>Lit</topic>
+<room>EMC IV</room>
+<blurb><participant>Janea Schimmel</participant> Point of view seems so simple, and yet it's so hard to get right. In this panel we'll discuss why that is, and explore some tools you can take home to move your point of view beyond first, second, and third person.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>DDOSs and What the Average Person Can Do About It</title>
+<topic>Tech</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Tony Bemus</participant> DDOSs have been in the news for a few years. Learn what a DDOS is, how companies protect themselves, and how the average person can do their part to prevent it.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Amigurumi: Crochet a Penguin!</title>
+<topic>DIY</topic>
+<room>EMC V</room>
+<blurb><participant>Dawn Marino, Kelly V, Grace Cocking</participant> So you know the basics of crochet and want to try something new? Lets go beyond the basics, read a pattern, and make amigurumi! Space limited, sign up at ops.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>An Introduction to Macros in Clojure</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Noah Bogart</participant> Dive into the programming language Clojure with a focus on the macro system and how it can be used effectively.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Abyss</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; A game of development, combination and collection in which players try to take control of strategic locations in an underwater city. To achieve this, players must develop on three levels: first by collecting allies, then using them to recruit Lords of the Abyss, who will then grant access to different parts of the city. Players acquire cards through a draft of sorts, and the Lords of the Abyss acquired on those cards grant special powers to the cardholder   but once you use the cards to acquire a location, that power is shut off, so players need to time their land grabs well in order to put themselves in the best position for when the game ends.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>An Overview of Vim</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Michael Rometty</participant> We will look at the Vim Text Editor, starting with the very basics and moving to some of the lesser known features of Vim. Bring your computer with Vim already installed if you want to work along with the speaker.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>TEALS Program Info Session</title>
+<topic>Life</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> The TEALS Program matches technology progessionals with educators to help bring computer education to schools. Come learn more about the program and how you can help or get your school involved.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>AHA Badge Soldering</title>
+<topic>Penguicon</topic>
+<room>Hackerspace (Room 328)</room>
+<blurb><participant>AHA</participant> Its a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.<duration>3 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Agile Escape Room</title>
+<topic>Tech</topic>
+<room>EMC III</room>
+<blurb><participant>Donald Mark Haynes, Doug Johnson, Erika Kahler</participant> Its the agile zombie apocalypse. You and your friends are trapped and all that stands between you and lunch is a locked door and three puzzle boxes. Each puzzle, once solved becomes an important component of the key. Every team must solve all three of their puzzles in order to complete the key. There is one key to rule them all. Only then may you leave the room before its you who becomes lunch. Are you willing to stake the lives of your team on your agile knowledge? Oh and by the way, how closely did you follow Scrum and agile principles in obtaining your release?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Coffee Ritual</title>
+<topic>Penguicon</topic>
+<room>Nicolet</room>
+<blurb><participant>Matt Arnold</participant> Back by popular demand, the Pope of Coffee shall blesspresso The Holy Of Holies: the most theatrical brewing method ever devised. The acolytes will serve the Holy Liquid unto the congregation, who shall raise the sacrament to the east, and in unison, recite the litany 'God, I needed that!' Look for a blend of cafe'ths such as Press-byterian, Buzzentine, Sipiscopal, and even Atheismericano.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Tux Blended Breathe and Stretch</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>William Bowen</participant> A yoga class for Penguicon that mixes fiery vinyasa poses with more restorative yin postures.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Music in Science Fiction</title>
+<topic>Lit</topic>
+<room>Algonquin B</room>
+<blurb><participant>Jessica Getman, Brooke McCorkle, Evan Ware, Reba Wissner</participant> Join us for discussion between music scholars and the audience about the role of music in science fiction film and television.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>11 AM</time>
+<event><title>Quantum Crafts</title>
+<topic>Science</topic>
+<room>EMC IV</room>
+<blurb><participant>Stanley Nunn</participant> Quantum physics and metaphysics both seek truth. Discover how these two pursuits have begun to reveal the truth of how our universe works and our place in it.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Tyrants of the Underdark</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Jason Miller</participant> BG 2-4 players; Each player leads a house of Drow in a section of the Underdark below the Sword Coast. The Drow house is represented by a deck of cards, with each card being a minion in that player's deck. Each minion belongs to one of five aspects of Drow society, and those aspects correspond to different strategies in the game, e.g., malice minions excel at assassinating opponents' troops, while ambition minions are best at recruiting additional minions and promoting minions to your 'inner circle', which is a special zone that increases their value at the end of the game.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Rave &amp; Circus Toys</title>
+<topic>DIY</topic>
+<room>Charlevoix A</room>
+<blurb><participant>April Jennifer Choi</participant> You've seen all those glowy and flashy toys at a rave or in a video. If you've ever wondered what they are or how to use them, then this panel is for you. Many of those toys are adapted from the circus world, and there will be two professional circus performers here to answer those questions.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Camp cookery and magical meal to prevent trailside tragedy</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Alex Drummer, chloe zrnich</participant> Tips and tricks for camp cookery. Focus on backpacking meal planning and on trail prep. Discussion points, types of backpacking stoves and cook kits, dehydration, DIY freeze drying. cold soak meals, trail baking. Recipes and possible meal samples<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Silicone Casting for Cheap Bastards</title>
+<topic>DIY</topic>
+<room>EMC V</room>
+<blurb><participant>Gnora Ford-Lepthien</participant> Have you wanted to cast things out of silicone, but found it to be cost prohibitive? Learn how to make silicone casts and moulds from inexpensive silicone caulk and cornstarch.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>How to Fight With a Medieval Longsword</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>Danny Hansen</participant> Have you ever wanted to learn how to fight like they do in your favorite medieval action movie? Come learn the basics on how to handle a long sword and what made this weapon the go-to in the days long ago.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Say Hello to My Little Side Character</title>
+<topic>Gaming</topic>
+<room>Montcalm</room>
+<blurb><participant>Julie Miller</participant> Side characters shouldn't take the spotlight, but that doesn't mean they should fade into the background either! In this talk I'll explain how you can create memorable side characters for your tabletop RPG, writing, or other creative endeavor.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Patterns Lie! and Other Useful Sewing Facts</title>
+<topic>Cosplay</topic>
+<room>Nicolet</room>
+<blurb><participant>Alena Van Arendonk</participant> Learning to sew can be daunting, especially if you've never had formal instruction. We're here to help! In this panel, we'll cover selecting and reading a pattern, choosing fabric, cutting, pinning, sewing, pressing, finishing hems, and more   all without complicated sewing terminology! You'll be sewing like a pro in no time. Bring your questions!<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Truths, Half-truths and Sweet, Sweet Lies: Reflections of an IT Consultant</title>
+<topic>Tech</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Donald Mark Haynes</participant> I sold you my sword not my soul! This will be an open and frank discussion of consulting in the current IT environment. What are the perils of being a change agent in an increasingly politicized and perilous engagement climate?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Lockpicking 101</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Joseph Rock</participant> Hands on with lock picks, just the basics, same as last year with a few new locks and things.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Vector! Attack of the Metapirates, Penguicon Edition</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Shane Wheeler</participant> A tabletop RPG adventure in the world of Vector! Attack of the Metapirates*, specifically tailored for Penguicon. *Vector! Attack of the Metapirates is not an adventure, supplement, setting, or campaign, but a MEMETIC VIRUS. Vector and the Meta Pirates may spread their influence into not only one game, but many, and should they not be contained or halted, may even irrevocably alter you and your players. You have been warned.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>People R Us: Geeks of Color II</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Meredith Carson</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: Geeks of Color<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The GRAM Role-Playing Game: Introductory Demo</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Warren Brown</participant> RPG; Join us for a demonstration of the GRAM role playing game led by one of the game designers.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Autodidact's Rules of Order: Teaching Yourself When Nobody Else Can or Will</title>
+<topic>Life</topic>
+<room>Algonquin B</room>
+<blurb><participant>Zed Shaw</participant> Being a self motivated learner isn't as simple as googling something when you don't know the answer. It takes the ability and willingness to research and take in multiple sources to search for the truth. Come learn what it takes to be successful at teaching yourself from a lifelong autodidact.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Fun with Origami</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Janet Gocay</participant> Come play with paper! We will fold a variety of models starting with some that are very easy and moving toward some that are a bit more challenging. No experience required. Children are welcome to attend with an adult.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Blocking Writer's Block</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Fred Paffhausen, Michael W. Lucas, Colleen Nye, Vik Walker</participant> The dreaded writer's block. What is it, and how do you get rid of it? Our panelists will ponder this pernicious plague upon creativity, and how to root it out of your writing practice. Writer's block can be beaten. We've done it.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Selected Reading by Saladin Ahmed</title>
+<topic>Lit</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Saladin Ahmed</participant> Come enjoy some of Saladin's favorite excerpts from his selected works. Followed by a Q &amp; A session.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>History of Pro Wrestling</title>
+<topic>Media</topic>
+<room>EMC III</room>
+<blurb><participant>Shane Soules</participant> Professional wrestling is one of the most storied art forms the world has ever known. Hey, wait! Come back! This panel is here to show you the history of pro wrestling. Dating from the early 1900s, all the way to present day, and all of the amazing history in-between. Pairs well with the sister-panel 'Professional Wrestling 101'<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Getting Motivated to Write</title>
+<topic>Lit</topic>
+<room>Algonquin B</room>
+<blurb><participant>Fred Paffhausen, Jean Davis, BluRaven Houvener</participant> Learn some ways to get into the writing frame of mind, including challenges, groups, and staying motivated.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Supernatural Anime: The Creepy, the Scary, and the Fun</title>
+<topic>Anime</topic>
+<room>EMC IV</room>
+<blurb><participant>Paul Kemner, Star Stramel, A. Carina Spears</participant> Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Make Your Own Cardboard Automata</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Karen Corbeill</participant> Learn how to use cams and cranks to make a cardboard creation that moves and jives. Walk away with your own custom automata.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Redefining Myths and Legend - Magic vs Science</title>
+<topic>Lit</topic>
+<room>EMC V</room>
+<blurb><participant>Vik Walker</participant> Historically, creatures of myth originated through magical means. In today's literature these same creatures can owe their beginnings to science. Explore and contrast both sides of the origin story.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Podcasting 101: So You Wanna Start a Podcast</title>
+<topic>Media</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>David R. Phillips</participant> Join us for a new and updated Podcasting 101 panel to help people get started in the wild world of podcasting!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Charisma Check: Teaching Social Skills With Modern Methods</title>
+<topic>Life</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Jessica Humiston-Aman</participant> This panel will cover using 'unconventional' methods to teach social skills to a variety of ages. Methods covered will include RPGs, improv, LARP, board games, and community activities.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Are You A Werewolf?</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Erika Wagner</participant> Well, are you? Let's play werewolf!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Relationship Communication</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>April Jennifer Choi, Bethany Byrnes</participant> In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Intro to Metal Working</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Derek Newland</participant> A basic Q&amp;A session with some show and tell of common tools used by the average metal worker, how they work, and how to use them safely. NO LIVE DEMONSTRATIONS, THINGS WILL CATCH FIRE.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Feline Nutrition 101</title>
+<topic>Science</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Cassandra Morgan</participant> Cats have been steadily growing in popularity for decades. Join Cassandra Morgan, author and feline nutrition and behavior consultant, as she walks you through the basics of feline nutrition. Learn how to read a pet food label, what it means to be an obligate carnivore, and settle the great kibble vs canned debate. It's going to be a purr-fectly meow-velous time!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>I Didn't Plan For This</title>
+<topic>Gaming</topic>
+<room>Montcalm</room>
+<blurb><participant>Julie Miller</participant> Eliminate the stress of planning your next D&amp;D session by not doing it! Learn the basics of improvisation to help you bring those techniques to your gaming table. So the next time your players want to go shoe shopping in the middle of a story arc, youll be ready!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Self-publishing Comics and Books</title>
+<topic>Media</topic>
+<room>EMC III</room>
+<blurb><participant>Stephanie Manard</participant> This talk will help current and future writers learn how to self-publish and promote their work.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The GRAM Role-Playing Game: Introductory Demo</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Cyndi Chadwick</participant> RPG; Join us for a demonstration of the GRAM role playing game led by one of the game designers.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>BoF: The Expanse is Saved</title>
+<topic>Media</topic>
+<room>Baldwin</room>
+<blurb><participant>Gibson Nichols</participant> Birds of a Feather: The Expanse was on SyFy then cancelled. Soon it was picked up by Amazon Prime after a media promotion by fans. Will we be able to expand SciFi using the media promotion of other great shows? What have we learned about getting funding and attention for our favorites? Can we do more?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>1 PM</time>
+<event><title>Navigating Polyamory: Keeping your Cups Full</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Andrew M. and quot;Fish and quot; Popowich, Becky Hill, Cyndi Chadwick</participant> Join us for a presentation and Q&amp;A about one million different ways to practice poly. Come learn how to better communicate and work through hiccups, such as scheduling conflicts, new partners, sexual safety, and mental/emotional health.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Improving your Writing</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Michael W. Lucas, Colleen Nye, Vik Walker</participant> Writing is one of the hardest crafts to learn, and measuring improvement is nearly impossible. How do you improve your writing? What methods have worked for us, and which failed miserably? How did our panelists achieve success? If we can improve, so can you.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Istanbul</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Mike Dudash</participant> BG 2-5 players; There's hustle and bustle at Istanbul's grand bazaar as merchants and their assistants rush through the narrow alleys in their attempt to be more successful than their competitors. Everything must be well organized: wheelbarrows must be filled with goods at the warehouses, then swiftly transported by the assistants to various destinations. Your goal? Be the first merchant to collect a certain number of rubies.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Pen Testing with Kali Linux</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>William Bowen</participant> Join us for an open discussion on Kali Linux, pen testing, and the possibilities of using this distro overall.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Dice Forge</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Jason Miller</participant> BG 2-4 players; Development game featuring innovative mechanics based on dice with removable faces. In this dice crafting game, players build their own dice. Roll your dice, manage your resources, complete ordeals before your opponents and explore multiple winning strategies.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Beekeeper Bootcamp</title>
+<topic>Science</topic>
+<room>Nicolet</room>
+<blurb><participant>Jen Haeger</participant> Want to help save the bees? Find out if you have what it takes to be an apiarist in the modern era of beekeeping.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Autonomous RC Car Race</title>
+<topic>Penguicon</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Scott Scheraga</participant> Autonomous RC Car Racing Series is a competition where builders from across the Metro Detroit and Ann Arbor areas will race their own self-driving 1/10 and 1/12 scale RC cars around our track as quickly as possible. The cars use a variety of software including TensorFlow, OpenCV and ROS. Remote-control cars will also be available for audience members to try to compete against us! Learn to build your own self-driving car at diyrobocars.com<duration>3 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Movie: Ghost in the Shell (1996)</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Star Wars: So Now What?</title>
+<topic>Media</topic>
+<room>Algonquin B</room>
+<blurb><participant>LadyAna, Professor X</participant> What can the fandom do to support the Star Wars saga in this new era of social media? Will the series ever be the same? Is it possible to move on to new material and still retain the magic of the original trilogy? Come join us to discuss the future Star Wars and what you would like to see, and not see, on the silver screen.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Stump The Experts</title>
+<topic>Cosplay</topic>
+<room>EMC II</room>
+<blurb><participant>Alex Drummer</participant> Have an idea for cosplay, but don't know how to go about making it? Come ask a panel of long time cosplayers for some advice and see if they can come up with some solutions.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Parachute while Grounded</title>
+<topic>Mayhem</topic>
+<room>Algonquin A</room>
+<blurb><participant>Jena Osborne</participant> Join us for some good old fashioned, gym class style parachute play! Participants of all ages welcome. Children should be accompanied by an adult.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Cheese: Young &amp; Spry or Aged &amp; Sharp?</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Shannon and Maggie return with another flavorful cheese tasting panel. Come discover if you like your cheese young and spry or aged and sharp. We will compare and contrast three different cheeses in both their 'young' and 'aged' stages. Come prepared to have your taste buds stimulated and your minds blown.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Bicycle Maintenance 101</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Joseph Leal</participant> An extensive look into complete bicycle repair. Basic to advanced repair will be demonstrated, from flat repair to complete tune-up. Disc brakes and wheel truing/straightening will be covered in this presentation. The mechanic presenting this demonstration has 20+ years of shop experience.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>An Introduction to Mondo Zen and the Importance of Meditation</title>
+<topic>Life</topic>
+<room>EMC IV</room>
+<blurb><participant>Hokyo Joshua Routhier MA LLPC</participant> This talk will discuss and explore a modern interpretation of Japanese Rinzai Zen. We will discuss insight and emotional koan practice and the necessity of Zazen (Zen meditation) in daily life. Hosted by Hokyo, a priest of Hollow Bones Zen.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Making Your Gaming Dollars Go Farther</title>
+<topic>Gaming</topic>
+<room>Montcalm</room>
+<blurb><participant>John Patrick</participant> Now is a great time to be a gamer. There are more games, miniatures, and accessories than anyone could ever imagine. Sadly, most of them cost money. Disposable income is a finite resource, but if there is one thing that gamers can be good at it is managing resources. I'm a single dad of two kids so I try to make every dollar I spend on gaming stretch as far as possible. Let's share tips and secrets.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>People R Us: Neurodiversity: and ASD II</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Mike Ward, Josie Kusner</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: Neurodiversity and ASD<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Mining Internet Gold</title>
+<topic>Life</topic>
+<room>EMC V</room>
+<blurb><participant>James Gamble</participant> Are you looking for a way to make a little extra money? Do you know how to use the Internet? If so, join Count Discord as he teaches you several proven ways to mine the Internet for free things!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Incorporating Disability Into Cosplay</title>
+<topic>Cosplay</topic>
+<room>Charlevoix B</room>
+<blurb><participant>girlinthechair aka Alex</participant> Many cosplayers have a disability or illness that requires them to use certain equipment to take into account other needs they might have. While you can really do whatever you like in cosplay, sometimes you may want to go all out and incorporate things that are already part of your daily life to make a truly epic costume. You may just want to find ways to be more comfortable or make small adaptations so your costume works better for your own personal situation. We'll try to cover these and any related topics during this panel.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>2 PM</time>
+<event><title>Ask A Baker</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Erika Wagner</participant> What does creaming really DO? What causes browning? Why does bread...bread? Why did my thing do that thing? If you've ever had a baking question, or just want to shoot the breeze about butter, come in. Have a chat, have a snack, and leave with a few recipes that won't let you down.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Wireless Audio in the Concert World</title>
+<topic>Media</topic>
+<room>EMC II</room>
+<blurb><participant>Scott Helmke</participant> Come learn about wireless microphones and related tech in the professional concert world, from some quick basics to coordinating frequencies over a multiple venue festival.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Terraforming Mars</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 1-5 players; In the 2400s, mankind begins to terraform the planet Mars. Giant corporations, sponsored by the World Government on Earth, initiate huge projects to raise the temperature, the oxygen level, and the ocean coverage until the environment is habitable. In Terraforming Mars, you play one of those corporations and work together in the terraforming process, but compete for getting victory points that are awarded not only for your contribution to the terraforming, but also for advancing human infrastructure throughout the solar system, and doing other commendable things.<duration>3 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Family Feud</title>
+<topic>Mayhem</topic>
+<room>Algonquin B</room>
+<blurb><participant>Chris Roland</participant> Let's play some Family Feud, fandom edition! Everything from the man in the blue box to Firefly! Let's go!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>LN2 Saturday Afternoon Matinee Ice Cream</title>
+<topic>Food</topic>
+<room>LN2 [Hamlin]</room>
+<blurb><participant>Sarah Elkins, Phil Salkie</participant> LN2 ice cream flavors inspired by movies and food/drink you'd find in a movie theater! We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Promptapalooza</title>
+<topic>Lit</topic>
+<room>Montcalm</room>
+<blurb><participant>Jen Haeger</participant> Little Red Riding Hood as steampunk. Go! How many words can you write from a prompt in just 3 minutes? Come find out at Promptapalooza 2019! Short, generally silly prompts will get your creative juices flowing in a fun, social writing environment. Bring a laptop, a pencil and notebook, or just a smartphone, but come ready to write!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Improv 101</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>Jessica Humiston-Aman, Ryan Aman</participant> This interactive panel will cover the basics of improv, and will give participants the opportunity to stretch their comedy muscles with some improv games! All experience levels are welcome, just come ready to play!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Which Programming Languages will Still Exist in 2030?</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Zed Shaw, Charles Severance</participant> What will the future bring when it comes to programming languages? Join us to discuss what the landscape of programming languages might look like in the year 2030.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Making Financial Decisions</title>
+<topic>Life</topic>
+<room>EMC V</room>
+<blurb><participant>Ericka Kahler</participant> There are tons of people out there telling you what you should do with your money. But how do you decide what's hype and what's actually best for you? Come learn how to manage your finances the way that's right for you. No sales, no silly advice about skipping lattes, just a method that helps you decide where your money is best spent, saved and invested.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Women in Technology</title>
+<topic>Tech</topic>
+<room>EMC IV</room>
+<blurb><participant>Zena Jasenak, Gail Christopherson, Sue Blair</participant> Three women with a variety of backgrounds, education, and identities talk about their experience being in the field of technology. Audience questions and sharing is welcomed.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>BoF: The Science of AI</title>
+<topic>Tech</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> Birds of a Feather: Let's talk about how AI is coming along! Have any good stories about the science of AI?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Dark Side -- The Reanimation of Horror</title>
+<topic>Media</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Nicole e. Castle, Michael Cieslak</participant> There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Turning Your Hobby Into A Profession</title>
+<topic>Media</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Mikey Mason</participant> Join Mikey Mason as he talks you through the process by which he made the leap from middle-management to full-time comedian to full time geek entertainer. Learn how you can apply his lessons learned to your own life and potentially use them to help make your hobby your profession, as well as some of the pitfalls you might encounter during such a transition (and hopefully, how to avoid them.)<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Electronics Wreck Lab and Scavenger Hunt</title>
+<topic>Science</topic>
+<room>EMC I</room>
+<blurb><participant>Karen Corbeill</participant> Get some tools in hand and take apart some electronics! See whats inside and follow along with the scavenger hunt to find various electronics components and learn what they do. Capacitors, resistors, and diodes, oh my!<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Five-Minute Anime: Face-Off</title>
+<topic>Anime</topic>
+<room>EMC III</room>
+<blurb><participant>Paul Kemner, Star Stramel, A. Carina Spears</participant> Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>3 PM</time>
+<event><title>Learning Management Systems, Educational App Stores, Repositories, and Analytics</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Charles Severance</participant> The idea of a next generation digital learning environment" (NGDLE) is now several years old and the Apereo open source communities are adopting this new model across the board. Apereo is showing the path to the NGDLE by moving from a single LMS product (Sakai) to a situation where educational needs can be met from any number of open source projects like Tsugi, Equella, Open Learning Warehouse, Xerte, and others. Much like Sakais "interoperability first" approach in 2004 radically changed the educational technology marketplace, Apereos NGDLE efforts in 2018 are laying the groundwork that will dramatically transform the educational technology market for the next decade.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Programming Arcade-style games with Godot</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Craig Maloney</participant> Ever wanted to make your own arcade-style games but weren't sure where to start? Or have you tried other game engines and decided they were too complex or the licenses were too onerous for your use. Godot is a free, cross-platform, Open Source game engine that handles both 2D and 3D game environments. We'll learn about Godot's interface and terminology. Then we'll talk about how to make a simple 2D game using Godot complete with sprites, sound, and whatever else we can think of.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Egiza</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Mike Dudash</participant> BG 2-4 players; The game lasts 5 turns. In each turn, the players place their pawns on the board, along the banks of the Nile, getting the advantages shown on each square. On the right bank there are fixed squares where the players may get workers, improve their mercantile capabilities, influence the floods (and thus the fertility of the fields) and reserve the right to build the monuments (that are built only after all the placements are done). On the left bank the players may take cards that are deployed randomly on the 10 squares at the start of each turn; some of these cards are kept until the end of the game (cultivable fields, stone quarries, deities granting special advantages), while others are discarded after the use and offer multiple immediate advantages.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>BoF: Craft Supply Swap</title>
+<topic>DIY</topic>
+<room>Baldwin</room>
+<blurb><participant>Josie Kusner</participant> Birds of a Feather: Are your jewelry making supplies gathering dust and you find yourself really into embroidery instead? Why not offload your unused crafting items and pick up some things you can use?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>AHA Badge Soldering</title>
+<topic>Penguicon</topic>
+<room>Hackerspace (Room 328)</room>
+<blurb><participant>AHA</participant> Its a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>I Didn't Plan For This One Shot</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Julie Miller</participant> RPG; 100% of the session will be created as we play! Player characters, world, and story will all be generated using the techniques from my "I Didn't Plan For This" panel. The game will use a simple high/low d20 system. (Note: attendees do NOT have to attend both in order to participate.)<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Movie: Ready Player One</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>3 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>People R Us: POC In Tech</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant></participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: People of Color in Tech<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Podcasts for Readers</title>
+<topic>Lit</topic>
+<room>Montcalm</room>
+<blurb><participant>Michael Cieslak</participant> There are now a slew of book related podcasts! How do you find the one which fits your needs? Are you looking for recommendations, reviews, publishing news, or bookish news?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Building a Vuetiful Web Application With Vue and Vuetify</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Brandon Lyons</participant> This event will be an introduction into web development using the Vue.js javascript framework. Attendees will be guided through the process of creating a functional web application. We will use Vue.js together with Vuetify, a library of pre-styled components, to build put together a frontend display for the application. All of the setup code will be provided as a Codepen, as well as the finished result to compare against.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Career Navigation Strategies: Taking Charge of Your Life</title>
+<topic>Tech</topic>
+<room>EMC V</room>
+<blurb><participant>Donald Mark Haynes</participant> A discussion of how to build and pursue a career navigation strategy via a practical approach using proven strategies.. We will focus on IT but the concepts hold true for any profession or trade. Bring your issues and share your story.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Learn to Hand Embroider</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Janet Gocay</participant> This workshop will be a hands-on introduction to hand embroidery. You will learn basic techniques and practice stitches including running stitch, back stitch, and even the dreaded French knots! All required supplies will be provided. Sign up in advance near Ops!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Paper Tales</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-5 players A simultaneous drafting card game. Each turn, players draft five units that they then recruit into their kingdom   assuming that they can pay. These choices determine the players ability to shine in battle, generate great income, construct dominant buildings, and earn legend points. There are only four hiring positions available during the four rounds of the play, but your units grow older with each turn until time takes them away.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Queer Theory for Everyone</title>
+<topic>Lit</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Mari Brighe, Charlotte Wolf</participant> Post-structural critical theory has been a hallmark of literary criticism in academia for years. However, Queer Theory and its related modes of inquiry like Critical Gender Theory, Critical Disability Theory, and Critical Race Theory, have been profoundly influential across disciplines from education to anthropology to technology studies. Come learn about the history and basic concepts of Queer Theory and how you can utilize it for better writing &amp; editing, more socially-aware technology, and building more inclusive communities.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Engineering Self Defense</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>Derek Newland</participant> Join us for an open forum of tips and tricks for general self defense, as well as where to get started if you're confused on what to look for in more formal training.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Arts &amp; Scraps Workshop: Make a 100% Green Costume!</title>
+<topic>Science</topic>
+<room>EMC III</room>
+<blurb><participant>Arts and Scraps Team</participant> Make a green costume or cosplay! Have you ever wanted to make a costume out of unconventional materials? Did you think you could do it in an hour? Come learn and play with Arts &amp; Scraps and use recycled industrial materials to create a new outfit that inspires and transforms! Learn about the 4 R's (yup, there's 4) and how you can incorporate green practices into your life as a maker.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>CMP Kitchen: Mad Food Science Continuing Education Credits</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Jeannette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan</participant> The folks at Cine Mal Practice have a love/hate relationship with innovative food. We've made sauerkraut chocolate cake, bacon fat ginger snaps, and Velveeta fudge all in the name of SCIENCE! Some recipes hit the spot, some don't. Come join us for a 'how to make peep sushi' demonstration and taste some of the odder things we've made. Recipes will be available. Bring your own weird food recipe to trade if you want.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Cosplay Pics 101, Posing In Costume</title>
+<topic>Cosplay</topic>
+<room>EMC IV</room>
+<blurb><participant>Alena Van Arendonk</participant> Want to look better in your cosplay photos? Want to make quick hallway snapshots look as good as a staged photoshoot? Its possible with a little posing practice! Come learn the secrets of creating flattering and dynamic poses for any character, as well as how to use setting and props to best effect.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Building Your Own Retro Gaming Console with RetroPie</title>
+<topic>Tech</topic>
+<room>Algonquin B</room>
+<blurb><participant>Jay LaCroix</participant> Attendees will be shown how to build their own retro gaming console, built on Raspberry Pi and running RetroPie, a Raspbian-based distribution tailored toward emulating classic gaming consoles. The talk will include an overview of the hardware required, and there will also be some gameplay demos.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>4 PM</time>
+<event><title>How to Work with People on the Spectrum: A Brief Discussion About Autism</title>
+<topic>Life</topic>
+<room>EMC V</room>
+<blurb><participant>Ian Sterrett, Greg Walters, Tammy Morris, Nuri Gocay</participant> Did you ever wonder or even know that 95% of autistic people (ASD) are unemployed or underemployed? This panel will inform you of the misinformation surrounding autism and how we can help autistic people after high school or even college. Be yourself and not somebody else.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Making Games for Free</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Bobby Bedard</participant> This will be an explanation of the various tools that you can use to make video games that are free to use and in most cases open source. The talk will focus on the presenter's favorite tools and how they are used to make video games. This should be a great primer for anyone who is interested in making video games but isn't sure where they should start. Note that this talk will not emphasize teaching how to make video games.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Linux 101: Get Started with Command Line</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Zena Jasenak, Nick Lelli</participant> Get started with linux command line, broken down into easy to understand pieces. Attendees can work at computers along with the presenter.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Needle Tatting 101</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Bagel Garrison</participant> Tatting is a classic form of lace-making, traditionally made by using a shuttle. However, needle tatting has become a popular alternative, and as I find it easier to explain and demonstrate, that's how I'll be introducing you to this art form. We will go over basic rings, picots, and joins and end up with a flower for you to take home. Space is limited, sign up in advance at Ops.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>BoF: Building Meetups and the Tech Community in Detroit</title>
+<topic>Tech</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> Birds of a Feather: Join us to talk about building the overall engineering and tech community within Detroit and the Detroit area.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Critical Optimism</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Sophia Brueckner</participant> Peoples ability to envision the future tends to fall between two unhealthy and unconstructive extremes. On one side, there are those who are blindly optimistic about technology. This attitude is sometimes termed "technosolutionism," the na-ve idea that every problem can be solved with technology. At the other extreme are those so critical of technology that they adopt an unrealistic Luddite attitude, avoiding technology altogether, or they assume that a dystopian future is inevitable and, as a result, become passive. Critical optimism navigates between these two extremes, encouraging an earnest hopefulness that also incorporates a healthy dose of criticality. What futures are possible, which are probable, and, most importantly, which might be preferred?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Human Trafficking is Everywhere</title>
+<topic>Life</topic>
+<room>EMC III</room>
+<blurb><participant>Elizabeth Lucas</participant> The presenter has over two decades of experience working with trafficking victims in Metro Detroit. We will start by discussing what trafficking is, how it starts, what it looks like, and what traffickers look like. We will also discuss the ramifications of abuse/trafficking and what to do if trafficking is suspected to keep the survivor and identifier safe.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Comic Books on the Big Screen</title>
+<topic>Media</topic>
+<room>Algonquin B</room>
+<blurb><participant>Mikey Mason, LadyAna, Saladin Ahmed, Professor X</participant> Did you enjoy Aquaman? Do you think Avengers: Endgame will live up to the hype? What would you change regarding Captain Marvel? Am I really the only one who liked Batman vs Superman? Join us to discuss comic book based films, including current, prior, and upcoming offerings. This will be a lively talk about what the movies got right, got wrong, and how they should improve with future cinematic endeavors. We look forward to seeing you there!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Your Fat is Not Your Fault: What Science Says About Behavior and Weight</title>
+<topic>Science</topic>
+<room>Montcalm</room>
+<blurb><participant>Judith S. Shapiro PhD</participant> Join New England Journal of Medicine published author, Judith S. Shapiro, PhD., in an in depth discussion as she summarizes the research showing that increases in average weight are due to biological factors, and that attempts to reduce weight through diet and exercise do not work long-term.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Unwelcome: Unpacking the Backlash Against Marginalized Fans, Creators, and Content</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Mari Brighe</participant> A small, but increasingly virulent contingent of fandom has spent the last several years waging war against women, people of color, and LGBTQ people (and especially those at the intersections of those experiences) who desire to see themselves in genre media. From the Sad Puppies to Gamergate to Comicsgate, we'll talk through the reality of what creators and fans alike have experienced when under fire from these groups, the potential roots of this backlash, and what we can do as a community to push back against it. <br /><duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Art of the Query</title>
+<topic>Lit</topic>
+<room>EMC I</room>
+<blurb><participant>Mary Lynne Gibbs, Christine Daigle, Claire Winn</participant> What does it take to stand out in a slush pile? Authors and editors describe techniques beyond the basics of query structure that make pitches grab attention.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Exciting World of Vegan Cheese Part II with Amy &amp; Amy</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Amy Wright, Amy Wilkins</participant> Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! Youll go home with plenty of recipes to make your own delicious plant-based cheeses at home<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Codename</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Ska</participant> BG 2-20 players; Two teams compete to see who can contact all of their agents first. Use clues that could point to multiple words on the board to guess your teams words, but not the other teams!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>5 PM</time>
+<event><title>Protecting The Digital You</title>
+<topic>Tech</topic>
+<room>Algonquin B</room>
+<blurb><participant>Tom Lawrence</participant> A primer on the digital footprints you leave online and how to protect yourself.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Writing An Open Source Paypal Portal For Convention Reg</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Matt Arnold, Drew Lanagan</participant> We would like to eliminate the need for ticketing services such as Eventbrite for online registration. Possibly Penguicon could host this software for other events as part of our mission to support the community. Join us to plan our future hackathons for writing this software. We will present the prototype.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Unconditional Basic Income</title>
+<topic>Life</topic>
+<room>Charlevoix C</room>
+<blurb><participant>Matt Arnold, Kevin O'Brien, Zachary Blagg</participant> What would happen if we paid every citizen a cash dividend sufficient to pay for their minimum survival needs? The expensive workload, necessary to prove who deserves it or needs it, costs more money than it saves. This expense is prevented by making it unconditional. We discuss revenue sources, effects on rent, effects on the labor force, and other considerations for this policy which has pilot programs around the world.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Cosplay Costume Contest</title>
+<topic>Cosplay</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Karen Corbeill, Saladin Ahmed</participant> Come check out the amazing talent in our community as they compete for the most amazing cosplay costumes!<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Timeline Challenge</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Jason Miller</participant> BG 2-10 players; Timeline Challenge incorporates the original mechanic of the series into progressive game track, of which players can move between 0-4 spaces per turn. Players will have to make use of predetermined time periods and guess where the incident depicted on the card occurred. There are four different challenges, and they are played depending on the color of the game space of the lead player. Additionally there are two further challenges which allow the two players at the back of the pack to catch up.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Recreating Viking History</title>
+<topic>Media</topic>
+<room>EMC I</room>
+<blurb><participant>Danny Hansen</participant> Join Danny Hansen as he talks about how creating historical jewelry led to recreating Viking history on the TV show Vikings.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Pompeii</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Mike Dudash</participant> BG 1-6 players; A tile-laying game where the players must work cooperatively to save as many citizens as possible.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Idiots Guide to Microtransactions: Ludicrous Boxes Edition</title>
+<topic>Gaming</topic>
+<room>EMC III</room>
+<blurb><participant>Phil Nocerini, Ian Sterrett</participant> Tired of seeing lootboxes in your video games? Not tired of watching parody? This year's panel for the Idiot's Guide to Microtransactions (IGTO) is themed around Spaceballs, so we will be searching for more money and ludicrously transitioning toward plaid. Ludicrous Boxes! NO!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The GRAM Role-Playing Game: Introductory Demo</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Cyndi Chadwick</participant> RPG: Join us for a demonstration of the GRAM role playing game led by one of the game designers.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>FreeBSD Containerization: Jails</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Michael W. Lucas</participant> FreeBSD's jails are the oldest open source virtualization system, and perhaps the least well understood. What are jails? How are they different from Linux and Solaris containers? What can you do with jails, and why? What are these virtual network stacks? How can you run Linux in a jail? How many questions can Lucas ask? Will he answer them? Come find out? Talk based on Lucas' new book, 'FreeBSD Mastery: Jails,' which should be released at Penguicon.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>People R Us: People with Disabilities:</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Josie Kusner</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: People with Disabilities<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Writer's Get Paid</title>
+<topic>Lit</topic>
+<room>EMC II</room>
+<blurb><participant>David Nelson</participant> An open discussion on how even an unsuccessful novelist can make a good living as a copywriter.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Black Butler: History, Fantasy, and Fandom</title>
+<topic>Anime</topic>
+<room>EMC IV</room>
+<blurb><participant>Star Stramel</participant> Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Authors Should Play with Dead Things</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye</participant> Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Write Your Own Choose Your Own Adventure!</title>
+<topic>Lit</topic>
+<room>EMC V</room>
+<blurb><participant>Mike Madigan</participant> Excited by the possibilities after checking out Black Mirror: Bandersnatch? Learn the behind the scenes process of mapping out and writing your very own Choose Your Own Adventure story!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Burlesque 101</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>Tommy Gun, Darryn Storm</participant> Learn a brief history of burlesque, and some basic moves for you to incorporate into your repertoire, whether you are dancing for yourself, a partner, or an audience! Burlesque is for every body, and this panel is appropriate for anyone 18+ that is interested in the art of the tease.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The different kind of home brew</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Mairi Mundy-Dowd</participant> Honey, yeast, water, and time. When you combine these four ingredients and a little bit of knowledge you get a delicious (alcoholic) beverage called mead. We'll talk about the basics of brewing possibly the world's oldest fermented beverage and what you can do to make it your own.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>6 PM</time>
+<event><title>Open Source Music Coding</title>
+<topic>Tech</topic>
+<room>Algonquin B</room>
+<blurb><participant>Norman Witte III</participant> Come learn about programming computers to make music. We will start with a brief history on the first computers to ever make music, followed by demos in different programming languages, including SonicPi, and at the end the presenter will give a short, live performance.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Real Pirates Seek the C!</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Clay Dowling</participant> I want you to experience the joys of the C! I'll help you get your C legs with simple tricks to make this venerable language work with the latest trends in programming. Learn simple project setup using Make and CMake, functional programming, test driven development &amp; automated testing, programming to interfaces, design patterns, REST clients and servers, IoT, and cloud computing. I'll help you throw off the chains of enterprise development, hoist the Jolly Roger, and deliver results faster, using fewer resources with this venerable, modern language.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Worldbuilding 101: How to Blow up Earth</title>
+<topic>Gaming</topic>
+<room>EMC II</room>
+<blurb><participant>Byron Pepper</participant> One of a series of three RPG panels. Sometimes, making stuff up is hard. Making worlds up is harder. Writers, GMs, and creative types can have a hard time making something from nothing. Let me help you kickstart your imagination with some simple rules, and then let's make a world together in the room!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>YouTube (Streaming) vs. SoundCloud (Podcasting): A Medium Experiment</title>
+<topic>Media</topic>
+<room>EMC II</room>
+<blurb><participant>Ian Sterrett</participant> Join Ian the Well-Informed (of the Retro Detroit Nerdfighters Podcast and YouTube critic) for a discussion about the basics of SoundCloud and YouTube, why they're so popular, and the differences between them.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>BOF: Installing Open Source Software is Too Complicated Now</title>
+<topic>Tech</topic>
+<room>Westin Bar</room>
+<blurb><participant></participant> Birds of a Feather: Have you ever had an open source software install fail because the documentation is outdated and the versions of supporting packages have all changed? Let's talk about this difficult problem!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Network Science with Network: Session 1</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Edward L. Platt</participant> Network Science investigates the structure of relationships in complex systems: social networks, electrical grids, the internet, protein interactions, and many others. NetworkX is a FOSS python library for network science. This presentation covers the basic concepts of Network Science and examples of using NetworkX. Edward L. Platt is the author of the forthcoming book: Network Science with Python and NetworkX.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Building a Beetleweight Combat Robot</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Jason Rutherford</participant> Beetleweight combat robots are the little siblings of the robots that battle to the death on popular TV shows. Learn about how to build these vicious little critters and how to get started in the hobby of combat robotics.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Building and Flying a Real Aircraft</title>
+<topic>DIY</topic>
+<room>EMC IV</room>
+<blurb><participant>David VanderMolen</participant> Join a flight instructor to talk about and see the process, tools, and options for building a real aircraft from a kit. We will also discuss learning to fly.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>DIY Escape Room Game</title>
+<topic>DIY</topic>
+<room>EMC V</room>
+<blurb><participant>Alex Drummer</participant> For the last few years escape rooms have been the big craze for group gaming experiences. However, they can be expensive to go to and you have to get a large enough group together to book the rooms. What if you could make your own game for your events or parties? Well you can! Come learn some basics on creating your own escape rooms. See examples of puzzles, clues, and different styles of game design from the people that have put on the Penguicon games for the last few years.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Tiny Sci-Fi Stories</title>
+<topic>Lit</topic>
+<room>EMC I</room>
+<blurb><participant>Sophia Brueckner</participant> In this workshop, participates will work in small groups or individually to write tiny (1-sentence and/or 3-sentence) utopian and dystopian sci-fi stories. The very common and most interesting result of this workshop is that people realize how strongly they lean towards either dystopian or utopian thinking about the future of technology, which results in an excellent discussion at the end of the workshop.The goal of the workshop is to encourage people to avoid unproductive extremes of utopian/dystopian thinking and adopt a more critically optimistic, balanced approach to thinking about technology and the future.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Subversive Fairy Tales</title>
+<topic>Lit</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Janea Schimmel, Cassandra Morgan</participant> Modern literature has rediscovered fairy tales, but these aren't your typical Brother's Grimm stories. They're darker, grittier, and you might not get the happy ending you expected. Come see how fairy tales have grown up, and how they might be closer to their original forms than the ones you knew as a child.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Steven Universe Sing-A-Long - with Ukuleles!</title>
+<topic>Anime</topic>
+<room>Algonquin A</room>
+<blurb><participant>Edward L. Platt, Sam Letvin</participant> All we wanna do, is see you turn into, a giant woman (A GIANT WOMAN!) - and sing along with us! Whether or not you have a ukulele, join us as we sing and play some of our favorite songs from this incredible show. Don't know how to play the ukulele? We can teach you basic chords! Come and share this jam with us!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Finding Your Next Book</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Mary Lynne Gibbs, Michael Cieslak</participant> Where do you go when you need a recommendation for your next book/graphic novel/series? The panel will discuss numerous possibilities including Amazon recommendations, Goodreads, podcasts, literary magazines, and good old word of mouth.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Movie: Spiderman: Into the Spiderverse</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Agile Escape Room</title>
+<topic>Tech</topic>
+<room>EMC III</room>
+<blurb><participant>Donald Mark Haynes, Doug Johnson, Erika Kahler</participant> Its the agile zombie apocalypse. You and your friends are trapped and all that stands between you and lunch is a locked door and three puzzle boxes. Each puzzle, once solved becomes an important component of the key. Every team must solve all three of their puzzles in order to complete the key. There is one key to rule them all. Only then may you leave the room before its you who becomes lunch. Are you willing to stake the lives of your team on your agile knowledge? Oh and by the way, how closely did you follow Scrum and agile principles in obtaining your release?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>7 PM</time>
+<event><title>PAC: Adventures in 3D Printing</title>
+<topic>Tech</topic>
+<room>EMC IV</room>
+<blurb><participant>ted preston</participant> 3D printing has been around for a while but cheap 3D printing for hobbyists has exploded in the past five years. We will explore novel applications cheap fff/fdm 3D printing.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Digital And Physical Risks of 5G Networks</title>
+<topic>Tech</topic>
+<room>Algonquin B</room>
+<blurb><participant>William Bowen</participant> Join us for a discussion of the cyber security risks of 5G networks as well as the physical health concerns.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Five Tribes</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; Here, in a unique twist on the now-standard 'worker placement' genre, the game begins with the meeples already in place - and players must cleverly maneuver them over the villages, markets, oases, and sacred places tiles that make up Naqala. How, when, and where you dis-place these Five Tribes of Assassins, Elders, Builders, Merchants, and Viziers determine your victory or failure<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Consent Expectations and Party Vetting Opportunity</title>
+<topic>After Dark</topic>
+<room>Baldwin</room>
+<blurb><participant>Jett Khat</participant> This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>World Building for RPGs and Fiction</title>
+<topic>Gaming</topic>
+<room>EMC III</room>
+<blurb><participant>Andrew M. and quot;Fish and quot; Popowich, Warren Brown</participant> An interactive seminar with published authors and game designers going through an actual world creation process that will be distributed to participants for their own use.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Linux Command Line Tools</title>
+<topic>Tech</topic>
+<room>Nicolet</room>
+<blurb><participant>Clif Flynt</participant> The presenter is in the midst of writing the 4'th edition of Packt Press's 'Linux Command Line Cookbook.' Come learn about a collection of things you can do from the command line ranging from trivial shell scripting to setting up a VPN.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>AHA Badge Soldering</title>
+<topic>Penguicon</topic>
+<room>Hackerspace (Room 328)</room>
+<blurb><participant>AHA</participant> Its a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.<duration>4 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Social Dancing 101</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>April Jennifer Choi, Bethany Byrnes</participant> No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Black Butler AMV Tea Party</title>
+<topic>Anime</topic>
+<room>Food [317]</room>
+<blurb><participant>Paul Kemner, Star Stramel, Natasha Kidwell, Angela C. Spears</participant> Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>My Kiln Control Project (Powered by Raspberry Pi)</title>
+<topic>Tech</topic>
+<room>EMC II</room>
+<blurb><participant>Terry Howald</participant> I created a kiln control program with my Raspberry Pi 3 for a DIY superconductor project. To make this superconductor, the chemicals must be heated for days and then carefully cooled down in a controlled manner. To minimize costs, I bought an inexpensive glass annealing kiln and wrote a Python GUI program to use a Raspberry Pi 3 as the kiln temperature controller. This talk will discuss the tools I used for this project including Raspberry Pi 3, Raspian, Gtk3, Git, Python3, Visual Studio Code, Glade, and Matplotlib.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Moving up to Manual Mode</title>
+<topic>Tech</topic>
+<room>EMC V</room>
+<blurb><participant>Kevin Nickerson</participant> Full auto is great, but sometimes you just want to take total control. Learn the trade-offs involved in taking your camera to manual mode.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Autonomous Cars: Learning and Teaching with Autonomous Tech</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Marc Sturzl</participant> Learn the skills to create your own autonomous vehicle (AV) on the cheap! This will be a 90% hands on session that will teach you how to teach others about robotics and how to make one for yourself!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>What is a Zine and Why You Should Care!</title>
+<topic>Lit</topic>
+<room>Montcalm</room>
+<blurb><participant>BluRaven C. Houvener</participant> The embodiment of DIY literature, zines have always been around in one form or another. Learn how to put together your own zine about whatever you're passionate about. We'll talk about traditional and digital methods and even dummy up a zine!<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>The Fediverse: Decentralized Social Networking</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Matt Arnold, Michael W. Lucas, Ed Platt, Mark Felder</participant> The Fediverse is a loose association of independent, privately owned, interoperable social media servers. How can this possibly work? Multiple implementations like gnu.social, Mastodon, PixelFed, and more allow you to build your own online community that the big social media companies can't touch. Come learn how this works, how different servers define their culture, how to find the right server for you, and what it takes to run your own server.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>8 PM</time>
+<event><title>Mikey Mason: Comedy Rock Geek!</title>
+<topic>Penguicon</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Mikey Mason</participant> A nationally touring performer with more than a decade of professional stand-up comedy experience, and with hits like She Don't Like Firefly, Best Game Ever, and Opposite of Cool, Mikey Mason is a ball of contagious enthusiasm who makes songs about role-playing games, video games, sci-fi, fantasy, cats, and the general experience of being a geek. His personal anthem, The Opposite of Cool, strikes a nearly universal nerve wherever he plays it. Hes been heard on nerdist.com, SyFy, TheFuMP.com, and Dr. Demento, and is a truly must-see event each time he performs.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Disability and Illness on Television</title>
+<topic>Media</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Alexandra</participant> This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Cine Mal Practice</title>
+<topic>Media</topic>
+<room>Algonquin B</room>
+<blurb><participant>Jeannette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan</participant> The next evolution of The Smithee Awards! Come see an all new bad movie show! We still have clips and you still get to vote!<duration>4 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Open Source Relationships</title>
+<topic>Life</topic>
+<room>Nicolet</room>
+<blurb><participant>Norman Witte III, Jessica Roland</participant> This panel will operate on one premise, that traditional relationships are the intellectual property of the patriarchy, and the rest of us who don't fit into that mold are seeking relationships that match our personal style, sharing information, collecting data, and using trial and error to find what works. TL;DR: Open Source Relationships! We will talk about identifying and eliminating toxic behaviors commonly associated with the patriarchy, including feelings of jealousy, possession, and emotional blackmail. This panel is radically inclusive of anyone who falls outside of the norm, whether you have seek zero, one, or multiple partners.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Ed: The Standard Unix Text Editor</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Michael W. Lucas</participant> The people who wrote primordial Unix were smarter than any of us. And their text editor proves it. Not only that, but their text editor is still useful today. Come learn how to use Ed, the Standard Unix Text Editor. See how early Unix design decisions stick with us today, and how temporary solutions last forever. You'll leave with knowledge of a tool you'll hope you'll never need, but when you truly need it you'll be glad it's there.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Onitama w/ Life Sized Pieces</title>
+<topic>After Dark</topic>
+<room>Algonquin A</room>
+<blurb><participant>wally2069</participant> Play a simple short deep game using people as life sized pieces. Interested participants should bring consenting teams of two people; one person to literally stand as a piece on a wheeled platform for their team, and the other person to make decisions and move their life sized human playing piece for their team. An average game takes about fifteen to twenty minutes, quick set up, fast clean up, and will be played on a 5 by 5 grid. A game explanation will be provided and safety instruction required for all interested participants. [Note: Teams must bring their own willing consenting people.] 18+<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Psycho-Linguistics for Writers</title>
+<topic>Lit</topic>
+<room>EMC II</room>
+<blurb><participant>Clif Flynt</participant> The words we use say a lot about us that we don't intend. Subtle things like the ratio of 'I/me' to 'you/they' tell you whether a speaker is a narcissist or a minion. Psycho-linguists use these tools to evaluate patients. Writers can use the same tools to create realistic, believable dialog and make their characters more vivid.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Fiction Writing: Where to Begin</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>Mary Lynne Gibbs, Jean Davis, G.S. Scott</participant> Join us for a session of getting ideas and creating characters, worlds, and interesting plots for both long and short fiction.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Podcasting Workshop</title>
+<topic>Media</topic>
+<room>Charlevoix A</room>
+<blurb><participant>David R. Phillips</participant> Have more questions after 'Podcasting 101?' This session will be a deep-dive into topics of interest to the audience.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Cookbook Lovers Unite</title>
+<topic>Food</topic>
+<room>Montcalm</room>
+<blurb><participant>Lisa Leutheuser</participant> In spite of millions of recipes available on the Internet, some of us still love to collect and cook from cookbooks. This panel is for all you cookbook lovers (and wanna-be lovers) out there. Come share your favorite cookbooks, discuss what qualities make a great cookbook versus a, well, not-so-good cookbook, and compare notes on the tricky issue of how to organize a large cookbook collection.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>9 PM</time>
+<event><title>LN2 After Hours Ice Cream 2</title>
+<topic>Food</topic>
+<room>LN2 [Hamlin]</room>
+<blurb><participant>Sarah Elkins, Phil Salkie</participant> Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Painting by Moonlight</title>
+<topic>DIY</topic>
+<room>Outside</room>
+<blurb><participant>Zed Shaw</participant> Join Zed Shaw to learn techniques for drawing at night.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Poly and Kink: Managing your D/s relationship while non-monogamous</title>
+<topic>After Dark</topic>
+<room>Nicolet</room>
+<blurb><participant>Frannie</participant> This will be a round table discussion about how to make a D/s relationship coexist with polyamory and non-monogamous relationships. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>holy_f***ing_s***.wmv (18+)</title>
+<topic>After Dark</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Andrew Scala</participant> 'The best and worst videos you've never seen.' Event was presented at Youmacon to a standing room only crowd of 300+. Join us for a showing of rapid-fire weird, funny, and obscure videos that we've sourced from around the web. Accompanying the show is a mobile website for the audience participation! This event is 18+ for violence, language, and mild nudity.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Fetish and Fluff: The Curious Side of the Furry Fandom</title>
+<topic>After Dark</topic>
+<room>Baldwin</room>
+<blurb><participant>Meredith</participant> This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Electroplay</title>
+<topic>After Dark</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Dracose, SirWill</participant> One of the best local teams is coming out to Penguicon for one night only! Join Dracose and SirWill for this electrifying presentation that will bring a new energy into your play. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Via Nebula</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>The Wandering Meeple</participant> BG 2-4 players; Crafters, builders and carriers   your help is needed to dispel the mists of Nebula! The people of the valley will reward you handsomely if you harvest and exploit our many resources, open paths through the mists, and help our settlers build new structures. Cooperate temporarily with other builders in order to create paths and share goods, but do not forget your own objectives. Will you have a statue erected in your honor on the Nebula City plaza?<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Heroes, Villains, and Outsiders: Disability In Comics</title>
+<topic>Media</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Alexandra</participant> A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>10 PM</time>
+<event><title>Floggers 201</title>
+<topic>After Dark</topic>
+<room>Charlevoix A</room>
+<blurb><participant>WilliePA</participant> Take your flogging skills to the next level with Willie Pa. Learn some more advanced techniques. There will also be demonstration. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Rope Safety and Sadism</title>
+<topic>After Dark</topic>
+<room>Algonquin A</room>
+<blurb><participant>Toga</participant> This class will start with a discussion about safety designed to help riggers and bunnies alike. We will briefly cover why we tie where we tie, basic safety tools, nerves, and knowing when to end the session. After that we will roll into a hands on demonstration with several ties designed to make your partner wriggle and writhe. Please bring two hanks of rope for this panel. Partners are encouraged, however these ties can be done on yourself.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Spooky Stories with Marshmallows on Top</title>
+<topic>After Dark</topic>
+<room>Food [317]</room>
+<blurb><participant>Josie Kusner</participant> I'll bring the hot cocoa, you bring your real-life spooky, creepy or just strange paranormal stories. An open mind is encouraged, but you're welcome to think we're all weirdos and just enjoy cocoa and storytime. Join us as we share some personal 'no s*it, there I was' experiences. An event to savor. (Marshmallows and sharing optional.) This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Care and Feeding of Your Pet (18+)</title>
+<topic>After Dark</topic>
+<room>Baldwin</room>
+<blurb><participant>Karida</participant> Having a pet is a tough job. There are so many expectations and responsibilities; you may not know where to start. While pet play offers many commonalities to having a non-human pet, you get many benefits over our four legged friends of different species. From tossing a ball to veterinary visits, join Karida in a thought-provoking discussion on why some play as animals and how it can add to your relationship. Discover how to care for and play with the pet in your life. This class focuses on puppy and kitty play, but other pet breeds are welcome. Maybe youre not a pet owner or player, but youre curious? In this case, curiosity wont kill the cat, it will teach you how to properly take care of one! 18 +<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Fellowship of Fools - A Friendship Game Possibly with Benefits</title>
+<topic>Gaming, After Dark</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Hermione Banger, Casey O'Donnell</participant> Come join your fellow fools as we start our journeys. This session will start with just a little background on our friendship game, Fellowship of Fools: The (Friendship) Game. We will spend some time playing the game and getting to know one another. Then we will share the NEW Romance and Sexuality decks. Some these questions are hard! Come prepared to dive deep and make a friend or find a new spark with a little help from our game. This a session for adult attendees, so this event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>DemonLobster Presents Sanity Claws Radio Live!</title>
+<topic>After Dark</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Jonathon Hickey</participant> The DemonLobster Crew returns for another live recording at Penguicon! Join in on an audience driven round of 'I Can Top That,' our trademark Q&amp;A game. Bring your best, most irreverent questions to the panel and our entire panel will try their best to give the funniest answer possible. No question is too lewd or bizarre. This event is 18+.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Aftercare Variations and Negotiations</title>
+<topic>After Dark</topic>
+<room>Nicolet</room>
+<blurb><participant>Sarah</participant> Who needs aftercare? Is it only needed after hardcore sessions? Is all aftercare the same? What are some options for negotiating aftercare? What aftercare have you given/received that seemed to work well? What aftercare obstacles have you encountered, and what are some ideas for coping with them? How are aftercare, safety, and consent related? Lets talk. This event is 18+.<duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>11 PM</time>
+<event><title>Canes: From Sensual to Sadistic</title>
+<topic>After Dark</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Rapture</participant> Canes generally have a nasty connotation to them. Brutal. Painful. Punishing. While they can be all these things, they don't have to be. In this class we will cover a wide range of topics, mostly focused on making caning an enjoyable experience for both top and bottom. We will cover topics including, types of canes, safety concerns unique to canes, psychological and physiological effects on the bottom, types of cane strokes, rhythmic caning, tailoring your play to music, and more. The class will also feature a 15-20 minute demonstration of a caning 'scene' as a standalone scene. This event is 18+.<duration>2 hours</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<event><title>Live Wires and Water Puddles: Safety First in Fractal Burning</title>
+<topic>DIY</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Lisa</participant> Fractal burning is the process of capturing electrical patterns in wood. The Internet is full of instructions on how to build machines to do fractal burning using such things as microwave oven transformers. Too many people have been injured and killed attempting this technique in unsafe ways. Today there are two dominant approaches to fractal burning: dangerous experimentation without proper knowledge, or the idea that the technique should be banned entirely. Banning knowledge never stops human curiosity. We need to talk about what you need to know to stay safe if you choose to do this dangerous art form, and why you might not want to try it at all.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>12 AM</time>
+<event><title>Midnight Mayhem</title>
+<topic>Mayhem</topic>
+<room>Algonquin B</room>
+<blurb><participant></participant> Talk, sing, or just hang with fellow night owls until the wee hours of the morning!<duration>4 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Midnight Mayhem</title>
+<topic>Mayhem</topic>
+<room>Algonquin A</room>
+<blurb><participant></participant> Talk, sing, or just hang with fellow night owls until the wee hours of the morning!<duration>4 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Midnight Mayhem</title>
+<topic>Mayhem</topic>
+<room>Charlevoix B</room>
+<blurb><participant></participant> Talk, sing, or just hang with fellow night owls until the wee hours of the morning!<duration>4 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>8 AM</time>
+<event><title>JAC3D G33K's Fitness Boot Camp Penguicon 2019 Edition</title>
+<topic>Life</topic>
+<room>Algonquin A</room>
+<blurb><participant>William Bowen</participant> A heart pumping, high adrenaline full body training experience designed to trim and sculpt you for the hot months ahead, with great OCRemix and other gaming and geek related music in the background.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>9 AM</time>
+<event><title>Makeup 101</title>
+<topic>Life</topic>
+<room>Montcalm</room>
+<blurb><participant>Frannie</participant> New to makeup? Learn how to apply and blend, the best tools to use, and even color swatching.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>What Lies Beneath the Waters</title>
+<topic>Science</topic>
+<room>EMC I</room>
+<blurb><participant>Patrick Allen, Mary Fitzpatrick</participant> Have you ever wanted to be a treasure hunter? Join us for an introduction to finding treasures and fossils hidden beneath rivers and streams!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Regex for Everyone: Bend Text to your Whim</title>
+<topic>Tech</topic>
+<room>EMC II</room>
+<blurb><participant>Henry Marshall</participant> For technical and non-technical people alike, Regular Expressions (regex) are a powerful pattern matching tool you can use to supercharge find-and-replace, everywhere from Google Docs to a codebase. You can use it to find any email address, extract dates, check password strength and so much more. If you work with any type of text, either professionally, or as a hobby, learning Regex can make you more productive. At this talk, youll: earn a ribbon by completing a regex crossword puzzle; create a custom regex from scratch; extract email addresses on a webpage using a tool the speaker built; and learn how to use Regex in Google Docs, Chrome, VS Code and on the command line.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Understanding Anti-Vaxxers</title>
+<topic>Life</topic>
+<room>EMC V</room>
+<blurb><participant>Ida Briggs</participant> One of the most controversial topics in civil discourse involves the medical decisions behind vaccination. This talk is NOT intended to convert anyone one way or the other, but is a discussion on some of the logic and thoughts behind the decisions.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>What It's Like to Own Your OS v3</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Craig Hibbard</participant> In the first year of this talk we discussed the meaning of owning a linux machine. In the second year we discussed a little more of why it should be important to you (aka, what nasty things the more commercial OSes had been doing lately). This year we will do a practicum with some hands-on what-it's-like to do work and gaming on a modern linux machine. As in the past there will be a few USB thumb drives to give away for those ready to take the plunge. Looking for volunteers to help with demonstration and/or equipment.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>You're Only as Good as Your Villain is Bad</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Cassandra Morgan, Michael Cieslak</participant> Every good heroine needs an appropriate villain. We've all heard the old saw that everyone is the hero in their own story, but what goes in to writing a believable villain? Come explore the dark side!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>10 AM</time>
+<event><title>DemonLobster Presents 8 Player Super Smash Brothers Ultimate</title>
+<topic>Gaming</topic>
+<room>EMC II</room>
+<blurb><participant>Jonathon Hickey</participant> Take a load off on a lazy Sunday morning with some donuts, some coffee, and some Smash! It's all for fun here! All matches will be pure casual fun, with time rules and items on. Drop in for a single round or stay for the whole session. Just swing by and have some smashing fun!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>The Women Who Gave Us Gaming</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Casey O'Donnell, Alexandra</participant> Join us for a discussion on the gaming industrys earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Categorizing and Classification: Are Genres Still a Thing?</title>
+<topic>Lit</topic>
+<room>Algonquin B</room>
+<blurb><participant>Mary Lynne Gibbs, Michael Cieslak</participant> Sci-Fi. Fantasy. Horror. How well does what you are reading, watching, or perhaps creating, fall into these broad categories? Then there are all of the numerous sub-genres which make up the speculative fiction spectrum. The panel discusses the uses and perhaps misuses of classifying a work into one or more genres.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Senior Sysadmin Ethics Panel</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Michael W. Lucas, Wayne Pederson</participant> System and network administrators have access to all sorts of data that they really shouldn't. Except when you should. Except when you're happier not knowing. And sometimes, there's no right answer. There's nobody on your side. It's just you, a computer, and a decision that you're going to have to live with. The panelists have all been in technology for multiple decades. We've been in horrible spots and had to make hard decisions. We've made all the mistakes, so you don't have to.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Creating a web app using Wagtail CMS</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Chrissy Baginski</participant> Learn how to create a basic web app using Wagtail, a light-weight open source content management system (CMS) written in Python and built on the Django web framework. We'll go through the basics of setting up a web app, navigating the admin interface, and provide some key resources. If you're familiar with Django, great, but not necessary. However, a basic understanding of using the "terminal" and HTML/CSS is helpful.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Roll for the Galaxy</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 2-5 players; Dice game of building space empires for 2-5 players. Your dice represent your populace, whom you direct to develop new technologies, settle worlds, and ship goods. The player who best manages his workers and builds the most prosperous empire wins!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>AHA Badge Soldering</title>
+<topic>Penguicon</topic>
+<room>Hackerspace (Room 328)</room>
+<blurb><participant>AHA</participant> Its a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.<duration>4 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>People R Us: POC In Tech II</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant></participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: People of Color in Tech<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Needle Felting 201</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Liz 'Smoothie' DeBruyn</participant> A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>BoF:Star Trek: Disco</title>
+<topic>Media</topic>
+<room>Baldwin</room>
+<blurb><participant>Joy Lucas</participant> Wear your favorite polyester jumpsuit while discussing the second season of CBSs streaming service pilot show while sitting under a mirror ball. Okay, maybe skip the jumpsuit.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Basic Miniature Painting</title>
+<topic>Gaming</topic>
+<room>Montcalm</room>
+<blurb><participant>John Patrick</participant> With the explosion in popularity of Dungeons &amp; Dragons 5th Edition and the proliferation of low-cost quality miniatures it is a great time to start painting. Have you ever wanted to personalize a miniature for one of your characters? I'll show you how to take a miniature right out of the package, and using only the most basic tools, make a great looking miniature for your game. I'll share as many tips as I can pack into my allotted time.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Overworld</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Matt Arnold</participant> BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Engaging Your Social Media Community and Reducing Drama</title>
+<topic>Life</topic>
+<room>Nicolet</room>
+<blurb><participant>Scott Kennedy, Niki MacRae, BluRaven, Jessica Roland</participant> Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Why Techie Nerds Should Write Books</title>
+<topic>Tech</topic>
+<room>EMC III</room>
+<blurb><participant>Clif Flynt, Michael W. Lucas</participant> Writing a book is a positive step in professional development. It establishes you as 'an expert,' it answers the 'communication skills' question on job applications, and can be the springboard to independence.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>10 Commandments of Networking</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>David R. Phillips</participant> Your network is the most important thing you will develop over the course of your career. We'll teach you how to do it right.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Marketing Open Source: Why We Need a Race Car</title>
+<topic>Tech</topic>
+<room>EMC IV</room>
+<blurb><participant>Charles Severance</participant> The 100% open source Sakai Project was founded in 2004 and has maintained a 5% market share for over a decade. This presentation will look at the challenges of marketing open source projects in the face of strong competition. We will explore how a race car (@SakaiCar) that runs in a low-cost endurance racing series (@24hoursoflemons) is an interesting strategy in this environment.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>11 AM</time>
+<event><title>BoF: Crowdfunding Your Next Great Novel</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant></participant> Birds of a Feather: With the existence of KickStarter, Patreon, GoFundMe and the like, many books and ebooks are being produced that otherwise might never have seen the light of day. This session will be a round-table discussion for those who have tried - or those thinking of trying - to use crowdfunding for their work.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Team Happiness for Fun and Profit</title>
+<topic>Tech</topic>
+<room>EMC II</room>
+<blurb><participant>Clay Dowling</participant> Employers woo developers with ping pong tables, free lunches, and beer taps. But it's still rare for employees to stay in a job for more than five years. So what can we do to make our work life better, and reduce employee turnover? In this session we'll talk about tips for self-care that I've found useful, what you can do to make your work more rewarding, steps your company can take to reduce employee turnover, and how to care for your team.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Penguicon Board of Directors Meeting</title>
+<topic>Penguicon</topic>
+<room>EMC V</room>
+<blurb><participant>James Hice, Matt Arnold, Chelle Silas, Amanda Long-Adams, Randy Bradakis</participant> Each year of Penguicon is run by a Convention Committee, selected by the ConChair. The Penguicon Board is the group that selects each year's ConChair and approves their budget. The Board also handles any decision which would be binding on a future ConChair who is selected yet. The quarterly Board Meetings are open to the public, but we also have one during Penguicon so you can ask your questions about Penguicons of the future, ure, ure, ure!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Sushi Go</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 2-5 players; You are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Network Science with Network: Session 2</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Edward L. Platt</participant> Network Science investigates the structure of relationships in complex systems: social networks, electrical grids, the internet, protein interactions, and many others. NetworkX is a FOSS python library for network science. This presentation covers the basic concepts of Network Science and examples of using NetworkX. Edward L. Platt is the author of the forthcoming book: Network Science with Python and NetworkX.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Advanced Special FX Makeup for Cosplay Workshop</title>
+<topic>Cosplay</topic>
+<room>Montcalm</room>
+<blurb><participant>Jeannie Arquette</participant> Learn and try various products and techniques in SFX makeup and face and body painting. We will be using foam, latex, and silicone appliances. We will learn and practice some of the more advanced SFX skills on ourselves and each other.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>STEM Projects for the Young at Heart</title>
+<topic>Science</topic>
+<room>Algonquin B</room>
+<blurb><participant>Karen Corbeill</participant> STEM is a recent focus in education and stands for Science, Technology, Engineering, and Math. Karen, an educator and maker extraordinaire, has spent years finding, developing, and teaching all kinds of hands-on projects to help kids and adults learn through making. Come hear a list of projects to do with kids or try yourself.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Philosophic Analysis: Immortal Beings</title>
+<topic>Lit</topic>
+<room>EMC IV</room>
+<blurb><participant>ted preston</participant> Why do many stories have immortal characters? This talk will explore immortality as a goal of our medical technology and as a premise for stories of fiction. How does immortality affect the immortal character? The other characters? How does it affect us? What are the gray lines of this motif?<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>How to Make a Weighted Blanket or Lap Pad</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Lea Pfeifer</participant> Join me to learn how to make your own weighted blanket.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Meet Atthis Arts: A Detroit-Area Small Press</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Chris Bell, Emily Bell</participant> Curious about what a local small press is up to? Have questions about indie publishing? Meet the Atthis Arts team, out of Ferndale, and join in an open discussion about indie publishing.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>E-learning Design: The Good, The Bad and the Very, Very Ugly</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Clif Flynt, Ericka Kahler</participant> E-learning is more than just a webpage. Today's e-learning can be smart, engaging and interactive, but it can also be done very, very badly. We'll discuss the good, the bad, and the ugly of modern e-learning design.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Getting Baked: Vegan Style</title>
+<topic>Food</topic>
+<room>Food [317]</room>
+<blurb><participant>Amy Wright</participant> Did you know that there are over 10 kinds of vegan egg replacers? Oh did you think this was a class on vegan edibles? Well, we'll get to that! Learn ways to replace eggs, milk, and butter for baked goods that are flaky, fluffy, and down right delicious. Samples provided of course. We'll also share recipes and methods for how to get the most baked out of your vegan baked goods!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Yarn Dyeing Demo</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Grace Cocking</participant> Dyeing yarn is both big business and a fun hobby. See how yarn is dyed and learn about the techniques involved.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>LN2 Sunday Brunch Ice Cream</title>
+<topic>Food</topic>
+<room>LN2 [Hamlin]</room>
+<blurb><participant>Sarah Elkins, Phil Salkie</participant> Brunch flavor frozen treats such as orange sorbet, coffee/tea ice cream, and a cereal experiment. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Surviving Social Media Visibility</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Mari Brighe</participant> Social media has provided many people the opportunity to make a name for themselves and build a following in ways that were never possible before. However, finding success and a platform comes with many downsides. Harassment, stalkers, hate mail, threats of violence, doxxing, and burnout are all common experiences for those with significant social media visibility. We'll discuss the best and worst of social media experiences, and how we learn to cope.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>PitchoRama</title>
+<topic>Lit</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Jen Haeger, Colleen Nye</participant> Think you're ready to pitch your novel to that agent/editor/publisher? Come prepared with your best elevator pitch (20-30 seconds MAX!) and pitch it to our fine group of panelists. Panelists as well as audience members will silently vote on whose pitch made them want to rush out and buy a copy of the book. Top three pitches will win mad props and fabulous dollar store prizes! After the competition, panelists will comment generally on the good pitches they heard, things to avoid, and what makes a truly great pitch.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Cross Stitch 201</title>
+<topic>DIY</topic>
+<room>EMC I</room>
+<blurb><participant>Anna Carey</participant> Come and learn more advanced techniques and how to work with more complex patterns. You will get the most out of this panel if you have some previous experience with basic cross stitch skills. Limited availability, sign up near ops.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>The Opening Chapter</title>
+<topic>Lit</topic>
+<room>EMC IV</room>
+<blurb><participant>Christine Daigle, Claire Winn</participant> The beginning of your novel is crucial. Its job is to hook the reader and create expectations for the rest of the story. On submission, industry professionals use your opening pages to judge your writing style and the book's potential. So how do you choose where to start? We'll discuss how to create interesting conflict and introduce characters your readers will follow through the story.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>How to Kill your Players: GMing 101</title>
+<topic>Gaming</topic>
+<room>EMC V</room>
+<blurb><participant>Byron Pepper</participant> One of a series of three panels on RPGs. Ever wonder how some players can speak of the death of a beloved character with adoration and whimsy in their eyes at they tell the story? Need some tips on how to up your GM game? Well, stop on by and let Sarge give you some pointers on how to set up exciting situations, how to treat your players so they accept the eventual TPK, and even better, how to leave them telling stories about your games for ages.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Friendship Games!</title>
+<topic>Gaming</topic>
+<room>EMC II</room>
+<blurb><participant>Hermione Banger, Casey O'Donnell</participant> Friendship Games! What are they? Who's working on them? What do they look like? What might they look like in the future?<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Book Swap</title>
+<topic>Lit</topic>
+<room>Baldwin</room>
+<blurb><participant>John Patrick</participant> While there has always been the ubiquitous 'free table' where people have been able to offload books they have read and no longer want, if you aren't there when someone else drops their books off, you may not find new books to replace the ones you are giving away. Why not set aside an hour where everyone can bring their 'already read' piles to give away or trade? This way you can give your opinions of the books and ask questions to find out more than just the dust jacket description. Come find a new book and chat with other book lovers too!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Solar Panel Panel: Begin the Revolution and Make Money</title>
+<topic>Tech</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Gibson Nichols</participant> Solar is becoming the cheap way to create energy, but is it profitable?<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>From History to the History Channel: The Process from Historical Inspiration to a Finished Product</title>
+<topic>Media</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Danny Hansen</participant> Learn what it takes to take inspiration to creation when historical context is involved.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Networking 102</title>
+<topic>Tech</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Wayne Pedersen</participant> Networking 102 builds off Networking 101 (we highly suggest attending 101 first). We'll expand with knowledge of VPNs, segmentation, and some enterprise concepts in a live demo. Join owner and entrepreneur of Maumee Geeks, Wayne Pedersen as he brings over 20 years of IT experience to Penguicon.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>So What is Ham Radio, Anyway?</title>
+<topic>Tech</topic>
+<room>Algonquin B</room>
+<blurb><participant>Rich</participant> This talk will provide a brief overview of various aspects of ham radio emphasizing Open Source, Linux, Raspberry Pi, and DIY options. Explore a small sample of equipment for the more common modes.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Incorporating STEM in the Classroom</title>
+<topic>Science</topic>
+<room>Nicolet</room>
+<blurb><participant>Frannie, Mary Fitzpatrick</participant> Join us for a discussion about how to get kids excited about tech and STEM!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>People R Us: People with Disabilities II</title>
+<topic>Diversity</topic>
+<room>People R Us [1017]</room>
+<blurb><participant>Josie Kusner</participant> If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: People with Disabilities<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Movie: Back to the Future</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant></participant> <duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Crochet 102: Granny Squares!</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Joy Lucas, Grace Cocking</participant> Learn to crochet granny squares.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Alien Frontiers</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Eric McGlohon</participant> BG 2-5 players; Do you have what it takes to be a deep space colonist? An alien frontier awaits the brave and daring! This new planet will be harsh, but if you have the skills to manage your resources, build a fleet, research alien life, and settle colonies, the world can be yours.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>1 PM</time>
+<event><title>Nearly Passive Philanthropy</title>
+<topic>Life</topic>
+<room>EMC IV</room>
+<blurb><participant>James Gamble</participant> Join Count Discord as he discusses several ways that you can generate revenue for causes in a (nearly) passive way.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>The NPC Strategy Guide: The Job Hunt Begins</title>
+<topic>Life</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Ryan</participant> On the hunt for a new job? Learn some new strategies for resumes, interviews, networking, etc.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Cashflow for Writers and Other Creative Businesses</title>
+<topic>Lit</topic>
+<room>Nicolet</room>
+<blurb><participant>Michael W. Lucas</participant> You've achieved your dream, and turned your love into a business. Congratulations! Now you'll learn why most businesses fail in the first year. This mysterious 'cashflow' thing destroys more dreams than any other. The presenter is a full-time writer, and hence easily confused by 'checkbooks' and 'ledgers' and all that messy accounting stuff. He also has a deep aversion to visits from the IRS. Despite all this, he's managed to break down cash flow in a way that even he can understand it. You'll leave with a sufficient understanding of cash flow to run your own small business. All you'll need is a product! And customers.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Coursera Office Hours @ Penguicon: Python for Everybody</title>
+<topic>Tech</topic>
+<room>Baldwin</room>
+<blurb><participant>Charles Severance</participant> This is a meeting between students of Dr. Chuck's Python for Everybody, Internet History, Technology, and Security, and Web Applications for Everybody (PHP / SQL) online Coursera courses and anyone else who is interested in MOOCs and the MOOC movement. You can see videos of the 70 other office hours meetings around the world at https://www.dr-chuck.com/office/<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Double Knitting</title>
+<topic>DIY</topic>
+<room>EMC II</room>
+<blurb><participant>Mary Fitzpatrick, Patt Mundy</participant> Double it up in this panel as we teach you how to make things on both sides of the skein. Basic knit and purl stitch skills required to bring double the trouble in this panel!<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Lizzy's Garden Party</title>
+<topic>Anime</topic>
+<room>Food Room [317]</room>
+<blurb><participant>Paul Kemner, Star Stramel, Natasha Kidwell, Angela C. Spears</participant> The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Featherweight Armor Workshop</title>
+<topic>Cosplay</topic>
+<room>Montcalm</room>
+<blurb><participant>Alena Van Arendonk</participant> Its possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Augsburg 1520</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Mike Dudash</participant> BG 2-5; Players assume the role of the merchants from Augsburg and try to get what they can -- by means of auctions -- from the nobility, thus increasing their wealth and particularly their social status.<duration>2 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Agile Escape Room</title>
+<topic>Tech</topic>
+<room>EMC III</room>
+<blurb><participant>Donald Mark Haynes, Doug Johnson, Erika Kahler</participant> Its the agile zombie Apocalypse. You and your friends are trapped and all that stands between you and lunch is a locked door and three puzzle boxes. Each puzzle, once solved becomes an important component of the key. Every team must solve all three of their puzzles in order to complete the key. There is one key to rule them all. Only then may you leave the room before its you who becomes lunch. Are you willing to stake the lives of your team on your agile knowledge? Oh and by the way, how closely did you follow Scrum and agile principles in obtaining your release?<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Understanding USB: Why This Cable Works, and That One Doesn't</title>
+<topic>Tech</topic>
+<room>Charlevoix B</room>
+<blurb><participant>Henry Marshall</participant> In a sane world, if a cable fits, plugging it in would always do what you expect. Generally thats true, whether you're plugging in a toaster, or connecting something to your TVs HDMI port. USB, on the other hand, is a complete dumpster fire. Different generations, protocols, alternate modes, and proprietary charging specs mean that it can take an appallingly long time to copy a file or charge your phone. You'll walk away from this talk, knowing how the messy USB standard works, and the secret to why some of your cables, chargers, and devices just don't seem to like each other.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>GMing 101: Stepping Behind the Screen</title>
+<topic>Gaming</topic>
+<room>Algonquin B</room>
+<blurb><participant>Andrew M. and quot;Fish and quot; Popowich, Erika Wagner, Warren Brown</participant> An intro for players who want to start gamemastering and helpful tips from veterans for those just starting out (or needing a refresher).<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>2 PM</time>
+<event><title>Coloring Book Hand Embroidery</title>
+<topic>DIY</topic>
+<room>EMC III</room>
+<blurb><participant>Kim Ulrich</participant> Learn how to take your favorite coloring book page and turn it into a beautiful piece of hand embroidery. Some prior knowledge of embroidery is helpful, but not required.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Igor's Challenge (D&amp;D 5th Edition)</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Liam McGlohon</participant> RPG 2-4 players; Igor Larionov is an eccentric gnome inventor renowned around the world. He has sent out invitations to adventuring groups to come and compete for his latest, greatest invention. The competition will take place a few days hence in Penthill and consist of a race through his specially created challenge-dungeon.<duration>4 hours</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Pandemic</title>
+<topic>Gaming</topic>
+<room>Gaming (TC's Room)</room>
+<blurb><participant>Heather Williams</participant> BG 2-4 players; Several virulent diseases have broken out simultaneously all over the world! The players are disease-fighting specialists whose mission is to treat disease hotspots while researching cures for each of four plagues before they get out of hand.<duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<time>3 PM</time>
+<event><title>Closing Ceremonies</title>
+<topic>Penguicon</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis, Jessica Roland</participant> It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!<duration>1 hour</duration></blurb></event></events>
