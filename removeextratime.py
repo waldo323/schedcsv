@@ -11,7 +11,7 @@ for row in inputfile:
         currenttime = row
         if currenttime != lasttime:
             if "<day>All Weekend</day>" in lastrow:
-                outputfile.write("<time>All Weekend</time>")
+                outputfile.write("<time>All Weekend</time>\n")
             else:
                 outputfile.write(row)
                 lasttime = row
