@@ -12,7 +12,7 @@ for row in inputfile:
         if currenttime != lasttime:
             if "<day>All Weekend</day>" in lastrow:
                 outputfile.write("<time>All Weekend</time>\n")
-            elif "<day>" in lastrow:
+            elif "<day>" in lastrow :
                 outputfile.write(row)
                 lasttime = row
     else: # If this is not a time row
