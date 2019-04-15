@@ -10,10 +10,11 @@ for index, row in enumerate(inputfile):
     if '<time>' in row:
         currenttime = row
         if currenttime != lasttime:
-            outputfile.write(row)
-            lasttime = row
-#        if "<day>All Weekend</day>" in inputfile[index-1]:
-#            outputfile.write("<time>All Weekend</time>")
+            if "<day>All Weekend</day>" in inputfile[index-1]:
+                outputfile.write("<time>All Weekend</time>")
+            else:
+                outputfile.write(row)
+                lasttime = row
     else: # If this is not a time row
         outputfile.write(row)
 
