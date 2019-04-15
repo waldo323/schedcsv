@@ -2,7 +2,7 @@
 inputfile = open('penguicon.schedule.xml', 'r') 
 outputfile = open('2019.penguicon.final.schedule.xml', 'w')
 
-currenttime = '<time>4 PM</time>'
+currenttime = '<time>12 PM</time>'
 lasttime = '<time>All Weekend</time>'
 
 for row in inputfile:
