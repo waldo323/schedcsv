@@ -12,8 +12,8 @@ for index, row in enumerate(inputfile):
         if currenttime != lasttime:
             outputfile.write(row)
             lasttime = row
-        if inputfile[index-1] == "<day>All Weekend</day>":
-            outputfile.write(<time>All Weekend</time>)
+        if "<day>All Weekend</day>" in inputfile[index-1]:
+            outputfile.write("<time>All Weekend</time>")
     else: # If this is not a time row
         outputfile.write(row)
 
