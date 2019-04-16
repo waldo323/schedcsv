@@ -409,7 +409,7 @@ endtimeampm,4 PM
 duration,1 hour
 description,"BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!"
 index,312
-speakers,Matthew Arnold
+speakers,Matt Arnold
 bookdescrip,"BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!"
 startday,5/3/2019
 Start Time,15:00
@@ -418,18 +418,18 @@ starttimeampm,3 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"FRIDAY, MAY 3"
-input,"['136', 'Y', 'Unpublished Prototype: GaiaVora', '2019-05-03 15:00:00', '2019-05-03 16:00:00', 'Gaming', '', 'BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!', '', '', '', '', '0', '6', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', 'cf2f06708ef64bf7af54d0d6b17d22a6', '931386', 'Matthew Arnold', '', '', '', '', '']"
+input,"['136', 'Y', 'Unpublished Prototype: GaiaVora', '2019-05-03 15:00:00', '2019-05-03 16:00:00', 'Gaming', '', 'BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!', '', '', '', '', '0', '6', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', 'cf2f06708ef64bf7af54d0d6b17d22a6', '931386', 'Matt Arnold', '', '', '', '', '']"
 booklocation,Gaming (TC's Room)
-calspeakers,Matthew Arnold
+calspeakers,Matt Arnold
 avneeds,
-speakerlist,['Matthew Arnold']
+speakerlist,['Matt Arnold']
 hours,1
 totalminutes,60
-speakernosplist,['MatthewArnold']
+speakernosplist,['MattArnold']
 caldescrip,"BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!"
 endtime,16:00
 name,Unpublished Prototype: GaiaVora
-speakernosp,MatthewArnold
+speakernosp,MattArnold
 bookname,Unpublished Prototype: GaiaVora
 venue,Gaming (TC's Room)
 csvsafedescrip,BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores- herbivores- and plants- so you can eat your opponents- under the light of Vora- the moon. Survive on the highest stacks of land tiles- when the final meteor strikes!
@@ -8698,7 +8698,7 @@ starttimeampm,4 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SATURDAY, MAY 4"
-input,"['312', 'Y', 'Linux 101: Get Started with Command Line', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Tech', '', 'Get started with linux command line, broken down into easy to understand pieces. Attendees can work at computers along with the presenter.', '', '', '', '', '0', '3', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', '4bccd75d4f73a9eeb443a9176a3d596e', '931398', 'Zena Jasenak, Nick Lelli', '', '', '', '', '']"
+input,"['312', 'Y', 'Linux 101: Get Started with Command Line', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Tech', '', 'Get started with linux command line, broken down into easy to understand pieces. Attendees can work at computers along with the presenter.', '', '', '', '', '0', '4', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', '4bccd75d4f73a9eeb443a9176a3d596e', '931398', 'Zena Jasenak, Nick Lelli', '', '', '', '', '']"
 booklocation,Computer Lab [Charlevoix C]
 calspeakers,"Zena Jasenak, Nick Lelli"
 avneeds,
@@ -9058,7 +9058,7 @@ starttimeampm,4 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['179', 'Y', 'Unwelcome: Unpacking the Backlash Against Marginalized Fans, Creators, and Content', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Life', '', ""A small, but increasingly virulent contingent of fandom has spent the last several years waging war against women, people of color, and LGBTQ people (and especially those at the intersections of those experiences) who desire to see themselves in genre media. From the Sad Puppies to Gamergate to Comicsgate, we'll talk through the reality of what creators and fans alike have experienced when under fire from these groups, the potential roots of this backlash, and what we can do as a community to push back against it. <br />"", '', '', '', '', '0', '8', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', 'ac31e7ab718b9def646a41aded714a16', '931323', 'Mari Brighe', '', '', '', '', '']"
+input,"['179', 'Y', 'Unwelcome: Unpacking the Backlash Against Marginalized Fans, Creators, and Content', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Life', '', ""A small, but increasingly virulent contingent of fandom has spent the last several years waging war against women, people of color, and LGBTQ people (and especially those at the intersections of those experiences) who desire to see themselves in genre media. From the Sad Puppies to Gamergate to Comicsgate, we'll talk through the reality of what creators and fans alike have experienced when under fire from these groups, the potential roots of this backlash, and what we can do as a community to push back against it. <br />"", '', '', '', '', '0', '9', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', 'ac31e7ab718b9def646a41aded714a16', '931323', 'Mari Brighe', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,Mari Brighe
 avneeds,
@@ -9298,7 +9298,7 @@ starttimeampm,5 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SATURDAY, MAY 4"
-input,"['352', 'Y', 'Cosplay Costume Contest', '2019-05-04 17:00:00', '2019-05-04 19:00:00', 'Cosplay', '', 'Come check out the amazing talent in our community as they compete for the most amazing cosplay costumes!', '', '', '', '', '0', '14', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '4149e1060e8858e507dfc383c44a73de', '931392', 'Karen Corbeill, Saladin Ahmed', '', '', '', '', '']"
+input,"['352', 'Y', 'Cosplay Costume Contest', '2019-05-04 17:00:00', '2019-05-04 19:00:00', 'Cosplay', '', 'Come check out the amazing talent in our community as they compete for the most amazing cosplay costumes!', '', '', '', '', '0', '15', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '4149e1060e8858e507dfc383c44a73de', '931392', 'Karen Corbeill, Saladin Ahmed', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,"Karen Corbeill, Saladin Ahmed"
 avneeds,
@@ -9738,7 +9738,7 @@ starttimeampm,5 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['217', 'Y', 'Authors Should Play with Dead Things', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Lit', '', 'Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.', '', '', '', '', '0', '11', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'cbcfe775d5ec0e12dd2cc605c982457b', '931389', 'Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye', '', '', '', '', '']"
+input,"['217', 'Y', 'Authors Should Play with Dead Things', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Lit', '', 'Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.', '', '', '', '', '0', '12', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'cbcfe775d5ec0e12dd2cc605c982457b', '931389', 'Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,"Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye"
 avneeds,
@@ -10298,7 +10298,7 @@ starttimeampm,6 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['52', 'Y', 'DIY Escape Room Game', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'DIY', '', 'For the last few years escape rooms have been the big craze for group gaming experiences. However, they can be expensive to go to and you have to get a large enough group together to book the rooms. What if you could make your own game for your events or parties? Well you can! Come learn some basics on creating your own escape rooms. See examples of puzzles, clues, and different styles of game design from the people that have put on the Penguicon games for the last few years.', '', '', '', '', '0', '9', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', 'a59e00c3878ee8cb338adbfa8e546468', '931353', 'Alex Drummer', '', '', '', '', '']"
+input,"['52', 'Y', 'DIY Escape Room Game', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'DIY', '', 'For the last few years escape rooms have been the big craze for group gaming experiences. However, they can be expensive to go to and you have to get a large enough group together to book the rooms. What if you could make your own game for your events or parties? Well you can! Come learn some basics on creating your own escape rooms. See examples of puzzles, clues, and different styles of game design from the people that have put on the Penguicon games for the last few years.', '', '', '', '', '0', '10', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', 'a59e00c3878ee8cb338adbfa8e546468', '931353', 'Alex Drummer', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,Alex Drummer
 avneeds,
@@ -10338,7 +10338,7 @@ starttimeampm,6 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['223', 'Y', 'Tiny Sci-Fi Stories', '2019-05-04 18:00:00', '2019-05-04 20:00:00', 'Lit', '', 'In this workshop, participates will work in small groups or individually to write tiny (1-sentence and/or 3-sentence) utopian and dystopian sci-fi stories. The very common and most interesting result of this workshop is that people realize how strongly they lean towards either dystopian or utopian thinking about the future of technology, which results in an excellent discussion at the end of the workshop.The goal of the workshop is to encourage people to avoid unproductive extremes of utopian/dystopian thinking and adopt a more critically optimistic, balanced approach to thinking about technology and the future.', '', '', '', '', '0', '6', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', 'b80c793797e0ca1b732b567c28eb6f8f', '931377', 'Sophia Brueckner', '', '', '', '', '']"
+input,"['223', 'Y', 'Tiny Sci-Fi Stories', '2019-05-04 18:00:00', '2019-05-04 20:00:00', 'Lit', '', 'In this workshop, participates will work in small groups or individually to write tiny (1-sentence and/or 3-sentence) utopian and dystopian sci-fi stories. The very common and most interesting result of this workshop is that people realize how strongly they lean towards either dystopian or utopian thinking about the future of technology, which results in an excellent discussion at the end of the workshop.The goal of the workshop is to encourage people to avoid unproductive extremes of utopian/dystopian thinking and adopt a more critically optimistic, balanced approach to thinking about technology and the future.', '', '', '', '', '0', '7', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', 'b80c793797e0ca1b732b567c28eb6f8f', '931377', 'Sophia Brueckner', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Sophia Brueckner
 avneeds,
@@ -10378,7 +10378,7 @@ starttimeampm,6 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['200', 'Y', 'Subversive Fairy Tales', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Lit', '', ""Modern literature has rediscovered fairy tales, but these aren't your typical Brother's Grimm stories. They're darker, grittier, and you might not get the happy ending you expected. Come see how fairy tales have grown up, and how they might be closer to their original forms than the ones you knew as a child."", '', '', '', '', '0', '19', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'c18a97cadbf7e403e76f74914deefae9', '931344', 'Janea Schimmel, Cassandra Morgan', '', '', '', '', '']"
+input,"['200', 'Y', 'Subversive Fairy Tales', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Lit', '', ""Modern literature has rediscovered fairy tales, but these aren't your typical Brother's Grimm stories. They're darker, grittier, and you might not get the happy ending you expected. Come see how fairy tales have grown up, and how they might be closer to their original forms than the ones you knew as a child."", '', '', '', '', '0', '20', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'c18a97cadbf7e403e76f74914deefae9', '931344', 'Janea Schimmel, Cassandra Morgan', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,"Janea Schimmel, Cassandra Morgan"
 avneeds,
@@ -11138,7 +11138,7 @@ starttimeampm,7 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SATURDAY, MAY 4"
-input,"['333', 'Y', 'Autonomous Cars: Learning and Teaching with Autonomous Tech', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Tech', '', 'Learn the skills to create your own autonomous vehicle (AV) on the cheap! This will be a 90% hands on session that will teach you how to teach others about robotics and how to make one for yourself!', '', '', '', '', '0', '6', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', 'd11fd46455d6eed439dfa3c76f698dea', '931398', 'Marc Sturzl', '', '', '', '', '']"
+input,"['333', 'Y', 'Autonomous Cars: Learning and Teaching with Autonomous Tech', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Tech', '', 'Learn the skills to create your own autonomous vehicle (AV) on the cheap! This will be a 90% hands on session that will teach you how to teach others about robotics and how to make one for yourself!', '', '', '', '', '0', '7', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', 'd11fd46455d6eed439dfa3c76f698dea', '931398', 'Marc Sturzl', '', '', '', '', '']"
 booklocation,Computer Lab [Charlevoix C]
 calspeakers,Marc Sturzl
 avneeds,
@@ -11289,7 +11289,7 @@ endtimeampm,9 PM
 duration,1 hour
 description,"This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television."
 index,83
-speakers,Alexandra
+speakers,Girlinthechair aka Alex
 bookdescrip,"This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television."
 startday,5/4/2019
 Start Time,20:00
@@ -11298,18 +11298,18 @@ starttimeampm,8 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['246', 'Y', 'Disability and Illness on Television', '2019-05-04 20:00:00', '2019-05-04 21:00:00', 'Media', '', 'This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television.', '', '', '', '', '0', '5', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '391879553d6784848c6296f842b5767e', '931344', 'Alexandra', '', '', '', '', '']"
+input,"['246', 'Y', 'Disability and Illness on Television', '2019-05-04 20:00:00', '2019-05-04 21:00:00', 'Media', '', 'This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television.', '', '', '', '', '0', '5', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '391879553d6784848c6296f842b5767e', '931344', 'Girlinthechair aka Alex', '', '', '', '', '']"
 booklocation,Charlevoix B
-calspeakers,Alexandra
+calspeakers,Girlinthechair aka Alex
 avneeds,
-speakerlist,['Alexandra']
+speakerlist,['Girlinthechair aka Alex']
 hours,1
 totalminutes,60
-speakernosplist,['Alexandra']
+speakernosplist,['GirlinthechairakaAlex']
 caldescrip,"This talk will examine television, particularly genre television, and its portrayal (and lack of portrayal) of disabled, ill, and differently abled persons throughout the history of television."
 endtime,21:00
 name,Disability and Illness on Television
-speakernosp,Alexandra
+speakernosp,GirlinthechairakaAlex
 bookname,Disability and Illness on Television
 venue,Charlevoix B
 csvsafedescrip,This talk will examine television- particularly genre television- and its portrayal (and lack of portrayal) of disabled- ill- and differently abled persons throughout the history of television.
@@ -11969,7 +11969,7 @@ endtimeampm,10 PM
 duration,1 hour
 description,"A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion."
 index,382
-speakers,Alexandra
+speakers,Girlinthechair aka Alex
 bookdescrip,"A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion."
 startday,5/4/2019
 Start Time,21:00
@@ -11978,18 +11978,18 @@ starttimeampm,9 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['247', 'Y', 'Heroes, Villains, and Outsiders: Disability In Comics', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'Media', '', ""A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion."", '', '', '', '', '0', '6', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'fb3e1efc7294f04fbb74055ced301bae', '931344', 'Alexandra', '', '', '', '', '']"
+input,"['247', 'Y', 'Heroes, Villains, and Outsiders: Disability In Comics', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'Media', '', ""A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion."", '', '', '', '', '0', '6', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'fb3e1efc7294f04fbb74055ced301bae', '931344', 'Girlinthechair aka Alex', '', '', '', '', '']"
 booklocation,Charlevoix B
-calspeakers,Alexandra
+calspeakers,Girlinthechair aka Alex
 avneeds,
-speakerlist,['Alexandra']
+speakerlist,['Girlinthechair aka Alex']
 hours,1
 totalminutes,60
-speakernosplist,['Alexandra']
+speakernosplist,['GirlinthechairakaAlex']
 caldescrip,"A discussion on the diverse range of disabled characters in the wonderful medium that is comics, including comic based material that has branched off into television and movies. From the well known and more obvious, to those whose abilities could be seen as disabilities, and even lesser known characters, let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics, graphic novels, and insights for further discussion."
 endtime,22:00
 name,"Heroes, Villains, and Outsiders: Disability In Comics"
-speakernosp,Alexandra
+speakernosp,GirlinthechairakaAlex
 bookname,"Heroes, Villains, and Outsiders: Disability In Comics"
 venue,Charlevoix B
 csvsafedescrip,A discussion on the diverse range of disabled characters in the wonderful medium that is comics- including comic based material that has branched off into television and movies. From the well known and more obvious- to those whose abilities could be seen as disabilities- and even lesser known characters- let's explore the backgrounds and portrayals of characters as well as general topics surrounding disability culture in comics. Please feel to bring your own comics- graphic novels- and insights for further discussion.
@@ -12809,7 +12809,7 @@ endtimeampm,11 AM
 duration,1 hour
 description,"Join us for a discussion on the gaming industrys earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more."
 index,47
-speakers,"Casey O'Donnell, Alexandra"
+speakers,"Girlinthechair aka Alex, Casey O'Donnell"
 bookdescrip,"Join us for a discussion on the gaming industrys earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more."
 startday,5/5/2019
 Start Time,10:00
@@ -12818,18 +12818,18 @@ starttimeampm,10 AM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SUNDAY, MAY 5"
-input,"['290', 'Y', 'The Women Who Gave Us Gaming', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Tech', '', 'Join us for a discussion on the gaming industry\xe2\x80\x99s earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more.', '', '', '', '', '0', '9', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '1f2ab89223be7f72db0bae3140615426', '931344', ""Casey O'Donnell, Alexandra"", '', '', '', '', '']"
+input,"['290', 'Y', 'The Women Who Gave Us Gaming', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Tech', '', 'Join us for a discussion on the gaming industry\xe2\x80\x99s earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more.', '', '', '', '', '0', '9', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '1f2ab89223be7f72db0bae3140615426', '931344', ""Girlinthechair aka Alex, Casey O'Donnell"", '', '', '', '', '']"
 booklocation,Charlevoix B
-calspeakers,"Casey O'Donnell, Alexandra"
+calspeakers,"Girlinthechair aka Alex, Casey O'Donnell"
 avneeds,
-speakerlist,"[""Casey O'Donnell"", 'Alexandra']"
+speakerlist,"['Girlinthechair aka Alex', ""Casey O'Donnell""]"
 hours,1
 totalminutes,60
-speakernosplist,"[""CaseyO'Donnell"", 'Alexandra']"
+speakernosplist,"['GirlinthechairakaAlex', ""CaseyO'Donnell""]"
 caldescrip,"Join us for a discussion on the gaming industrys earliest female game programmers such as Carol Shaw, Dona Bailey, and Roberta Williams as well as those who who continue to make significant contributions in programming, design, and more."
 endtime,11:00
 name,The Women Who Gave Us Gaming
-speakernosp,"CaseyO'Donnell,Alexandra"
+speakernosp,"GirlinthechairakaAlex,CaseyO'Donnell"
 bookname,The Women Who Gave Us Gaming
 venue,Charlevoix B
 csvsafedescrip,Join us for a discussion on the gaming industrys earliest female game programmers such as Carol Shaw- Dona Bailey- and Roberta Williams as well as those who who continue to make significant contributions in programming- design- and more.
@@ -13169,7 +13169,7 @@ endtimeampm,11 AM
 duration,1 hour
 description,"BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer."
 index,164
-speakers,Matthew Arnold
+speakers,Matt Arnold
 bookdescrip,"BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer."
 startday,5/5/2019
 Start Time,10:00
@@ -13178,18 +13178,18 @@ starttimeampm,10 AM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"SUNDAY, MAY 5"
-input,"['137', 'Y', 'Overworld', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Gaming', '', 'BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer.', '', '', '', '', '0', '1', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', '6796508caa49c84cbaab974456efbe5a', '931386', 'Matthew Arnold', '', '', '', '', '']"
+input,"['137', 'Y', 'Overworld', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Gaming', '', 'BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer.', '', '', '', '', '0', '1', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', '6796508caa49c84cbaab974456efbe5a', '931386', 'Matt Arnold', '', '', '', '', '']"
 booklocation,Gaming (TC's Room)
-calspeakers,Matthew Arnold
+calspeakers,Matt Arnold
 avneeds,
-speakerlist,['Matthew Arnold']
+speakerlist,['Matt Arnold']
 hours,1
 totalminutes,60
-speakernosplist,['MatthewArnold']
+speakernosplist,['MattArnold']
 caldescrip,"BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests, mountains, reefs, and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon, and is famed as the greatest explorer."
 endtime,11:00
 name,Overworld
-speakernosp,MatthewArnold
+speakernosp,MattArnold
 bookname,Overworld
 venue,Gaming (TC's Room)
 csvsafedescrip,BG 2 to 4 players; Play with a published edition of the strategy game playtested at Penguicon so many times before. Discover dungeon entrances by exploring pixel-art forests- mountains- reefs- and whirlpools. Lay L-shaped tiles and claim them with your ships and your rideable flightless birds. Dungeon doors are placed into the spaces where no tile could ever fit. The player whose three dungeon doors are farthest apart has discovered the largest dungeon- and is famed as the greatest explorer.
@@ -13209,7 +13209,7 @@ endtimeampm,11 AM
 duration,1 hour
 description,Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.
 index,173
-speakers,"Scott Kennedy, Niki MacRae, BluRaven, Jessica Roland"
+speakers,"Scott Kennedy, Niki MacRae, BluRaven C. Houvener, Jessica Roland"
 bookdescrip,Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.
 startday,5/5/2019
 Start Time,10:00
@@ -13218,18 +13218,18 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SUNDAY, MAY 5"
-input,"['181', 'Y', 'Engaging Your Social Media Community and Reducing Drama', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Life', '', 'Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.', '', '', '', '', '0', '6', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', '6dd9414b0493ae951f8f768cd553ee5d', '931329', 'Scott Kennedy, Niki MacRae, BluRaven, Jessica Roland', '', '', '', '', '']"
+input,"['181', 'Y', 'Engaging Your Social Media Community and Reducing Drama', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Life', '', 'Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.', '', '', '', '', '0', '6', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', '6dd9414b0493ae951f8f768cd553ee5d', '931329', 'Scott Kennedy, Niki MacRae, BluRaven C. Houvener, Jessica Roland', '', '', '', '', '']"
 booklocation,Nicolet
-calspeakers,"Scott Kennedy, Niki MacRae, BluRaven, Jessica Roland"
+calspeakers,"Scott Kennedy, Niki MacRae, BluRaven C. Houvener, Jessica Roland"
 avneeds,
-speakerlist,"['Scott Kennedy', 'Niki MacRae', 'BluRaven', 'Jessica Roland']"
+speakerlist,"['Scott Kennedy', 'Niki MacRae', 'BluRaven C. Houvener', 'Jessica Roland']"
 hours,1
 totalminutes,60
-speakernosplist,"['ScottKennedy', 'NikiMacRae', 'BluRaven', 'JessicaRoland']"
+speakernosplist,"['ScottKennedy', 'NikiMacRae', 'BluRavenC.Houvener', 'JessicaRoland']"
 caldescrip,Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.
 endtime,11:00
 name,Engaging Your Social Media Community and Reducing Drama
-speakernosp,"ScottKennedy,NikiMacRae,BluRaven,JessicaRoland"
+speakernosp,"ScottKennedy,NikiMacRae,BluRavenC.Houvener,JessicaRoland"
 bookname,Engaging Your Social Media Community and Reducing Drama
 venue,Nicolet
 csvsafedescrip,Are you a social media group admin or moderator? Learn methods of engaging your community on social media as a means of preventing and reducing group drama. Platform irrelevant.
