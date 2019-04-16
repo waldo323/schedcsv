@@ -5,6 +5,7 @@ use these links for downloading the actual csv files:
 | [Algonquin A]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Algonquin A.csv ) |  |
 | [Algonquin B]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Algonquin B.csv ) |  |
 | [Algonquin C/D]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Algonquin C/D.csv ) |  |
+| [Author Readings Room]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Author Readings Room.csv ) |  |
 | [Baldwin]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Baldwin.csv ) |  |
 | [Charlevoix A]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Charlevoix A.csv ) |  |
 | [Charlevoix B]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Charlevoix B.csv ) |  |
@@ -28,4 +29,5 @@ use these links for downloading the actual csv files:
 | [Portage Auditorium]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Portage Auditorium.csv ) |  |
 | [Various Location]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Various Location.csv ) |  |
 | [Westin Bar]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Westin Bar.csv ) |  |
+| [Writer's Block ]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Writer's Block .csv ) |  |
 

@@ -17,6 +17,9 @@
 <title>How to Fight With a Medieval Longsword</title>
 <topic>Life</topic>
 <time>11 AM</time></event><event>
+<title>Are You A Werewolf?</title>
+<topic>Gaming</topic>
+<time>12 PM</time></event><event>
 <title>Parachute while Grounded</title>
 <topic>Mayhem</topic>
 <time>1 PM</time></event><event>
@@ -48,6 +51,9 @@
 <title>JAC3D G33K's Fitness Boot Camp Penguicon 2019 Edition</title>
 <topic>Life</topic>
 <time>8 AM</time></event><event>
+<title>Onitama w/ Life Sized Pieces</title>
+<topic>Gaming</topic>
+<time>11 AM</time></event><event>
 <room>Algonquin B</room>
 <day>FRIDAY, MAY 3</day>
 <title>So this is your first Penguicon...</title>
@@ -146,11 +152,53 @@
 <title>PitchoRama</title>
 <topic>Lit</topic>
 <time>11 AM</time></event><event>
+<title>Comedy Fanfiction Showcase</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
 <title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <time>3 PM</time></event><event>
+<room>Author Readings Room</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Michael Cieslak &amp; Nicole E. Castle</title>
+<topic>Lit</topic>
+<time>10 AM</time></event><event>
+<title>Reading: Michael W. Lucas</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<title>Reading: David Erik Nelson &amp; Christian Klaver</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<title>Reading: Mary Lynne Gibbs</title>
+<topic>Lit</topic>
+<time>2 PM</time></event><event>
+<title>Reading: BluRaven C. Houvener</title>
+<topic>Lit</topic>
+<time>4 PM</time></event><event>
+<title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
+<topic>Lit</topic>
+<time>5 PM</time></event><event>
+<title>Reading: Ken Schrader</title>
+<topic>Lit</topic>
+<time>6 PM</time></event><event>
+<title>Reading: Vik Walker &amp; Ophelia Crane</title>
+<topic>Lit</topic>
+<time>7 PM</time></event><event>
+<day>SUNDAY, MAY 5</day>
+<title>Reading: Merrie Haskell</title>
+<topic>Lit</topic>
+<time>11 AM</time></event><event>
+<title>Reading: G.S. Scott &amp; Diana Kathryn Plopa</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<title>Reading: Jean Davis &amp; Clif Flynt</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, MAY 3</day>
+<title>Ray Bradbury: A Fan Discussion</title>
+<topic>Lit</topic>
+<time>4 PM</time></event><event>
 <title>Consent Expectations and Party Vetting Opportunity</title>
 <topic>After Dark</topic>
 <time>6 PM</time></event><event>
@@ -160,9 +208,6 @@
 <title>TEALS Program Info Session</title>
 <topic>Life</topic>
 <time>8 PM</time></event><event>
-<title>Ray Bradbury: A Fan Discussion</title>
-<topic>Lit</topic>
-<time>9 PM</time></event><event>
 <title>BoF: Developing an Open Source Novel</title>
 <topic>Lit</topic>
 <time>10 PM</time></event><event>
@@ -273,22 +318,19 @@
 <title>Podcasting Workshop</title>
 <topic>Media</topic>
 <time>8 PM</time></event><event>
-<title>Electroplay</title>
-<topic>After Dark</topic>
-<time>9 PM</time></event><event>
 <title>Floggers 201</title>
 <topic>After Dark</topic>
+<time>9 PM</time></event><event>
+<title>Electroplay</title>
+<topic>After Dark</topic>
 <time>10 PM</time></event><event>
-<title>Live Wires and Water Puddles: Safety First in Fractal Burning</title>
-<topic>DIY</topic>
-<time>11 PM</time></event><event>
 <day>SUNDAY, MAY 5</day>
-<title>Senior Sysadmin Ethics Panel</title>
-<topic>Tech</topic>
-<time>10 AM</time></event><event>
 <title>10 Commandments of Networking</title>
 <topic>Life</topic>
 <time>10 AM</time></event><event>
+<title>Senior Sysadmin Ethics Panel</title>
+<topic>Tech</topic>
+<time>11 AM</time></event><event>
 <title>Solar Panel Panel: Begin the Revolution and Make Money</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
@@ -346,6 +388,9 @@
 <title>Subversive Fairy Tales</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
+<title>OpenBSD Panel</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <title>Disability and Illness on Television</title>
 <topic>Media</topic>
 <time>8 PM</time></event><event>
@@ -403,18 +448,15 @@
 <title>Linux 101: Get Started with Command Line</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
-<title>Writing An Open Source Paypal Portal For Convention Reg</title>
-<topic>Tech</topic>
-<time>5 PM</time></event><event>
-<title>Network Science with Network: Session 1</title>
-<topic>Tech</topic>
-<time>6 PM</time></event><event>
 <title>Autonomous Cars: Learning and Teaching with Autonomous Tech</title>
 <topic>Tech</topic>
 <time>7 PM</time></event><event>
 <title>Ed: The Standard Unix Text Editor</title>
 <topic>Tech</topic>
 <time>8 PM</time></event><event>
+<title>Network Science with Network: Session 1</title>
+<topic>Tech</topic>
+<time>9 PM</time></event><event>
 <day>SUNDAY, MAY 5</day>
 <title>What It's Like to Own Your OS v3</title>
 <topic>Tech</topic>
@@ -428,6 +470,9 @@
 <title>Networking 102</title>
 <topic>Tech</topic>
 <time>12 PM</time></event><event>
+<title>Writing An Open Source Paypal Portal For Convention Reg</title>
+<topic>Tech</topic>
+<time>1 PM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, MAY 3</day>
 <title>How To Get Started In Cosplay</title>
@@ -616,6 +661,12 @@
 <time>2 PM</time></event><event>
 <room>EMC IV</room>
 <day>FRIDAY, MAY 3</day>
+<title>Crochet Basics and Beyond</title>
+<topic>DIY</topic>
+<time>4 PM</time></event><event>
+<title>How to photograph a supermassive black hole.</title>
+<topic>Science</topic>
+<time>5 PM</time></event><event>
 <title>Maintaining Your Mental and Emotional Health While Job Hunting</title>
 <topic>Life</topic>
 <time>6 PM</time></event><event>
@@ -829,9 +880,6 @@
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
-<title>Are You A Werewolf?</title>
-<topic>Gaming</topic>
-<time>12 PM</time></event><event>
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
@@ -979,6 +1027,9 @@
 <title>Your Fat is Not Your Fault: What Science Says About Behavior and Weight</title>
 <topic>Science</topic>
 <time>4 PM</time></event><event>
+<title>Selling Your Work At A Renaissance Faire</title>
+<topic>Life</topic>
+<time>5 PM</time></event><event>
 <title>What is a Zine and Why You Should Care!</title>
 <topic>Lit</topic>
 <time>7 PM</time></event><event>
@@ -1055,6 +1106,9 @@
 <title>Aftercare Variations and Negotiations</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
+<title>Live Wires and Water Puddles: Safety First in Fractal Burning</title>
+<topic>DIY</topic>
+<time>11 PM</time></event><event>
 <day>SUNDAY, MAY 5</day>
 <title>You're Only as Good as Your Villain is Bad</title>
 <topic>Lit</topic>
@@ -1171,4 +1225,35 @@
 <day>SATURDAY, MAY 4</day>
 <title>BOF: Installing Open Source Software is Too Complicated Now</title>
 <topic>Tech</topic>
-<time>6 PM</time></event></events>
+<time>6 PM</time></event><event>
+<room>Writer's Block </room>
+<day>FRIDAY, MAY 3</day>
+<title>Author Office Hours with Jen Haeger</title>
+<topic>Lit</topic>
+<time>6 PM</time></event><event>
+<day>SATURDAY, MAY 4</day>
+<title>Author Office Hours with Michael W. Lucas</title>
+<topic>Lit</topic>
+<time>10 AM</time></event><event>
+<title>Author Office Hours with Nicole E. Castle</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<title>Author Office Hours with Michael Cieslak &amp; Mary Lynne Gibbs</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<title>Author Office Hours with Vik Walker &amp; Ken Schrader</title>
+<topic>Lit</topic>
+<time>2 PM</time></event><event>
+<title>Author Office Hours with Diana Kathryn Plopa &amp; Jean Davis</title>
+<topic>Lit</topic>
+<time>4 PM</time></event><event>
+<title>Author Office Hours with BluRaven C. Houvener</title>
+<topic>Lit</topic>
+<time>5 PM</time></event><event>
+<title>Author Office Hours with G. S. Scott</title>
+<topic>Lit</topic>
+<time>6 PM</time></event><event>
+<day>SUNDAY, MAY 5</day>
+<title>Author Office Hours with Christian Klaver &amp; David Erik Nelson</title>
+<topic>Lit</topic>
+<time>11 AM</time></event></events>

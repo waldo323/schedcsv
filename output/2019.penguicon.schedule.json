@@ -146,7 +146,7 @@
         "track": "",
         "start_time": "15:00",
         "presenters": [
-            "Matt Arnold"
+            "Matthew Arnold"
         ],
         "location": "",
         "minutes": 60,
@@ -259,6 +259,37 @@
         "start_time": "16:00",
         "presenters": [
             "Byron Pepper"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/3/2019",
+        "end_time": "17:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "16:00",
+        "presenters": [
+            "Sarah Elkins",
+            "Michael Cieslak"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/3/2019",
+        "end_time": "17:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "16:00",
+        "presenters": [
+            "Grace Cocking",
+            "Jeanette Quirk",
+            "Kelly Vanderwell"
         ],
         "location": "",
         "minutes": 60,
@@ -460,6 +491,20 @@
         "track": "",
         "start_time": "17:00",
         "presenters": [
+            "Norm Witte"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/3/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "17:00",
+        "presenters": [
             "Justin Winkelman"
         ],
         "location": "",
@@ -478,7 +523,8 @@
             "Janet Gocay",
             "Scott Kennedy",
             "Nuri Gocay",
-            "Jessica Roland"
+            "Jessica Roland",
+            "Cylithria Dubois"
         ],
         "location": "",
         "minutes": 60,
@@ -549,7 +595,7 @@
         "track": "",
         "start_time": "18:00",
         "presenters": [
-            "James Gamble"
+            "James Gable"
         ],
         "location": "",
         "minutes": 60,
@@ -578,7 +624,7 @@
         "track": "",
         "start_time": "18:00",
         "presenters": [
-            "girlinthechair aka Alex"
+            "Girlinthechair aka Alex"
         ],
         "location": "",
         "minutes": 60,
@@ -654,6 +700,20 @@
             "Chris Bell",
             "Emily Bell",
             "Marsalis"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/3/2019",
+        "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "18:00",
+        "presenters": [
+            "Jen Haeger"
         ],
         "location": "",
         "minutes": 60,
@@ -766,8 +826,8 @@
         "track": "",
         "start_time": "19:00",
         "presenters": [
-            "Kelly V",
-            "Mary Fitzpatrick"
+            "Mary Fitzpatrick",
+            "Kelly Vanderwell"
         ],
         "location": "",
         "minutes": 60,
@@ -841,7 +901,7 @@
         "presenters": [
             "Paul Kemner",
             "Star Stramel",
-            "Natasha Kidwell"
+            "A. Carina Spears"
         ],
         "location": "",
         "minutes": 60,
@@ -1275,21 +1335,6 @@
         "track": "",
         "start_time": "21:00",
         "presenters": [
-            "Sarah Elkins",
-            "Michael Cieslak"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/3/2019",
-        "end_time": "22:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "21:00",
-        "presenters": [
             "April Jennifer Choi"
         ],
         "location": "",
@@ -1606,8 +1651,8 @@
         "start_time": "10:00",
         "presenters": [
             "Dawn Marino",
-            "Kelly V",
-            "Grace Cocking"
+            "Grace Cocking",
+            "Kelly Vanderwell"
         ],
         "location": "",
         "minutes": 60,
@@ -1622,6 +1667,21 @@
         "start_time": "10:00",
         "presenters": [
             "Noah Bogart"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "11:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "10:00",
+        "presenters": [
+            "Nicole e. Castle",
+            "Michael Cieslak"
         ],
         "location": "",
         "minutes": 60,
@@ -1664,6 +1724,20 @@
         "start_time": "10:00",
         "presenters": [
             ""
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "11:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "10:00",
+        "presenters": [
+            "Michael W. Lucas"
         ],
         "location": "",
         "minutes": 60,
@@ -2040,6 +2114,20 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
+            "Nicole E. Caslte"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "12:00",
+        "presenters": [
             "Karen Corbeill"
         ],
         "location": "",
@@ -2195,6 +2283,20 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
+            "Michael W. Lucas"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "12:00",
+        "presenters": [
             "Gibson Nichols"
         ],
         "location": "",
@@ -2297,12 +2399,42 @@
         "track": "",
         "start_time": "13:00",
         "presenters": [
+            "Mary Lynne Gibbs",
+            "Michael Cieslak"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "14:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "13:00",
+        "presenters": [
             "Scott Scheraga"
         ],
         "location": "",
         "minutes": 180,
         "start_date": "5/4/2019",
         "end_time": "16:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "13:00",
+        "presenters": [
+            "David Nelson",
+            "Christian Klaver"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "14:00"
     },
     {
         "book_description": "",
@@ -2454,7 +2586,7 @@
         "track": "",
         "start_time": "13:00",
         "presenters": [
-            "girlinthechair aka Alex"
+            "Girlinthechair aka Alex"
         ],
         "location": "",
         "minutes": 60,
@@ -2483,6 +2615,20 @@
         "start_time": "14:00",
         "presenters": [
             "Scott Helmke"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "14:00",
+        "presenters": [
+            "Mary Lynne Gibbs"
         ],
         "location": "",
         "minutes": 60,
@@ -2673,6 +2819,21 @@
             "Paul Kemner",
             "Star Stramel",
             "A. Carina Spears"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "14:00",
+        "presenters": [
+            "Vik Walker",
+            "Ken Schrader"
         ],
         "location": "",
         "minutes": 60,
@@ -2897,7 +3058,7 @@
         "track": "",
         "start_time": "15:00",
         "presenters": [
-            "Arts and Scraps Team"
+            "Jordan Ross"
         ],
         "location": "",
         "minutes": 60,
@@ -3058,10 +3219,39 @@
         "track": "",
         "start_time": "16:00",
         "presenters": [
+            "BluRaven C. Houvener"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "17:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "16:00",
+        "presenters": [
             "Mikey Mason",
             "LadyAna",
             "Saladin Ahmed",
             "Professor X"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "17:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "16:00",
+        "presenters": [
+            "Jean Davis",
+            "Diana Kathryn Plopa"
         ],
         "location": "",
         "minutes": 60,
@@ -3149,21 +3339,6 @@
         "start_time": "17:00",
         "presenters": [
             "Tom Lawrence"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/4/2019",
-        "end_time": "18:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "17:00",
-        "presenters": [
-            "Matt Arnold",
-            "Drew Lanagan"
         ],
         "location": "",
         "minutes": 60,
@@ -3321,7 +3496,23 @@
         "track": "",
         "start_time": "17:00",
         "presenters": [
-            "Star Stramel"
+            "Star Stramel",
+            "A. Carina Spears",
+            "Natasha Kidwell"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "17:00",
+        "presenters": [
+            "BluRaven C. Houvener"
         ],
         "location": "",
         "minutes": 60,
@@ -3339,6 +3530,35 @@
             "Mary Lynne Gibbs",
             "Michael Cieslak",
             "Colleen Nye"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "17:00",
+        "presenters": [
+            "Jen Haeger",
+            "Leslie Gulvas"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "17:00",
+        "presenters": [
+            "Valerie Hibbard"
         ],
         "location": "",
         "minutes": 60,
@@ -3465,20 +3685,6 @@
         "track": "",
         "start_time": "18:00",
         "presenters": [
-            "Edward L. Platt"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/4/2019",
-        "end_time": "19:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "18:00",
-        "presenters": [
             "Jason Rutherford"
         ],
         "location": "",
@@ -3494,6 +3700,20 @@
         "start_time": "18:00",
         "presenters": [
             "David VanderMolen"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "18:00",
+        "presenters": [
+            "G.S. Scott"
         ],
         "location": "",
         "minutes": 60,
@@ -3552,6 +3772,20 @@
         "presenters": [
             "Edward L. Platt",
             "Sam Letvin"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "18:00",
+        "presenters": [
+            "Ken Schrader"
         ],
         "location": "",
         "minutes": 60,
@@ -3625,6 +3859,21 @@
         "start_time": "19:00",
         "presenters": [
             "William Bowen"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "20:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "19:00",
+        "presenters": [
+            "Vik Walker",
+            "Ophelia Crane"
         ],
         "location": "",
         "minutes": 60,
@@ -3726,8 +3975,8 @@
         "presenters": [
             "Paul Kemner",
             "Star Stramel",
-            "Natasha Kidwell",
-            "Angela C. Spears"
+            "A. Carina Spears",
+            "Natasha Kidwell"
         ],
         "location": "",
         "minutes": 120,
@@ -3742,6 +3991,21 @@
         "start_time": "19:00",
         "presenters": [
             "Terry Howald"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "20:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "19:00",
+        "presenters": [
+            "STeve Andre'",
+            "Marcus Watts"
         ],
         "location": "",
         "minutes": 60,
@@ -3960,6 +4224,20 @@
         "track": "",
         "start_time": "21:00",
         "presenters": [
+            "WilliePA"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "22:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "21:00",
+        "presenters": [
             "Sarah Elkins",
             "Phil Salkie"
         ],
@@ -4017,12 +4295,12 @@
         "track": "",
         "start_time": "21:00",
         "presenters": [
-            "Meredith"
+            "Edward L. Platt"
         ],
         "location": "",
-        "minutes": 60,
+        "minutes": 0,
         "start_date": "5/4/2019",
-        "end_time": "22:00"
+        "end_time": "21:00"
     },
     {
         "book_description": "",
@@ -4031,8 +4309,7 @@
         "track": "",
         "start_time": "21:00",
         "presenters": [
-            "Dracose",
-            "SirWill"
+            "Meredith"
         ],
         "location": "",
         "minutes": 60,
@@ -4074,20 +4351,6 @@
         "track": "",
         "start_time": "22:00",
         "presenters": [
-            "WilliePA"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/4/2019",
-        "end_time": "23:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "22:00",
-        "presenters": [
             "Toga"
         ],
         "location": "",
@@ -4117,6 +4380,21 @@
         "start_time": "22:00",
         "presenters": [
             "Karida"
+        ],
+        "location": "",
+        "minutes": 120,
+        "start_date": "5/4/2019",
+        "end_time": "00:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "22:00",
+        "presenters": [
+            "Dracose",
+            "SirWill"
         ],
         "location": "",
         "minutes": 120,
@@ -4387,21 +4665,6 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Michael W. Lucas",
-            "Wayne Pederson"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/5/2019",
-        "end_time": "11:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "10:00",
-        "presenters": [
             "Chrissy Baginski"
         ],
         "location": "",
@@ -4458,7 +4721,7 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Liz 'Smoothie' DeBruyn"
+            "Elizabeth England-DeBruyn"
         ],
         "location": "",
         "minutes": 60,
@@ -4500,7 +4763,7 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Matt Arnold"
+            "Matthew Arnold"
         ],
         "location": "",
         "minutes": 60,
@@ -4532,7 +4795,7 @@
         "start_time": "10:00",
         "presenters": [
             "Clif Flynt",
-            "Michael W. Lucas"
+            "Michael Lucas"
         ],
         "location": "",
         "minutes": 60,
@@ -4662,6 +4925,21 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
+            "Michael W. Lucas",
+            "Wayne Pederson"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
             "Karen Corbeill"
         ],
         "location": "",
@@ -4679,9 +4957,9 @@
             "ted preston"
         ],
         "location": "",
-        "minutes": 120,
+        "minutes": 60,
         "start_date": "5/5/2019",
-        "end_time": "13:00"
+        "end_time": "12:00"
     },
     {
         "book_description": "",
@@ -4734,7 +5012,35 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
+            "wally2069"
+        ],
+        "location": "",
+        "minutes": 120,
+        "start_date": "5/5/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
             "Amy Wright"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
+            "Merrie Haskell"
         ],
         "location": "",
         "minutes": 60,
@@ -4793,6 +5099,21 @@
         "presenters": [
             "Jen Haeger",
             "Colleen Nye"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
+            "David Nelson",
+            "Christian Klaver"
         ],
         "location": "",
         "minutes": 60,
@@ -4977,6 +5298,39 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
+            "Joe Harvey",
+            "Mary Brandt",
+            "Dave Kish",
+            "Adam Clifford",
+            "Molly Zigler"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "12:00",
+        "presenters": [
+            "G.S. Scott",
+            "Diana Kathryn Plopa"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "12:00",
+        "presenters": [
             "Joy Lucas",
             "Grace Cocking"
         ],
@@ -4996,6 +5350,21 @@
         ],
         "location": "",
         "minutes": 120,
+        "start_date": "5/5/2019",
+        "end_time": "14:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "13:00",
+        "presenters": [
+            "Matt Arnold",
+            "Drew Lanagan"
+        ],
+        "location": "",
+        "minutes": 60,
         "start_date": "5/5/2019",
         "end_time": "14:00"
     },
@@ -5048,6 +5417,21 @@
         "track": "",
         "start_time": "13:00",
         "presenters": [
+            "Clif Flynt",
+            "Jean Davis"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "14:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "13:00",
+        "presenters": [
             "Charles Severance"
         ],
         "location": "",
@@ -5062,8 +5446,8 @@
         "track": "",
         "start_time": "13:00",
         "presenters": [
-            "Mary Fitzpatrick",
-            "Patt Mundy"
+            "Patt Mundy",
+            "Mary Fitzpatrick"
         ],
         "location": "",
         "minutes": 60,
@@ -5079,8 +5463,8 @@
         "presenters": [
             "Paul Kemner",
             "Star Stramel",
-            "Natasha Kidwell",
-            "Angela C. Spears"
+            "A. Carina Spears",
+            "Natasha Kidwell"
         ],
         "location": "",
         "minutes": 120,
