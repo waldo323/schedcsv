@@ -97,7 +97,7 @@ use these links for downloading the actual csv files:
 | [HenryMarshall]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/HenryMarshall.csv ) |  |
 | [HermioneBanger]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/HermioneBanger.csv ) |  |
 | [HokyoJoshuaRouthierMALLPC]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/HokyoJoshuaRouthierMALLPC.csv ) |  |
-| [IanSterrett]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/IanSterrett.csv ) |  |
+| [Ianformed]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Ianformed.csv ) |  |
 | [IdaBriggs]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/IdaBriggs.csv ) |  |
 | [JamesGable]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JamesGable.csv ) |  |
 | [JamesGamble]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JamesGamble.csv ) |  |
