@@ -22,7 +22,7 @@ use these links for downloading the actual csv files:
 | [BagelGarrison]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BagelGarrison.csv ) |  |
 | [BeckyHill]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BeckyHill.csv ) |  |
 | [BethBondono]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BethBondono.csv ) |  |
-| [BethanyByrnes]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BethanyByrnes.csv ) |  |
+| [BethanyBymes]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BethanyBymes.csv ) |  |
 | [BluRavenC.Houvener]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BluRavenC.Houvener.csv ) |  |
 | [BluRavenHouvener]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BluRavenHouvener.csv ) |  |
 | [BobbyBedard]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/BobbyBedard.csv ) |  |
@@ -52,7 +52,6 @@ use these links for downloading the actual csv files:
 | [ConorEsselink]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ConorEsselink.csv ) |  |
 | [CraigHibbard]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/CraigHibbard.csv ) |  |
 | [CraigMaloney]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/CraigMaloney.csv ) |  |
-| [CylithriaDubois]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/CylithriaDubois.csv ) |  |
 | [CyndiChadwick]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/CyndiChadwick.csv ) |  |
 | [DanEckerd]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DanEckerd.csv ) |  |
 | [DannyHansen]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DannyHansen.csv ) |  |
@@ -71,8 +70,6 @@ use these links for downloading the actual csv files:
 | [DrewLanagan]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DrewLanagan.csv ) |  |
 | [EdPlatt]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdPlatt.csv ) |  |
 | [EdwardL.Platt]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardL.Platt.csv ) |  |
-| [ElizabethBondono]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ElizabethBondono.csv ) |  |
-| [ElizabethEngland-DeBruyn]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ElizabethEngland-DeBruyn.csv ) |  |
 | [ElizabethLucas]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ElizabethLucas.csv ) |  |
 | [EllenRimar]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EllenRimar.csv ) |  |
 | [EmilyBell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EmilyBell.csv ) |  |
@@ -99,7 +96,6 @@ use these links for downloading the actual csv files:
 | [HokyoJoshuaRouthierMALLPC]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/HokyoJoshuaRouthierMALLPC.csv ) |  |
 | [Ianformed]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Ianformed.csv ) |  |
 | [IdaBriggs]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/IdaBriggs.csv ) |  |
-| [JamesGable]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JamesGable.csv ) |  |
 | [JamesGamble]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JamesGamble.csv ) |  |
 | [JamesHice]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JamesHice.csv ) |  |
 | [JaneaSchimmel]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/JaneaSchimmel.csv ) |  |
@@ -152,6 +148,8 @@ use these links for downloading the actual csv files:
 | [LiamMcGlohon]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LiamMcGlohon.csv ) |  |
 | [Lisa]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Lisa.csv ) |  |
 | [LisaLeutheuser]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LisaLeutheuser.csv ) |  |
+| [LithieDubois]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LithieDubois.csv ) |  |
+| [Liz'Smoothie'DeBruyn]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Liz'Smoothie'DeBruyn.csv ) |  |
 | [LloydWilliams]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/LloydWilliams.csv ) |  |
 | [MaggieMaiville]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MaggieMaiville.csv ) |  |
 | [MairiMundy-Dowd]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MairiMundy-Dowd.csv ) |  |
@@ -166,7 +164,6 @@ use these links for downloading the actual csv files:
 | [MaryTomich]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MaryTomich.csv ) |  |
 | [MattArnold]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MattArnold.csv ) |  |
 | [MatthewQuirk]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MatthewQuirk.csv ) |  |
-| [Meredith]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Meredith.csv ) |  |
 | [MeredithCarson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MeredithCarson.csv ) |  |
 | [MerrieHaskell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MerrieHaskell.csv ) |  |
 | [MichaelCieslak]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MichaelCieslak.csv ) |  |
@@ -181,8 +178,7 @@ use these links for downloading the actual csv files:
 | [NatashaKidwell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NatashaKidwell.csv ) |  |
 | [NickHaynes]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NickHaynes.csv ) |  |
 | [NickLelli]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NickLelli.csv ) |  |
-| [NicoleE.Caslte]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NicoleE.Caslte.csv ) |  |
-| [Nicolee.Castle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Nicolee.Castle.csv ) |  |
+| [NicoleE.Castle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NicoleE.Castle.csv ) |  |
 | [NikiMacRae]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NikiMacRae.csv ) |  |
 | [NoahBogart]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NoahBogart.csv ) |  |
 | [NormWitte]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NormWitte.csv ) |  |

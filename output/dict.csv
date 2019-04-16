@@ -1449,7 +1449,7 @@ endtimeampm,6 PM
 duration,1 hour
 description,"So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!"
 index,350
-speakers,"Cassy Sinke, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland, Cylithria Dubois"
+speakers,"Cassy Sinke, Lithie Dubois, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland"
 bookdescrip,"So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!"
 startday,5/3/2019
 Start Time,17:00
@@ -1458,18 +1458,18 @@ starttimeampm,5 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"FRIDAY, MAY 3"
-input,"['270', 'Y', 'So this is your first Penguicon...', '2019-05-03 17:00:00', '2019-05-03 18:00:00', 'Penguicon', '', ""So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!"", '', '', '', '', '0', '8', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', 'e4bc489a5fd23bc740fe04f8a69ce33c', '931395', 'Cassy Sinke, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland, Cylithria Dubois', '', '', '', '', '']"
+input,"['270', 'Y', 'So this is your first Penguicon...', '2019-05-03 17:00:00', '2019-05-03 18:00:00', 'Penguicon', '', ""So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!"", '', '', '', '', '0', '8', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', 'e4bc489a5fd23bc740fe04f8a69ce33c', '931395', 'Cassy Sinke, Lithie Dubois, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland', '', '', '', '', '']"
 booklocation,Algonquin B
-calspeakers,"Cassy Sinke, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland, Cylithria Dubois"
+calspeakers,"Cassy Sinke, Lithie Dubois, Janet Gocay, Scott Kennedy, Nuri Gocay, Jessica Roland"
 avneeds,
-speakerlist,"['Cassy Sinke', 'Janet Gocay', 'Scott Kennedy', 'Nuri Gocay', 'Jessica Roland', 'Cylithria Dubois']"
+speakerlist,"['Cassy Sinke', 'Lithie Dubois', 'Janet Gocay', 'Scott Kennedy', 'Nuri Gocay', 'Jessica Roland']"
 hours,1
 totalminutes,60
-speakernosplist,"['CassySinke', 'JanetGocay', 'ScottKennedy', 'NuriGocay', 'JessicaRoland', 'CylithriaDubois']"
+speakernosplist,"['CassySinke', 'LithieDubois', 'JanetGocay', 'ScottKennedy', 'NuriGocay', 'JessicaRoland']"
 caldescrip,"So it's your first time! One of us! One of us! Great, now that you're here, how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts, previous conchairs, and convention organizers!"
 endtime,18:00
 name,So this is your first Penguicon...
-speakernosp,"CassySinke,JanetGocay,ScottKennedy,NuriGocay,JessicaRoland,CylithriaDubois"
+speakernosp,"CassySinke,LithieDubois,JanetGocay,ScottKennedy,NuriGocay,JessicaRoland"
 bookname,So this is your first Penguicon...
 venue,Algonquin B
 csvsafedescrip,So it's your first time! One of us! One of us! Great- now that you're here- how do you do it right? What's up with the ribbons? How do you pick what you want do when soooomg many things are going on? Where's the free beer? What happened to the brazilian beef? Why is hand sanitizer terrible salad dressing? Learn some survival tips and hear some heart-warming stories from some seasoned experts- previous conchairs- and convention organizers!
@@ -1649,7 +1649,7 @@ endtimeampm,7 PM
 duration,1 hour
 description,"Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security."
 index,131
-speakers,James Gable
+speakers,James Gamble
 bookdescrip,"Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security."
 startday,5/3/2019
 Start Time,18:00
@@ -1658,18 +1658,18 @@ starttimeampm,6 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '8', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gable', '', '', '', '', '']"
+input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '8', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gamble', '', '', '', '', '']"
 booklocation,EMC I
-calspeakers,James Gable
+calspeakers,James Gamble
 avneeds,
-speakerlist,['James Gable']
+speakerlist,['James Gamble']
 hours,1
 totalminutes,60
-speakernosplist,['JamesGable']
+speakernosplist,['JamesGamble']
 caldescrip,"Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security."
 endtime,19:00
 name,Securing Your Digital Life
-speakernosp,JamesGable
+speakernosp,JamesGamble
 bookname,Securing Your Digital Life
 venue,EMC I
 csvsafedescrip,Join James Gamble- an information technology professional with more than 17 years of experience- as he walks you through several easy- free- and practical ways that you can improve your digital security.
@@ -2449,7 +2449,7 @@ endtimeampm,8 PM
 duration,1 hour
 description,"Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind."
 index,254
-speakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+speakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 bookdescrip,"Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind."
 startday,5/3/2019
 Start Time,19:00
@@ -2458,18 +2458,18 @@ starttimeampm,7 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"FRIDAY, MAY 3"
-input,"['28', 'Y', 'Anime Fantasy-Romance', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'Anime', '', ""Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind."", '', '', '', '', '0', '5', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '9fd2144b76d145b2009dfdb7b9c0265a', '931353', 'Paul Kemner, Star Stramel, A. Carina Spears', '', '', '', '', '']"
+input,"['28', 'Y', 'Anime Fantasy-Romance', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'Anime', '', ""Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind."", '', '', '', '', '0', '5', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '9fd2144b76d145b2009dfdb7b9c0265a', '931353', 'Paul Kemner, A. Carina Spears, Star Stramel', '', '', '', '', '']"
 booklocation,EMC V
-calspeakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 avneeds,
-speakerlist,"['Paul Kemner', 'Star Stramel', 'A. Carina Spears']"
+speakerlist,"['Paul Kemner', 'A. Carina Spears', 'Star Stramel']"
 hours,1
 totalminutes,60
-speakernosplist,"['PaulKemner', 'StarStramel', 'A.CarinaSpears']"
+speakernosplist,"['PaulKemner', 'A.CarinaSpears', 'StarStramel']"
 caldescrip,"Anime romance is in the air! Wait, there's magic too? Let's look at clips and explore some of the best shows in this genre, leaving lackluster 'notice me sempai' far behind."
 endtime,20:00
 name,Anime Fantasy-Romance
-speakernosp,"PaulKemner,StarStramel,A.CarinaSpears"
+speakernosp,"PaulKemner,A.CarinaSpears,StarStramel"
 bookname,Anime Fantasy-Romance
 venue,EMC V
 csvsafedescrip,Anime romance is in the air! Wait- there's magic too? Let's look at clips and explore some of the best shows in this genre- leaving lackluster 'notice me sempai' far behind.
@@ -2809,7 +2809,7 @@ endtimeampm,12 AM
 duration,4 hours
 description,"Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."
 index,15
-speakers,"Conor Esselink, Gnora Ford-Lepthien, Erika Wagner, Owen Bondono, Laura Cascos, Elizabeth Bondono"
+speakers,"Conor Esselink, Gnora Ford-Lepthien, Beth Bondono, Erika Wagner, Owen Bondono, Laura Cascos"
 bookdescrip,"Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."
 startday,5/3/2019
 Start Time,20:00
@@ -2818,18 +2818,18 @@ starttimeampm,8 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"FRIDAY, MAY 3"
-input,"['116', 'Y', 'Consuite Chaos: A Cthulhu LARP', '2019-05-03 20:00:00', '2019-05-04 00:00:00', 'Gaming', '', ""Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."", '', '', '', '', '0', '5', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '0a72147625fa3975b6597ecebea567a1', '931341', 'Conor Esselink, Gnora Ford-Lepthien, Erika Wagner, Owen Bondono, Laura Cascos, Elizabeth Bondono', '', '', '', '', '']"
+input,"['116', 'Y', 'Consuite Chaos: A Cthulhu LARP', '2019-05-03 20:00:00', '2019-05-04 00:00:00', 'Gaming', '', ""Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."", '', '', '', '', '0', '5', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '0a72147625fa3975b6597ecebea567a1', '931341', 'Conor Esselink, Gnora Ford-Lepthien, Beth Bondono, Erika Wagner, Owen Bondono, Laura Cascos', '', '', '', '', '']"
 booklocation,Algonquin A
-calspeakers,"Conor Esselink, Gnora Ford-Lepthien, Erika Wagner, Owen Bondono, Laura Cascos, Elizabeth Bondono"
+calspeakers,"Conor Esselink, Gnora Ford-Lepthien, Beth Bondono, Erika Wagner, Owen Bondono, Laura Cascos"
 avneeds,
-speakerlist,"['Conor Esselink', 'Gnora Ford-Lepthien', 'Erika Wagner', 'Owen Bondono', 'Laura Cascos', 'Elizabeth Bondono']"
+speakerlist,"['Conor Esselink', 'Gnora Ford-Lepthien', 'Beth Bondono', 'Erika Wagner', 'Owen Bondono', 'Laura Cascos']"
 hours,4
 totalminutes,240
-speakernosplist,"['ConorEsselink', 'GnoraFord-Lepthien', 'ErikaWagner', 'OwenBondono', 'LauraCascos', 'ElizabethBondono']"
+speakernosplist,"['ConorEsselink', 'GnoraFord-Lepthien', 'BethBondono', 'ErikaWagner', 'OwenBondono', 'LauraCascos']"
 caldescrip,"Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."
 endtime,00:00
 name,Consuite Chaos: A Cthulhu LARP
-speakernosp,"ConorEsselink,GnoraFord-Lepthien,ErikaWagner,OwenBondono,LauraCascos,ElizabethBondono"
+speakernosp,"ConorEsselink,GnoraFord-Lepthien,BethBondono,ErikaWagner,OwenBondono,LauraCascos"
 bookname,Consuite Chaos: A Cthulhu LARP
 venue,Algonquin A
 csvsafedescrip,Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite- but that doesn't mean it's quiet. The caffeine is flowing- the snacks are plentiful- and everyone is having a great time- until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary.
@@ -4609,7 +4609,7 @@ endtimeampm,11 AM
 duration,1 hour
 description,The authors read from their works.
 index,158
-speakers,"Nicole e. Castle, Michael Cieslak"
+speakers,"Nicole E. Castle, Michael Cieslak"
 bookdescrip,The authors read from their works.
 startday,5/4/2019
 Start Time,10:00
@@ -4618,18 +4618,18 @@ starttimeampm,10 AM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['375', 'Y', 'Reading: Michael Cieslak & Nicole E. Castle', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Lit', '', 'The authors read from their works.', '', '', '', '', '0', '0', '0', 'N', 'Author Readings Room', '', '', '', '', '', '', '', '', '', '', '', '64b640dff1c5fe10f739450a365c6f20', '935098', 'Nicole e. Castle, Michael Cieslak', '', '', '', '', '']"
+input,"['375', 'Y', 'Reading: Michael Cieslak & Nicole E. Castle', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Lit', '', 'The authors read from their works.', '', '', '', '', '0', '0', '0', 'N', 'Author Readings Room', '', '', '', '', '', '', '', '', '', '', '', '64b640dff1c5fe10f739450a365c6f20', '935098', 'Nicole E. Castle, Michael Cieslak', '', '', '', '', '']"
 booklocation,Author Readings Room
-calspeakers,"Nicole e. Castle, Michael Cieslak"
+calspeakers,"Nicole E. Castle, Michael Cieslak"
 avneeds,
-speakerlist,"['Nicole e. Castle', 'Michael Cieslak']"
+speakerlist,"['Nicole E. Castle', 'Michael Cieslak']"
 hours,1
 totalminutes,60
-speakernosplist,"['Nicolee.Castle', 'MichaelCieslak']"
+speakernosplist,"['NicoleE.Castle', 'MichaelCieslak']"
 caldescrip,The authors read from their works.
 endtime,11:00
 name,Reading: Michael Cieslak and Nicole E. Castle
-speakernosp,"Nicolee.Castle,MichaelCieslak"
+speakernosp,"NicoleE.Castle,MichaelCieslak"
 bookname,Reading: Michael Cieslak &amp; Nicole E. Castle
 venue,Author Readings Room
 csvsafedescrip,The authors read from their works.
@@ -5769,7 +5769,7 @@ endtimeampm,1 PM
 duration,1 hour
 description,"Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why."
 index,101
-speakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+speakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 bookdescrip,"Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why."
 startday,5/4/2019
 Start Time,12:00
@@ -5778,18 +5778,18 @@ starttimeampm,12 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['27', 'Y', 'Supernatural Anime: The Creepy, the Scary, and the Fun', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Anime', '', ""Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why."", '', '', '', '', '0', '3', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '45feb8cab00b0654e4616e456cf66422', '931359', 'Paul Kemner, Star Stramel, A. Carina Spears', '', '', '', '', '']"
+input,"['27', 'Y', 'Supernatural Anime: The Creepy, the Scary, and the Fun', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Anime', '', ""Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why."", '', '', '', '', '0', '3', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '45feb8cab00b0654e4616e456cf66422', '931359', 'Paul Kemner, A. Carina Spears, Star Stramel', '', '', '', '', '']"
 booklocation,EMC IV
-calspeakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 avneeds,
-speakerlist,"['Paul Kemner', 'Star Stramel', 'A. Carina Spears']"
+speakerlist,"['Paul Kemner', 'A. Carina Spears', 'Star Stramel']"
 hours,1
 totalminutes,60
-speakernosplist,"['PaulKemner', 'StarStramel', 'A.CarinaSpears']"
+speakernosplist,"['PaulKemner', 'A.CarinaSpears', 'StarStramel']"
 caldescrip,"Japan has the widest and weirdest menagerie of supernatural beasties and ghosts, and they haunt the world of anime too! With influences from Shinto and Buddhism, folk tales, and urban legends, you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why."
 endtime,13:00
 name,"Supernatural Anime: The Creepy, the Scary, and the Fun"
-speakernosp,"PaulKemner,StarStramel,A.CarinaSpears"
+speakernosp,"PaulKemner,A.CarinaSpears,StarStramel"
 bookname,"Supernatural Anime: The Creepy, the Scary, and the Fun"
 venue,EMC IV
 csvsafedescrip,Japan has the widest and weirdest menagerie of supernatural beasties and ghosts- and they haunt the world of anime too! With influences from Shinto and Buddhism- folk tales- and urban legends- you're never quite sure what will happen next. We'll geek out on our picks of what's worth watching and why.
@@ -5809,7 +5809,7 @@ endtimeampm,1 PM
 duration,1 hour
 description,"Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions."
 index,143
-speakers,Nicole E. Caslte
+speakers,Nicole E. Castle
 bookdescrip,"Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions."
 startday,5/4/2019
 Start Time,12:00
@@ -5818,18 +5818,18 @@ starttimeampm,12 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['388', 'Y', 'Author Office Hours with Nicole E. Castle', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Lit', '', 'Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions.', '', '', '', '', '0', '0', '0', 'N', ""Writer's Block "", '', '', '', '', '', '', '', '', '', '', '', '5af78f79fef293f810073192e3f7ad28', '935101', 'Nicole E. Caslte', '', '', '', '', '']"
+input,"['388', 'Y', 'Author Office Hours with Nicole E. Castle', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Lit', '', 'Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions.', '', '', '', '', '0', '0', '0', 'N', ""Writer's Block "", '', '', '', '', '', '', '', '', '', '', '', '5af78f79fef293f810073192e3f7ad28', '935101', 'Nicole E. Castle', '', '', '', '', '']"
 booklocation,Writer's Block
-calspeakers,Nicole E. Caslte
+calspeakers,Nicole E. Castle
 avneeds,
-speakerlist,['Nicole E. Caslte']
+speakerlist,['Nicole E. Castle']
 hours,1
 totalminutes,60
-speakernosplist,['NicoleE.Caslte']
+speakernosplist,['NicoleE.Castle']
 caldescrip,"Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions."
 endtime,13:00
 name,Author Office Hours with Nicole E. Castle
-speakernosp,NicoleE.Caslte
+speakernosp,NicoleE.Castle
 bookname,Author Office Hours with Nicole E. Castle
 venue,Writer's Block 
 csvsafedescrip,Have a question about life- the universe- or publishing? Come chat with the author and find out all the answers to your burning questions.
@@ -6049,7 +6049,7 @@ endtimeampm,1 PM
 duration,1 hour
 description,"In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life."
 index,239
-speakers,"April Jennifer Choi, Bethany Byrnes"
+speakers,"April Jennifer Choi, Bethany Bymes"
 bookdescrip,"In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life."
 startday,5/4/2019
 Start Time,12:00
@@ -6058,18 +6058,18 @@ starttimeampm,12 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['157', 'Y', 'Relationship Communication', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Life', '', 'In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.', '', '', '', '', '0', '24', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '9489316bd1098a28d4605b0a2e46e645', '931323', 'April Jennifer Choi, Bethany Byrnes', '', '', '', '', '']"
+input,"['157', 'Y', 'Relationship Communication', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Life', '', 'In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.', '', '', '', '', '0', '24', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '9489316bd1098a28d4605b0a2e46e645', '931323', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
 booklocation,Charlevoix A
-calspeakers,"April Jennifer Choi, Bethany Byrnes"
+calspeakers,"April Jennifer Choi, Bethany Bymes"
 avneeds,
-speakerlist,"['April Jennifer Choi', 'Bethany Byrnes']"
+speakerlist,"['April Jennifer Choi', 'Bethany Bymes']"
 hours,1
 totalminutes,60
-speakernosplist,"['AprilJenniferChoi', 'BethanyByrnes']"
+speakernosplist,"['AprilJenniferChoi', 'BethanyBymes']"
 caldescrip,"In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life."
 endtime,13:00
 name,Relationship Communication
-speakernosp,"AprilJenniferChoi,BethanyByrnes"
+speakernosp,"AprilJenniferChoi,BethanyBymes"
 bookname,Relationship Communication
 venue,Charlevoix A
 csvsafedescrip,In this panel discussion- we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.
@@ -7649,7 +7649,7 @@ endtimeampm,3 PM
 duration,1 hour
 description,"There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?"
 index,258
-speakers,"Nicole e. Castle, Michael Cieslak"
+speakers,"Nicole E. Castle, Michael Cieslak"
 bookdescrip,"There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?"
 startday,5/4/2019
 Start Time,14:00
@@ -7658,18 +7658,18 @@ starttimeampm,2 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['262', 'Y', 'The Dark Side -- The Reanimation of Horror', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Media', '', 'There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?', '', '', '', '', '0', '5', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', 'a1e0d042461e1a18b67013afa1e65896', '931323', 'Nicole e. Castle, Michael Cieslak', '', '', '', '', '']"
+input,"['262', 'Y', 'The Dark Side -- The Reanimation of Horror', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Media', '', 'There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?', '', '', '', '', '0', '5', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', 'a1e0d042461e1a18b67013afa1e65896', '931323', 'Nicole E. Castle, Michael Cieslak', '', '', '', '', '']"
 booklocation,Charlevoix A
-calspeakers,"Nicole e. Castle, Michael Cieslak"
+calspeakers,"Nicole E. Castle, Michael Cieslak"
 avneeds,
-speakerlist,"['Nicole e. Castle', 'Michael Cieslak']"
+speakerlist,"['Nicole E. Castle', 'Michael Cieslak']"
 hours,1
 totalminutes,60
-speakernosplist,"['Nicolee.Castle', 'MichaelCieslak']"
+speakernosplist,"['NicoleE.Castle', 'MichaelCieslak']"
 caldescrip,"There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime, Netflix). What is behind this reappearance of horror, or has it been there lurking in the shadows all along?"
 endtime,15:00
 name,The Dark Side -- The Reanimation of Horror
-speakernosp,"Nicolee.Castle,MichaelCieslak"
+speakernosp,"NicoleE.Castle,MichaelCieslak"
 bookname,The Dark Side -- The Reanimation of Horror
 venue,Charlevoix A
 csvsafedescrip,There has been a resurgence of dark speculative fiction in the past few years. Numerous movies and television programs have appeared including many created by specific platforms (Amazon Prime- Netflix). What is behind this reappearance of horror- or has it been there lurking in the shadows all along?
@@ -7769,7 +7769,7 @@ endtimeampm,3 PM
 duration,1 hour
 description,"Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!"
 index,358
-speakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+speakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 bookdescrip,"Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!"
 startday,5/4/2019
 Start Time,14:00
@@ -7778,18 +7778,18 @@ starttimeampm,2 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['26', 'Y', 'Five-Minute Anime: Face-Off', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Anime', '', ""Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!"", '', '', '', '', '0', '3', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'eb51fe1a29bae76e2a3a60a5e33c4d45', '931356', 'Paul Kemner, Star Stramel, A. Carina Spears', '', '', '', '', '']"
+input,"['26', 'Y', 'Five-Minute Anime: Face-Off', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Anime', '', ""Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!"", '', '', '', '', '0', '3', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'eb51fe1a29bae76e2a3a60a5e33c4d45', '931356', 'Paul Kemner, A. Carina Spears, Star Stramel', '', '', '', '', '']"
 booklocation,EMC III
-calspeakers,"Paul Kemner, Star Stramel, A. Carina Spears"
+calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel"
 avneeds,
-speakerlist,"['Paul Kemner', 'Star Stramel', 'A. Carina Spears']"
+speakerlist,"['Paul Kemner', 'A. Carina Spears', 'Star Stramel']"
 hours,1
 totalminutes,60
-speakernosplist,"['PaulKemner', 'StarStramel', 'A.CarinaSpears']"
+speakernosplist,"['PaulKemner', 'A.CarinaSpears', 'StarStramel']"
 caldescrip,"Tiny anime jewels: these series are silly, senseless, bizarre, or creepy, with episodes only five minutes long! We'll show our favorites, and you'll pick Penguicon's Best for 2019!"
 endtime,15:00
 name,Five-Minute Anime: Face-Off
-speakernosp,"PaulKemner,StarStramel,A.CarinaSpears"
+speakernosp,"PaulKemner,A.CarinaSpears,StarStramel"
 bookname,Five-Minute Anime: Face-Off
 venue,EMC III
 csvsafedescrip,Tiny anime jewels: these series are silly- senseless- bizarre- or creepy- with episodes only five minutes long! We'll show our favorites- and you'll pick Penguicon's Best for 2019!
@@ -9138,7 +9138,7 @@ starttimeampm,4 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['85', 'Y', 'The Exciting World of Vegan Cheese Part II with Amy & Amy', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Food', '', ""Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! You\xe2\x80\x99ll go home with plenty of recipes to make your own delicious plant-based cheeses at home"", '', '', '', '', '0', '11', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'dc49072360d957849fb78483ddf53ee0', '931350', 'Amy Wright, Amy Wilkins', '', '', '', '', '']"
+input,"['85', 'Y', 'The Exciting World of Vegan Cheese Part II with Amy & Amy', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Food', '', ""Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! You\xe2\x80\x99ll go home with plenty of recipes to make your own delicious plant-based cheeses at home"", '', '', '', '', '0', '12', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'dc49072360d957849fb78483ddf53ee0', '931350', 'Amy Wright, Amy Wilkins', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Amy Wright, Amy Wilkins"
 avneeds,
@@ -9649,7 +9649,7 @@ endtimeampm,6 PM
 duration,1 hour
 description,"Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue."
 index,264
-speakers,"Star Stramel, A. Carina Spears, Natasha Kidwell"
+speakers,"A. Carina Spears, Star Stramel, Natasha Kidwell"
 bookdescrip,"Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue."
 startday,5/4/2019
 Start Time,17:00
@@ -9658,18 +9658,18 @@ starttimeampm,5 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['30', 'Y', 'Black Butler: History, Fantasy, and Fandom', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Anime', '', ""Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue."", '', '', '', '', '0', '1', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'a5ec8ec29f54922bb4a403fc8a241ba6', '931359', 'Star Stramel, A. Carina Spears, Natasha Kidwell', '', '', '', '', '']"
+input,"['30', 'Y', 'Black Butler: History, Fantasy, and Fandom', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Anime', '', ""Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue."", '', '', '', '', '0', '1', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'a5ec8ec29f54922bb4a403fc8a241ba6', '931359', 'A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
 booklocation,EMC IV
-calspeakers,"Star Stramel, A. Carina Spears, Natasha Kidwell"
+calspeakers,"A. Carina Spears, Star Stramel, Natasha Kidwell"
 avneeds,
-speakerlist,"['Star Stramel', 'A. Carina Spears', 'Natasha Kidwell']"
+speakerlist,"['A. Carina Spears', 'Star Stramel', 'Natasha Kidwell']"
 hours,1
 totalminutes,60
-speakernosplist,"['StarStramel', 'A.CarinaSpears', 'NatashaKidwell']"
+speakernosplist,"['A.CarinaSpears', 'StarStramel', 'NatashaKidwell']"
 caldescrip,"Join us for a lively open discussion about Black Butler, Victorian England, and alternate histories and timelines, along with some fascinating insights into the characters, their backgrounds, and the inspirations that fueled Yana Toboso's vision. Learning, hilarity, and fanboy/fangirl squeeing may ensue."
 endtime,18:00
 name,"Black Butler: History, Fantasy, and Fandom"
-speakernosp,"StarStramel,A.CarinaSpears,NatashaKidwell"
+speakernosp,"A.CarinaSpears,StarStramel,NatashaKidwell"
 bookname,"Black Butler: History, Fantasy, and Fandom"
 venue,EMC IV
 csvsafedescrip,Join us for a lively open discussion about Black Butler- Victorian England- and alternate histories and timelines- along with some fascinating insights into the characters- their backgrounds- and the inspirations that fueled Yana Toboso's vision. Learning- hilarity- and fanboy/fangirl squeeing may ensue.
@@ -9729,7 +9729,7 @@ endtimeampm,6 PM
 duration,1 hour
 description,"Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate."
 index,308
-speakers,"Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye"
+speakers,"Nicole E. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye"
 bookdescrip,"Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate."
 startday,5/4/2019
 Start Time,17:00
@@ -9738,18 +9738,18 @@ starttimeampm,5 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['217', 'Y', 'Authors Should Play with Dead Things', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Lit', '', 'Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.', '', '', '', '', '0', '12', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'cbcfe775d5ec0e12dd2cc605c982457b', '931389', 'Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye', '', '', '', '', '']"
+input,"['217', 'Y', 'Authors Should Play with Dead Things', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Lit', '', 'Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.', '', '', '', '', '0', '12', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'cbcfe775d5ec0e12dd2cc605c982457b', '931389', 'Nicole E. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye', '', '', '', '', '']"
 booklocation,Baldwin
-calspeakers,"Nicole e. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye"
+calspeakers,"Nicole E. Castle, Mary Lynne Gibbs, Michael Cieslak, Colleen Nye"
 avneeds,
-speakerlist,"['Nicole e. Castle', 'Mary Lynne Gibbs', 'Michael Cieslak', 'Colleen Nye']"
+speakerlist,"['Nicole E. Castle', 'Mary Lynne Gibbs', 'Michael Cieslak', 'Colleen Nye']"
 hours,1
 totalminutes,60
-speakernosplist,"['Nicolee.Castle', 'MaryLynneGibbs', 'MichaelCieslak', 'ColleenNye']"
+speakernosplist,"['NicoleE.Castle', 'MaryLynneGibbs', 'MichaelCieslak', 'ColleenNye']"
 caldescrip,"Vampires, werewolves, demons, for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate."
 endtime,18:00
 name,Authors Should Play with Dead Things
-speakernosp,"Nicolee.Castle,MaryLynneGibbs,MichaelCieslak,ColleenNye"
+speakernosp,"NicoleE.Castle,MaryLynneGibbs,MichaelCieslak,ColleenNye"
 bookname,Authors Should Play with Dead Things
 venue,Baldwin
 csvsafedescrip,Vampires- werewolves- demons- for centuries they have been the villains of our tales...but what if you want to write them as heroes? The panel will discuss the creation of believable supernatural characters and the worlds they populate.
@@ -10929,7 +10929,7 @@ endtimeampm,8 PM
 duration,1 hour
 description,No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.
 index,227
-speakers,"April Jennifer Choi, Bethany Byrnes"
+speakers,"April Jennifer Choi, Bethany Bymes"
 bookdescrip,No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.
 startday,5/4/2019
 Start Time,19:00
@@ -10938,18 +10938,18 @@ starttimeampm,7 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['158', 'Y', 'Social Dancing 101', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Life', '', 'No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.', '', '', '', '', '0', '21', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '8ab8d29f4e1c8ed1f34c189e709e7234', '931341', 'April Jennifer Choi, Bethany Byrnes', '', '', '', '', '']"
+input,"['158', 'Y', 'Social Dancing 101', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Life', '', 'No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.', '', '', '', '', '0', '21', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '8ab8d29f4e1c8ed1f34c189e709e7234', '931341', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
 booklocation,Algonquin A
-calspeakers,"April Jennifer Choi, Bethany Byrnes"
+calspeakers,"April Jennifer Choi, Bethany Bymes"
 avneeds,
-speakerlist,"['April Jennifer Choi', 'Bethany Byrnes']"
+speakerlist,"['April Jennifer Choi', 'Bethany Bymes']"
 hours,1
 totalminutes,60
-speakernosplist,"['AprilJenniferChoi', 'BethanyByrnes']"
+speakernosplist,"['AprilJenniferChoi', 'BethanyBymes']"
 caldescrip,No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.
 endtime,20:00
 name,Social Dancing 101
-speakernosp,"AprilJenniferChoi,BethanyByrnes"
+speakernosp,"AprilJenniferChoi,BethanyBymes"
 bookname,Social Dancing 101
 venue,Algonquin A
 csvsafedescrip,No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.
@@ -10969,7 +10969,7 @@ endtimeampm,9 PM
 duration,2 hours
 description,"Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away."
 index,230
-speakers,"Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell"
+speakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 bookdescrip,"Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away."
 startday,5/4/2019
 Start Time,19:00
@@ -10978,18 +10978,18 @@ starttimeampm,7 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['22', 'Y', 'Black Butler AMV Tea Party', '2019-05-04 19:00:00', '2019-05-04 21:00:00', 'Anime', '', 'Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away.', '', '', '', '', '0', '5', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '8d241ac63d1637947659a9e1839e7ae5', '931350', 'Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell', '', '', '', '', '']"
+input,"['22', 'Y', 'Black Butler AMV Tea Party', '2019-05-04 19:00:00', '2019-05-04 21:00:00', 'Anime', '', 'Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away.', '', '', '', '', '0', '5', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '8d241ac63d1637947659a9e1839e7ae5', '931350', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
 booklocation,Food [317]
-calspeakers,"Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell"
+calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 avneeds,
-speakerlist,"['Paul Kemner', 'Star Stramel', 'A. Carina Spears', 'Natasha Kidwell']"
+speakerlist,"['Paul Kemner', 'A. Carina Spears', 'Star Stramel', 'Natasha Kidwell']"
 hours,2
 totalminutes,120
-speakernosplist,"['PaulKemner', 'StarStramel', 'A.CarinaSpears', 'NatashaKidwell']"
+speakernosplist,"['PaulKemner', 'A.CarinaSpears', 'StarStramel', 'NatashaKidwell']"
 caldescrip,"Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away."
 endtime,21:00
 name,Black Butler AMV Tea Party
-speakernosp,"PaulKemner,StarStramel,A.CarinaSpears,NatashaKidwell"
+speakernosp,"PaulKemner,A.CarinaSpears,StarStramel,NatashaKidwell"
 bookname,Black Butler AMV Tea Party
 venue,Food [317]
 csvsafedescrip,Reapers work hard and party harder! Come join Ronald Knox- Abberline- Ankou D Undertaker- and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos- run a few games like the best Tsundere turn-away- and dance the night away.
@@ -11889,7 +11889,7 @@ endtimeampm,10 PM
 duration,1 hour
 description,This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.
 index,155
-speakers,Meredith
+speakers,Meredith Carson
 bookdescrip,This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.
 startday,5/4/2019
 Start Time,21:00
@@ -11898,18 +11898,18 @@ starttimeampm,9 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['13', 'Y', 'Fetish and Fluff: The Curious Side of the Furry Fandom', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.', '', '', '', '', '0', '3', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '6370c1671a90ee6e06a1023cb673cdbc', '931389', 'Meredith', '', '', '', '', '']"
+input,"['13', 'Y', 'Fetish and Fluff: The Curious Side of the Furry Fandom', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.', '', '', '', '', '0', '3', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '6370c1671a90ee6e06a1023cb673cdbc', '931389', 'Meredith Carson', '', '', '', '', '']"
 booklocation,Baldwin
-calspeakers,Meredith
+calspeakers,Meredith Carson
 avneeds,
-speakerlist,['Meredith']
+speakerlist,['Meredith Carson']
 hours,1
 totalminutes,60
-speakernosplist,['Meredith']
+speakernosplist,['MeredithCarson']
 caldescrip,This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.
 endtime,22:00
 name,Fetish and Fluff: The Curious Side of the Furry Fandom
-speakernosp,Meredith
+speakernosp,MeredithCarson
 bookname,Fetish and Fluff: The Curious Side of the Furry Fandom
 venue,Baldwin
 csvsafedescrip,This panel is to dive into the curiosity that is the fetish side of the furry fandom. This event is 18+.
@@ -13049,7 +13049,7 @@ endtimeampm,11 AM
 duration,1 hour
 description,A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects.
 index,126
-speakers,Elizabeth England-DeBruyn
+speakers,Liz 'Smoothie' DeBruyn
 bookdescrip,A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects.
 startday,5/5/2019
 Start Time,10:00
@@ -13058,18 +13058,18 @@ starttimeampm,10 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SUNDAY, MAY 5"
-input,"['57', 'Y', 'Needle Felting 201', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'DIY', '', ""A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects."", '', '', '', '', '0', '10', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '50c9d0d4e83b77e9c9f397e66c5ae51c', '931377', 'Elizabeth England-DeBruyn', '', '', '', '', '']"
+input,"['57', 'Y', 'Needle Felting 201', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'DIY', '', ""A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects."", '', '', '', '', '0', '10', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '50c9d0d4e83b77e9c9f397e66c5ae51c', '931377', ""Liz 'Smoothie' DeBruyn"", '', '', '', '', '']"
 booklocation,EMC I
-calspeakers,Elizabeth England-DeBruyn
+calspeakers,Liz 'Smoothie' DeBruyn
 avneeds,
-speakerlist,['Elizabeth England-DeBruyn']
+speakerlist,"[""Liz 'Smoothie' DeBruyn""]"
 hours,1
 totalminutes,60
-speakernosplist,['ElizabethEngland-DeBruyn']
+speakernosplist,"[""Liz'Smoothie'DeBruyn""]"
 caldescrip,A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects.
 endtime,11:00
 name,Needle Felting 201
-speakernosp,ElizabethEngland-DeBruyn
+speakernosp,Liz'Smoothie'DeBruyn
 bookname,Needle Felting 201
 venue,EMC I
 csvsafedescrip,A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects.
@@ -15089,7 +15089,7 @@ endtimeampm,3 PM
 duration,2 hours
 description,"The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!"
 index,221
-speakers,"Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell"
+speakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 bookdescrip,"The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!"
 startday,5/5/2019
 Start Time,13:00
@@ -15098,18 +15098,18 @@ starttimeampm,1 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SUNDAY, MAY 5"
-input,"['23', 'Y', ""Lizzy's Garden Party"", '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Anime', '', 'The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!', '', '', '', '', '0', '7', '0', 'N', 'Food Room [317]', '', '', '', '', '', '', '', '', '', '', '', '87f23b7e20497bac9997de91c6d665aa', '935095', 'Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell', '', '', '', '', '']"
+input,"['23', 'Y', ""Lizzy's Garden Party"", '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Anime', '', 'The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!', '', '', '', '', '0', '7', '0', 'N', 'Food Room [317]', '', '', '', '', '', '', '', '', '', '', '', '87f23b7e20497bac9997de91c6d665aa', '935095', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
 booklocation,Food Room [317]
-calspeakers,"Paul Kemner, Star Stramel, A. Carina Spears, Natasha Kidwell"
+calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 avneeds,
-speakerlist,"['Paul Kemner', 'Star Stramel', 'A. Carina Spears', 'Natasha Kidwell']"
+speakerlist,"['Paul Kemner', 'A. Carina Spears', 'Star Stramel', 'Natasha Kidwell']"
 hours,2
 totalminutes,120
-speakernosplist,"['PaulKemner', 'StarStramel', 'A.CarinaSpears', 'NatashaKidwell']"
+speakernosplist,"['PaulKemner', 'A.CarinaSpears', 'StarStramel', 'NatashaKidwell']"
 caldescrip,"The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!"
 endtime,15:00
 name,Lizzy's Garden Party
-speakernosp,"PaulKemner,StarStramel,A.CarinaSpears,NatashaKidwell"
+speakernosp,"PaulKemner,A.CarinaSpears,StarStramel,NatashaKidwell"
 bookname,Lizzy's Garden Party
 venue,Food Room [317]
 csvsafedescrip,The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era- from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end- you will be able to charm most anyone! Limited seating- formal dress is welcome- please sign up in advance at Ops!
