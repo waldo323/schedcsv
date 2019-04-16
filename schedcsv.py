@@ -9,8 +9,8 @@ import logging
 from operator import itemgetter
 import AsciiDammit
 
-#logging.basicConfig(level=logging.WARN)
-logging.basicConfig(level=logging.DEBUG)
+logging.basicConfig(level=logging.WARN)
+#logging.basicConfig(level=logging.DEBUG)
 env = jinja2.Environment(loader=jinja2.FileSystemLoader('templates'))
 web_template = env.get_template('programmingtemplate.html')
 penguicon_tv = env.get_template('penguicon_tv')
