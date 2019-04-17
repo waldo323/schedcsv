@@ -98,7 +98,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['245', 'Y', 'Penguicon Photo Booth', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Say cheese! Grab a prop and take some pics!', '', '', '', '', '0', '7', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '169184abc65135cb6dcc700dee253449', '931404', '', '', '', '', '', '']"
+input,"['245', 'Y', 'Penguicon Photo Booth', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Say cheese! Grab a prop and take some pics!', '', '', '', '', '0', '8', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '169184abc65135cb6dcc700dee253449', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -258,7 +258,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '1', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
+input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '2', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -298,7 +298,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['234', 'Y', 'Penguin Hunt', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Hunt down the elusive alien race of Pengui who are here because they thought Penguicon was a call from their mothership to send them home. They are a friendly but skittish bunch so we ask that you only observe them where they are by taking their picture. You will be rewarded for your skills of observation when you present your captured image to the ConChair, Jessica Roland.', '', '', '', '', '0', '5', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', 'd31b789fe58b340699426920c24085e5', '931401', '', '', '', '', '', '']"
+input,"['234', 'Y', 'Penguin Hunt', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Hunt down the elusive alien race of Pengui who are here because they thought Penguicon was a call from their mothership to send them home. They are a friendly but skittish bunch so we ask that you only observe them where they are by taking their picture. You will be rewarded for your skills of observation when you present your captured image to the ConChair, Jessica Roland.', '', '', '', '', '0', '6', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', 'd31b789fe58b340699426920c24085e5', '931401', '', '', '', '', '', '']"
 booklocation,Various Location
 calspeakers,
 avneeds,
@@ -818,7 +818,7 @@ starttimeampm,4 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"FRIDAY, MAY 3"
-input,"['60', 'Y', 'Crochet Basics and Beyond', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'DIY', '', 'Join us to learn basic crochet techniques and chart reading. Space limited, sign up at ops.', '', '', '', '', '0', '15', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'ed5fa2e576ff543c36114b2e47558b85', '931359', 'Kelly V, Jeanette Quirk, Grace Cocking', '', '', '', '', '']"
+input,"['60', 'Y', 'Crochet Basics and Beyond', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'DIY', '', 'Join us to learn basic crochet techniques and chart reading. Space limited, sign up at ops.', '', '', '', '', '0', '17', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'ed5fa2e576ff543c36114b2e47558b85', '931359', 'Kelly V, Jeanette Quirk, Grace Cocking', '', '', '', '', '']"
 booklocation,EMC IV
 calspeakers,"Kelly V, Jeanette Quirk, Grace Cocking"
 avneeds,
@@ -1098,7 +1098,7 @@ starttimeampm,5 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"FRIDAY, MAY 3"
-input,"['272', 'Y', 'AHA Badge Soldering', '2019-05-03 17:00:00', '2019-05-03 21:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '15', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '5a5cf4bb64fc2c783c11e3d41759454e', '931407', 'AHA', '', '', '', '', '']"
+input,"['272', 'Y', 'AHA Badge Soldering', '2019-05-03 17:00:00', '2019-05-03 21:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '16', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '5a5cf4bb64fc2c783c11e3d41759454e', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -1138,7 +1138,7 @@ starttimeampm,5 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['33', 'Y', 'Molds, Resins and Silicone Oh My!!', '2019-05-03 17:00:00', '2019-05-03 19:00:00', 'Cosplay', '', ""Learn the process of fabricating hard plastic and flexible synthetic accessories for your costume (or other hobby). We'll discuss the various types of casting and mold making materials, explore their pros and cons, and walk through the moldmaking and casting process. Samples of various materials and finished products will be on hand. Bring a notebook -- this panel is info-heavy! See finished pieces and learn the step-by-step process."", '', '', '', '', '0', '21', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '65db62fb45c0fcbc53a7a2ee604ef68a', '931368', 'Alena Van Arendonk', '', '', '', '', '']"
+input,"['33', 'Y', 'Molds, Resins and Silicone Oh My!!', '2019-05-03 17:00:00', '2019-05-03 19:00:00', 'Cosplay', '', ""Learn the process of fabricating hard plastic and flexible synthetic accessories for your costume (or other hobby). We'll discuss the various types of casting and mold making materials, explore their pros and cons, and walk through the moldmaking and casting process. Samples of various materials and finished products will be on hand. Bring a notebook -- this panel is info-heavy! See finished pieces and learn the step-by-step process."", '', '', '', '', '0', '22', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '65db62fb45c0fcbc53a7a2ee604ef68a', '931368', 'Alena Van Arendonk', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Alena Van Arendonk
 avneeds,
@@ -1658,7 +1658,7 @@ starttimeampm,6 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '8', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gamble', '', '', '', '', '']"
+input,"['303', 'Y', 'Securing Your Digital Life', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Tech', '', 'Join James Gamble, an information technology professional with more than 17 years of experience, as he walks you through several easy, free, and practical ways that you can improve your digital security.', '', '', '', '', '0', '10', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '544387ee01af48d5126e6ca59be37c41', '931377', 'James Gamble', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,James Gamble
 avneeds,
@@ -1738,7 +1738,7 @@ starttimeampm,6 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['37', 'Y', 'Eco Friendly Cosplay', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Cosplay', '', 'This talk will be a discussion on the ways people make cosplay just a bit more green. From using a wide variety of eco-friendly materials you may never even thought of, thrifting and buying second hand, costume swaps, up-cycling, and even dumpster diving, the possibilities are endless and the results can be pretty amazing too!', '', '', '', '', '0', '6', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fc31d9a9a46b98ad83f2c1ee2c1fac1', '931344', 'Girlinthechair aka Alex', '', '', '', '', '']"
+input,"['37', 'Y', 'Eco Friendly Cosplay', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Cosplay', '', 'This talk will be a discussion on the ways people make cosplay just a bit more green. From using a wide variety of eco-friendly materials you may never even thought of, thrifting and buying second hand, costume swaps, up-cycling, and even dumpster diving, the possibilities are endless and the results can be pretty amazing too!', '', '', '', '', '0', '7', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fc31d9a9a46b98ad83f2c1ee2c1fac1', '931344', 'Girlinthechair aka Alex', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Girlinthechair aka Alex
 avneeds,
@@ -1778,7 +1778,7 @@ starttimeampm,6 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['95', 'Y', 'LN2 Open Source Ice Cream', '2019-05-03 18:00:00', '2019-05-03 20:00:00', 'Food', '', ""Bring your own ingredients and we'll see what we can do with them! Any premium ingredients (e.g., hand-shaved vanilla bean) will shine on their own, but \xe2\x80\x9cthis weird soda I found\xe2\x80\x9d may be combined with other ingredients for mad science. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We always have non-dairy mix bases available, juices for sorbets, and sugar-free sweeteners on hand. We're prepared, and want everyone to be able to enjoy!"", '', '', '', '', '0', '17', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '732f998873b9e39d654a47bb36867a6c', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['95', 'Y', 'LN2 Open Source Ice Cream', '2019-05-03 18:00:00', '2019-05-03 20:00:00', 'Food', '', ""Bring your own ingredients and we'll see what we can do with them! Any premium ingredients (e.g., hand-shaved vanilla bean) will shine on their own, but \xe2\x80\x9cthis weird soda I found\xe2\x80\x9d may be combined with other ingredients for mad science. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We always have non-dairy mix bases available, juices for sorbets, and sugar-free sweeteners on hand. We're prepared, and want everyone to be able to enjoy!"", '', '', '', '', '0', '18', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '732f998873b9e39d654a47bb36867a6c', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -1818,7 +1818,7 @@ starttimeampm,6 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['9', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '15', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '7901c7df228435721da68740924714b9', '931389', 'Jett Khat', '', '', '', '', '']"
+input,"['9', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '16', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '7901c7df228435721da68740924714b9', '931389', 'Jett Khat', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,Jett Khat
 avneeds,
@@ -1849,7 +1849,7 @@ endtimeampm,7 PM
 duration,1 hour
 description,"Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!"
 index,235
-speakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis"
+speakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis"
 bookdescrip,"Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!"
 startday,5/3/2019
 Start Time,18:00
@@ -1858,18 +1858,18 @@ starttimeampm,6 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"FRIDAY, MAY 3"
-input,"['278', 'Y', 'Opening Ceremonies', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Penguicon', '', 'Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!', '', '', '', '', '0', '35', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '9149e92f1f0aaf8e8f664499a9770de8', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis', '', '', '', '', '']"
+input,"['278', 'Y', 'Opening Ceremonies', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Penguicon', '', 'Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!', '', '', '', '', '0', '37', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '9149e92f1f0aaf8e8f664499a9770de8', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis', '', '', '', '', '']"
 booklocation,Algonquin C/D
-calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis"
+calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis"
 avneeds,
-speakerlist,"['Cassy Sinke', 'Zed Shaw', 'Mikey Mason', 'Matt Arnold', 'Chelle Silas', 'Scott Kennedy', 'Karen Corbeill', 'Jeff Marraccini', 'Niki MacRae', 'Paul Keyes', 'Sophia Brueckner', 'Saladin Ahmed', 'Jessica Ann Roland', 'Amanda Long-Adams', 'Alison Chan', 'Christie Birtie', 'Brigit Bradakis']"
+speakerlist,"['Cassy Sinke', 'Zed Shaw', 'Mikey Mason', 'Matt Arnold', 'Chelle Silas', 'Scott Kennedy', 'Christie Birtie', 'Karen Corbeill', 'Jeff Marraccini', 'Niki MacRae', 'Paul Keyes', 'Sophia Brueckner', 'Saladin Ahmed', 'Jessica Ann Roland', 'Amanda Long-Adams', 'Alison Chan', 'Brigit Bradakis']"
 hours,1
 totalminutes,60
-speakernosplist,"['CassySinke', 'ZedShaw', 'MikeyMason', 'MattArnold', 'ChelleSilas', 'ScottKennedy', 'KarenCorbeill', 'JeffMarraccini', 'NikiMacRae', 'PaulKeyes', 'SophiaBrueckner', 'SaladinAhmed', 'JessicaAnnRoland', 'AmandaLong-Adams', 'AlisonChan', 'ChristieBirtie', 'BrigitBradakis']"
+speakernosplist,"['CassySinke', 'ZedShaw', 'MikeyMason', 'MattArnold', 'ChelleSilas', 'ScottKennedy', 'ChristieBirtie', 'KarenCorbeill', 'JeffMarraccini', 'NikiMacRae', 'PaulKeyes', 'SophiaBrueckner', 'SaladinAhmed', 'JessicaAnnRoland', 'AmandaLong-Adams', 'AlisonChan', 'BrigitBradakis']"
 caldescrip,"Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!"
 endtime,19:00
 name,Opening Ceremonies
-speakernosp,"CassySinke,ZedShaw,MikeyMason,MattArnold,ChelleSilas,ScottKennedy,KarenCorbeill,JeffMarraccini,NikiMacRae,PaulKeyes,SophiaBrueckner,SaladinAhmed,JessicaAnnRoland,AmandaLong-Adams,AlisonChan,ChristieBirtie,BrigitBradakis"
+speakernosp,"CassySinke,ZedShaw,MikeyMason,MattArnold,ChelleSilas,ScottKennedy,ChristieBirtie,KarenCorbeill,JeffMarraccini,NikiMacRae,PaulKeyes,SophiaBrueckner,SaladinAhmed,JessicaAnnRoland,AmandaLong-Adams,AlisonChan,BrigitBradakis"
 bookname,Opening Ceremonies
 venue,Algonquin C/D
 csvsafedescrip,Join Jessica Roland- our illustrious ConChair- the rest of the ConCom- and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen!
@@ -1898,7 +1898,7 @@ starttimeampm,6 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"FRIDAY, MAY 3"
-input,"['197', 'Y', 'Socially Conscious Fiction: What Should You Consider in Your Writing?', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Lit', '', 'What issues do you consider regarding social responsibility when writing fiction? Representation? Tropes and stereotypes? Join our panel for an open discussion.', '', '', '', '', '0', '7', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'b7ac78e2adacc352f332d34458d42fb2', '931329', 'Chris Bell, Emily Bell, Marsalis', '', '', '', '', '']"
+input,"['197', 'Y', 'Socially Conscious Fiction: What Should You Consider in Your Writing?', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'Lit', '', 'What issues do you consider regarding social responsibility when writing fiction? Representation? Tropes and stereotypes? Join our panel for an open discussion.', '', '', '', '', '0', '8', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'b7ac78e2adacc352f332d34458d42fb2', '931329', 'Chris Bell, Emily Bell, Marsalis', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,"Chris Bell, Emily Bell, Marsalis"
 avneeds,
@@ -2138,7 +2138,7 @@ starttimeampm,7 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['89', 'Y', 'Will it Sphere-ify', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'Food', '', 'Spherification is a technique that transforms liquids into solid, edible spheres. People can use this technique to add color, texture, and flavor to their dishes. Join me as I experiment with spherification and try out a bunch of different liquids and see, WILL IT SPHERIFY?', '', '', '', '', '0', '17', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '2584edcc6bdadc9e19992f6abba4c330', '931350', 'Frannie', '', '', '', '', '']"
+input,"['89', 'Y', 'Will it Sphere-ify', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'Food', '', 'Spherification is a technique that transforms liquids into solid, edible spheres. People can use this technique to add color, texture, and flavor to their dishes. Join me as I experiment with spherification and try out a bunch of different liquids and see, WILL IT SPHERIFY?', '', '', '', '', '0', '18', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '2584edcc6bdadc9e19992f6abba4c330', '931350', 'Frannie', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,Frannie
 avneeds,
@@ -2258,7 +2258,7 @@ starttimeampm,7 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"FRIDAY, MAY 3"
-input,"['71', 'Y', 'Knitting 101', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'DIY', '', 'Learn to knit! Take two sticks and string and make a dishcloth! Supplies provided.', '', '', '', '', '0', '10', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '6b16cece0c0e92f2daaec931f75bd9b2', '931368', 'Kelly V, Mary Fitzpatrick', '', '', '', '', '']"
+input,"['71', 'Y', 'Knitting 101', '2019-05-03 19:00:00', '2019-05-03 20:00:00', 'DIY', '', 'Learn to knit! Take two sticks and string and make a dishcloth! Supplies provided.', '', '', '', '', '0', '11', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '6b16cece0c0e92f2daaec931f75bd9b2', '931368', 'Kelly V, Mary Fitzpatrick', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,"Kelly V, Mary Fitzpatrick"
 avneeds,
@@ -2418,7 +2418,7 @@ starttimeampm,7 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['40', 'Y', 'Advanced Pattern Drafting: Make a Sloper Workshop', '2019-05-03 19:00:00', '2019-05-03 21:00:00', 'Cosplay', '', 'Learn to make your own pattern base customized to your own specific measurements to use in making future patterns fit you perfectly! This class is great for cosplay patterns or everyday clothing.', '', '', '', '', '0', '10', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', '97706786be230cec4a32d5e9961c0a9c', '931356', 'Jeannie Arquette', '', '', '', '', '']"
+input,"['40', 'Y', 'Advanced Pattern Drafting: Make a Sloper Workshop', '2019-05-03 19:00:00', '2019-05-03 21:00:00', 'Cosplay', '', 'Learn to make your own pattern base customized to your own specific measurements to use in making future patterns fit you perfectly! This class is great for cosplay patterns or everyday clothing.', '', '', '', '', '0', '11', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', '97706786be230cec4a32d5e9961c0a9c', '931356', 'Jeannie Arquette', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Jeannie Arquette
 avneeds,
@@ -2818,7 +2818,7 @@ starttimeampm,8 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"FRIDAY, MAY 3"
-input,"['116', 'Y', 'Consuite Chaos: A Cthulhu LARP', '2019-05-03 20:00:00', '2019-05-04 00:00:00', 'Gaming', '', ""Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."", '', '', '', '', '0', '5', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '0a72147625fa3975b6597ecebea567a1', '931341', 'Conor Esselink, Gnora Ford-Lepthien, Laura Cascos, Beth Bondono, Owen Bondono, Erika Wagner', '', '', '', '', '']"
+input,"['116', 'Y', 'Consuite Chaos: A Cthulhu LARP', '2019-05-03 20:00:00', '2019-05-04 00:00:00', 'Gaming', '', ""Welcome to Unicon! Your favorite nerd-stravaganza is hosted this year at the newly-renovated historic River Grand Hotel. It's midnight in the Consuite, but that doesn't mean it's quiet. The caffeine is flowing, the snacks are plentiful, and everyone is having a great time, until THINGS begin to happen... Terror and Tentacles presents a horrorful live action game guaranteed to stun the senses. No experience necessary."", '', '', '', '', '0', '6', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '0a72147625fa3975b6597ecebea567a1', '931341', 'Conor Esselink, Gnora Ford-Lepthien, Laura Cascos, Beth Bondono, Owen Bondono, Erika Wagner', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,"Conor Esselink, Gnora Ford-Lepthien, Laura Cascos, Beth Bondono, Owen Bondono, Erika Wagner"
 avneeds,
@@ -3338,7 +3338,7 @@ starttimeampm,9 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['98', 'Y', 'LN2 After Hours Ice Cream', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '18', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '7da1a0c63f6cbf67e5357794bf05224d', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['98', 'Y', 'LN2 After Hours Ice Cream', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '20', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '7da1a0c63f6cbf67e5357794bf05224d', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -3498,7 +3498,7 @@ starttimeampm,9 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['90', 'Y', 'Whiskey of the West', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'Food', '', ""For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi."", '', '', '', '', '0', '13', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'c0cc0d6108238d4afeeeb42a522be854', '931350', 'Greg Williams, Katie Buffone', '', '', '', '', '']"
+input,"['90', 'Y', 'Whiskey of the West', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'Food', '', ""For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi."", '', '', '', '', '0', '14', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'c0cc0d6108238d4afeeeb42a522be854', '931350', 'Greg Williams, Katie Buffone', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Greg Williams, Katie Buffone"
 avneeds,
@@ -3618,7 +3618,7 @@ starttimeampm,9 PM
 tracknosp,['SpecialEvent']
 event_type_list,['Special Event']
 dayheader,"FRIDAY, MAY 3"
-input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '16', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
+input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '17', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,
 avneeds,
@@ -3818,7 +3818,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['18', 'Y', 'Safe Play and Breath Play', '2019-05-03 22:00:00', '2019-05-03 23:00:00', 'After Dark', '', 'Come learn about common mistakes and how to safely partake in this... breathtaking way to play! This event is 18+.', '', '', '', '', '0', '13', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '73a35204953facf3df107b7ebcb79cb0', '931323', 'TheMtnLioness', '', '', '', '', '']"
+input,"['18', 'Y', 'Safe Play and Breath Play', '2019-05-03 22:00:00', '2019-05-03 23:00:00', 'After Dark', '', 'Come learn about common mistakes and how to safely partake in this... breathtaking way to play! This event is 18+.', '', '', '', '', '0', '14', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '73a35204953facf3df107b7ebcb79cb0', '931323', 'TheMtnLioness', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,TheMtnLioness
 avneeds,
@@ -3898,7 +3898,7 @@ starttimeampm,11 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['2', 'Y', 'The Wild & Wonderful World of Whips', '2019-05-03 23:00:00', '2019-05-04 00:00:00', 'After Dark', '', 'This talk will discuss all things whips: types, construction, physics, and skills! Presented by a whip professional with over 10 Guinness World Records in whip cracking. Learn about whips for sport, competition, and after hours play. This event is 18+.', '', '', '', '', '0', '12', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '382ab3db92c151a2c6e693287472a142', '931323', 'April Jennifer Choi', '', '', '', '', '']"
+input,"['2', 'Y', 'The Wild & Wonderful World of Whips', '2019-05-03 23:00:00', '2019-05-04 00:00:00', 'After Dark', '', 'This talk will discuss all things whips: types, construction, physics, and skills! Presented by a whip professional with over 10 Guinness World Records in whip cracking. Learn about whips for sport, competition, and after hours play. This event is 18+.', '', '', '', '', '0', '13', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '382ab3db92c151a2c6e693287472a142', '931323', 'April Jennifer Choi', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,April Jennifer Choi
 avneeds,
@@ -3938,7 +3938,7 @@ starttimeampm,11 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['7', 'Y', 'Sensation Play', '2019-05-03 23:00:00', '2019-05-04 01:00:00', 'After Dark', '', ""Come see a demonstration of some of the vast number of experiences sensation play provides! We'll be demonstrating and teaching bondage, sensory deprivation, temperature play, biting and scratching, integrating the use of floggers and knives, sensual touch, and with permission, a clothed demonstration of orgasm torture (inducing multiple orgasms with a wand vibrator and bondage). We'll also show you how to play in a safe and consensual way. This event is 18+."", '', '', '', '', '0', '21', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fdc5b10bde9927ac37c11899209ccdf', '931344', 'Jett Khat', '', '', '', '', '']"
+input,"['7', 'Y', 'Sensation Play', '2019-05-03 23:00:00', '2019-05-04 01:00:00', 'After Dark', '', ""Come see a demonstration of some of the vast number of experiences sensation play provides! We'll be demonstrating and teaching bondage, sensory deprivation, temperature play, biting and scratching, integrating the use of floggers and knives, sensual touch, and with permission, a clothed demonstration of orgasm torture (inducing multiple orgasms with a wand vibrator and bondage). We'll also show you how to play in a safe and consensual way. This event is 18+."", '', '', '', '', '0', '22', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fdc5b10bde9927ac37c11899209ccdf', '931344', 'Jett Khat', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Jett Khat
 avneeds,
@@ -4058,7 +4058,7 @@ starttimeampm,9 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['162', 'Y', 'BurleXercise: A Burlesque Inspired Dance Fitness', '2019-05-04 09:00:00', '2019-05-04 10:00:00', 'Life', '', ""BurleXercise is a fitness class created by Deborah O'Connell that takes the 'follow the leader' format that other fitness classes frequently use and puts burlesque inspired movement to it. This is not a burlesque how-to, this is a fitness class inspired by burlesque."", '', '', '', '', '0', '21', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '204ceb76d6fe813ac1a26129957c963c', '931341', ""Deborah O'Connell"", '', '', '', '', '']"
+input,"['162', 'Y', 'BurleXercise: A Burlesque Inspired Dance Fitness', '2019-05-04 09:00:00', '2019-05-04 10:00:00', 'Life', '', ""BurleXercise is a fitness class created by Deborah O'Connell that takes the 'follow the leader' format that other fitness classes frequently use and puts burlesque inspired movement to it. This is not a burlesque how-to, this is a fitness class inspired by burlesque."", '', '', '', '', '0', '22', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '204ceb76d6fe813ac1a26129957c963c', '931341', ""Deborah O'Connell"", '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,Deborah O'Connell
 avneeds,
@@ -4298,7 +4298,7 @@ starttimeampm,10 AM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SATURDAY, MAY 4"
-input,"['35', 'Y', 'Foamsmithing 101', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Cosplay', '', 'Learn about the basic skills and tools needed to build props and costumes out of foam. See examples of pieces and ask for tips on projects you are working on.', '', '', '', '', '0', '25', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '05d1d7aba42dc62bc8d1d8c773327d9c', '931377', 'Alex Drummer', '', '', '', '', '']"
+input,"['35', 'Y', 'Foamsmithing 101', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Cosplay', '', 'Learn about the basic skills and tools needed to build props and costumes out of foam. See examples of pieces and ask for tips on projects you are working on.', '', '', '', '', '0', '26', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '05d1d7aba42dc62bc8d1d8c773327d9c', '931377', 'Alex Drummer', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Alex Drummer
 avneeds,
@@ -4338,7 +4338,7 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '13', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley Lesser', '', '', '', '', '']"
+input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '14', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley Lesser', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,Ashley Lesser
 avneeds,
@@ -4538,7 +4538,7 @@ starttimeampm,10 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['61', 'Y', 'Amigurumi: Crochet a Penguin!', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'DIY', '', 'So you know the basics of crochet and want to try something new? Let\xe2\x80\x99s go beyond the basics, read a pattern, and make amigurumi! Space limited, sign up at ops.', '', '', '', '', '0', '10', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '533d2e42fdc2fee7883b5615cab568e7', '931353', 'Dawn Marino, Kelly V, Grace Cocking', '', '', '', '', '']"
+input,"['61', 'Y', 'Amigurumi: Crochet a Penguin!', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'DIY', '', 'So you know the basics of crochet and want to try something new? Let\xe2\x80\x99s go beyond the basics, read a pattern, and make amigurumi! Space limited, sign up at ops.', '', '', '', '', '0', '11', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '533d2e42fdc2fee7883b5615cab568e7', '931353', 'Dawn Marino, Kelly V, Grace Cocking', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,"Dawn Marino, Kelly V, Grace Cocking"
 avneeds,
@@ -4898,7 +4898,7 @@ starttimeampm,10 AM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['280', 'Y', 'Coffee Ritual', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Penguicon', '', ""Back by popular demand, the Pope of Coffee shall blesspresso The Holy Of Holies: the most theatrical brewing method ever devised. The acolytes will serve the Holy Liquid unto the congregation, who shall raise the sacrament to the east, and in unison, recite the litany 'God, I needed that!' Look for a blend of cafe'ths such as Press-byterian, Buzzentine, Sipiscopal, and even Atheismericano."", '', '', '', '', '0', '10', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'c4504e5185c9da043d429b784007f12d', '931329', 'Matt Arnold', '', '', '', '', '']"
+input,"['280', 'Y', 'Coffee Ritual', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Penguicon', '', ""Back by popular demand, the Pope of Coffee shall blesspresso The Holy Of Holies: the most theatrical brewing method ever devised. The acolytes will serve the Holy Liquid unto the congregation, who shall raise the sacrament to the east, and in unison, recite the litany 'God, I needed that!' Look for a blend of cafe'ths such as Press-byterian, Buzzentine, Sipiscopal, and even Atheismericano."", '', '', '', '', '0', '11', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'c4504e5185c9da043d429b784007f12d', '931329', 'Matt Arnold', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,Matt Arnold
 avneeds,
@@ -4978,7 +4978,7 @@ starttimeampm,10 AM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['208', 'Y', 'Music in Science Fiction', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Lit', '', 'Join us for discussion between music scholars and the audience about the role of music in science fiction film and television.', '', '', '', '', '0', '8', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', 'e18c67cae73bedb3b6bfb5ea35634342', '931395', 'Reba Wissner, Jessica Getman, Brooke McCorkle, Evan Ware', '', '', '', '', '']"
+input,"['208', 'Y', 'Music in Science Fiction', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Lit', '', 'Join us for discussion between music scholars and the audience about the role of music in science fiction film and television.', '', '', '', '', '0', '9', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', 'e18c67cae73bedb3b6bfb5ea35634342', '931395', 'Reba Wissner, Jessica Getman, Brooke McCorkle, Evan Ware', '', '', '', '', '']"
 booklocation,Algonquin B
 calspeakers,"Reba Wissner, Jessica Getman, Brooke McCorkle, Evan Ware"
 avneeds,
@@ -5138,7 +5138,7 @@ starttimeampm,11 AM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['86', 'Y', 'Camp cookery and magical meal to prevent trailside tragedy', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Food', '', 'Tips and tricks for camp cookery. Focus on backpacking meal planning and on trail prep. Discussion points, types of backpacking stoves and cook kits, dehydration, DIY freeze drying. cold soak meals, trail baking. Recipes and possible meal samples', '', '', '', '', '0', '12', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '33f7d41aa3e5eda24d38edf37a11d372', '931350', 'Alex Drummer, chloe  zrnich', '', '', '', '', '']"
+input,"['86', 'Y', 'Camp cookery and magical meal to prevent trailside tragedy', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Food', '', 'Tips and tricks for camp cookery. Focus on backpacking meal planning and on trail prep. Discussion points, types of backpacking stoves and cook kits, dehydration, DIY freeze drying. cold soak meals, trail baking. Recipes and possible meal samples', '', '', '', '', '0', '13', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '33f7d41aa3e5eda24d38edf37a11d372', '931350', 'Alex Drummer, chloe  zrnich', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Alex Drummer, chloe  zrnich"
 avneeds,
@@ -5178,7 +5178,7 @@ starttimeampm,11 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['59', 'Y', 'Silicone Casting for Cheap Bastards', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Have you wanted to cast things out of silicone, but found it to be cost prohibitive? Learn how to make silicone casts and moulds from inexpensive silicone caulk and cornstarch.', '', '', '', '', '0', '9', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '38e684b73da46e5380db9e51133ca737', '931353', 'Gnora Ford-Lepthien', '', '', '', '', '']"
+input,"['59', 'Y', 'Silicone Casting for Cheap Bastards', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Have you wanted to cast things out of silicone, but found it to be cost prohibitive? Learn how to make silicone casts and moulds from inexpensive silicone caulk and cornstarch.', '', '', '', '', '0', '10', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '38e684b73da46e5380db9e51133ca737', '931353', 'Gnora Ford-Lepthien', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,Gnora Ford-Lepthien
 avneeds,
@@ -5578,7 +5578,7 @@ starttimeampm,11 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['65', 'Y', 'Fun with Origami', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Come play with paper! We will fold a variety of models starting with some that are very easy and moving toward some that are a bit more challenging. No experience required. Children are welcome to attend with an adult.', '', '', '', '', '0', '11', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', 'b4e347363709cbf8a3658a210a86ac70', '931368', 'Janet Gocay', '', '', '', '', '']"
+input,"['65', 'Y', 'Fun with Origami', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Come play with paper! We will fold a variety of models starting with some that are very easy and moving toward some that are a bit more challenging. No experience required. Children are welcome to attend with an adult.', '', '', '', '', '0', '12', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', 'b4e347363709cbf8a3658a210a86ac70', '931368', 'Janet Gocay', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Janet Gocay
 avneeds,
@@ -6938,7 +6938,7 @@ starttimeampm,1 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['66', 'Y', 'Bicycle Maintenance 101', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'DIY', '', 'An extensive look into complete bicycle repair. Basic to advanced repair will be demonstrated, from flat repair to complete tune-up. Disc brakes and wheel truing/straightening will be covered in this presentation. The mechanic presenting this demonstration has 20+ years of shop experience.', '', '', '', '', '0', '6', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'c75fe425c8d8c1bb020e3f01532f6a5c', '931356', 'Joseph Leal', '', '', '', '', '']"
+input,"['66', 'Y', 'Bicycle Maintenance 101', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'DIY', '', 'An extensive look into complete bicycle repair. Basic to advanced repair will be demonstrated, from flat repair to complete tune-up. Disc brakes and wheel truing/straightening will be covered in this presentation. The mechanic presenting this demonstration has 20+ years of shop experience.', '', '', '', '', '0', '7', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'c75fe425c8d8c1bb020e3f01532f6a5c', '931356', 'Joseph Leal', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Joseph Leal
 avneeds,
@@ -6978,7 +6978,7 @@ starttimeampm,1 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['168', 'Y', 'An Introduction to Mondo Zen and the Importance of Meditation', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'This talk will discuss and explore a modern interpretation of Japanese Rinzai Zen. We will discuss insight and emotional koan practice and the necessity of Zazen (Zen meditation) in daily life. Hosted by Hokyo, a priest of Hollow Bones Zen.', '', '', '', '', '0', '15', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'c9e3251561dced2c7e00c1851b85190b', '931359', 'Hokyo Yoi Inu', '', '', '', '', '']"
+input,"['168', 'Y', 'An Introduction to Mondo Zen and the Importance of Meditation', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'This talk will discuss and explore a modern interpretation of Japanese Rinzai Zen. We will discuss insight and emotional koan practice and the necessity of Zazen (Zen meditation) in daily life. Hosted by Hokyo, a priest of Hollow Bones Zen.', '', '', '', '', '0', '16', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'c9e3251561dced2c7e00c1851b85190b', '931359', 'Hokyo Yoi Inu', '', '', '', '', '']"
 booklocation,EMC IV
 calspeakers,Hokyo Yoi Inu
 avneeds,
@@ -7378,7 +7378,7 @@ starttimeampm,2 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['96', 'Y', 'LN2 Saturday Afternoon Matinee Ice Cream', '2019-05-04 14:00:00', '2019-05-04 16:00:00', 'Food', '', ""LN2 ice cream flavors inspired by movies and food/drink you'd find in a movie theater! We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '14', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '35469b1995468c6f04f046a6450dd238', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['96', 'Y', 'LN2 Saturday Afternoon Matinee Ice Cream', '2019-05-04 14:00:00', '2019-05-04 16:00:00', 'Food', '', ""LN2 ice cream flavors inspired by movies and food/drink you'd find in a movie theater! We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '15', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '35469b1995468c6f04f046a6450dd238', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -7978,7 +7978,7 @@ starttimeampm,3 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['82', 'Y', 'BoF: Craft Supply Swap', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'DIY', '', 'Birds of a Feather: Are your jewelry making supplies gathering dust and you find yourself really into embroidery instead? Why not offload your unused crafting items and pick up some things you can use?', '', '', '', '', '0', '17', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '335abb1b35ee52077afa9d1db9e361ad', '931389', 'Josie Kusner', '', '', '', '', '']"
+input,"['82', 'Y', 'BoF: Craft Supply Swap', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'DIY', '', 'Birds of a Feather: Are your jewelry making supplies gathering dust and you find yourself really into embroidery instead? Why not offload your unused crafting items and pick up some things you can use?', '', '', '', '', '0', '18', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '335abb1b35ee52077afa9d1db9e361ad', '931389', 'Josie Kusner', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,Josie Kusner
 avneeds,
@@ -8178,7 +8178,7 @@ starttimeampm,3 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['214', 'Y', 'Podcasts for Readers', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'Lit', '', 'There are now a slew of book related podcasts! How do you find the one which fits your needs? Are you looking for recommendations, reviews, publishing news, or bookish news?', '', '', '', '', '0', '6', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '499959139c15bc9026de5cba997d660e', '931326', 'Michael Cieslak', '', '', '', '', '']"
+input,"['214', 'Y', 'Podcasts for Readers', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'Lit', '', 'There are now a slew of book related podcasts! How do you find the one which fits your needs? Are you looking for recommendations, reviews, publishing news, or bookish news?', '', '', '', '', '0', '7', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '499959139c15bc9026de5cba997d660e', '931326', 'Michael Cieslak', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Michael Cieslak
 avneeds,
@@ -8298,7 +8298,7 @@ starttimeampm,3 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['64', 'Y', 'Learn to Hand Embroider', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'DIY', '', 'This workshop will be a hands-on introduction to hand embroidery. You will learn basic techniques and practice stitches including running stitch, back stitch, and even the dreaded French knots! All required supplies will be provided. Sign up in advance near Ops!', '', '', '', '', '0', '8', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '5af53bee7371e4557205f400659f5960', '931368', 'Janet Gocay', '', '', '', '', '']"
+input,"['64', 'Y', 'Learn to Hand Embroider', '2019-05-04 15:00:00', '2019-05-04 16:00:00', 'DIY', '', 'This workshop will be a hands-on introduction to hand embroidery. You will learn basic techniques and practice stitches including running stitch, back stitch, and even the dreaded French knots! All required supplies will be provided. Sign up in advance near Ops!', '', '', '', '', '0', '9', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '5af53bee7371e4557205f400659f5960', '931368', 'Janet Gocay', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Janet Gocay
 avneeds,
@@ -8818,7 +8818,7 @@ starttimeampm,4 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SATURDAY, MAY 4"
-input,"['349', 'Y', 'Critical Optimism', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Tech', '', 'People\xe2\x80\x99s ability to envision the future tends to fall between two unhealthy and unconstructive extremes. On one side, there are those who are blindly optimistic about technology. This attitude is sometimes termed \xe2\x80\x9ctechnosolutionism,\xe2\x80\x9d the na\xc3\xafve idea that every problem can be solved with technology. At the other extreme are those so critical of technology that they adopt an unrealistic Luddite attitude, avoiding technology altogether, or they assume that a dystopian future is inevitable and, as a result, become passive. Critical optimism navigates between these two extremes, encouraging an earnest hopefulness that also incorporates a healthy dose of criticality. What futures are possible, which are probable, and, most importantly, which might be preferred?', '', '', '', '', '0', '2', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '6c71aad1c525604514f0ee5947066ae4', '931344', 'Sophia Brueckner', '', '', '', '', '']"
+input,"['349', 'Y', 'Critical Optimism', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Tech', '', 'People\xe2\x80\x99s ability to envision the future tends to fall between two unhealthy and unconstructive extremes. On one side, there are those who are blindly optimistic about technology. This attitude is sometimes termed \xe2\x80\x9ctechnosolutionism,\xe2\x80\x9d the na\xc3\xafve idea that every problem can be solved with technology. At the other extreme are those so critical of technology that they adopt an unrealistic Luddite attitude, avoiding technology altogether, or they assume that a dystopian future is inevitable and, as a result, become passive. Critical optimism navigates between these two extremes, encouraging an earnest hopefulness that also incorporates a healthy dose of criticality. What futures are possible, which are probable, and, most importantly, which might be preferred?', '', '', '', '', '0', '3', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '6c71aad1c525604514f0ee5947066ae4', '931344', 'Sophia Brueckner', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Sophia Brueckner
 avneeds,
@@ -9018,7 +9018,7 @@ starttimeampm,4 PM
 tracknosp,['Science']
 event_type_list,['Science']
 dayheader,"SATURDAY, MAY 4"
-input,"['285', 'Y', 'Your Fat is Not Your Fault: What Science Says About Behavior and Weight', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Science', '', 'Join New England Journal of Medicine published author, Judith S. Shapiro, PhD., in an in depth discussion as she summarizes the research showing that increases in average weight are due to biological factors, and that attempts to reduce weight through diet and exercise do not work long-term.', '', '', '', '', '0', '12', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '89eb68bdff4d73495b67271b296a7caa', '931326', 'Judith S. Shapiro PhD', '', '', '', '', '']"
+input,"['285', 'Y', 'Your Fat is Not Your Fault: What Science Says About Behavior and Weight', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Science', '', 'Join New England Journal of Medicine published author, Judith S. Shapiro, PhD., in an in depth discussion as she summarizes the research showing that increases in average weight are due to biological factors, and that attempts to reduce weight through diet and exercise do not work long-term.', '', '', '', '', '0', '13', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '89eb68bdff4d73495b67271b296a7caa', '931326', 'Judith S. Shapiro PhD', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Judith S. Shapiro PhD
 avneeds,
@@ -9138,7 +9138,7 @@ starttimeampm,4 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['85', 'Y', 'The Exciting World of Vegan Cheese Part II with Amy & Amy', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Food', '', ""Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! You\xe2\x80\x99ll go home with plenty of recipes to make your own delicious plant-based cheeses at home"", '', '', '', '', '0', '12', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'dc49072360d957849fb78483ddf53ee0', '931350', 'Amy Wright, Amy Wilkins', '', '', '', '', '']"
+input,"['85', 'Y', 'The Exciting World of Vegan Cheese Part II with Amy & Amy', '2019-05-04 16:00:00', '2019-05-04 17:00:00', 'Food', '', ""Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! You\xe2\x80\x99ll go home with plenty of recipes to make your own delicious plant-based cheeses at home"", '', '', '', '', '0', '13', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'dc49072360d957849fb78483ddf53ee0', '931350', 'Amy Wright, Amy Wilkins', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Amy Wright, Amy Wilkins"
 avneeds,
@@ -9258,7 +9258,7 @@ starttimeampm,5 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['180', 'Y', 'Unconditional Basic Income', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Life', '', 'What would happen if we paid every citizen a cash dividend sufficient to pay for their minimum survival needs? The expensive workload, necessary to prove who deserves it or needs it, costs more money than it saves. This expense is prevented by making it unconditional. We discuss revenue sources, effects on rent, effects on the labor force, and other considerations for this policy which has pilot programs around the world.', '', '', '', '', '0', '19', '0', 'N', 'Charlevoix C', '', '', '', '', '', '', '', '', '', '', '', '1c706f50cfe64a253875facd1a2bc7e3', '933406', ""Matt Arnold, Kevin O'Brien, Zachary Blagg"", '', '', '', '', '']"
+input,"['180', 'Y', 'Unconditional Basic Income', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Life', '', 'What would happen if we paid every citizen a cash dividend sufficient to pay for their minimum survival needs? The expensive workload, necessary to prove who deserves it or needs it, costs more money than it saves. This expense is prevented by making it unconditional. We discuss revenue sources, effects on rent, effects on the labor force, and other considerations for this policy which has pilot programs around the world.', '', '', '', '', '0', '20', '0', 'N', 'Charlevoix C', '', '', '', '', '', '', '', '', '', '', '', '1c706f50cfe64a253875facd1a2bc7e3', '933406', ""Matt Arnold, Kevin O'Brien, Zachary Blagg"", '', '', '', '', '']"
 booklocation,Charlevoix C
 calspeakers,"Matt Arnold, Kevin O'Brien, Zachary Blagg"
 avneeds,
@@ -9898,7 +9898,7 @@ starttimeampm,5 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['20', 'Y', 'Burlesque 101', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Life', '', 'Learn a brief history of burlesque, and some basic moves for you to incorporate into your repertoire, whether you are dancing for yourself, a partner, or an audience! Burlesque is for every body, and this panel is appropriate for anyone 18+ that is interested in the art of the tease.', '', '', '', '', '0', '24', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'e407fe52689c4dbf199652d4c093064f', '931341', 'Tommy Gun, Darryn Storm', '', '', '', '', '']"
+input,"['20', 'Y', 'Burlesque 101', '2019-05-04 17:00:00', '2019-05-04 18:00:00', 'Life', '', 'Learn a brief history of burlesque, and some basic moves for you to incorporate into your repertoire, whether you are dancing for yourself, a partner, or an audience! Burlesque is for every body, and this panel is appropriate for anyone 18+ that is interested in the art of the tease.', '', '', '', '', '0', '25', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'e407fe52689c4dbf199652d4c093064f', '931341', 'Tommy Gun, Darryn Storm', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,"Tommy Gun, Darryn Storm"
 avneeds,
@@ -9978,7 +9978,7 @@ starttimeampm,6 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SATURDAY, MAY 4"
-input,"['306', 'Y', 'Open Source Music Coding', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Tech', '', 'Come learn about programming computers to make music. We will start with a brief history on the first computers to ever make music, followed by demos in different programming languages, including SonicPi, and at the end the presenter will give a short, live performance.', '', '', '', '', '0', '7', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', '1c5f63af51a525c453d64b865d20589b', '931395', 'Norman Witte', '', '', '', '', '']"
+input,"['306', 'Y', 'Open Source Music Coding', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Tech', '', 'Come learn about programming computers to make music. We will start with a brief history on the first computers to ever make music, followed by demos in different programming languages, including SonicPi, and at the end the presenter will give a short, live performance.', '', '', '', '', '0', '8', '0', 'N', 'Algonquin B', '', '', '', '', '', '', '', '', '', '', '', '1c5f63af51a525c453d64b865d20589b', '931395', 'Norman Witte', '', '', '', '', '']"
 booklocation,Algonquin B
 calspeakers,Norman Witte
 avneeds,
@@ -10298,7 +10298,7 @@ starttimeampm,6 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['52', 'Y', 'DIY Escape Room Game', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'DIY', '', 'For the last few years escape rooms have been the big craze for group gaming experiences. However, they can be expensive to go to and you have to get a large enough group together to book the rooms. What if you could make your own game for your events or parties? Well you can! Come learn some basics on creating your own escape rooms. See examples of puzzles, clues, and different styles of game design from the people that have put on the Penguicon games for the last few years.', '', '', '', '', '0', '10', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', 'a59e00c3878ee8cb338adbfa8e546468', '931353', 'Alex Drummer', '', '', '', '', '']"
+input,"['52', 'Y', 'DIY Escape Room Game', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'DIY', '', 'For the last few years escape rooms have been the big craze for group gaming experiences. However, they can be expensive to go to and you have to get a large enough group together to book the rooms. What if you could make your own game for your events or parties? Well you can! Come learn some basics on creating your own escape rooms. See examples of puzzles, clues, and different styles of game design from the people that have put on the Penguicon games for the last few years.', '', '', '', '', '0', '11', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', 'a59e00c3878ee8cb338adbfa8e546468', '931353', 'Alex Drummer', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,Alex Drummer
 avneeds,
@@ -10418,7 +10418,7 @@ starttimeampm,6 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['29', 'Y', 'Steven Universe Sing-A-Long - with Ukuleles!', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Anime', '', ""All we wanna do, is see you turn into, a giant woman (A GIANT WOMAN!) - and sing along with us! Whether or not you have a ukulele, join us as we sing and play some of our favorite songs from this incredible show. Don't know how to play the ukulele? We can teach you basic chords! Come and share this jam with us!"", '', '', '', '', '0', '12', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'c50d6ebe8372e522f33563af8db9b611', '931341', 'Edward L. Platt, Sam Letvin', '', '', '', '', '']"
+input,"['29', 'Y', 'Steven Universe Sing-A-Long - with Ukuleles!', '2019-05-04 18:00:00', '2019-05-04 19:00:00', 'Anime', '', ""All we wanna do, is see you turn into, a giant woman (A GIANT WOMAN!) - and sing along with us! Whether or not you have a ukulele, join us as we sing and play some of our favorite songs from this incredible show. Don't know how to play the ukulele? We can teach you basic chords! Come and share this jam with us!"", '', '', '', '', '0', '13', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'c50d6ebe8372e522f33563af8db9b611', '931341', 'Edward L. Platt, Sam Letvin', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,"Edward L. Platt, Sam Letvin"
 avneeds,
@@ -10938,7 +10938,7 @@ starttimeampm,7 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['158', 'Y', 'Social Dancing 101', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Life', '', 'No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.', '', '', '', '', '0', '22', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '8ab8d29f4e1c8ed1f34c189e709e7234', '931341', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
+input,"['158', 'Y', 'Social Dancing 101', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Life', '', 'No one wants to be the awkward wallflower at a dance. Luckily we have two professional dance instructors with over 30 years of combined experience willing to teach you all the basics. We will be covering the basics of blues dancing as it is one of the simplest dances to start with.', '', '', '', '', '0', '23', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '8ab8d29f4e1c8ed1f34c189e709e7234', '931341', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,"April Jennifer Choi, Bethany Bymes"
 avneeds,
@@ -10978,7 +10978,7 @@ starttimeampm,7 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SATURDAY, MAY 4"
-input,"['22', 'Y', 'Black Butler AMV Tea Party', '2019-05-04 19:00:00', '2019-05-04 21:00:00', 'Anime', '', 'Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away.', '', '', '', '', '0', '5', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '8d241ac63d1637947659a9e1839e7ae5', '931350', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
+input,"['22', 'Y', 'Black Butler AMV Tea Party', '2019-05-04 19:00:00', '2019-05-04 21:00:00', 'Anime', '', 'Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away.', '', '', '', '', '0', '6', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '8d241ac63d1637947659a9e1839e7ae5', '931350', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 avneeds,
@@ -11178,7 +11178,7 @@ starttimeampm,7 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SATURDAY, MAY 4"
-input,"['190', 'Y', 'What is a Zine and Why You Should Care!', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Lit', '', ""The embodiment of DIY literature, zines have always been around in one form or another. Learn how to put together your own zine about whatever you're passionate about. We'll talk about traditional and digital methods and even dummy up a zine!"", '', '', '', '', '0', '0', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'f05908017eb6a0892cd85983d3666e6a', '931326', 'BluRaven C. Houvener', '', '', '', '', '']"
+input,"['190', 'Y', 'What is a Zine and Why You Should Care!', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'Lit', '', ""The embodiment of DIY literature, zines have always been around in one form or another. Learn how to put together your own zine about whatever you're passionate about. We'll talk about traditional and digital methods and even dummy up a zine!"", '', '', '', '', '0', '1', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'f05908017eb6a0892cd85983d3666e6a', '931326', 'BluRaven C. Houvener', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,BluRaven C. Houvener
 avneeds,
@@ -11698,7 +11698,7 @@ starttimeampm,9 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['99', 'Y', 'LN2 After Hours Ice Cream 2', '2019-05-04 21:00:00', '2019-05-04 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '15', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '189769b888d051467b66149e151d08f1', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['99', 'Y', 'LN2 After Hours Ice Cream 2', '2019-05-04 21:00:00', '2019-05-04 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '16', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '189769b888d051467b66149e151d08f1', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -12058,7 +12058,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['10', 'Y', 'Spooky Stories with Marshmallows on Top', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'After Dark', '', ""I'll bring the hot cocoa, you bring your real-life spooky, creepy or just strange paranormal stories. An open mind is encouraged, but you're welcome to think we're all weirdos and just enjoy cocoa and storytime. Join us as we share some personal 'no s*it, there I was' experiences. An event to savor. (Marshmallows and sharing optional.) This event is 18+."", '', '', '', '', '0', '7', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '2aac3e8aa12906a2082f5e9662ff81a6', '931350', 'Josie Kusner', '', '', '', '', '']"
+input,"['10', 'Y', 'Spooky Stories with Marshmallows on Top', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'After Dark', '', ""I'll bring the hot cocoa, you bring your real-life spooky, creepy or just strange paranormal stories. An open mind is encouraged, but you're welcome to think we're all weirdos and just enjoy cocoa and storytime. Join us as we share some personal 'no s*it, there I was' experiences. An event to savor. (Marshmallows and sharing optional.) This event is 18+."", '', '', '', '', '0', '8', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '2aac3e8aa12906a2082f5e9662ff81a6', '931350', 'Josie Kusner', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,Josie Kusner
 avneeds,
@@ -12138,7 +12138,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['4', 'Y', 'Electroplay', '2019-05-04 22:00:00', '2019-05-05 00:00:00', 'After Dark', '', 'One of the best local teams is coming out to Penguicon for one night only! Join Dracose and SirWill for this electrifying presentation that will bring a new energy into your play. This event is 18+.', '', '', '', '', '0', '11', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '7001b2d113d4fb8e8b6d443aa7ea34dc', '931323', 'Dracose, SirWill', '', '', '', '', '']"
+input,"['4', 'Y', 'Electroplay', '2019-05-04 22:00:00', '2019-05-05 00:00:00', 'After Dark', '', 'One of the best local teams is coming out to Penguicon for one night only! Join Dracose and SirWill for this electrifying presentation that will bring a new energy into your play. This event is 18+.', '', '', '', '', '0', '12', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '7001b2d113d4fb8e8b6d443aa7ea34dc', '931323', 'Dracose, SirWill', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,"Dracose, SirWill"
 avneeds,
@@ -12298,7 +12298,7 @@ starttimeampm,11 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['14', 'Y', 'Canes: From Sensual to Sadistic', '2019-05-04 23:00:00', '2019-05-05 01:00:00', 'After Dark', '', ""Canes generally have a nasty connotation to them. Brutal. Painful. Punishing. While they can be all these things, they don't have to be. In this class we will cover a wide range of topics, mostly focused on making caning an enjoyable experience for both top and bottom. We will cover topics including, types of canes, safety concerns unique to canes, psychological and physiological effects on the bottom, types of cane strokes, rhythmic caning, tailoring your play to music, and more. The class will also feature a 15-20 minute demonstration of a caning 'scene' as a standalone scene. This event is 18+."", '', '', '', '', '0', '10', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'bfa0d652bcf6f73a48a6442bf44cf8c5', '931320', 'Rapture', '', '', '', '', '']"
+input,"['14', 'Y', 'Canes: From Sensual to Sadistic', '2019-05-04 23:00:00', '2019-05-05 01:00:00', 'After Dark', '', ""Canes generally have a nasty connotation to them. Brutal. Painful. Punishing. While they can be all these things, they don't have to be. In this class we will cover a wide range of topics, mostly focused on making caning an enjoyable experience for both top and bottom. We will cover topics including, types of canes, safety concerns unique to canes, psychological and physiological effects on the bottom, types of cane strokes, rhythmic caning, tailoring your play to music, and more. The class will also feature a 15-20 minute demonstration of a caning 'scene' as a standalone scene. This event is 18+."", '', '', '', '', '0', '11', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'bfa0d652bcf6f73a48a6442bf44cf8c5', '931320', 'Rapture', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,Rapture
 avneeds,
@@ -12338,7 +12338,7 @@ starttimeampm,11 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['75', 'Y', 'Live Wires and Water Puddles: Safety First in Fractal Burning', '2019-05-04 23:00:00', '2019-05-05 00:00:00', 'DIY', '', 'Fractal burning is the process of capturing electrical patterns in wood. The Internet is full of instructions on how to build machines to do fractal burning using such things as microwave oven transformers. Too many people have been injured and killed attempting this technique in unsafe ways. Today there are two dominant approaches to fractal burning: dangerous experimentation without proper knowledge, or the idea that the technique should be banned entirely. Banning knowledge never stops human curiosity. We need to talk about what you need to know to stay safe if you choose to do this dangerous art form, and why you might not want to try it at all.', '', '', '', '', '0', '3', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'eb8a8a1516ccd9f9bf09d5b9b49931c0', '931329', 'Lisa', '', '', '', '', '']"
+input,"['75', 'Y', 'Live Wires and Water Puddles: Safety First in Fractal Burning', '2019-05-04 23:00:00', '2019-05-05 00:00:00', 'DIY', '', 'Fractal burning is the process of capturing electrical patterns in wood. The Internet is full of instructions on how to build machines to do fractal burning using such things as microwave oven transformers. Too many people have been injured and killed attempting this technique in unsafe ways. Today there are two dominant approaches to fractal burning: dangerous experimentation without proper knowledge, or the idea that the technique should be banned entirely. Banning knowledge never stops human curiosity. We need to talk about what you need to know to stay safe if you choose to do this dangerous art form, and why you might not want to try it at all.', '', '', '', '', '0', '4', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'eb8a8a1516ccd9f9bf09d5b9b49931c0', '931329', 'Lisa', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,Lisa
 avneeds,
@@ -13298,7 +13298,7 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SUNDAY, MAY 5"
-input,"['160', 'Y', '10 Commandments of Networking', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Life', '', ""Your network is the most important thing you will develop over the course of your career. We'll teach you how to do it right."", '', '', '', '', '0', '5', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '8263d8e55800f92675bff00da4d222c4', '931323', 'Dave Phillips', '', '', '', '', '']"
+input,"['160', 'Y', '10 Commandments of Networking', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Life', '', ""Your network is the most important thing you will develop over the course of your career. We'll teach you how to do it right."", '', '', '', '', '0', '6', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '8263d8e55800f92675bff00da4d222c4', '931323', 'Dave Phillips', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,Dave Phillips
 avneeds,
@@ -13578,7 +13578,7 @@ starttimeampm,11 AM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SUNDAY, MAY 5"
-input,"['39', 'Y', 'Advanced Special FX Makeup for Cosplay Workshop', '2019-05-05 11:00:00', '2019-05-05 13:00:00', 'Cosplay', '', 'Learn and try various products and techniques in SFX makeup and face and body painting. We will be using foam, latex, and silicone appliances. We will learn and practice some of the more advanced SFX skills on ourselves and each other.', '', '', '', '', '0', '10', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '33b018d04757bcc53f3db6933c6a55e4', '931326', 'Jeannie Arquette', '', '', '', '', '']"
+input,"['39', 'Y', 'Advanced Special FX Makeup for Cosplay Workshop', '2019-05-05 11:00:00', '2019-05-05 13:00:00', 'Cosplay', '', 'Learn and try various products and techniques in SFX makeup and face and body painting. We will be using foam, latex, and silicone appliances. We will learn and practice some of the more advanced SFX skills on ourselves and each other.', '', '', '', '', '0', '11', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', '33b018d04757bcc53f3db6933c6a55e4', '931326', 'Jeannie Arquette', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Jeannie Arquette
 avneeds,
@@ -13938,7 +13938,7 @@ starttimeampm,11 AM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SUNDAY, MAY 5"
-input,"['383', 'Y', 'Reading: Merrie Haskell', '2019-05-05 11:00:00', '2019-05-05 12:00:00', 'Lit', '', 'The authors read from their works.', '', '', '', '', '0', '0', '0', 'N', 'Author Readings Room', '', '', '', '', '', '', '', '', '', '', '', 'a126c510a5005e1983cd9e0bf9c74f10', '935098', 'Merrie Haskell', '', '', '', '', '']"
+input,"['383', 'Y', 'Reading: Merrie Haskell', '2019-05-05 11:00:00', '2019-05-05 12:00:00', 'Lit', '', 'The authors read from their works.', '', '', '', '', '0', '1', '0', 'N', 'Author Readings Room', '', '', '', '', '', '', '', '', '', '', '', 'a126c510a5005e1983cd9e0bf9c74f10', '935098', 'Merrie Haskell', '', '', '', '', '']"
 booklocation,Author Readings Room
 calspeakers,Merrie Haskell
 avneeds,
@@ -14338,7 +14338,7 @@ starttimeampm,12 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"SUNDAY, MAY 5"
-input,"['209', 'Y', 'Book Swap', '2019-05-05 12:00:00', '2019-05-05 13:00:00', 'Lit', '', ""While there has always been the ubiquitous 'free table' where people have been able to offload books they have read and no longer want, if you aren't there when someone else drops their books off, you may not find new books to replace the ones you are giving away. Why not set aside an hour where everyone can bring their 'already read' piles to give away or trade? This way you can give your opinions of the books and ask questions to find out more than just the dust jacket description. Come find a new book and chat with other book lovers too!"", '', '', '', '', '0', '10', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '67589f2e4e24d77d68ba567860bc27da', '931389', 'John Patrick', '', '', '', '', '']"
+input,"['209', 'Y', 'Book Swap', '2019-05-05 12:00:00', '2019-05-05 13:00:00', 'Lit', '', ""While there has always been the ubiquitous 'free table' where people have been able to offload books they have read and no longer want, if you aren't there when someone else drops their books off, you may not find new books to replace the ones you are giving away. Why not set aside an hour where everyone can bring their 'already read' piles to give away or trade? This way you can give your opinions of the books and ask questions to find out more than just the dust jacket description. Come find a new book and chat with other book lovers too!"", '', '', '', '', '0', '11', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '67589f2e4e24d77d68ba567860bc27da', '931389', 'John Patrick', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,John Patrick
 avneeds,
@@ -14738,7 +14738,7 @@ starttimeampm,12 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SUNDAY, MAY 5"
-input,"['63', 'Y', 'Crochet 102: Granny Squares!', '2019-05-05 12:00:00', '2019-05-05 13:00:00', 'DIY', '', 'Learn to crochet granny squares. Prior single crochet and double crochet knowledge required. Attendance is limited. Sign up at Ops.', '', '', '', '', '0', '9', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f2e3c3b4c7ffb9f4edc995690c0d1985', '931356', 'Joy Lucas, Grace Cocking', '', '', '', '', '']"
+input,"['63', 'Y', 'Crochet 102: Granny Squares!', '2019-05-05 12:00:00', '2019-05-05 13:00:00', 'DIY', '', 'Learn to crochet granny squares. Prior single crochet and double crochet knowledge required. Attendance is limited. Sign up at Ops.', '', '', '', '', '0', '11', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f2e3c3b4c7ffb9f4edc995690c0d1985', '931356', 'Joy Lucas, Grace Cocking', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,"Joy Lucas, Grace Cocking"
 avneeds,
@@ -15058,7 +15058,7 @@ starttimeampm,1 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SUNDAY, MAY 5"
-input,"['78', 'Y', 'Double Knitting', '2019-05-05 13:00:00', '2019-05-05 14:00:00', 'DIY', '', 'Double it up in this panel as we teach you how to make things on both sides of the skein. Basic knit and purl stitch skills required to bring double the trouble in this panel! I have supplies for 9. If more attendees show up - bring any needles, circular ones are my preference. 2 contrasting colors of yarn.', '', '', '', '', '0', '2', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '78119a53c90c96b0c251d92800616c6c', '931368', 'Patt Mundy, Mary Fitzpatrick', '', '', '', '', '']"
+input,"['78', 'Y', 'Double Knitting', '2019-05-05 13:00:00', '2019-05-05 14:00:00', 'DIY', '', 'Double it up in this panel as we teach you how to make things on both sides of the skein. Basic knit and purl stitch skills required to bring double the trouble in this panel! I have supplies for 9. If more attendees show up - bring any needles, circular ones are my preference. 2 contrasting colors of yarn.', '', '', '', '', '0', '3', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '78119a53c90c96b0c251d92800616c6c', '931368', 'Patt Mundy, Mary Fitzpatrick', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,"Patt Mundy, Mary Fitzpatrick"
 avneeds,
@@ -15098,7 +15098,7 @@ starttimeampm,1 PM
 tracknosp,['Anime']
 event_type_list,['Anime']
 dayheader,"SUNDAY, MAY 5"
-input,"['23', 'Y', ""Lizzy's Garden Party"", '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Anime', '', 'The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!', '', '', '', '', '0', '7', '0', 'N', 'Food Room [317]', '', '', '', '', '', '', '', '', '', '', '', '87f23b7e20497bac9997de91c6d665aa', '935095', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
+input,"['23', 'Y', ""Lizzy's Garden Party"", '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Anime', '', 'The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops!', '', '', '', '', '0', '8', '0', 'N', 'Food Room [317]', '', '', '', '', '', '', '', '', '', '', '', '87f23b7e20497bac9997de91c6d665aa', '935095', 'Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell', '', '', '', '', '']"
 booklocation,Food Room [317]
 calspeakers,"Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell"
 avneeds,
@@ -15138,7 +15138,7 @@ starttimeampm,1 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SUNDAY, MAY 5"
-input,"['32', 'Y', 'Featherweight Armor Workshop', '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Cosplay', '', ""It\xe2\x80\x99s possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process."", '', '', '', '', '0', '13', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'bb0bd2747346356de0b898cb275caf56', '931326', 'Alena Van Arendonk', '', '', '', '', '']"
+input,"['32', 'Y', 'Featherweight Armor Workshop', '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Cosplay', '', ""It\xe2\x80\x99s possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process."", '', '', '', '', '0', '14', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'bb0bd2747346356de0b898cb275caf56', '931326', 'Alena Van Arendonk', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Alena Van Arendonk
 avneeds,
@@ -15338,7 +15338,7 @@ starttimeampm,2 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SUNDAY, MAY 5"
-input,"['72', 'Y', 'Coloring Book Hand Embroidery', '2019-05-05 14:00:00', '2019-05-05 15:00:00', 'DIY', '', 'Learn how to take your favorite coloring book page and turn it into a beautiful piece of hand embroidery. Some prior knowledge of embroidery is helpful, but not required.', '', '', '', '', '0', '15', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', '56625f969c3326cb5187501dbbbeea62', '931356', 'Kim Ulrich', '', '', '', '', '']"
+input,"['72', 'Y', 'Coloring Book Hand Embroidery', '2019-05-05 14:00:00', '2019-05-05 15:00:00', 'DIY', '', 'Learn how to take your favorite coloring book page and turn it into a beautiful piece of hand embroidery. Some prior knowledge of embroidery is helpful, but not required.', '', '', '', '', '0', '16', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', '56625f969c3326cb5187501dbbbeea62', '931356', 'Kim Ulrich', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Kim Ulrich
 avneeds,
@@ -15449,7 +15449,7 @@ endtimeampm,4 PM
 duration,1 hour
 description,"It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!"
 index,144
-speakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis"
+speakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis"
 bookdescrip,"It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!"
 startday,5/5/2019
 Start Time,15:00
@@ -15458,18 +15458,18 @@ starttimeampm,3 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '38', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis', '', '', '', '', '']"
+input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '40', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis', '', '', '', '', '']"
 booklocation,Algonquin C/D
-calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Christie Birtie, Brigit Bradakis"
+calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis"
 avneeds,
-speakerlist,"['Cassy Sinke', 'Zed Shaw', 'Mikey Mason', 'Matt Arnold', 'Chelle Silas', 'Scott Kennedy', 'Karen Corbeill', 'Jeff Marraccini', 'Niki MacRae', 'Paul Keyes', 'Sophia Brueckner', 'Saladin Ahmed', 'Jessica Ann Roland', 'Amanda Long-Adams', 'Alison Chan', 'Christie Birtie', 'Brigit Bradakis']"
+speakerlist,"['Cassy Sinke', 'Zed Shaw', 'Mikey Mason', 'Matt Arnold', 'Chelle Silas', 'Scott Kennedy', 'Christie Birtie', 'Karen Corbeill', 'Jeff Marraccini', 'Niki MacRae', 'Paul Keyes', 'Sophia Brueckner', 'Saladin Ahmed', 'Jessica Ann Roland', 'Amanda Long-Adams', 'Alison Chan', 'Brigit Bradakis']"
 hours,1
 totalminutes,60
-speakernosplist,"['CassySinke', 'ZedShaw', 'MikeyMason', 'MattArnold', 'ChelleSilas', 'ScottKennedy', 'KarenCorbeill', 'JeffMarraccini', 'NikiMacRae', 'PaulKeyes', 'SophiaBrueckner', 'SaladinAhmed', 'JessicaAnnRoland', 'AmandaLong-Adams', 'AlisonChan', 'ChristieBirtie', 'BrigitBradakis']"
+speakernosplist,"['CassySinke', 'ZedShaw', 'MikeyMason', 'MattArnold', 'ChelleSilas', 'ScottKennedy', 'ChristieBirtie', 'KarenCorbeill', 'JeffMarraccini', 'NikiMacRae', 'PaulKeyes', 'SophiaBrueckner', 'SaladinAhmed', 'JessicaAnnRoland', 'AmandaLong-Adams', 'AlisonChan', 'BrigitBradakis']"
 caldescrip,"It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!"
 endtime,16:00
 name,Closing Ceremonies
-speakernosp,"CassySinke,ZedShaw,MikeyMason,MattArnold,ChelleSilas,ScottKennedy,KarenCorbeill,JeffMarraccini,NikiMacRae,PaulKeyes,SophiaBrueckner,SaladinAhmed,JessicaAnnRoland,AmandaLong-Adams,AlisonChan,ChristieBirtie,BrigitBradakis"
+speakernosp,"CassySinke,ZedShaw,MikeyMason,MattArnold,ChelleSilas,ScottKennedy,ChristieBirtie,KarenCorbeill,JeffMarraccini,NikiMacRae,PaulKeyes,SophiaBrueckner,SaladinAhmed,JessicaAnnRoland,AmandaLong-Adams,AlisonChan,BrigitBradakis"
 bookname,Closing Ceremonies
 venue,Algonquin C/D
 csvsafedescrip,It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019- hear final thoughts from our Guests of Honor- and learn a little about plans for 2020!
