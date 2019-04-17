@@ -15,7 +15,7 @@ usage:
        ~~* room(Location) (A->Z)~~
        ~~* start time (A->Z)~~
        ~~* startday (A->Z)~~
-       ~~* all day (Z->A, since True means all day event)--
+       ~~* all day (Z->A, since True means all day event)~~
        * sorting is now in the script... :)
    * make sure the spreadsheet link is correct in getsched.sh
    * run getsched.sh to get the spreadsheet and process it
