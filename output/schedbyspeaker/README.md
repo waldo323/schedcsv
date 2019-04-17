@@ -56,8 +56,8 @@ use these links for downloading the actual csv files:
 | [DannyHansen]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DannyHansen.csv ) |  |
 | [DarrynStorm]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DarrynStorm.csv ) |  |
 | [DaveKish]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DaveKish.csv ) |  |
+| [DavePhillips]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DavePhillips.csv ) |  |
 | [DavidNelson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DavidNelson.csv ) |  |
-| [DavidR.Phillips]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DavidR.Phillips.csv ) |  |
 | [DavidVanderMolen]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DavidVanderMolen.csv ) |  |
 | [DawnMarino]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DawnMarino.csv ) |  |
 | [DeborahO'Connell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DeborahO'Connell.csv ) |  |
