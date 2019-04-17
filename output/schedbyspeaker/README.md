@@ -170,6 +170,7 @@ use these links for downloading the actual csv files:
 | [MikeyMason]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MikeyMason.csv ) |  |
 | [MollyZigler]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/MollyZigler.csv ) |  |
 | [NatashaKidwell]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NatashaKidwell.csv ) |  |
+| [NemoRathwald]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NemoRathwald.csv ) |  |
 | [NickHaynes]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NickHaynes.csv ) |  |
 | [NickLelli]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NickLelli.csv ) |  |
 | [NicoleE.Castle]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/NicoleE.Castle.csv ) |  |
