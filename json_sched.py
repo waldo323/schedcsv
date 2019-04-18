@@ -1,5 +1,5 @@
-#5ea81a81d7732d9c00787a401fce3d3a
-#https://penguicon2019.sched.com/api/session/list?api_key=5ea81a81d7732d9c00787a401fce3d3a&format=json&custom_data=Y
+# 5ea81a81d7732d9c00787a401fce3d3a
+# https://penguicon2019.sched.com/api/session/list?api_key=5ea81a81d7732d9c00787a401fce3d3a&format=json&custom_data=Y
 
 import jinja2
 import json
@@ -20,5 +20,3 @@ speakersagendas = dict()
 pcon_url = "https://penguicon2019.sched.com/api/session/list?api_key=5ea81a81d7732d9c00787a401fce3d3a&format=json&custom_data=Y"
 
 pcon_schedule = json.load(urllib2.urlopen(pcon_url))
-
-

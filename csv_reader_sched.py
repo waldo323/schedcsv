@@ -1,4 +1,4 @@
- # -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """This module is to be used to read in a csv file into a dictionary
 This dictionary is then inserted into a database table as is.
 
@@ -14,9 +14,11 @@ If this is imported it will use the default sched.csv file
    http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
 """
 import sys
-import  unicodecsv as csv
+import unicodecsv as csv
 
 # replace all function to help with the clean up
+
+
 def replace_all(text, dic):
     for i, j in dic.iteritems():
         text = text.replace(i, j)
@@ -28,35 +30,35 @@ class Readincsv:
     """
     read in the csv file and add it to a list of dictionaries
     """
-    replace_characters = {"\n": " " }
+    replace_characters = {"\n": " "}
     laststring = []
     """Map csv columns to db columns"""
-    csv_db_map = {"end_date":"End Date",
-        "all_day_event":"All Day Event",
-        "title":"Title",
-        "track":"Track",
-        "private":"Private",
-        "start_time":"Start Time",
-        "book_description":"Book Description",
-        "presenters":"Presenters",
-        "end_time":"End Time",
-        "location":"Location",
-        "duration":"Duration",
-        "start_date":"Start Date",
-        "av_needs":"AV Needs",}
-    db_csv_map = {"End Date":"end_date",
-        "All Day Event":"all_day_event",
-        "Title":"title",
-        "Track":"track",
-        "Private":"private",
-        "Start Time":"start_time",
-        "Book Description":"book_description",
-        "Presenters":"presenters",
-        "End Time":"end_time",
-        "Location":"location",
-        "Duration":"duration",
-        "Start Date":"start_date",
-        "AV Needs":"av_needs",}
+    csv_db_map = {"end_date": "End Date",
+                  "all_day_event": "All Day Event",
+                  "title": "Title",
+                  "track": "Track",
+                  "private": "Private",
+                  "start_time": "Start Time",
+                  "book_description": "Book Description",
+                  "presenters": "Presenters",
+                  "end_time": "End Time",
+                  "location": "Location",
+                  "duration": "Duration",
+                  "start_date": "Start Date",
+                  "av_needs": "AV Needs", }
+    db_csv_map = {"End Date": "end_date",
+                  "All Day Event": "all_day_event",
+                  "Title": "title",
+                  "Track": "track",
+                  "Private": "private",
+                  "Start Time": "start_time",
+                  "Book Description": "book_description",
+                  "Presenters": "presenters",
+                  "End Time": "end_time",
+                  "Location": "location",
+                  "Duration": "duration",
+                  "Start Date": "start_date",
+                  "AV Needs": "av_needs", }
 
     def __init__(self, filename="sched.csv"):
         self.filename = filename
@@ -65,16 +67,17 @@ class Readincsv:
 
         with open(self.filename) as csvfile:
             self.reader = csv.DictReader(csvfile)
-            self.headers = self.reader.fieldnames 
+            self.headers = self.reader.fieldnames
             for row in self.reader:
                 addthis = {}
                 laststring = \
-                    [self.schedule.append({event_data:row[event_data]})\
-                    for event_data in row]
-                [addthis.update({self.db_csv_map.get(event_data):row[event_data]})\
-                        for event_data in row]
+                    [self.schedule.append({event_data: row[event_data]})
+                     for event_data in row]
+                [addthis.update({self.db_csv_map.get(event_data): row[event_data]})
+                 for event_data in row]
                 self.dbsched.append(addthis)
                 #print [{event_data:row[event_data]} for event_data in row]
+
 
 """
 For locations, load a dictionary of locations from the db as events are read in,
@@ -89,7 +92,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         FILENAME = sys.argv[1]
     else:
-        # if not then use sched.csv as a  
+        # if not then use sched.csv as a
         FILENAME = "sched.csv"
         """set the default file name to sched.scv
         """
@@ -97,7 +100,5 @@ if __name__ == '__main__':
     #pp = pprint.PrettyPrinter(indent=4)
     SCHEDULEFILE = Readincsv(FILENAME)
     #print [eventData + "\n" for eventData in SCHEDULEFILE.schedule]
-    #pp.pprint(SCHEDULEFILE.dbsched)
+    # pp.pprint(SCHEDULEFILE.dbsched)
     #print SCHEDULEFILE.laststring
-
-

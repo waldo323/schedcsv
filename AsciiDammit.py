@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-#coding=utf-8
+# coding=utf-8
 """ASCII, Dammit
 
 Stupid library to turn MS chars (like smart quotes) and ISO-Latin
@@ -29,161 +29,167 @@ __license__ = "Public domain"
 import re
 import types
 
-CHARS = { '\x80' : ('', 'euro'),
-          '\x81' : ' ',
-          '\x82' : (',', 'sbquo'),
-          '\x83' : ('f', 'fnof'),
-          '\x84' : (',,', 'bdquo'),
-          '\x85' : ('...', 'hellip'),
-          '\x86' : ('+', 'dagger'),
-          '\x87' : ('++', 'Dagger'),
-          '\x88' : ('^', 'caret'),
-          '\x89' : '%',
-          '\x8A' : ('S', 'Scaron'),
-          '\x8B' : ('<', 'lt;'),
-          '\x8C' : ('OE', 'OElig'),
-          '\x8D' : '-"',
-          '\x8E' : 'Z',
-          '\x8F' : '"-',
-          '\x90' : '',
-          '\x91' : ("'", 'lsquo'),
-          '\x92' : ("'", 'rsquo'),
-          '\x93' : ('-', 'ldquo'),
-          '\x94' : (' ', 'rdquo'),
-          '\x95' : ('*', 'bull'),
-          '\x96' : ('-', 'ndash'),
-          '\x97' : ('--', 'mdash'),
-          '\x98' : ('~', 'tilde'),
-          '\x99' : ('', 'trade'),#changed for the convention version
-          '\x9a' : ('s', 'scaron'),
-          '\x9b' : ('>', 'gt'),
-          '\x9c' : ('"', 'oelig'),
-          '\x9d' : '"',
-          '\x9e' : 'z',
-          '\x9f' : ('Y', 'Yuml'),
-          '\xa0' : (' ', 'nbsp'),
-          '\xa1' : ('!', 'iexcl'),
-          '\xa2' : ('c', 'cent'),
-          '\xa3' : ('GBP', 'pound'),
-          '\xa4' : ('$', 'curren'), #This approximation is especially lame.
-          '\xa5' : ('YEN', 'yen'),
-          '\xa6' : ('|', 'brvbar'),
-          '\xa7' : ('S', 'sect'),
-          '\xa8' : ('..', 'uml'),
-          '\xa9' : ('', 'copy'),
-          '\xaa' : ('(th)', 'ordf'),
-          '\xab' : ('<<', 'laquo'),
-          '\xac' : ('!', 'not'),
-          '\xad' : (' ', 'shy'),
-          '\xae' : ('(R)', 'reg'),
-          '\xaf' : ('-', 'macr'),
-          '\xb0' : ('o', 'deg'),
-          '\xb1' : ('+-', 'plusmm'),
-          '\xb2' : ('2', 'sup2'),
-          '\xb3' : ('3', 'sup3'),
-          '\xb4' : ("'", 'acute'),
-          '\xb5' : ('u', 'micro'),
-          '\xb6' : ('P', 'para'),
-          '\xb7' : ('*', 'middot'),
-          '\xb8' : (',', 'cedil'),
-          '\xb9' : ('1', 'sup1'),
-          '\xba' : ('(th)', 'ordm'),
-          '\xbb' : ('>>', 'raquo'),
-          '\xbc' : ('1/4', 'frac14'),
-          '\xbd' : ('1/2', 'frac12'),
-          '\xbe' : ('3/4', 'frac34'),
-          '\xbf' : ('"_', 'iquest'),
-          '\xc0' : ('', "Agrave"),
-          '\xc1' : ('', "Aacute"),
-          '\xc2' : ('', "Acirc"),
-          '\xc3' : ('', "Atilde"),
-          '\xc4' : ('', "Auml"),
-          '\xc5' : ('', "Aring"),
-          '\xc6' : ('AE', "Aelig"),
-          '\xc7' : ('C', "Ccedil"),
-          '\xc8' : ('E', "Egrave"),
-          '\xc9' : ('E', "Eacute"),
-          '\xca' : ('E', "Ecirc"),
-          '\xcb' : ('E', "Euml"),
-          '\xcc' : ('I', "Igrave"),
-          '\xcd' : ('I', "Iacute"),
-          '\xce' : ('I', "Icirc"),
-          '\xcf' : ('I', "Iuml"),
-          '\xd0' : ('D', "Eth"),
-          '\xd1' : ('N', "Ntilde"),
-          '\xd2' : ('O', "Ograve"),
-          '\xd3' : ('O', "Oacute"),
-          '\xd4' : ('O', "Ocirc"),
-          '\xd5' : ('O', "Otilde"),
-          '\xd6' : ('O', "Ouml"),
-          '\xd7' : ('*', "times"),
-          '\xd8' : ('O', "Oslash"),
-          '\xd9' : ('U', "Ugrave"),
-          '\xda' : ('U', "Uacute"),
-          '\xdb' : ('U', "Ucirc"),
-          '\xdc' : ('U', "Uuml"),
-          '\xdd' : ('Y', "Yacute"),
-          '\xde' : ('b', "Thorn"),
-          '\xdf' : ('B', "szlig"),
-          '\xe0' : ('', "agrave"),
-          '\xe1' : ('', "aacute"),
-          '\xe2' : ('', "acirc"),
-          '\xe3' : ('', "atilde"),
-          '\xe4' : ('', "auml"),
-          '\xe5' : ('', "aring"),
-          '\xe6' : ('ae', "aelig"),
-          '\xe7' : ('c', "ccedil"),
-          '\xe8' : ('e', "egrave"),
-          '\xe9' : ('e', "eacute"),
-          '\xea' : ('e', "ecirc"),
-          '\xeb' : ('e', "euml"),
-          '\xec' : ('i', "igrave"),
-          '\xed' : ('i', "iacute"),
-          '\xee' : ('i', "icirc"),
-          '\xef' : ('i', "iuml"),
-          '\xf0' : ('o', "eth"),
-          '\xf1' : ('n', "ntilde"),
-          '\xf2' : ('o', "ograve"),
-          '\xf3' : ('o', "oacute"),
-          '\xf4' : ('o', "ocirc"),
-          '\xf5' : ('o', "otilde"),
-          '\xf6' : ('o', "ouml"),
-          '\xf7' : ('/', "divide"),
-          '\xf8' : ('o', "oslash"),
-          '\xf9' : ('u', "ugrave"),
-          '\xfa' : ('u', "uacute"),
-          '\xfb' : ('u', "ucirc"),
-          '\xfc' : ('u', "uuml"),
-          '\xfd' : ('y', "yacute"),
-          '\xfe' : ('b', "thorn"),
-          '\xff' : ('y', "yuml"),
-          }
+CHARS = {'\x80': ('', 'euro'),
+         '\x81': ' ',
+         '\x82': (',', 'sbquo'),
+         '\x83': ('f', 'fnof'),
+         '\x84': (',,', 'bdquo'),
+         '\x85': ('...', 'hellip'),
+         '\x86': ('+', 'dagger'),
+         '\x87': ('++', 'Dagger'),
+         '\x88': ('^', 'caret'),
+         '\x89': '%',
+         '\x8A': ('S', 'Scaron'),
+         '\x8B': ('<', 'lt;'),
+         '\x8C': ('OE', 'OElig'),
+         '\x8D': '-"',
+         '\x8E': 'Z',
+         '\x8F': '"-',
+         '\x90': '',
+         '\x91': ("'", 'lsquo'),
+         '\x92': ("'", 'rsquo'),
+         '\x93': ('-', 'ldquo'),
+         '\x94': (' ', 'rdquo'),
+         '\x95': ('*', 'bull'),
+         '\x96': ('-', 'ndash'),
+         '\x97': ('--', 'mdash'),
+         '\x98': ('~', 'tilde'),
+         '\x99': ('', 'trade'),  # changed for the convention version
+         '\x9a': ('s', 'scaron'),
+         '\x9b': ('>', 'gt'),
+         '\x9c': ('"', 'oelig'),
+         '\x9d': '"',
+         '\x9e': 'z',
+         '\x9f': ('Y', 'Yuml'),
+         '\xa0': (' ', 'nbsp'),
+         '\xa1': ('!', 'iexcl'),
+         '\xa2': ('c', 'cent'),
+         '\xa3': ('GBP', 'pound'),
+         '\xa4': ('$', 'curren'),  # This approximation is especially lame.
+         '\xa5': ('YEN', 'yen'),
+         '\xa6': ('|', 'brvbar'),
+         '\xa7': ('S', 'sect'),
+         '\xa8': ('..', 'uml'),
+         '\xa9': ('', 'copy'),
+         '\xaa': ('(th)', 'ordf'),
+         '\xab': ('<<', 'laquo'),
+         '\xac': ('!', 'not'),
+         '\xad': (' ', 'shy'),
+         '\xae': ('(R)', 'reg'),
+         '\xaf': ('-', 'macr'),
+         '\xb0': ('o', 'deg'),
+         '\xb1': ('+-', 'plusmm'),
+         '\xb2': ('2', 'sup2'),
+         '\xb3': ('3', 'sup3'),
+         '\xb4': ("'", 'acute'),
+         '\xb5': ('u', 'micro'),
+         '\xb6': ('P', 'para'),
+         '\xb7': ('*', 'middot'),
+         '\xb8': (',', 'cedil'),
+         '\xb9': ('1', 'sup1'),
+         '\xba': ('(th)', 'ordm'),
+         '\xbb': ('>>', 'raquo'),
+         '\xbc': ('1/4', 'frac14'),
+         '\xbd': ('1/2', 'frac12'),
+         '\xbe': ('3/4', 'frac34'),
+         '\xbf': ('"_', 'iquest'),
+         '\xc0': ('', "Agrave"),
+         '\xc1': ('', "Aacute"),
+         '\xc2': ('', "Acirc"),
+         '\xc3': ('', "Atilde"),
+         '\xc4': ('', "Auml"),
+         '\xc5': ('', "Aring"),
+         '\xc6': ('AE', "Aelig"),
+         '\xc7': ('C', "Ccedil"),
+         '\xc8': ('E', "Egrave"),
+         '\xc9': ('E', "Eacute"),
+         '\xca': ('E', "Ecirc"),
+         '\xcb': ('E', "Euml"),
+         '\xcc': ('I', "Igrave"),
+         '\xcd': ('I', "Iacute"),
+         '\xce': ('I', "Icirc"),
+         '\xcf': ('I', "Iuml"),
+         '\xd0': ('D', "Eth"),
+         '\xd1': ('N', "Ntilde"),
+         '\xd2': ('O', "Ograve"),
+         '\xd3': ('O', "Oacute"),
+         '\xd4': ('O', "Ocirc"),
+         '\xd5': ('O', "Otilde"),
+         '\xd6': ('O', "Ouml"),
+         '\xd7': ('*', "times"),
+         '\xd8': ('O', "Oslash"),
+         '\xd9': ('U', "Ugrave"),
+         '\xda': ('U', "Uacute"),
+         '\xdb': ('U', "Ucirc"),
+         '\xdc': ('U', "Uuml"),
+         '\xdd': ('Y', "Yacute"),
+         '\xde': ('b', "Thorn"),
+         '\xdf': ('B', "szlig"),
+         '\xe0': ('', "agrave"),
+         '\xe1': ('', "aacute"),
+         '\xe2': ('', "acirc"),
+         '\xe3': ('', "atilde"),
+         '\xe4': ('', "auml"),
+         '\xe5': ('', "aring"),
+         '\xe6': ('ae', "aelig"),
+         '\xe7': ('c', "ccedil"),
+         '\xe8': ('e', "egrave"),
+         '\xe9': ('e', "eacute"),
+         '\xea': ('e', "ecirc"),
+         '\xeb': ('e', "euml"),
+         '\xec': ('i', "igrave"),
+         '\xed': ('i', "iacute"),
+         '\xee': ('i', "icirc"),
+         '\xef': ('i', "iuml"),
+         '\xf0': ('o', "eth"),
+         '\xf1': ('n', "ntilde"),
+         '\xf2': ('o', "ograve"),
+         '\xf3': ('o', "oacute"),
+         '\xf4': ('o', "ocirc"),
+         '\xf5': ('o', "otilde"),
+         '\xf6': ('o', "ouml"),
+         '\xf7': ('/', "divide"),
+         '\xf8': ('o', "oslash"),
+         '\xf9': ('u', "ugrave"),
+         '\xfa': ('u', "uacute"),
+         '\xfb': ('u', "ucirc"),
+         '\xfc': ('u', "uuml"),
+         '\xfd': ('y', "yacute"),
+         '\xfe': ('b', "thorn"),
+         '\xff': ('y', "yuml"),
+         }
+
 
 def _makeRE(limit):
     """Returns a regular expression object that will match special characters
     up to the given limit."""
     return re.compile("([\x80-\\x%s])" % limit, re.M)
+
+
 ALL = _makeRE('ff')
 ONLY_WINDOWS = _makeRE('9f')
+
 
 def _replHTML(match):
     "Replace the matched character with its HTML equivalent."
     return _repl(match, 1)
-          
+
+
 def _repl(match, html=0):
     "Replace the matched character with its HTML or ASCII equivalent."
     g = match.group(0)
-    a = CHARS.get(g,g)
+    a = CHARS.get(g, g)
     if type(a) == types.TupleType:
         a = a[html]
         if html:
             a = '&' + a + ';'
     return a
 
+
 def _dammit(t, html=0, fixWindowsOnly=0):
     "Turns ISO-Latin-1 into an ASCII representation, dammit."
     if(type(t) == unicode):
-      t = t.encode('raw_unicode_escape')
+        t = t.encode('raw_unicode_escape')
     r = ALL
     if fixWindowsOnly:
         r = ONLY_WINDOWS
@@ -193,13 +199,16 @@ def _dammit(t, html=0, fixWindowsOnly=0):
 
     return re.sub(r, m, t)
 
+
 def asciiDammit(t, fixWindowsOnly=0):
     "Turns ISO-Latin-1 into a plain ASCII approximation, dammit."
     return _dammit(t, 0, fixWindowsOnly)
 
+
 def htmlDammit(t, fixWindowsOnly=0):
     "Turns ISO-Latin-1 into plain ASCII with HTML codes, dammit."
     return _dammit(t, 1, fixWindowsOnly=fixWindowsOnly)
+
 
 def demoronise(t):
     """Helper method named in honor of the original smart quotes
@@ -207,6 +216,7 @@ def demoronise(t):
 
     http://www.fourmilab.ch/webtools/demoroniser/"""
     return asciiDammit(t, 1)
+
 
 if __name__ == '__main__':
     french = '\x93Sacr\xe9 bleu!\x93'

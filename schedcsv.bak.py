@@ -1,22 +1,30 @@
 #!/usr/bin/env python
-import csv, json, sys, re, os
-from operator import itemgetter#, attrgetter
+import csv
+import json
+import sys
+import re
+import os
+from operator import itemgetter  # , attrgetter
 #from git import *
 
-#from bs4 import BeautifulSoup  
-## I had hoped to use BeautifulSoup to help clean up the output
+#from bs4 import BeautifulSoup
+# I had hoped to use BeautifulSoup to help clean up the output
 
-### the purpose of this script is to parse a csv file from a sched.org event,
-### output the relevent information into useful output files that can be use for a convention.
+# the purpose of this script is to parse a csv file from a sched.org event,
+# output the relevent information into useful output files that can be use for a convention.
 
 """TrifoldSched is a class to be used to help organize the schedule for use
 in the trifold schedule"""
+
+
 class TrifoldSched:
     pass
+
+
 # is the file being listed in the command line?
 if len(sys.argv) > 1:
     filename = sys.argv[1]
-    
+
 else:
     # if not then use penguicon.csv as a default
     filename = "sched.csv"
@@ -86,17 +94,21 @@ speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,
 all_weekend_header = "ALL WEEKEND"
 
 # replace all function to help with the clean up
+
+
 def replace_all(text, dic):
     for i, j in dic.iteritems():
         text = text.replace(i, j)
     return text
 
-### from http://love-python.blogspot.com/2008/02/read-csv-file-in-python.html then edited 
-#read in the csv file and 
+# from http://love-python.blogspot.com/2008/02/read-csv-file-in-python.html then edited
+# read in the csv file and
+
+
 class readInCSV:
-    def __init__(self,fileName):
+    def __init__(self, fileName):
         self.fileName = fileName
-        self.fileReader = csv.reader(open(self.fileName, "rb"), delimiter = ',')
+        self.fileReader = csv.reader(open(self.fileName, "rb"), delimiter=',')
         self.schedule = []
         for data in self.fileReader:
             self.schedule.append(data)
@@ -105,6 +117,7 @@ class readInCSV:
         for index, header in enumerate(self.headers):
             self.headerdict[header] = index
         self.schedule.pop(0)   # remove header line from data
+
 
 def calcduration(startday, starttime, endday, endtime, minutes):
     #print "in calc duration start day ", startday
@@ -124,7 +137,7 @@ def calcduration(startday, starttime, endday, endtime, minutes):
         hourstext = str(hours) + " hours"
     if hours > 0:
         if minutes != "00":
-            duration = hourstext +" and " + minutes + " minutes"
+            duration = hourstext + " and " + minutes + " minutes"
         else:
             duration = hourstext
     else:
@@ -133,51 +146,56 @@ def calcduration(startday, starttime, endday, endtime, minutes):
     totalminutes = (hours * 60) + int(minutes)
     return duration, hours, minutes, totalminutes
 
-### taken from http://www.codigomanso.com/en/2011/05/trucomanso-transformar-el-tiempo-en-formato-24h-a-formato-12h-python/ then edited
-def ampmformat (hhmmss):
-  """
-    This method converts time in 24h format to 12h format
-    Example:   "00:32" is "12:32 AM"
-               "13:33" is "1:33 PM"
-  """
-  ampm = hhmmss.split (":")
-  if (len(ampm) == 0) or (len(ampm) > 3):
-    return hhmmss
+# taken from http://www.codigomanso.com/en/2011/05/trucomanso-transformar-el-tiempo-en-formato-24h-a-formato-12h-python/ then edited
 
-  # is AM? from [00:00, 12:00]
+
+def ampmformat(hhmmss):
+    """
+      This method converts time in 24h format to 12h format
+      Example:   "00:32" is "12:32 AM"
+                 "13:33" is "1:33 PM"
+    """
+    ampm = hhmmss.split(":")
+    if (len(ampm) == 0) or (len(ampm) > 3):
+        return hhmmss
+
+    # is AM? from [00:00, 12:00]
 #  print "ampm " + ampm[0]
-  hour = int(ampm[0]) % 24
-  isam = (hour >= 0) and (hour < 12)
+    hour = int(ampm[0]) % 24
+    isam = (hour >= 0) and (hour < 12)
 
-  # 00:32 should be 12:32 AM not 00:32
-  if isam:
-    ampm[0] = ('12' if (hour == 0) else "%02d" % (hour))
-  else:
-    ampm[0] = ('12' if (hour == 12) else "%02d" % (hour-12))
-  ret = ':'.join (ampm)[:-3] + (' AM' if isam else ' PM')
-  if ret[0] == "0":
-      return ret[1:]
-  else:
-      return ret
+    # 00:32 should be 12:32 AM not 00:32
+    if isam:
+        ampm[0] = ('12' if (hour == 0) else "%02d" % (hour))
+    else:
+        ampm[0] = ('12' if (hour == 12) else "%02d" % (hour-12))
+    ret = ':'.join(ampm)[:-3] + (' AM' if isam else ' PM')
+    if ret[0] == "0":
+        return ret[1:]
+    else:
+        return ret
 ###
 
-## eventually it would be good to use another class and then send the data to a templating engine to render it
-#class pconsessions:
+# eventually it would be good to use another class and then send the data to a templating engine to render it
+# class pconsessions:
 #    def __init__(self, ):
+
 
 pconsched = readInCSV(filename)
 
-## 2015 fields
-fields =  ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track", "Title", "Presenters", "Book Description", "All Day Event", "Private", "AV Needs"]
-## fields needed for google calendar
-calfields = ["Subject", "Start Date", "Start Time", "End Date", "End Time", "All Day Event", "Description", "Location", "Private"]
+# 2015 fields
+fields = ["Start Date", "Start Time", "End Date", "End Time", "Location", "Track",
+          "Title", "Presenters", "Book Description", "All Day Event", "Private", "AV Needs"]
+# fields needed for google calendar
+calfields = ["Subject", "Start Date", "Start Time", "End Date",
+             "End Time", "All Day Event", "Description", "Location", "Private"]
 
-sessions = [] # list of sessions...empty so far!
-speakers = [] # list of speakers...empty as well. imagine that
+sessions = []  # list of sessions...empty so far!
+speakers = []  # list of speakers...empty as well. imagine that
 speakernosplist = []
 #speaker_events_dict[speakernosp] = []
 tracks = []   # list of tracks
-tracksdict = {}   # for use in creating a dictionary of tracks with no space in their name 
+tracksdict = {}   # for use in creating a dictionary of tracks with no space in their name
 rooms = []
 roomsdict = {}
 speakerdict = {}
@@ -185,19 +203,19 @@ hourslist = {}
 speaker_events_dict = {}
 # go through the schedule row by row
 for index, x in enumerate(pconsched.schedule):
-    # (re)initialize a session dictionary object
-    session = {} 
+        # (re)initialize a session dictionary object
+    session = {}
     # for each field grab the data and put it in the session dictionary
     for field in fields:
         # bring the field info into a variable to help keep the code clean
         fieldtext = pconsched.schedule[index][pconsched.headerdict[field]]
 
         # separate the time and day into different variables
-        
+
         session['input'] = x
         session['index'] = index
-        ##start day and time assignments
-        if  (field == "Start Date"):
+        # start day and time assignments
+        if (field == "Start Date"):
             session['startday'] = fieldtext
             if (fieldtext == friday_date):
                 session['dayheader'] = friday_header
@@ -205,126 +223,129 @@ for index, x in enumerate(pconsched.schedule):
                 session['dayheader'] = saturday_header
             if (fieldtext == sunday_date):
                 session['dayheader'] = sunday_header
-                
+
             #print fieldtext
 
-        if  (field == "Start Time"):
+        if (field == "Start Time"):
             if fieldtext != "Start Time":
                 session['starttime'] = fieldtext
                 session['event_start'] = fieldtext
                 #print fieldtext
-                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]   
-                session['starttimeampm'] = ampmformat(session['starttime']) 
-            else:   
+                #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
+                session['starttimeampm'] = ampmformat(session['starttime'])
+            else:
                 session['starttime'] = "event_start"
                 session['event_start'] = "event_start"
                 session['starttimeampm'] = "starttime am/pm"
-            
-                
 
-        if  (field == "End Date"):
+        if (field == "End Date"):
             session['endday'] = fieldtext
 
-        if  (field == "End Time"):
+        if (field == "End Time"):
             if fieldtext != "End Time":
                 session['endtime'] = fieldtext
                 #print "setting endtime " + fieldtext
-                session['event_end'] = fieldtext            
+                session['event_end'] = fieldtext
                 #session['starttime']= fieldtext[len(fieldtext)-fieldtext.find(" ") +2:]
-                session['endtimeampm'] = ampmformat(session['endtime']) 
-            else:   
+                session['endtimeampm'] = ampmformat(session['endtime'])
+            else:
                 session['endtime'] = "event_end"
                 session['event_end'] = "event_end"
                 session['endtimeampm'] = "endtime am/pm"
 
-        if  (field == "Book Description"): 
-                    session['description'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
-        if  (field == "Location"):
-            session['venue'] = re.sub(r'\n',', ', fieldtext).strip(', \t\n\r')
-            temproom = re.sub(r'\s','', fieldtext)
-            temproom = re.sub(r'\(','', temproom)
-            temproom = re.sub(r'\)','', temproom)
-            temproom = re.sub(r'/','', temproom)
+        if (field == "Book Description"):
+            session['description'] = re.sub(r', , ', ', ', re.sub(
+                r',,', ', ', re.sub(r'\n', ', ', fieldtext))).strip(', \t\n\r')
+        if (field == "Location"):
+            session['venue'] = re.sub(r'\n', ', ', fieldtext).strip(', \t\n\r')
+            temproom = re.sub(r'\s', '', fieldtext)
+            temproom = re.sub(r'\(', '', temproom)
+            temproom = re.sub(r'\)', '', temproom)
+            temproom = re.sub(r'/', '', temproom)
             if temproom == '':
                 temproom = "Hotel"
             session['roomnosp'] = temproom
             if fieldtext not in rooms:
-              rooms.append(fieldtext)
-              roomsdict[fieldtext] = temproom
-        if  (field == "Presenters"):
-            session['speakers'] = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))).strip(', \t\n\r')
-        if  (field == "Title"):
-            session['name'] = re.sub(r'"','\'' ,re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', fieldtext))))
+                rooms.append(fieldtext)
+                roomsdict[fieldtext] = temproom
+        if (field == "Presenters"):
+            session['speakers'] = re.sub(r', , ', ', ', re.sub(
+                r',,', ', ', re.sub(r'\n', ', ', fieldtext))).strip(', \t\n\r')
+        if (field == "Title"):
+            session['name'] = re.sub(r'"', '\'', re.sub(
+                r', , ', ', ', re.sub(r',,', ', ', re.sub(r'\n', ', ', fieldtext))))
             temptext = replace_all(fieldtext, addamps)
-            temptext = re.sub(r', , ',', ' ,re.sub(r',,',', ' ,re.sub(r'\n',', ', temptext))).strip(', \t\n\r')
+            temptext = re.sub(r', , ', ', ', re.sub(
+                r',,', ', ', re.sub(r'\n', ', ', temptext))).strip(', \t\n\r')
             session['bookname'] = temptext
 
-        if  (field == "Track"):
+        if (field == "Track"):
             session['event_type'] = fieldtext.strip(', \t\n\r')
             session['event_type_list'] = fieldtext.split(", ")
             session['tracknosp'] = []
             for eventtype in session['event_type_list']:
-                temptrack = re.sub(r'\s','', eventtype)
-                temptrack = re.sub(r'\(','', temptrack)
-                temptrack = re.sub(r'\)','', temptrack)
-                temptrack = re.sub(r'/','', temptrack)
+                temptrack = re.sub(r'\s', '', eventtype)
+                temptrack = re.sub(r'\(', '', temptrack)
+                temptrack = re.sub(r'\)', '', temptrack)
+                temptrack = re.sub(r'/', '', temptrack)
                 #print temptrack
                 session['tracknosp'].append(temptrack)
                 if eventtype not in tracks:
-                  tracks.append(eventtype)
-                  tracksdict[eventtype] = temptrack
-        if  (field == "All Day Event"):
-            if  (fieldtext == ""):
-              session['allday'] = "FALSE"
+                    tracks.append(eventtype)
+                    tracksdict[eventtype] = temptrack
+        if (field == "All Day Event"):
+            if (fieldtext == ""):
+                session['allday'] = "FALSE"
             else:
-              session['allday'] = fieldtext 
-        if  (field == "Private"):
-            if  (fieldtext == ""):
-              session['private'] = "DEFAULT"
+                session['allday'] = fieldtext
+        if (field == "Private"):
+            if (fieldtext == ""):
+                session['private'] = "DEFAULT"
             else:
-              session['private'] = "PUBLIC"#fieldtext
+                session['private'] = "PUBLIC"  # fieldtext
         if (field == "AV Needs"):
-            if  (fieldtext == ""):
-              session['avneeds'] = "none"
+            if (fieldtext == ""):
+                session['avneeds'] = "none"
             else:
-              session['avneeds'] = fieldtext
-        ## remove the beginning portion of http and mail links 
+                session['avneeds'] = fieldtext
+        # remove the beginning portion of http and mail links
         if fieldtext.find("<a") > 0:
             substart = fieldtext.find("href")-3
-            subend = fieldtext.find(">",substart)+1
+            subend = fieldtext.find(">", substart)+1
             fieldtext = fieldtext.replace(fieldtext[substart: subend], "")
 
-        ## this is clean up below was required because the sched output 
-        ## included some html symbols and tags which would not have looked
-        ## good in the program book
+        # this is clean up below was required because the sched output
+        # included some html symbols and tags which would not have looked
+        # good in the program book
         # dictionary of the other text to be converted to clean up the sched.org output
-        reps = {"&nbsp;":" ", "<br />":"", "&":" and ", "&amp;":" and ", "<p>":"", "</p>":"", "</a>":"", "&ldquo;":"\"", "&rdquo;":"\"", "&rsquo;":"\'", "&ndash;":"-", "\n":" ", "  ":" ", "\r":" "}
-        amps = {"&":" and ", "  ":" "}
-        quoterep = {"\"":"'"}
-        addamps = {"&":"&amp;", "\n":" "}
-        commarep = {",":"-","\n":" "}
+        reps = {"&nbsp;": " ", "<br />": "", "&": " and ", "&amp;": " and ", "<p>": "", "</p>": "", "</a>": "",
+                "&ldquo;": "\"", "&rdquo;": "\"", "&rsquo;": "\'", "&ndash;": "-", "\n": " ", "  ": " ", "\r": " "}
+        amps = {"&": " and ", "  ": " "}
+        quoterep = {"\"": "'"}
+        addamps = {"&": "&amp;", "\n": " "}
+        commarep = {",": "-", "\n": " "}
         # do the replacements and put the values into the proper session field
         temptext = replace_all(fieldtext, reps)
         temptext = replace_all(temptext, amps)
 #        temptext.replace(os.linesep, " ")
         session[field] = replace_all(temptext, amps)
         if field == "Book Description":
-            temptext = replace_all(fieldtext, quoterep)         
+            temptext = replace_all(fieldtext, quoterep)
             session['caldescrip'] = temptext
             temptext = replace_all(temptext, commarep)
             session['csvsafedescrip'] = temptext
-            temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')         
+            temptext = replace_all(fieldtext.strip('\n'), addamps).strip(', \t\n\r')
             session['bookdescrip'] = temptext
         if field == "Presenters":
-            temptext = replace_all(fieldtext, quoterep)         
-            session['calspeakers'] = re.sub(r'\n',',', temptext).strip(', \t\n\r')
+            temptext = replace_all(fieldtext, quoterep)
+            session['calspeakers'] = re.sub(r'\n', ',', temptext).strip(', \t\n\r')
 #        if field == "speakers":
         if field == "Presenters":
             testtext = fieldtext.split(', ')
-            #for x in testtext:
+            # for x in testtext:
             #    print x
 # this first one is a for the first entry which is intentionally dummy data
-    if (session['starttime'] ==  "event_start") or (session['startday'] ==  "Start Day"):
+    if (session['starttime'] == "event_start") or (session['startday'] == "Start Day"):
         session['duration'] = "duration"
         #print "duration"
         session['hours'] = 0
@@ -333,7 +354,7 @@ for index, x in enumerate(pconsched.schedule):
         session['avneeds'] = "none"
     else:
         ##print session['name']
-        #print "start day " + session['startday'][2:-5] 
+        #print "start day " + session['startday'][2:-5]
         #print "start time " + session['starttime'][:-3]
         #print "end day " + session['endday'][2:-5]
         ##print "end time " + session['endtime'][-5:-3]
@@ -341,63 +362,63 @@ for index, x in enumerate(pconsched.schedule):
         #print "event_start " + session['event_start']
         #print "event_end " + session['event_end']
 
-        session['duration'], session['hours'], session['minutes'], session['totalminutes']  = calcduration(int(session['startday'][2:-5]), int(session['starttime'][:-3]) , int(session['endday'][2:-5]) , int(session['endtime'][-5:-3]), session['endtime'][-2:])
-   
-    
+        session['duration'], session['hours'], session['minutes'], session['totalminutes'] = calcduration(int(
+            session['startday'][2:-5]), int(session['starttime'][:-3]), int(session['endday'][2:-5]), int(session['endtime'][-5:-3]), session['endtime'][-2:])
+
     session['speakerlist'] = session['speakers'].split(", ")
     session['speakernosp'] = ""
     for speaker in session['speakerlist']:
-            tempspeaker = re.sub(r'\s','', speaker)
-            tempspeaker = re.sub(r'\(','', tempspeaker)
-            tempspeaker = re.sub(r'\)','', tempspeaker)
-            tempspeaker = re.sub(r'/','', tempspeaker)
-            tempspeaker = re.sub(r'"','-', tempspeaker).strip('., \t\n\r')
-            if session['speakernosp'] == "":
-                session['speakernosp'] = session['speakernosp'] + tempspeaker
-            else:
-                session['speakernosp'] = session['speakernosp'] + "," + tempspeaker
+        tempspeaker = re.sub(r'\s', '', speaker)
+        tempspeaker = re.sub(r'\(', '', tempspeaker)
+        tempspeaker = re.sub(r'\)', '', tempspeaker)
+        tempspeaker = re.sub(r'/', '', tempspeaker)
+        tempspeaker = re.sub(r'"', '-', tempspeaker).strip('., \t\n\r')
+        if session['speakernosp'] == "":
+            session['speakernosp'] = session['speakernosp'] + tempspeaker
+        else:
+            session['speakernosp'] = session['speakernosp'] + "," + tempspeaker
     session['speakernosplist'] = session['speakernosp'].split(",")
     for speaker in session['speakerlist']:
-      if speaker != "":
-        if speaker not in speakers:
-            speakers.append(speaker)
-            speakerdict[speaker] = session['totalminutes']
-            #speaker_events_dict[speaker].append(session['name'])
-            #print speaker, session['name']
-            
-        else:
-            speakerdict[speaker] += session['totalminutes']
-            #speaker_events_dict[speaker].append(session['name'])
-            #print speaker, session['name']
+        if speaker != "":
+            if speaker not in speakers:
+                speakers.append(speaker)
+                speakerdict[speaker] = session['totalminutes']
+                # speaker_events_dict[speaker].append(session['name'])
+                #print speaker, session['name']
+
+            else:
+                speakerdict[speaker] += session['totalminutes']
+                # speaker_events_dict[speaker].append(session['name'])
+                #print speaker, session['name']
     for speakernosp in session['speakernosplist']:
-      if (speakernosp != ""):
-        if speakernosp not in speakernosplist:
-            #speakers.append(speaker)
-            #speakerdict[speaker] = session['totalminutes']
-            speaker_events_dict[speakernosp] = []
-            speaker_events_dict[speakernosp].append(session['name'])
-            #print speaker, session['name']
-            
-        else:
-            #speakerdict[speaker] += session['totalminutes']
-            speaker_events_dict[speakernosp].append(session['name'])
-            #print speaker, session['name']
-            
+        if (speakernosp != ""):
+            if speakernosp not in speakernosplist:
+                # speakers.append(speaker)
+                #speakerdict[speaker] = session['totalminutes']
+                speaker_events_dict[speakernosp] = []
+                speaker_events_dict[speakernosp].append(session['name'])
+                #print speaker, session['name']
+
+            else:
+                #speakerdict[speaker] += session['totalminutes']
+                speaker_events_dict[speakernosp].append(session['name'])
+                #print speaker, session['name']
+
     # add the session to the list of sessions
     sessions.append(session)
 
-## sort the list of sessions here by day then by time.
+# sort the list of sessions here by day then by time.
 # if the spreadsheet is in order use the index for sorting
 # otherwise implement an index for the sessions in another ways
 sessions.sort(key=itemgetter('index'))
 
-# old n busted sort 
-##sessions.sort(key=itemgetter('venue'))
-#sessions.sort(key=itemgetter('startday','starttime','venue'))
-##sessions.sort(key=itemgetter('starttime'))
-##sessions.sort(key=itemgetter('startday'))
+# old n busted sort
+# sessions.sort(key=itemgetter('venue'))
+# sessions.sort(key=itemgetter('startday','starttime','venue'))
+# sessions.sort(key=itemgetter('starttime'))
+# sessions.sort(key=itemgetter('startday'))
 ##sessions.sort(key=itemgetter('allday'), reverse=True)
-#sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue'] + thing['name']) ## thanks Walter!
+# sessions = sorted(sessions, key=lambda thing: ('0' if thing['allday'] else '1')  + thing['startday'] + thing['starttimeampm'] + thing['venue'] + thing['name']) ## thanks Walter!
 
 #sessions.sort(key=itemgetter('allday'), reverse=True)
 
@@ -405,9 +426,9 @@ sessions.sort(key=itemgetter('index'))
 rooms.sort()
 alphabetical_rooms = {}
 for room in rooms:
-    alphabetical_rooms[room] = {'name':room,'Friday':{},'Saturday':{},'Sunday':{}}
-    
-speakers.sort()    
+    alphabetical_rooms[room] = {'name': room, 'Friday': {}, 'Saturday': {}, 'Sunday': {}}
+
+speakers.sort()
 tempstart = "test"
 
 """
@@ -424,102 +445,102 @@ output setions below
 
 """
 rp = "./output/"
-caldir = rp +"calendars/"
+caldir = rp + "calendars/"
 schedulebyroomdir = rp + "schedbyroom/"
-speakerdir = rp +"schedbyspeaker/"
+speakerdir = rp + "schedbyspeaker/"
 if not os.path.exists(rp):
     os.makedirs(rp)
 if not os.path.exists(caldir):
-    os.makedirs(caldir)  
+    os.makedirs(caldir)
 if not os.path.exists(schedulebyroomdir):
     os.makedirs(schedulebyroomdir)
 if not os.path.exists(speakerdir):
-    os.makedirs(speakerdir)  
-## dump to a json file
-with open(rp + conyear + ".penguicon.schedule.alldata.json",'w') as myoutput:
+    os.makedirs(speakerdir)
+# dump to a json file
+with open(rp + conyear + ".penguicon.schedule.alldata.json", 'w') as myoutput:
     json.dump(sessions, myoutput, indent=4, separators=(',', ': '))
-with open(rp + conyear + ".penguicon.schedule.json",'w') as myoutput:
-    fields = {"location":"Location", "book_description":"Book Description", \
-              "title":"Title", "track":"Track", "minutes":"totalminutes", \
-              "start_date":"Start Date", "end_date":"End Date", \
-              "start_time":"starttime", "end_time":"endtime",
-              "presenters":"speakerlist"
-    }
+with open(rp + conyear + ".penguicon.schedule.json", 'w') as myoutput:
+    fields = {"location": "Location", "book_description": "Book Description",
+              "title": "Title", "track": "Track", "minutes": "totalminutes",
+              "start_date": "Start Date", "end_date": "End Date",
+              "start_time": "starttime", "end_time": "endtime",
+              "presenters": "speakerlist"
+              }
     json_output = [
-        {k: y.get(ok,'') for k,ok in fields.items()}
+        {k: y.get(ok, '') for k, ok in fields.items()}
         for y in sessions
     ]
     json.dump(json_output, myoutput, indent=4, separators=(',', ': '))
-## for each session in the list of sessions 
-#"""
-with open(rp + conyear + ".penguicon.schedule.alltimes.xml",'w') as myoutput:
-  with open(rp + conyear + ".penguicon.schedule.allrooms.mixedin.xml",'w') as schedbyroom:
-    for index, y in enumerate(sessions):
-#      print y
-      if constart != y['event_start'] and "duration" != y['duration']:
-        if tempstart == "test":
-            heading = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
-            myoutput.write(heading)
-            schedbyroom.write(heading)
-        #print y
-        if not y['All Day Event'] == tempstart:
-            if y['All Day Event'] == "TRUE" :
-                myoutput.write("\n<day>All Weekend</day>\n")
-            else:
-                temptext = "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
-                myoutput.write(temptext)
-            tempstart = y['event_start']
+# for each session in the list of sessions
+# """
+with open(rp + conyear + ".penguicon.schedule.alltimes.xml", 'w') as myoutput:
+    with open(rp + conyear + ".penguicon.schedule.allrooms.mixedin.xml", 'w') as schedbyroom:
+        for index, y in enumerate(sessions):
+            #      print y
+            if constart != y['event_start'] and "duration" != y['duration']:
+                if tempstart == "test":
+                    heading = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
+                    myoutput.write(heading)
+                    schedbyroom.write(heading)
+                #print y
+                if not y['All Day Event'] == tempstart:
+                    if y['All Day Event'] == "TRUE":
+                        myoutput.write("\n<day>All Weekend</day>\n")
+                    else:
+                        temptext = "\n<day>" + y['dayheader'] + \
+                            "</day>\n<time>" + y['starttimeampm'] + "</time>\n"
+                        myoutput.write(temptext)
+                    tempstart = y['event_start']
 
-        if "50 minutes" == y['duration']:
-            myoutput.write(hourtemplate % y)
-            schedbyroom.write(schedule_by_room_hour_template % y)
-        elif "" == y['venue']:
-            myoutput.write(programbook_template_no_room % y)
-            schedbyroom.write(schedule_by_room % y)
-        else: 
-            myoutput.write(programbook_template % y)
-            schedbyroom.write(schedule_by_room % y)
+                if "50 minutes" == y['duration']:
+                    myoutput.write(hourtemplate % y)
+                    schedbyroom.write(schedule_by_room_hour_template % y)
+                elif "" == y['venue']:
+                    myoutput.write(programbook_template_no_room % y)
+                    schedbyroom.write(schedule_by_room % y)
+                else:
+                    myoutput.write(programbook_template % y)
+                    schedbyroom.write(schedule_by_room % y)
 
-    myoutput.write('</events>\n')
-    schedbyroom.write('</events>\n')
+        myoutput.write('</events>\n')
+        schedbyroom.write('</events>\n')
 myoutput.close()
-#"""
-
+# """
 
 
 # schedule by room and by speaker output
 
-with open( rp + conyear + ".penguicon.fullschedule.csv",'w') as fullschedule:
-    fullschedule.write(schedule_header) # schedule_header needs to be written
+with open(rp + conyear + ".penguicon.fullschedule.csv", 'w') as fullschedule:
+    fullschedule.write(schedule_header)  # schedule_header needs to be written
     for room in roomsdict:
-        with open(schedulebyroomdir + roomsdict[room] + ".csv",'w') as temproomsched:
+        with open(schedulebyroomdir + roomsdict[room] + ".csv", 'w') as temproomsched:
             temproomsched.write(schedule_header)
             temproomsched.close()
     for index, y in enumerate(sessions):
-      for speakernosp in y['speakernosplist']:
-        if speakernosp != '':
-            with open(speakerdir  + speakernosp + ".csv",'w') as tempspeakersched:        
-            #with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
-                tempspeakersched.write(calendar_header)
-                tempspeakersched.close()
+        for speakernosp in y['speakernosplist']:
+            if speakernosp != '':
+                with open(speakerdir + speakernosp + ".csv", 'w') as tempspeakersched:
+                    # with open(speakerdir + speakernosplist[speakernosp] + ".cvs", 'w') as tempspeakersched:
+                    tempspeakersched.write(calendar_header)
+                    tempspeakersched.close()
     for index, y in enumerate(sessions):
-        #if not y['All Day Event'] == 'All Day Event':
-            fullschedule.write(schedule_csv_template % y)
-            with open(schedulebyroomdir + y['roomnosp'] + ".csv",'a') as temproomsched:
-                temproomsched.write(schedule_csv_template % y)
-            temproomsched.close()
-            for speaker in y['speakernosplist']:
-                if speaker != '':
-                    #print speaker
-                    with open(speakerdir  + speaker + ".csv",'a') as tempspeakersched:
-                        tempspeakersched.write(speaker_calendar_template % y)
-                tempspeakersched.close()
+            # if not y['All Day Event'] == 'All Day Event':
+        fullschedule.write(schedule_csv_template % y)
+        with open(schedulebyroomdir + y['roomnosp'] + ".csv", 'a') as temproomsched:
+            temproomsched.write(schedule_csv_template % y)
+        temproomsched.close()
+        for speaker in y['speakernosplist']:
+            if speaker != '':
+                #print speaker
+                with open(speakerdir + speaker + ".csv", 'a') as tempspeakersched:
+                    tempspeakersched.write(speaker_calendar_template % y)
+            tempspeakersched.close()
 
 fullschedule.close()
 
-with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeaker:
-    with open(rp + conyear + ".penguicon.speakers.txt",'w') as fullspeakerlist:
-        with open(rp + conyear + ".penguicon.speakers.with.minutes.txt",'w') as fullspeaker:
+with open(rp + conyear + ".penguicon.speakers.3plus.txt", 'w') as discountedspeaker:
+    with open(rp + conyear + ".penguicon.speakers.txt", 'w') as fullspeakerlist:
+        with open(rp + conyear + ".penguicon.speakers.with.minutes.txt", 'w') as fullspeaker:
             for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k, v)):
                 if value >= 150:
                     discountedspeaker.write("%s\n" % (key))
@@ -529,26 +550,26 @@ with open(rp + conyear + ".penguicon.speakers.3plus.txt",'w') as discountedspeak
 fullspeaker.close()
 discountedspeaker.close()
 fullspkrlist = []
-with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt",'w') as dscountedspkr:
-  with open(rp + conyear + ".penguicon.spkrs.bylast.txt",'w') as fullspkr:
-    for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k,v)):
-        if value >= 150:
-            dscountedspkr.write("%s\n" % (key))
-        fullspkrlist.append( str(value)+ " "+ key)
-        #fullspkr.write("%s\n" % (key, value))
-    for x in sorted(fullspkrlist):
-        fullspkr.write("%s\n" % (x) )
+with open(rp + conyear + ".penguicon.spkrs.bylast.3plus.txt", 'w') as dscountedspkr:
+    with open(rp + conyear + ".penguicon.spkrs.bylast.txt", 'w') as fullspkr:
+        for key, value in sorted(speakerdict.iteritems(), key=lambda (k, v): (k, v)):
+            if value >= 150:
+                dscountedspkr.write("%s\n" % (key))
+            fullspkrlist.append(str(value) + " " + key)
+            #fullspkr.write("%s\n" % (key, value))
+        for x in sorted(fullspkrlist):
+            fullspkr.write("%s\n" % (x))
 
 fullspkr.close()
 dscountedspkr.close()
 
 # one calendar per track/type of programming
 #  also output the full calendar
-with open( caldir + conyear + ".penguicon.fullcalendar.csv",'w') as fullcalendar:
-  #with open(caldir + conyear + ".penguicon.speakers.txt",'w') as fullspeaker:
+with open(caldir + conyear + ".penguicon.fullcalendar.csv", 'w') as fullcalendar:
+    # with open(caldir + conyear + ".penguicon.speakers.txt",'w') as fullspeaker:
     fullcalendar.write(calendar_header)
     for track in tracks:
-        with open(caldir + tracksdict[track] + ".csv",'w') as tempcal:
+        with open(caldir + tracksdict[track] + ".csv", 'w') as tempcal:
             tempcal.write(calendar_header)
             tempcal.close()
     for index, y in enumerate(sessions):
@@ -556,14 +577,14 @@ with open( caldir + conyear + ".penguicon.fullcalendar.csv",'w') as fullcalendar
             fullcalendar.write(calendar_template % y)
             #print y['tracknosp']
             for caltrack in y['tracknosp']:
-              with open(caldir + caltrack + ".csv",'a') as tempcal:
-                tempcal.write(calendar_template % y)
-              tempcal.close()
+                with open(caldir + caltrack + ".csv", 'a') as tempcal:
+                    tempcal.write(calendar_template % y)
+                tempcal.close()
 
 fullcalendar.close()
-#fullcalendar.close()
+# fullcalendar.close()
 
-#with open(rp + "sessiondata.csv",'w') as sessiondata:
+# with open(rp + "sessiondata.csv",'w') as sessiondata:
 writer = csv.writer(open(rp + 'dict.csv', 'wb'))
 for index, y in enumerate(sessions):
     for key, value in y.items():
@@ -574,58 +595,56 @@ for index, y in enumerate(sessions):
 schedule by room
 """
 """ reset the tempstart variable so that the heading is added to the top of the files """
-tempstart = "test" 
+tempstart = "test"
 printallday = True
 
 sessions.sort(key=itemgetter('venue'))
-with open(rp + conyear + ".penguicon.schedule.roomorder.xml",'w') as myoutput:
-  with open(rp + conyear + ".penguicon.schedule.allrooms.xml",'w') as schedbyroom:
-    for index, y in enumerate(sessions):
-#      print y
-      if constart != y['event_start'] and "duration" != y['duration']:
-        if tempstart == "test":
-            heading =  "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
-            myoutput.write(heading)
-            schedbyroom.write(heading)
-        #print y
-        if not y['All Day Event'] == tempstart:
-            if y['All Day Event'] == "TRUE" and printallday:
-                myoutput.write("\n<day>All Weekend</day>\n")
-                schedbyroom.write("\n<day>All Weekend</day>\n") #schedule_by_room_allweekend_template
-                printallday = False
-            else:
-                temptext =  "\n<day>"+ y['dayheader'] + "</day>\n<time>"+ y['starttimeampm'] + "</time>\n"
-                myoutput.write(temptext)
-                
-            tempstart = y['event_start']
+with open(rp + conyear + ".penguicon.schedule.roomorder.xml", 'w') as myoutput:
+    with open(rp + conyear + ".penguicon.schedule.allrooms.xml", 'w') as schedbyroom:
+        for index, y in enumerate(sessions):
+            #      print y
+            if constart != y['event_start'] and "duration" != y['duration']:
+                if tempstart == "test":
+                    heading = "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?><events xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\">"
+                    myoutput.write(heading)
+                    schedbyroom.write(heading)
+                #print y
+                if not y['All Day Event'] == tempstart:
+                    if y['All Day Event'] == "TRUE" and printallday:
+                        myoutput.write("\n<day>All Weekend</day>\n")
+                        # schedule_by_room_allweekend_template
+                        schedbyroom.write("\n<day>All Weekend</day>\n")
+                        printallday = False
+                    else:
+                        temptext = "\n<day>" + y['dayheader'] + \
+                            "</day>\n<time>" + y['starttimeampm'] + "</time>\n"
+                        myoutput.write(temptext)
 
-        if "50 minutes" == y['duration']:
-            myoutput.write(hourtemplate % y)
-            schedbyroom.write(schedule_by_room_hour_template % y)
-        elif y['All Day Event'] == "TRUE":
-            myoutput.write(programbook_template_no_room % y)
-            schedbyroom.write(schedule_by_room_allweekend_template % y)
-        else: 
-            myoutput.write(programbook_template % y)
-            schedbyroom.write(schedule_by_room % y)
+                    tempstart = y['event_start']
 
-    myoutput.write('</events>\n')
-    schedbyroom.write('</events>\n')
+                if "50 minutes" == y['duration']:
+                    myoutput.write(hourtemplate % y)
+                    schedbyroom.write(schedule_by_room_hour_template % y)
+                elif y['All Day Event'] == "TRUE":
+                    myoutput.write(programbook_template_no_room % y)
+                    schedbyroom.write(schedule_by_room_allweekend_template % y)
+                else:
+                    myoutput.write(programbook_template % y)
+                    schedbyroom.write(schedule_by_room % y)
+
+        myoutput.write('</events>\n')
+        schedbyroom.write('</events>\n')
 myoutput.close()
-
-
 
 
 ### end schedule by room ###
 
 
-
-
 # write out the speakers and their events ...this doesn't work yet
-#speaker_events_dict
+# speaker_events_dict
 #writer = csv.writer(open(rp + 'speaker_events_dict.csv', 'wb'))
-#for x,y in enumerate(speaker_events_dict):
-#for key, value in speaker_events_dict.items():
+# for x,y in enumerate(speaker_events_dict):
+# for key, value in speaker_events_dict.items():
 #    writer.writerow([key, ', '.join(value)] )
 #    print key, "is in", len(value), " event(s) which is/are", ', '.join(value)
 
@@ -637,7 +656,7 @@ outputfile = open('penguicon.schedule.xml', 'w')
 # current time is set to the initial start time of 4 pm for the 2015 year... this could change year to year
 currenttime = '<time>4 PM</time>'
 
-# this line is used for 'all weekend events' 
+# this line is used for 'all weekend events'
 # which are typically listed in the beginning
 # before any other events in the program book
 # then the variable is reused in the loop
@@ -652,14 +671,14 @@ for row in inputfile:
             lasttime = row
     elif '<day>' in row:
         currentday = row
-        #if firstday == False:
+        # if firstday == False:
         if currentday != lastday:
             outputfile.write(row)
             lastday = row
-        #else:
+        # else:
         #    outputfile.write(row)
         #    firstday = False
-    else: # If this is not a time row
+    else:  # If this is not a time row
         outputfile.write(row)
 
 inputfile.close()
@@ -675,7 +694,7 @@ outputfile = open('penguicon.schedules.per.room.xml', 'w')
 # current room is set to the initial room which is currently no room... this could change year to year
 currentroom = '<room>Algonquin A</room>'
 
-# this line is used for 'all weekend events' 
+# this line is used for 'all weekend events'
 # which are typically listed in the beginning
 # before any other events in the program book
 # then the variable is reused in the loop
@@ -700,15 +719,15 @@ for row in inputfile:
         if currentday != lastday:
             outputfile.write(row)
             lastday = row
-        #if firstday == True:
+        # if firstday == True:
         #    outputfile.write(row)
         #    firstday = False
-        #else:
+        # else:
         #    print "made it here"
         #    print row
         #    outputfile.write(row)
         #    firstroom = False
-    else: # If this is not a time row
+    else:  # If this is not a time row
         outputfile.write(row)
 
 inputfile.close()
@@ -721,5 +740,5 @@ for x in rooms:
         x = "''"
     linetoprint.append(x)
 linetoprint = ",".join(linetoprint)
-TrifoldSched.firstline=linetoprint 
+TrifoldSched.firstline = linetoprint
 #print linetoprint
