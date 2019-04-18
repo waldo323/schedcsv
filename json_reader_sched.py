@@ -15,7 +15,6 @@ If this is imported it will use the default sched.csv file
 """
 import sys
 import  unicodecsv as csv
-import pprint
 
 # replace all function to help with the clean up
 def replace_all(text, dic):

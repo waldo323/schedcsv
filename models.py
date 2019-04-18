@@ -5,8 +5,7 @@ http://valchemist-inn.rhcloud.com/
 import sqlalchemy
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy import Column, Integer, Date, String, Table, Text, Float, ForeignKey
-from sqlalchemy.orm import sessionmaker, relationship, backref
+from sqlalchemy import Column, Date, ForeignKey, Integer, String, Text
 
 Base = declarative_base()
 
