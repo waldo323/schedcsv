@@ -132,7 +132,7 @@
         "track": "",
         "start_time": "13:00",
         "presenters": [
-            "Heather Williams"
+            "The Wandering Meeple"
         ],
         "location": "",
         "minutes": 120,
@@ -2787,6 +2787,20 @@
         "track": "",
         "start_time": "14:00",
         "presenters": [
+            "Liam McGlohon"
+        ],
+        "location": "",
+        "minutes": 240,
+        "start_date": "5/4/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "14:00",
+        "presenters": [
             "Nicole E. Castle",
             "Michael Cieslak"
         ],
@@ -3713,7 +3727,9 @@
         "track": "",
         "start_time": "18:00",
         "presenters": [
-            "David VanderMolen"
+            "David VanderMolen",
+            "Megan VanderMolen",
+            "Rory VanderMolen"
         ],
         "location": "",
         "minutes": 60,
@@ -5572,20 +5588,6 @@
         "minutes": 60,
         "start_date": "5/5/2019",
         "end_time": "15:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "14:00",
-        "presenters": [
-            "Liam McGlohon"
-        ],
-        "location": "",
-        "minutes": 240,
-        "start_date": "5/5/2019",
-        "end_time": "18:00"
     },
     {
         "book_description": "",
