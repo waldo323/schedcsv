@@ -1,11 +1,0 @@
---2019-04-12 00:23:44--  https://penguicon2019.sched.com/api/session/list?api_key=5ea81a81d7732d9c00787a401fce3d3a
-Resolving penguicon2019.sched.com (penguicon2019.sched.com)... 108.62.103.29
-Connecting to penguicon2019.sched.com (penguicon2019.sched.com)|108.62.103.29|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [application/vnd.ms-excel]
-Saving to: ‘sched.json’
-
-sched.json                                              [<=>                                                                                                               ]       0  --.-KB/s               sched.json                                              [ <=>                                                                                                              ] 190.31K  --.-KB/s    in 0.06s   
-
-2019-04-12 00:23:45 (2.92 MB/s) - ‘sched.json’ saved [194879]
-
