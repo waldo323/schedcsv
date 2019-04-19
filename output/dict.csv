@@ -178,7 +178,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['240', 'Y', 'Bazaar Quest', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'A D&D quest of greatness!', '', '', '', '', '0', '3', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', '64462397d6bc9a4b942c51398201f7e0', '931401', '', '', '', '', '', '']"
+input,"['240', 'Y', 'Bazaar Quest', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'A D&D quest of greatness!', '', '', '', '', '0', '4', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', '64462397d6bc9a4b942c51398201f7e0', '931401', '', '', '', '', '', '']"
 booklocation,Various Location
 calspeakers,
 avneeds,
@@ -218,7 +218,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['236', 'Y', 'Giant Jenga', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', ""It's your favorite party game, Jenga, but GIANT!"", '', '', '', '', '0', '3', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '67aa9fb8dcb7488f085624b7b9cf8b5b', '931404', '', '', '', '', '', '']"
+input,"['236', 'Y', 'Giant Jenga', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', ""It's your favorite party game, Jenga, but GIANT!"", '', '', '', '', '0', '4', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '67aa9fb8dcb7488f085624b7b9cf8b5b', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -258,7 +258,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '3', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
+input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '4', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -418,7 +418,7 @@ starttimeampm,3 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"FRIDAY, MAY 3"
-input,"['136', 'Y', 'Unpublished Prototype: GaiaVora', '2019-05-03 15:00:00', '2019-05-03 16:00:00', 'Gaming', '', 'BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!', '', '', '', '', '0', '6', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', 'cf2f06708ef64bf7af54d0d6b17d22a6', '931386', 'Nemo Rathwald', '', '', '', '', '']"
+input,"['136', 'Y', 'Unpublished Prototype: GaiaVora', '2019-05-03 15:00:00', '2019-05-03 16:00:00', 'Gaming', '', 'BG; Players fill the rotating cardboard planet of Gaia with verdant life. Arrange your carnivores, herbivores, and plants, so you can eat your opponents, under the light of Vora, the moon. Survive on the highest stacks of land tiles, when the final meteor strikes!', '', '', '', '', '0', '7', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', 'cf2f06708ef64bf7af54d0d6b17d22a6', '931386', 'Nemo Rathwald', '', '', '', '', '']"
 booklocation,Gaming (TC's Room)
 calspeakers,Nemo Rathwald
 avneeds,
@@ -1778,7 +1778,7 @@ starttimeampm,6 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['95', 'Y', 'LN2 Open Source Ice Cream', '2019-05-03 18:00:00', '2019-05-03 20:00:00', 'Food', '', ""Bring your own ingredients and we'll see what we can do with them! Any premium ingredients (e.g., hand-shaved vanilla bean) will shine on their own, but \xe2\x80\x9cthis weird soda I found\xe2\x80\x9d may be combined with other ingredients for mad science. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We always have non-dairy mix bases available, juices for sorbets, and sugar-free sweeteners on hand. We're prepared, and want everyone to be able to enjoy!"", '', '', '', '', '0', '20', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '732f998873b9e39d654a47bb36867a6c', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['95', 'Y', 'LN2 Open Source Ice Cream', '2019-05-03 18:00:00', '2019-05-03 20:00:00', 'Food', '', ""Bring your own ingredients and we'll see what we can do with them! Any premium ingredients (e.g., hand-shaved vanilla bean) will shine on their own, but \xe2\x80\x9cthis weird soda I found\xe2\x80\x9d may be combined with other ingredients for mad science. We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We always have non-dairy mix bases available, juices for sorbets, and sugar-free sweeteners on hand. We're prepared, and want everyone to be able to enjoy!"", '', '', '', '', '0', '21', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '732f998873b9e39d654a47bb36867a6c', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -1818,7 +1818,7 @@ starttimeampm,6 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['9', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '23', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '7901c7df228435721da68740924714b9', '931389', 'Jett Khat', '', '', '', '', '']"
+input,"['9', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-03 18:00:00', '2019-05-03 19:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '25', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '7901c7df228435721da68740924714b9', '931389', 'Jett Khat', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,Jett Khat
 avneeds,
@@ -2778,7 +2778,7 @@ starttimeampm,8 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['87', 'Y', ""Oxling's Alcoholic Chocolates"", '2019-05-03 20:00:00', '2019-05-03 21:00:00', 'Food', '', 'If candy is dandy and liquor is quicker, then what is a combination of both?....Fun. Come see what Oxling has cooked up and learn to make your own fun filled treats. Tequila rose truffles, coconut rum cream and high octane cherry cordials are a few of the examples. Samples and recipes will be available at the end. Make sure to bring your valid ID with you to verify you are over 21 to try the chocolates.', '', '', '', '', '0', '31', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '03f1569c103862a202bb7ec074e6c0e7', '931350', 'Dan Eckerd', '', '', '', '', '']"
+input,"['87', 'Y', ""Oxling's Alcoholic Chocolates"", '2019-05-03 20:00:00', '2019-05-03 21:00:00', 'Food', '', 'If candy is dandy and liquor is quicker, then what is a combination of both?....Fun. Come see what Oxling has cooked up and learn to make your own fun filled treats. Tequila rose truffles, coconut rum cream and high octane cherry cordials are a few of the examples. Samples and recipes will be available at the end. Make sure to bring your valid ID with you to verify you are over 21 to try the chocolates.', '', '', '', '', '0', '32', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '03f1569c103862a202bb7ec074e6c0e7', '931350', 'Dan Eckerd', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,Dan Eckerd
 avneeds,
@@ -3298,7 +3298,7 @@ starttimeampm,8 PM
 tracknosp,['Diversity']
 event_type_list,['Diversity']
 dayheader,"FRIDAY, MAY 3"
-input,"['45', 'Y', 'People R Us: LGBTQIA', '2019-05-03 20:00:00', '2019-05-03 22:00:00', 'Diversity', '', ""If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: LGBTQIA"", '', '', '', '', '0', '12', '0', 'N', 'People R Us [1017]', '', '', '', '', '', '', '', '', '', '', '', 'eaa1e9d76edd5b16bcb6e4e0c3298105', '931374', 'Jessica Humiston-Aman', '', '', '', '', '']"
+input,"['45', 'Y', 'People R Us: LGBTQIA', '2019-05-03 20:00:00', '2019-05-03 22:00:00', 'Diversity', '', ""If you've ever walked the halls of Penguicon during a break between tracks, you might have noticed there are a huge range of micro-communities within our event. We're happy to provide a space this year for those groups to get together, relax, and start meaningful conversations. Focus: LGBTQIA"", '', '', '', '', '0', '13', '0', 'N', 'People R Us [1017]', '', '', '', '', '', '', '', '', '', '', '', 'eaa1e9d76edd5b16bcb6e4e0c3298105', '931374', 'Jessica Humiston-Aman', '', '', '', '', '']"
 booklocation,People R Us [1017]
 calspeakers,Jessica Humiston-Aman
 avneeds,
@@ -3338,7 +3338,7 @@ starttimeampm,9 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['98', 'Y', 'LN2 After Hours Ice Cream', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '22', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '7da1a0c63f6cbf67e5357794bf05224d', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
+input,"['98', 'Y', 'LN2 After Hours Ice Cream', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Food', '', ""Late night ice cream ingredients may include beer, cider, mead, or liquor. Admission will require 21+ ID (proof of legal drinking age). We'll also teach the basics (safety, proportions) and coach anyone who wants to learn to stir or do all this on their own! As a reminder, we make inclusive ice cream. We have non-dairy bases and sugar-free sweeteners on hand. We're prepared if you speak up. We want everyone to be able to enjoy!"", '', '', '', '', '0', '23', '0', 'N', 'LN2 [Hamlin]', '', '', '', '', '', '', '', '', '', '', '', '7da1a0c63f6cbf67e5357794bf05224d', '931383', 'Sarah Elkins, Phil Salkie', '', '', '', '', '']"
 booklocation,LN2 [Hamlin]
 calspeakers,"Sarah Elkins, Phil Salkie"
 avneeds,
@@ -3378,7 +3378,7 @@ starttimeampm,9 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['15', 'Y', 'Fun with Floggers', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'After Dark', '', 'Come learn the ins and outs of a simple but deceptively complicated type of play: flogging. It may sound painful, it may seem simple, but when you know how, when, where, and why, you will be able to bring your partner to another plane of understanding and help them fall into the beat of the music. They will forget the rest of the world and float in another time and space. Warning: this class may lead you down a road filled with wetness, hardness, or otherwise being worshiped for your godly powers. This event is 18+.', '', '', '', '', '0', '15', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '873437277c41fcc77efc143531d6ad89', '931323', 'Rooskie', '', '', '', '', '']"
+input,"['15', 'Y', 'Fun with Floggers', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'After Dark', '', 'Come learn the ins and outs of a simple but deceptively complicated type of play: flogging. It may sound painful, it may seem simple, but when you know how, when, where, and why, you will be able to bring your partner to another plane of understanding and help them fall into the beat of the music. They will forget the rest of the world and float in another time and space. Warning: this class may lead you down a road filled with wetness, hardness, or otherwise being worshiped for your godly powers. This event is 18+.', '', '', '', '', '0', '16', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '873437277c41fcc77efc143531d6ad89', '931323', 'Rooskie', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,Rooskie
 avneeds,
@@ -3618,7 +3618,7 @@ starttimeampm,9 PM
 tracknosp,['SpecialEvent']
 event_type_list,['Special Event']
 dayheader,"FRIDAY, MAY 3"
-input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '25', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
+input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '26', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,
 avneeds,
@@ -3658,7 +3658,7 @@ starttimeampm,9 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['3', 'Y', 'Sexuality, Kink & Poly 101', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'After Dark', '', ""There are so many questions people have about sexuality, kink, and poly. Get your basic questions answered by queer, kinky, polyamorous members of society! We'll also dive deeper into discussion on any difficult questions the group may have. This event is 18+."", '', '', '', '', '0', '21', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'f026449ee01831b1499355d3530cacae', '931326', 'April Jennifer Choi', '', '', '', '', '']"
+input,"['3', 'Y', 'Sexuality, Kink & Poly 101', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'After Dark', '', ""There are so many questions people have about sexuality, kink, and poly. Get your basic questions answered by queer, kinky, polyamorous members of society! We'll also dive deeper into discussion on any difficult questions the group may have. This event is 18+."", '', '', '', '', '0', '22', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'f026449ee01831b1499355d3530cacae', '931326', 'April Jennifer Choi', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,April Jennifer Choi
 avneeds,
@@ -3818,7 +3818,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['18', 'Y', 'Safe Play and Breath Play', '2019-05-03 22:00:00', '2019-05-03 23:00:00', 'After Dark', '', 'Come learn about common mistakes and how to safely partake in this... breathtaking way to play! This event is 18+.', '', '', '', '', '0', '16', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '73a35204953facf3df107b7ebcb79cb0', '931323', 'TheMtnLioness', '', '', '', '', '']"
+input,"['18', 'Y', 'Safe Play and Breath Play', '2019-05-03 22:00:00', '2019-05-03 23:00:00', 'After Dark', '', 'Come learn about common mistakes and how to safely partake in this... breathtaking way to play! This event is 18+.', '', '', '', '', '0', '17', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '73a35204953facf3df107b7ebcb79cb0', '931323', 'TheMtnLioness', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,TheMtnLioness
 avneeds,
@@ -3938,7 +3938,7 @@ starttimeampm,11 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"FRIDAY, MAY 3"
-input,"['7', 'Y', 'Sensation Play', '2019-05-03 23:00:00', '2019-05-04 01:00:00', 'After Dark', '', ""Come see a demonstration of some of the vast number of experiences sensation play provides! We'll be demonstrating and teaching bondage, sensory deprivation, temperature play, biting and scratching, integrating the use of floggers and knives, sensual touch, and with permission, a clothed demonstration of orgasm torture (inducing multiple orgasms with a wand vibrator and bondage). We'll also show you how to play in a safe and consensual way. This event is 18+."", '', '', '', '', '0', '27', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fdc5b10bde9927ac37c11899209ccdf', '931344', 'Jett Khat', '', '', '', '', '']"
+input,"['7', 'Y', 'Sensation Play', '2019-05-03 23:00:00', '2019-05-04 01:00:00', 'After Dark', '', ""Come see a demonstration of some of the vast number of experiences sensation play provides! We'll be demonstrating and teaching bondage, sensory deprivation, temperature play, biting and scratching, integrating the use of floggers and knives, sensual touch, and with permission, a clothed demonstration of orgasm torture (inducing multiple orgasms with a wand vibrator and bondage). We'll also show you how to play in a safe and consensual way. This event is 18+."", '', '', '', '', '0', '29', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '5fdc5b10bde9927ac37c11899209ccdf', '931344', 'Jett Khat', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Jett Khat
 avneeds,
@@ -4538,7 +4538,7 @@ starttimeampm,10 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['61', 'Y', 'Amigurumi: Crochet a Penguin!', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'DIY', '', 'So you know the basics of crochet and want to try something new? Let\xe2\x80\x99s go beyond the basics, read a pattern, and make amigurumi! Space limited, sign up at ops.', '', '', '', '', '0', '11', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '533d2e42fdc2fee7883b5615cab568e7', '931353', 'Dawn Marino, Kelly V, Grace Cocking', '', '', '', '', '']"
+input,"['61', 'Y', 'Amigurumi: Crochet a Penguin!', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'DIY', '', 'So you know the basics of crochet and want to try something new? Let\xe2\x80\x99s go beyond the basics, read a pattern, and make amigurumi! Space limited, sign up at ops.', '', '', '', '', '0', '12', '0', 'N', 'EMC V', '', '', '', '', '', '', '', '', '', '', '', '533d2e42fdc2fee7883b5615cab568e7', '931353', 'Dawn Marino, Kelly V, Grace Cocking', '', '', '', '', '']"
 booklocation,EMC V
 calspeakers,"Dawn Marino, Kelly V, Grace Cocking"
 avneeds,
@@ -5738,7 +5738,7 @@ starttimeampm,12 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"SATURDAY, MAY 4"
-input,"['395', 'Y', 'Too Like The Lightning, The Card Game', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Gaming', '', 'This unpublished prototype for 2 to 7 players is a game adaptation of a science fiction novel series by Penguicon 2017 guest of Honor Ada Palmer. Players represent world governments. Together they attempt to avert world war by arranging face-down cards in a row common to all players: the global Transit System. Players may change these, but may not directly tell each other what they know of them. When the cards are revealed, if the players have managed to arrange the printed numbers in an uninterrupted consecutive sequence, world war is averted, and the players all win! But beware! For your own government is awash in corruption-- some of the characters on your cards might frustrate your efforts!', '', '', '', '', '0', '0', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', '3d58e7d818d27eb2eb09c12570cf8239', '931386', 'Nemo Rathwald', '', '', '', '', '']"
+input,"['395', 'Y', 'Too Like The Lightning, The Card Game', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Gaming', '', 'This unpublished prototype for 2 to 7 players is a game adaptation of a science fiction novel series by Penguicon 2017 guest of Honor Ada Palmer. Players represent world governments. Together they attempt to avert world war by arranging face-down cards in a row common to all players: the global Transit System. Players may change these, but may not directly tell each other what they know of them. When the cards are revealed, if the players have managed to arrange the printed numbers in an uninterrupted consecutive sequence, world war is averted, and the players all win! But beware! For your own government is awash in corruption-- some of the characters on your cards might frustrate your efforts!', '', '', '', '', '0', '1', '0', 'N', ""Gaming (TC's Room)"", '', '', '', '', '', '', '', '', '', '', '', '3d58e7d818d27eb2eb09c12570cf8239', '931386', 'Nemo Rathwald', '', '', '', '', '']"
 booklocation,Gaming (TC's Room)
 calspeakers,Nemo Rathwald
 avneeds,
@@ -6418,7 +6418,7 @@ starttimeampm,1 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['156', 'Y', 'Navigating Polyamory: Keeping your Cups Full', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'Join us for a presentation and Q&A about one million different ways to practice poly. Come learn how to better communicate and work through hiccups, such as scheduling conflicts, new partners, sexual safety, and mental/emotional health.', '', '', '', '', '0', '25', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '09860b5ae0e9dfacfb7e1ab36dfe8c1a', '931323', 'Andrew M. &quot;Fish&quot; Popowich, Becky Hill, Cyndi Chadwick', '', '', '', '', '']"
+input,"['156', 'Y', 'Navigating Polyamory: Keeping your Cups Full', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'Join us for a presentation and Q&A about one million different ways to practice poly. Come learn how to better communicate and work through hiccups, such as scheduling conflicts, new partners, sexual safety, and mental/emotional health.', '', '', '', '', '0', '26', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '09860b5ae0e9dfacfb7e1ab36dfe8c1a', '931323', 'Andrew M. &quot;Fish&quot; Popowich, Becky Hill, Cyndi Chadwick', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,"Andrew M. &quot;Fish&quot; Popowich, Becky Hill, Cyndi Chadwick"
 avneeds,
@@ -10818,7 +10818,7 @@ starttimeampm,7 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['8', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '19', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '57aa0f64d956653625b164fdb76e37bd', '931389', 'Jett Khat', '', '', '', '', '']"
+input,"['8', 'Y', 'Consent Expectations and Party Vetting Opportunity', '2019-05-04 19:00:00', '2019-05-04 20:00:00', 'After Dark', '', ""This is a primer on dungeon policies and expectations specific to the Jett's Arcade Dungeon Party. If you want to attend the Dungeon Party, be sure to attend one of the consent panels and be vetted. This event is 18+."", '', '', '', '', '0', '21', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', '57aa0f64d956653625b164fdb76e37bd', '931389', 'Jett Khat', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,Jett Khat
 avneeds,
@@ -11698,7 +11698,7 @@ starttimeampm,9 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['21', 'Y', 'Floggers 201', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'Take your flogging skills to the next level with Willie Pa. Learn some more advanced techniques. There will also be demonstration. This event is 18+.', '', '', '', '', '0', '9', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '128a6d6bb61cfffa27243a0060f020df', '931323', 'WilliePA', '', '', '', '', '']"
+input,"['21', 'Y', 'Floggers 201', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'Take your flogging skills to the next level with Willie Pa. Learn some more advanced techniques. There will also be demonstration. This event is 18+.', '', '', '', '', '0', '10', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '128a6d6bb61cfffa27243a0060f020df', '931323', 'WilliePA', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,WilliePA
 avneeds,
@@ -11818,7 +11818,7 @@ starttimeampm,9 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['5', 'Y', 'Poly and Kink: Managing your D/s relationship while non-monogamous', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'This will be a round table discussion about how to make a D/s relationship coexist with polyamory and non-monogamous relationships. This event is 18+.', '', '', '', '', '0', '11', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', '436ff69cfc2c1b50d4792d2b9477058b', '931329', 'Frannie', '', '', '', '', '']"
+input,"['5', 'Y', 'Poly and Kink: Managing your D/s relationship while non-monogamous', '2019-05-04 21:00:00', '2019-05-04 22:00:00', 'After Dark', '', 'This will be a round table discussion about how to make a D/s relationship coexist with polyamory and non-monogamous relationships. This event is 18+.', '', '', '', '', '0', '12', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', '436ff69cfc2c1b50d4792d2b9477058b', '931329', 'Frannie', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,Frannie
 avneeds,
@@ -12058,7 +12058,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['19', 'Y', 'Rope Safety and Sadism', '2019-05-04 22:00:00', '2019-05-05 00:00:00', 'After Dark', '', 'This class will start with a discussion about safety designed to help riggers and bunnies alike. We will briefly cover why we tie where we tie, basic safety tools, nerves, and knowing when to end the session. After that we will roll into a hands on demonstration with several ties designed to make your partner wriggle and writhe. Please bring two hanks of rope for this panel. Partners are encouraged, however these ties can be done on yourself.', '', '', '', '', '0', '16', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '286aaa9a8e73a7ceb8014795e883e4f4', '931341', 'Toga', '', '', '', '', '']"
+input,"['19', 'Y', 'Rope Safety and Sadism', '2019-05-04 22:00:00', '2019-05-05 00:00:00', 'After Dark', '', 'This class will start with a discussion about safety designed to help riggers and bunnies alike. We will briefly cover why we tie where we tie, basic safety tools, nerves, and knowing when to end the session. After that we will roll into a hands on demonstration with several ties designed to make your partner wriggle and writhe. Please bring two hanks of rope for this panel. Partners are encouraged, however these ties can be done on yourself.', '', '', '', '', '0', '17', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '286aaa9a8e73a7ceb8014795e883e4f4', '931341', 'Toga', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,Toga
 avneeds,
@@ -12298,7 +12298,7 @@ starttimeampm,10 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['16', 'Y', 'Aftercare Variations and Negotiations', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'After Dark', '', 'Who needs aftercare? Is it only needed after hardcore sessions? Is all aftercare the same? What are some options for negotiating aftercare? What aftercare have you given/received that seemed to work well? What aftercare obstacles have you encountered, and what are some ideas for coping with them? How are aftercare, safety, and consent related? Let\xe2\x80\x99s talk. This event is 18+.', '', '', '', '', '0', '12', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'edbd21c84453ec38877ee15a02e1800f', '931329', 'Sarah', '', '', '', '', '']"
+input,"['16', 'Y', 'Aftercare Variations and Negotiations', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'After Dark', '', 'Who needs aftercare? Is it only needed after hardcore sessions? Is all aftercare the same? What are some options for negotiating aftercare? What aftercare have you given/received that seemed to work well? What aftercare obstacles have you encountered, and what are some ideas for coping with them? How are aftercare, safety, and consent related? Let\xe2\x80\x99s talk. This event is 18+.', '', '', '', '', '0', '13', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'edbd21c84453ec38877ee15a02e1800f', '931329', 'Sarah', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,Sarah
 avneeds,
@@ -12338,7 +12338,7 @@ starttimeampm,11 PM
 tracknosp,['AfterDark']
 event_type_list,['After Dark']
 dayheader,"SATURDAY, MAY 4"
-input,"['14', 'Y', 'Canes: From Sensual to Sadistic', '2019-05-04 23:00:00', '2019-05-05 01:00:00', 'After Dark', '', ""Canes generally have a nasty connotation to them. Brutal. Painful. Punishing. While they can be all these things, they don't have to be. In this class we will cover a wide range of topics, mostly focused on making caning an enjoyable experience for both top and bottom. We will cover topics including, types of canes, safety concerns unique to canes, psychological and physiological effects on the bottom, types of cane strokes, rhythmic caning, tailoring your play to music, and more. The class will also feature a 15-20 minute demonstration of a caning 'scene' as a standalone scene. This event is 18+."", '', '', '', '', '0', '12', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'bfa0d652bcf6f73a48a6442bf44cf8c5', '931320', 'Rapture', '', '', '', '', '']"
+input,"['14', 'Y', 'Canes: From Sensual to Sadistic', '2019-05-04 23:00:00', '2019-05-05 01:00:00', 'After Dark', '', ""Canes generally have a nasty connotation to them. Brutal. Painful. Punishing. While they can be all these things, they don't have to be. In this class we will cover a wide range of topics, mostly focused on making caning an enjoyable experience for both top and bottom. We will cover topics including, types of canes, safety concerns unique to canes, psychological and physiological effects on the bottom, types of cane strokes, rhythmic caning, tailoring your play to music, and more. The class will also feature a 15-20 minute demonstration of a caning 'scene' as a standalone scene. This event is 18+."", '', '', '', '', '0', '13', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', 'bfa0d652bcf6f73a48a6442bf44cf8c5', '931320', 'Rapture', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,Rapture
 avneeds,
@@ -12818,7 +12818,7 @@ starttimeampm,10 AM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"SUNDAY, MAY 5"
-input,"['129', 'Y', 'DemonLobster Presents 8 Player Super Smash Brothers Ultimate', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Gaming', '', ""Take a load off on a lazy Sunday morning with some donuts, some coffee, and some Smash! It's all for fun here! All matches will be pure casual fun, with time rules and items on. Drop in for a single round or stay for the whole session. Just swing by and have some smashing fun!"", '', '', '', '', '0', '4', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '0c5891c67b0df7cf7030ae672401935f', '931368', 'Jonathon Hickey', '', '', '', '', '']"
+input,"['129', 'Y', 'DemonLobster Presents 8 Player Super Smash Brothers Ultimate', '2019-05-05 10:00:00', '2019-05-05 11:00:00', 'Gaming', '', ""Take a load off on a lazy Sunday morning with some donuts, some coffee, and some Smash! It's all for fun here! All matches will be pure casual fun, with time rules and items on. Drop in for a single round or stay for the whole session. Just swing by and have some smashing fun!"", '', '', '', '', '0', '5', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '0c5891c67b0df7cf7030ae672401935f', '931368', 'Jonathon Hickey', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Jonathon Hickey
 avneeds,
@@ -15498,7 +15498,7 @@ starttimeampm,3 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '45', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis', '', '', '', '', '']"
+input,"['279', 'Y', 'Closing Ceremonies', '2019-05-05 15:00:00', '2019-05-05 16:00:00', 'Penguicon', '', 'It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020!', '', '', '', '', '0', '46', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '5c2a69d61d12373b415ba1dd2f798134', '931392', 'Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,"Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Birtie, Karen Corbeill, Jeff Marraccini, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis"
 avneeds,
