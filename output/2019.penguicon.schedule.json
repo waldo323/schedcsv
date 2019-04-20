@@ -1824,6 +1824,20 @@
         "end_date": "",
         "title": "",
         "track": "",
+        "start_time": "10:00",
+        "presenters": [
+            "Cassandra Morgan"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "11:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
         "start_time": "11:00",
         "presenters": [
             "Stanley Nunn"
@@ -3247,7 +3261,7 @@
         "track": "",
         "start_time": "16:00",
         "presenters": [
-            "BluRaven C. Houvener"
+            "Cassandra Morgan"
         ],
         "location": "",
         "minutes": 60,
@@ -4328,9 +4342,9 @@
             "Edward L. Platt"
         ],
         "location": "",
-        "minutes": 0,
+        "minutes": 60,
         "start_date": "5/4/2019",
-        "end_time": "21:00"
+        "end_time": "22:00"
     },
     {
         "book_description": "",

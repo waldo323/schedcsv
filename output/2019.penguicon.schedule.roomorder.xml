@@ -319,10 +319,10 @@
 <blurb><participant>Mary Lynne Gibbs</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>4 PM</time>
-<event><title>Reading: BluRaven C. Houvener</title>
+<event><title>Reading: Cassandra Morgan</title>
 <topic>Lit</topic>
 <room>Author Readings Room</room>
-<blurb><participant>BluRaven C. Houvener</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Cassandra Morgan</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>5 PM</time>
 <event><title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
@@ -850,7 +850,7 @@
 <event><title>Network Science with Network: Session 1</title>
 <topic>Tech</topic>
 <room>Computer Lab [Charlevoix C]</room>
-<blurb><participant>Edward L. Platt</participant> Network Science investigates the structure of relationships in complex systems: social networks, electrical grids, the internet, protein interactions, and many others. NetworkX is a FOSS python library for network science. This presentation covers the basic concepts of Network Science and examples of using NetworkX. Edward L. Platt is the author of the forthcoming book: Network Science with Python and NetworkX. <duration>00 minutes</duration></blurb></event>
+<blurb><participant>Edward L. Platt</participant> Network Science investigates the structure of relationships in complex systems: social networks, electrical grids, the internet, protein interactions, and many others. NetworkX is a FOSS python library for network science. This presentation covers the basic concepts of Network Science and examples of using NetworkX. Edward L. Platt is the author of the forthcoming book: Network Science with Python and NetworkX. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>9 AM</time>
 <event><title>What It's Like to Own Your OS v3</title>
@@ -2264,6 +2264,12 @@
 <topic>Lit</topic>
 <room>Writer's Block </room>
 <blurb><participant>Michael W. Lucas</participant> Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions. <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>10 AM</time>
+<event><title>Office Hours with Cassandra Morgan</title>
+<topic>Lit</topic>
+<room>Writer's Block </room>
+<blurb><participant>Cassandra Morgan</participant> Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>12 PM</time>
 <event><title>Author Office Hours with Nicole E. Castle</title>
