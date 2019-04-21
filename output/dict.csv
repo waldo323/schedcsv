@@ -538,7 +538,7 @@ starttimeampm,4 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['41', 'Y', 'How To Get Started In Cosplay', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Cosplay', '', 'Have you seen a lot of con goers dressed up in fabulous costumes? Would you like to join in on the fun? Feeling a little clueless on how to start or maybe a bit intimidated? We will talk about techniques to make a costume, sources of inspiration, how to choose a character, and trying to keep it all in a budget.', '', '', '', '', '0', '13', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '1d84164746828e2881d97cbf85d28901', '931377', 'Jennifer Skwarski', '', '', '', '', '']"
+input,"['41', 'Y', 'How To Get Started In Cosplay', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Cosplay', '', 'Have you seen a lot of con goers dressed up in fabulous costumes? Would you like to join in on the fun? Feeling a little clueless on how to start or maybe a bit intimidated? We will talk about techniques to make a costume, sources of inspiration, how to choose a character, and trying to keep it all in a budget.', '', '', '', '', '0', '12', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '1d84164746828e2881d97cbf85d28901', '931377', 'Jennifer Skwarski', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Jennifer Skwarski
 avneeds,
@@ -618,7 +618,7 @@ starttimeampm,4 PM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"FRIDAY, MAY 3"
-input,"['338', 'Y', 'Open Source Firewall pfSense', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Tech', '', 'Learn how to configure the open source pfSense firewall.', '', '', '', '', '0', '14', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b5158de1a0e2d1111efdd4c77a3e5668', '931344', 'Tom Lawrence', '', '', '', '', '']"
+input,"['338', 'Y', 'Open Source Firewall pfSense', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Tech', '', 'Learn how to configure the open source pfSense firewall.', '', '', '', '', '0', '15', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b5158de1a0e2d1111efdd4c77a3e5668', '931344', 'Tom Lawrence', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Tom Lawrence
 avneeds,
@@ -778,7 +778,7 @@ starttimeampm,4 PM
 tracknosp,['Lit']
 event_type_list,['Lit']
 dayheader,"FRIDAY, MAY 3"
-input,"['213', 'Y', 'Ray Bradbury: A Fan Discussion', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Lit', '', ""Bradbury's work crossed genre lines, publishing works in science fiction, fantasy, horror, and mystery. Come join other fans to discuss his work."", '', '', '', '', '0', '7', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'e3491f4212b1358ef115010bb5e0fe57', '931389', 'Sarah Elkins, Michael Cieslak', '', '', '', '', '']"
+input,"['213', 'Y', 'Ray Bradbury: A Fan Discussion', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Lit', '', ""Bradbury's work crossed genre lines, publishing works in science fiction, fantasy, horror, and mystery. Come join other fans to discuss his work."", '', '', '', '', '0', '8', '0', 'N', 'Baldwin', '', '', '', '', '', '', '', '', '', '', '', 'e3491f4212b1358ef115010bb5e0fe57', '931389', 'Sarah Elkins, Michael Cieslak', '', '', '', '', '']"
 booklocation,Baldwin
 calspeakers,"Sarah Elkins, Michael Cieslak"
 avneeds,
@@ -858,7 +858,7 @@ starttimeampm,4 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"FRIDAY, MAY 3"
-input,"['265', 'Y', 'Professional Wrestling 101', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Media', '', ""Have you ever wondered just what pro wrestling is?' Have you ever wondered what the heck is the appeal of grown men and women fake fighting in their underwear? Well, have I got a panel for you! Come learn the ins-and-outs of professional wrestling. Learn what wrestling is, how it works, what makes a match good or bad, and more! Also attend the sister-panel 'History of Pro Wrestling' to learn more!"", '', '', '', '', '0', '9', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f0bf00a88767065f94031c76017453a0', '931356', 'Shane Soules', '', '', '', '', '']"
+input,"['265', 'Y', 'Professional Wrestling 101', '2019-05-03 16:00:00', '2019-05-03 17:00:00', 'Media', '', ""Have you ever wondered just what pro wrestling is?' Have you ever wondered what the heck is the appeal of grown men and women fake fighting in their underwear? Well, have I got a panel for you! Come learn the ins-and-outs of professional wrestling. Learn what wrestling is, how it works, what makes a match good or bad, and more! Also attend the sister-panel 'History of Pro Wrestling' to learn more!"", '', '', '', '', '0', '8', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f0bf00a88767065f94031c76017453a0', '931356', 'Shane Soules', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Shane Soules
 avneeds,
@@ -1138,7 +1138,7 @@ starttimeampm,5 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['33', 'Y', 'Molds, Resins and Silicone Oh My!!', '2019-05-03 17:00:00', '2019-05-03 19:00:00', 'Cosplay', '', ""Learn the process of fabricating hard plastic and flexible synthetic accessories for your costume (or other hobby). We'll discuss the various types of casting and mold making materials, explore their pros and cons, and walk through the moldmaking and casting process. Samples of various materials and finished products will be on hand. Bring a notebook -- this panel is info-heavy! See finished pieces and learn the step-by-step process."", '', '', '', '', '0', '30', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '65db62fb45c0fcbc53a7a2ee604ef68a', '931368', 'Alena Van Arendonk', '', '', '', '', '']"
+input,"['33', 'Y', 'Molds, Resins and Silicone Oh My!!', '2019-05-03 17:00:00', '2019-05-03 19:00:00', 'Cosplay', '', ""Learn the process of fabricating hard plastic and flexible synthetic accessories for your costume (or other hobby). We'll discuss the various types of casting and mold making materials, explore their pros and cons, and walk through the moldmaking and casting process. Samples of various materials and finished products will be on hand. Bring a notebook -- this panel is info-heavy! See finished pieces and learn the step-by-step process."", '', '', '', '', '0', '29', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '65db62fb45c0fcbc53a7a2ee604ef68a', '931368', 'Alena Van Arendonk', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Alena Van Arendonk
 avneeds,
@@ -3058,7 +3058,7 @@ starttimeampm,8 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"FRIDAY, MAY 3"
-input,"['42', 'Y', 'BoF: Dr. Who Meet Up', '2019-05-03 20:00:00', '2019-05-03 21:00:00', 'Cosplay', '', ""Birds of a Feather meet up for Dr. Who cosplay! Old school, new school, doctors, companions, enemies, family and friends, as well as spin off characters are welcome. Come dressed in your favorite Dr. Who cosplay, meet like minded people, enjoy conversations, strike poses, and take as many photos as humanly possible. Don't forget your props, witty comments, and sense of humor. Who knows? We may even be able to get a certain blue police box to stop by..."", '', '', '', '', '0', '11', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '76413aa13250436e3df27dd84e647162', '931344', '', '', '', '', '', '']"
+input,"['42', 'Y', 'BoF: Dr. Who Meet Up', '2019-05-03 20:00:00', '2019-05-03 21:00:00', 'Cosplay', '', ""Birds of a Feather meet up for Dr. Who cosplay! Old school, new school, doctors, companions, enemies, family and friends, as well as spin off characters are welcome. Come dressed in your favorite Dr. Who cosplay, meet like minded people, enjoy conversations, strike poses, and take as many photos as humanly possible. Don't forget your props, witty comments, and sense of humor. Who knows? We may even be able to get a certain blue police box to stop by..."", '', '', '', '', '0', '10', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', '76413aa13250436e3df27dd84e647162', '931344', '', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,
 avneeds,
@@ -3498,7 +3498,7 @@ starttimeampm,9 PM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"FRIDAY, MAY 3"
-input,"['90', 'Y', 'Whiskey of the West', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'Food', '', ""For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi."", '', '', '', '', '0', '18', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'c0cc0d6108238d4afeeeb42a522be854', '931350', 'Greg Williams, Katie Buffone', '', '', '', '', '']"
+input,"['90', 'Y', 'Whiskey of the West', '2019-05-03 21:00:00', '2019-05-03 22:00:00', 'Food', '', ""For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi."", '', '', '', '', '0', '17', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', 'c0cc0d6108238d4afeeeb42a522be854', '931350', 'Greg Williams, Katie Buffone', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Greg Williams, Katie Buffone"
 avneeds,
@@ -4298,7 +4298,7 @@ starttimeampm,10 AM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SATURDAY, MAY 4"
-input,"['35', 'Y', 'Foamsmithing 101', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Cosplay', '', 'Learn about the basic skills and tools needed to build props and costumes out of foam. See examples of pieces and ask for tips on projects you are working on.', '', '', '', '', '0', '27', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '05d1d7aba42dc62bc8d1d8c773327d9c', '931377', 'Alex Drummer', '', '', '', '', '']"
+input,"['35', 'Y', 'Foamsmithing 101', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Cosplay', '', 'Learn about the basic skills and tools needed to build props and costumes out of foam. See examples of pieces and ask for tips on projects you are working on.', '', '', '', '', '0', '26', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '05d1d7aba42dc62bc8d1d8c773327d9c', '931377', 'Alex Drummer', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Alex Drummer
 avneeds,
@@ -5418,7 +5418,7 @@ starttimeampm,11 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '39', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
+input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '38', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Joseph Rock
 avneeds,
@@ -5738,7 +5738,7 @@ starttimeampm,11 AM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['266', 'Y', 'History of Pro Wrestling', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Media', '', ""Professional wrestling is one of the most storied art forms the world has ever known. Hey, wait! Come back! This panel is here to show you the history of pro wrestling. Dating from the early 1900s, all the way to present day, and all of the amazing history in-between. Pairs well with the sister-panel 'Professional Wrestling 101'"", '', '', '', '', '0', '7', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f46588ed71e82a3ad4c9c7eb5b93da5b', '931356', 'Shane Soules', '', '', '', '', '']"
+input,"['266', 'Y', 'History of Pro Wrestling', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Media', '', ""Professional wrestling is one of the most storied art forms the world has ever known. Hey, wait! Come back! This panel is here to show you the history of pro wrestling. Dating from the early 1900s, all the way to present day, and all of the amazing history in-between. Pairs well with the sister-panel 'Professional Wrestling 101'"", '', '', '', '', '0', '6', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'f46588ed71e82a3ad4c9c7eb5b93da5b', '931356', 'Shane Soules', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Shane Soules
 avneeds,
@@ -6138,7 +6138,7 @@ starttimeampm,12 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['157', 'Y', 'Relationship Communication', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Life', '', 'In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.', '', '', '', '', '0', '29', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '9489316bd1098a28d4605b0a2e46e645', '931323', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
+input,"['157', 'Y', 'Relationship Communication', '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Life', '', 'In this panel discussion, we will cover a plethora of communication skills from basic body language and phrasing to techniques used in relationship counseling to improve communication and navigate the difficult conversations we have in life.', '', '', '', '', '0', '28', '0', 'N', 'Charlevoix A', '', '', '', '', '', '', '', '', '', '', '', '9489316bd1098a28d4605b0a2e46e645', '931323', 'April Jennifer Choi, Bethany Bymes', '', '', '', '', '']"
 booklocation,Charlevoix A
 calspeakers,"April Jennifer Choi, Bethany Bymes"
 avneeds,
@@ -6938,7 +6938,7 @@ starttimeampm,1 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"SATURDAY, MAY 4"
-input,"['232', 'Y', 'Parachute while Grounded', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Mayhem', '', 'Join us for some good old fashioned, gym class style parachute play! Participants of all ages welcome. Children should be accompanied by an adult.', '', '', '', '', '0', '16', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '9db462dcceb429ccf72247d1b128f917', '931341', 'Jena Osborne', '', '', '', '', '']"
+input,"['232', 'Y', 'Parachute while Grounded', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Mayhem', '', 'Join us for some good old fashioned, gym class style parachute play! Participants of all ages welcome. Children should be accompanied by an adult.', '', '', '', '', '0', '15', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '9db462dcceb429ccf72247d1b128f917', '931341', 'Jena Osborne', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,Jena Osborne
 avneeds,
@@ -7058,7 +7058,7 @@ starttimeampm,1 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['168', 'Y', 'An Introduction to Mondo Zen and the Importance of Meditation', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'This talk will discuss and explore a modern interpretation of Japanese Rinzai Zen. We will discuss insight and emotional koan practice and the necessity of Zazen (Zen meditation) in daily life. Hosted by Hokyo, a priest of Hollow Bones Zen.', '', '', '', '', '0', '20', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'c9e3251561dced2c7e00c1851b85190b', '931359', 'Hokyo Yoi Inu', '', '', '', '', '']"
+input,"['168', 'Y', 'An Introduction to Mondo Zen and the Importance of Meditation', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'Life', '', 'This talk will discuss and explore a modern interpretation of Japanese Rinzai Zen. We will discuss insight and emotional koan practice and the necessity of Zazen (Zen meditation) in daily life. Hosted by Hokyo, a priest of Hollow Bones Zen.', '', '', '', '', '0', '19', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', 'c9e3251561dced2c7e00c1851b85190b', '931359', 'Hokyo Yoi Inu', '', '', '', '', '']"
 booklocation,EMC IV
 calspeakers,Hokyo Yoi Inu
 avneeds,
@@ -8138,7 +8138,7 @@ starttimeampm,3 PM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['274', 'Y', 'AHA Badge Soldering', '2019-05-04 15:00:00', '2019-05-04 17:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '10', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '35b9b3a50b18c824c64cd9dc12fa699f', '931407', 'AHA', '', '', '', '', '']"
+input,"['274', 'Y', 'AHA Badge Soldering', '2019-05-04 15:00:00', '2019-05-04 17:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '11', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '35b9b3a50b18c824c64cd9dc12fa699f', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -12298,7 +12298,7 @@ starttimeampm,10 PM
 tracknosp,"['Gaming', 'AfterDark']"
 event_type_list,"['Gaming', 'After Dark']"
 dayheader,"SATURDAY, MAY 4"
-input,"['155', 'Y', 'Fellowship of Fools - A Friendship Game Possibly with Benefits', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'Gaming, After Dark', '', 'Come join your fellow fools as we start our journeys. This session will start with just a little background on our friendship game, Fellowship of Fools: The (Friendship) Game. We will spend some time playing the game and getting to know one another. Then we will share the NEW Romance and Sexuality decks. Some these questions are hard! Come prepared to dive deep and make a friend or find a new spark with a little help from our game. This a session for adult attendees, so this event is 18+.', '', '', '', '', '0', '15', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '74ac0062df9a9323fd54efb61450e823', '931392', ""Casey O'Donnell, Hermione Banger"", '', '', '', '', '']"
+input,"['155', 'Y', 'Fellowship of Fools - A Friendship Game Possibly with Benefits', '2019-05-04 22:00:00', '2019-05-04 23:00:00', 'Gaming, After Dark', '', 'Come join your fellow fools as we start our journeys. This session will start with just a little background on our friendship game, Fellowship of Fools: The (Friendship) Game. We will spend some time playing the game and getting to know one another. Then we will share the NEW Romance and Sexuality decks. Some these questions are hard! Come prepared to dive deep and make a friend or find a new spark with a little help from our game. This a session for adult attendees, so this event is 18+.', '', '', '', '', '0', '14', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', '74ac0062df9a9323fd54efb61450e823', '931392', ""Casey O'Donnell, Hermione Banger"", '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,"Casey O'Donnell, Hermione Banger"
 avneeds,
@@ -12538,7 +12538,7 @@ starttimeampm,12 AM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"SUNDAY, MAY 5"
-input,"['244', 'Y', 'Midnight Mayhem', '2019-05-05 00:00:00', '2019-05-05 04:00:00', 'Mayhem', '', 'Talk, sing, or just hang with fellow night owls until the wee hours of the morning!', '', '', '', '', '0', '8', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '54867f7e517aa1dd41f112f9c8ff1b2f', '931341', '', '', '', '', '', '']"
+input,"['244', 'Y', 'Midnight Mayhem', '2019-05-05 00:00:00', '2019-05-05 04:00:00', 'Mayhem', '', 'Talk, sing, or just hang with fellow night owls until the wee hours of the morning!', '', '', '', '', '0', '7', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '54867f7e517aa1dd41f112f9c8ff1b2f', '931341', '', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,
 avneeds,
@@ -12738,7 +12738,7 @@ starttimeampm,9 AM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SUNDAY, MAY 5"
-input,"['342', 'Y', 'Regex for Everyone: Bend Text to your Whim', '2019-05-05 09:00:00', '2019-05-05 10:00:00', 'Tech', '', 'For technical and non-technical people alike, Regular Expressions (regex) are a powerful pattern matching tool you can use to supercharge find-and-replace, everywhere from Google Docs to a codebase. You can use it to find any email address, extract dates, check password strength and so much more. If you work with any type of text, either professionally, or as a hobby, learning Regex can make you more productive. At this talk, you\xe2\x80\x99ll: earn a ribbon by completing a regex crossword puzzle; create a custom regex from scratch; extract email addresses on a webpage using a tool the speaker built; and learn how to use Regex in Google Docs, Chrome, VS Code and on the command line.', '', '', '', '', '0', '16', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '3655c0f019c21794819930704d8e2d38', '931368', 'Henry Marshall', '', '', '', '', '']"
+input,"['342', 'Y', 'Regex for Everyone: Bend Text to your Whim', '2019-05-05 09:00:00', '2019-05-05 10:00:00', 'Tech', '', 'For technical and non-technical people alike, Regular Expressions (regex) are a powerful pattern matching tool you can use to supercharge find-and-replace, everywhere from Google Docs to a codebase. You can use it to find any email address, extract dates, check password strength and so much more. If you work with any type of text, either professionally, or as a hobby, learning Regex can make you more productive. At this talk, you\xe2\x80\x99ll: earn a ribbon by completing a regex crossword puzzle; create a custom regex from scratch; extract email addresses on a webpage using a tool the speaker built; and learn how to use Regex in Google Docs, Chrome, VS Code and on the command line.', '', '', '', '', '0', '15', '0', 'N', 'EMC II', '', '', '', '', '', '', '', '', '', '', '', '3655c0f019c21794819930704d8e2d38', '931368', 'Henry Marshall', '', '', '', '', '']"
 booklocation,EMC II
 calspeakers,Henry Marshall
 avneeds,
@@ -13058,7 +13058,7 @@ starttimeampm,10 AM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SUNDAY, MAY 5"
-input,"['276', 'Y', 'AHA Badge Soldering', '2019-05-05 10:00:00', '2019-05-05 14:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '9', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '474657891edac4c2b85b64f8fac70705', '931407', 'AHA', '', '', '', '', '']"
+input,"['276', 'Y', 'AHA Badge Soldering', '2019-05-05 10:00:00', '2019-05-05 14:00:00', 'Penguicon', '', 'It\xe2\x80\x99s a yearly tradition to for All Hands Active to bring a special badge soldering project. There are two projects to choose from this year, a quick and easy option and a more complex one. Kits are available for purchase. All proceeds go directly to AHA.', '', '', '', '', '0', '10', '0', 'N', 'Hackerspace (Room 328)', '', '', '', '', '', '', '', '', '', '', '', '474657891edac4c2b85b64f8fac70705', '931407', 'AHA', '', '', '', '', '']"
 booklocation,Hackerspace (Room 328)
 calspeakers,AHA
 avneeds,
@@ -15218,7 +15218,7 @@ starttimeampm,1 PM
 tracknosp,['Cosplay']
 event_type_list,['Cosplay']
 dayheader,"SUNDAY, MAY 5"
-input,"['32', 'Y', 'Featherweight Armor Workshop', '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Cosplay', '', ""It\xe2\x80\x99s possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process."", '', '', '', '', '0', '18', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'bb0bd2747346356de0b898cb275caf56', '931326', 'Alena Van Arendonk', '', '', '', '', '']"
+input,"['32', 'Y', 'Featherweight Armor Workshop', '2019-05-05 13:00:00', '2019-05-05 15:00:00', 'Cosplay', '', ""It\xe2\x80\x99s possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process."", '', '', '', '', '0', '17', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'bb0bd2747346356de0b898cb275caf56', '931326', 'Alena Van Arendonk', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Alena Van Arendonk
 avneeds,
