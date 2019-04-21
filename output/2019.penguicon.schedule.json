@@ -3100,6 +3100,20 @@
         "track": "",
         "start_time": "15:00",
         "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "16:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "15:00",
+        "presenters": [
             "Jordan Ross"
         ],
         "location": "",
@@ -3672,20 +3686,6 @@
         "start_time": "18:00",
         "presenters": [
             "Clay Dowling"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/4/2019",
-        "end_time": "19:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "18:00",
-        "presenters": [
-            "Byron Pepper"
         ],
         "location": "",
         "minutes": 60,
@@ -4682,6 +4682,20 @@
         "presenters": [
             "Mary Lynne Gibbs",
             "Michael Cieslak"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "11:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "10:00",
+        "presenters": [
+            "Byron Pepper"
         ],
         "location": "",
         "minutes": 60,

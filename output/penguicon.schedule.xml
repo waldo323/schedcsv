@@ -1084,6 +1084,11 @@
 <room>Algonquin A</room>
 <blurb><participant>Derek Newland</participant> | Join us for an open forum of tips and tricks for general self defense, as well as where to get started if you're confused on what to look for in more formal training. <duration>2 hours</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
+<event><title>Writer's Reception</title>
+<topic>Lit</topic>
+<room>Writer's Block</room>
+<blurb><participant></participant>Come shake hands and talk publishing and the craft of writing with the over two dozen attending authors of Penguicon. Light refreshments will be served. <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
 <event><title>Arts &amp; Scraps Workshop: Make a 100% Green Costume!</title>
 <topic>Science</topic>
 <room>EMC III</room>
@@ -1286,11 +1291,6 @@
 <topic>Tech</topic>
 <room>Nicolet</room>
 <blurb><participant>Clay Dowling</participant> | I want you to experience the joys of the C! I'll help you get your C legs with simple tricks to make this venerable language work with the latest trends in programming. Learn simple project setup using Make and CMake, functional programming, test driven development &amp; automated testing, programming to interfaces, design patterns, REST clients and servers, IoT, and cloud computing. I'll help you throw off the chains of enterprise development, hoist the Jolly Roger, and deliver results faster, using fewer resources with this venerable, modern language. <duration>1 hour</duration></blurb></event>
-<day>SATURDAY, MAY 4</day>
-<event><title>Worldbuilding 101: How to Blow up Earth</title>
-<topic>Gaming</topic>
-<room>EMC II</room>
-<blurb><participant>Byron Pepper</participant> | One of a series of three RPG panels. Sometimes, making stuff up is hard. Making worlds up is harder. Writers, GMs, and creative types can have a hard time making something from nothing. Let me help you kickstart your imagination with some simple rules, and then let's make a world together in the room! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <event><title>YouTube (Streaming) vs. SoundCloud (Podcasting): A Medium Experiment</title>
 <topic>Media</topic>
@@ -1645,6 +1645,11 @@
 <topic>Lit</topic>
 <room>Algonquin B</room>
 <blurb><participant>Mary Lynne Gibbs, Michael Cieslak</participant> | Sci-Fi. Fantasy. Horror. How well does what you are reading, watching, or perhaps creating, fall into these broad categories? Then there are all of the numerous sub-genres which make up the speculative fiction spectrum. The panel discusses the uses and perhaps misuses of classifying a work into one or more genres. <duration>1 hour</duration></blurb></event>
+<day>SUNDAY, MAY 5</day>
+<event><title>Worldbuilding 101: How to Blow up Earth</title>
+<topic>Gaming</topic>
+<room>EMC V</room>
+<blurb><participant>Byron Pepper</participant> | One of a series of three RPG panels. Sometimes, making stuff up is hard. Making worlds up is harder. Writers, GMs, and creative types can have a hard time making something from nothing. Let me help you kickstart your imagination with some simple rules, and then let's make a world together in the room! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <event><title>Creating a web app using Wagtail CMS</title>
 <topic>Tech</topic>
