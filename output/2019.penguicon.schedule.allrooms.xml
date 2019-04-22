@@ -81,12 +81,12 @@
 <time>8 AM</time></event><event>
 <room>Algonquin A</room>
 <day>SUNDAY, MAY 5</day>
-<title>Onitama w/ Life Sized Pieces</title>
+<title>Onitama With Life Sized Pieces</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
 <room>Algonquin B</room>
 <day>FRIDAY, MAY 3</day>
-<title>So this is your first Penguicon...</title>
+<title>So This is Your First Penguicon...</title>
 <topic>Penguicon</topic>
 <time>5 PM</time></event><event>
 <room>Algonquin B</room>
@@ -244,61 +244,6 @@
 <title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <time>3 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Michael Cieslak &amp; Nicole E. Castle</title>
-<topic>Lit</topic>
-<time>10 AM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Michael W. Lucas</title>
-<topic>Lit</topic>
-<time>12 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: David Erik Nelson &amp; Christian Klaver</title>
-<topic>Lit</topic>
-<time>1 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Mary Lynne Gibbs</title>
-<topic>Lit</topic>
-<time>2 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Cassandra Morgan</title>
-<topic>Lit</topic>
-<time>4 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
-<topic>Lit</topic>
-<time>5 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Ken Schrader</title>
-<topic>Lit</topic>
-<time>6 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Vik Walker &amp; Ophelia Crane</title>
-<topic>Lit</topic>
-<time>7 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SUNDAY, MAY 5</day>
-<title>Reading: Merrie Haskell</title>
-<topic>Lit</topic>
-<time>11 AM</time></event><event>
-<room>Author Readings Room</room>
-<day>SUNDAY, MAY 5</day>
-<title>Reading: G.S. Scott &amp; Diana Kathryn Plopa</title>
-<topic>Lit</topic>
-<time>12 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SUNDAY, MAY 5</day>
-<title>Reading: Jean Davis &amp; Clif Flynt</title>
-<topic>Lit</topic>
-<time>1 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, MAY 3</day>
 <title>Ray Bradbury: A Fan Discussion</title>
@@ -386,7 +331,7 @@
 <time>9 PM</time></event><event>
 <room>Baldwin</room>
 <day>SATURDAY, MAY 4</day>
-<title>Care and Feeding of Your Pet (18+)</title>
+<title>Care and Feeding of Your Pet</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <room>Baldwin</room>
@@ -601,6 +546,11 @@
 <time>4 PM</time></event><event>
 <room>Charlevoix B</room>
 <day>SATURDAY, MAY 4</day>
+<title>Unconditional Basic Income</title>
+<topic>Life</topic>
+<time>5 PM</time></event><event>
+<room>Charlevoix B</room>
+<day>SATURDAY, MAY 4</day>
 <title>Subversive Fairy Tales</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
@@ -649,11 +599,6 @@
 <title>Understanding USB: Why This Cable Works, and That One Doesn't</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<room>Charlevoix C</room>
-<day>SATURDAY, MAY 4</day>
-<title>Unconditional Basic Income</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
 <room>Computer Lab [Charlevoix C]</room>
 <day>FRIDAY, MAY 3</day>
 <title>The Sunday Morning Linux Review</title>
@@ -716,7 +661,7 @@
 <time>9 AM</time></event><event>
 <room>Computer Lab [Charlevoix C]</room>
 <day>SUNDAY, MAY 5</day>
-<title>Creating a web app using Wagtail CMS</title>
+<title>Creating a Web App Using Wagtail CMS</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
 <room>Computer Lab [Charlevoix C]</room>
@@ -1026,7 +971,7 @@
 <time>4 PM</time></event><event>
 <room>EMC IV</room>
 <day>FRIDAY, MAY 3</day>
-<title>How to photograph a supermassive black hole.</title>
+<title>How to Photograph a Supermassive Black Hole</title>
 <topic>Science</topic>
 <time>5 PM</time></event><event>
 <room>EMC IV</room>
@@ -1199,11 +1144,6 @@
 <title>How to Kill your Players: GMing 101</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Food Room [317]</room>
-<day>SUNDAY, MAY 5</day>
-<title>Lizzy's Garden Party</title>
-<topic>Anime</topic>
-<time>1 PM</time></event><event>
 <room>Food [317]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Multiple Ways To Make a Grilled Cheese</title>
@@ -1231,7 +1171,7 @@
 <time>10 PM</time></event><event>
 <room>Food [317]</room>
 <day>SATURDAY, MAY 4</day>
-<title>Camp cookery and magical meal to prevent trailside tragedy</title>
+<title>Camp Cookery and Magical Meals to Prevent Trailside Tragedy</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
 <room>Food [317]</room>
@@ -1274,217 +1214,222 @@
 <title>Getting Baked: Vegan Style</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Food [317]</room>
+<day>SUNDAY, MAY 5</day>
+<title>Lizzy's Garden Party</title>
+<topic>Anime</topic>
+<time>1 PM</time></event><event>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Azul</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Unpublished Prototype: GaiaVora</title>
 <topic>Gaming</topic>
 <time>3 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Mystic Vale</title>
 <topic>Gaming</topic>
 <time>4 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Small World</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>London</title>
 <topic>Gaming</topic>
 <time>6 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Winds of Turmoil</title>
 <topic>Gaming</topic>
 <time>6 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>7 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>7 Wonders</title>
 <topic>Gaming</topic>
 <time>7 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Dune</title>
 <topic>Gaming</topic>
 <time>8 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Isle of Skye</title>
 <topic>Gaming</topic>
 <time>8 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Lords of Vegas</title>
 <topic>Gaming</topic>
 <time>9 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Star Trek: Five-Year Mission</title>
 <topic>Gaming</topic>
 <time>9 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Red Dragon Inn</title>
 <topic>Gaming</topic>
 <time>10 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Abyss</title>
 <topic>Gaming</topic>
 <time>10 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Tyrants of the Underdark</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Vector! Attack of the Metapirates, Penguicon Edition</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Too Like The Lightning, The Card Game</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Istanbul</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Dice Forge</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Terraforming Mars</title>
 <topic>Gaming</topic>
 <time>2 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Igor's Challenge (D&amp;D 5th Edition)</title>
 <topic>Gaming</topic>
 <time>2 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Egiza</title>
 <topic>Gaming</topic>
 <time>3 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>I Didn't Plan For This One Shot</title>
 <topic>Gaming</topic>
 <time>3 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Paper Tales</title>
 <topic>Gaming</topic>
 <time>3 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Codename</title>
 <topic>Gaming</topic>
 <time>4 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Timeline Challenge</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Pompeii</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>The GRAM Role-Playing Game: Introductory Demo</title>
 <topic>Gaming</topic>
 <time>5 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Five Tribes</title>
 <topic>Gaming</topic>
 <time>7 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Via Nebula</title>
 <topic>Gaming</topic>
 <time>9 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Roll for the Galaxy</title>
 <topic>Gaming</topic>
 <time>10 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Overworld</title>
 <topic>Gaming</topic>
 <time>10 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Sushi Go</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Alien Frontiers</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Augsburg 1520</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<room>Gaming [TC's Room]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Pandemic</title>
 <topic>Gaming</topic>
 <time>2 PM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>FRIDAY, MAY 3</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
 <time>5 PM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>SATURDAY, MAY 4</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
 <time>10 AM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>SATURDAY, MAY 4</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
 <time>3 PM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>SATURDAY, MAY 4</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
 <time>7 PM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>SUNDAY, MAY 5</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
@@ -1779,7 +1724,7 @@
 <time>3 PM</time></event><event>
 <room>People R Us [1017]</room>
 <day>SATURDAY, MAY 4</day>
-<title>People R Us: People with Disabilities:</title>
+<title>People R Us: People with Disabilities</title>
 <topic>Diversity</topic>
 <time>5 PM</time></event><event>
 <room>People R Us [1017]</room>
@@ -1834,7 +1779,7 @@
 <time>6 PM</time></event><event>
 <room>Portage Auditorium</room>
 <day>SATURDAY, MAY 4</day>
-<title>holy_f***ing_s***.wmv (18+)</title>
+<title>holy_f***ing_s***.wmv</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
 <room>Portage Auditorium</room>
@@ -1878,57 +1823,112 @@
 <title>BOF: Installing Open Source Software is Too Complicated Now</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Michael Cieslak &amp; Nicole E. Castle</title>
+<topic>Lit</topic>
+<time>10 AM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Michael W. Lucas</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: David Erik Nelson &amp; Christian Klaver</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Mary Lynne Gibbs</title>
+<topic>Lit</topic>
+<time>2 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Cassandra Morgan</title>
+<topic>Lit</topic>
+<time>4 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
+<topic>Lit</topic>
+<time>5 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Ken Schrader</title>
+<topic>Lit</topic>
+<time>6 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Vik Walker &amp; Ophelia Crane</title>
+<topic>Lit</topic>
+<time>7 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SUNDAY, MAY 5</day>
+<title>Reading: Merrie Haskell</title>
+<topic>Lit</topic>
+<time>11 AM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SUNDAY, MAY 5</day>
+<title>Reading: G.S. Scott &amp; Diana Kathryn Plopa</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<room>Writer's Block Author Readings [306]</room>
+<day>SUNDAY, MAY 5</day>
+<title>Reading: Jean Davis &amp; Clif Flynt</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Author Office Hours with Jen Haeger</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with Michael W. Lucas</title>
 <topic>Lit</topic>
 <time>10 AM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
-<title>Office Hours with Cassandra Morgan</title>
+<title>Author Office Hours with Cassandra Morgan</title>
 <topic>Lit</topic>
 <time>10 AM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with Nicole E. Castle</title>
 <topic>Lit</topic>
 <time>12 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with Michael Cieslak &amp; Mary Lynne Gibbs</title>
 <topic>Lit</topic>
 <time>1 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with Vik Walker &amp; Ken Schrader</title>
 <topic>Lit</topic>
 <time>2 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Writer's Reception</title>
 <topic>Lit</topic>
 <time>3 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with Diana Kathryn Plopa &amp; Jean Davis</title>
 <topic>Lit</topic>
 <time>4 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with BluRaven C. Houvener</title>
 <topic>Lit</topic>
 <time>5 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SATURDAY, MAY 4</day>
 <title>Author Office Hours with G. S. Scott</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>SUNDAY, MAY 5</day>
 <title>Author Office Hours with Christian Klaver &amp; David Erik Nelson</title>
 <topic>Lit</topic>

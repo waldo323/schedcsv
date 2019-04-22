@@ -51,12 +51,12 @@
 <title>JAC3D G33K's Fitness Boot Camp Penguicon 2019 Edition</title>
 <topic>Life</topic>
 <time>8 AM</time></event><event>
-<title>Onitama w/ Life Sized Pieces</title>
+<title>Onitama With Life Sized Pieces</title>
 <topic>Gaming</topic>
 <time>11 AM</time></event><event>
 <room>Algonquin B</room>
 <day>FRIDAY, MAY 3</day>
-<title>So this is your first Penguicon...</title>
+<title>So This is Your First Penguicon...</title>
 <topic>Penguicon</topic>
 <time>5 PM</time></event><event>
 <title>Selected Reading by Saladin Ahmed</title>
@@ -158,42 +158,6 @@
 <title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <time>3 PM</time></event><event>
-<room>Author Readings Room</room>
-<day>SATURDAY, MAY 4</day>
-<title>Reading: Michael Cieslak &amp; Nicole E. Castle</title>
-<topic>Lit</topic>
-<time>10 AM</time></event><event>
-<title>Reading: Michael W. Lucas</title>
-<topic>Lit</topic>
-<time>12 PM</time></event><event>
-<title>Reading: David Erik Nelson &amp; Christian Klaver</title>
-<topic>Lit</topic>
-<time>1 PM</time></event><event>
-<title>Reading: Mary Lynne Gibbs</title>
-<topic>Lit</topic>
-<time>2 PM</time></event><event>
-<title>Reading: Cassandra Morgan</title>
-<topic>Lit</topic>
-<time>4 PM</time></event><event>
-<title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
-<topic>Lit</topic>
-<time>5 PM</time></event><event>
-<title>Reading: Ken Schrader</title>
-<topic>Lit</topic>
-<time>6 PM</time></event><event>
-<title>Reading: Vik Walker &amp; Ophelia Crane</title>
-<topic>Lit</topic>
-<time>7 PM</time></event><event>
-<day>SUNDAY, MAY 5</day>
-<title>Reading: Merrie Haskell</title>
-<topic>Lit</topic>
-<time>11 AM</time></event><event>
-<title>Reading: G.S. Scott &amp; Diana Kathryn Plopa</title>
-<topic>Lit</topic>
-<time>12 PM</time></event><event>
-<title>Reading: Jean Davis &amp; Clif Flynt</title>
-<topic>Lit</topic>
-<time>1 PM</time></event><event>
 <room>Baldwin</room>
 <day>FRIDAY, MAY 3</day>
 <title>Ray Bradbury: A Fan Discussion</title>
@@ -248,7 +212,7 @@
 <title>Fetish and Fluff: The Curious Side of the Furry Fandom</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
-<title>Care and Feeding of Your Pet (18+)</title>
+<title>Care and Feeding of Your Pet</title>
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <day>SUNDAY, MAY 5</day>
@@ -385,6 +349,9 @@
 <title>Critical Optimism</title>
 <topic>Tech</topic>
 <time>4 PM</time></event><event>
+<title>Unconditional Basic Income</title>
+<topic>Life</topic>
+<time>5 PM</time></event><event>
 <title>Subversive Fairy Tales</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
@@ -416,11 +383,6 @@
 <title>Understanding USB: Why This Cable Works, and That One Doesn't</title>
 <topic>Tech</topic>
 <time>1 PM</time></event><event>
-<room>Charlevoix C</room>
-<day>SATURDAY, MAY 4</day>
-<title>Unconditional Basic Income</title>
-<topic>Life</topic>
-<time>5 PM</time></event><event>
 <room>Computer Lab [Charlevoix C]</room>
 <day>FRIDAY, MAY 3</day>
 <title>The Sunday Morning Linux Review</title>
@@ -461,7 +423,7 @@
 <title>What It's Like to Own Your OS v3</title>
 <topic>Tech</topic>
 <time>9 AM</time></event><event>
-<title>Creating a web app using Wagtail CMS</title>
+<title>Creating a Web App Using Wagtail CMS</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
 <title>Network Science with NetworkX: Session 2</title>
@@ -661,7 +623,7 @@
 <title>Crochet Basics and Beyond</title>
 <topic>DIY</topic>
 <time>4 PM</time></event><event>
-<title>How to photograph a supermassive black hole.</title>
+<title>How to Photograph a Supermassive Black Hole</title>
 <topic>Science</topic>
 <time>5 PM</time></event><event>
 <title>Maintaining Your Mental and Emotional Health While Job Hunting</title>
@@ -772,11 +734,6 @@
 <title>How to Kill your Players: GMing 101</title>
 <topic>Gaming</topic>
 <time>12 PM</time></event><event>
-<room>Food Room [317]</room>
-<day>SUNDAY, MAY 5</day>
-<title>Lizzy's Garden Party</title>
-<topic>Anime</topic>
-<time>1 PM</time></event><event>
 <room>Food [317]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Multiple Ways To Make a Grilled Cheese</title>
@@ -795,7 +752,7 @@
 <topic>After Dark</topic>
 <time>10 PM</time></event><event>
 <day>SATURDAY, MAY 4</day>
-<title>Camp cookery and magical meal to prevent trailside tragedy</title>
+<title>Camp Cookery and Magical Meals to Prevent Trailside Tragedy</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
 <title>Cheese: Young &amp; Spry or Aged &amp; Sharp?</title>
@@ -823,7 +780,10 @@
 <title>Getting Baked: Vegan Style</title>
 <topic>Food</topic>
 <time>11 AM</time></event><event>
-<room>Gaming (TC's Room)</room>
+<title>Lizzy's Garden Party</title>
+<topic>Anime</topic>
+<time>1 PM</time></event><event>
+<room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Azul</title>
 <topic>Gaming</topic>
@@ -941,7 +901,7 @@
 <title>Pandemic</title>
 <topic>Gaming</topic>
 <time>2 PM</time></event><event>
-<room>Hackerspace (Room 328)</room>
+<room>Hackerspace [328]</room>
 <day>FRIDAY, MAY 3</day>
 <title>AHA Badge Soldering</title>
 <topic>Penguicon</topic>
@@ -1154,7 +1114,7 @@
 <title>People R Us: POC In Tech</title>
 <topic>Diversity</topic>
 <time>3 PM</time></event><event>
-<title>People R Us: People with Disabilities:</title>
+<title>People R Us: People with Disabilities</title>
 <topic>Diversity</topic>
 <time>5 PM</time></event><event>
 <day>SUNDAY, MAY 5</day>
@@ -1191,7 +1151,7 @@
 <title>Movie: Spiderman: Into the Spiderverse</title>
 <topic>Media</topic>
 <time>6 PM</time></event><event>
-<title>holy_f***ing_s***.wmv (18+)</title>
+<title>holy_f***ing_s***.wmv</title>
 <topic>After Dark</topic>
 <time>9 PM</time></event><event>
 <title>Canes: From Sensual to Sadistic</title>
@@ -1226,7 +1186,43 @@
 <title>BOF: Installing Open Source Software is Too Complicated Now</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
-<room>Writer's Block </room>
+<room>Writer's Block Author Readings [306]</room>
+<day>SATURDAY, MAY 4</day>
+<title>Reading: Michael Cieslak &amp; Nicole E. Castle</title>
+<topic>Lit</topic>
+<time>10 AM</time></event><event>
+<title>Reading: Michael W. Lucas</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<title>Reading: David Erik Nelson &amp; Christian Klaver</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<title>Reading: Mary Lynne Gibbs</title>
+<topic>Lit</topic>
+<time>2 PM</time></event><event>
+<title>Reading: Cassandra Morgan</title>
+<topic>Lit</topic>
+<time>4 PM</time></event><event>
+<title>Reading: Jen Haeger &amp; Leslie Gulvas</title>
+<topic>Lit</topic>
+<time>5 PM</time></event><event>
+<title>Reading: Ken Schrader</title>
+<topic>Lit</topic>
+<time>6 PM</time></event><event>
+<title>Reading: Vik Walker &amp; Ophelia Crane</title>
+<topic>Lit</topic>
+<time>7 PM</time></event><event>
+<day>SUNDAY, MAY 5</day>
+<title>Reading: Merrie Haskell</title>
+<topic>Lit</topic>
+<time>11 AM</time></event><event>
+<title>Reading: G.S. Scott &amp; Diana Kathryn Plopa</title>
+<topic>Lit</topic>
+<time>12 PM</time></event><event>
+<title>Reading: Jean Davis &amp; Clif Flynt</title>
+<topic>Lit</topic>
+<time>1 PM</time></event><event>
+<room>Writer's Block Bookstore [Lobby]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Author Office Hours with Jen Haeger</title>
 <topic>Lit</topic>
@@ -1235,7 +1231,7 @@
 <title>Author Office Hours with Michael W. Lucas</title>
 <topic>Lit</topic>
 <time>10 AM</time></event><event>
-<title>Office Hours with Cassandra Morgan</title>
+<title>Author Office Hours with Cassandra Morgan</title>
 <topic>Lit</topic>
 <time>10 AM</time></event><event>
 <title>Author Office Hours with Nicole E. Castle</title>
