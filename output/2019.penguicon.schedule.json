@@ -116,6 +116,34 @@
         "end_date": "",
         "title": "",
         "track": "",
+        "start_time": "17:00",
+        "presenters": [
+            ""
+        ],
+        "location": "",
+        "minutes": 2760,
+        "start_date": "5/3/2019",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
+            "Edward M Fleece"
+        ],
+        "location": "",
+        "minutes": 540,
+        "start_date": "5/4/2019",
+        "end_time": "20:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
         "start_time": "12:00",
         "presenters": [
             "The Wandering Meeple"
@@ -138,6 +166,20 @@
         "minutes": 120,
         "start_date": "5/3/2019",
         "end_time": "15:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "15:00",
+        "presenters": [
+            "Edward M Fleece"
+        ],
+        "location": "",
+        "minutes": 300,
+        "start_date": "5/3/2019",
+        "end_time": "20:00"
     },
     {
         "book_description": "",
@@ -673,9 +715,10 @@
             "Matt Arnold",
             "Chelle Silas",
             "Scott Kennedy",
-            "Christie Birtie",
+            "Christie Bertie",
             "Karen Corbeill",
             "Jeff Marraccini",
+            "Randy Bradakis",
             "Niki MacRae",
             "Paul Keyes",
             "Sophia Brueckner",
@@ -755,12 +798,27 @@
         "track": "",
         "start_time": "18:00",
         "presenters": [
+            "Ericka Kahler",
             "Donald Mark Haynes"
         ],
         "location": "",
         "minutes": 60,
         "start_date": "5/3/2019",
         "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "19:00",
+        "presenters": [
+            "Pat Baker"
+        ],
+        "location": "",
+        "minutes": 120,
+        "start_date": "5/3/2019",
+        "end_time": "21:00"
     },
     {
         "book_description": "",
@@ -1120,7 +1178,7 @@
         "track": "",
         "start_time": "20:00",
         "presenters": [
-            ""
+            "Girlinthechair aka Alex"
         ],
         "location": "",
         "minutes": 60,
@@ -1538,6 +1596,7 @@
         "start_time": "09:00",
         "presenters": [
             "Michael W. Lucas",
+            "Brigham Vaughn",
             "Colleen Nye"
         ],
         "location": "",
@@ -1580,7 +1639,7 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Ashley Lesser"
+            "Ashley"
         ],
         "location": "",
         "minutes": 60,
@@ -1953,7 +2012,9 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
-            "Donald Mark Haynes"
+            "Ericka Kahler",
+            "Donald Mark Haynes",
+            "Doug Johnson"
         ],
         "location": "",
         "minutes": 60,
@@ -3029,7 +3090,9 @@
         "track": "",
         "start_time": "15:00",
         "presenters": [
-            "Donald Mark Haynes"
+            "Ericka Kahler",
+            "Donald Mark Haynes",
+            "Doug Johnson"
         ],
         "location": "",
         "minutes": 60,
@@ -3875,6 +3938,20 @@
             "Ericka Kahler",
             "Donald Mark Haynes",
             "Doug Johnson"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "18:00",
+        "presenters": [
+            "Pat Baker"
         ],
         "location": "",
         "minutes": 60,
@@ -5012,7 +5089,7 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
-            "Lea Pfeifer"
+            "Lea"
         ],
         "location": "",
         "minutes": 60,
@@ -5127,7 +5204,8 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
-            "Mari Brighe"
+            "Mari Brighe",
+            "Brigham Vaughn"
         ],
         "location": "",
         "minutes": 60,
@@ -5142,6 +5220,7 @@
         "start_time": "11:00",
         "presenters": [
             "Jen Haeger",
+            "Claire Winn",
             "Colleen Nye"
         ],
         "location": "",
@@ -5230,6 +5309,20 @@
         "start_time": "12:00",
         "presenters": [
             "John Patrick"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/5/2019",
+        "end_time": "13:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "12:00",
+        "presenters": [
+            "Charles Severance"
         ],
         "location": "",
         "minutes": 60,
@@ -5630,9 +5723,10 @@
             "Matt Arnold",
             "Chelle Silas",
             "Scott Kennedy",
-            "Christie Birtie",
+            "Christie Bertie",
             "Karen Corbeill",
             "Jeff Marraccini",
+            "Randy Bradakis",
             "Niki MacRae",
             "Paul Keyes",
             "Sophia Brueckner",

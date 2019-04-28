@@ -39,11 +39,26 @@
 <title>Penguin Hunt</title>
 <topic>Mayhem</topic>
 <time>4 PM</time></event><event>
+<room>Outside</room>
+<day>FRIDAY, MAY 3</day>
+<title>Addition errata: Visit the Open Source Racing SakaiCar</title>
+<topic>Special Event</topic>
+<time>5 PM</time></event><event>
+<room>Lobby</room>
+<day>SATURDAY, MAY 4</day>
+<title>Retro Gaming - Addition Errata</title>
+<topic>Special Event</topic>
+<time>11 AM</time></event><event>
 <room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Azul</title>
 <topic>Gaming</topic>
 <time>1 PM</time></event><event>
+<room>Lobby</room>
+<day>FRIDAY, MAY 3</day>
+<title>Retro Gaming - Addition Errata</title>
+<topic>Special Event</topic>
+<time>3 PM</time></event><event>
 <room>Gaming [TC's Room]</room>
 <day>FRIDAY, MAY 3</day>
 <title>Unpublished Prototype: GaiaVora</title>
@@ -251,9 +266,14 @@
 <time>6 PM</time></event><event>
 <room>EMC V</room>
 <day>FRIDAY, MAY 3</day>
-<title>Expanse: The Politics of Mars, Earth &amp; Belters</title>
+<title>Expanse: The Politics of Mars, Earth &amp; Belters - Program Participant errata</title>
 <topic>Lit</topic>
 <time>6 PM</time></event><event>
+<room>Montcalm</room>
+<day>FRIDAY, MAY 3</day>
+<title>Addition errata The Dark Web Big Three: TOR, I2P, Freenet</title>
+<topic>Tech</topic>
+<time>7 PM</time></event><event>
 <room>EMC I</room>
 <day>FRIDAY, MAY 3</day>
 <title>Cope or Nope: How to Adult Like a Real Grown Up</title>
@@ -666,7 +686,7 @@
 <time>11 AM</time></event><event>
 <room>Algonquin C/D</room>
 <day>SATURDAY, MAY 4</day>
-<title>Truths, Half-truths and Sweet, Sweet Lies: Reflections of an IT Consultant</title>
+<title>Truths, Half-truths and Sweet, Sweet Lies: Reflections of an IT Consultant - Program Participant errata</title>
 <topic>Tech</topic>
 <time>11 AM</time></event><event>
 <room>EMC I</room>
@@ -1041,7 +1061,7 @@
 <time>3 PM</time></event><event>
 <room>EMC V</room>
 <day>SATURDAY, MAY 4</day>
-<title>Career Navigation Strategies: Taking Charge of Your Life</title>
+<title>Career Navigation Strategies: Taking Charge of Your Life. -Program Partcipant errata</title>
 <topic>Tech</topic>
 <time>3 PM</time></event><event>
 <room>EMC II</room>
@@ -1141,8 +1161,8 @@
 <time>4 PM</time></event><event>
 <room>Montcalm</room>
 <day>SATURDAY, MAY 4</day>
-<title>Your Fat is Not Your Fault: What Science Says About Behavior and Weight</title>
-<topic>Science</topic>
+<title>Your Fat is Not Your Fault: What Science Says About Behavior and Weight - Track errata</title>
+<topic>Life</topic>
 <time>4 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SATURDAY, MAY 4</day>
@@ -1334,6 +1354,11 @@
 <title>Agile Escape Room</title>
 <topic>Tech</topic>
 <time>6 PM</time></event><event>
+<room>Montcalm</room>
+<day>SATURDAY, MAY 4</day>
+<title>Addition errata Qubes OS - "A reasonably Secure Operating System'</title>
+<topic>Tech</topic>
+<time>6 PM</time></event><event>
 <room>EMC IV</room>
 <day>SATURDAY, MAY 4</day>
 <title>PAC: Adventures in 3D Printing</title>
@@ -1381,7 +1406,7 @@
 <time>7 PM</time></event><event>
 <room>Food [317]</room>
 <day>SATURDAY, MAY 4</day>
-<title>Black Butler AMV Tea Party</title>
+<title>Black Butler AMV Tea Party - Sign Up errata</title>
 <topic>Anime</topic>
 <time>7 PM</time></event><event>
 <room>EMC II</room>
@@ -1621,7 +1646,7 @@
 <time>10 AM</time></event><event>
 <room>Computer Lab [Charlevoix C]</room>
 <day>SUNDAY, MAY 5</day>
-<title>Creating a Web App Using Wagtail CMS</title>
+<title>CANCELED errata Creating a Web App Using Wagtail CMS</title>
 <topic>Tech</topic>
 <time>10 AM</time></event><event>
 <room>Gaming [TC's Room]</room>
@@ -1771,7 +1796,7 @@
 <time>11 AM</time></event><event>
 <room>Algonquin C/D</room>
 <day>SUNDAY, MAY 5</day>
-<title>PitchoRama</title>
+<title>PitchoRama - Participant errata</title>
 <topic>Lit</topic>
 <time>11 AM</time></event><event>
 <room>Writer's Block Bookstore [Lobby]</room>
@@ -1803,6 +1828,11 @@
 <day>SUNDAY, MAY 5</day>
 <title>Book Swap</title>
 <topic>Lit</topic>
+<time>12 PM</time></event><event>
+<room>Outside</room>
+<day>SUNDAY, MAY 5</day>
+<title>Addition errata: Meet an Open Source Race Car Driver</title>
+<topic>Tech</topic>
 <time>12 PM</time></event><event>
 <room>Charlevoix A</room>
 <day>SUNDAY, MAY 5</day>
