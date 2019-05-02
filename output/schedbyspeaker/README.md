@@ -69,8 +69,8 @@ use these links for downloading the actual csv files:
 | [DougJohnson]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DougJohnson.csv ) |  |
 | [Dracose]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Dracose.csv ) |  |
 | [DrewLanagan]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/DrewLanagan.csv ) |  |
+| [EdwardFleece]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardFleece.csv ) |  |
 | [EdwardL.Platt]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardL.Platt.csv ) |  |
-| [EdwardMFleece]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EdwardMFleece.csv ) |  |
 | [ElizabethJury]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ElizabethJury.csv ) |  |
 | [ElizabethLucas]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/ElizabethLucas.csv ) |  |
 | [EllenRimar]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/EllenRimar.csv ) |  |
@@ -194,7 +194,7 @@ use these links for downloading the actual csv files:
 | [RandyBradakis]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RandyBradakis.csv ) |  |
 | [Rapture]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Rapture.csv ) |  |
 | [RebaWissner]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RebaWissner.csv ) |  |
-| [Rich]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Rich.csv ) |  |
+| [RichardSheff]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RichardSheff.csv ) |  |
 | [Rooskie]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Rooskie.csv ) |  |
 | [RoryVanderMolen]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/RoryVanderMolen.csv ) |  |
 | [Ryan]( https://raw.githubusercontent.com/waldo323/schedcsv/master/output/schedbyspeaker/Ryan.csv ) |  |
