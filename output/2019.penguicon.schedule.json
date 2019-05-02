@@ -1164,20 +1164,6 @@
         "track": "",
         "start_time": "20:00",
         "presenters": [
-            "Patt Mundy"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/3/2019",
-        "end_time": "21:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "20:00",
-        "presenters": [
             "Shannon Marshall",
             "Maggie Maiville"
         ],
@@ -1286,6 +1272,20 @@
         "minutes": 120,
         "start_date": "5/3/2019",
         "end_time": "22:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "21:00",
+        "presenters": [
+            "Patt Mundy"
+        ],
+        "location": "",
+        "minutes": 120,
+        "start_date": "5/3/2019",
+        "end_time": "23:00"
     },
     {
         "book_description": "",
@@ -5635,9 +5635,9 @@
             "Mary Fitzpatrick"
         ],
         "location": "",
-        "minutes": 60,
+        "minutes": 120,
         "start_date": "5/5/2019",
-        "end_time": "14:00"
+        "end_time": "15:00"
     },
     {
         "book_description": "",
