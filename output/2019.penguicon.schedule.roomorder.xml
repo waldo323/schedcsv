@@ -232,7 +232,7 @@
 <event><title>Opening Ceremonies</title>
 <topic>Penguicon</topic>
 <room>Algonquin C/D</room>
-<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Bertie, Karen Corbeill, Jeff Marraccini, Randy Bradakis, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis</participant> Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Bertie, Karen Corbeill, Jeff Marraccini, Randy Bradakis, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Danny Hansen, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis</participant> Join Jessica Roland, our illustrious ConChair, the rest of the ConCom, and our amazing Guests of Honor as they kick off another fabulous Penguicon! You never know what might happen! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>9 PM</time>
 <event><title>Geeky Burlesque</title>
@@ -275,6 +275,12 @@
 <topic>Gaming, After Dark</topic>
 <room>Algonquin C/D</room>
 <blurb><participant>Casey O'Donnell, Hermione Banger</participant> Come join your fellow fools as we start our journeys. This session will start with just a little background on our friendship game, Fellowship of Fools: The (Friendship) Game. We will spend some time playing the game and getting to know one another. Then we will share the NEW Romance and Sexuality decks. Some these questions are hard! Come prepared to dive deep and make a friend or find a new spark with a little help from our game. This a session for adult attendees, so this event is 18+. <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>11 PM</time>
+<event><title>Sexuality, Kink &amp; Poly 101 - Location Change Errata</title>
+<topic>After Dark</topic>
+<room>Algonquin C/D</room>
+<blurb><participant>April Jennifer Choi</participant> There are so many questions people have about sexuality, kink, and poly. Get your basic questions answered by queer, kinky, polyamorous members of society! We'll also dive deeper into discussion on any difficult questions the group may have. This event is 18+. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
 <event><title>PitchoRama - Participant errata</title>
@@ -292,7 +298,7 @@
 <event><title>Closing Ceremonies</title>
 <topic>Penguicon</topic>
 <room>Algonquin C/D</room>
-<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Bertie, Karen Corbeill, Jeff Marraccini, Randy Bradakis, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis</participant> It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Cassy Sinke, Zed Shaw, Mikey Mason, Matt Arnold, Chelle Silas, Scott Kennedy, Christie Bertie, Karen Corbeill, Jeff Marraccini, Randy Bradakis, Niki MacRae, Paul Keyes, Sophia Brueckner, Saladin Ahmed, Danny Hansen, Jessica Ann Roland, Amanda Long-Adams, Alison Chan, Brigit Bradakis</participant> It is so hard to say goodbye. Join us at closing ceremonies as we recap the amazingness of Penguicon 2019, hear final thoughts from our Guests of Honor, and learn a little about plans for 2020! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>4 PM</time>
 <event><title>Ray Bradbury: A Fan Discussion</title>
@@ -406,7 +412,7 @@
 <event><title>BoF:Star Trek: Disco</title>
 <topic>Media</topic>
 <room>Baldwin</room>
-<blurb><participant>Joy Lucas</participant> Wear your favorite polyester jumpsuit while discussing the second season of CBSs streaming service pilot show while sitting under a mirror ball. Okay, maybe skip the jumpsuit. <duration>1 hour</duration></blurb></event>
+<blurb><participant>automatedjoy</participant> Wear your favorite polyester jumpsuit while discussing the second season of CBSs streaming service pilot show while sitting under a mirror ball. Okay, maybe skip the jumpsuit. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
 <event><title>BoF: Crowdfunding Your Next Great Novel</title>
@@ -510,6 +516,12 @@
 <room>Charlevoix A</room>
 <blurb><participant>Mari Brighe</participant> A small, but increasingly virulent contingent of fandom has spent the last several years waging war against women, people of color, and LGBTQ people (and especially those at the intersections of those experiences) who desire to see themselves in genre media. From the Sad Puppies to Gamergate to Comicsgate, we'll talk through the reality of what creators and fans alike have experienced when under fire from these groups, the potential roots of this backlash, and what we can do as a community to push back against it. <br /> <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
+<time>5 PM</time>
+<event><title>Tom Smith Concert - Addition errata</title>
+<topic>Media</topic>
+<room>Charlevoix A</room>
+<blurb><participant>Tom Smith</participant> Perennial Nifty Guest Tom Smith is back for about fifty minutes of silliness, singalongs, and SPOILERS! If you havent heard him before come on down and live the myth of Smith! <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
 <time>6 PM</time>
 <event><title>Building a Beetleweight Combat Robot</title>
 <topic>Tech</topic>
@@ -523,10 +535,10 @@
 <blurb><participant>Edward L. Platt, Matt Arnold, Michael W. Lucas, Mark Felder</participant> The Fediverse is a loose association of independent, privately owned, interoperable social media servers. How can this possibly work? Multiple implementations like gnu.social, Mastodon, PixelFed, and more allow you to build your own online community that the big social media companies can't touch. Come learn how this works, how different servers define their culture, how to find the right server for you, and what it takes to run your own server. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>8 PM</time>
-<event><title>Podcasting Workshop</title>
+<event><title>Podcasting Workshop - Participant Errata</title>
 <topic>Media</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Dave Phillips</participant> Have more questions after 'Podcasting 101?' This session will be a deep-dive into topics of interest to the audience. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Dave Phillips, Bob Waltenspiel</participant> Have more questions after 'Podcasting 101?' This session will be a deep-dive into topics of interest to the audience. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>9 PM</time>
 <event><title>Floggers 201</title>
@@ -544,13 +556,13 @@
 <event><title>10 Commandments of Networking</title>
 <topic>Life</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Dave Phillips</participant> Your network is the most important thing you will develop over the course of your career. We'll teach you how to do it right. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Dave Phillips, Bob Waltenspiel</participant> Your network is the most important thing you will develop over the course of your career. We'll teach you how to do it right. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
 <event><title>Senior Sysadmin Ethics Panel</title>
 <topic>Tech</topic>
 <room>Charlevoix A</room>
-<blurb><participant>Michael W. Lucas, Wayne Pederson</participant> System and network administrators have access to all sorts of data that they really shouldn't. Except when you should. Except when you're happier not knowing. And sometimes, there's no right answer. There's nobody on your side. It's just you, a computer, and a decision that you're going to have to live with. The panelists have all been in technology for multiple decades. We've been in horrible spots and had to make hard decisions. We've made all the mistakes, so you don't have to. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Michael W. Lucas, Wayne Pedersen</participant> System and network administrators have access to all sorts of data that they really shouldn't. Except when you should. Except when you're happier not knowing. And sometimes, there's no right answer. There's nobody on your side. It's just you, a computer, and a decision that you're going to have to live with. The panelists have all been in technology for multiple decades. We've been in horrible spots and had to make hard decisions. We've made all the mistakes, so you don't have to. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>12 PM</time>
 <event><title>Solar Panel Panel: Begin the Revolution and Make Money</title>
@@ -730,7 +742,7 @@
 <event><title>Networking 101</title>
 <topic>Tech</topic>
 <room>Computer Lab [Charlevoix C]</room>
-<blurb><participant>Wayne Pederson</participant> Have you always wanted to learn about computer networking, but don't know where to start? Do acronyms such as DNS, DHCP, or TTL confuse you? Then Networking 101 is for you! Join Wayne Pedersen, owner and entrepreneur of Maumee Geeks as he brings over 20 years of IT experience to Penguicon. Learn about general network concepts, subnetting, and how the internet works in a live demo. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Wayne Pedersen</participant> Have you always wanted to learn about computer networking, but don't know where to start? Do acronyms such as DNS, DHCP, or TTL confuse you? Then Networking 101 is for you! Join Wayne Pedersen, owner and entrepreneur of Maumee Geeks as he brings over 20 years of IT experience to Penguicon. Learn about general network concepts, subnetting, and how the internet works in a live demo. <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>8 PM</time>
 <event><title>Linux 101: Create Installation Media</title>
@@ -744,17 +756,17 @@
 <room>Computer Lab [Charlevoix C]</room>
 <blurb><participant>Michael Rometty</participant> We will look at the Vim Text Editor, starting with the very basics and moving to some of the lesser known features of Vim. Bring your computer with Vim already installed if you want to work along with the speaker. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
-<time>12 PM</time>
-<event><title>Podcasting 101: So You Wanna Start a Podcast</title>
-<topic>Media</topic>
-<room>Computer Lab [Charlevoix C]</room>
-<blurb><participant>Dave Phillips</participant> Join us for a new and updated Podcasting 101 panel to help people get started in the wild world of podcasting! <duration>1 hour</duration></blurb></event>
-<day>SATURDAY, MAY 4</day>
 <time>1 PM</time>
 <event><title>Pen Testing with Kali Linux</title>
 <topic>Tech</topic>
 <room>Computer Lab [Charlevoix C]</room>
 <blurb><participant>William Bowen</participant> Join us for an open discussion on Kali Linux, pen testing, and the possibilities of using this distro overall. <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
+<time>2 PM</time>
+<event><title>Podcasting 101: So You Wanna Start a Podcast - Time/Participant Errata</title>
+<topic>Media</topic>
+<room>Computer Lab [Charlevoix C]</room>
+<blurb><participant>Dave Phillips, Bob Waltenspiel</participant> Join us for a new and updated Podcasting 101 panel to help people get started in the wild world of podcasting! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>3 PM</time>
 <event><title>Building a Vuetiful Web Application With Vue and Vuetify</title>
@@ -808,7 +820,7 @@
 <event><title>Networking 102</title>
 <topic>Tech</topic>
 <room>Computer Lab [Charlevoix C]</room>
-<blurb><participant>Wayne Pederson</participant> Networking 102 builds off Networking 101 (we highly suggest attending 101 first). We'll expand with knowledge of VPNs, segmentation, and some enterprise concepts in a live demo. Join owner and entrepreneur of Maumee Geeks, Wayne Pedersen as he brings over 20 years of IT experience to Penguicon. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Wayne Pedersen</participant> Networking 102 builds off Networking 101 (we highly suggest attending 101 first). We'll expand with knowledge of VPNs, segmentation, and some enterprise concepts in a live demo. Join owner and entrepreneur of Maumee Geeks, Wayne Pedersen as he brings over 20 years of IT experience to Penguicon. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>1 PM</time>
 <event><title>Writing An Open Source Paypal Portal For Convention Reg</title>
@@ -865,16 +877,16 @@
 <blurb><participant>Joseph Rock</participant> Hands on with lock picks, just the basics, same as last year with a few new locks and things. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>12 PM</time>
-<event><title>Make Your Own Cardboard Automata</title>
+<event><title>Make Your Own Cardboard Automata - Sign Up errata</title>
 <topic>DIY</topic>
 <room>EMC I</room>
-<blurb><participant>Karen Corbeill</participant> Learn how to use cams and cranks to make a cardboard creation that moves and jives. Walk away with your own custom automata. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Karen Corbeill</participant> Learn how to use cams and cranks to make a cardboard creation that moves and jives. Walk away with your own custom automata. Space is limited, please sign up in advance, near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>2 PM</time>
-<event><title>Electronics Wreck Lab and Scavenger Hunt</title>
+<event><title>Electronics Wreck Lab and Scavenger Hunt - Sign Up Errata</title>
 <topic>Science</topic>
 <room>EMC I</room>
-<blurb><participant>Karen Corbeill</participant> Get some tools in hand and take apart some electronics! See whats inside and follow along with the scavenger hunt to find various electronics components and learn what they do. Capacitors, resistors, and diodes, oh my! <duration>2 hours</duration></blurb></event>
+<blurb><participant>Karen Corbeill</participant> Get some tools in hand and take apart some electronics! See whats inside and follow along with the scavenger hunt to find various electronics components and learn what they do. Capacitors, resistors, and diodes, oh my! Space is limited. Please sign up in advance near Ops! <duration>2 hours</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>4 PM</time>
 <event><title>The Art of the Query</title>
@@ -901,10 +913,10 @@
 <blurb><participant>Patrick Allen, Mary Fitzpatrick</participant> Have you ever wanted to be a treasure hunter? Join us for an introduction to finding treasures and fossils hidden beneath rivers and streams! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>10 AM</time>
-<event><title>Needle Felting 201</title>
+<event><title>Needle Felting 201 - Description Errata</title>
 <topic>DIY</topic>
 <room>EMC I</room>
-<blurb><participant>Liz 'Smoothie' DeBruyn</participant> A follow-up to Bagel's Needlefelt 101 workshop. Learn to needle felt 3D objects. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Liz 'Smoothie' DeBruyn</participant> A follow up to Needle Felting 101 panel. Learn to felt 3D objects! Tools and material provided to create a cute little friend. Use of sharp needles; children over 12 welcome with parental supervision. &amp;nbsp;If you are unable to attend, there will be some extra take-home kits available with self guided instructions, so stop by and have a POKE! Space is limited, so please sign up near Ops! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
 <event><title>How to Make a Weighted Blanket or Lap Pad</title>
@@ -952,7 +964,7 @@
 <event><title>Needle Felting 101</title>
 <topic>DIY</topic>
 <room>EMC II</room>
-<blurb><participant>Bagel Garrison</participant> We'll start with a stabby needle and some wool, and you'll end up with an adorable penguin to take home! Learn the basics of why and how felting happens, and the general idea of how to make it work. Space is limited so please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Angel Garrison</participant> We'll start with a stabby needle and some wool, and you'll end up with an adorable penguin to take home! Learn the basics of why and how felting happens, and the general idea of how to make it work. Space is limited so please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>11 AM</time>
 <event><title>Fun with Origami</title>
@@ -988,7 +1000,7 @@
 <event><title>Needle Tatting 101</title>
 <topic>DIY</topic>
 <room>EMC II</room>
-<blurb><participant>Bagel Garrison</participant> Tatting is a classic form of lace-making, traditionally made by using a shuttle. However, needle tatting has become a popular alternative, and as I find it easier to explain and demonstrate, that's how I'll be introducing you to this art form. We will go over basic rings, picots, and joins and end up with a flower for you to take home. Space is limited so please sign up in advance at Ops! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Angel Garrison</participant> Tatting is a classic form of lace-making, traditionally made by using a shuttle. However, needle tatting has become a popular alternative, and as I find it easier to explain and demonstrate, that's how I'll be introducing you to this art form. We will go over basic rings, picots, and joins and end up with a flower for you to take home. Space is limited so please sign up in advance at Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>5 PM</time>
 <event><title>Writers: Get Paid!</title>
@@ -1081,10 +1093,10 @@
 <blurb><participant>Shane Soules</participant> Professional wrestling is one of the most storied art forms the world has ever known. Hey, wait! Come back! This panel is here to show you the history of pro wrestling. Dating from the early 1900s, all the way to present day, and all of the amazing history in-between. Pairs well with the sister-panel 'Professional Wrestling 101' <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>12 PM</time>
-<event><title>Self-publishing Comics and Books</title>
+<event><title>Self-publishing Comics and Books - Participant Errata</title>
 <topic>Media</topic>
 <room>EMC III</room>
-<blurb><participant>Stephanie Manard</participant> This talk will help current and future writers learn how to self-publish and promote their work. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Stephanie Manard, Dave Phillips</participant> This talk will help current and future writers learn how to self-publish and promote their work. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>1 PM</time>
 <event><title>Bicycle Maintenance 101</title>
@@ -1135,16 +1147,16 @@
 <blurb><participant>Clif Flynt, Michael W. Lucas</participant> Writing a book is a positive step in professional development. It establishes you as 'an expert,' it answers the 'communication skills' question on job applications, and can be the springboard to independence. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
-<event><title>Yarn Dyeing Demo</title>
+<event><title>CANCELED Errata - Yarn Dyeing Demo</title>
 <topic>DIY</topic>
 <room>EMC III</room>
-<blurb><participant>Grace Cocking</participant> Dyeing yarn is both big business and a fun hobby. See how yarn is dyed and learn about the techniques involved. <duration>1 hour</duration></blurb></event>
+<blurb><participant></participant> <strong>Unfortunately, this session has been CANCELED.</strong> Dyeing yarn is both big business and a fun hobby. See how yarn is dyed and learn about the techniques involved. <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>12 PM</time>
-<event><title>Crochet 102: Granny Squares!</title>
+<event><title>Crochet 102: Granny Squares! - Particpiant Errata</title>
 <topic>DIY</topic>
 <room>EMC III</room>
-<blurb><participant>Joy Lucas, Grace Cocking</participant> Learn to crochet granny squares. Prior single crochet and double crochet knowledge required. Space is limited so please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
+<blurb><participant>automatedjoy</participant> Learn to crochet granny squares. Prior single crochet and double crochet knowledge required. Space is limited so please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>1 PM</time>
 <event><title>Agile Escape Room</title>
@@ -1159,10 +1171,10 @@
 <blurb><participant>Kim Ulrich</participant> Learn how to take your favorite coloring book page and turn it into a beautiful piece of hand embroidery. Some prior knowledge of embroidery is helpful, but not required. <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>4 PM</time>
-<event><title>Crochet Basics and Beyond</title>
+<event><title>Crochet Basics and Beyond - Participant Errata</title>
 <topic>DIY</topic>
 <room>EMC IV</room>
-<blurb><participant>Kelly V, Jeanette Quirk, Grace Cocking</participant> Join us to learn basic crochet techniques and chart reading. Space is limited so sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Kelly V, Jeanette Quirk</participant> Join us to learn basic crochet techniques and some tips from your fellow Crochet lovers. Space is limited so sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>5 PM</time>
 <event><title>How to Photograph a Supermassive Black Hole</title>
@@ -1297,10 +1309,10 @@
 <blurb><participant>Paul Kemner</participant> Kon wrote and directed four movies and a TV series before his tragic death. His highly-acclaimed work has been described as 'gritty, intense, and at times even nightmarish,' with themes of obsession and illusion vs reality. We'll check them out, discussing themes, styles, and what makes them worth watching, ending with an open discussion. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>10 AM</time>
-<event><title>Amigurumi: Crochet a Penguin!</title>
+<event><title>Amigurumi: Crochet a Penguin! - Participant Errata</title>
 <topic>DIY</topic>
 <room>EMC V</room>
-<blurb><participant>Dawn Marino, Kelly V, Grace Cocking</participant> So you know the basics of crochet and want to try something new? Lets go beyond the basics, read a pattern, and make amigurumi! Space limited so sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Dawn Marino, Kelly V</participant> So you know the basics of crochet and want to try something new? Lets go beyond the basics, read a pattern, and make amigurumi! Space limited so sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>11 AM</time>
 <event><title>Silicone Casting for Cheap Bastards</title>
@@ -1375,70 +1387,76 @@
 <blurb><participant>Byron Pepper</participant> One of a series of three panels on RPGs. Ever wonder how some players can speak of the death of a beloved character with adoration and whimsy in their eyes at they tell the story? Need some tips on how to up your GM game? Well, stop on by and let Sarge give you some pointers on how to set up exciting situations, how to treat your players so they accept the eventual TPK, and even better, how to leave them telling stories about your games for ages. <duration>2 hours</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>5 PM</time>
-<event><title>Multiple Ways To Make a Grilled Cheese</title>
+<event><title>Multiple Ways To Make a Grilled Cheese - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Justin Winkelman</participant> Come learn several ways to reach the same result, a grilled cheese, or at least melted cheese between two pieces of bread. Some methods will taste better than others, and all will be sampled. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Justin Winkelman</participant> Come learn several ways to reach the same result, a grilled cheese, or at least melted cheese between two pieces of bread. Some methods will taste better than others, and all will be sampled. Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
+<day>FRIDAY, MAY 3</day>
+<time>6 PM</time>
+<event><title>Spoilers Galore for the HBO Series: Game of Thrones - Addition Errata</title>
+<topic>Media</topic>
+<room>Food [317]</room>
+<blurb><participant>Elizabeth Jury</participant> <strong>SPOILER ALERT </strong><br><br>If you are a fellow <em>Game of Thrones,</em> HBO Series Geek and you have seen the latest episode(s) of the HBO Series, <em>Game of Thrones</em>, then this is the space to come and discuss everything and anything about the Series! &amp;nbsp;<br>This event will allow <strong>spoiler-filled discussions </strong>about <em>Game of Thrones</em>; The HBO Series. <br><br>If you <strong>have not </strong>seen <em>Game of Thrones,</em> the HBO Series, than this is not the panel you are looking for. <br><br><strong>We strongly advise attendees to be aware that by chosing to attend this event, they are chosing to enter a <em>Game of Thrones</em>, HBO Series &amp;nbsp;Spoiler Zone! <br></strong> <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>7 PM</time>
-<event><title>Will it Sphere-ify</title>
+<event><title>Will it Sphere-ify - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Frannie</participant> Spherification is a technique that transforms liquids into solid, edible spheres. People can use this technique to add color, texture, and flavor to their dishes. Join me as I experiment with spherification and try out a bunch of different liquids and see, WILL IT SPHERIFY? <duration>1 hour</duration></blurb></event>
+<blurb><participant>Frannie</participant> Spherification is a technique that transforms liquids into solid, edible spheres. People can use this technique to add color, texture, and flavor to their dishes. Join me as I experiment with spherification and try out a bunch of different liquids and see, WILL IT SPHERIFY? Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>8 PM</time>
-<event><title>Oxling's Alcoholic Chocolates</title>
+<event><title>Oxling's Alcoholic Chocolates - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Dan Eckerd</participant> If candy is dandy and liquor is quicker, then what is a combination of both?....Fun. Come see what Oxling has cooked up and learn to make your own fun filled treats. Tequila rose truffles, coconut rum cream and high octane cherry cordials are a few of the examples. Samples and recipes will be available at the end. Make sure to bring your valid ID with you to verify you are over 21 to try the chocolates. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Dan Eckerd</participant> If candy is dandy and liquor is quicker, then what is a combination of both?....Fun. Come see what Oxling has cooked up and learn to make your own fun filled treats. Tequila rose truffles, coconut rum cream and high octane cherry cordials are a few of the examples. Samples and recipes will be available at the end. Make sure to bring your valid ID with you to verify you are over 21 to try the chocolates. Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>9 PM</time>
-<event><title>Whiskey of the West</title>
+<event><title>Whiskey of the West - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Greg Williams, Katie Buffone</participant> For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Greg Williams, Katie Buffone</participant> For our annual journey into our favorite spirit, this year's theme will be an exploration of some interesting craft brands from west of the Mississippi. Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>10 PM</time>
-<event><title>Sketchy Nonsense Live Podcast 2: We're Doing It Again</title>
+<event><title>Sketchy Nonsense Live Podcast 2: We're Doing It Again - Sign Up Errata</title>
 <topic>After Dark</topic>
 <room>Food [317]</room>
-<blurb><participant>Shane Soules, Andy Althouse, Nick Haynes, Anne LaCroix</participant> Sketchy Nonsense is back again to do our patented (not actually patented) live podcast! Come see a group of guys do some live improv comedy for your listening pleasure. And also drink beer. And ALSO also, you can drink it with us! Sample the 'Beer of the Week' with us. It is most definitely 21+, so bring your big boy/girl/non-gender conforming pants and have a fun time! This event is 18+. <duration>2 hours</duration></blurb></event>
+<blurb><participant>Shane Soules, Andy Althouse, Nick Haynes, Anne LaCroix</participant> Sketchy Nonsense is back again to do our patented (not actually patented) live podcast! Come see a group of guys do some live improv comedy for your listening pleasure. And also drink beer. And ALSO also, you can drink it with us! Sample the 'Beer of the Week' with us. It is most definitely 21+, so bring your big boy/girl/non-gender conforming pants and have a fun time! This event is 18+. &amp;nbsp;Space is limited, please sign up in advance near Ops! <duration>2 hours</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>11 AM</time>
-<event><title>Camp Cookery and Magical Meals to Prevent Trailside Tragedy</title>
+<event><title>Camp Cookery and Magical Meals to Prevent Trailside Tragedy - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Alex Drummer, chloe zrnich</participant> Come learn some tips and tricks for camp cookery. We will focus on backpacking meal planning and on trail prep. Discussion points will include types of backpacking stoves and cook kits, dehydration, DIY freeze drying, cold soak meals, and trail baking. Recipes will be available and possibly meal samples too! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Alex Drummer, chloe zrnich</participant> Come learn some tips and tricks for camp cookery. We will focus on backpacking meal planning and on trail prep. Discussion points will include types of backpacking stoves and cook kits, dehydration, DIY freeze drying, cold soak meals, and trail baking. Recipes will be available and possibly meal samples too! Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>1 PM</time>
-<event><title>Cheese: Young &amp; Spry or Aged &amp; Sharp?</title>
+<event><title>Cheese: Young &amp; Spry or Aged &amp; Sharp? -Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Shannon and Maggie return with another flavorful cheese tasting panel. Come discover if you like your cheese young and spry or aged and sharp. We will compare and contrast three different cheeses in both their 'young' and 'aged' stages. Come prepared to have your taste buds stimulated and your minds blown. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Shannon Marshall, Maggie Maiville</participant> Shannon and Maggie return with another flavorful cheese tasting panel. Come discover if you like your cheese young and spry or aged and sharp. We will compare and contrast three different cheeses in both their 'young' and 'aged' stages. Come prepared to have your taste buds stimulated and your minds blown. Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>2 PM</time>
-<event><title>Ask A Baker</title>
+<event><title>Ask A Baker -Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Erika Wagner</participant> What does creaming really DO? What causes browning? Why does bread...bread? Why did my thing do that thing? If you've ever had a baking question, or just want to shoot the breeze about butter, come in. Have a chat, have a snack, and leave with a few recipes that won't let you down. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Erika Wagner</participant> What does creaming really DO? What causes browning? Why does bread...bread? Why did my thing do that thing? If you've ever had a baking question, or just want to shoot the breeze about butter, come in. Have a chat, have a snack, and leave with a few recipes that won't let you down. Space is limited. Please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>3 PM</time>
-<event><title>CMP Kitchen: Mad Food Science Continuing Education Credits</title>
+<event><title>CMP Kitchen: Mad Food Science Continuing Education Credits - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Jeanette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan</participant> The folks at Cine Mal Practice have a love/hate relationship with innovative food. We've made sauerkraut chocolate cake, bacon fat ginger snaps, and Velveeta fudge all in the name of SCIENCE! Some recipes hit the spot, some don't. Come join us for a 'how to make peep sushi' demonstration and taste some of the odder things we've made. Recipes will be available. Bring your own weird food recipe to trade if you want. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Jeanette Quirk, Matthew Quirk, Amy Conlon, Kevin Hogan</participant> The folks at Cine Mal Practice have a love/hate relationship with innovative food. We've made sauerkraut chocolate cake, bacon fat ginger snaps, and Velveeta fudge all in the name of SCIENCE! Some recipes hit the spot, some don't. Come join us for a 'how to make peep sushi' demonstration and taste some of the odder things we've made. Recipes will be available. Bring your own weird food recipe to trade if you want. Space is limited. Please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>4 PM</time>
 <event><title>The Exciting World of Vegan Cheese Part II with Amy &amp; Amy</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Amy Wright, Amy Wilkins</participant> Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! Youll go home with plenty of recipes to make your own delicious plant-based cheeses at home <duration>1 hour</duration></blurb></event>
+<blurb><participant>Amy Wright, Amy Wilkins</participant> Join the Vegan Amys for another scrumptious vegan cheese adventure! We'll talk about all things vegan cheese: what it is, where to buy it, and of course what it tastes like with a smorgasbord of purchased and homemade cheeses. You'll learn about cool vegan cheese making techniques, including methods of culturing and aging. Plus we'll demo one of our own cheese recipes! Youll go home with plenty of recipes to make your own delicious plant-based cheeses at home.&amp;nbsp; <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>5 PM</time>
-<event><title>The different kind of home brew</title>
+<event><title>The different kind of home brew - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Mairi Mundy-Dowd</participant> Honey, yeast, water, and time. When you combine these four ingredients and a little bit of knowledge you get a delicious (alcoholic) beverage called mead. We'll talk about the basics of brewing possibly the world's oldest fermented beverage and what you can do to make it your own. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Mairi Mundy-Dowd</participant> Honey, yeast, water, and time. When you combine these four ingredients and a little bit of knowledge you get a delicious (alcoholic) beverage called mead. We'll talk about the basics of brewing possibly the world's oldest fermented beverage and what you can do to make it your own. Space is limited, please sign up in advance, near Ops! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>7 PM</time>
 <event><title>Black Butler AMV Tea Party - Sign Up errata</title>
@@ -1447,19 +1465,19 @@
 <blurb><participant>Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell</participant> Reapers work hard and party harder! Come join Ronald Knox, Abberline, Ankou D Undertaker, and William T. Spears as they light up the night as only grim reapers can! Sample a bevy of non-alcoholic drinks. Enjoy Japanese snacks and mingle as we watch videos, run a few games like the best Tsundere turn-away, and dance the night away. Space is limited, please sign up in advance near Ops! <duration>2 hours</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>10 PM</time>
-<event><title>Spooky Stories with Marshmallows on Top</title>
+<event><title>Spooky Stories with Marshmallows on Top -Sign Up Errata</title>
 <topic>After Dark</topic>
 <room>Food [317]</room>
-<blurb><participant>Josie Kusner</participant> I'll bring the hot cocoa, you bring your real-life spooky, creepy or just strange paranormal stories. An open mind is encouraged, but you're welcome to think we're all weirdos and just enjoy cocoa and storytime. Join us as we share some personal 'no s*it, there I was' experiences. An event to savor. (Marshmallows and sharing optional.) This event is 18+. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Josie Kusner</participant> I'll bring the hot cocoa, you bring your real-life spooky, creepy or just strange paranormal stories. An open mind is encouraged, but you're welcome to think we're all weirdos and just enjoy cocoa and storytime. Join us as we share some personal 'no s*it, there I was' experiences. An event to savor. (Marshmallows and sharing optional.) This event is 18+. &amp;nbsp;Please come prepared with ID. Space is limited, please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>11 AM</time>
-<event><title>Getting Baked: Vegan Style</title>
+<event><title>Getting Baked: Vegan Style - Sign Up Errata</title>
 <topic>Food</topic>
 <room>Food [317]</room>
-<blurb><participant>Amy Wright</participant> Did you know that there are over 10 kinds of vegan egg replacers? Oh did you think this was a class on vegan edibles? Well, we'll get to that! Learn ways to replace eggs, milk, and butter for baked goods that are flaky, fluffy, and down right delicious. Samples provided of course. We'll also share recipes and methods for how to get the most baked out of your vegan baked goods! <duration>1 hour</duration></blurb></event>
+<blurb><participant>Amy Wright</participant> Did you know that there are over 10 kinds of vegan egg replacers? Oh did you think this was a class on vegan edibles? Well, we'll get to that! Learn ways to replace eggs, milk, and butter for baked goods that are flaky, fluffy, and down right delicious. Samples provided of course. We'll also share recipes and methods for how to get the most baked out of your vegan baked goods! Space is limited to please sign up in advance near Ops! <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>1 PM</time>
-<event><title>Lizzy's Garden Party</title>
+<event><title>Lizzy's Garden Party - Sign Up Errata</title>
 <topic>Anime</topic>
 <room>Food [317]</room>
 <blurb><participant>Paul Kemner, A. Carina Spears, Star Stramel, Natasha Kidwell</participant> The reapers of Black Butler cordially invite you to join us for an elegant midday tea. Come and learn about the finer points of the Victorian era, from the arts of etiquette and parasol dueling to the languages of fans and flowers. By the end, you will be able to charm most anyone! Limited seating, formal dress is welcome, please sign up in advance at Ops! <duration>2 hours</duration></blurb></event>
@@ -1793,12 +1811,6 @@
 <topic>Tech</topic>
 <room>Montcalm</room>
 <blurb><participant>Pat Baker</participant> Get an introduction to the big three in censorship resistant communications, TOR, I2P and Freenet. &amp;nbsp;Peel back how they work and some options on using them. <duration>2 hours</duration></blurb></event>
-<day>FRIDAY, MAY 3</day>
-<time>9 PM</time>
-<event><title>Sexuality, Kink &amp; Poly 101</title>
-<topic>After Dark</topic>
-<room>Montcalm</room>
-<blurb><participant>April Jennifer Choi</participant> There are so many questions people have about sexuality, kink, and poly. Get your basic questions answered by queer, kinky, polyamorous members of society! We'll also dive deeper into discussion on any difficult questions the group may have. This event is 18+. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>9 AM</time>
 <event><title>Stiggy's Dogs Presents: Service Dogs Information Panel</title>
@@ -1867,10 +1879,10 @@
 <blurb><participant>BluRaven C. Houvener</participant> The embodiment of DIY literature, zines have always been around in one form or another. Learn how to put together your own zine about whatever you're passionate about. We'll talk about traditional and digital methods and even dummy up a zine! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>8 PM</time>
-<event><title>Cookbook Lovers Unite</title>
+<event><title>Cookbook Lovers Unite.</title>
 <topic>Food</topic>
 <room>Montcalm</room>
-<blurb><participant>Lisa Leutheuser</participant> In spite of millions of recipes available on the Internet, some of us still love to collect and cook from cookbooks. This panel is for all you cookbook lovers (and wanna-be lovers) out there. Come share your favorite cookbooks, discuss what qualities make a great cookbook versus a, well, not-so-good cookbook, and compare notes on the tricky issue of how to organize a large cookbook collection. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Lisa Leutheuser</participant> In spite of millions of recipes available on the Internet, some of us still love to collect and cook from cookbooks. This panel is for all you cookbook lovers (and wanna-be lovers) out there. Come share your favorite cookbooks, discuss what qualities make a great cookbook versus a, well, not-so-good cookbook, and compare notes on the tricky issue of how to organize a large cookbook collection.&amp;nbsp; <duration>1 hour</duration></blurb></event>
 <day>SUNDAY, MAY 5</day>
 <time>9 AM</time>
 <event><title>Makeup 101</title>
@@ -1897,10 +1909,10 @@
 <blurb><participant>Alena Van Arendonk</participant> Its possible to make great costume armor without investing in metalworking or risking toxic chemicals! We'll cover alternative armoring for historical and fantasy costumes, using a variety of inexpensive, readily-available materials. See sample armor pieces and learn about their construction process. Space is limited so please sign up in advance near Ops! <duration>2 hours</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>4 PM</time>
-<event><title>How to Not Suck at Looking for a Job</title>
+<event><title>How to Not Suck at Looking for a Job - Participant Errata</title>
 <topic>Life</topic>
 <room>Nicolet</room>
-<blurb><participant>Dave Phillips</participant> We've spent almost 20 years helping people find jobs, and our blogs about doing so are used and shared out by the State of Michigan and many employment agencies and contracting firms. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Dave Phillips, Bob Waltenspiel</participant> We've spent almost 20 years helping people find jobs, and our blogs about doing so are used and shared out by the State of Michigan and many employment agencies and contracting firms. <duration>1 hour</duration></blurb></event>
 <day>FRIDAY, MAY 3</day>
 <time>5 PM</time>
 <event><title>I Started a Makerspace: AMA</title>
@@ -2141,6 +2153,12 @@
 <room>Portage Auditorium</room>
 <blurb><participant>Ashley</participant> Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome! <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
+<time>11 AM</time>
+<event><title>Spoilers Galore for Avengers Endgame - ADDITION Errata</title>
+<topic>Media</topic>
+<room>Portage Auditorium</room>
+<blurb><participant>Angel Garrison, Ben Leach</participant> <strong>SPOILER ALERT&amp;nbsp;</strong><br><br>If you are a fellow Marvel Comics Universe Geek and you have seen the latest movie,<em>&amp;nbsp;Avengers: Endgame,&amp;nbsp;</em>then this is the space to come and discuss everything and anything about the movie! &amp;nbsp;<br>This event will allow <strong>spoiler-filled</strong> discussions about <em>Avengers: Endgame.</em>&amp;nbsp; <br><br>If you <strong>have not seen</strong> <em>Avengers: Endgame</em>, than this is not the panel you are looking for.&amp;nbsp;<br><br><strong>We strongly advise attendees to be aware that by chosing to attend this event, they are chosing to enter an&amp;nbsp;</strong><em><strong>Avengers: Endgame</strong></em> &amp;nbsp;<strong>Spoiler Zone!&amp;nbsp;</strong><br><br><br> <duration>1 hour</duration></blurb></event>
+<day>SATURDAY, MAY 4</day>
 <time>12 PM</time>
 <event><title>Feline Nutrition 101</title>
 <topic>Science</topic>
@@ -2240,10 +2258,10 @@
 <blurb><participant>David Erik Nelson, Christian Klaver</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>2 PM</time>
-<event><title>Reading: Mary Lynne Gibbs</title>
+<event><title>Reading: Mary Lynne Gibbs &amp; Brigham Vaughn - Particpant Errata</title>
 <topic>Lit</topic>
 <room>Writer's Block Author Readings [306]</room>
-<blurb><participant>Mary Lynne Gibbs</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Mary Lynne Gibbs, Brigham Vaughn</participant> The authors read from their works. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>4 PM</time>
 <event><title>Reading: Cassandra Morgan</title>
@@ -2306,10 +2324,10 @@
 <blurb><participant>Cassandra Morgan</participant> Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>12 PM</time>
-<event><title>Author Office Hours with Nicole E. Castle</title>
+<event><title>Author Office Hours with Nicole E. Castle &amp; Brigham Vaughn - Participant Errata</title>
 <topic>Lit</topic>
 <room>Writer's Block Bookstore [Lobby]</room>
-<blurb><participant>Nicole E. Castle</participant> Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions. <duration>1 hour</duration></blurb></event>
+<blurb><participant>Nicole E. Castle, Brigham Vaughn</participant> Have a question about life, the universe, or publishing? Come chat with the author and find out all the answers to your burning questions. <duration>1 hour</duration></blurb></event>
 <day>SATURDAY, MAY 4</day>
 <time>1 PM</time>
 <event><title>Author Office Hours with Michael Cieslak &amp; Mary Lynne Gibbs</title>

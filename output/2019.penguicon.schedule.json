@@ -330,8 +330,7 @@
         "start_time": "16:00",
         "presenters": [
             "Kelly V",
-            "Jeanette Quirk",
-            "Grace Cocking"
+            "Jeanette Quirk"
         ],
         "location": "",
         "minutes": 60,
@@ -359,7 +358,8 @@
         "track": "",
         "start_time": "16:00",
         "presenters": [
-            "Dave Phillips"
+            "Dave Phillips",
+            "Bob Waltenspiel"
         ],
         "location": "",
         "minutes": 60,
@@ -723,6 +723,7 @@
             "Paul Keyes",
             "Sophia Brueckner",
             "Saladin Ahmed",
+            "Danny Hansen",
             "Jessica Ann Roland",
             "Amanda Long-Adams",
             "Alison Chan",
@@ -743,6 +744,20 @@
             "Chris Bell",
             "Emily Bell",
             "Marsalis"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/3/2019",
+        "end_time": "19:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "18:00",
+        "presenters": [
+            "Elizabeth Jury"
         ],
         "location": "",
         "minutes": 60,
@@ -1031,7 +1046,7 @@
         "track": "",
         "start_time": "19:00",
         "presenters": [
-            "Wayne Pederson"
+            "Wayne Pedersen"
         ],
         "location": "",
         "minutes": 60,
@@ -1391,20 +1406,6 @@
         "end_date": "",
         "title": "",
         "track": "",
-        "start_time": "21:00",
-        "presenters": [
-            "April Jennifer Choi"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/3/2019",
-        "end_time": "22:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
         "start_time": "22:00",
         "presenters": [
             "Shane Soules",
@@ -1653,7 +1654,7 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Bagel Garrison"
+            "Angel Garrison"
         ],
         "location": "",
         "minutes": 60,
@@ -1710,8 +1711,7 @@
         "start_time": "10:00",
         "presenters": [
             "Dawn Marino",
-            "Kelly V",
-            "Grace Cocking"
+            "Kelly V"
         ],
         "location": "",
         "minutes": 60,
@@ -1914,6 +1914,21 @@
         "start_time": "11:00",
         "presenters": [
             "Jason Miller"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "12:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "11:00",
+        "presenters": [
+            "Angel Garrison",
+            "Ben Leach"
         ],
         "location": "",
         "minutes": 60,
@@ -2203,7 +2218,8 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
-            "Nicole E. Castle"
+            "Nicole E. Castle",
+            "Brigham Vaughn"
         ],
         "location": "",
         "minutes": 60,
@@ -2232,20 +2248,6 @@
         "start_time": "12:00",
         "presenters": [
             "Vik K. Walker"
-        ],
-        "location": "",
-        "minutes": 60,
-        "start_date": "5/4/2019",
-        "end_time": "13:00"
-    },
-    {
-        "book_description": "",
-        "end_date": "",
-        "title": "",
-        "track": "",
-        "start_time": "12:00",
-        "presenters": [
-            "Dave Phillips"
         ],
         "location": "",
         "minutes": 60,
@@ -2344,7 +2346,8 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
-            "Stephanie Manard"
+            "Stephanie Manard",
+            "Dave Phillips"
         ],
         "location": "",
         "minutes": 60,
@@ -2717,7 +2720,8 @@
         "track": "",
         "start_time": "14:00",
         "presenters": [
-            "Mary Lynne Gibbs"
+            "Mary Lynne Gibbs",
+            "Brigham Vaughn"
         ],
         "location": "",
         "minutes": 60,
@@ -2819,6 +2823,21 @@
         "start_time": "14:00",
         "presenters": [
             "Ericka Kahler"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "15:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "14:00",
+        "presenters": [
+            "Dave Phillips",
+            "Bob Waltenspiel"
         ],
         "location": "",
         "minutes": 60,
@@ -3282,7 +3301,7 @@
         "track": "",
         "start_time": "16:00",
         "presenters": [
-            "Bagel Garrison"
+            "Angel Garrison"
         ],
         "location": "",
         "minutes": 60,
@@ -3474,6 +3493,20 @@
             "Matt Arnold",
             "Kevin O'Brien",
             "Zachary Blagg"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "18:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
+        "start_time": "17:00",
+        "presenters": [
+            "Tom Smith"
         ],
         "location": "",
         "minutes": 60,
@@ -4317,7 +4350,8 @@
         "track": "",
         "start_time": "20:00",
         "presenters": [
-            "Dave Phillips"
+            "Dave Phillips",
+            "Bob Waltenspiel"
         ],
         "location": "",
         "minutes": 60,
@@ -4598,6 +4632,20 @@
         "end_date": "",
         "title": "",
         "track": "",
+        "start_time": "23:00",
+        "presenters": [
+            "April Jennifer Choi"
+        ],
+        "location": "",
+        "minutes": 60,
+        "start_date": "5/4/2019",
+        "end_time": "00:00"
+    },
+    {
+        "book_description": "",
+        "end_date": "",
+        "title": "",
+        "track": "",
         "start_time": "00:00",
         "presenters": [
             ""
@@ -4856,7 +4904,7 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Joy Lucas"
+            "automatedjoy"
         ],
         "location": "",
         "minutes": 60,
@@ -4930,7 +4978,8 @@
         "track": "",
         "start_time": "10:00",
         "presenters": [
-            "Dave Phillips"
+            "Dave Phillips",
+            "Bob Waltenspiel"
         ],
         "location": "",
         "minutes": 60,
@@ -5047,7 +5096,7 @@
         "start_time": "11:00",
         "presenters": [
             "Michael W. Lucas",
-            "Wayne Pederson"
+            "Wayne Pedersen"
         ],
         "location": "",
         "minutes": 60,
@@ -5175,7 +5224,7 @@
         "track": "",
         "start_time": "11:00",
         "presenters": [
-            "Grace Cocking"
+            ""
         ],
         "location": "",
         "minutes": 60,
@@ -5364,7 +5413,7 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
-            "Wayne Pederson"
+            "Wayne Pedersen"
         ],
         "location": "",
         "minutes": 60,
@@ -5468,8 +5517,7 @@
         "track": "",
         "start_time": "12:00",
         "presenters": [
-            "Joy Lucas",
-            "Grace Cocking"
+            "automatedjoy"
         ],
         "location": "",
         "minutes": 60,
@@ -5731,6 +5779,7 @@
             "Paul Keyes",
             "Sophia Brueckner",
             "Saladin Ahmed",
+            "Danny Hansen",
             "Jessica Ann Roland",
             "Amanda Long-Adams",
             "Alison Chan",
