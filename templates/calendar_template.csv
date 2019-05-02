@@ -1,3 +1,3 @@
 Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
 
-speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
+speaker_calendar_template = """"%(name)s","%(startday)s","%(starttime)s","%(endday)s","%(endtime)s","%(allday)s","%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s - Audio/video needs: %(avneeds)s ","%(venue)s",%(private)s\n"""
