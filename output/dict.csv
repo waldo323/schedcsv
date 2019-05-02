@@ -98,7 +98,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['245', 'Y', 'Penguicon Photo Booth', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Say cheese! Grab a prop and take some pics!', '', '', '', '', '0', '20', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '169184abc65135cb6dcc700dee253449', '931404', '', '', '', '', '', '']"
+input,"['245', 'Y', 'Penguicon Photo Booth', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Say cheese! Grab a prop and take some pics!', '', '', '', '', '0', '21', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', '169184abc65135cb6dcc700dee253449', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -258,7 +258,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '18', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
+input,"['239', 'Y', 'Prize Capsule', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Put in a quarter and get a prize!', '', '', '', '', '0', '19', '0', 'N', 'Lobby', '', '', '', '', '', '', '', '', '', '', '', 'a53cbb1ddf98b10125370a24599e4ae7', '931404', '', '', '', '', '', '']"
 booklocation,Lobby
 calspeakers,
 avneeds,
@@ -298,7 +298,7 @@ starttimeampm,4 PM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"FRIDAY, MAY 3"
-input,"['234', 'Y', 'Penguin Hunt', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Hunt down the elusive alien race of Pengui who are here because they thought Penguicon was a call from their mothership to send them home. They are a friendly but skittish bunch so we ask that you only observe them where they are by taking their picture. You will be rewarded for your skills of observation when you present your captured image to the ConChair, Jessica Roland.', '', '', '', '', '0', '18', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', 'd31b789fe58b340699426920c24085e5', '931401', '', '', '', '', '', '']"
+input,"['234', 'Y', 'Penguin Hunt', '2019-05-03 16:00:00', '2019-05-05 16:00:00', 'Mayhem', '', 'Hunt down the elusive alien race of Pengui who are here because they thought Penguicon was a call from their mothership to send them home. They are a friendly but skittish bunch so we ask that you only observe them where they are by taking their picture. You will be rewarded for your skills of observation when you present your captured image to the ConChair, Jessica Roland.', '', '', '', '', '0', '19', '0', 'N', 'Various Location', '', '', '', '', '', '', '', '', '', '', '', 'd31b789fe58b340699426920c24085e5', '931401', '', '', '', '', '', '']"
 booklocation,Various Location
 calspeakers,
 avneeds,
@@ -3818,7 +3818,7 @@ starttimeampm,9 PM
 tracknosp,['SpecialEvent']
 event_type_list,['Special Event']
 dayheader,"FRIDAY, MAY 3"
-input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '108', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
+input,"['357', 'Y', 'Geeky Burlesque', '2019-05-03 21:00:00', '2019-05-03 23:00:00', 'Special Event', '', 'Burlesque is a free musical expression of the self. Penguicon is excited to present a Geeky Burlesque show on Friday at 9pm! Come hang out and cheer on your brave fellow attendees as they get on stage and let it all (or most of it) out. There will be ribbons available for those who attend! There is no tipping allowed this year. 18+ only, please, ID will be checked at the door.', '', '', '', '', '0', '109', '0', 'N', 'Algonquin C/D', '', '', '', '', '', '', '', '', '', '', '', 'ddaa9b0af1163a21cb85b89958584b03', '931392', '', '', '', '', '', '']"
 booklocation,Algonquin C/D
 calspeakers,
 avneeds,
@@ -4138,7 +4138,7 @@ starttimeampm,6 AM
 tracknosp,['Mayhem']
 event_type_list,['Mayhem']
 dayheader,"SATURDAY, MAY 4"
-input,"['241', 'Y', 'Morning Rave', '2019-05-04 06:00:00', '2019-05-04 08:00:00', 'Mayhem', '', 'Come party in the AM! Get pumped up and dance your heart out, calm down with some yoga, and help yourself to some coffee and tea.', '', '', '', '', '0', '49', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '7961ed691c105ed77d0562b0aa27a3dd', '931341', '', '', '', '', '', '']"
+input,"['241', 'Y', 'Morning Rave', '2019-05-04 06:00:00', '2019-05-04 08:00:00', 'Mayhem', '', 'Come party in the AM! Get pumped up and dance your heart out, calm down with some yoga, and help yourself to some coffee and tea.', '', '', '', '', '0', '50', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '7961ed691c105ed77d0562b0aa27a3dd', '931341', '', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,
 avneeds,
@@ -4498,7 +4498,7 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '25', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley', '', '', '', '', '']"
+input,"['354', 'Y', 'Poetry with Pitch! A Penguicon Choral Workshop', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', ""Choral music, at its best, is poetry with pitch. Singing links the emotion of music with the power of words. In this interactive session, we will learn Vienna Teng's 'Hymn of Axciom,' a poignant tune about digital surveillance, in four-part harmony. Contrary to popular opinion, singing is a learned skill, not just an innate talent. Ashley will share tips and techniques to use your voice and make meaningful music, lessons learned from fifteen years in adult, auditioned choirs. Ability to read music is helpful but not necessary. Listeners are also welcome!"", '', '', '', '', '0', '26', '0', 'N', 'Portage Auditorium', '', '', '', '', '', '', '', '', '', '', '', '0bb0bab7a6d152be5e0b7505da296391', '931320', 'Ashley', '', '', '', '', '']"
 booklocation,Portage Auditorium
 calspeakers,Ashley
 avneeds,
@@ -4858,7 +4858,7 @@ starttimeampm,10 AM
 tracknosp,['Tech']
 event_type_list,['Tech']
 dayheader,"SATURDAY, MAY 4"
-input,"['318', 'Y', 'An Overview of Vim', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Tech', '', 'We will look at the Vim Text Editor, starting with the very basics and moving to some of the lesser known features of Vim. Bring your computer with Vim already installed if you want to work along with the speaker.', '', '', '', '', '0', '13', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', '778b034527ed9722c0bedfd9e2618e3b', '931398', 'Michael Rometty', '', '', '', '', '']"
+input,"['318', 'Y', 'An Overview of Vim', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Tech', '', 'We will look at the Vim Text Editor, starting with the very basics and moving to some of the lesser known features of Vim. Bring your computer with Vim already installed if you want to work along with the speaker.', '', '', '', '', '0', '14', '0', 'N', 'Computer Lab [Charlevoix C]', '', '', '', '', '', '', '', '', '', '', '', '778b034527ed9722c0bedfd9e2618e3b', '931398', 'Michael Rometty', '', '', '', '', '']"
 booklocation,Computer Lab [Charlevoix C]
 calspeakers,Michael Rometty
 avneeds,
@@ -5058,7 +5058,7 @@ starttimeampm,10 AM
 tracknosp,['Penguicon']
 event_type_list,['Penguicon']
 dayheader,"SATURDAY, MAY 4"
-input,"['280', 'Y', 'Coffee Ritual', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Penguicon', 'Food', ""Back by popular demand, the Pope of Coffee shall blesspresso The Holy Of Holies: the most theatrical brewing method ever devised. The acolytes will serve the Holy Liquid unto the congregation, who shall raise the sacrament to the east, and in unison, recite the litany 'God, I needed that!' Look for a blend of cafe'ths such as Press-byterian, Buzzentine, Sipiscopal, and even Atheismericano."", '', '', '', '', '0', '56', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'c4504e5185c9da043d429b784007f12d', '931329', 'Matt Arnold', '', '', '', '', '']"
+input,"['280', 'Y', 'Coffee Ritual', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Penguicon', 'Food', ""Back by popular demand, the Pope of Coffee shall blesspresso The Holy Of Holies: the most theatrical brewing method ever devised. The acolytes will serve the Holy Liquid unto the congregation, who shall raise the sacrament to the east, and in unison, recite the litany 'God, I needed that!' Look for a blend of cafe'ths such as Press-byterian, Buzzentine, Sipiscopal, and even Atheismericano."", '', '', '', '', '0', '57', '0', 'N', 'Nicolet', '', '', '', '', '', '', '', '', '', '', '', 'c4504e5185c9da043d429b784007f12d', '931329', 'Matt Arnold', '', '', '', '', '']"
 booklocation,Nicolet
 calspeakers,Matt Arnold
 avneeds,
@@ -5098,7 +5098,7 @@ starttimeampm,10 AM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['186', 'Y', 'Tux Blended Breathe and Stretch', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', 'A yoga class for Penguicon that mixes fiery vinyasa poses with more restorative yin postures.', '', '', '', '', '0', '24', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'cfcb90d3624021195e02d06584aabd24', '931341', 'William Bowen', '', '', '', '', '']"
+input,"['186', 'Y', 'Tux Blended Breathe and Stretch', '2019-05-04 10:00:00', '2019-05-04 11:00:00', 'Life', '', 'A yoga class for Penguicon that mixes fiery vinyasa poses with more restorative yin postures.', '', '', '', '', '0', '25', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', 'cfcb90d3624021195e02d06584aabd24', '931341', 'William Bowen', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,William Bowen
 avneeds,
@@ -5218,7 +5218,7 @@ starttimeampm,11 AM
 tracknosp,['Science']
 event_type_list,['Science']
 dayheader,"SATURDAY, MAY 4"
-input,"['289', 'Y', 'Quantum Crafts', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Science', '', 'Quantum physics and metaphysics both seek truth. Discover how these two pursuits have begun to reveal the truth of how our universe works and our place in it.', '', '', '', '', '0', '23', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '073405937014703bd7302e16491c2c6e', '931359', 'Stanley Nunn', '', '', '', '', '']"
+input,"['289', 'Y', 'Quantum Crafts', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Science', '', 'Quantum physics and metaphysics both seek truth. Discover how these two pursuits have begun to reveal the truth of how our universe works and our place in it.', '', '', '', '', '0', '24', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '073405937014703bd7302e16491c2c6e', '931359', 'Stanley Nunn', '', '', '', '', '']"
 booklocation,EMC IV
 calspeakers,Stanley Nunn
 avneeds,
@@ -5378,7 +5378,7 @@ starttimeampm,11 AM
 tracknosp,['Food']
 event_type_list,['Food']
 dayheader,"SATURDAY, MAY 4"
-input,"['86', 'Y', 'Camp Cookery and Magical Meals to Prevent Trailside Tragedy - Sign Up Errata', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Food', '', 'Come learn some tips and tricks for camp cookery. We will focus on backpacking meal planning and on trail prep. Discussion points will include types of backpacking stoves and cook kits, dehydration, DIY freeze drying, cold soak meals, and trail baking. Recipes will be available and possibly meal samples too! Space is limited, please sign up in advance near Ops!', '', '', '', '', '0', '38', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '33f7d41aa3e5eda24d38edf37a11d372', '931350', 'Alex Drummer, chloe  zrnich', '', '', '', '', '']"
+input,"['86', 'Y', 'Camp Cookery and Magical Meals to Prevent Trailside Tragedy - Sign Up Errata', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Food', '', 'Come learn some tips and tricks for camp cookery. We will focus on backpacking meal planning and on trail prep. Discussion points will include types of backpacking stoves and cook kits, dehydration, DIY freeze drying, cold soak meals, and trail baking. Recipes will be available and possibly meal samples too! Space is limited, please sign up in advance near Ops!', '', '', '', '', '0', '39', '0', 'N', 'Food [317]', '', '', '', '', '', '', '', '', '', '', '', '33f7d41aa3e5eda24d38edf37a11d372', '931350', 'Alex Drummer, chloe  zrnich', '', '', '', '', '']"
 booklocation,Food [317]
 calspeakers,"Alex Drummer, chloe  zrnich"
 avneeds,
@@ -5618,7 +5618,7 @@ starttimeampm,11 AM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '102', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
+input,"['67', 'Y', 'Lockpicking 101', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'DIY', '', 'Hands on with lock picks, just the basics, same as last year with a few new locks and things.', '', '', '', '', '0', '103', '0', 'N', 'EMC I', '', '', '', '', '', '', '', '', '', '', '', '85a8a29e39ace5776f967d423fd0146d', '931377', 'Joseph Rock', '', '', '', '', '']"
 booklocation,EMC I
 calspeakers,Joseph Rock
 avneeds,
@@ -5738,7 +5738,7 @@ starttimeampm,11 AM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"SATURDAY, MAY 4"
-input,"['153', 'Y', 'The GRAM Role-Playing Game: Introductory Demo', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Gaming', '', 'RPG; Join us for a demonstration of the GRAM role playing game led by one of the game designers.', '', '', '', '', '0', '5', '0', 'N', ""Gaming [TC's Room]"", '', '', '', '', '', '', '', '', '', '', '', 'acbdb3cbee69ff2672983159db866712', '931386', 'Warren Brown', '', '', '', '', '']"
+input,"['153', 'Y', 'The GRAM Role-Playing Game: Introductory Demo', '2019-05-04 11:00:00', '2019-05-04 12:00:00', 'Gaming', '', 'RPG; Join us for a demonstration of the GRAM role playing game led by one of the game designers.', '', '', '', '', '0', '6', '0', 'N', ""Gaming [TC's Room]"", '', '', '', '', '', '', '', '', '', '', '', 'acbdb3cbee69ff2672983159db866712', '931386', 'Warren Brown', '', '', '', '', '']"
 booklocation,Gaming [TC's Room]
 calspeakers,Warren Brown
 avneeds,
@@ -6418,7 +6418,7 @@ starttimeampm,12 PM
 tracknosp,['Gaming']
 event_type_list,['Gaming']
 dayheader,"SATURDAY, MAY 4"
-input,"['131', 'Y', ""I Didn't Plan For This"", '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Gaming', '', 'Eliminate the stress of planning your next D&D session by not doing it! Learn the basics of improvisation to help you bring those techniques to your gaming table. So the next time your players want to go shoe shopping in the middle of a story arc, you\xe2\x80\x99ll be ready!', '', '', '', '', '0', '20', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'a7df209d39630d48a0b24fad6345589b', '931326', 'Julie Miller', '', '', '', '', '']"
+input,"['131', 'Y', ""I Didn't Plan For This"", '2019-05-04 12:00:00', '2019-05-04 13:00:00', 'Gaming', '', 'Eliminate the stress of planning your next D&D session by not doing it! Learn the basics of improvisation to help you bring those techniques to your gaming table. So the next time your players want to go shoe shopping in the middle of a story arc, you\xe2\x80\x99ll be ready!', '', '', '', '', '0', '21', '0', 'N', 'Montcalm', '', '', '', '', '', '', '', '', '', '', '', 'a7df209d39630d48a0b24fad6345589b', '931326', 'Julie Miller', '', '', '', '', '']"
 booklocation,Montcalm
 calspeakers,Julie Miller
 avneeds,
@@ -7178,7 +7178,7 @@ starttimeampm,1 PM
 tracknosp,['DIY']
 event_type_list,['DIY']
 dayheader,"SATURDAY, MAY 4"
-input,"['66', 'Y', 'Bicycle Maintenance 101', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'DIY', '', 'An extensive look into complete bicycle repair. Basic to advanced repair will be demonstrated, from flat repair to complete tune-up. Disc brakes and wheel truing/straightening will be covered in this presentation. The mechanic presenting this demonstration has 20+ years of shop experience.', '', '', '', '', '0', '42', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'c75fe425c8d8c1bb020e3f01532f6a5c', '931356', 'Joseph Leal', '', '', '', '', '']"
+input,"['66', 'Y', 'Bicycle Maintenance 101', '2019-05-04 13:00:00', '2019-05-04 14:00:00', 'DIY', '', 'An extensive look into complete bicycle repair. Basic to advanced repair will be demonstrated, from flat repair to complete tune-up. Disc brakes and wheel truing/straightening will be covered in this presentation. The mechanic presenting this demonstration has 20+ years of shop experience.', '', '', '', '', '0', '43', '0', 'N', 'EMC III', '', '', '', '', '', '', '', '', '', '', '', 'c75fe425c8d8c1bb020e3f01532f6a5c', '931356', 'Joseph Leal', '', '', '', '', '']"
 booklocation,EMC III
 calspeakers,Joseph Leal
 avneeds,
@@ -7698,7 +7698,7 @@ starttimeampm,2 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SATURDAY, MAY 4"
-input,"['175', 'Y', 'Improv 101', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Life', '', 'This interactive panel will cover the basics of improv, and will give participants the opportunity to stretch their comedy muscles with some improv games! All experience levels are welcome, just come ready to play!', '', '', '', '', '0', '35', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '437f7aa43ad262977f0bdf43ae8b8e0e', '931341', 'Jessica Humiston-Aman, Ryan Aman', '', '', '', '', '']"
+input,"['175', 'Y', 'Improv 101', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Life', '', 'This interactive panel will cover the basics of improv, and will give participants the opportunity to stretch their comedy muscles with some improv games! All experience levels are welcome, just come ready to play!', '', '', '', '', '0', '36', '0', 'N', 'Algonquin A', '', '', '', '', '', '', '', '', '', '', '', '437f7aa43ad262977f0bdf43ae8b8e0e', '931341', 'Jessica Humiston-Aman, Ryan Aman', '', '', '', '', '']"
 booklocation,Algonquin A
 calspeakers,"Jessica Humiston-Aman, Ryan Aman"
 avneeds,
@@ -8018,7 +8018,7 @@ starttimeampm,2 PM
 tracknosp,['Media']
 event_type_list,['Media']
 dayheader,"SATURDAY, MAY 4"
-input,"['263', 'Y', 'Turning Your Hobby Into A Profession', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Media', '', 'Join Mikey Mason as he talks you through the process by which he made the leap from middle-management to full-time comedian to full time geek entertainer. Learn how you can apply his lessons learned to your own life and potentially use them to help make your hobby your profession, as well as some of the pitfalls you might encounter during such a transition (and hopefully, how to avoid them.)', '', '', '', '', '0', '34', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b680080f76f6f137e16f62d9405f24aa', '931344', 'Mikey Mason', '', '', '', '', '']"
+input,"['263', 'Y', 'Turning Your Hobby Into A Profession', '2019-05-04 14:00:00', '2019-05-04 15:00:00', 'Media', '', 'Join Mikey Mason as he talks you through the process by which he made the leap from middle-management to full-time comedian to full time geek entertainer. Learn how you can apply his lessons learned to your own life and potentially use them to help make your hobby your profession, as well as some of the pitfalls you might encounter during such a transition (and hopefully, how to avoid them.)', '', '', '', '', '0', '35', '0', 'N', 'Charlevoix B', '', '', '', '', '', '', '', '', '', '', '', 'b680080f76f6f137e16f62d9405f24aa', '931344', 'Mikey Mason', '', '', '', '', '']"
 booklocation,Charlevoix B
 calspeakers,Mikey Mason
 avneeds,
@@ -15338,7 +15338,7 @@ starttimeampm,1 PM
 tracknosp,['Life']
 event_type_list,['Life']
 dayheader,"SUNDAY, MAY 5"
-input,"['172', 'Y', 'Nearly Passive Philanthropy', '2019-05-05 13:00:00', '2019-05-05 14:00:00', 'Life', '', 'Join Count Discord as he discusses several ways that you can generate revenue for causes in a (nearly) passive way.', '', '', '', '', '0', '21', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '21748a7de113a4ffc65f209195b7d25b', '931359', 'James Gamble', '', '', '', '', '']"
+input,"['172', 'Y', 'Nearly Passive Philanthropy', '2019-05-05 13:00:00', '2019-05-05 14:00:00', 'Life', '', 'Join Count Discord as he discusses several ways that you can generate revenue for causes in a (nearly) passive way.', '', '', '', '', '0', '20', '0', 'N', 'EMC IV', '', '', '', '', '', '', '', '', '', '', '', '21748a7de113a4ffc65f209195b7d25b', '931359', 'James Gamble', '', '', '', '', '']"
 booklocation,EMC IV
 calspeakers,James Gamble
 avneeds,
