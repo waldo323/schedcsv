@@ -86,8 +86,8 @@ constart = "2019-05-03 12:00:00"
 calendar_header = """Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private\n"""
 schedule_header = """Start Date,Start Time,End Date,End Time,Duration,Location,Track,Title,Presenters,Book Description,All Day Event,Private,AV Needs\n"""
 schedule_csv_template = """%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(duration)s,"%(venue)s","%(event_type)s","%(name)s","%(speakers)s","%(csvsafedescrip)s",%(allday)s,%(private)s,"%(avneeds)s"\n"""
-calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
-speaker_calendar_template = """"%(name)s",%(startday)s,%(starttime)s,%(endday)s,%(endtime)s,%(allday)s,"%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s ","%(venue)s",%(private)s\n"""
+calendar_template = """"%(name)s","%(startday)s","%(starttime)s","%(endday)s","%(endtime)s","%(allday)s","%(caldescrip)s  Speakers include:%(calspeakers)s","%(venue)s",%(private)s\n"""
+speaker_calendar_template = """"%(name)s","%(startday)s","%(starttime)s","%(endday)s","%(endtime)s","%(allday)s","%(caldescrip)s  Speakers include:%(calspeakers)s - Track: %(event_type)s  - Duration: %(duration)s ","%(venue)s",%(private)s\n"""
 all_weekend_header = "ALL WEEKEND"
 
 daylist = [all_weekend_header, friday_header, saturday_header, sunday_header]
