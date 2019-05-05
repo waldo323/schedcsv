@@ -161,7 +161,7 @@ def ampmformat(hhmmss):
         print ampm
         ampm = ['16', '00']
     # is AM? from [00:00, 12:00]
-#  print "ampm " + ampm[0]
+    print "ampm " + ampm[0]
     hour = int(ampm[0]) % 24
     isam = (hour >= 0) and (hour < 12)
 
