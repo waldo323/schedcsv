@@ -12,6 +12,7 @@ git rm $CWD/output/schedbyroom/*
 git rm $CWD/output/schedsbyspeaker.zip
 #git rm ./output/calendars/*
 echo get schedule and run the parsing script on the schedule 
+# the argument to getsched.sh is the sched.com api key 
 $CWD/getsched.sh 5ea81a81d7732d9c00787a401fce3d3a
 $CWD/removeextratime.py
 cp 2019.penguicon.final.schedule.xml penguicon.schedule.xml
