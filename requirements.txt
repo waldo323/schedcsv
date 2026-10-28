@@ -17,7 +17,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 pkg-resources==0.0.0
 pyflakes==2.1.1
-pylint==1.9.4
+pylint==4.0.9
 requests==2.33.0
 singledispatch==3.4.0.3
 six==1.12.0
